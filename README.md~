@@ -1,6 +1,6 @@
 # This is the data for my personal website.
 
-It has been transformed by [Jekyll][] into a static site when I pushed this repository to GitHub.
+It is automatically transformed by [Jekyll][] into a static site whenever I push this repository to GitHub.
 
 # License
 

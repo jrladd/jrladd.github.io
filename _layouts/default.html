@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="site">
+          <div class="header">
+            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+	    <a class="extra" href="/about">about</a>
+            <a class="extra" href="/cv">cv</a>
+	    <a class="extra" href="/archive">archive</a>
+          </div>
+
+          {{ content }}
+
+          <div class="footer">
+            <div class="contact">
+              <p>
+                J.R. Ladd<br />
+                Still learning how to read.<br />
+                johnrobertladd[at]gmail
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+                <a href="https://zotero.org/johnrobertladd">zotero.org/johnrobertladd</a><br />
+                <a href="https://twitter.com/johnrobertladd">twitter.com/johnrobertladd</a><br />
+		All material on this site, unless indicated otherwise, Copyright J.R. Ladd 2013-.
+              </p>
+            </div>
+          </div>
+        </div>
+
+    </body>
+</html>
