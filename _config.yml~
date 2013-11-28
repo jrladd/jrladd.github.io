@@ -3,4 +3,4 @@ markdown: redcarpet
 pygments: true
 safe: true
 lsi: false
-source: /home/johnrobertladd/jrlcom/
+destination: ./_site
