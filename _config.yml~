@@ -3,3 +3,5 @@ markdown: redcarpet
 pygments: true
 safe: true
 lsi: false
+destination: ./_site
+source: your top-level directory
