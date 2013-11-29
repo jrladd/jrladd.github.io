@@ -12,6 +12,9 @@
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
 
+	<!-- Feed -->
+	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed/index.xml">
+
     </head>
     <body>
 
@@ -21,6 +24,7 @@
 	    <a class="extra" href="/about">about</a>
             <a class="extra" href="/cv">cv</a>
 	    <a class="extra" href="/archive">archive</a>
+	    <a class="extra" href="/feed">feed</a>
           </div>
 
           {{ content }}
