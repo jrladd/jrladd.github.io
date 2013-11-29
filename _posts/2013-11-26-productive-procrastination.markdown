@@ -12,6 +12,6 @@ I'm about to embark on a potentially stress-inducing year. In 2014 I will attemp
 I hope that the blog will be more than just research updates, so I'll try to include a smattering of other things from my life here in StL. And I'll always try to find a way to make my research interesting to a non-specialist. I realize there are no comments on the site (by design), but please say hello on [Twitter][twitter].
 
 [jekyll]:    http://jekyllrb.com
-[tumblr]: http://johnrobertladd.com
+[tumblr]: http://johnrobertladd.tumblr.com
 [about]: http://jrladd.com/about
 [twitter]: http://twitter.com/johnrobertladd
