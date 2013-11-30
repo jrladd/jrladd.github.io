@@ -4,7 +4,7 @@ title: J.R. Ladd
 ---
 
 <div id="home">
-  <p><i>I <a href="https://www.zotero.org/johnrobertladd">read</a>. I <a href="/archive">write</a>. I <a href="http://twitter.com/johnrobertladd">try not to worry so much</a>.</i></p>
+  <p>I <a href="https://www.zotero.org/johnrobertladd">read</a>. I <a href="/archive">write</a>. I <a href="http://twitter.com/johnrobertladd">try not to worry so much</a>.</p>
   <h1>Recent Posts</h1>
   <ul class="posts">
   {% for post in site.posts limit:5 %}
