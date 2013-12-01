@@ -1,6 +1,6 @@
 ---
 layout: default
-title: jr_ladd | About
+title: " About"
 ---
 
 ![It's me! Sort of.](/images/jrl_imadeface.jpg "Made this with iMadeFace for iPhone. Some days it works out that Katie has a different phone.")

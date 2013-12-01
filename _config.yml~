@@ -1,7 +1,8 @@
-name: J.R. Ladd
+name: jr_ladd
 markdown: redcarpet
 pygments: true
 safe: true
 lsi: false
 description: Still learning how to read.
 url: http://www.jrladd.com
+permalink: /:title

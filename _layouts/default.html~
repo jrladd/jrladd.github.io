@@ -15,12 +15,16 @@
 	<!-- Feed -->
 	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed/">
 
+	<!-- Droid serif webfont -->
+	<link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
     </head>
     <body>
 
         <div class="site">
           <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+            <h1 class="title"><a href="/">jr_ladd{{ page.title | downcase | prepend: ' ' | replace: ' ' , '_' | truncate: 20 }}</a></h1>
+	    <a class="extra" href="/">home</a>
 	    <a class="extra" href="/about">about</a>
             <a class="extra" href="/cv">cv</a>
 	    <a class="extra" href="/archive">archive</a>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Productive Procrastination"
+title:  " Productive Procrastination"
 date:   2013-11-26 22:55:17
 tags: reading list, grad school
 ---

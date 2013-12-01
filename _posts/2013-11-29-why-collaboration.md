@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Collaboration?"
+title: " Why Collaboration?"
 tags: collaboration, networks, latour
 ---
 

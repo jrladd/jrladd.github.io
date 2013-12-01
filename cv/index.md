@@ -1,6 +1,6 @@
 ---
 layout: default
-title: jr_ladd | CV
+title: " CV"
 ---
 
 # CV
