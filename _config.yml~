@@ -5,4 +5,4 @@ safe: true
 lsi: false
 description: Still learning how to read.
 url: http://www.jrladd.com
-permalink: /:title
+permalink: /:title.html

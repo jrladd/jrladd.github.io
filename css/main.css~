@@ -20,7 +20,6 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Droid Serif, serif;
   font-size: 100%; }
 
 h1 { margin-bottom: 1em; }
@@ -145,6 +144,11 @@ a:visited { color: #aaa;
   margin-left: 1.35em;
 }
 
+.post blockquote {
+  margin-left: 1.35em;
+  color: #aaa;
+  font-size: 80%;
+}
 .post code {
   border: 1px solid #ddd;
   background-color: #eef;

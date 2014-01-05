@@ -144,6 +144,11 @@ a:visited { color: #aaa;
   margin-left: 1.35em;
 }
 
+.post blockquote {
+  margin-left: 1.35em;
+  color: #aaa;
+  font-size: 90%;
+}
 .post code {
   border: 1px solid #ddd;
   background-color: #eef;
