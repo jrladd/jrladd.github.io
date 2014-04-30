@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " A Literature Student Learns to Code"
+title: " On Learning to Code"
 ---
 
 As part of a course in the digital humanities that I took last semester, I learned the basics of [Python][] and completed a project using the programming language to analyze metrical patterns in Shakespeare's sonnets. As the popularity of the digital humanities and literary informatics grows, my experience is becoming less and less unique. More people like me, who have a background in the humanities and thought they left math and science far behind, are trying their hands at coding for the first time.
