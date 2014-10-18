@@ -50,7 +50,8 @@ var vis = svg
 
 vis.append("svg:rect")
 .attr("width", width)
-.attr("height", height);
+.attr("height", height)
+.attr("fill", 'white');
 
 function redraw() {
 	vis.attr("transform",
@@ -73,13 +74,13 @@ d3.json("1639_1648.json", function(error, graph) {
 //		  .style("fill", "none")
 //		  .style("stroke-width", "1px");
 
-  var link = svg.selectAll(".link")
+  var link = vis.selectAll(".link")
       .data(graph.links)
     .enter().append("line")
       .attr("class", "link")
       .style("stroke-width", function(d) { return Math.sqrt(d.value); });
 
-  var node = svg.selectAll(".node")
+  var node = vis.selectAll(".node")
       .data(graph.nodes)
       .enter().append("circle")
       .attr("class", "node")
