@@ -36,7 +36,7 @@ var color = d3.scale.category20();
 
 var force = d3.layout.force()
     .charge(-120)
-    .linkDistance(150)
+    .linkDistance(70)
     .size([width, height]);
 
 var svg = d3.select("body").append("svg")
@@ -45,9 +45,16 @@ var svg = d3.select("body").append("svg")
 	.attr("pointer-events", "all")
 	.call(d3.behavior.zoom().on("zoom", redraw));
 
+var vis = svg
+.append("svg:g");
+
+vis.append("svg:rect")
+.attr("width", width)
+.attr("height", height)
+.attr("fill", 'white');
 
 function redraw() {
-	svg.attr("transform",
+	vis.attr("transform",
 	"translate(" + d3.event.translate + ")"
 	+ " scale(" + d3.event.scale + ")");
 	}
@@ -67,13 +74,13 @@ d3.json("1649_1660.json", function(error, graph) {
 //		  .style("fill", "none")
 //		  .style("stroke-width", "1px");
 
-  var link = svg.selectAll(".link")
+  var link = vis.selectAll(".link")
       .data(graph.links)
     .enter().append("line")
       .attr("class", "link")
       .style("stroke-width", function(d) { return Math.sqrt(d.value); });
 
-  var node = svg.selectAll(".node")
+  var node = vis.selectAll(".node")
       .data(graph.nodes)
       .enter().append("circle")
       .attr("class", "node")
