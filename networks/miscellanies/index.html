@@ -3,19 +3,6 @@ layout: default
 title: " Miscellanies"
 ---
 
-<style>
-
-.node {
-  stroke: #fff;
-  stroke-width: 1.5px;
-}
-
-.link {
-  stroke: #999;
-  stroke-opacity: .6;
-}
-
-</style>
 <h1>Miscellany Network</h1>
 <ul><li>Mouseover a node to see what the node represents</li>
 <li>Double-click or scroll (gently) to zoom</li>
@@ -25,6 +12,7 @@ title: " Miscellanies"
 <li>Blue = Post-Restoration Miscellanies</li>
 <li>Purple = Persons who contributed to Miscellanies honoring both regimes</li>
 </ul>
+<div>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
@@ -122,3 +110,4 @@ d3.json("miscellany_network.json", function(error, graph) {
 });
 
 </script>
+</div>
