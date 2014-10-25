@@ -33,14 +33,14 @@ d3.json("miscellany_network.json", function(error, graph) {
       .links(graph.links)
       .start();
 
-	var borderPath = svg.append("rect")
-		  .attr("x", 0)
-		  .attr("y", 0)
-		  .attr("height", height)
-		  .attr("width", width)
-		  .style("stroke", "#000000")
-		  .style("fill", "none")
-		  .style("stroke-width", "1px");
+//	var borderPath = svg.append("rect")
+//		  .attr("x", 0)
+//		  .attr("y", 0)
+//		  .attr("height", height)
+//		  .attr("width", width)
+//		  .style("stroke", "#000000")
+//		  .style("fill", "none")
+//		  .style("stroke-width", "1px");
 
   var link = vis.selectAll(".link")
       .data(graph.links)
