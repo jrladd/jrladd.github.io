@@ -31,6 +31,19 @@ a:hover   { color: #000;
 	    text-decoration: none;}
 a:visited { color: #aaa; 
 	    text-decoration: none;}
+	    
+.network {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
 
 /*****************************************************************************/
 /*
