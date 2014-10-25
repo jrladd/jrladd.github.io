@@ -16,7 +16,7 @@ title: " Miscellanies"
 <style>
 div.example {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-
+}
 .node {
   stroke: #fff;
   stroke-width: 1.5px;
