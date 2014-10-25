@@ -14,7 +14,7 @@ title: " Miscellanies"
 - Purple = Persons who contributed to Miscellanies honoring both regimes
 
 <style>
-div.example {
+div.network {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .node {
