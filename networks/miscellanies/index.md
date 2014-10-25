@@ -45,7 +45,7 @@ function redraw() {
 	+ " scale(" + d3.event.scale + ")");
 	}
 
-d3.json("miscellany_network.json", function(error, graph) {
+d3.json("/miscellany_network.json", function(error, graph) {
   force
       .nodes(graph.nodes)
       .links(graph.links)
