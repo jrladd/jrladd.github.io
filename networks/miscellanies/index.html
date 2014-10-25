@@ -2,7 +2,7 @@
 layout: default
 title: " Miscellanies"
 ---
-
+<div>
 <h1>Miscellany Network</h1>
 <ul><li>Mouseover a node to see what the node represents</li>
 <li>Double-click or scroll (gently) to zoom</li>
@@ -15,8 +15,8 @@ title: " Miscellanies"
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
-var width = 500,
-    height = 750;
+var width = 600,
+    height = 600;
 
 var color = d3.scale.category20();
 
@@ -109,3 +109,4 @@ d3.json("miscellany_network.json", function(error, graph) {
 });
 
 </script>
+</div>
