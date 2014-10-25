@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: " Miscellanies"
 ---
 
@@ -12,7 +12,7 @@ title: " Miscellanies"
 - Red = Pre-Restoration Miscellanies
 - Blue = Post-Restoration Miscellanies
 - Purple = Persons who contributed to Miscellanies honoring both regimes
-
+<div id="network"></div>
 <style>
 div.network {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -124,5 +124,3 @@ d3.json("/miscellany_network.json", function(error, graph) {
 });
 
 </script>
-
-<div id="network"></div>
