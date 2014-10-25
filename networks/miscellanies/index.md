@@ -110,3 +110,5 @@ d3.json("miscellany_network.json", function(error, graph) {
 });
 
 </script>
+
+<div id="network"></div>
