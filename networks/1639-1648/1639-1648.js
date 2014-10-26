@@ -1,45 +1,18 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
-
-<div id="home">
-<style>
-
-.node {
-  stroke: #fff;
-  stroke-width: 1.5px;
-}
-
-.link {
-  stroke: #999;
-  stroke-opacity: .6;
-}
-
-</style>
-<h1>1649-1660</h1>
-<ul><li>Mouseover a node to see what the node represents</li>
-<li>Double-click or scroll (gently) to zoom</li>
-<li>Red = persons</li>
-<li>Blue = texts</li>
-<li>When in doubt, refresh the page</li>
-</ul>
-<script src="../d3.v3.min.js"></script>
-<script>
-
 var width = 1200,
     height = 750;
 
 var color = d3.scale.category20();
 
 var size = d3.scale.linear()
-	  .domain([0,75])
+	  .domain([0,50])
       .range([5,25]);
-      
+
 var force = d3.layout.force()
     .charge(-120)
     .linkDistance(70)
     .size([width, height]);
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("div#network").append("svg")
     .attr("width", width)
     .attr("height", height)
 	.attr("pointer-events", "all")
@@ -54,7 +27,7 @@ function redraw() {
 	+ " scale(" + d3.event.scale + ")");
 	}
 
-d3.json("1649_1660.json", function(error, graph) {
+d3.json("1639_1648.json", function(error, graph) {
   force
       .nodes(graph.nodes)
       .links(graph.links)
@@ -75,6 +48,7 @@ d3.json("1649_1660.json", function(error, graph) {
       .attr("class", "link")
       .style("stroke-width", function(d) { return Math.sqrt(d.value); });
 
+      
   var node = vis.selectAll(".node")
       .data(graph.nodes)
       .enter().append("circle")
@@ -116,8 +90,3 @@ d3.json("1649_1660.json", function(error, graph) {
     
   });
 });
-
-</script>
-
-
-</div>
