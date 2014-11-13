@@ -10,6 +10,9 @@ title: " Dedications"
 - Blue = texts
 - When in doubt, refresh the page
 
-<div id='network'></div>
-<script src="../d3.v3.min.js"></script>
+<input type="text" id="search" placeholder='Search' onchange='javascript:handleOnChange();'/>
+<div id="network"></div>
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src='http://code.jquery.com/jquery-1.11.1.min.js'></script>
 <script src='1661-1670.js'></script>

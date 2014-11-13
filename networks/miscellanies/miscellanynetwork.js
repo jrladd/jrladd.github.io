@@ -26,6 +26,7 @@ function redraw() {
 	"translate(" + d3.event.translate + ")"
 	+ " scale(" + d3.event.scale + ")");
 	}
+	
 
 d3.json("miscellany_network.json", function(error, graph) {
   force
@@ -90,3 +91,41 @@ d3.json("miscellany_network.json", function(error, graph) {
     
   });
 });
+
+function handleOnChange() {
+    
+    var searchTerm = $('#search').val();
+    
+    console.log('handleOnChange', searchTerm);
+    
+    var searchRegEx = new RegExp(searchTerm.toLowerCase());
+    
+    $('circle').each(
+        function() {
+            
+            var titleNode = $(this).children()[0];
+            var title = $(titleNode).text();
+            
+            //console.log(title);
+            
+            var match = title.toLowerCase().search(searchRegEx);
+            
+            if (searchTerm.length > 0) {
+                
+                if (match >= 0) {
+                
+                    //console.log('MATCHED!',  searchTerm, title);  
+                    
+                    $(this).attr('oldStyle', $(this).attr('style'));
+                    $(this).attr('style', 'fill: #F38630; stroke-width: 2.0; stroke: #555');
+                }
+                else {
+                    $(this).attr('style', $(this).attr('oldStyle'));
+                }
+            }
+            else {
+                $(this).attr('style', $(this).attr('oldStyle'));
+            }
+        }
+    );
+}    
