@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div id="home">
+  <p>I <a href="https://www.zotero.org/johnrobertladd">read</a>. I <a href="/archive">write</a>. I <a href="http://twitter.com/jrlstl">try not to worry so much</a>.</p>
+  <h1>Recent Posts</h1>
+  <ul class="posts">
+  {% for post in site.posts limit:5 %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.excerpt }} <a href="{{ post.url }}">Read more...</a></p>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
