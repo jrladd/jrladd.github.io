@@ -1,7 +1,3 @@
---- 
-layout: default 
----
-
 [Digital Projects][projects]
 [CV][]
 [Twitter][]
