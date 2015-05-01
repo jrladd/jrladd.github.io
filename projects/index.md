@@ -7,7 +7,7 @@ title: " Projects"
 #
 * [Endless Monument][bot], a Twitter bot for Spenser's Epithalamion
 	[more information here][tumblr]
-
+#
 # Current
 #
 * Detecting meter in early modern verse (coming soon)
