@@ -5,7 +5,7 @@ title: " Projects"
 
 # Past
 #
-* [Endless Monument][bot], a Twitter bot for Spenser's Epithalamion  
+* [Endless Monument][bot], a Twitter bot for Spenser's Epithalamion
 	[more information here][tumblr]
 
 # Current
