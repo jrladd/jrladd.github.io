@@ -3,14 +3,15 @@ layout: default
 title: " Projects"
 ---
 
-# Past
-#
+# Past  
+
 * [Endless Monument][bot], a Twitter bot for Spenser's Epithalamion  
 	([more information here][tumblr])  
+	
 ***   
 
-# Current
-#
+# Current  
+
 * Detecting meter in early modern verse (coming soon)
 * Dedication networks in EEBO-TCP texts (coming soon)
 
