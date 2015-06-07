@@ -4,9 +4,9 @@ var width = 1200,
 var color = d3.scale.category20();
 
 var size = d3.scale.linear()
-	  .domain([0,75])
+	  .domain([0,50])
       .range([5,25]);
-      
+
 var force = d3.layout.force()
     .charge(-120)
     .linkDistance(70)
@@ -27,7 +27,7 @@ function redraw() {
 	+ " scale(" + d3.event.scale + ")");
 	}
 
-d3.json("1649_1660.json", function(error, graph) {
+d3.json("1639_1648.json", function(error, graph) {
   force
       .nodes(graph.nodes)
       .links(graph.links)
@@ -48,6 +48,7 @@ d3.json("1649_1660.json", function(error, graph) {
       .attr("class", "link")
       .style("stroke-width", function(d) { return Math.sqrt(d.value); });
 
+      
   var node = vis.selectAll(".node")
       .data(graph.nodes)
       .enter().append("circle")
@@ -115,15 +116,21 @@ function handleOnChange() {
                     //console.log('MATCHED!',  searchTerm, title);  
                     
                     $(this).attr('oldStyle', $(this).attr('style'));
-                    $(this).attr('style', 'fill: #F38630; stroke-width: 2.0; stroke: #555');
+                    $(this).attr('older', $(this).attr('r'));
+                    $(this).attr('style', 'fill: #551A8B; stroke-width: 2.0; stroke: #555');
+					$(this).attr('r', 25);
                 }
                 else {
                     $(this).attr('style', $(this).attr('oldStyle'));
+                    $(this).attr('r', $(this).attr('older'));
                 }
             }
             else {
                 $(this).attr('style', $(this).attr('oldStyle'));
+                $(this).attr('r', $(this).attr('older'));
             }
         }
     );
 }    
+
+

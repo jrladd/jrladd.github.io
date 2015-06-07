@@ -117,7 +117,7 @@ function handleOnChange() {
                     
                     $(this).attr('oldStyle', $(this).attr('style'));
                     $(this).attr('older', $(this).attr('r'));
-                    $(this).attr('style', 'fill: #F38630; stroke-width: 2.0; stroke: #555');
+                    $(this).attr('style', 'fill: #551A8B; stroke-width: 2.0; stroke: #555');
 					$(this).attr('r', 25);
                 }
                 else {
