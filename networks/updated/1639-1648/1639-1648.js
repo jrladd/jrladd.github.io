@@ -104,7 +104,7 @@ $(function () {
 function searchNode() {
     //find the node
     var selectedVal = document.getElementById('search').value;
-    var node = svg.selectAll(".node");
+    var node = vis.selectAll(".node");
     if (selectedVal == "none") {
         node.style("stroke", "white").style("stroke-width", "1");
     } else {
@@ -112,7 +112,7 @@ function searchNode() {
             return d.name != selectedVal;
         });
         selected.style("opacity", "0");
-        var link = svg.selectAll(".link")
+        var link = vis.selectAll(".link")
         link.style("opacity", "0");
         d3.selectAll(".node, .link").transition()
             .duration(5000)
