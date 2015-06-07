@@ -57,7 +57,7 @@ d3.json("1649_1660.json", function(error, graph) {
 //      .attr("r", 5)
       .style("fill", function(d) { if (d.group==1) {return "red"; } else {return "blue"; };})
       .call(force.drag);
-	  .on('dblclick', connectedNodes);
+	  .on("dblclick", connectedNodes);
 
   node.append("title")
       .text(function(d) { return d.name; });
@@ -132,7 +132,7 @@ function handleOnChange() {
             }
         }
     );
-};
+}
 
 //Toggle stores whether the highlighting is on
 var toggle = 0;
@@ -147,7 +147,7 @@ graph.links.forEach(function (d) {
 //This function looks up whether a pair are neighbours
 function neighboring(a, b) {
     return linkedByIndex[a.index + "," + b.index];
-};
+}
 function connectedNodes() {
     if (toggle == 0) {
         //Reduce the opacity of all but the neighbouring nodes
