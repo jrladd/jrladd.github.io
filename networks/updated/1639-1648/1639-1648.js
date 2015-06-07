@@ -89,44 +89,33 @@ d3.json("1639_1648.json", function(error, graph) {
         .attr("cy", function(d) { return d.y; });
     
   });
+}); 
+
+var optArray = [];
+for (var i = 0; i < graph.nodes.length - 1; i++) {
+    optArray.push(graph.nodes[i].name);
+}
+optArray = optArray.sort();
+$(function () {
+    $("#search").autocomplete({
+        source: optArray
+    });
 });
-
-function handleOnChange() {
-    
-    var searchTerm = $('#search').val();
-    
-    console.log('handleOnChange', searchTerm);
-    
-    var searchRegEx = new RegExp(searchTerm.toLowerCase());
-    
-    $('circle').each(
-        function() {
-            
-            var titleNode = $(this).children()[0];
-            var title = $(titleNode).text();
-            
-            //console.log(title);
-            
-            var match = title.toLowerCase().search(searchRegEx);
-            
-            if (searchTerm.length > 0) {
-                
-                if (match >= 0) {
-                
-                    //console.log('MATCHED!',  searchTerm, title);  
-                    
-                    $(this).attr('oldStyle', $(this).attr('style'));
-                    $(this).attr('style', 'fill: #F38630; stroke-width: 2.0; stroke: #555');
-                }
-                else {
-                    $(this).attr('style', $(this).attr('oldStyle'));
-                }
-            }
-            else {
-                $(this).attr('style', $(this).attr('oldStyle'));
-            }
-        }
-    );
-}    
-
-
+function searchNode() {
+    //find the node
+    var selectedVal = document.getElementById('search').value;
+    var node = svg.selectAll(".node");
+    if (selectedVal == "none") {
+        node.style("stroke", "white").style("stroke-width", "1");
+    } else {
+        var selected = node.filter(function (d, i) {
+            return d.name != selectedVal;
+        });
+        selected.style("opacity", "0");
+        var link = svg.selectAll(".link")
+        link.style("opacity", "0");
+        d3.selectAll(".node, .link").transition()
+            .duration(5000)
+            .style("opacity", 1);
+    }
+}

@@ -10,9 +10,13 @@ title: " Dedications"
 - Blue = texts
 - When in doubt, refresh the page
 
-<input type="text" id="search" placeholder='Search' onchange='javascript:handleOnChange();'/>
+<div class="ui-widget">
+   <input id="search">
+    <button type="button" onclick="searchNode()">Search</button>
+</div>
 <div id="network"></div>
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
-<script src='http://code.jquery.com/jquery-1.11.1.min.js'></script>
+<script type='text/javascript' src="http://code.jquery.com/ui/1.11.0/jquery-ui.min.js"> </script>
+<script type='text/javascript' src="http://code.jquery.com/ui/1.11.0/themes/smoothness/jquery-ui.css"> </script>
 <script src='1639-1648.js'></script>
