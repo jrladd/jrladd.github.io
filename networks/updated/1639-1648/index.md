@@ -11,10 +11,11 @@ title: " Dedications"
 - When in doubt, refresh the page
 
 
-<div id="network"><div class="ui-widget">
+<div id="network"></div>
+<div class="ui-widget">
    <input id="search">
     <button type="button" onclick="searchNode()">Search</button>
-</div></div>
+</div>
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script type='text/javascript' src="http://code.jquery.com/ui/1.11.0/jquery-ui.min.js"> </script>
