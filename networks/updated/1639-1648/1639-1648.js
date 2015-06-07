@@ -128,7 +128,7 @@ function handleOnChange() {
             }
         }
     );
-}    
+};    
 
 //Toggle stores whether the highlighting is on
 var toggle = 0;
