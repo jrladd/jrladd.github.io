@@ -132,7 +132,7 @@ function handleOnChange() {
             }
         }
     );
-}
+};
 
 //Toggle stores whether the highlighting is on
 var toggle = 0;
@@ -147,7 +147,7 @@ graph.links.forEach(function (d) {
 //This function looks up whether a pair are neighbours
 function neighboring(a, b) {
     return linkedByIndex[a.index + "," + b.index];
-}
+};
 function connectedNodes() {
     if (toggle == 0) {
         //Reduce the opacity of all but the neighbouring nodes
