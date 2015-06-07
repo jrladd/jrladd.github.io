@@ -127,6 +127,7 @@ function handleOnChange() {
             }
             else {
                 $(this).attr('style', $(this).attr('oldStyle'));
+                $(this).attr('r', $(this).attr('older'));
             }
         }
     );
