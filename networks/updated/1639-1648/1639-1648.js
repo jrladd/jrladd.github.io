@@ -59,8 +59,15 @@ d3.json("1639_1648.json", function(error, graph) {
       .style("fill", function(d) { if (d.group==1) {return "red"; } else {return "blue"; };})
       .call(force.drag);
 
+  var linkedByIndex = {};
+  links.forEach(function(d) {
+    linkedByIndex[d.source.index + "," + d.target.index] = 1;
+    });
+    
   node.append("title")
       .text(function(d) { return d.name; });
+      
+  
 
        // http://stackoverflow.com/a/19125306
 		  // On node hover, examine the links to see if their
@@ -68,6 +75,9 @@ d3.json("1639_1648.json", function(error, graph) {
 		  node.on('mouseover', function(d) {
 //		    node.style('opacity', function (o) {
 //		      return 0.1;
+            node.style("opacity", function(o) {
+              return neighboring(d, o) ? 1 : 0.1;
+                });
 		    link.style('opacity', function(l) {
 		      if (d === l.source || d === l.target)
 		        return 1;
@@ -78,6 +88,7 @@ d3.json("1639_1648.json", function(error, graph) {
 
 		  // Set the stroke width back to normal when mouse leaves the node.
 		  node.on('mouseout', function() {
+		    node.style('opacity', 1)
 		    link.style('opacity', 1);
 		  });
 
@@ -136,6 +147,8 @@ function handleOnChange() {
     );
 }
 
-    
+function neighboring(a, b) {
+  return linkedByIndex[a.index + "," + b.index];
+}
 
 
