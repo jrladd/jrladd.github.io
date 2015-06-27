@@ -46,6 +46,7 @@ d3.json("1639_1648.json", function(error, graph) {
       .data(graph.links)
     .enter().append("line")
       .attr("class", "link")
+      .style('stroke', 'black')
       .style("stroke-width", function(d) { return Math.sqrt(d.value); });
 
       
@@ -65,13 +66,13 @@ d3.json("1639_1648.json", function(error, graph) {
 		  // On node hover, examine the links to see if their
 		  // source or target properties match the hovered node.
 		  node.on('mouseover', function(d) {
-		    node.style('opacity', function (o) {
-		      return neighboring(d, o) | neighboring (o, d) ? 1 : 0.1;
-//		    link.style('stroke', function(l) {
-//		      if (d === l.source || d === l.target)
-//		        return "#0000FF";
-//		      else
-//		        return "#fff";
+//		    node.style('opacity', function (o) {
+//		      return 0.1;
+		    link.style('opacity', function(l) {
+		      if (d === l.source || d === l.target)
+		        return 1;
+		      else
+		        return 0.1;
 		      });
 		  });
 
