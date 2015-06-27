@@ -57,7 +57,7 @@ d3.json("1639_1648.json", function(error, graph) {
 //      .attr("r", 5)
       .style("fill", function(d) { if (d.group==1) {return "red"; } else {return "blue"; };})
       .call(force.drag)
-      .on('dblclick', connectedNodes); //Added code
+      .on("tick", connectedNodes); //Added code
 
   node.append("title")
       .text(function(d) { return d.name; });
