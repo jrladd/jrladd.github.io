@@ -54,7 +54,7 @@ d3.json("1639_1648.json", function(error, graph) {
       .data(graph.nodes)
       .enter().append("circle")
       .attr("class", "node")
-      .attr("r", size(d.weight))
+      .attr("r", function(d) {return size(d.weight);})
 //      .attr("r", function(d){ if (d.group==1) {return size(d.weight);} else {return 5;};})
 //      .attr("r", 5)
       .style("fill", function(d) { if (d.group==1) {return "red"; } else {return "blue"; };})
