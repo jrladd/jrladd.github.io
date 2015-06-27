@@ -16,7 +16,7 @@ var svg = d3.select("div#network").append("svg")
     .attr("width", width)
     .attr("height", height)
 	.attr("pointer-events", "all")
-	.call(d3.behavior.zoom().on("dblclick.zoom", null);
+	.call(d3.behavior.zoom().on("dblclick.zoom", null)
 	.call(d3.behavior.zoom().on("scroll.zoom", redraw));
 
 var vis = svg
