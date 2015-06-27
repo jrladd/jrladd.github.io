@@ -66,11 +66,17 @@ d3.json("1639_1648.json", function(error, graph) {
 		  // On node hover, examine the links to see if their
 		  // source or target properties match the hovered node.
 		  node.on('mouseover', function(d) {
-		    link.style('stroke', function(l) {
-		      if (d === l.source || d === l.target)
-		        return "#0000FF";
-		      else
-		        return "#ededed";
+//		    link.style('stroke', function(l) {
+//		      if (d === l.source || d === l.target)
+//		        return "#0000FF";
+//		      else
+//		        return "#d3d3d3";
+            node.style("opacity", function (o) {
+                return neighboring(d, o) | neighboring(o, d) ? 1 : 0.1;
+        });
+        link.style("opacity", function (o) {
+            return d.index==o.source.index | d.index==o.target.index ? 1 : 0.1;
+        });
 		      });
 		  });
 
