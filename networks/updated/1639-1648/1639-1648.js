@@ -44,8 +44,9 @@ d3.json("1639_1648.json", function(error, graph) {
 
   var link = vis.selectAll(".link")
       .data(graph.links)
-    .enter().append("line")
+      .enter().append("line")
       .attr("class", "link")
+      .style('stroke', '#000')
       .style("stroke-width", function(d) { return Math.sqrt(d.value); });
 
       
@@ -69,13 +70,13 @@ d3.json("1639_1648.json", function(error, graph) {
 		      if (d === l.source || d === l.target)
 		        return "#0000FF";
 		      else
-		        return "#fff";
+		        return "#999";
 		      });
 		  });
 
 		  // Set the stroke width back to normal when mouse leaves the node.
 		  node.on('mouseout', function() {
-		    link.style('stroke', "#999");
+		    link.style('stroke', "#000");
 		  });
 
   
