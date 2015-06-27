@@ -65,23 +65,23 @@ d3.json("1639_1648.json", function(error, graph) {
        // http://stackoverflow.com/a/19125306
 		  // On node hover, examine the links to see if their
 		  // source or target properties match the hovered node.
-		  node.on('mouseover', function(d) {
+		  node.on('mouseover', function() {
+		    d=d3.select(this).node().__data__;
+		    node.style('opacity', function (o) {
+		      return neighboring(d, o) | neighboring (o, d) ? 1 : 0.1;
+		    });
 //		    link.style('stroke', function(l) {
 //		      if (d === l.source || d === l.target)
 //		        return "#0000FF";
 //		      else
 //		        return "#d3d3d3";
-            node.style("opacity", function (o) {
-                return neighboring(d, o) | neighboring(o, d) ? 1 : 0.1;
-        });
-        link.style("opacity", function (o) {
-            return d.index==o.source.index | d.index==o.target.index ? 1 : 0.1;
-        });
+             
 		      });
 		  });
 
 		  // Set the stroke width back to normal when mouse leaves the node.
 		  node.on('mouseout', function() {
+		    node.style('opacity', 1);
 		    link.style('stroke', "#000");
 		  });
 
