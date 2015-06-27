@@ -21,11 +21,11 @@ var svg = d3.select("div#network").append("svg")
 var vis = svg
 .append("svg:g");
 
-function redraw() {
-	vis.attr("transform",
-	"translate(" + d3.event.translate + ")"
-	+ " scale(" + d3.event.scale + ")");
-	}
+//function redraw() {
+//	vis.attr("transform",
+//	"translate(" + d3.event.translate + ")"
+//	+ " scale(" + d3.event.scale + ")");
+//	}
 
 d3.json("1639_1648.json", function(error, graph) {
   force
