@@ -80,7 +80,7 @@ d3.json("1639_1648.json", function(error, graph) {
               else
                 return 0.1;
 //              return neighboring(d, o) | neighboring(o, d) ? 1 : 0.1;
-//                });
+                });
 		    link.style('opacity', function(l) {
 		      if (d === l.source || d === l.target)
 		        return 1;
