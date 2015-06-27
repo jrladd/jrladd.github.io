@@ -70,10 +70,10 @@ d3.json("1639_1648.json", function(error, graph) {
 		  // On node hover, examine the links to see if their
 		  // source or target properties match the hovered node.
 
-		  node.on('mouseover', function(d) {
+		  node.on('mouseover', function() {
 //		    node.style('opacity', function (o) {
 //		      return 0.1;
-            d = d3.select(d).node().__data__;
+            d = d3.select(this).node().__data__;
             node.style("opacity", function(o) {
               return neighboring(d, o) | neighboring(o, d) ? 1 : 0.1;
                 });
