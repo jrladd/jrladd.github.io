@@ -71,15 +71,9 @@ d3.json("1639_1648.json", function(error, graph) {
 		  // source or target properties match the hovered node.
 
 		  node.on('mouseover', function(d) {
-//		    node.style('opacity', function (o) {
-//		      return 0.1;
 //            d = d3.select(this).node().__data__;
             node.style("opacity", function(o) {
-              if (d === o.source || d === o.target)
-                return 1;
-              else
-                return 0.1;
-//              return neighboring(d, o) | neighboring(o, d) ? 1 : 0.1;
+              return neighboring(d, o) | neighboring(o, d) ? 1 : 0.1;
                 });
 		    link.style('opacity', function(l) {
 		      if (d === l.source || d === l.target)
