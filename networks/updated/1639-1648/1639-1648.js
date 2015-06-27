@@ -70,22 +70,14 @@ d3.json("1639_1648.json", function(error, graph) {
 		  // On node hover, examine the links to see if their
 		  // source or target properties match the hovered node.
 
-		  node.on('mouseover', function() {
-            d = d3.select(this).node().__data__;
-            node.style("opacity", function(o) {
-              return neighboring(d, o) | neighboring(o, d) ? 1 : 0.1;
-                });
+		  node.on('mouseover', function(d) {
 		    link.style('opacity', function(l) {
 		      return d === l.source | d === l.target ? 1 : 0.1;
-//		        return 1;
-//		      else
-//		        return 0.1;
 		      });
 		  });
 
 		  // Set the stroke width back to normal when mouse leaves the node.
 		  node.on('mouseout', function() {
-		    node.style('opacity', 1)
 		    link.style('opacity', 1);
 		  });
 
@@ -143,17 +135,4 @@ function handleOnChange() {
         }
     );
 }
-
-var linkedByIndex = {};
-for (i = 0; i < graph.nodes.length; i++) {
-    linkedByIndex[i + "," + i] = 1;
-};
-graph.links.forEach(function (d) {
-    linkedByIndex[d.source.index + "," + d.target.index] = 1;
-});
-//This function looks up whether a pair are neighbours
-function neighboring(a, b) {
-    return linkedByIndex[a.index + "," + b.index];
-}
-
 
