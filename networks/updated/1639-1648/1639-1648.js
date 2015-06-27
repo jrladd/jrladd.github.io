@@ -71,18 +71,15 @@ d3.json("1639_1648.json", function(error, graph) {
 		  // source or target properties match the hovered node.
 
 		  node.on('mouseover', function() {
-		  if toggle == 0 {
             d = d3.select(this).node().__data__;
             node.style("opacity", function(o) {
               return neighboring(d, o) | neighboring(o, d) ? 1 : 0.1;
                 });
 		    link.style('opacity', function(l) {
 		      return d === l.source | d === l.target ? 1 : 0.1;
-		    }); else {
-		    node.style('opacity', 1);
-		    link.style('opacity', 1);
-		    toggle = 0;
-
+//		        return 1;
+//		      else
+//		        return 0.1;
 		      });
 		  });
 
@@ -147,7 +144,6 @@ function handleOnChange() {
     );
 }
 
-var toggle = 0;
 var linkedByIndex = {};
 for (i = 0; i < graph.nodes.length; i++) {
     linkedByIndex[i + "," + i] = 1;
