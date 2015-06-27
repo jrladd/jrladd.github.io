@@ -59,10 +59,7 @@ d3.json("1639_1648.json", function(error, graph) {
       .style("fill", function(d) { if (d.group==1) {return "red"; } else {return "blue"; };})
       .call(force.drag);
 
-  var linkedByIndex = {};
-  links.forEach(function(d) {
-    linkedByIndex[d.source.index + "," + d.target.index] = 1;
-    });
+
     
   node.append("title")
       .text(function(d) { return d.name; });
@@ -147,8 +144,15 @@ function handleOnChange() {
     );
 }
 
+var linkedByIndex = {};
+for (i = 0; i < graph.nodes.length; i++) {
+    linkedByIndex[i + "," + i] = 1;
+};
+graph.links.forEach(function (d) {
+    linkedByIndex[d.source.index + "," + d.target.index] = 1;
+});
+//This function looks up whether a pair are neighbours
 function neighboring(a, b) {
-  return linkedByIndex[a.index + "," + b.index];
-}
+    return linkedByIndex[a.index + "," + b.index];
 
 
