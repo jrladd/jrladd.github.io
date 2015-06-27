@@ -73,7 +73,7 @@ d3.json("1639_1648.json", function(error, graph) {
 		  node.on('mouseover', function(d) {
 //		    node.style('opacity', function (o) {
 //		      return 0.1;
-            d = d3.select(this).node().__data__;
+            d = d3.select(d).node().__data__;
             node.style("opacity", function(o) {
               return neighboring(d, o) | neighboring(o, d) ? 1 : 0.1;
                 });
