@@ -81,6 +81,7 @@ d3.json("1639_1648.json", function(error, graph) {
 
 		  // Set the stroke width back to normal when mouse leaves the node.
 		  node.on('mouseout', function() {
+		    node.style('opacity', 1)
 		    link.style('opacity', 1);
 		  });
 
