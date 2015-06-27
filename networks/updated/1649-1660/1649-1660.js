@@ -46,6 +46,7 @@ d3.json("1649_1660.json", function(error, graph) {
       .data(graph.links)
     .enter().append("line")
       .attr("class", "link")
+      .style('stroke', 'black')
       .style("stroke-width", function(d) { return Math.sqrt(d.value); });
 
       
@@ -58,24 +59,30 @@ d3.json("1649_1660.json", function(error, graph) {
       .style("fill", function(d) { if (d.group==1) {return "red"; } else {return "blue"; };})
       .call(force.drag);
 
+
+    
   node.append("title")
       .text(function(d) { return d.name; });
       
+  
+
        // http://stackoverflow.com/a/19125306
 		  // On node hover, examine the links to see if their
 		  // source or target properties match the hovered node.
+
 		  node.on('mouseover', function(d) {
-		    link.style('stroke', function(l) {
-		      if (d === l.source || d === l.target)
-		        return "#0000FF";
-		      else
-		        return "#fff";
+		    node.style('opacity', function(o) {
+		      return d === o ? 1 : 0.1;
+		      }); 
+		    link.style('opacity', function(l) {
+		      return d === l.source | d === l.target ? 1 : 0.2;
 		      });
 		  });
 
 		  // Set the stroke width back to normal when mouse leaves the node.
 		  node.on('mouseout', function() {
-		    link.style('stroke', "#999");
+		    node.style('opacity', 1)
+		    link.style('opacity', 1);
 		  });
 
   
@@ -133,6 +140,5 @@ function handleOnChange() {
     );
 }
 
-    
 
 
