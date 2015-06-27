@@ -60,12 +60,11 @@ d3.json("1639_1648.json", function(error, graph) {
 
   node.append("title")
       .text(function(d) { return d.name; });
-      
+
        // http://stackoverflow.com/a/19125306
 		  // On node hover, examine the links to see if their
 		  // source or target properties match the hovered node.
-		  node.on('mouseover', function() {
-		    d=d3.select(this).node().__data__;
+		  node.on('mouseover', function(d) {
 		    node.style('opacity', function (o) {
 		      return neighboring(d, o) | neighboring (o, d) ? 1 : 0.1;
 //		    link.style('stroke', function(l) {
