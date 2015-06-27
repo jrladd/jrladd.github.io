@@ -73,13 +73,13 @@ d3.json("1639_1648.json", function(error, graph) {
 		  node.on('mouseover', function(d) {
 //            d = d3.select(this).node().__data__;
             node.style("opacity", function(o) {
-              return neighboring(d, o) : 0.1;
+              return neighboring(d, o) | neighboring(o, d) ? 1 : 0.1;
                 });
 		    link.style('opacity', function(l) {
-		      if (d === l.source || d === l.target)
-		        return 1;
-		      else
-		        return 0.1;
+		      return d === l.source | d === l.target ? 1 : 0.1;
+//		        return 1;
+//		      else
+//		        return 0.1;
 		      });
 		  });
 
