@@ -89,8 +89,8 @@ d3.json("1639_1648.json", function(error, graph) {
 //    node.attr("cx", function(d) { return d.x; })
 //        .attr("cy", function(d) { return d.y; });
     
-//  });
-//});
+  });
+});
 
 function handleOnChange() {
     
