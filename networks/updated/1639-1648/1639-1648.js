@@ -72,7 +72,7 @@ d3.json("1639_1648.json", function(error, graph) {
 
 		  node.on('mouseover', function(d) {
 		    link.style('opacity', function(l) {
-		      return d === l.source | d === l.target ? 1 : 0.5;
+		      return d === l.source | d === l.target ? 1 : 0.2;
 		      });
 		  });
 
