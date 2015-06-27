@@ -70,7 +70,7 @@ d3.json("1639_1648.json", function(error, graph) {
 		      if (d === l.source || d === l.target)
 		        return "#0000FF";
 		      else
-		        return "#999";
+		        return "#ededed";
 		      });
 		  });
 
