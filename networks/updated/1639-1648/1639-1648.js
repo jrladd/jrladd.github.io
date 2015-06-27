@@ -74,8 +74,8 @@ d3.json("1639_1648.json", function(error, graph) {
 //		    node.style('opacity', function (o) {
 //		      return 0.1;
 //            d = d3.select(this).node().__data__;
-            node.style("opacity", function() {
-              if (d === d.source || d === d.target)
+            node.style("opacity", function(o) {
+              if (d === o.source || d === o.target)
                 return 1;
               else
                 return 0.1;
