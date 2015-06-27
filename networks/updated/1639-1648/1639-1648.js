@@ -16,16 +16,16 @@ var svg = d3.select("div#network").append("svg")
     .attr("width", width)
     .attr("height", height)
 	.attr("pointer-events", "all")
-//	.call(d3.behavior.zoom().on("zoom", redraw));
+	.call(d3.behavior.zoom().on("zoom", redraw));
 
 var vis = svg
 .append("svg:g");
 
-//function redraw() {
-//	vis.attr("transform",
-//	"translate(" + d3.event.translate + ")"
-//	+ " scale(" + d3.event.scale + ")");
-//	}
+function redraw() {
+	vis.attr("transform",
+	"translate(" + d3.event.translate + ")"
+	+ " scale(" + d3.event.scale + ")");
+	}
 
 d3.json("1639_1648.json", function(error, graph) {
   force
@@ -33,14 +33,14 @@ d3.json("1639_1648.json", function(error, graph) {
       .links(graph.links)
       .start();
 
-//	var borderPath = svg.append("rect")
-//		  .attr("x", 0)
-//		  .attr("y", 0)
-//		  .attr("height", height)
-//		  .attr("width", width)
-//		  .style("stroke", "#000000")
-//		  .style("fill", "none")
-//		  .style("stroke-width", "1px");
+	var borderPath = svg.append("rect")
+		  .attr("x", 0)
+		  .attr("y", 0)
+		  .attr("height", height)
+		  .attr("width", width)
+		  .style("stroke", "#000000")
+		  .style("fill", "none")
+		  .style("stroke-width", "1px");
 
   var link = vis.selectAll(".link")
       .data(graph.links)
