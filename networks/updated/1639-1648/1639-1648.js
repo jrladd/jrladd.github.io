@@ -57,7 +57,7 @@ d3.json("1639_1648.json", function(error, graph) {
       .attr("r", function(d) {return size(d.weight);})
 //      .attr("r", function(d){ if (d.group==1) {return size(d.weight);} else {return 5;};})
 //      .attr("r", 5)
-      .style("fill", function(d) { if (d.group==1) {return "#49B2FF"; } else {return "#95E843"; };})
+      .style("fill", function(d) { if (d.group==1) {return "#FF6663"; } else {return "#49B2FF"; };})
       .call(force.drag);
 
 
