@@ -154,5 +154,6 @@ graph.links.forEach(function (d) {
 //This function looks up whether a pair are neighbours
 function neighboring(a, b) {
     return linkedByIndex[a.index + "," + b.index];
+}
 
 
