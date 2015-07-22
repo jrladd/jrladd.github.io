@@ -3,6 +3,8 @@ layout: post
 title: " @endlessmonument, A Twitter Bot for Spenser's Epithalamion"
 ---
 
+This piece is cross-posted from the [HDW deformance blog][hdw].
+
 In the Epithalamion, a wedding ode written to commemorate Spenser’s marriage to Elizabeth Boyle in 1595, the poet implies that he has created a talismanic protection for himself and his new bride. This protection is derived from the synchronicity with time that Spenser built into the poem. With 24 stanzas and 365 long lines, the Epithalamion’s surface-level organization by the length of both the day and the year is obvious, but it wasn’t until A. Kent Hieatt’s 1960 book Short Time’s Endless Monument that the complexities of Spenser’s temporal arrangement were made visible to modern readers. Hieatt shows that Spenser accounts for the specific conditions of time at the location of his wedding, including the exact moment of sunrise and sunset on the day of the wedding, St. Barnabas’ Day, the slight difference between diurnal and sidereal measurements of time, and divisions in the day (quarter-hours) and the year (seasons). These and other elements of Spenser’s fine tuning, which went undetected for nearly 400 years, reveal a poet deeply committed to encoding the marriage ode to a specific place and time.
 
 Recognizing that current social networking platforms also have a professed interest in “real-time streams” and in pinpointing a particular piece of text or information to an exact time and location, we’ve created a deformance project that takes advantage of Twitter’s real-time structure to reorganize Spenser’s poem according to his time-scheme. The [Twitter bot][bot], written in Python, automatically tweets lines of the Epithalamion in two ways: according to the current date and time for the HDW in St. Louis, MO, and in response to requests from users in other locations.
@@ -21,8 +23,10 @@ Since Twitter allows interactivity, we devised a way for users to participate in
 
 The format for submitting a query to the bot is tweeting @endlessmonument followed by a city name and a two-letter state or country code. Here are two examples: “@endlessmonument San Francisco, CA” and “@endlessmonument Dublin, IR”. If the bot can’t find your location or time information for that place, it will apologize and instead send back the appropriate line for Saint Louis, MO. The bot searches for new mentions to respond to every minute.
 
+---
 
 By allowing user interaction as well as two ways to organize the poem according to Spenser’s original time-scheme, the poem’s “real-time stream,” its [Twitter][bot] page, winds up being a significant reordering of the poem’s lines, allowing for repetition and three different modes of sequencing. We hope that being made to view the poem’s lines at specific times for specific locations will allow readers to develop a different critical understanding of how the poem interacts with time and a new appreciation for Spenser’s complex time arrangement.
 
 [bot]: http://twitter.com/endlessmonument
 [sidereal]: http://en.wikipedia.org/Sidereal_time
+[hdw]: http://hdwspenser.tumblr.com
