@@ -4,7 +4,7 @@ title: " Edmund Spenser and Optical Character Recognition"
 tags: ocr, python, hdw
 ---
 
-All DH tasks, even the most automated ones, are supported by the efforts of human investigators, who often spend countless hours entering and cleaning up data. At the HDW summer workshop, teams of faculty, staff, librarians, and undergraduate and graduate students spend 8 weeks sharing this kind of work on a wide array of digital projects.
+All DH tasks, even the most automated ones, are supported by the efforts of human investigators, who often spend countless hours entering and cleaning up data. At the [HDW](http://hdw.artsci.wustl.edu) summer workshop, teams of faculty, staff, librarians, and undergraduate and graduate students spend 8 weeks sharing this kind of work on a wide array of digital projects.
 
 With this many people working energetically over a short period of time, questions naturally arise about _efficiency_: when is it better to commit a whole team to a manual task for a few days than it is to spend those days working out an automated solution? I raised this question several weeks ago as part of my work on the Spenser project, a digital edition of the works of Edmund Spenser. 
 
