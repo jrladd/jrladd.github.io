@@ -29,8 +29,6 @@ a         { color: #33CC33;
 	    text-decoration: none; }
 a:hover   { color: #000; 
 	    text-decoration: none;}
-a:visited { color: #aaa; 
-	    text-decoration: none;}
 	    
 .network {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
