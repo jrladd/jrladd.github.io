@@ -4,5 +4,5 @@ pygments: true
 safe: true
 lsi: false
 description: Still learning how to read.
-url: http://www.jrladd.com
+url: http://jrladd.github.io
 permalink: /:title.html
