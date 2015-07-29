@@ -1,0 +1,5966 @@
+---
+layout: default
+---
+## (unknown project)
+
+# Letters and poems in honour of the incomparable princess, Margaret, Dutchess
+of Newcastle.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=1)
+
+William Cavendish DUKE OF NEWCASTLE AND HIS DUCHESS Engraved by J.  [...] From
+a Rare Print by Clouet.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=1)
+
+LETTERS AND POEMS In Honour of the Incomparable Princess, MARGARET, DUTCHESS
+of NEWCASTLE.
+
+In the SAVOY: Printed by THOMAS NEWCOMBE, M.DC.LXX.VI.
+
+## Table of contents
+
+  * 1\. LETTERS, &c.
+    * 1.1. Hague, the 28th. of November, 1658.
+    * 1.6. Excellentissimae Honoratissimaeque Dominae, Dominae Margaretae, Marchionissae Novo-Castrensi.
+    * 1.7. To the Most Excellent and Most Honourable Lady, the Lady Margaret, Marchioness of Newcastle.
+  * 2\. LECTOR IN ALMAE MATRIS Armario DUM LIBROS EXCUTIS, Hìc illìc ingenia pervestigans sedulò, Non potes non EXOSCULARI Foetum PUL CHERRIMUM INCOMPARABILIS Et (suprà quàm cuidam credibile est) PHILOSOPHANTIS HEROINAE, D. MARGARETAE, MARCHIONISSAE Novo-Castrensis, Cui Suada Linguam, Pallas animum imbuit. Sed, quoniam Ipsa (per ingenuae frontis molitiem) inter Viros Sententiam dicere non sustinet, in imagine saltèm, & hâc altae Mentis Effigie aeternis debet interesse Nominibus.
+    * 2.1. Illustrissimo Excellentissimo Nobilissimóque Principi Gulielmo Marchioni, & Comiti de Newcastle, &c.
+    * 2.4. Excellentissimae Nobilissimaeque Principi, Margaretae Novi-Castriae Ducissae.
+    * 2.8. Eminentissimae, Celsissimaeque Principi D. Margaretae, Duci Novocastrensi.
+    * 2.10. Illustrissimae Excellentissimaeque Principi Margaretae Novo-Castrensi Ducissa.
+    * 2.13. To the most Illustrious and Excellent Prince, the Lord Duke of Newcastle, &c.
+    * 2.15. Excellentissimo Honoratissimóque Domino, Domino Gulielmo Marchioni Novo-Castrensi, &c.
+    * 2.21. Eminentissimo Illustrissimóque Principi, Gulielmo Duci, Marchioni, Comiti Novo-Castrensi, &c.
+    * 2.22. Excellentissimo Invictissimóque Principi, Gulielmo Duci Novo-Castrensi, &c.
+    * 2.53. To the worthily Honoured Dr. Charleton, Physitian in Ordinary to his MAJESTY.
+    * 2.58. To the Incomparable Princess, MARGARET, Dutchess of NEW-CASTLE.
+    * 2.72. To the Right Honourable, the Lady MARGARET, Marchioness, of New-Castle.
+    * 2.73. To the most Illustrious, and most Excellent Princess, Margaret Dutchess of New-Castle.
+  * 3\. POEMS, &c.
+    * 3.1. To the most Illustrious and most Excellent Princess, The Marchioness of NEW-CASTLE. After the reading of her Incomparable POEMS.
+    * 3.2. To her Excellency the Lady Marchioness of NewCastle, on Her Incomparable Works:
+    * 3.3. On her Grace the Dutchess of New-Castles Closet.
+    * 3.4. To the Illustrious Princess, Margaret, Dutchess of New-Castle, on Her Incomparable Works.
+    * 3.5. To the most Accomplish'd and Incomparable Princess, The Dutchess of New Castle her Grace.
+    * 3.6. To the Glory of her Sex, the most Illustrious Princess, the Lady Marchioness of New-Castle, upon her most admirable Works.
+    * 3.7. On the Dutchess of New-Castle her Grace.
+    * 3.8. An Elegy upon the death of the Incomparable Princess Margaret Dutchess of New-Castle.
+    * 3.9. An Elegy on the Death of the Incomparable Dutchess of NEW-CASTLE.
+    * 3.10. In Obitum Margaretae Ducissae Novo-Castrensis.
+    * 3.11. Upon the Death of the Illustrious and Incomparable Lady, Margaret Dutchess of New Castle.
+    * 3.12. On the Death of the most Illustrious Princess, the Lady Dutchess of NEW-CASTLE.
+    * 3.13. Tumulus Nobilissimae, Illustrissimaeque Principis, Margaretae Ducissae Novi-Castri.
+    * 3.14. In Illustrissimam Dominam Margaretam, NoviCastri Ducissam,
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=2)
+
+[[Page 1]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=2)
+
+## 1\. LETTERS, &c.
+
+### 1.1. Hague, the 28th. of November, 1658.
+
+MADAM,
+
+ACcording to your Excellencies com­mand, I have been of purpose at Leyden, and
+there delivered your Present in­to the hands of the Rector Magni­ficus (as we
+call him) of the University, who some days after hath made a so­lemn
+exhibition of it to the Lords Curators, in a pub­lique meeting of the whole
+Academical Senate, and, in their name, hath sent me the Letter here enclosed;
+by which I hope the faithful discharge of my Am­bassage shall be testified,
+and give your Excellency [[Page
+2]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=3) occasion of
+further Employment to bestow upon the unworthy person, This Letter came but
+even now from Leiden, so that I hope your Excellency will not suspect any
+negligence in me.
+
+Madam, of Your Excellencies Humble and Obedient Servant,
+
+Huygens de Zulichem.
+
+### 1.2.
+
+ILLUSTRISSIMA DOMINA,
+
+OBtulit Bibliothecae publicae Zulichemi Dominus Divinum ingenii vestri foetûm,
+qui sive pro sà sive Carmine omnem admirationem excedit. Princeps ingenii,
+Princeps terrarum, Princeps foeminini sexus me­rito diceris. Abripitur
+foecunda tua erudito, per coelos, ter­ras, maria, & quicquid in natura, vel
+civili vita, ullove Scientiarum genere, nobile occurrit. Ipsa Pallas
+Acade­miae nostrae praeses Tibi assurgit, gratiásque immensas pro vestro
+munere agit, & cum Imaginem vestram aspicit, se ipsam veluti in speculo
+intueri videtur. Vale
+
+Datae Lugduni Batavorun XXVIII. Novem. MDCLVIII.
+
+Illustrissima Domina Virtutum vestrarum Admirator & Cultor summus,
+
+Anthonius Thysius, Academiae Rector.
+
+### 1.3.
+
+[[Page 3]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=3)
+
+EXCELLENTISSIMA DUX,
+
+ALter ferè mensis est quòd votis omnibus expetitum munus Epistolas tuas
+accepimus: neque tamen intereà temporis ab officio cessavimus, sed vel in
+honore Nuncupationis nos jactavimus, vel obstupuimus in admiratione Operis, in
+quo multa tam acutè, tam aptè, tam elegantèr exponis, ne nec Venus, aut Lepor
+aliquid addant. Scilicèt hoc demùm animi, hoc consilii, hoc ingenii tui, hoc
+ejus est spei, quam annos aliquot jam sustines amplifican­dae Philosophiae.
+Nam cave Te quaesumus, ne Canta­brigiae quenquam esse credas tam infacetum, &
+à Gra­tiis alienum, quem non mirificè delectent Literarum ista­rum
+amoenitates; Propterea, (quae felicissimè recludis) arcana Naturae non aliter
+atque secretiores Sacro­rum ritus, & ceremonias Universi inspicimus, laudamus,
+amplectimur, & inter legendum etiam per paginas dispen­samus oscula, sed ea
+quae soli Philosophi dare, & acci­pere Vestales ipsae nequaquàm erubescerent.
+Nondùm (quod scimus) Annalibus excidêre, neque certè per nos unquam excident
+erudita nomina, Aspasia Periclis, Ode­nati Zenobia, Polla Lucani, Boethii
+Rusticiana; quae tamen, si reviviscerent hodiè, adeò tecum (Inclyta Dux) de
+eruàitionis palmâ non contenderent, at famae tuae potiùs ancillantes, solam
+Margaretam, consummatissimam Prin­cipem & agnoscerent, & posito genu certatìm
+adorarent. Illae namque pluvias tantùm hìc illìc aquas collegere: Tu perenni
+gurgite passim exundas: Illis interdùm adspira­vêre Musae, quae suam in Te
+potestatem omnem osten­dêre: Illae denique partitae sunt doctrinam: Tu
+studio­rum omne genus versu, & prosâ non modò tetigisti, ve­rum etiam
+tractâsti: nec alios tandèm indagationi tuae fi­nes proposuisti, quàm quos
+ipsa rerum Natura admittit; quamobrèm, etsi (velut Aquila in nubibus) quicquid
+ve­naris, [[Page 4]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=4)
+capis, nusquam tamen major nobis, aut illustrior vi­dêre, quàm in nuperis
+istis Sapientiae commissionibus et­enim invidendâ planè dexteritate vel
+Tirones semitam ingressos reducis in viam; vel nitedulas è senticetis suis
+extrahis; vel hostes veritatis destringis & defricas, He­roina monstris ex
+orbe Scientiarum averruncandis genita. Perge (Dux invictissima) & (quo
+incoepisti successu) in hâc immortalitatis Palaestrâ Te (si placet) diutiùs
+exerce; Nos quidem ut antea semper, ita nunc quo­que tanto tibi studio ubique
+favemus, ut majori non pos­simus.
+
+> Cantabrigiae è frequenti Senatu 3 Nonas Maii. 1665.
+
+>
+
+> Celsitudini tuae addictissimi Procancellarius, reliquusque Senatus Academ.
+Cantabr.
+
+### 1.4.
+
+MOST ILLUSTRIOUS PRINCESS,
+
+WE have lately with extraordinary joy re­ceived the two testimonies of Your
+great mind and favor towards us, namely your Epistles and Poems, with which
+your Grace hath been pleased to honor us, both which we em­brace with the same
+mind with which we do all Sub­lime and Excellent things, which so long as
+there is any Curtesy among men, do bring Fame to their Au­thors. In your Poesy
+we praise that Life and native Verdure, every way consistent with it self,
+Castalian like, it stands not still, nor boils over, but with a gen­tle Stream
+doth touch our Ears, and slide into our minds. In your Philosophy we praise
+that lightsome and piercing accuteness, nothing constrained, nothing obscure;
+you render all things clear and genuine, in­deed [[Page
+5]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=4) nature truly
+natural: So difficult to men is nature and truth. Alas how do they vex and
+pur­sue her fleeing from them; others suppose her to be swallowed in
+Whirlepools, (as another Scylla or Charibdis) such a one indeed as they do
+commonly find to be of report or opinion: others grope for her in a vain
+Vacuity with the like success: yea, some there are which seek her among Ghosts
+and Goblings, as if she were some Witch, or Sor­ceress; some offer violence to
+her, and put her to the rack, and make her rather Lie then Confess. To your
+Grace she doth freely open and unbowel her self, fearing to be branded with
+incivility if she should deny; Your Grace only amongst Women owes nothing to
+Nature: for how much soever she hath graced you with an incomparable lustre in
+your Feature, or pregnancy of Wit, your Grace hath returned all of it in these
+Elegancies of Phi­losophy and Poesie, with a most excellent retaliation.
+Lastly, lest we should be further troublesome to your Grace, we wish we could
+speak out and pub­lish to the World, what Thanks we conceive in our Minds for
+this so genuine and proper a Gift, so fraught with sweetest Elegancies; Then,
+though there be so vast a disproportion between your Gra­ces Favours and our
+Merits, our distance would be so much the less: Farewel most Noble Princess,
+long may your Grace live, who are an ornament to Learning, and a Patroness to
+the Learned and us, who are,
+
+> Your Graces most devoted Servants in all Duty and Reverence, The Master and
+Fellows of the Colledge of St. John the Evangelist in the University of
+Cambridge.
+
+### 1.5.
+
+[[Page 6]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=5)
+
+ILLUSTRISSIMA PRINCEPS,
+
+LIbros tuos eximios illos opido & felicissimè In­genii partum excepit nostrum
+hoc Collegium eâdem gaudii magnitudine, quâ olim Illustris­simi Principis
+Conjugis Tui adventum nos hîc con­victu suo non dedignantis. In fatis est
+scilicet, aut potiùs haereditarium quoddam jus est Tuae familiae de Collegio
+nostro benè mereri. Dilatata Collegii Pomoeria, & pulcherrimo opere explicata
+murorum facies testantur eximium in literas amorem nobilissimae Salopiensis
+Co­mitissae, jam tunc virtutes tuas & Gentilitiam erga Musas bonitatem
+praeludio quodam augurantis. Il­lustrissimus quoque Conjux Tuus nos hîc
+Consortio suo cohonestavit, atque quantum gloriae nobis indè defluxisse putes,
+quòd illa quae hîc posuit Virtutum rudimenta in tam inviolatam Majestati
+Regiae etiam in adversis­simis fidelitatem omniumque artium tanto illo Ordine
+dignarum scientiam excreverunt! Sed haec Tibi cum aliis Communis laus est,
+favere literis. At quòd Tu, Foemina scilicet Illustrissima, Aulae deliciis
+innutrita, non solùm faveas, sed & doceas qui sibi videntur eru­diti: quòd non
+tantùm calleas omnes Tui Ordinis ele­gantias, sed etiam ingenuas nosiri
+sermonis Veneres, & nihil insuper corum nescias quae scire laudi est; denique,
+quòd prima omnium non solùm Philosophiae spinosissimos calles pervagata es,
+sed emolliisti Sermo­nis Tui nitore, id quod doctissimis virorum minimâ ferè
+cum laude pertentatum; hoc Tuum solius decus est, hoc praeteritorum seculorum
+Foeminis, & praesèntis hu­jus Heroinis exprobabit hoc nostrum seculum: Unum
+tantùm deest bellissimis Tuis scriptis, ut nimirum inter Cultissimas Orationes
+Tuas inscribatur una, quae gau­dium nostrum ob honorem hunc à Te Collegio
+nuperrimè [[Page 7]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=5)
+Praestitum satis dignè eloqui possit. Digna enim es sola, quae cùm
+Philosophiam tantoperè exornâsti, Te­ipsam exprimas: nos certè non possumus,
+quibus prae­ripuisti omnes Vernaculae linguae Elegantias, quôsque adeò
+conjecisti in Latini sermonis antiquam, sed incul­tam Majestatem, ut Te, quam
+coràm alloqui erubesci­mus, è longinquo tutò veneremur. Vivas ergò,
+Illu­strissima Princeps, in hujus seculi gloriam, Tui Sexûs honorem, nostri
+Invidiam, admirationem utriúsque; & felicissimos annos exigas etiam ultrà
+spem, non vota.
+
+> Dat. è Coll. D. Joan. Cantab. 14 Cal. Jul. 1663.
+
+>
+
+> Obsequentissimorum Illustrissimae Excellentiae Tuae Cultorum Magistri &
+Sociorum Colleg. D. Joannis Evangelistae in Academia Cantabrigiensis.
+
+### 1.6. Excellentissimae Honoratissimaeque Dominae, Do­minae Margaretae,
+Marchionissae Novo-Castrensi.
+
+EXCELLENTISSIMA DOMINA,
+
+Qvanta sit, quámque severa nobis ex dignati­one Vestrâ concepta laetitia, si
+non aliunde te­stando simus, liceat exinde potissimùm indicari, quòd in hoc
+jucundissimo nobis officio gratitudinis ex­primendae, & seriùs aliquantò
+versemur, & solliciti etiamnum simus. Ea siquidem est natura Beneficii, ut
+remunerandi vices desideret, Vestri autem nec fortuna reposcit, nec patitur
+Amplitudo. Quo fit, ut, muni­fici aliàs qui sumus, tantúmque honoris rependere
+soliti, [[Page 8]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=6)
+quantum ipsi accipimus, eo quòd viros, caetera proba­tissimos, nostro
+qualicunque testimonio auctiores redde­re videamur; Vestro tandem tam
+praecellenti munere donati, tenuitatem ultro nostram fateamur. Hoc in­terim
+gratulari nobis liceat felicitatis nostrae, eam esse Tibi cum Literis communem
+causam, ut nemo laudare beneficia Vestra, aut etiam exprimere pro dignitate
+possit, qui non & ipse commendatior exinde fuerit; adeò conjunctam habemus cum
+officio laudem, ut nec testari quantum debemus, ingrati possimus, nec quanta
+accepimus intelligere, nisi literati. Quae Tua singu­laris est bene merendi
+ratio, non solùm Amplitudine Vestrâ digna largiris, sed & simul efficis, quo
+tantis Tuis Auspiciis digni & nos aliquando simus: nec verò literis tantùm,
+quod una potes, patrocinium praestas, sed & artes Ipsa illustras, & quantum
+est ullibi scienti­arum promoves felicitèr, & exornas. Ignosce nobis
+Illustrissima Marchionissa, si mirari identidem subeat, cui demum Tu, nósque
+adeo debemus pulcherimas istas & Tuas dotes; quî factum fuerit, ut nullo
+imbuente studiorum arbitrio, nullâ obstetricante Academiâ, in Foe­minâ tandem
+conveniant, res caetera desjunctissimae, Eloquentia, Poesis, & Philosophia.
+Sanè, qui anti­quos adeo miramur, eandem artium armorúmque prae­sidem Deam
+veneratos, quid de Te tandem sentiemus, quae Ipsa Tibi Minerva es & Athenae
+simul, Musae omnes juxta & Helicon, Aristoteles pariter ac Ly­caeum? Profectò,
+ii sumus, qui felicitatem citiùs no­stram intelligere, quàm exponere Tuam
+possumus, quae tam supra nostram est exprimendi copiam, quàm est praesens ista
+qualiscunque adumbratio, extra fingen­di necessitatem. Quo magis nostrâ
+referre credimus, quibus Te propriùs sentire datum est, testari aliquà, pro
+genio nostro, locique hujus (quo non est alius Tui [[Page
+9]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=6) studiosior) quo
+tandem animo, quibus studiis, quibús­que amplexibus Clarissima Tua opera
+excipimus & ex­osculamur. Quod quidem officii nostri tam sincerè prae­stamus,
+quâm verè in amplissimam laudem cedit, mag­nae huic & florentissimae
+Societati, Te nobis habere pro­pitiam, quam & tota commendat eruditio, &
+litera­torum universus ordo suspicit, & veneratur. Tanti erat Excellentsssima
+Domina, Te primam exemplo Tuo ostendere, posse & Foeminas Philosoaphri. Unum
+illud reliquum, in auctiorem Nominis Vestri famam optamus, testatiorésque
+virtutes Tuas, ut tot támque erudita Opera, tali aliquando idiomate donata
+exeant, quali inter Romanos Tullium & Maronem, inter Graios Platonem, &
+Demosthenem legimus, & mi­ramur. Quod si contigerit usquam, Te facili in vota
+nostra, proventúmque literarum uberiorem, speramus, etiam & spondemus, brevi
+fore, ut ex ipso scientiarum incremento sentiat orbis, quam consecuta es
+Gloriae Aeternitatem.
+
+Dat. è Coll. Sanctae & Individuae Trinitatis, 2 Cal. Feb. 1663.
+
+Johan. Pearson, Magist. Coll.
+
+Clem. Nevil.
+
+Theod. Crosland.
+
+Geo. Chamberlaine.
+
+Fran. Barton.
+
+Guliel. Lynnett.
+
+Gualt. Catsby.
+
+Richardus Stedman.
+
+Robertus Scott.
+
+[[Page 10]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=7)
+
+### 1.7. To the Most Excellent and Most Honourable Lady, the Lady Margaret,
+Marchioness of Newcastle.
+
+MOST EXCELLENT LADY,
+
+HOw great and serious a joy doth arise to us from Your Excellencies
+Condescenti­on, though we cannot otherwise make it appear; yet hence chiefly
+it may be shewed, be­cause in this most pleasing Duty of expressing our
+Thankfulness, we have been somewhat tardy, and are yet solicitous; for such is
+the nature of a good turne that it calls for a requital; but your
+Excel­lencies Fortune and Greatness doth neither require nor brook it, whence
+it comes to pass that we who are otherwise Bountiful, and are wont to return
+as much as we have received, because we may seem to render persons in other
+things most approved by our testemony, such as it is, more allowable; at
+length being endowed with your most excellent Gift, we do freely acknowledge
+our deficiency. In the mean time we may justly pride our selves in this, that
+your Excellency, as well as our Learning, is so much the cause of our
+Happiness, that none can commend your Gifts, or express their worth, but will
+himself thereby grow more commendable: therefore have we Praise and Duty
+joyned, that we may not avouch how much we owe being un­thankful, nor
+understand what we have received unless Learned: Your Excellency doth not only
+bestow Gifts worthy your Nobleness, but also there­by make way that we our
+selves may, in time, be worthy of your so great Favors: which is a reason of
+well-deserving, proper only to your self: neither [[Page
+11]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=7) indeed doth your
+Excellency only afford Patronage to Learning (which you only can do) but also
+make Arts more famous; and whatsoever there is any where of Sciences you do
+happily promote and adorne. Pardon us most Illustrious Marchioness if we often
+wonder to whom, at length, your Excel­lency, and we our selves, do so much owe
+those excellent Arts, and your Excellencies Endowments; how it came to pass
+that Eloquence, Poetry, Phi­losophy, things otherwise most different, should
+without the help of a Tutor, without the Mid­wifery of an University, at
+length, agree in a Woman: Indeed we who wonder that the Antients should adore
+the same tutelar Godess both of Arts and Arms, what shall we think of your
+Excellency, who are both a Minerva and an Athens to your self, the Muses as
+well as an Helicon, Aristotle as well as his Lycaeum? Indeed such is our
+condition that we can sooner understand our own happiness then express yours,
+which is so far beyond the high­est of our expressions, as this present
+Description, such as it is, is beyond the necessity of a Fiction. We think it
+concerns us very much (who have the happiness to understand so much of your
+Excellency) some way to testify, according to our genius and that of this
+place, then which none can admire you more, with what mind, withwhat desires,
+with what real affections we do receive and em­brace your most Excellent
+Works; which part of our duty we do as sincerely perform as it doth truly tend
+to the great honour of this florishing So­citey, that we enjoy your
+Excellencies undeserved favour, whom all Learning doth commend, and all
+degrees of the Learned adore and honor. So much [[Page
+12]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=8) beyond
+Expectation it was (most Excellent Lady) that you the first of all, by your
+own example, should make it appear that even Women may be Philo­sophers. One
+thing we wish for, the enlargement of the fame of your Excellent name, and
+more signal vertues, that your most learned Works may appear in such a
+language in which we read and admire Tully and Maro amongst the Romans, Plato
+and Demosthenes amongst the Grecians. Which if it ever come to pass, we hope
+and also pro­mise (your Excellency being willing) accord­ing to our desires,
+and the greater increase of Learn­ing, that in a short time, by the very
+augmentation of Sciences the World may be sensible what Eternity of Glory your
+Excellency hath obtained.
+
+Given from the Colledge of the Holy and Undivided Trinity, the second of the
+Calends of Febr. 1663.
+
+John Pearson, Master.
+
+Clem. Nevill.
+
+Theod. Crosland.
+
+George Chamberlaine.
+
+Francis Barton.
+
+William Lynnet.
+
+Walter Catesby.
+
+Richard Stedman.
+
+Robert Scott.
+
+### 1.8.
+
+MADAM,
+
+THe University of Cambridge, in their full Senate, have judged it a necessary
+duty to make known their sense of the high Favour which they received in the
+Present made to [[Page
+13]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=8) them of your most
+Excellent Volumes. This, ex­pressed by their publick Orator, approved by
+them­selves, is committed to my care to convey, as being their unworthy
+Vicechancellor: under which title, also as Master of a small Colledge, I stand
+in a double obligation for the same Present, to be
+
+Cambridge. S. M. Magd. Coll. July 13. 1663.
+
+Your Excellencies most Humble and most Devoted Servant,
+
+EDWARD RAINBOWE.
+
+### 1.9.
+
+ILLUSTRISSIMA MARCHIONISSA,
+
+ETsi nobis in more familiarius nihil est, quàm ut homines omnes eruditionis, &
+virtutis famâ florentes, curâ, studióque nusquàm non prosequa­mur: singulari
+tamen, & praecipuo quodam impetu non modò gloriae tuae favemus, verumetiam
+Excellentissimam Heroinam, tanquam Coelo delapsam Sibyllam venera­mur. Quippe
+foemineae sortis egressa terminos, longè ultra mundum muliebrem sapis, &
+quicquid uspiàm Egregium, aut Divinum est intra mortales, id tuo Tibi jure
+vindicas. Sive stas in acie, sive exerces tribu­nalia, sive Carmen fundis,
+sive nodos explicas, nusquàm haeres, nusquam succumbis, Dux, Miles, Senator;
+Poeta, Philosophus, ac (ut verbo expediamus) Una om­nium instar. Tot igitur, &
+tantas, & tam exquisitas animi dotes admirata Cantabrigia nec tacere facilè
+nec ulteriùs se continere potest, quin exclamet.
+
+O Soror, ô doctum quae sola es Foemina Nomen! (carmen enim effluit
+imprudenti.) Quod nisi nolueris, interrogare Te porrò cupimus, Ista tam laetae
+indolis, [[Page 14]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=9)
+tam felicis ingenii, tam excelsi judicii flamma quo prî­mùm incensa Numine,
+quibus adjuta flatibus, aut e­nutrita fomitibus effulget? An virili veste
+induta Marchionissa annos fortasse aliquot, idque Athenis inter Philosophos
+delituisti? An Regina rerum Phi­sophia (quae virorum conspectum verecundè
+fugit) soli Tibi se visendam exhibuit, virgineósque sinus omnes exposuit? An
+denique tuis in Aedibus sedem posuêre Gratiae, ne dubitemus alibi jam in
+Angliâ, quàm Can­tabrigiae, vel Oxonii tertiam vigere Academiam, ubi dictata,
+instillatáque Tibi ab Apolline Oracula, quasi sitientibus auribus ebibamus?
+Sed quoniam Te vel con­ditio Naturae, vel modestiae stola cohibet à Rostris, &
+Cathedrâ, Libros edis, quos partìm nuncupas, par­tim dono Sororibus Academiis
+mittis. Nos quidem de magnitudine & animi, & beneficii tui Nobis gra­tulamur,
+geminúmque munus in Sacrario Sapientiae re­ponimus, ut in Sexûs honorem
+evolvant Posteri, habe­ántque quod Socraticarum omnium, & Pythagorea­rum
+Mulierum fragmentis praeferant.
+
+> Dat. Cantab. è frequenti Senatu, quinto Idus Julii 1663.
+
+>
+
+> Amplitudinis, & honoris vestri studiosissimi Procancellarius, reliquus (que)
+Senatus Acad. Cant.
+
+[[Page 15]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=9)
+
+## 2\. LECTOR IN ALMAE MATRIS Armario DUM LIBROS EXCUTIS, Hìc illìc ingenia
+pervestigans sedulò, Non potes non EXOSCULARI Foetum PUL CHERRIMUM
+INCOMPARABILIS Et (suprà quàm cuidam credibile est) PHILOSOPHANTIS HEROINAE,
+D. MARGARETAE, MARCHIONISSAE Novo-Castrensis, Cui Suada Linguam, Pallas animum
+imbuit. Sed, quoniam Ipsa (per ingenuae frontis molitiem) in­ter Viros
+Sententiam dicere non sustinet, in imagine saltèm, & hâc altae Mentis Effigie
+aeternis debet interesse Nominibus.
+
+[[Page 16]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=10)
+
+### 2.1. Illustrissimo Excellentissimo Nobilissimóque Principi Gulielmo
+Marchioni, & Comiti de Newcastle, &c.
+
+ILLUSTRISSIME PRINCEPS,
+
+MEritò olim jactavimus, Te hasce aliquan­dò Aedes, atque haec Musarum sacra
+co­luisse. Cúmque ea, ut par erat, longè maxi­ma, quae studiosis hominibus
+contingere possit, gloria videretur; vicisti ultrò spei votorúmque nostrorum
+fi­dem, & ad tantam superbiendi materiam amplius ali­quid adjicere voluisti.
+Tibi utique parùmer at nos pri­ma praeludentis ingenii, & tenera adhùc
+Virtutis incu­nabula ostentare potuisse; nisi ex Te etiam teneremus clarissima
+adultae jam confirmataeque Indolis monumenta. Dedignata est Mens illustris &
+generosa rebus argu­tis ac levibus nimium temporis absumere; quod facit tamen
+hodiè maxima scribentium pars, in opprobrium (ut videtur) ac contumeliam
+literarum: Tibi verò dis­plicuit otiosa sedulitas: Meditatus es aliquid viro
+nobili ac strenuo non indignum, opúsque concinnâsti se­culis omnibus
+profuturum. Opposuimus olim Gallis pe­ditatûs vim, ac virorum robora; nunc
+Tuâ, Princeps Illustrissime, industriâ, equitandi etiam peritiâ superi­ores
+sumus: Tuillos suas, quibus unicè sibi placebant, artes edocuisti. Nec tamen
+aegrè fert Equestris na­tio Te hanc ei palmam praeripuisse; neque enim tan­tùm
+se in certamine minorem profitetur, verumetiam suo ore atque Linguâ se victam
+esse gloriatur. Et quidni illa Tibi ambo se cederet, qui nihil unquam mediocre
+potes? Poëtarum miraculis fidem fecisti; Pri­mus utique Pegasum, alatósque
+nobis Equos ostendisti, qui tandem humum spernunt, Tuáque pennâ in altum
+levati, per Virorum ora, ac super astra volitârunt. [[Page
+17]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=10) Vivent, atque in
+omni Seculorum memoria vigebunt Excellentiae vestrae scripta nobilissima,
+quantúmque ho­noris Platoni suo atque Aristoteli tribuunt homines umbratici,
+tantum Tibi concedent, Reges, virique to­to orbe Illustrissimi. Gratissimis
+nuper animis No­bilissimae Conjugis Tuae labores accepimus: nunc Tuos pari
+ardore complectimur. Est hoc optandum maximè beneficiorum Conjugium; haec
+summa est animorum Con­cordia, quibus unicum est de nobis benè merendi
+Cer­tamen. Exultantes recipimus Illustres Libros, eósque inter Sacratiora
+Bibliothecae Monumenta recondemus. Intereà, propter iterata benevolentiae ac
+benignitatis indicia, Vobis gratias quas possumus maximas habe­mus, cunctáque
+longè felicissima omni votorum Religi­one exoptamus.
+
+> Dat. è Coll. D. Joan. Evang. Cantabr. 6 Idus Decemb. 1663.
+
+>
+
+> Illustrissimae Vestrae Excellentiae Humillimi ac Devotissimi Clientes,
+Magister ac Socii Collegii D. Joannis Evang. Cantabr.
+
+### 2.2.
+
+ILLUSTRISSIMA PRINCEPS,
+
+DUo magnae mentis summaeque erga nos benevo­lentiae specimina Epistolas &
+Poemata (qui­bus nos Excellentia vestra redhonestare dig­nata est) nuper pleni
+gaudio accepimus: quae Utráque eo animo amplectimur, quo Sublimia solemus &
+praeclara omnia, suis Auctoribus, donec inest homimbus humanitas meretissimam
+famam reportatura; In Poesi spiritum il­lum [[Page
+18]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=11) laudamus,
+leporémque nativum undique & aequa­bilem; nec stagnat Castalis, neque
+exaestuat, leni fluore lambit aures, atque animis illabitur. In Philosophia
+lucidum & penetrans acumen nil coaclum, nihil mysti­cum liquida das omnia &
+genuina; vere Naturalem Naturam. Difficilis vicis Natura, & Veritas: beu
+quamvexant illi per sequuntúr (que) fugientem: Alii rapi eam fingunt in
+vorticibus, Scyllam quasi; aut Charibdim alteram, qualem etiam revera esse
+famae & existi­mationis non raro experiuntur: alii in vacuo palpunt & inani
+parili fortuna: imo sunt qui inter Daemones querunt & Genios, quasi sagae
+quaedam esset, aut ve­nifica: nonnulli vim tentant, in igne torquent,
+cogunt­que seipsam mentiri potiùs, quam fateri: Tibi se ultro pandit & denud
+at penitus, rusticitatis notam, si negaret, reverita, sola videns
+(Illustrissima Domina) inter Foe­minas quae Naturae nihil debes: quantum
+quantum enim Te decoravit, aut luce formae, aut indole ingenii id omne eidem
+rependisti in hisce Philosophiae & Poeseos elegantiis, pulcherrimâ talione.
+Denique Tibi porro molesti simus pro genuino hocce quo nos deceras pleno
+Venerum & gratiarum pignore utinam eloqui possimus gratias, quas mente
+concipimus; tunc ab ejus merito longo quamvis nihilo minùs intervallo, minori
+tamen distaremus. Vale (Nobilissima Heroina) & vive diu quae literas ornes &
+foveras literatos, & nos
+
+> Illustrissima Excellentiae Vestrae Cultu omni & officio observantissimos
+Magistrum & Socios Collegii D. Joannis Evangelistae in Academiâ
+Cantabrigiensi.
+
+### 2.3.
+
+[[Page 19]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=11)
+
+MOST ILLUSTRIOUS PRINCESS.
+
+WE lately received, with abundance of de­light and Complacency, those two
+tokens of your favour, with which your Grace hath been pleased, to honour us;
+Your Poems, and Philosophical Letters, both which we entertain and embrace
+with that careful respect, which is due to those high and noble undertakings,
+which will procure in all ages (while men have any humanity) condigne fame and
+renown to their Authors. In your Poems we admire that Life and Spirit, as also
+that Native, and Even Fancie, which, every where, is Conspicuous. Your
+Heli­con is neither Pond nor Sea, but like a fair and deep River gently
+slides, and flow's in upon your Readers. In your Philosophy there appears,
+every where, a clear and searching acuteness of Judge­ment, nothing forced, or
+Mysterious: All is plain and genuine, meer and natural Nature. We men find
+Nature and Truth very coy and sullen, alas how we vex, persecute, and chase
+her, who yet still outruns us: Some imagine her to be in Whirl­pools and
+Quick-sands, like another Scylla or Cha­rybdis, and they find Her so now and
+then, in their shipwract Credit and Reputation. Some grope for her in Vacuums
+and empty spaces, with a suc­cess not unlike their supposals. Some fancy her
+among Daemons and Spirits, as if she were a Witch: Others torment her in the
+Fire, or Rack her, and force her rather to Belie, then Con­fess her self. But
+she willingly shews herself all bare and naked to your Grace; Madam, you are
+one, if not the only one of your Sex, that owe Nature [[Page
+20]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=12) nothing; for
+whatever lustre and beauty of body or mind, she hath deckt and enriched you
+withal, your Grace has largely recompensed her, and are per­fectly quit with
+her in these your elegant Poems, and Philosophy. In a word, to be no longer
+troublesom to your Grace, we would we could but express what thankful
+acknowledgements we, in mind and thought, do conceive, for this twin-pledge of
+your Love, full of all Muses and Graces; then we should fall less, though
+still continually, short of so high a favour. May you live long, most
+Virtu­ous and Heroick Lady, to adorn, maintain, and nourish Learning, and
+Learned men, and Us, who are, in all offices of Honour and observance.
+
+> Your Graces bounden Servants, The Master and Fellows of St. Johns Coll. in
+Cambridge.
+
+### 2.4. Excellentissimae Nobilissimaeque Principi, Marga­retae Novi-Castriae
+Ducissae.
+
+ILLUSTRISSIMA HEROINA,
+
+PAllida & exanguis haec chartula Sacratissimos Tuos amplexus summâ eáque
+debitâ venera­tione solicitat, unde Promethei ad instar vi­tam & vigorem (Quae
+soles dare) ambitioso & lauda­bili furto surripiat: Quin haud vitio vertenda
+erit pia nostŕa nec inhonesta fraus, Quum spirare, & vivere oportet eam
+Epistolam, quae tanto Nomini in­scripta aeternitatis aemula, & particeps
+affinitatis jure facta est. Nempe Tu Ea es divinior Artemisia, [[Page
+21]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=12) Quae Mausolo tuo
+non perpetuum certissimae mortis indicem, & monumentum solummodò extruere, sed
+vitam ipsam aeternitati inserere Praeclaros Animi mo­tus sacri calami Impulsu
+continuare, Limpidos Corporis humores, & nobilem sanguinem ex benignâ Ingenii
+Tui venâ aeternum supplere, nec non eximia gesta & faci­nora ad vivum
+exprimere, coram sistere, & denuò agere valuisti: Exhibuisti nobis talem
+Principem qualis ipse solus est, Cujus Imaginem à Te unicâ vel effingi, vel
+dignè delineari posse fateatur universus Philoso­phorum Chorus. Exbibuisti
+gratissimum orbi munus, praesentis saeculi decus & ornamentum, faturi
+Arche­typum & elaboratum exemplar. Insuper videre est quàm mirabili artificio
+(Laudatissimi Phidiae jure) conjunctis­simo numini Illustrissimam Tuam
+intexuisti Imaginem, usque adeò intemperanti mortis occursu fabricam fa­ciens,
+ut perpetuum Vestrum conjugium ab ipsâ haud sejungi possit aut divelli. Quantâ
+animi devotione Ornantissimae Heroinae egregium munus amplexamur, sentire
+possumus, aptè exprimere (Quae Tua & pro­pria Laus est) neutiquam confidimus:
+Digneris, quae­sumus, ut donum Tuum tanquam caelitùs delapsum an­cile
+duraturae felicitatis augurium & tesseram silentio (uti par est) veneretur
+Collegium nostrum, vel, quod majus, Vestrum.
+
+Johan. Pearson, Magist. Coll
+
+Geo. Chamberlaine. Vm
+
+Clem. Nevil.
+
+Anth. Marshall.
+
+Guliel. Baylie.
+
+Richardus Stedman.
+
+Rob. Crane.
+
+Guliel. Lynnet.
+
+Rob. Scott.
+
+### 2.5.
+
+[[Page 22]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=13)
+
+EXCELLENTISSIMA PRINCEPS,
+
+HIstoriam Viri tui quantivis pretii, Geniique plenum opus non modò exertissimâ
+manu ac­cepimus, verum etiam à capite ad calcem incredibili voluptate, uti
+omnia tua jamdudùm evol­vimus. Inter legendum verò non semel hìc, illìc circa
+numeros, periodósque substitimus, nunc stili, nunc ar­gumenti, nunc denique
+compositionis elegantiâ detenti: ac quia togatis hominibus tuam illam tam
+artificem dex­tram tetigisse non licet, quod proximum est, audemus: hoc est
+Theatrum honoris, bipaténsque pugillar (in quo paginam utrámque facit Heros
+Novo-Castrensis) plus millies amplexamur. Neque tamen Chartae saepiùs
+imprimimus oscula, quàm omnibus illa, singulìsque Mu­sis ingeminare nos
+existimamus. Nullum enim ingenii tui faetum exponere potes, quem non in usus
+suos, de­liciàsque & tollet Alma Cantabrigia, & (ut in par­tem quoque muneris
+admittat posteros) 'Bibliothecae Publicae tholo suspendet. Vivet igitur domi,
+militiae­que clarissimus Imperator, Tèque (dum literis honor constabit) non
+impar gloria sequetur: ità raro, singu­larique exemplo facta dictis ubique
+aequas, & invictissimi Ducis res tanto scribis Spiritu, quanto pridem ab ipso
+gestae fuerunt. Quodsi forsan Bellatores in arce Pal­lados olim quaerent (tàm
+ad Historiae sidem, quàm ad exempli norman) consummatissimi Imperatoris
+imaginem, adumbratam illam invenient non in Cyro Xenophontis, sed in
+MARGARETAE GULIELMO. Hoc nomine Tibi nos debemus plurimum Eruditissima
+foe­minarum; at non hoc uno nomine. Etenim in Stu­diis ubicunque jam nobis
+haeret aqua, praesentissimum Numen occurris: in Oratione si laboramus, verba
+dictas: si Poëticas fores pulsamus, recludis: Si condi­mus [[Page
+23]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=13) Historiam, à
+memoriâ es: Si Philosophos inter ambigimus, & involvimur, extricas: postremò,
+si stu­demus modò, fers opem supra verticem semper adstans Mulier divini
+admodum vultus, atque inexhausti vigoris. Hoc autem totum quid aliud est, quàm
+mo­dis omnibus addictam Tibi Cantabrigiam non solùm exercere, sed obruere
+beneficiis? Tot ergo magnifi­centiae tuae radios (quibus illustramur) quâ Nos
+un­quam gratiarum actione, quibus Musarum opibus redimemus? Nisi forte quae D.
+Margaretae pectus, mentémque illam homine sublimiorem nunc habitant, hùc bonâ
+tuâ cum veniâ remigrent Veneres, Gratiae­que. Id si principali indulgentiâ
+concedas (Heroina) tuis vestigiis pro modulo insistemus, nervos omnes
+in­tendemus, totúmque Helicona ciebimus, ne Mars ille tuus sine vate, ac
+virtutum tantarum Latino praecone pugnâsse videatur.
+
+> Cantabrigiae è frequenti Senatu 14 Cal. Januar. 1667.
+
+>
+
+> Eminentiae tuae addictissimi PROCANCELLARIUS reliquusque Senat. Acad.
+Cantab.
+
+### 2.6.
+
+MOST EXCELLENT PRINCESS,
+
+THat incomparable and most desired Book of your Grace's, containing the
+History of his Grace's Actions, in the late War, we have not only readily
+received but also perused and read over, as we are wont to do with whatso­ever
+you write; yet in reading it we must acknow­ledge that we stop'd often,
+because we could not but admire, every where, both the lostiness of the
+argument, and elegancy, and spruceness of the Stile, [[Page
+24]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=14) and Composition;
+and in regard that at so great a distance we could not be admitted to the
+favour of kissing your Hand, we cease not to bestow ten thou­sand embraces
+upon every page of that Book, which hath so noble and immortal a subject as is
+his Grace the Duke of Newcastle; although your Grace can neither dictate nor
+publish any Work which the University of Cambridge will not own, and esteem,
+yet for this last Essay of your Graces we retain a most singular affection,
+and, in testimony thereof, lodge it in the richest Cabinet that we have, our
+publick Liberary; for the perusal of the present, and succeeding generation,
+long therefore shall the most valiant, and renowned General live, and your
+Grace too with him, seeing you have written his enterprises with as great a
+spirit as he himself per­form'd them; hereafter if generous and high born men;
+if men of War search our Library for a Model of a most accomplished General,
+they shall find it expressed to the life, not in Xenophon's Cyrus, but in the
+Dutchess of Newcastle's William. Most Excellent Princess, you have unspeakably
+obliged us all, but not in this respect alone, for whensoever we find our
+selves non-plus'd in our Studies we repair to you, as to our Oracle, if we be
+to speak you dictate to us; if we knock at Apollo's doore, you alone open to
+us; if we compose an History you are the Remembrancer; if we be confounded and
+puzled among the Philosophers, you disentangle us, and assoil all our
+difficulties: in a word, whatsoe­ver we attempt your Grace now vouchsafe's to
+stand by us, and suggest as a Lady of a most Princely per­sonage, and of an
+inexhaustible vigor; and thus you do not only exercise, but oppress us with
+your noble­ness; [[Page
+25]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=14) nor can we
+devise what returne of thanks to make, unless those Muses and Graces (which
+have taken up their residence in your Breast) may, with your Graces leave,
+retreat for a while to us. If your Grace think good so to favour us, we shall
+all of us, jointly and severally endeavour that here­after his Excellency the
+great Duke of Newcastle may not want a Latine Poet, for the perpetuating of
+his Honour, and your Graces in forreign Coun­tries,
+
+> Cambridge Dec. 16. 1667.
+
+>
+
+> Most renowned Princess, Your Graces most devoted Servants, The
+VICECHANCELLOR and the whole Senate of the University of CAMBRIDGE
+
+### 2.7.
+
+MOST ILLUSTRIOUS PRINCESS,
+
+WE have received your Excellencies in­comparable and most beneficial books
+with such grandure and reverence of mind, as it is very fit we should, as a
+pledge and warant of our future security; for seeing we are to Contend in a
+bruitish world for life, much more for honour, with the reproaches of an
+illiterate age, as it were now desparing of attaining to any per­fection in
+our weighty affairs, lest Cambridge, and Philosophy, and Learning should grow
+infamous, Your Excellency hath only brought it to pass, that we have hopes yet
+to live; the memory of our name being perpetuated in your Excellencies Books,
+which [[Page 26]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=15)
+will not only survive our Universities, but hold date even with Time it self;
+and doubtless we shall live, for as much as it pleaseth you, most Excellent
+Prin­cess, so long as either Name or Honour remains, either to Virtue or
+Books; and incontinently this age, by the reading of your Books, will loose
+its barbarity and rudeness, being made tame by the Ele­gancy both of your
+stile and matter: and moreover it will not judge us to be no-bodies whom such
+an accomplish'd Princess hath not refused to make not only the Perusers, but
+even the Moderators, and Judges of her Works. So as the very worth of your
+Excellencies Books, hath brought us, being willing, altogether perswaded and
+convinced into a just admiration of your Excellency. However your Grace may
+see how much your Praises are impaired, not so much by the default of our Wit
+(though that be very great) as because you have the hap to live in such an
+unfortunate age. Antient Greece it self, the sole Governness of all just
+merits and re­wards, in the cause of such unparallel'd vertues, would have
+spent her self in ten years Panegyricks; neither would there be any cause why
+Isocrates should prefer his Athenians (though they were Minerva's Scholars)
+before Cambridge; to whom your Excel­lency (for such honour doth your Grace
+procure) doth kindle a new, yet never perishing, Light: An­tient Rome it self
+would have resolved all your Praises into Statues and Monuments of your name,
+by which there might arise continually Cornelia's, and if there were any
+other, therefore the Glory of their Age, and the Honour of your Sex, because
+your Excellency had not then a being, but reserved by the Author of all
+things, and born in after times [[Page
+27]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=15) for the honour,
+and ornament of this age in which we live. The Titles and Triumphs are long
+since obsolete, and worn out, the honour of Greece and Rome lives only in a
+little slender fame, and those Marbles inscribed with the names of so many of
+the Learned, are mouldered into dust, and yet all these live, and flourish in
+their due Praises, and are the survivors of all their admirers, and this Glory
+is only common to your Excellency, with those fa­mous Worthies, that as
+neither the famous Statues, nor the applause of their admirers, nor the
+popu­lar vote, but the solid Grace of their Works, and Virtue which is its own
+best Herauld, doth declare their merits: So your Excellencies most
+unparal­leld worth, and our thankful acknowlegment with­out the furniture of
+tumultuous applauses, hath set apart a place in our Library, that faithful
+Deposi­tory of Wits, for your Grace, where, according to our slender
+provision, which also the Custome of our Ancestors, by whom we are the better
+enabled, and our own ingenious confession, we do with great earnestness
+desire; we henceforth with acclamations that such an Illustrious Princess
+(reason being now restored, Philosophy confirmed, Envy conquered) doth esteem
+that in others which she honours in her own person; We will therefore that
+this, whatsoever it is, be the argument of a Grateful mind.
+
+> Dated from our Coll. Octob. 6. 1667.
+
+>
+
+> Most Illustrious Princess, Your Excellencies most humble Servants, devoted
+to your Clemency and Honour, The Master and Fellows of St. Johns Coll. in
+Cambridge.
+
+[[Page 28]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=16)
+
+### 2.8. Eminentissimae, Celsissimaeque Principi D. Marga­retae, Duci
+Novocastrensi.
+
+NOn mutamus Excellentissima Princeps; de Lucubrationibus tuis universis idem
+senti­mus, quod de singulis; Singulas autem quan­toperè miremur, ut Quamque
+beneficio tuo vidimus, aut perlegimus, neque Ipsa nescis, & nos aliàs
+judi­ciis certis non modo notum fecimus, verùm etiam in omnem occasionem
+intenti porrò faciemus. Hoc in Li­teras voluntas, hoc (quae tam latè se jam
+diffundit) Eruditio tua singularis à togatis Hominibus dudum ex­egit: Hoc
+Orationes, hoc Epistolae, hoc Numeri, Salesque, hoc Fundamenta; hoc postremò
+(quae Canta­brigiae tuae inscribis) subacti judicii, & lectionis penè
+infinitae Pericula meruêre. Quamvis enim ubique viget, & dum (humanitati locus
+ullus erit) vigebit Cantabrigia, tamen Illius perpetuitati multum adji­ciet
+Librorum tuorum Aeternitas. Non igitur im­meritò Te (doctissima foeminarum) de
+scriptis editis & amamus, & suspicimus, in illà Contemplationum Arce nos
+jactamus, quam Tu Posteritati stupendis ope­ribus extruxisti. Clarissimè
+quidem inter Cives ad al­tissimum honoris apicem evecta micas; Sed (quod
+ad­huc augustius est) omnem illam fortunae magnitudinem immortalis ingenii
+felicitate ità superas, ut quae versa­re solemus exemplaria Graeca, Latináque
+miss a jam facere, & tuâ Unius sapientiâ contenti esse possimus. Quotiès enim
+in Philosophiam secedis, sola Magistri nullius in verba juras, sed in omni
+Doctorum familiâ laborans & subtilitèr expendis, & acutè discernis, & ad
+unguem castigas quicquid aut risit Democritus, aut flevit Hereclitus, aut
+deliravit Epicurus, aut tacuit Pythagoras, aut intellexit Aristoteles, aut
+ignoravit [[Page 29]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=16)
+Arcesilas, nec omittis siquid Majorum inventis addi­dêre novi homines,
+Verulamius, Harvaeus, Cartesi­us, Galilaeus. Hoc (Eminentissima Dux) hoc
+de­mùm est heroicè Philosophari. Sed quò Nos Tecum rapis? Nam Principatum in
+Literis, tenes, nullis finibus circumscriptum; nec usquam Tibi desinit Na­tura
+rerum: at ultra Oceanum Mundus alter exurgit. Mundum illum flamantem loquimur,
+quem & luce tuâ incendis, & accuratiùs multò, quàm olim, in Critia, Plato,
+describis. Ad eum modum in omni scientiarum genere si pergas sapere, certè mox
+id consequére, ut in posterum Margareta non ampliùs Heroinae, sed ipsius
+Philosophiae nomen habeatur. Sic, velut in anteces­sum audent sperare.
+
+> Cantabrigiae è frequenti Senatu 5 Idus Octobr. 1668.
+
+>
+
+> Eminentiae tuae addictissimi PROCANCELLARIUS reliquusque Senat. Acad.
+Cantab.
+
+### 2.9.
+
+MOST EXCELLENT PRINCESS:
+
+OUr opinion is not in any wise altered; of all your Books in general we judge,
+as in rea­son and equity we must of every one of them: and what unspeakable
+esteem we have for every one of them, neither are you ignorant, nor may we (as
+we did, or hereafter shall receive any of them severally) forbear to publish
+to the World. This we think, and this, upon every oc­casion, we profess to be
+a return, that your Graces affection to the Commonwealth of learning
+(to­gether with your Personal advancement in all man­ner [[Page
+30]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=17) of Knowledge)
+hath, long ago, called for from all ingenious Scholars: This is a debt, which
+men of several professions pay you daily, in consideration of the pleasure and
+profit they reap from your O­rations, your Epistles, your Comoedies, and your
+Grounds: but especially we of Cambridge remem­ber, and, with exceeding
+delight, peruse (the great­est Honour that of late hath been done by a
+De­dication to this Community) your most judicious and elaborate Observations
+upon Experimental Philosophy. For although we nothing doubt, but the
+University of Cambridge will flourish, whilest there is any regard in the
+World had to Learning, and Modesty, yet to the Perpetuity of so famous, and
+antient a Corporation, we cannot but hope for an addition from the Eternity of
+your Labours. It is not therefore for nothing (most learned Princess) that far
+beyond what we can express, we renown and admire your Grace, looking ever and
+anon upon, and glorying in that immortall stately Fa­bric of Contemplation,
+which you have erected for the Wonder, as well as for Instruction of
+Poste­rity. It's true, our eyes are almost dazled, when we presume to look up
+to that height of National honour, wherein you shine above most of your Sex.
+But (which is yet far more noble and Prince­ly) the lustre of your Wit hath so
+surpassed the greatness of your Fortune, in glory, that we may now very
+plausibly throw away our other Greek, and Latine Authors, and be content to
+learn only, what you teach in proper and good English. For, when you retire to
+Study, you take (as we see) nothing at all upon trust; you sit down at no
+Phi­losophers Feet, but enquiring into the Mysteries of [[Page
+31]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=17) every Sect, you
+most exactly weigh, distinguish; and correct whatsoever Democritus laughed at,
+or Heraclitus wept, or Epicurus raved, or Pythagoras con­cealed, or Aristotle
+understood, or Arcesilas was ig­norant of. Nor do you neglect, or omit, in
+case the Lord Verulam, or Harvey, or Des Cartes, or Ga­lilaeus hath pretended
+to add to the atchievements of the Antients. This indeed, this it is (most
+emi­nent Dutchess) to study, to resolve, to determine, like a Royal and
+Impartial Professor: But whither on the sudden have you transported us: For
+that Principality (which is yours) in Learning admits (it should seem) of no
+bounds, but in your happy and pregnant imagination alone. Nature is infinite;
+and you your self, having nothing further to know in this, first discover, and
+then travel into another, World. we mean your Blazing World, which you
+enlighten with your own lustre, and describe to us far more accurately, then
+ever Plato in his Critias attempted. After this manner in all sorts of
+Scien­ces, if your Eminency proceed, Margaret will shortly pass, not only for
+the name of the Dutchess of New­castle, but also for the Cognizance of
+Philosophy. So we dare, as it were, before hand, hope, and pro­mise our
+selves, who study continually to be more and more (if it be possible) then we
+are already.
+
+> Cambridge Oct. 10. 1668.
+
+>
+
+> Most renowned Princess, Your most humble and devoted Servants, The
+VICECHANCELLOR and the rest of the Senate of the University of CAMBRIDGE.
+
+[[Page 32]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=18)
+
+### 2.10. Illustrissimae Excellentissimaeque Principi Marga­retae Novo-
+Castrensi Ducissa.
+
+ILLUSTRISSIMA PRINCEPS,
+
+CUm jampridem nobis explorata penitusque perspecta, sit singular is
+Amplitudinis Tuae na­tura quae sic est & multiplici eruditione or­nata &
+insitâ humanitate imbuta, ut & possit propter maximam facultatem, & soleat
+propter summam be­nevolentiam de Literarum Cultoribus optimè mereri,
+committere certè noluimus quin utróque nomine obstricti alacriores hasce
+literas sempiternae observantiae indices Celsitudini Tuae offeremus; cujus
+eximia bonitas prae­clar um hoc & peculiare habet, quòd nec ab amicis
+so­licitando, nec precibus nostris rogando evocata est, sed suâ sponte effusa
+& ex se tota: rapitur nimirum ad quamvis sui similitudinem excellens quaeque
+indoles, & quicquid aliqualis praestantiae opinionem sustinet, veluti cognatum
+sibi, invitat, amplectitur, tuetur. Quàm magnificum hoc atque Tuum quòd
+disciplinas nostras Tuae jam venerationis exemplo augustiores reddidisti?
+Quanto illud cunctis titulis speciosius ibit in secula, quòd in ea generis
+claritate fortunaeque opulentiâ stu­dia fic amas, ut pauperes solent? In
+quibus tam fe­liciter versaris, ut nemo ità literaturae vel deservire vel
+sufficere videatur, ut quotidie novi aliquid mira­culi parias, ut Foemina
+Viris, Aulica Academicis doctri­nae palmam praeripueris, ut singulis denique
+in sua cu­jusque laude praestantior evaseris. Ignosce obsecramus, si minum
+aliquem, ne Principem quidem nostram ipsa naturâ tantopere valere, aut
+propriis viribus in mul­tiformes istas altissimásque cogitationes excitari
+atque [[Page 33]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=18)
+erigi non credamus: amplissimam, illam mentem, per omnigenae disciplinae
+seriem latissimè patentem, necesse est divinitùs illustrari, docet nos ea tot
+tantarúmque rerum penè infinita comprehensio quantus Te coelestis spiritus
+habitator intrârit, & quàm non simplex numen uni­cum hoc pectus ad universa
+scientiarum spatia laxave­rit. Cúmque his auspitiis quicquid unquam volueris
+in artibus consecuta sis, cùm liquidae veritatis notionem melior aliquis
+genius Principis nostrae beneficium forè decrevit, cúmque Tuum fuerit non
+argumentari, sed pronuntiare oracula; nihilominus (quae est Amplitudi­nis tuae
+verecundia) exquisitis rationibus asserere Tua placita & confirmare dignaris
+tanquam Tibi fides non debeatur, quasi assensum nostrum non aliqua religio
+constringat. Posthac certè nobis in isto genere vigili­arum ferias destinamus,
+& Philosophiae tandem metam prehendimus, cùm Celsitudo Tua speculationem istam
+dignam existimaverit, cujus le curis imbueret, sibique propiùs addiceret:
+Etenim nihil non investigat um ple­néque comprehensum dabit istius accuminis
+felix per­spicatia, nihil non inventum cum Cantabrigiensibus suis communicabit
+istius candoris par atissima propensio. Ne tamen ignobilem interim quietem
+agere, aut de­sidiae litare videamur, reliquisti nobis difficillimam sanè
+Provinciam, gratulationem. Quippe divinum quiddam Literarum Alumnis quod certò
+sequantur nunc adeptis lucubrationes Tuae jamdudum praestiterunt, in studiis
+scilicet tranquilitatem; ideóque nec cuiquam veterum Regum aut Imperatorum
+honestiorem unquam titulum erectum fuisse opinamur quàm nos hìc Gratiae Tuae
+ponendum cogitamus,
+
+MARGARETAE I. PHILOSOPHORUM PRINCIPI. [[Page
+34]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=19) Ob profligatos
+errores, sublata dogmatum dissidia & pacem reipublicae literariae restitutum.
+
+Dat.è Coll. S. S. & Individuae Trin. 3 Non. Octob. 1668.
+
+Johan. Pearson, Magist. Coll.
+
+Anth. Marshall.
+
+Guliel. Lynnet.
+
+Richardus Stedman.
+
+Rob. Scott.
+
+Isaac Barrow.
+
+Joannes Hawkins.
+
+Robertus Moyle.
+
+Guliel. Corker.
+
+### 2.11.
+
+ILLUSTRISSIMA PRINCEPS,
+
+ACcepimus, eâ, quâ par fuit animi reverentiâ & honore tam grandis beneficii,
+Libros Tuos, id est, Incolumitatis nostrae archas & argu­mentum. Nam, quum in
+hâc ultimâ obrutescentis mundi barbarie dimicandum sit nobis de Vitâ, nedum de
+Honore, cum tot illiteratis seculi dehonestamentis; ac quasi desperandum esset
+de summâ rerum nostrarum; nè vilissimi nominis forent Cantabrigia,
+Philosophia, Eruditio; Effecisti Unica, ut putemus nos etiam porrò posse
+vivere, consignatâ nostri nominis memoriâ in Li­bris Tuis, etiam ultra
+Academias, & cum tempore aequabilitèr duraturis. Vivemus certè, quandoquidem
+ita Tibi placuerit, Illustrissima Princeps, quamdiu Virtuti & Libris constabit
+Honos; & simul ac Libros Tuos legendo Feritatem exuerit Isthoc seculum, tantâ
+rerum verborúmque elegantiâ cicuratum; aestimabit in­super, [[Page
+35]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=19) neque nihili
+prorsùs nos fuisse, quos ut Ope­rum suorum Arbitros non recusaverit,
+Ornatissima Princeps, Ita ipsa Librorum dignitas volentes, per­suasos
+omnimodò, victos bonâ fide traduxit in Justis­simam Tui admirationem. Utcunque
+tamen vides quantum laudum Tuarum deterendum sit, non tam in­genii nostris
+culpâ (licet nimiùm buc! & immane quantum tanta Dignitati imparit) quàm quòd
+Nata sis in infelici hoc seculo Tantae Virtutis ergô exiliisset Graeciae
+antiqua illa, justissima meritorum aestimatrix in Panegyrica decennalia; neque
+esset cur Athenas suas, licet Minervae alumnas, praeponeret Isocrates
+Cantabrigiae, cui Tu tantum quippè bonorem concilias, cui novem nec evenidam
+lucem accendis. Omnia sua Elogia Roma illa vetus explicâsset in statuas & Tui
+nominis Titulos, quibus assurgerent quotidiè Corneliae Liviae, & si quae aliae
+tunc fuerunt ideò seculi sui Decus, & sexûs Tui Gloria, quoniam Tu tunc
+tem­poris nec dum nata eras, sed Reservata à summo re­rum Authore, & quasi
+comperendi nata in aetatis no­stra felicitatem & ornamentum. Sed obsoleverunt
+dudum Tituli & Triumphi: periit quicquid fuit Grae­cia & Romae, nisi tenuis
+quaedam Fama: etiam ipsa quae magis durare putantur marmora, tot doctorum
+no­minibus inscripta, dilapsa sunt in vagùm pulverem, Vivunt tamem adhuc
+vigéntque ipsi Authores debitis­simis suis laudibus superstites, &
+admiratoribus suis vivaciores. Et communis haec Tibi cum celeberimis illis
+mortuis constabit Gloria; quòd, ut illos non jam demonstrant statuarum elogia,
+admirantium applausus, & secunda populi admurmuratio; sed solidum doctri­nae
+decus, & virtus ipsa suîmet Nomenclatrix: sic & meritissimum Decus Tuum &
+gratissima animi nostri attestatio, absque operoso illo gratulationum & [[Page
+36]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=20) applausuum
+apparatu, seliget Tibi locum in Bibliothecâ nostrâ, fidissimâ illâ ingeniorum
+custodiâ, & deposi­taria, ubi, quod tenuis res nostra nobis permittit, quod &
+mos majorum & per quos profecimus ingenua Con­fessio deposcit, nos subindè
+acclamabimus, Quod & (restitulâ in integrum Ratione, firmatâ Philosophiâ,
+victâ Insidiâ) Literas in aliorum aestimet, in suâ Personâ nobilitet
+Illustrissima Heroina. Hoc igitur non ingrati animi indicium qualecunque esse
+voluimus.
+
+> Cantabrigiae Eid. Octob. 6. 1668
+
+>
+
+> Illustrissima Princeps, Clementiae Tuae & Honori Devotissimi Clientuli,
+Praefectus Sociique Collegii D. Joannis Evangelistae.
+
+### 2.12.
+
+MADAM,
+
+BY the Bounty of several Benefactors, our Liberary is furnished with many
+large Vo­lumes; yet we have none we so highly e­steem, and are more proud of,
+then those written & given us by your Graces own hand. Jewels have their value
+crowded in a little room. The Sybills Leaves as they became fewer advanced
+their price. Among pieces all so perfectly excellent, we dare not otherwise
+offer at a Comparison, then as the Subject leads and determins us. The
+Greatness and Miracle which hath appeared in the Life of the most Incomparable
+Duke of Newcastle, could not but raise, in your Grace thoughts answerable to
+so glorious a Theame, and give us at the same [[Page
+37]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=20) time, both
+Wonder and Delight, to read the Hi­story of that full-blown Vertue and Glory,
+which with us appeared first in their bud and Blossome. The next Glory to that
+of having done such Won­ders, is to have writ them so well and exactly. And,
+had the Sex allowed it, Your Grace had done the same Actions, and left Despair
+to any other Pen to have reached, their height. A grateful mind, which we
+desire to Express, is the Prologue to our new Request: but our chief Trust and
+Con­fidence is in your own ready and natural inclinati­ons to all Acts of
+Bounty and Charity. They that are cunning in the Art of Begging, are so well
+versed and studied in Faces, that among an hun­dred, they know which to let
+pass, and where to fix: they read at first sight the Characters and
+Dispositions of a ready and willing Goodness: and will sometimes pitty them
+they Beg of, as carrying Faces apt to undo them into as low poverty as they
+themselves suffer. Though perhaps we have not so particular knowledge af those
+outward Linea­ments which might encourage this confident ad­dress; yet the
+general Fame, besides our own know­ledge, will not suffer us to be ignorant,
+of those of your great and generous Soul, which stayes not for opportunities
+offered, but seeks them, and to know where it is wanting, is all the argument
+necessary to your noble Bounty. We are so unhappily en­gaged in Building, that
+we can neither leave off, nor go on without the help and assistance of others.
+Yet we could be content to change our designe, and wholly leave what we have
+in hand, to erect a Statue to your Graces Name and Memory. That as one
+Margaret stands with us famous to Poste­rity [[Page
+38]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=21) for her Zeal to
+promote the growth of Know­ledge, which was then upon its recovery from a long
+and dark ignorance: so now your Grace ap­pears with fairer advantage, being
+your self, to the shame and reproach of our Sex, the great pattern and example
+of Learning. We despair of raising any more lasting Monument to your Name,
+then what already your Grace hath left with us. But, you will oblige here very
+many Beads-men and Votaries, who will make it a great part of their study,
+that the famous Acts of your Charity and Bounty, may be read not only in
+Stones, but Men, who shall for ever bless your Memory, and pray for your
+Happiness. In which number your Grace will find at present
+
+> Feb. 28. 1671.
+
+>
+
+> MADAM, Your Graces most obliged and devoted Servants, The Master, Fellows,
+and Scholars of St. Johns Coll. in the University of CAMBRIDGE.
+
+[[Page 39]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=21)
+
+### 2.13. To the most Illustrious and Excellent Prince, the Lord Duke of
+Newcastle, &c.
+
+MAY IT PLEASE YOUR GRACE,
+
+THat your Grace Might not want fresh oc­casions to oblige us, our Colledge was
+not hitherto a finisht Building, and we owe the perfection of our Colledge to
+the late ge­nerous obligements of your Grace, when you ho­noured us with the
+Picture of the late Right Ho­nourable Mary Countess of Shrewsbury, your most
+noble Aunt, and our second Found'ress. 'Tis true, we here have lodged hitherto
+with Conveniences, enough to attest the Generosity of your thrice noble
+Family, above as well our Expectations as Merits; and beyond what Learning
+durst promise it self from this Barbarous Age. Our Colledge Walls are as
+strong, as our Noble Foundresses Designes were generous: and the Sun looks
+upon us still, but as he should, through no Crevices or Chinks, nor makes more
+day than we permit him to our melancholy Retirements. Nor would your Grace's
+Illustrious Aunt be now ashamed of that fair addition she made our Colledge,
+if the durable­ness of the work can reflect any honour upon that generous
+Effort of her Charity. But we wanted the last advantage our present Buildings
+could re­reive: the Effigies of the Noble Countess of Shrews­bury, which would
+at once, ennoble her Foundation, and our acknowledgements; and remind the
+curi­osity of Strangers, that this Age hath not been bar­ren of Illustrious
+Instances of Charity, and of our thankful resentments of so great
+Encouragements to [[Page
+40]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=22) Learning. Yea,
+my Lord, your Grace hath now instructed us, and may undeceive-others: and the
+Statue of your Illustrious Aunt shall now encou­rage our Studies, and
+superintend over our Profi­ciency as her own Deputy: and we shall be ashamed
+to have lived unprofitably, and unanswerably to so noble a Benefaction; or
+that the Illustrious Countess of Shrewsbury should, amidst the Joys, wherein
+She is surrounded by a blessed Immortality, have the dissatis­faction to have
+loved Learning in vain, and have built us a Synagogue, and so nobly seconded
+the designes of the late most Serene Mother of K. Henry the seventh: 'Tis true
+we ought to have owned the Honour to have set up ere now the Statue of the
+most Noble Countess of Shrewsbury, but that which excuses all Immoralities,
+that which involved Kings, and King­doms, your most noble Family, and
+Learning, in one Common Desolation, the late Rebellion, hindred us till now:
+We could only look on with Sorrow, the place designed for the Effigies of your
+Grace's most Noble Aunt, and sigh that the barbarous wickedness of the times,
+which allowed no visible remembrance of Saints or Kings, should be able to
+defeat our Designe, to perpetuate, in this nature, Her Memory, and our
+Acknowledgements: But, we dare be bold humbly to conceive, this our late
+thankfulness will be no disadvantage to her happy Memory, and that the
+Inscription of St. John's Col­ledge upon her Statue, will hold even with the
+latest Date of time: and that it may not be the only miraculous Priviledge of
+some Rivers, after they have enricht their neighbouring Banks, to dive
+suddenly into the Earth, for the space of some miles, and rise again into
+their former greatness, [[Page
+41]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=22) and acquire a
+newer, and more lasting glory, by being, so long, undiscovered: thus shall the
+most Noble Countess of Shrewsbury be not disadvantaged (as far as our weak
+pretences can reach) by this our post fact Acknowledgements, but, like
+Majesty, by this distance of Years, command a greater Veneration. But if we
+dare pretend so much to honour the Memory of the Blessed now in Heaven, how
+shall we pay the Living, those that by so great Obligations have deserved all
+that we can pre­tend to of Gratitude and Esteem, amongst which, your Grace's
+Favours to our Colledge hath entitled you the Principal. My Lord, to such we
+are poor in every thing but Prayers: and that your Grace may long live to be
+(as you are) the honour of this Age, your most Noble Family, and (which we
+take the boldness to be proud in) this Colledge: that, by that Civility,
+whereby you have made even your misfortunes Illustrious, and Crown'd Heads
+your Admirers, you may long unteach this Barba­rous Age that bruitish
+disaffection to Learning; that you may survive that envy which your Grace's
+Excellent Accomplishments as well as our little Learning hath attracted, is
+the Desire of
+
+> May it please your Grace, Your Graces most Devoted, Obliged, and humble
+Servants, The Master and Fellows of St. John's Colledge.
+
+### 2.14.
+
+[[Page 42]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=23)
+
+MOST ILLUSTRIOUS PRINCE,
+
+IT would be a matter of great difficulty to re­count your great Praises, but
+it would be an endless undertaking to set forth your Merits; how great your
+Graces worth is in all parts of the World, especially this of England, may be
+con­jectured, even from hence, in that although we may endeavour to reckon up
+your Graces particular Fa­vours towards us, yet are we no way able to express
+them: And yet to pass by your Graces benificence in silence, because we are
+altogether unable to an­swer the worth of it, would be to excuse our selves
+from a less, and incurr upon our selves the gilt of a greater Crime; and so
+lest we should betray our ignorance in speaking or writing to be professedly
+ungrateful, something we must offer to your Grace though we fall never so much
+short of the great­ness of your Merits; our devotion in attempting, may in
+part excuse our inability in performing, what we owe to your Grace: Pardon us
+great Sir if we devoutly admire those singular perfections, for the knowledge
+of which we are beholding to your Grace alone, whom when we admire for your
+Excel­lency in other Arts, we find that you alone are able to make your Horses
+if not altogether equal, yet but little inferiour to their Keepers, we are
+convinced that your Industry together with your Skill is so a­vailable, that
+they almost seem worthy of the society of Men, and if they could but speak, as
+men do, we should hear them complaining that they are in­jured in not being
+accounted rational Creatures; when being taught by your Grace they are a
+safeguard in War and the greatest ornament of a Common-wealth [[Page
+43]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=23) in Peace. Go on
+therefore Great Sir who only art able to bring such great things to
+perfection: Long may your Grace live like your self, that you may grace the
+World with your Inventions, assist the King with your Counsel, preserve your
+Countrey by your aid and Valor, and continue to honour us your most humble
+Servants with your Patron­age.
+
+Given from our Colledge of the Holy and Undivided Trinity, the fifth of the
+Calends of April 1663.
+
+John Pearson Master of the Coll.
+
+Geo. Chamberlaine Vice-Master.
+
+Clem. Nevill.
+
+Robert Boreman.
+
+William Baylie
+
+Robert Crane.
+
+Humphrey Babington.
+
+Richard Stedman.
+
+Robert Scott.
+
+### 2.15. Excellentissimo Honoratissimóque Domino, Domi­no Gulielmo Marchioni
+Novo-Castrensi, &c.
+
+EXCELLENTISSIME DOMINE,
+
+PUlchrè & prudenter Reges Clarissimos, solns qui referre potes, imitaris, cûm
+eodem op­timè merendi studio, tum nec minore largiendi sacultate: Illis utique
+debemus amplissima haec Mu­sarum sacraria, & reditus quibus fruimur,
+amplis­simos: Quod optandum erat reliquum, Tunobilissimâ nos arte donâsti, &
+humanis usibus longè commodis­simâ. Eximiam proinde Nominis gloriam, utrique
+[[Page 44]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=24) & meriti
+estis, & consequuti, & transmittendam in posteros felicissimam memoriam, in
+quantum durabunt marmora & eruditio. Patere, Vir Illustrissime, quan­tum
+Vestra potest insignis Humanitas, ut in laudes tam cumulatas, hoc insuper
+accedat debitissimum Tibi, quòd inter Heroas omnes, quos ab interitu certior
+Histori­corum fides, aut Poetarum vindicat ingenium, vix Tibi unum in arte Tuâ
+imitandum habueris, neminem omnino conferendum habeas. Sanè, inter Deos,
+An­tiqui celebrant Apollinem, ob isthanc fortè peritiam, praepositum Equis
+Solaribus custodem juxta ac modera­torem; At ille demum is erat, à quo
+perperam edoctus Phaethon tristissimas imprudentiae poenas dedit; quanto
+feliciorem habiturus exitum, si in Tua tempora incidis­set. At etiam Apolline
+prior Neptunus, tutelaris idem Oceani & Equorum Deus, magno cum dedecore
+istius artis, praelatam sibi Pallada dolebat, & postha­bitum oleae Pegasum
+suum, scilicet uno victus suffra­gio, clarissimam Athenas Urbem, Minervae
+reliquit insigniendam. Quàm Tu Marino Numine dignior es, à quo, si contigisses
+medius, magnâ suâ cum gloria tulissent, & insignem Pallas repulsam, & felicius
+no­men Athenienses. Nec verò est, cur imperitos pror­sus hâc in re fuisse
+Veteres, aut minus industrios, creda­mus; magna quidem ea sunt, quae de
+Pegaso, Cyllaro, Bucephalo, aliique, non oppidò multis, accepimus: Verùm illi
+solùm perficienda fuit res Equestris, qui effi­cere primus potuit, id quod Tu
+facis, ut nobilislimum animal, & post homines, omnium sagacissimum, rati­onis
+quodammodò particeps esset, & tantùm non huma­nâ dignum societate: Quod, si
+Poetarum Princeps nu­dum Equitis epitheton, consultissimo fortissimóque Vi­ro
+dignum decus, & Nestori suo par crediderit, quo Te nomine insigniemus,
+Clarissime Marchio, eosdem & [[Page
+45]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=24) annos meritum
+quos  [...] transegit, & melio­rem, si contigerit usquam, famae Tuae
+praeconem. Quod solum nostrae opis est, magnos inter scientiarum
+instau­ratores Te merito suspicimus, & post divinam illam sanctissimi Regis,
+proximè reponimus Icones Tuas; Optimo quidem jure, ut, qui strenuus olim
+Regiae Ma­jestatis assertor eras & vindex, eidem esses cum Rege Tuo, quantum
+in nobis est, aeternitati sacer: Id insu­per vovemus alacres, magna nos &
+amplitudini Vestrae devotissima Societas; Ita Tu nobis usque faveas,
+Il­lustrissime Heros Apollinaris. & Musae omnes Mar­chionissa Tua.
+
+Dat.è Coll. S. S. & Individuae Trin. 4 Cal. Febr. 1663.
+
+Johan. Pearson, Magist. Coll.
+
+Clem. Nevil.
+
+Theod. Crosland.
+
+Anth. Marshall.
+
+Georgius Chamberlaine.
+
+Franciscus Barton.
+
+Robertus Crane.
+
+Guliel. Lynnet.
+
+Gualterus Catsby.
+
+### 2.16.
+
+MY LORD,
+
+BEsides the publick acknowledgement of the great honour done to the
+University, in a­dorning their Library with your Excellen­cies own most exact,
+and renowned Works; The Duty of my place calls upon me to let your Honor know,
+that as this singular Grace, and Favour is [[Page
+46]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=25) highly resented
+by all; so by none more particu­larly acknowledged, and admired then, by
+
+K. C. C. Jan. 16. 1663.
+
+My LORD Your Excellencies most observant Servant
+
+James Fletewood.
+
+### 2.17.
+
+ILLUSTRISSIME MARCHIO,
+
+MIrificè tenemur immensae laudis & Artis o­pere, quod nupèr imputâsti seculo,
+& Al­mae Cantabrigiae, dono dedisti; tantum e­nim, ac tam certum eruditionis
+argumentum & Acade­miae pergratum, & gloriâ tuâ dignum uno omnes ore
+ag­noscimus: Nec alio fortasse Nobis, Posterisve opus erit Theatro, quo summâ
+cum veneratione tam Fortunae, quàm Animi tui magnitudinem intueamur. Nomen
+quidem aliquod, decúsque olim in hoc studio fuit Xeno­phontis, & Balbi, &
+Simonis Atheniensis; cete­rùm ex quo luculentissima res, Novo-Castrensis
+Me­thodus in lucem prodiit, Autores istos nec miramur ad­modum, nec
+desideramus, ne Veterum faeces cum ho­dierno flore miscere videamur. Si verò
+merito suo ce­lebretur Thessalia, quòd Marti sacrum Animal effudit, Vlláne
+unquam Oratio Excellentissimo Marchioni par esse poterit, cujus ingenio non
+Equum jam aliquem singularem, sed Equestrem Scientiam totam debemus? Nondùm
+nobis (Invictissime Domine) nondùm ex­cidere discrimina, quae totiès in acie
+Regiarum copia­rum Ductor subiisti: Verùm quià virtutem, & fidem, & triumphos
+tuos abundè loquuntur, quotquot Heroas, [[Page
+47]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=25) & arma
+frequentant, nos Academicis spaciis innutriti, ac literarum omnium amantes in
+Equestri Apparatu toti sumus, ubi cuncta subtilitèr accuratè, expresseque
+arbitraris: Appellamus Aelios, ac Persios nostrates; appellamus etiam (si
+placet) Exteros, qui posthabitis ubique suis Magistris, Unum Te consulunt,
+unum au­diunt, unum versant, & suum quisque Quadrupedem ad nutum, obrussámque
+tuam castigant. Quantum ad Alumnos togae, & si ferè (quae fortunae nostrae
+maligni­tas est) vix ultra jumentum sapimus meritorium; ta­men extremum
+Discipulorum tuorum agmen claudere non erubescimus, ab Hipparcho longè omnium
+huma­nissimo moniti, hodiè primùm in alieno foro peregrina­mur, Circum
+ingredimur, in quatuordecim sedemus, equiria spectamus; neque tamen aut
+Xanthum, aut Cyllarum, aut Incitatum, aut Pegasum ipsum am­pliùs, sed quem Tu
+seligis, alis, instruis, absolvis, Caballum admiramur,
+
+> Cantabrigiae è frequenti Senatu 9 Cal. Februar. 1663.
+
+>
+
+> Excellentiae tuae addictissimi PROCANCELLARIUS reliquusque Senat. Acad.
+Cantab.
+
+### 2.18.
+
+ILLUSTRISSIME PRINCEPS,
+
+UT Tibi usque suppetat nova nobis benefaci­endi materia, deerat quippe
+Collegio nostro necdum absoluto & ad fastigium bonâ fide perducto ultima
+manus, & exacti probè operis Comple­mentum. Habitavimus quidem hucúsque,
+maximâ cum Tuae Illustrissimae Familiae Gloriâ, eleganter & splen­didè satis,
+quantum è re nostrâ esset, & liceret per temporum Literis infensorum incuriam.
+Sustinent se [[Page
+48]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=26) fortiter satis
+muri nostri, nec ruinam minitantur, aut admittunt (nisi quà decet) solem: nec
+dispuderet Il­lustrissimam Comitissam Salopiensem sui Operis, cujus firmitati
+in tam grande Collegii nostri Ornamentum tot anni suffragantur. Sed deerat
+adhùc, quae transeun­tibus memoriam tanti beneficii refricaret;
+Honoratissi­mae Principis Effigies, & quasi Vicaria Inspectrix tanti
+aedificii, nostraeque in bonis studiis profectionis. Et no­strî nos puduit
+vesci frugibus, nec arborem suspicere, unde tanta nobis beneficia decidebant.
+Ergo per Te li­cuit, Illustrissime Princeps, nobis non jure impingi posse
+Ingratitudinis notam: & jam ex voto collocata in Collegii nostri tholo
+nobilissimae Amitae tuae Effi­gies, nos animabit indies, quasi novus loci
+Genius, & tantae praesentiae Conscientia urgebit nos porrò in hoc li­terarum
+certamine, ne inutiles vixisse videamur, aut poeniteret olim Illustrissimam
+Heroinam, inter tot gau­dia, quibus in Coelo jam fruitur, fecisse nobis haec
+otia, hanc Domum, alterámque à Serenisimâ P. M. Prin­cipe Margareta Fundatrice
+nostra habuisse hujus Col­legii Procurationem. Et quidem, ne fecerimus hoc
+an­te, & obsignatum Testati simus tanti beneficii grati­tudinisque nostrae
+nomen, obstitit bellorum rabies infensa Principibus, Familiae Tuae, Literisque
+(Heu nimis) in universum omnibus. Licuit nobis tantùm inspicere defossum sat
+alte in sacris hisce aedibus locum Illustris­simae Mariae Salopiensis Statuae
+destinatum, & ingemis­cere, tantum potuisse delirans in rabiem usque isthoc
+se­culum in pientissimam Nobilissimae Foeminae memo­riam, in Literas bonas
+nostrámque omnium Gratitudi­nem. Nec tamen deteretur aliquid de Illustrissimae
+Comitissae Gloria, dum nobis (serò licèt) detur esse Gratis, dum perennaverit
+Collegium nostrum, Hono­ratissimae Principis Statuae inscriptum: Et ne sola
+sint [[Page 49]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=26)
+Fluviorum quorundam miracula, discurrere scilicet lato alveo in lascivientem
+riparum viriditatem, deindè subducere se ex oculis, & acto per oculta
+aliquorum mil­lium cursu emergere rursùs, & vindicare sese in su­periorem
+magnitudinem: emicabit meliùs post tot an­norum intervallum Illustrissimae
+Comitissae fama, & quantum licet per gratissimam nostram beneficii in nos Ejus
+Commemorationem, majorem sibi conciliabit èlon­ginquo Reverentiam. Si audeamus
+haec tantáque spon­dere in Mortuorum memoriam, quo ergò Tibi, Illustris­sime
+Princeps, superstiti adhuc (bono cum Deo) sa­tisfiet à nobis, cui tam solenne
+est, & haereditarium tot beneficiis Collegii nostri vota, & omnia Honoris
+suffra­gia demereri? Ut autem serum sit Lacrymosum illud alterum defuncti olim
+Herois celebrandi, & posteros nostros potiùs maneat officium; ut diù faveas
+nostro nomini; dedoceátque haec tempora immanem illam in Literas feritatem
+summa illa Comitas Tua, quâ tot exteros Principes Tibi conciliâsti, expugnâsti
+Invidiam, nullum Tibi infensum reddidisti, nisi communem om­nium hostem, in
+votis summè est,
+
+> Illustrissime Princeps, Clementiae Tuae devotissimis Clientibus Magistro &
+Sociis Collegii D. Joannis Evangelistae in Academiâ Cantabrigiensi.
+
+### 2.19.
+
+[[Page 50]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=27)
+
+MOST EMINENT PRINCE,
+
+ON whom to father the rare, and admirable Method of Horsmanship, that
+singular, and useful Invention, which hitherto so many Nations, and so many
+several Societies of men, and so many Commanders in chief, have earnestly
+desired, though Strangers peradventure may, yet of all men a­live We of the
+University cannot be to seek; because every single line, that Apelles draws,
+serves us for a sufficient Character, and Cognizance of the Ar­tificer: But in
+regard of our unfeigned, and un­alterable Zeal for the Duke of Newcastles
+honour, We did heretofore (if your Highness remember) now and then entreat,
+and beseech you not to sup­press any longer (than necessity required) so
+learned, and useful, and compleat a Work. In that humble petition of ours
+whether we did as became us, or no, we determine not: only (with leave) we
+sup­pose that the reasonableness alone of our importu­nity prevailed at length
+with, and overcame a Ge­neral otherwise absolute, and altogether invincible.
+Whereupon at this day (by your Princely favour) we see and with exceeding
+delight (as occasion is) peruse a second demonstration of your abilities,
+ex­posed now to publick view, for the benefit of all generous and high-
+spirited men in Europe, so that no man hereafter may dream of any Person in
+any Place whatsoever, more Noble, or (in what part of Learning you please)
+more an accomplished Master, than your most Excellent self: for, as if in the
+former Volume you had only vouchsafed us a tast to whet our Stomachs, you now
+spread, and furnish a Royal Table with all sorts of Delicacies; [[Page
+51]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=27) you now gratify
+the appetite of your Countrey-men; you now encounter, and answer the enquiry
+of Cambridge Philosophers, in whose judgement your last adventure seems always
+to be the most Glori­ous. If they will enter the Lists, and compare, we
+challenge not only these old Professors, Bellerophon, Sesostris, and Sarmenes,
+but also the later Authors of greatest account in France, and Italy,
+Pignatel­lus, Labrovius, and Grison. Let them altogether appear, and either
+they must immediately vanish, or else ingenuously blush that they are but once
+na­med in the same day with matchless Cavendish. And although they may seem,
+at first, somewhat more than ordinarily concerned, to be thus at length
+re­duced, yet as soon as ever they hear the Name of Duke William, they bow to
+your Sovereignty, and falling infinitely short of your Glory, they confess you
+the most absolute and only Master, and them­selves your Pupils. But why do we
+mention these several Dressers, when as (if we look abroad) we may daily see
+both Kings and Princes resorting to your Palace, condescending to sit at your
+Feet, and intreating you as their Oracle to declare unto them, first where and
+of what Race to chuse a Horse for the Mannage, and then how to Feed, and
+Order, and Mount, and to Work, and Raise, and Stay, and Ride in all Voltoes,
+and Corvetts, Forward, Backward, Side-ways, on both hands, just as the Rider
+directs. For this same purpose, and in or­der only to be Matriculated into the
+Duke of Newcastle's Academy, the renowned Cavaleers of all Orders attend,
+whether they be Knights of the Golden Fleece, in Burgundy, or the Knights of
+of St. Michael, in France, or the Knights of the [[Page
+52]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=28) Annunciation in
+Savoy, or the Knights Batchelors, the Knights of the Bath, and the Knights of
+the Garter, in England: for all agree to learn of you, to Back, to Sit, and
+Ride, as you direct; and whensoever at a loss, or puzled, or in dispute to
+acknowledge you the only Governour, and Dictator, and Um­pire, and such a
+Master of Horse, as can (when you please) infuse sense, and reason not only
+into Men, but also into Brutes. Most deservedly there­fore shall you (Great
+Sir) in your Book entertain, and exercise the Studies not only of this, but
+like­wise of succeeding Generations, as we confidently presage, and promise
+our selves, who are
+
+> Cambridge, March. 13. 1667.
+
+>
+
+> Your Graces most Humble and most Devoted Servants, The VICE-CHANCELLOR and
+the whole Senate of the University of Cambridge.
+
+### 2.20.
+
+EMINENTISSIME PRINCEPS,
+
+UNde sit equestris Methodus, Illa tot Gen­tibus, tot hominum contuberniis, tot
+Impera­toribus expetita Gaza, minimè omnium mi­ramur; nam Apellem statìm ex
+lineae subtilitate. Ve­rùm, quia Te singularitèr adamamus, quod elucubra­tus
+es, laboriosum, & doctum Opus ne semper intra Vestae penetralia concluderes,
+saepè (si meministi) plu­ribúsque verbis interpellavimus: recténe, an per
+peràm, Ipse videris; certè postulationis nostrae aequitate victus es, &
+expugnatus tandèm Dux aliàs insuperabilis; [[Page
+53]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=28) hinc alterum
+videmus, & beneficio tuo obtinemus excellentis ingenii periculum, quod in
+Europae totius Theatro facere dignaris, Ne quis in posterum imagi­netur Uno Te
+quicquam esse uspiàm aut generosius, aut (quâ parte velis) eruditius. Etenim
+quasi supe­riori Volumine salivam tantùm nobis movisses, Mensam nunc instruis
+aberiorem, nunc Civium quoque desideri­um exples, nostraeque Philosophorum
+expectationi satis­facis, quibus proxima quaeque tua non possunt non vi­deri
+consummatissima. Conferant se (neque enim re­pugnamus) non modò Veteres illi
+Bellerophon, Se­sostris, Sarmenes; sed hesterni (si placet) Domito­res Itali,
+Gallive, Pignatellus, Labrovicus, Grison; quid? Velut Umbrae diffugiunt; &
+quamvis in ar­gumento nobili dolent sibi palmam praeripi, tamen, ubi Nomen
+audiunt Gulielmi Ducis, agnoscunt numen, longéque infra Cavendishi laudes
+jacentes, summum Illum, unicunque Magistrum, se verò contrà faten­tur. Sed
+quorsùm tergeminos, Agitatores loquimur? Cùm Reges etiam, & Terrarum Domino
+cernamus ad Te convolantes, Te (praestantissime Moderator) affectantes, Te
+consulentes, interrogantésque, ut ab Ori­gine primâ repetas, discernas,
+expendas quâ Regione, stirpéque veniat Bellator Sonipes, quomodo parandus,
+alendus, erudiendus, curandus, insiliendus, erigendus, admittendus,
+compescendus, & in omnem partem pro arbitrio flectendus; nec alio fine, quàm
+ut in tuam Unius Academiam adscribantur, limen jam tuum obsident sa­cri
+(quotquot in honore) Collegae, sive Aurei Velleris apud Burgundos, sive S.
+Michaelis apud Gallos, sive Annuntiationis apud Sabaudos, sive denique
+Perisce­lidis, aut Balnei, aut Ordinis Aurati in Patriâ: Nam tuum ad nutum se
+componunt, tuis auspiciis inscendunt, & equitant, & quotiescunque vel
+delirant, vel abdi­tum [[Page
+54]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=29) aliquid,
+abstrusúmque quaerunt, omnibus, & sin­gulis Tu Rector, Tu Thesaurus, Tu
+Dictator es, & Princeps juventutis, qui non hominibus jam ampliùs, sed Brutis
+ipfis mentem, animúmque inspiras. Quo­circa tuis laboribus non solùm hujus
+seculi, verum eti­am omnis aevi studia exercebis, quemadmodum in ante­cessum
+sibi pollicentur.
+
+> Cantabrigiae è frequenti Senatu 3 Id. Martias 1667.
+
+>
+
+> Eminentiae tuae cupientissimi PROCANCELLARIUS reliquusque Senat. Acad.
+Cantab.
+
+### 2.21. Eminentissimo Illustrissimóque Principi, Gulielmo Duci, Marchioni,
+Comiti Novo-Castrensi, &c.
+
+EMINENTISSIME PRINCEPS,
+
+REcensere singulos quos nactus es Titulos operae res esset difficilioris, quos
+autem merer is pror­sus infinitae; Publica Tua in Universum Orbem merita hunc
+nostrum praecipuè Britannicum quanta sint vel hinc licet conjicere, quòd
+privata in nos Tua pro dignitate exprimere soliciti etiamnùm si­mus neutiquam
+valeamus: Silentio tamen praeterire beneficia satis quia laudare non possumus,
+à leviori nos esset culpâ expedire majorisque criminis reatum contra­here,
+ingratos palàm profiteri, ne in dicendo rudes vi­deamur. Tentandum igitur est
+aliquid etsi parum suc­cedat, in magnis utique voluisse sat est; Voluntati
+licet impar sit potentia, impotentiam officiosa excusabit vo­luntas. Ignoscas
+itaque, Princeps Illustrissime, side­voti suspiciamus virtutes Tuas, quas vel
+novisse tibi uni omnes acceptum referimus; si mirari subeat tuae in [[Page
+55]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=29) caeteris
+potentiae praestantiam, qui vel Equos potis es reddere ipsorum custodibus si
+non omnino pares, parùm saltem inferiores; Tua in ipsos usque adeo cùm arte
+valet industria quod tantùm non efficias ut humana societate digni videantur,
+quos nisi sola deficeret lo­quela, conquerentes audiremus se injuriâ rationis
+parti­cipes non haberi, quùm à Te edocti maximum in Re­publica sint Belli
+praesidium, maximum ibidem Pacis ornamentum. Solus ergò qui potes, tanta
+pergas per­ficere, Vive diu, tibimetipsi soli diúque similis, Ornes inventis
+Orbem, Consilio Regem juves, Patriam auxi­lio incolumen praestes, & nos Tui
+studiosissimos Tuo usque Patricinio tuearis.
+
+Dat. è Coll. S. S. & Individuae Trin. 5 Cal. April. 1668.
+
+Johan. Pearson, Magist. Coll.
+
+Georgius Chamberlaine, Vm.
+
+Clem. Nevil.
+
+Rich. Boreman.
+
+Guliel. Baylie.
+
+Robertus Crane.
+
+Humph. Babington.
+
+Rich. Stedman.
+
+Robertus Scott.
+
+### 2.22. Excellentissimo Invictissimóque Principi, Gulielmo Duci Novo-
+Castrensi, &c.
+
+ILLUSTRISSME CELSISSIMEQUE PRINCEPS,
+
+QUàm gratum animi cultum affectúmque, cùm universa togatorum gens, tum Musae
+preser­tim DEO Triuni sacrae, Familiae Tuae de­beant & enixè devovent, ut non
+tam ex verbis, quae [[Page
+56]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=30) longo post
+linquis intervallo, quàm ex caufis, quarum Ipse Author es aestimare velis, à
+Clementia Tua demisse obsecramus. Enimvero, ut taceamus ingentia dona in
+literatos jugiter collata, tum praeclara ista, quibus, und cum forulis nostris
+tantùm non succumbimus, volumi­na, novis nos urges & oner as gratiaum
+argumentis, beneficia beneficiis pertegis, & quo majus plenè exco­gitando non
+poteras, Teipsum donas. Quo quidem in­troeunte, videtur Bibliotheca nostra,
+Vestrae veluti Magnitudinis aemula, augustiorem multò speciem in­ducere; & ne
+quid adventûs defit solennitati, sponte sedibus suis se movent minorum gentium
+Heroes, cer­tatìm ad unum omnes assurgunt, & facto agmine in angustias ruunt,
+ut Tibi locum officiose cedant. Quos inter Antesignanus CAESAR, Britannorum
+olim hostis acerrimus, herbam Tibi promptissimè porrigit, priorem lubens
+agnoscit, & serò tandem intelligit difficilem fuisse de Insula nostra
+victoriam, utpote quae Tui si­miles, & Te tulerit. Sed defunctorum istae
+gratu­lationes, & superstiti etiamdum Principi minùs ac­commodatae: Quòd verò
+per or a hominum domi forisque volitas, quòd celebria Tua dicta, & res palàm
+gestae, omnium oculos aurésque trahant, & tanquam syderum influxus ubique
+praestò sint, id imprimis Excellentissi­mae Heroinae MARGARETAE Tuae, tum
+fidelissimo Il­lius Interpreti meritissimò ferimus acceptum. O factum bene ut
+quae posteris aeternum profutura sunt, ab oculatâ teste, & individuâ rerum
+Tuarum Sociâ exarata transmitterentur; ut quae orbe Terrarum con­scio
+perpetrata sunt, linguâ gentibus communi celebren­tur; ut totius denuò Europae
+Magnates Novo-Ca­strii Vitam tanquam virtutis omnigenae Exemplum, legant,
+suspiciant, imitentur. Quod nostrum est inter­ea, DEUM Opt. Max. suppliciter
+oramus, Ut aetati [[Page
+57]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=30) Tuae quàm
+plurimos porrò annos propitius adjiciat, quibus veneranda Principis Senectus,
+quasi redditâ ju­ventute, revirescat, & uberrimam novae insuper Hi­storiae
+materiem posteris suppeditet.
+
+Ità vovere indies non desinimus,
+
+Dat. Cantab. à Coll. S. S. atque Individ. Trin. Junii 19. 1669.
+
+Celsitudini Vestrae devotissimi
+
+Joann. Pearson, Magist. Coll.
+
+Geo. Chamberlaine, V. M.
+
+Clem. Nevill.
+
+Guliel. Baylie.
+
+Rob. Crane.
+
+Humph. Babington.
+
+Guliel. Lynnet.
+
+Rich. Stedman.
+
+Jo. Hawkins.
+
+### 2.23.
+
+QUod usque adeò inclarescas, Illustrissime Prin­ceps, quaeque dudum Nominis
+Vestri celebri­tas meritò videbatur summa, major quotidiē fiat, seriò illud
+Tibi, illud & nobis, si per Te liceat, Collegium nos Vestrum Superbè
+gratulamur. Quin pa­teris, Heros Amplissime, otia Vestra nunquam non
+oc­cupatissima & à nobis interpellari, inque tantâ omni­um adeundi vos
+salutandique contentione, ne Tuorum, ne domesticos, humiles licèt, applausus
+dedigneris. Dum famam Vestram omnes ubique praedicant rapiúntque suas ad
+partes Nominis Vestri gloriam, dum Britan­nia sibi Te dum Academia vendicat,
+quidni & nos, quibus, utpote minoribus, tantum Patrocinium & de­esse [[Page
+58]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=31) & deberi
+videatur, Te nostrum (quale nobis De­cus & Ornamentum!) gloriemur? At nec fas
+est credere Amplitudinem Vestram ablatam nobis velle tam justam gloriandi
+Ansam, quumillud solum summis Ve­stris in nos Beneficiis egisse hucusque
+videaris, ne Tan­tus è nobis prodiisse Heros difficulter nimis olim
+crede­retur. Versabamus manu animóque sedulo quae apud nos sui Ingenii
+Vestraeque vitae Gestorum Elegantissi­ma Monumenta deposuer at, Serenissima
+Princeps Con­sors Vestra Praeclarissima, moramur singulis Paginis, Summa
+quaeque, hoc est, omnia notamus, haurimus ocu­lis quae olim famâ nobis
+plurimum, non tamen satis innotuerant, dumque vivi vivum legimus, placidè
+per­fruimur, & nostro & posterorum bono; & cum illâ in Re toti sumus opportuné
+supervenit Praestantissimum Tui Testimonium Egregium illud hodiè Bibliothecae
+no­strae, imo Vestrae, Ornamentum. Accepimus Clarissi­me Ducum, hoc honoris &
+amoris Vestri Argumentum eâ, quâ par erat & reverentiâ & gratitudine.
+Re­posuimus Librum Illum inter reliquam Musarum su­pellectilem; nec erit in
+posterum qùod malè audiamus quasi ex literis emollescerent nimium hominum
+animi, & non è nobis prodiret quis quam nisi rebus gerendis in­eptior, cum Tu,
+Fortissime Dux, ducis Musarum Cho­ros, exerces juventutem Academicam, excitas
+animos, regulásque ponis, quibus ad ardua quaeque obeunda vel interlegendum
+assuefiant. Profuisti hucusque Patriae populóque Vestro factis usúque rerum,
+quod cum ulterius nec licet nec opus est, ea Tu inter Pacis otia documenta
+tradis, quibus transeunt ad posteros Utiles artes; & ad quae hujus Saeculi
+homines per Exemplum, ad ea posteri ex praecepto vestro instituantur: nec
+ullum pro­fectò magno Principe Immortalitatem merituro dignius benefaciendi
+genus quam quod in posteros erogatur:
+
+[[Page 59]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=31) Nondum
+Senuisti Praestantissime Dux, etsi emeritus, mereris tamen: Aciem instruis,
+disponis militem, ex­ercitum ducis, & quicquid ad Victoriam docti Equi
+for­tésque equites valuerunt unquam, & valuerunt pluri­mùm, illud. Tu vel
+inter otia & ludos meditaris: fir­masti imperium hominum, Animalque nobis
+impar & Potentissimum ad usus nostros Amplitudo vestra feli­citer efformavit.
+Quin macte virtute Vestra Dux Optime; instrue Tu tua tempora, ut deponant
+hodiè homines omnem morum feritatem, vel se fateantur ul­trò ipsis Brutis
+immaniores. Haec sunt otia Vestra; fruaris itaque Pace & Recessu illo, Serus
+in Coelum redeas, Sisque diu quod hodiè experimur, Ingens Bri­tanniae decus,
+literarum praesidium, & perillustre anti­quae virtutis exemplum pariter &
+firmamentum: Illa, prosperáque omnia Amplitudini Vestrae precamur.
+
+> Dat. è Collegio praedicto 3 Cal. Aprilis, 1668.
+
+>
+
+> Devotissimi Tibi Magister & Socii Collegii D. Joannis Evangelistae in
+Academiâ Contabrigiense.
+
+### 2.24.
+
+VEstris imprimis auxiliis debemus, Illustrissime Princeps, quòd Nobilissima
+Domina, Sa­lopiae Camitissa, justis suis apud nos hono­ribus, quibus diù
+fraudata est, gaudeat jam tandem, & triumphet. Te autem, cui meritò in Bello
+maximi, in pace optimi contigit titulus, apud Reges, summósque Principes
+Equestris statuae manet sedes, & expectat gloria. Tam magna praestitit
+Celsitudo Tua, ut in solâ virtute sperari possint praemia, & contenta sit
+tantùm meruisse. Nulli autem rectiùs sciunt, aut digniores [[Page
+60]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=32) sunt, qui
+respublicas administrent, quàm qui vehemen­tiùs aversantur & minimè volunt.
+Perduellium in Angliâ nullibi fiet mentio sine vestri nominis virtute & summâ
+laude, nec vel in dissitissimis terris tam horri­ficum belli fulmen latere
+potuit. Non mediocris nos honoris & superbiae tangit sensus, cum cogitemus ea
+apud nos olim scientiqe, prudentiae, & invicti animi se prodidisse specimina,
+quae bodiè pleno elucescunt ju­bare. Magnus ex Illustrissimâ Familiâ contigit
+honos, qui autem è propriâ virtute sequitur longè adhuc ma­jor est. Clarum
+virtutis & gloriae facem, quam Cel­situdini Tuae Parentes praetulerunt,
+lucidiorem tradet posteris. Superiores nostri ad nos detulerunt, quo animo &
+studio nos simul & bonas literas, dum hîc moram traheres, prosequebaris; id
+insuper nos in posterum uni­cè curabimus, ut ea, quae hodiè de Te habetur
+opinio, incorrupta ad seros usque nepotos descendat, & diutis­simè vivat. Ut
+autem egregia illa, quâ maximè gau­des et fulges inclarescat indies
+benefaciendi indoles, eam ipsis parietibus nostris inscribi obnixè petimus,
+utpotè quae hac ratione ultra mortalitatis fatum sit duratura. Eo­rum in
+numero nos sumus, quibus stultitiae nota inuri­tur, quód aedificare caeperint,
+nesciunt autem perficere. Utinam non ita verum esset infortunium, quod vetat
+quo minùs hoc in nos quadret insame dedecus. Nobis enim non contemnendam
+pecuniae summam testamento suo legavit vir quidam Optimus, quam huic usui
+de­stinavimus, ille autem, cujus fidei commissa erat fatis nuper cessit, & an
+cum illo sepulta prorsùs sit, non­dum satis intellegimus. In luto igitur
+relicti, à Te, aliisque quibus propentior ad benignitatem animus est, ostiatim
+emendicare cogimur, ut miserè claudicanti jam operi aliquale saltem praestetis
+auxilium. Non magna meditamur, non invidiosa arte extructa, non [[Page
+61]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=32) excelsis &
+variegatis columnis suffulta, non caelatis la­quearibus elaborata, nec marmore
+fulgentia designamus tecta. Quod aggredimur, non superbiae aut luxûs, sed
+necessitatis opus est. Extremi enim Collegii parietes miserè nutant, & hianti
+ore ruinas minantur, ita ut hoc quod novum est quasi fulcrum & pulvinar sibi
+po­stulâsse videantur. At angustiores insuper sedes nostrae sunt quàm ut
+succrescenti Musarum soboli sufficiant. Quare, si benevolentia Vestra lapides
+cum Deucalione post tergum jaectt, numerosiores exurgent juvenes, atque adcò
+plures vestri Cultores. Det Deus integrum semper, quo jam gaudes, animum,
+corpus agile & vividum, senectutem tardam, vel quae nihil habeat senectutis
+prae­ter ipsam prudentiam. Sic Precantur,
+
+> Cal. Mart. 1671.
+
+>
+
+> Celsitudinis Vestrae humillimi Oratores, Magister, Socii & Scholares
+Collegii Divi Johannis Evangelistae in Academià CANTABRIGIENSI.
+
+### 2.25.
+
+EMINENTISSIME PRINCEPS,
+
+NOn ubique locorum negliguntur, aut algent Musae; nam Tu foves indiès, & Almae
+Parenti studes adhuc: imò verò, constantèr adeo, prolixéque studes, ut quò
+voluntatem istam egre­giam in aevum retineres, propter incredibilem naturae
+tuae benignitatem ne quidem (is admonendus; etenim sponte tuâ ruis in amplexus
+Academiae, nec ullum of­ficii genus omittendum tibi censes. At in Literis
+ho­nestandis, in exornandâ Virtute dum ita tempus omne tuum traducis, ad
+summam profectò laudem, gloriámque [[Page
+62]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=33) contendis:
+contendis autem (ut soles) magnis itine­ribus, & expedito planè cursu, quoniam
+Armarium Cantabrigiae non Hipparcho jam ampliùs, aut Effigie tuâ vernaculâ
+solùm, verùm etiam Latinis Commentariis locupletas: Commentarios illos
+intelligimus (si placet) accuratos, & sanè quàm venustos, in quibus
+excellen­tissima Margareta perpetuam Rerum gestarum, Even­torumque tuorum
+Historiam condit. Quanti verò apud nos ponderis sit exquisitissima Lucubratio,
+noli quaerere Dux eximie; neque enim Ipse nescis, & nos certè Ora­tione nostrâ
+nequimus explicare. Id potiùs nunc agi­mus, ut Theatrum illud Honoris eadem
+operâ Can­tabrigiae, Tibi Seculóque gratulamur: Cantabri­giae primùm, nihil
+jucundius esse potest, quàm Pe­ricula & Labores evolvere Imperatoris tanti,
+quantus Ipse non Unius jam Britanniae, Sed omnium consensu gentium & es, &
+haberis: deinde. Tibi benè omi­namur, quia Tibi (quod nec Achilli Homerico,
+nec Hectori Naeviano, contigit) ad memoriae dignitatem abundè sufficit à
+laudatissimâ Principe laudari, Quae Te non ita tamen Immortalitati
+commendavit, ut non ipsa quoque in Te commendando propriam Ingenii gra­tiam
+sit consecuta: postremò, gratulamur huic Seculo, quod penè solus illustras,
+qui vel solus (consummatis­sime Dux) quodlibet seculum illustrare posses.
+
+> Cantabrigiae è frequenti Senatu 10 Cal. Junii 1669.
+
+>
+
+> Eminentiae tuae addictissimi PROCANCELLARIUS reliquusque Senat. Acad.
+Cantab.
+
+### 2.26.
+
+[[Page 63]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=33)
+
+MOST EMINENT PRINCE,
+
+THat Scholars are not every where, nor al­together neglected, your Grace is
+one of our greatest Instances; for as occasion serves you condescend, and
+vouchsafe both to countenance, and encourage us. And this you do, as with all
+imaginable success, so likewise with such wonderful obligingness, and
+constancy, that for a continual instigation thereto (we see) you need not the
+least item from us; for that purpose the goodness of your own Nature, and the
+nobleness of your Spirit is abundantly sufficient. But whilest in this manner
+you regard Learning, and embellish Virtue, you give the World to know, that
+you are neither a Stranger to, nor unacquainted with the direct Road to
+Honour, and Glory; And thither indeed only you march with such expedition and
+conduct, that you have already (beyond what an University can write) enriched
+our publick Treasury with some last­ing Monuments of your Skill and Gallantry.
+Shall we beg leave to remember your Book of Horsmanship, which we love to
+peruse and boast of to Strangers? Or will you permit us, with all
+thankfulness, to name your last Favour, that accurate and faithful History
+(which the most Excellent Margaret hath writ) of your Life, and Actions? In
+what esteem the for­mer Work is among us all, we have already decla­red; and
+what we think of the letter, ask us not (we pray you) most incomparable Duke;
+for you know very well, and we cannot, in any words of ours, suf­ficiently
+express. Only we presume at present to congratulate so fair a Theatre of
+Honour to the University of Cambridge, and to your self, and to [[Page
+64]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=34) this whole
+Generation of men altogether: First, to the University, which cannot but with
+exceeding satis­faction read over the Atchivements, and Hazards of so famous a
+General, as you are, and as all Brave Men acknowledge you to be: for your own
+sake in the next place we rejoyce, because (which neither Homer's Achilles,
+nor Xenophon's Cyrus, nor Naevius his Hector attained to) your Actions are
+registred by an unparrelled Princels, who yet hath not so transcribed your
+image, as not therein to interline, and insert a very legible Portraiture of
+her own Wit, and Parts: Last of all, we must needs be glad for the lustre, and
+advantage of this pre­sent Generation, which now almost shines alone in You,
+most accomplished Prince, who of your self alone are sufficient to have
+ennobled any other Ge­neration of men whatsoever. Long therefore may you live
+in this reputation. So we Pray, and re­main,
+
+> Cambridge, May 22. 1669.
+
+>
+
+> Most Excellent Prince, Your Graces most Humble and most Affectionate
+Servants, The VICE-CHANCELLOR and the whole Senate of the University of
+Cambridge.
+
+### 2.27.
+
+[[Page 65]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=34)
+
+MADAM,
+
+THe worthy present which your Excellency hath been pleased to make me by Mr.
+Slaughter, hath strucken me into new ad­miration of your goodness and
+knowledge. The first, that you are pleased to retain so obliging a me­mory of
+a Person that can no ways merit so huge a Favour: And for the second, every
+Page in your excellent Book, affordeth abundant matter. I think my self
+exceeding happy that I live in the age which is blessed with the presence of
+so brave a Person as you are, Madam; who as you are the Ornament of this, will
+be the Envy of all future ones. But your Excellency loveth as little to hear
+your own Praises, as you do much to deserve the greatest. Therefore I will not
+adventure upon that impossible task, but shall reduce my self into my own Orbe
+of Humility and thankfulness, for this great Honour you have been pleased to
+do me, assuring your Ex­cellency with all, that you could not have deigned it
+to any man living, who is more than I am,
+
+Paris, June 9. 1657.
+
+MADAM, Your Excellencies most Humble and most Obedient Servant,
+
+Kenelme Digby.
+
+> I Crave leave of your Excellency, that I may present here my most humble and
+obliged Respects, to my Noble Lord, my Lord Marquis your Husband.
+
+### 2.28.
+
+[[Page 66]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=35)
+
+MADAM,
+
+I received your Honours Letter, and the Books according to your Command, and
+had not a fatal Sickness for a long time confined me to my Chamber, and made
+me unfit for any business, (and much more to Write to so Illustrious a
+per­son) I had long e're this returned my most humble, and hearty Thanks for
+that infinite Honour you were pleased to do me (a poor impertinent thing in
+Black) in deigning to write, and trust me with the distribu­tion of your
+Favours (or magnificence rather) to the University. Your Books were received
+(as in­deed they ought) with very much respect, and gra­titude, and I am
+commanded by the several Col­ledges to returne their humblest Thanks to your
+Honour. I inscribed every Book before I gave it to the respective Colledges,
+with such an Inscription as Posterity might know who was their Benefactor. For
+instance, that to Magdalene Colledge, thus,
+
+. . . . Liber Collegii Divae Magdalenae, ex Dono Il­lustrissimae Heroinae
+Margaretae Novo-Castrensis Marchionissae, Authoris.
+
+What this signifies your Honour may easily know. I humbly beg your Honours
+Pardon for this con­fident, and (I fear) impertinent Scrible of,
+
+Q. Coll. OXON. Mar. 24. 1655.
+
+MADAM, Your Honours most Obliged Humble Servant,
+
+Thomas Barlow.
+
+### 2.29.
+
+[[Page 67]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=35)
+
+MADAM,
+
+YOur Honour pleased to Command two Books (lately composed by your Excel­lency)
+to be sent to Cambridge, one to be placed in the Publick Library there, and
+the other to be bestowed upon my self, your Honours mean­est Servant; It is
+and shall be my Care that this, together with that other formerly sent, may
+remain a Monument to Posterity of your Excellencies great worth and singular
+affection to our University, which I doubt not but will, for ever, be most
+grate­fully acknowledged, by such as shall frequent the Common Library, and
+especially by him whom this great Favour hath rendered
+
+Cambr. Octob. 22. 1656.
+
+Your Excellencies most Humble and Thankful Servant,
+
+William Moore.
+
+### 2.30.
+
+MADAM,
+
+I have received, from your Excellence, the Book you sent me by Mr. Benoist;
+which obliges me to trouble you with a short expression of my thanks, and of
+the sense I have of your extra­ordinary Favour. For tokens of this kind are
+not ordinarily sent but to such as pretend to the title as well as to the mind
+of Friends. I have already read so much of it (in that Book which my Lord of
+Devonshire has) as to give your Excellence an accout of it thus far, That it
+is filled throughout with more [[Page
+68]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=36) and truer Idea's
+of Virtue and Honour than any Book of morality I have read. And if some
+Co­mique Writer, by conversation with ill People, have been able to present
+Vices upon the Stage moreri­diculously and immodestly, by which they take
+their rabble, I reckon that amongst your Praises. For that which most pleases
+lewd Spectators is nothing but subtile Cheating or Filch, which a high and
+noble mind endued with Virtue from it's Infancy can never come to the
+knowledge of. I Rest
+
+Febr. 9. 1661.
+
+Your Excellencies most humble Servant
+
+Thomas Hobbes.
+
+### 2.31.
+
+ILLUSTRIOUS PRINCESS,
+
+I Received (by the hand of your ingenious Ser­vant) that most noble Present,
+(those excel­lent Books) you were pleased to send our Colledge, and (the
+meanest of your most obliged and thankful Servants) my self. I confess I am
+(and for ever should be) amazed at your Excel­lencies condescention, your
+great charity and mag­nificence to things so far below you, did I not well
+know that the greatest goodness is most diffusive; that those Glorious
+Heavenly Bodies (even the Sun it self) dispence their Rayes and benign
+Influences to Vallies and little Villages, to Shrubs and Mole­hills, as well
+as Mountains, or the tallest Cedars. I shall not call your Excellencies Books
+an addition to our private Library, but this a little accession to [[Page
+69]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=36) them; they being
+(like their Illustrious Author) a far greater Library of Arts and Ingenuity.
+Sure I am, even Bodlies Library cannot boast of any such Donation, since King
+James sent his Royal Works, and those of his late Martyr'd Majesty were placed
+there, nor is like to do, till Kings and your Excellen­cy, write and send
+again: whose parts are not (in a tedious way acquired, but infused; not got by
+Study, or a laborious industry, but given by the immediate and propitious Hand
+of Heaven, and therefore more Divine, like that first principle from whence
+they flow. We have a Manuscript Author in Bodlies Library, who endeavors to
+shew, That Women excell Men: your Excellency has proved what he proposed, has
+done what he indeavored, and given a demonstrative argument to convince the
+otherwise unbelieving World. Your Works will be a just foundation of a lasting
+and immortal Honour to your self; (but I fear) a reproach to our Sex and us,
+when Posterity shall consider, how little we have done with all our Reading
+and Industry, and how much your Excellency without them. I shall not indeavor
+(what this and after ages will) to commend your Writings (they are their own
+best Panegyrique) he that would do this well, should have the genious and
+elocution of their great Au­thor. My onely aim is, humbly to acknowledge a
+Debt I can never pay, and return the unfeigned thanks and gratitude of
+
+Q. Coll. OXON. May 21. 1663.
+
+(Most Illustrious Princess) Your Excellencies most devoted and most humble
+Servant,
+
+Thomas Barlow.
+
+### 2.32.
+
+[[Page 70]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=37)
+
+MADAM,
+
+I received (a fortnight ago) your Honours Letter, and the Books you sent; one
+to the University Library, one to the Vice Chancel­lor, and another to my
+self. Mr. Vice-Chancel­lor received your Book (as indeed he ought) with very
+much thankfulness, and sense of the great Civility you had done him, and
+commanded me to return his respects, and hearty Thanks, which he would have
+done himself, but that both he and his Family hath been fore visited with
+Sickness (for almost a whole year) so that he has not been (nor now is) in a
+condition to write. The like thanks, and (if possible) infinitely more, I must
+re­turn in behalf of the University, and my self; being amazed at your
+goodness, and undeserved Kindness, that a person so Illustrious, and (for
+place and parts so) Eminent, should look upon so unconsiderable, and
+impertinent a thing in black, as I am, but that I know the Sun doth shine on
+Shrubs, as well as Cedars, and Princes many times cast their Favours upon
+persons infinitely below them; whence they can expect no return but gratitude;
+and when I fail to pay that Tribute (so justly due to your Honour) may I have
+your hate, which will be the greatest curse I am capable of. I have as yet
+only read one Story in your Book, and the Language, and In­genuity of it, to
+me seems such, that I am perswa­ded the famous Monsieur Scudeny would wish
+him­self the Author of it. If I mistake not I think I told you in my last,
+that I had a Manuscript Book in my keeping (for it was never yet Printed)
+which the Author intitles thus — Womens Worth, or a Trea­tise [[Page
+71]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=37) proving by
+sundry reasons that Women excell Men. Many of my Sex will hardly believe it,
+yet I be­lieve your Honour may prove the best Argument in the World to
+convince them of their infidelity. I humbly beg pardon for this rude and
+impertinent Scrible. That God Almighty would be pleased to bless you and all
+yours, is, and shall be, the constant Prayer, of
+
+Q. Coll. Oxon. Sept. 3. 1656.
+
+MADAM, Your Honours most Obliged, Humble Beadsman
+
+Thomas Barlow.
+
+### 2.33.
+
+MADAM,
+
+THat I have not long e're this made at least some slender return of the
+meanest Gra­titude, a verbal acknowledgement, I take the greater boldness now
+at length to Apologize; for that it is in no small measure justly chargeable
+upon the Chain of those grand Favours, where­with (as the Roman Lady of old,
+with Bracelets and Jewels) I have been, by your Excellency, over­whelmed into
+an Extasy. The truth of which is too much evidenced by an undeniable argument,
+that like such as are newly rowsed out of a Trance, not yet fully returned to
+my self, I now begin to talk Idly. Indeed I could not but deplore my own
+unhappiness; as equally rack'd between two hate­ful extreams, Ingratitude and
+Presumption, that can neither be silently grateful to so Noble a
+Bene­factress, [[Page
+72]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=38) without too
+palpable and disingenuous un­worthiness, nor verbally thankful to so
+Illustrious a Princess without a Solaecism; but that I am well assured your
+Excellencies Heroick Candor will at least connive at the most rude, if cordial
+and humble, expressions of a most devoted mind. And such (Madam) is that, I
+here with all submission pre­sent unto you, loaded with such various Instances
+of your signal Favours, as never can (except we could suppose your Illustrious
+self may) find out a Parrallel. That so mean, so obscure a Person should have
+the Honour of receiving first into his custody so rich a Treasure, as the
+genuine Product and Issue of so Noble a Mind; and then be commanded to divulge
+this his Glory, by presenting them to a whole University in so Glorious a
+Name; that this Honour (a high Reward it self) should yet be fur­ther
+enhaunced by a splendid Gift, truly wor­thy the Grandure of the Donor, and
+that trans­mitted by that Golden Pen, which hath enricht the World with such
+excellent variety of inimitable Writings; that a poor scanty Study should
+swell into a Library, and become a Repository for such rich Volumes; — Pardon
+me (Madam) if at these reflections I wax proud, and be transported beyond the
+narrow compass of my contracted self. Your Ex­cellencies Bounty (a true
+Transcript of the Divine) creates, what it cannot find, a worthiness in the
+Re­ceiver, and ennobles him, whom it makes the ob­ject of generous
+Beneficence.
+
+What Honourable reception your Excellencies former Works (in the possession
+whereof each pri­vate Colledge-Library, as well as that publick one of the
+University, justly prides it self, and boasts its [[Page
+73]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=38) riches) found
+amongst us, as (indeed) by very few Acknowledgements then signified: How much
+more acceptable these latter Volumes are, silence alone can best tell. Few
+durst before adventure upon so difficult a Task: and the Reason since that is
+more apparent and confirmed (if I may without prophanation make use of the
+most Illustrious Lord Marquess his Expression) — None now dares write a
+Letter. —
+
+What concernes my most unworthy self, is, that I shall, in Testimony of my
+thankfulness, and as a perpetual monument of your Excellencies munifi­cence to
+me when I die, transmit your noble Gift as a sacred Heyre-loom to my Family,
+and whilest I live, shew your Princely Hand as the Letters­Patents of my
+greatest Honour, which is to have this leave of wholly devoting my self ever
+to be
+
+Illustrious Madam, Your Excellencies most Humble most Obedient, Obliged, and
+Unworthy Servant, and Vassall
+
+David Morton.
+
+### 2.34.
+
+Madam,
+
+SInce my last, I received by the hands of (your Grace's faithful Servant, and
+my worthy Friend) Dr. Mayne, two Copies of my Lord Duke's life, (writ by your
+Grace) one for our Colledge, and another for my self. I cannot [[Page
+74]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=39) but admire your
+Graces great goodness and con­descention, your continued munificence and
+charity to us (excellent Virtues which I wish in all, but find in very few)
+which with all humility, and a deep sense of the very many Obligations laid
+upon us, we thankfully acknowledge. He who thinks to requite, undervalues your
+Grace's Favours; which (like your eminent parts and place) are too great to
+admitt any proportionable returnes from us, besides our constant Prayers and
+Gratitude; which (as in duty we stand bound) we shall duely pay. I have read
+your Graces Book, which is writ with so much evenness and prospicuity of
+Stile, so much truth and generous impartiallity, as well becomes the
+(Illustrious persons most concerned, the) great Subject and Author of it. His
+Grace's high Birth and Fortune, his unstained Royalty to his Prince, his great
+Courage, and prudent Conduct, and such other his Graces eminent Virtues have
+deserved, and your Grace's Hand has built him a lasting Mo­nument, which (when
+Pyramids of Brass and Marble perish, or, being Sacrilegiously removed and
+stoln, disappear) will transfer both your Names and Honours to all Posterity.
+That the good pro­vidence of Heaven would long preserve and pros­per your
+Grace (the honour of your Sex, and by your unparalel'd Virtues the reproach of
+ours) is the Prayer of
+
+Q. Coll. Oxon. Feb. 2. 1667.
+
+MADAM, Your Grace's most Obliged, Faithful and Humble Servant,
+
+Thomas Barlow.
+
+### 2.35.
+
+[[Page 75]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=39)
+
+MADAME,
+
+JE ne puis attribuer l'honneur que Vous m'avez. fait de m'envoyer Vos oeuures,
+qu'a ceque vous avez sceu qu'autres fois j'avois apporté icy d Angleterre que
+ce qu'il y en avoit d'eja de publié. C'est, Madame, que j'honore infiniment la
+Vertu par­tout où je la descouvre, & qu'elle est encore plus a admirer en
+Vostre Sexe & dans les Personnes de Vo­stre qualité, que dans le nostre, &
+parmis les scavants; Je la propose en exemple à toutes les Dames dont ja'y
+l'honneur de m'pprocher, & je prens maintenant la liberté, Madame, de vous
+feliciter du plaisir que vous avez d'eslever si fort vostre ame par dessus les
+autres, & de vous mesler si avant dans toutes les in­trigues de l'Univers.
+C'est bien autre chose que de n'studier que celles d'une Cour, & que de ne
+choisir des ornamens que surune toileté. Dieu veuille, Madame, qu'un si noble
+divertissement vous occup'e tousjours, & que vous croyez ausi tousjours que je
+suis,
+
+A Paris le 3 d'Octob. 1669.
+
+MADAME, Vostre tres Humble & tres Obeissant Serviteur
+
+SORBIERE.
+
+### 2.36.
+
+Tres Haut & Puissant Prince
+
+CRoiroiton qu'il est possible que vostre tres-Il­lustre Altesse se pouvoit
+encore souvenir d'une si inutille creature que moy? depuis 25 ans que je suis
+retir'ee de Paris, & parmis les plus rudes [[Page
+76]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=40) attaques de la
+Fortune qu'avoient agitée vostre Altesse comme les tonneres & les Vents qui
+taschoient debray­ler les forts Cedars du Lebanon, en maintenant la sainte
+cause, d'un des plus justes Rois que jamais a estés ou que jamais y sera. En
+li sant ceste histcire veri­table de la vie de vostre Altesse faite par ceste
+Tres­illustre, & Tres-verteus Princesse, Madame la Du­chesse, j'avois de la
+peyne a retenir mes larmes, ayant este moy mesme une triste spectateur de
+toute ce que passa à Paris & fidel intelligencier de tout ce que passoit en
+Flandre & la Holland jusques au retour de vostre Altesse en Angleterre; & je
+veu que toute ces travers de la Fortune, ne consista en autre chose qu'a une
+perpetuel combat, entre le voulloir & le pouvoir de vostre Altesse; L'une
+combattant pour l'esta­blishement du Roy, par le depence inevitable qu'il
+fal­loit pour maintenir la juste cause, presque aux abois, non seulement, par
+le sequestration des immenses re­venues des biens de vostre Altesse, mais par
+le constraint qu'on vous fit de vous retirer, a fin pour ensuitte de rui­ner
+la cause du Roy par le ruine qu'on vous fit le pre­mier; mais Dieu vous a
+suscitée des amys, & vous avez un pouvoir plus ample qu'auparavant, & il a
+faite de vostre Altesse come Dieu fait à Job en re­stituant le decouple son
+saint nom soit louée & vous con­tinue sa paix, & sa sainte Grace. Je leu aussy
+la Phi­losophie de la Haute & verteuse Princesse Madame la 'Duchesse,
+veritablement Tres-curieuse; & en estate de faire honte à nostre miserable
+Philosophie de l'ecol­le que n'est autre chose qu'un vray jeu des Cartes;
+consistantes en Sophismes & Authorites mal citées, la quelle a perdue la
+Theologie, & rendue la Medi­cine la Risée du Monde, et pire que l'Emperice: Et
+quoy que je n'entend pas l'exercise du manage des chevaux [[Page
+77]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=40) non plus que le
+haut Almand; toutefois ces precepts me semble si Majesteux que touts les
+maistres du monde en doibt prendre example. C'est pour quoy je metteray ces
+Divines escrites dans le frontispiece de ma 'Bibliotheque, a fin que les
+enfants des mes enfants profiteroient de tout ces riches enseignments. Il
+reste maintenant que je remercie Tres-humblement vostre Tres-Illustre Altesse
+de la souvenance qu'elle volut avoir de moy, qui n'est pas tant triste de me
+voir reduittê a une si age que me devroit donner craint a mourir citô, come de
+me voir approchant à un age si grand qui me pourroit faire incapable de rendre
+a vostre Altesse les services dignes de la memoire que je dois conserver dans
+mon ame pour demeurer eternellement,
+
+De Vostre Tres. Illustre Altesse le Tres-humble & Tres-obeissant Serviteur,
+
+D. AUISSONE.
+
+### 2.37.
+
+MADAM,
+
+WHen, in the Book which your Lady­ship hath been pleased, by Mr. Benoist, to
+honour me with, I read so many Orations, upon so many several occasions,
+appro­priated to so many several Persons, my admiration rises to so great a
+height, that I know not how to express it, yet when I consider that you,
+Madam, are the Author of them all, my Wonder then abates, the fight which I
+have had of your former Works, ha­ving raised my thoughts to anexpectation of
+as great [[Page 78]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=41)
+a product, from your Ladyship's Pen, as this is: but when I think what thanks
+to return, for so great a Favour, I am quite at a stand, for were I as good a
+Poet, or Orator, as ever was, it were impossible, either in Prose or Poem, to
+set forth a sufficient gra­titude. I find my self therefore, who have no Skill
+in either, obliged to say no more, but only to beg your Ladyship's acceptance
+of the Humble Thanks of,
+
+Bridgewater-house, Dec. 30. 1662.
+
+MADAM, Your Ladyship's most humble Servant
+
+J. BRIDGEWATER.
+
+### 2.38.
+
+MADAM,
+
+YOu have convinced the World, that your Sex can as well propagate Learning as
+our Species, and taught us justly to own all, from our Mother-Wit; 'Tis
+without the help of Classick Authors, Schools, or Languages, that you Madam,
+have composed your most excellent Poems, Playes, Fables, The World's Olio,
+Opinions Philosophical and Physical, which are the greatest Prize the
+Invention of Printing can boast of: That Admiration and Praise, which your
+Excellency merits, must be the study of Ages to come; which, by your Works,
+may be made more knowing. Hi­therto the stolen Tales of Learning, which
+Scholars, painfully disingenious, have, in several Ages, Trans­lated from lost
+Languages, and entitled themselves [[Page
+79]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=41) the Authors, are
+not Rules to try the truth of your notions, nor means to clear them to us, but
+skreen them from our captivated Apprehensions. Who means to Improve, Madam, by
+your discoveries, must study them alone, and freeing themselves of the Pains
+of Grammar Rules, tedious Methods, and the Fallacies of unproved Maxims, may
+arive early at Truths, may know and be able to discourse things, not senceless
+Distinctions; and Philosopha­ting, your way, from the visible effects of
+Nature, may soon know more than the Schools, make their Learning useful, and
+Bankrupt the Trade of Pedan­try: That you have received, Madam, a Tribute of
+Applause from the Persons of most fame this Age affords; that Universities
+have done you Ho­mage as the Queen of Sciences, will be the least of your
+Glory, whilest you instruct not them, but the Universe, not this alone, but
+succeeding Ages; and will have your Fame as oft renewed, as fresh Generations
+come to spy this World, by the light you leave them; which cannot be traduced,
+for it's Parentage, being sprung from your Rational Soul alone, that borrowing
+nought from others, can have no Rivall in Renown, but may challenge that
+sin­gular Honour which all Ingenious Persons publish, and will be made Sacred
+to your memory, by the most learned, while I among the meanest shall live and
+dye,
+
+Chelsey, Sept. 4. 1662.
+
+MADAM, Your Excellencies Highest Honourer and Humblest Servant
+
+CHARLES CHEYNE.
+
+### 2.39.
+
+[[Page 80]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=42)
+
+MAY IT PLEASE YOUR EXCELLENCY,
+
+I have, according to your commands, read your Excellencies Orations, and will
+not disobey your Excellence, in concealing my Opinion of them. Was it to
+condemn any thing, either in matter or the language, having your Excellencies
+Warrant for it, I would freely express it, and if it be otherwise, I beg your
+Excellencies Favour, that Truth may not pass for Courtship, as being to so
+great a Lady from so mean a man, it is in danger to be suspected, which your
+Excellence hath been pleased to foresee and forbid. I am, I confess, no great
+reader, of late, of new Books, having tried formerly, that to find in them the
+least Jewel it must be sifted out of a great deal of Rubbish, and the worst
+is, that their Authors take up Errors upon trust one from another, which the
+better they adorn with new dresses, the greater injury they do to man­kind. To
+make up such Volumes out of Collecti­ons, as Bees gather Hony from this and
+that Flower, is rather laborious Industry than fine Wit; But to spin out of
+one's own Bowels, not Cobwebs as Spiders do, but rich Tissues of Gold and
+Silver, ex­presses a great Fancy well improved, with much thinking. As every
+man is not capable of so extra­ordinary Productions, so is not every Woman;
+but that Women are naturally as capable of it as Men, if not more, may easily
+be proved by making an exact comparison of both their Temperaments and Organs,
+which would be a discourse too long to be inserted in a Letter, and your
+Excellence hath so clearly decided that Question by your unimitable Works,
+that it saves sufficiently that trouble. The [[Page
+81]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=42) greatest Masters
+in Oratory having been necessitated to acknowledge, that the best art consists
+in hiding of it, it may be inferred, that it is yet better to have none at
+all, as a natural Amble is to be preferred to that which is got with Tramells,
+or the grace­ful Walking of a Gentleman more esteemed than the affected
+Demarch of a Dancer: and it is truly a very rare thing to be a great Scholar
+without be­ing acquainted with the Universities, and Learned without the help
+of Teachers. As there is variety of Sciences, so there are several sorts of
+Capacities to acquire them, some proving excellent in one kind, some in
+another; but to be capable of all, as well Philosophy as Playes, and Poems as
+Orations, be­longs only to a very few, whose Statues should be erected in all
+the eminent Places in the World, for their Glory, and our Admiration. I can
+hardly stop my Pen from describing what I have marked in ge­neral; for to set
+down my particular Observations, they are of so many extraordinary Things,
+that or­dinary Terms (and I am capable of no other) can­not make them to be
+understood, and I am extreme sensible, that even what is commonly called
+Defect, here becomes comly, like some Moles in a beautiful Face, and that what
+seemes strange at first, because it crosses the usual Methods of our Studies,
+gives at last occasion of amazement, to see your Excel­lency go so far in the
+way of knowledge, with stand­ing still, in a manner, and that others should
+run continually like Squerils in a Cage, without advan­cing forwards; which
+happens, I believe because they dare not, or cannot go one step without
+Stilts, and your Excellence trusts to the goodness of your Legs, having been
+pleased to allow me the [[Page
+82]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=43) honour to read
+your Manuscript, I make no doubt but your Excellency will afford the patience
+to read this tedious Letter, which though it makes a very small sound, and a
+weak clapping of Hands, is a part of that great Applause the whole World gives
+to your Excellency, and a certain testimony, that I am out of Inclination, as
+well as Duty,
+
+London, Sept 4. 1662.
+
+MADAM, Your Excellencies most Humble most Obedient and most Faithful Servant,
+
+BENOIST.
+
+### 2.40.
+
+MADAM,
+
+HAd I returned you this Letter of Thanks, for the great Honour you did me in
+send­ing me your Plays, before I had read them, it would have lookt like a
+peece of Flattery, and my Praise of you would have made me like a Blind man,
+who fell in love with a Beauty which he ne­ver saw. But having taken time to
+read them all over, and some of them more than once, I can now upon a clear
+Judgement assure your Ladyship, that my entertainment was so great, that I
+know not whether I read them or saw them Acted. For though the Plots, Acts,
+and Scenes, be drest in several shapes, and have that which is the life of
+Pleasure, a musical variety, yet the Wit, and rich Compo­sure of them is so
+much every where the same, that I fancied my self a Spectator in the perusal,
+and was [[Page 83]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=43)
+doubtful, whether your Ladyship with your Book had not sent me the new Theater
+too. I never in any Dramatick Writings met with more Honour and Virtue matcht
+with more Sharpness and delight. Which had it come from such a Pen as Ben
+Jonson's, who was always powring Oyle into his Lamp, and owed most of his
+Excellencies to his laborious Industry and Art, I should the less wonder. But
+coming from a Quill held by a Ladys Hand, who made it not her Toyl but
+Recreation to do rarely, confirms me in an Opinion which I have long held,
+That the best Art is nothing but the best Imitation of Nature; and that your
+Books are the true face, and others but the painted. Madam, as I look upon you
+as a great Princess, (for you are so) so that which renders you to be the
+Glory and happiest of your Sex, is that you can bring forth such Children of
+your Mind in a Wilderness, and in your Coun­trey Walks can chuse all the Muses
+to be your Maids of Honour. And, truly, when I consider one part of your
+happiness more, which is, That you have a Noble Lord to be your Fellow-Poet,
+whose Harmonious Soul and Wit, is exactly tuned to yours, I have nothing left
+to wish, but to be al­lowed to remain
+
+Oxford, May 6, 1662.
+
+Your Ladyships true Honourer,
+
+Jasper Mayne.
+
+### 2.41.
+
+[[Page 84]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=44)
+
+MOST HONOURED,
+
+I have waited long for a convenience to return my very humble gratitude to
+your Excellency, that the poor Church of Litchfield hath some hope in due time
+to receive some furtherance in it's Reparation, from your noble munificence. I
+am one of those many, that are perswaded, that your Ex­cellency spent more
+Treasure to maintain the Royal Cause, in the late Warrs, besides the hazard of
+your Person, than any Subject in the three Realms; and am at wonder that it is
+not most eminently rewarded and repayed. My gratious Lord; I having been one
+from my youth addicted to the ingenuity of Poetry, whereof your Honour hath
+been a great Patron, did betake my self, thirteen years since, to write three
+Books in Verse, Latine and Heroick, to bewail the most barbarous murther
+committed upon the person of King Charles the Martyr. The work is long­since
+finisht, and shall in due time be publisht; In the third Book thereof, mention
+being made of his Majesties most Heroick Champions, these Verses fol­lowing,
+set forth your Excellency as I was able;
+
+Quid Neo-Castrensis parat, audentissimus Heros, Musarum, Martisque decus,
+Mensaeque benignae? Cogit ab egelidis Boreae regionibus agmen Intrepidum,
+laethúmque volens pro Rege pacisci.
+
+Receive this Testimony, my very gratious Lord, from him that is willing to
+embalm your memory with due praise.
+
+Litchfield, Feb. 10. 1663.
+
+Your Excellencies Most Devoted Servant,
+
+Joh. Lich. & Coven.
+
+### 2.42.
+
+[[Page 85]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=44)
+
+MADAM,
+
+I Gave your Grace not long since the trouble of a very large Letter, and know
+not whether I may wish it came safe, being affraid there was some kind of
+rudeness in so tedious a Scrible. I now send this to crave Pardon for the bold
+im­portunity of that; and to desire another addition to your Graces Favours,
+which is, to honour the last Edition of my Witchcraft with your Illustrious
+Eye, and Acceptance. I suppose I have in it an­swered some of your Graces
+Objections, and have added a Relation or two, which I am well assured of, and
+believe them good evidence of Fact. I have ordered that Book I have so long
+spoken of to be sent with it, if it can yet be procured; and implore your
+Graces ingenious Candor in judging the faults of both. For that of
+Preexistence I have many things to say more about it, which I think not fit
+publickly to expose; your Grace may com­mand my inmost sentiments of those
+matters which I shall be proud to impart to a Person of so great Honour and
+Judgement, being really
+
+Bath, Dec. 22.
+
+MADAM, Your Grace's Most Humbly Devoted Servant,
+
+Jos. Glanvill.
+
+### 2.43.
+
+[[Page 86]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=45)
+
+MAY IT PLEASE YOUR HONOUR,
+
+I held a long dispute within my self (most Noble, and most Honourable Madam)
+whe­ther I should not incurr the just censure of Condemnation, by this bold
+presumption of writing to your Ladyship, a person so noble, so courted, so
+admired, and I so obscure, that I could never brag of the happiness once to
+have seen, much less of being known to your Honour: my low condition on this
+hand, deterred me much, and on that your Illustrious Place, balanced with a
+gallantry of Spi­rit, well becoming your true Nobility, in birth and match:
+yet when I considered, in my mind, that your Honour was pleased to appear now
+in ano­ther dress, under the Veil of Books, I thought my self unworthy that
+exceeding Honour you have vouchsafed me, if I should not, at least,
+acknowledge, what I could never retaliate or express: And who can express the
+merit of that noble favour? The Heavenly Raptures of your Soul, composed with
+that elaborate skill, and beams of pure Wit, that your lines pass admiration?
+Were those Antients now alive, who first discoursed of Atomes, Matter, Form,
+and other Ingredients of the Worlds Fabrick, they would hang their Heads,
+confounded to see a Lady of most Honourable Extraction, in Prime of youth,
+amidst a thousand fasheries of greatness, say more of their own Mysteries,
+than they with all their worldly contempts, long Lives, Cells, and So­litary
+Retirements. Gteat Souls in the light of con­versation, gain far more
+Knowledge, than mewed up Cloysterers, and shew more to the World; their
+Inventions shine more Orient, their Illuminations [[Page
+87]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=45) more Refulgent,
+though cloathed in vulgar termes, their own peoples Dialect: Few mount Fames
+Cha­riot with borrowed Wings: and those old Philoso­phers too knew only their
+own Tongue Greek, as your Honour complains you only speak your Native English.
+Wherein they had some advantage of you, a Language more copious, round, and
+full, though the English can want no Elegance, Propriety, or Sweetness, when
+it flows from such a Mouth as yours, or drops from such a Pen. Go on then
+(most Honourable Madam) to bless the World, with these noble Infants of your
+Brain; give Po­sterity an example for after Ages, since former have given you
+none, but what you have outstript: It were Impiety, to wish you less great,
+that Court­ships might not defraud us of your Immortal mo­numents: No, be
+great still, Diminutions would but cool those Heroick Fires within you; let
+For­tune confer all her Gifts on you as Nature hath all her endowments,
+
+That you may raise your Muse to such a Pitch As all shall Gaze and Wonder at,
+none reach.
+
+And I assure you (most Noble Madam) you can never stand higher, or greater in
+the whole Worlds esteem than you now are, and ever shall be in the most
+deserved Veneration, of him who glorieth, to subscribe himself,
+
+Utrecht, Dec. 2. 1653.
+
+Most Honourable, and most Virtuous Lady Your Honours most Humble and most
+Devoted Servant
+
+Robert Creyghtone.
+
+### 2.44.
+
+[[Page 88]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=46)
+
+May it please your Excellence, My ever Honoured, Most Noble Lord.
+
+WHen I last had the honour to kiss your Excellencies Hands at Antwerp, you
+were pleased to bestow on me, The Passions of the Soul, Written by the Noble
+Du Cartes, in Token of your singular Love and Re­spect to me: The Work
+Learned, the Author Re­nowned, rendered the Gift Eminent, but much more,
+conferred by so Honorable a Peer, upon so unconsi­derable a creature, as my
+self: and all ought to have been vehement incentives to a thankful
+acknow­ledgement: yet hitherto your splendor, even in this your Eclipse, hath
+so prevailed over my modesty, that I buried your Favour not in Oblivion but
+Si­lence; thinking it well became my condition, rather to hold my peace, than
+speak below the merit, or flat the sublime dignity of the Person to whom I
+should speak. But now your Excellencies late ac­cumulation of excessive
+Charity, in sending me by Dr. Morley, the Works of your most Honourable,
+Vertuous, and Learned Consort, hath chidd my Ingratitude unto a Blush beyond
+Confusion; and made me feel some of Du Cartes Passions, transfer­red from your
+first gift to your second: I should have consecrated all my pains, to your
+never dying Fame, as to a prime Patron of Learning, and I re­ceive Books from
+you; Books rare and transcen­dent, distilled from the Brain of a most Noble
+Mi­nerva, a Lady, your own Lady, whom delicacy of Education, height of Birth
+and Place, might well have exempted from such inferiour employments: [[Page
+89]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=46) yet composed
+with so curious art, quick stile, refined airy notions, Words so proper
+elegant and de­lightful both in Verse and Prose, that I must ever admire the
+Harmony of her inspiring Soul: And thence reffecting on my felf, blame my own
+un­worthiness, who have spent more time a Univer­sities, without any benefit
+to Posterity, than her Honour hath lived years in the World: so fresh and
+vigorous is her Fancy, so dull and superan­nuated mine: yet in this dejection
+of Mind, I am much refreshed, that your Excellence accounts me worthy to read
+her lines; you cast me down, and raise me up; cast me down by her Writings,
+which as I never expected, so I never hope to parallel, and you raise me, by
+the uncancelled estimation, which you still bear in memory of my mean self. It
+is your goodness (my ever Honoured Noble Lord) to peruse low things with Grace
+and Mer­cy, and the method of all Honourable Souls, to shine on Shrubs, that
+their Favours may higher ad­vance in Prospect. You subjugate my Affections, as
+you do great Horses to your Managery. Na­poli gli putedri, Roma scozzona gli
+huomini, the Italian Proverb goes; Naples tames Horses, and Rome Men: The
+Virtues of both reign in you: In the rare art of taming Horses you excell all
+mor­tals, and subdue Men by a no less wonderful Af­fability: that he must be
+out of the light of repu­tation, whom you have not particularly obliged, or
+pointed out with some mark of Honour: I triumph much in your respect of me,
+not that I have deserved it, but that you have vouchsafed it; and shall wish
+no longer to be blest, then I [[Page
+90]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=47) shall evermore
+endeavour to express my self in all things.
+
+Utrecht, Dec. 2. 1653.
+
+My ever Honoured most noble Lord, Your Excellencies most Obliged, and most
+affectionate Servant, and Beadsman.
+
+Robert Creyghton.
+
+### 2.45.
+
+MADAM,
+
+I was very much surprized when your Servant saluted me from so Illustrious a
+personage; but when he produced those noble Volumes as an intended Testimony
+of your Ladyships respect, the unexpectedness of so great an honour made me
+suspect the Messenger of a mistake, and that he pre­sented me with what was
+meant fitter for the Colledge, or at least to some more worthy and
+considerable per­son than my self. But he persisting still in the same story,
+my doubts were swallowed up into admira­tion of your Ladyship's singular and
+unparalleld goodness; which seems to me to be Corrival with the excellency of
+your Wit, and to seek an equal share of Glory in searching out Objects of such
+con­descending Acts of Civility, and Bounty, in these obscure corners of
+Academical Retirement, as the other in piercing into the greatest difficulties
+and the most dark and obstruce Recesses of Philosophy. Madam I humbly crave
+Pardon for my boldness, and impatience that I offer so hastily to return
+thanks for so eminent a Favour, before I have well compu­ted [[Page
+91]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=47) the value
+thereof, nor as yet fitly polished and adorned my Stile, by a longer converse
+with your Ladyships most Elegant and Ingenious Writings. But the cause of
+defects in this kind being so freely confessed, your noble candor will be
+pleased to ac­cept the rude reality of those speedy acknowledge­ments made by
+
+C. C. C. June 9.
+
+Thrice-Excellent Madam, Your Ladyships most Humble and Thankful Admirer,
+
+Henry More.
+
+### 2.46.
+
+MADAM,
+
+IN you, the World hath an Illustrious Example of the truth of their Opinion,
+who hold, that no Virtue is single, but alwayes accompanied with some (if not
+all) of its Fellows. For (to omit those many other Virtues, which seem to
+contend each with other, which shall render you conspicuous) to that general
+Charity of yours, whereby you dayly oblige all mankind, in supplying the
+poverty of their Understandings with the Spiritual Almes of Know­ledge; you
+have added an extraordinary Genero­sity, by enriching with your choice
+Volumes, the Libraries of some particular Persons, whom you are pleased to
+think capable of comprehending your curious Speculations therein contained.
+And in the number of these your Bouuty hath given me a right to account my
+self. For which eminent Grace and Favour while I strive to shew my self
+Grateful, I find [[Page
+92]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=48) my Faculties
+wholly taken up with Admiration: and that Reason I should make use of, to help
+me express my sentiments decently, is dimmed with the Glories of the Person to
+whom I address, If, there­fore, I am not able to acquit my self of that Duty,
+as I ought; you are to reflect on the exceeding difficulty of it. Justice
+requires, you should pardon the Effects of that Transport and Astonishment, of
+which your Excellencies are the cause: and when I cannot advance the due
+Tribute of Thanks, you ought to admit my Homage of Acknowledge­ments.
+
+Your Wit, Madam, is above all Commenda­tions; your Industry above Belief; your
+Labours, in Writing, above humane patience; your Curio­sity above Imitation;
+your Notions above any, but your own Subtlety; and all above your Sex. Your
+Collections by the improvement they receive from your fertile Brain, become
+your own Productions: and those obscure Hints delivered to you in the
+Discourses of others, by passing through your lightsome Imagination, are
+turned into bright and full Discoveries. You solve Pro­blems with more ease
+than others have proposed them: and your Pen hath this particular advantage,
+that it leaves no Darkness on the Paper besides that of the Ink. Where you
+treat of Arguments for­merly handled by others, you either give them more
+light, or contract what they had before into a narrower and more familiar
+Compass; and upon all occasions you either produce new things, or speak old
+ones after a new manner; so that you stagger the truth of that saying of the
+wise Man, That nothing is new under the Sun. Your Expres­sions [[Page
+93]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=48) for the most
+part are Natural, yet Select; at once explaining and adorning your Matter: and
+they who read your Books with design to be in­formed in points of Philosophy,
+find themselves at the same time introduced also in Rhetorique. In a word;
+while you bring Reasons for the most ad­mirable Works of Nature, you shew your
+self to be her greatest Miracle: and your prodigious Sa­gacity inclines even
+the Envious to believe, that all you need do to comprehend the most obstruse
+things, is only to think on them.
+
+This Language, Madam, is but the imperfect Echo of your merits; nor can any
+thing, but your modesty, hinder you from owning it so to be. How­ever, I most
+humbly beseech you to hear it, as most proper to that high Honour and
+Veneration due to you from,
+
+London, May 3. 1663.
+
+Most incomparable Madam, Your Excellencies most humble Servant,
+
+Walt. Charleton.
+
+### 2.47.
+
+MADAM,
+
+YOur Books have here had a very honou­rable, and publick Reception, and are
+not only placed in the private Libraries of every single Colledge, but in the
+publick also. Not without the Applause and Admiration of the Learned men of
+this Place, that one of your Sex, a great Princess, and not bred to the Arts
+with [[Page 94]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=49)
+labour, and toil, as they are, should with so much excellent variety appear
+among us. And truly Ma­dam when I consider the various Subjects you have past
+through, it would pose me something to find a proper place in any Library for
+your Works to stand in, whether among the Orators, Poets, Philosophers,
+States-men, or Polititians, since every one of these may be ambitious to stand
+next you. Nor can I forbear to let your Ladyship know, that the two last Books
+which you were pleased to send to me, added to the former, which I had the
+honour to re­ceive from you, are for their number my lesser Li­brary, but for
+the value which I put upon the Noble Hand which drew the Li [...]es, far the
+greater. Your Servant tells me you would willingly have some of them
+translated into the Catholick Language. Though it will be hard to make them
+speak so good Latine as they now do English, yet I have prevailed with an
+Ingenious Person of this Colledge to under­take the Work when ever you shall
+please to assign his Task, whereby your Writings will be enabled to travel
+beyond the Seas, and spread themselves, both to your Honour, and the Honour of
+your Na­tion, as far as the Commonwealth of Learning reaches. How far your
+Ladiship will be served in this particular, when you are come to a resolution
+with your own Noble Thoughts, you may please to signify to
+
+Christ Church in Oxford, May 20, 1663.
+
+MADAM, Your Ladyships real Honourer, And most Obliged Servant,
+
+Jasper Mayne.
+
+### 2.48.
+
+[[Page 95]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=49)
+
+MADAM,
+
+I Have the ill Fortune when I am bound to ac­knowledge a very high Obligation
+to your Excellence, at the same time also to stand in need of your Pardon,
+that I have done it no sooner. However, I wish. I had the Skill to perform the
+one part as answerable to your merit and my duty, as I am confident of your
+goodness to give success un­to the other. The Books you condescended to
+be­stow upon me have turned a sorry Study into a rich Library, which are so
+much their own commenda­tions (besides the gloss your Honourable Name must
+give them) that mine I fear may look like Injury and Rebatement to their
+Worth. I must not, Madam, be too bold with your hours, which you have devoted
+to better uses than the reading of such Papers; but with the tender of my
+hum­blest Thanks to your Excellence for the high Ho­nour you have vouchsafed
+me, wishing you all the happiness of this, and the better life to come, I
+Rest,
+
+Edm. Hall, Oxon. June 30. 1663.
+
+MADAM, Your most humble Servant,
+
+Thomas Tully.
+
+### 2.49.
+
+[[Page 96]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=50)
+
+MADAM,
+
+IN obedience to your Commands sent me by your Servant in his last Letter, I
+have put your Book of Tales into the Hand of a fit person to translate them
+into Latine as I think either Uni­versity can afford. Being an exact Master of
+both Languages, and enabled with a Genius fit for such an undertaking. I have
+also read as much of your Poetry translated by a young Scholars as hath
+hither­to past his Pen. In some parts where of I find him happy enough. But
+your Excellent Fancy expres­sing it self sometimes in Terms of Art, and Words
+only known to Philosophy, he tells me the hardest part of his Task will be how
+to find out current Roman Words to match them. To remove which difficulty, I
+have directed him to read Lucretius be­fore he proceed farther; who having
+softned the most stubborn parts of Natural Philosophy, by ma­king them run
+smoothly in his tunable Verses, by an easy Imitation will teach him to do the
+like. Ha­ving in these two particulars most readily served you, I should
+return you my Studied Thanks, for the se­veral Books you are pleased to send
+me, if they did not make me unhappy, by conversing with the Children of your
+Mind at so great a distance from the incomparable Parent. For I do assure your
+Excellency, I look upon Welbek, as long as you are there, not as a Noble House
+seated among solitary Groves, but as a perfect Court of Wit and Learning,
+where you have all the Muses for your Maids of Honour; and the best
+Philosophers, Statesmen, Orators, and Historians for your Counsellors: And all
+these for the Glory of your Sex, created from [[Page
+97]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=50) your self. Had I
+the Art, like some here, to teach Birds to Speak, All the Fowls which fly in
+your Woods should presently be transformed to Nigh­tingales, and taught Musick
+enough to sing the praises of so great a Mistress. To whose Vertues I shall
+always remain,
+
+London, April 21. 1664.
+
+A most real Honourer And Devoted Servant;
+
+Jasper Maine.
+
+### 2.50.
+
+MAY IT PLEASE YOUR EXCELLENCY,
+
+HAving received a Copy of your Works, for the use of the Library of Christ-
+Church, and another as a particular favour to my self; I hasten to make my
+acknowledgments for both: and must beg leave to say that your Excel­lency has
+found the way to make the Arts truly libe­ral, while you not only adorn them
+by your Cul­ture, but propagate them by your munificent distri­bution. So that
+it will rest a Problem not easily to be resolved, whether you appear greater
+in your acquisitions or obligings: whether you instruct the World, or enrich
+it more? But it were an envious piece of curiosity, to labour in the Heraldry
+of your Virtues which are all greatest, because Yours: and are not to be the
+Subject of Contest, but Argument of Praise and Admiration: In particular
+manner they are such, to
+
+Your Excellencies Most Humble and Obliged Servant
+
+Jo. Fell.
+
+### 2.51.
+
+[[Page 98]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=51)
+
+MADAM,
+
+I Am very sorry that my unhappy Fate hath necessitated an unbecoming Slowness
+in ac­knowledging a Favour, that requires all possi­bilities of Gratitude, and
+exceeds them. But yet, had I nothing else to say in excuse of my no ear­lier
+return to the last Noble effects of your Graces goodness, it were sufficient;
+That my sence of that mighty Honour was too big for my Pen; and when I began
+to speak my resentments of it, I found my self as unable to express them, as
+to deserve their oc­casion. Bet yet, Madam, this is not all the reason, for I
+was from home when your Grace's Present came, and have been so almost ever
+since; other­wise I had not added to my want of merit on other accounts, that
+also of appearing insensible, and de­fective in endeavours of acknowledgment;
+I must say endeavours, for my Gratitude can rise no higher. Since my receipt
+of your Grace's ingenious Works, I have, as my occasions would permit, cast my
+Eyes again into them, and I am sorry they cannot dwell there, where I find so
+pleasing, and so in­structive an entertainment. And though I must crave your
+Pardon for dissenting from your Grace's Opinion in some things, I admire the
+quickness, and vigor of your Conceptions, in all: In which your Grace hath
+this peculiar among Authors that they are, in the strictest sense, your own,
+your Grace being indebted to nothing for them, but your own happy Wit, and
+Genius; a thing so uncommon even among the most celebrated Writers of our Sex,
+that it ought to be acknowledged with wonder in yours. And really, Madam, your
+Grace hath set [[Page
+99]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=51) us a patern,
+that we ought to admire, but cannot imitate. And whereas you are pleased
+sometimes to mention your being no Scholar, as an excuse of de­fects, your
+modesty supposeth; By that acknow­ledgment you shew our imperfections that
+pretend we are so, rather than discover any of your own.
+
+As for the last Trifle I was bold to present to your Graces Eye, it is much
+indebted to the ob­liging reception you were pleased to afford it; and the re
+is nothing that sets such a lustre on your Graces great Wit, and Intellectual
+Perfections, as that sweet candor of your Spirit that renders you so
+accessible, even to your meanest admirers. Where­as your Grace is pleased to
+object against some part of the design of my Discourse, that it sets the
+per­fection of the sense higher than that of Ratiocination; I humbly desire
+that your Grace would consider, that there are two sorts of Reasoning, viz.
+Those that the Mind advanceth from its own imbred Idaea's and native Store,
+such are all Metaphysical Contemplations. And those natural researches which
+are raised from experiment, and the objects of sense. The former are indeed
+most perfect when they are most abstracted from the grosness of things
+sensible, but the others are then most compleat when they are most accomodated
+to them; and when they are not, they are Aery, and Phantastick. Now what I
+have said about those matters is to tie down the mind in Physical things, to
+consider Nature as it is, to lay a Foundation in sensible collections, and
+from thence to proceed to general Propositions, and Discourses. So that my aim
+is, that we may arise according to the order of nature by degrees from the
+exercise of our Senses, to that of our Reasons; [[Page
+100]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=52) which indeed is
+most noble and most perfect when it concludes aright, but not so when 'tis
+mistaken: And that it may so conclude and arrive to that per­fection, it must
+begin in sense: And the more ex­periments our reasons have to work on, by so
+much they are the more likely to be certain in their con­clusions, and
+consequently more perfect in their actings. But Madam, I doubt I begin to be
+tedi­ous, and therefore, at present dare add no more, but that I am,
+
+Illustrious Madam, Your Grace's most Humble and most devoted Servant,
+
+Jos. Glanvill.
+
+### 2.52.
+
+MADAM,
+
+I Had not thus long deferred my dutiful Ac­knowledgments to your Ladyship for
+the Ho­nour which I received, with your Ingenious Book of Orations; if I had
+not been in hopes to recommend my Gratitude by presenting your Lady­ship with
+this Poem, lately Printed; and though it ought not to be ranked amongst those
+pollished Pieces, which are derived to the World from your fair hands; yet,
+Madam, I cannot doubt of your candid Reception of it; since in that shining
+Circle of Graces, which Illustrates your Character, there is not any one more
+conspicuous, than your Ge­nerous Humility; which I am confident, will ob­tain
+my Pardon of your Ladyship for presuming [[Page
+101]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=52) to return you
+such a worthless Present, and Divert­ing you from those solid Entertainments,
+by which you so improve your Heroick Spirit, and honour the Commonwealth of
+Letters.
+
+Norwich, May 12. 1663.
+
+MADAM, I am with profound Respect Your Ladyships most Humble and most Obedient
+Servant
+
+S. Tuke.
+
+### 2.53. To the worthily Honoured Dr. Charleton, Physitian in Ordinary to his
+MAJESTY.
+
+HONOURED SIR,
+
+HAving received the noble Present from Dr. Yerbury's hand, which you were
+pleased to recommend to his care; and with it, the very signal Favour of your
+obliging Letter; I hereby hasten to render my acknowledg­ments in reference to
+both, which yet must needs fall short, of being in any degree, a just return
+to either. I have in the inclosed attempted to speak mine, and the
+Universities Duties, and most grate­ful recognitions to my Lord Duke: but can
+only hope they may become acceptable from the advan­tage your Hand and
+Recommendation will give them: and indeed I shall the more need your
+Friend­ship herein, because I understand some Persons have, according to the
+method of ill Nature, pleased themselves in doing me unhandsome Offices, with
+[[Page 102]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=53) the
+Excellent Princess her Grace. Whose great and piercing Understanding will, I
+hope, unravel their vile Arts, who can only recommend themselves by traducing
+others. Sir you will speak a great Truth, and do no less an Obligation both to
+this Place and me, if you shall be pleased to assure my Lord Duke and his
+incomparable Princess, that this University and my self have all imaginable
+gratitude for their Favours, and Veneration for their Persons: I shall with
+the same sincerity make profession of the just regard I bear your self, and
+desire to be esteemed
+
+Dec. 26.
+
+SIR, Your most Faithful Humble Servant,
+
+J. FELL.
+
+### 2.54.
+
+MADAM,
+
+I Received the Honour of your Graces last Let­ter; but have not time now for
+so large a return, as so ingenious a Discourse might just­ly require, only I
+cannot forbear intimating to your Grace, that I am not so fond a mechanist, as
+to sup­pose all the Phoenomena of the World to be raised meerly by those Laws;
+but most of them perhaps by a Principle that is vital; And the Anima Mundi I
+take to be a very likely, and convenient Hypothe­sis. Of this I am ready to
+give your Grace an ac­count, that you shall be pleased to permit it. But the
+business of this is somewhat of another nature, being to implore a Favour from
+your Grace, not [[Page
+103]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=53) upon mine own,
+but a publick account. There is in this Place a Library erected, chiefly for
+the diversion of Gentlemen that come hither upon the occasion of the Bath.
+There are in it several worthy Authors, but it wants the great Honour and
+Ornament of the Illustrious Dutchess of New-Castle's Works. I know, Madam,
+your Grace hath alwayes writ out of a Principle of Noble Generosity, and
+Charity towards Mankind; and are very ready to dispense your Influence to
+those that need your Informations: To this I understand most of the
+considerable Li­braries of England can bear a Testimony; and there­fore I am
+bold upon the confidence I have in your Grace's goodness, to become an humble
+Solicitor in the behalf of ours, which will be very much en­nobled by so
+glorious an Instance of your Grace's Favour, if you shall please to Honour it
+with those Ingenious Works, by which your Grace doth so much outshine your
+Sex, and many, that would be thought the greatest Wits, of ours. You see,
+Ma­dam, what an apprehension I have of your Grace's Benignity and Candor, in
+that I can appear before your Grace in a request for a Favour to others, when
+I am my self so infinite a Debtor to those many ob­ligations your Grace hath
+been pleased to lay upon me, for all which I have nothing to return, but the
+most humble and devout Acknowledgments, of,
+
+Bath, Octob. 13.
+
+Illustrious Madam, Your Grace's most Obedient And most Obliged Servant,
+
+Jos. Glanvill.
+
+### 2.55.
+
+[[Page 104]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=54)
+
+MADAM,
+
+I Received a fresh obligation from your Grace in the excellent History you
+were pleased to order for me. In which your Grace hath done right to one of
+the most Illustrious Hero's of our Age, and erected a lasting Monument to his
+Virtue. And in it, Madam, your Grace hath sweet­ly and wonderfully twisted the
+Faithfulness of an Historian, with the Affections of a Wife; And your
+Illustrious Lord hath in this an Honour beyond the other great Subjects of
+History, That his Grace hath not only as much deserved to be Celebrated as
+they, But hath moreover the happiness of the nearest Re­lation to an Heroine,
+whose Pen is as Glorious as his Sword. And 'tis not easy to say which is
+really the greater Wonder, the Famous Loyalty of that great Person, or the
+uncommon Excellence of the Pen that described it. But I must take up from a
+Sub­ject, in which, when I have said all I can, I shall be defective; and
+return to the last Letter wherewith your Grace was pleased to Honour me. For
+the business of Witches upon which your Grace reflects again in this, I have
+spoken many things more a­bout it in some Additions to my Considerations,
+which I am now sending to the Press. As soon as that Discourse is extant, I
+shall beg your Graces acceptance of it. In the interim those things may be
+superseded.
+
+By Lower Nature in my last, Madam, I meant, the meer Animal, and Plastick
+Faculties, whose vio­lent Impetus is the cause of many of our irregularities
+and vices. As to the rest, I acquiesce in your Grace's Determinations; And
+whereas your Grace is pleased [[Page
+105]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=54) to Excuse the
+liberty of Arguings; 'tis Madam with me that which least of all things needs
+to be excused. For I profess the largest freedom of Discourse and Inquiry. As
+for violent and captious Disputes and Oppositions, I indeed much dislike the
+immodesty, and immoralities of them; But for free and ingenious exchange of
+the Reasons of our particular Senti­ments, 'tis that which discovers Truth,
+improves Knowledge, and may be so managed as to be no disinterest to Charity.
+Your Grace Madam, I know is a Person of so much Honour and Judgement, as not
+to take any thing amiss from my liberty in ex­pressing my apprehensions, which
+I use not to ob­trude upon any, but to propose to their Considera­tion and
+Enquiries; and for my self there is nothing obligeth me more than the
+knowledge of variety of Conceptions. There is a Discourse of mine ex­tant upon
+a Subject not very ordinary, which con­tains Notions which some excellent
+Persons have not despised, and are not usually met with in other Writings. I
+am inquiring after it for your Grace, and as soon as I can procure one (which
+is not very easy, that being out of Print) I shall submit it to your Grace's
+Judgement. I never saw that Book of Experimental Philosophy, which your Grace
+men­tions. And to this, Madam, I have no more to add at present, but that I am
+
+Bath, Aug. 25.
+
+Your Grace's most Humble Honourer and Servant,
+
+Jos. Glanvill.
+
+### 2.56.
+
+[[Page 106]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=55)
+
+MAY IT PLEASE YOUR GRACE,
+
+IT was most fit and equal that as your great Name and Merit transcends the
+glories of o­ther Persons; it should be also as singular in its Description;
+and have an Historian some way proportioned both in Honour and unparallel'd
+Ca­pacities to its self: which just felicity having hap­pened to your Grace,
+by the Pen of your Illustri­ous Princess, it remained that one narrow dialect,
+should not confine that Relation to this our Island, which was to give Example
+to the Heroes of all Nations. And now that in this respect also, your Name is
+happily Consecrated to Eternity, We of this Place, are to look upon it as a
+signal Honour, to be made Sacrists to it: and to think it a particular Reward
+of our suffering in that cause, which you so gloriously asserted, and
+accompanied in its fall, to be judged a proper repository, for the Noblest
+History of its greatest and most busy transactions, and of the Person most
+gloriously concerned in them. And certainly while Oxford is an University of
+Loyalty, as well as Learning, which I hope it will never for­get to be, your
+Graces virtues and atchievements, will be their equal argument of Study, and
+Imitati­on: as now your Favours are of their most grate­ful recognition and
+acknowledgment: which in their behalf, with all possible Devotion, are laid at
+your Graces Feet, by
+
+Dec. 26.
+
+Your Grace's Most Obedient most Humble, And most Faithful Servant,
+
+J. Fell.
+
+### 2.57.
+
+[[Page 107]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=55)
+
+MAY IT PLEASE YOUR GRACE,
+
+IT was my misfortune to be abroad in Kent when the Letter wherewith your Grace
+vouch­safed to Honour me, came to London. And therefore as I came late to
+taste the Pleasure of so high a Favour, I hope your Grace will permit me to
+plead that delay in excuse of this slow return of my most humble
+Acknowledgments and Thanks for it. My most Noble Lord (were it not known by
+experience that great Persons, and great Minds, are most apt to stoop from
+their own height, and own mean and inconsiderable services offered to them) I
+should say it was too low a Condescension in your Grace, to take notice of my
+readiness to comply with your Desires: Wherein (beside the discharge of my
+Duty) I did likewise serve the ends of my Ambition; it having ever been the
+Vanity of Soul­diers to think themselves dignified by the Honours done to
+their General. This made me with great Delight employ my self in Designing
+that for your Grace, which I should be sorry to live to accom­plish, being
+already unhappy enough, in Burying too many Princes. For the thing it self I
+am glad to see the King do that which is so decent and wor­thy of him, as to
+order your Grace a Tomb among the Kings, who have always been so near to him,
+and who stood up so close to his Father in extremity of Danger, and so
+bravely, that had not God designed to restore the Crown, in his own Miraculous
+way, it had certainly been done before by your Hand. However your Grace hath
+prepared for your self a more Noble, and more lasting Monument, in the Fame of
+your Heroick Actions, of some of them I [[Page
+108]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=56) had the
+happiness to be an Eye-witness, upon which pretence I humbly beg the Honour to
+retain unto your Grace in the Quality of
+
+Bromley in Kent, July 2. 1671
+
+My LORD, Your Grace's most Obedient Souldier and Servant,
+
+Joh. Roffen.
+
+### 2.58. To the Incomparable Princess, MARGARET, Dutchess of NEW-CASTLE.
+
+MADAM,
+
+AMong many other things, by which your Grace is pleased to distinguish your
+self from other Writers, this seems to be not the least remarkable; that
+whereas they imploy only their wit, labour, and time, in composing Books, You
+bestow also great summs of Money in Print­ing Yours: and not content to enrich
+our Heads alone, with your rare Notions, you go higher, and adorn our
+Libraries, with your elegant Volumes. To that general Charity, which disposeth
+you to benefit all Mankind, you have added a singular Bounty, whereby you
+oblige particular Persons: and out of a Nobleness peculiar to your Nature, you
+cause your Munificence to Rival your Indu­stry.
+
+This, Madam, among many other your Ex­cellencies, Gratitude commands me to
+acknowledge; Your Grace having been pleased to number me a­mong [[Page
+109]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=56) those, whom you
+vouchsased to honour with such extraordinary Presents. For which I know not
+how to shew my self duely thankful, otherwise than by celebrating your
+Generosity, and return­ing you some account of the good effects they wrought
+in me, while I perused them. Which con­sidering the Noble End for which you
+wrote them, and my inability to make you a more proportionate retribution;
+will not, I hope, be unacceptable to you. To this purpose, therefore, I am
+bold to send your Grace this rude Paper. Which yet I design, not as a
+Panegyric of your worth (for what affects us with admiration, strikes us also
+with dumbness: and Stars are best discerned by their own lustre) but as a
+short Scheme of my own grateful Sentiments. And if I be not so happy, to
+deliver them in Language agreeable to the dignity of the Subject, I humbly
+beseech you to consider, that such occasions offer themselves very rarely; and
+that nothing is more difficult, than to make the Pen observe Decorum, where
+Reason is put into disorder, Justice, Ma­dam, requires you should pardon the
+effects of that astonishment, whereof your Wonders are the cause.
+
+They tell us, that the End of all Books is either profit, or pleasure: but I
+think that distinction (as many other in the Schools) might well be spared:
+because, in truth, profit supposeth pleasure; and pleasure is the greatest
+profit; nor am I ashamed to profess, that in all my reading I have no other
+aim but pleasure. It will not then, I hope, Madam, be thought derogatory to
+the Profitableness of your Grace's Books, If I acknowledge my self to have
+received very great pleasure in reading them. And [[Page
+110]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=57) this pleasure
+was so charming, it so far transported me, as often to make me wish, you might
+never entertain a resolution of causing your works to be Translated into any
+other Language: that so all Ingenious Forreigners, invited by the Fame of your
+most delightful Writings, might be brought to do Honour to the English Tongue,
+by learning it on purpose to understand them. For I am zealous for the
+Reputation of my native Language, and of so communicative a temper, as to
+desire all men should participate of what I find delectable. Besides, I could
+not but remember, that I had known a great Man of our Nation, who studied
+Italian, only to acquaint himself with the Mathematiques of Galileo, in his
+Del Movimento, and Saggiatore; and Spa­nish, meerly out of love to the
+Incomparable History of Don Quixot: and was thereupon the more apt to promise
+my self that your Grace's Works, no less admirable in their kind, than either
+of those, would have the like influence upon some of the Bons Esprits beyond
+Sea. But this, Madam, was only my Wish: it is not now my Counsel. Should I
+here particularly recount to you, what the things were, that raised this so
+great delight in me, I should both offend by prolixity, and tacitly cast
+disparage­ment upon the rest. For,
+
+Pauperis est, numerare Pecus,
+
+He is but poor, who can account his Wealth:
+
+And what the witty Roman Stoic said of the excel­lent sayings of Zeno,
+Cleanthes, Chrysippus and other Princes of that Sect, may be conveniently
+accommo­dated to the delightful Remarks every where occur­ring in your Books,
+viz. That no choice can be made, [[Page
+111]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=57) where all
+things are equally Eminent. However, be­cause there is no satisfaction in
+Generals, and that Order is necessary to plainness: give me leave to divide my
+Text into three parts, your Natural Philosophy, your Morals, and your Poctry.
+
+For your NATURAL Philosophy; it is in­genious and free, and may be, for ought
+I know, Excellent: but give me leave, Madam, to confess, I have not yet been
+so happy, as to discover much therein that's Apodictical, or wherein I think
+my self much obliged to acquiesce. But, that may be the the fault of my own
+dull Brain: and Oracles have been after found true, that were at first Dark
+and Enigmatical. Again I am somewhat slow of be­lief also; a continual seeker:
+as conceiving, I have too much cause to be of Seneca's opinion, that Men may,
+indeed enquire and determine what is most pro­bable, but God alone knows
+what's true, in the things of Nature. Nor am I single in this Sceptical
+Judge­ment. The ROYAL SOCIETY it self (the Tribunal of Philosophical
+Doctrines) is of a con­stitution exceedingly strict and rigid in the
+exami­nation of Theories concerning Nature; no respecter of Persons or
+Authorities, where Verity is concerned; seldom, or never yielding assent
+without full con­viction: and that's the Reason why it made choice of these
+three Words for its Motto, Nullius in verba.
+
+This Madam, can be no discredit to your Philosophy in particular, because
+common to all others: and he is a bold Man, who dares to exempt the Physics of
+Aristotle himself, or of Democritus, or Epi­curus, or Des Cartes, or Mr.
+Hobbs, or any other hither­to known. For my part, Seriously, I should be loath
+[[Page 112]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=58) to
+affirm, that they are any other but ingenious Comments of Mens Wits upon the
+dark and inex­plicable Text of the World; plausible Conjectures at best; and
+no less different, perhaps, from the true History of Nature, than Romances are
+from the true actions of Heroes. Nor will I adventure to determine, which of
+the two, Aristotle or your Grace, hath given us the best definition of the
+Hu­mane Soul: He, when he calls it Entelechia; or you when you say, it is a
+Supernatural something, &c. So difficult is it to make a judgement of what
+seems incomprehensible.
+
+Nor are you to be discouraged, Madam, If your Philosophy have not the fate to
+be publickly read in all Universities of Europe, as your Grace, doubt­less out
+of amost Heroic ambition to benefit Man­kind, desires it should. For, while
+Men are Men, there will be different Interests, and consequently different
+Opinions: nor is the multitude of Follow­ers a certain sign of the Soundness,
+but of the Gain­fulness of any Doctrine. If, therefore, the World, which is
+obstinate (you know) and governed by pre­judice, will not be induced to
+esteem, what you think useful; the blame lyes not at your Door, and you ought
+to consolate your self with this reflexion; that you have sufficiently
+testified your good inten­tions, and done more than your Duty, in publishing
+your Conceptions. Befides, the Virtuosi of our English Universities have, of
+late years, proclamed open War against the tyranny of Dogmatizing in any Art
+or Science: and as for those of the Roman Religion; there is, I fear me, but
+little hope, of ma­king them your Proselites. Because those canting
+Polititians, called School-men, having made a new and [[Page
+113]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=58) party-colour'd
+Vest for the Church, of a kind of Drugget, consisting of the Thrums of
+Peripatetic Philosophy, cunningly interwoven among the Gol­den threads of the
+Christian Faith; and prevailed, upon Princes to make it Piacular for any
+Scholar to appear with his Judgement clad in any other Livery: it is not very
+unlikely, the Professors there will soon be brought to offend their Superiors,
+by laying aside the defence of Aristotle's Maxims, to assume the Patronage of
+New. So that in my silly conceipt, as the Cabbage is observed to starve the
+Vine, if set too near: so the Philosophy of Thomas Aquinas and others of the
+same mystical Tribe, will hinder the growth of yours, in the same Ground.
+
+For your MORAL Philosophy (for so I take liberty to call your occasional
+Reflections upon the Actions, Manners, and Fortunes of Men) Your Grace has
+not, indeed tied up your Pen to the la­borious rules of Method, or the
+formality of a new Systeme in Ethics: but (what is as well) you have
+opportunely, and under various heads, dispersed many useful remarks,
+concerning Prudence, as well Civil, as Domestic, in most of your Writings. And
+this, it may be presumed, you were pleased to do, not for want of Skill to
+reduce your rules of life into the order of dependence and connexion; but with
+de­sign, to shew your plenty, and surprize your Readers with good counsel even
+where they least expect it. You chose rather to regale us with delicate
+Fictions, under the veil whereof wholesom instructions are neatly contrived,
+than to embarass and tire us with the observation ofa long train of Precepts,
+which are never so effectual, as when naturally flowing from agreeable
+Instances and Examples. Your very in­terludes [[Page
+114]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=59) contain
+adviso's, and your digressions are seasonably instructive: like wise
+Husbandmen, you plant Fruit-Trees in your Hedge-rows, and set Straw­berries
+and Rasberries among your Roses and Lil­lies. This, Madam, is a piece of no
+small art, though not obvious to common Eyes: and if any dislike the course
+you have taken in thus scattering and disguising your Morals; I would have him
+asked this Question, Whether or no it be folly for a man to refuse to gather
+Oranges and Citrons, only be­cause the trees that offer them, are not ranged
+in the Order of Cyrus's Quincunx? or whether a Nosegay be less fragrant,
+because pluck'd from Flowers grow­ing dispersedly? To all who have read your
+Comi­cal Tales, with the same purity of Mind, with which you wrote them; and
+are withal qualified to search into the Mythology of all your imaginary
+Dialogues: to all such, I say, it is evident, that you have drawn the Images
+of all the Virtues, on one hand, and their opposite Vices, on the other, so
+much to the life; that men, beholding them, must be, by grateful violence,
+compelled to love the Pulchritude of those, and abhor the deformity of these.
+Now, this, Ma­dam, you could not have done had you not first had the Idea's of
+all Virtues within your self: it being absolutely necessary for a Painter,
+first to conceive the form or similitude of the thing he intends to
+re­present, in his own Imagination; and then to make the resemblance according
+to that form. So that in strictness of truth, those Pictures we call
+Originals, are but Copies, yea Copies of Copies: as being first drawn from the
+life in the Phantasy, and after pourtrai'd upon Tables. Besides this, your
+Grace is further happy, in that the Morals of your Pen are [[Page
+115]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=59) clearly
+exemplified in those of your Life; in which I have never heard any thing
+blamed, any thing di­sputed, unless whether it hath been more Innocent, or
+more Obliging. In fine, the Documents of both your Pen and Life seem to be so
+good, that who­ever is able to moderate his Passions, and regulate his Actions
+by them, needs not to seek further af­ter Happiness: nor need I fear to
+pronounce him ar­rived at such perfection, that it will not be easy for him to
+be brought to do ill, either out of Weakness, or out of Design.
+
+For your POETRY; therein your Grace hath more than a single advantage above
+others.
+
+First, Your Vein appears equally facile, equally free, and copious upon all
+occasions, in all sorts of arguments. The Buskin and the Sock are equally fit
+for your Muses Legs. Your Phansy is too ge­nerous to be restrained: Your
+Invention too nimble to be fettered. Hence it is, that you do not always
+confine your Sense to Verse; nor your Verses to Rhythme; nor your Rhythme to
+the quantity and sounds of Sillables. Your Descriptions, Expressions,
+Similies, Allegories, Metaphors, Epithets, Num­bers, all flow in upon you of
+their own accord, and in full Tides: and Verses stand ready minted in the
+Treasury of your Brain, as Tears in some Womens Eyes, waiting to be called
+forth. So that in you is verified the Doctrine of Plato, in his Dialogue
+in­titled Io; that Poesy is not a faculty proceeding from judgement, or
+acquired by labour and industry; but a certain divine Fury, or Enthusiasm,
+which scorning the controle of Reason, transports the Spirit in Rap­tures, as
+Jove's Eagle did Ganymed, or as Witches are said to be wafted above the Clouds
+on the wings [[Page
+116]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=60) of their
+Familiars. Which is, perhaps, the ground of that old saying, nemo fit Poeta,
+no Poet is made, but born so: as the rage and liberty of a Poetic Ge­nius gave
+occasion to paint Pegasus with Wings, in a flying posture, and without a
+Bridle.
+
+Secondly, In your whole Oglio of Poems, I find nothing which is not intirely
+Your own. Like good Housewifes in the Countrey, you, make a Feast wholly of
+your own provisions: yea, even the Dressing, Sawces, and Garniture of the
+Dishes are Your own. And were Perilius Faustinus revived (he, who out of envy
+to the Glory of Virgil, made and published a large Catalogue of his Thefts
+from Homer and Hesiod) he could hardly discover so much as a single Verse
+borrowed, by you, from any Poet, antient or modern. So circumspect you are to
+avoid being thought a Plagiary, that you walk not in beaten Paths, but decline
+even the rules and methods of your Predecessors, and scorn Imitation, as a
+kind of Theft. A commendation, Madam, due to very few, perhaps to none besides
+your self. As your Grace, therefore, owes all your Poesy to the inspi­ration
+of your own happy Genius alone; so we owe all the Pleasure we are sensible of
+in reading your Poems, to you alone. I may have many rivals in these my
+thankful acknowledgements, you can have no Competitor in the Glory of their
+occasi­ons.
+
+This double Felicity is augmented by the accession of two others, no less
+worthy admiration. One is, that as you have made your self an Original, so are
+you likewise secure from being Copied. You have indeed, given the world an
+illustrious Example; but you have given what it cannot take, the Example
+[[Page 117]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=60) being of
+that height, that it is hardly attainable. You provoke our Emulation, and at
+the same time cast us into despair. Your Poetical Fancies rather brave, than
+instruct our capacities: and by setting before our Eyes things inimitable, you
+vex our ambition, and oblige us to an unprofitable trouble.
+
+Another is, that you exceed all of your delicate Sex, not only in this age,
+but in all ages past. It would puzle the best Historian to find your Parallel
+among the most famous Women: and in the Mo­numents of the Roman greatness,
+even while that Glorious Nation held the Empire as well of Virtue and Wit, as
+that of the World, I cannot meet with an Heroine, to whom I dare to compare
+you. There are, I confess, who tell us of a Noble Roman Lady, one Sulpitia,
+who composed a History of Domiti­an's times, in Hexametre Verses, and wrote
+many Elegant Poems besides; and who hath been highly celebrated by Martial,
+Tibullus, Sidonius Apollinaris, and of late by Scaliger also, as an eminent
+Pattern both of a Chast and Immaculate Life, and of a neat Poetical Wit: and
+once I had some thoughts of drawing a Parallel betwixt that Lady and your
+Grace. But, upon a second examination of the par­ticular Remarks, wherein I
+had fansied the resem­blance chiefly to consist; and a more serious review of
+the Story of her Life, and the remains of her Pen, (extant among the Fragments
+of Latine Po­ets, and usually annexed to Petronius Arbiter) I perceived, I
+could not proceed in that resolution, without disadvantage on your part, by a
+conference so unequal; and thereupon resumed my former co­gitation, that your
+Grace's Statue ought to be placed [[Page
+118]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=61) alone, and at
+the upper end, in the Gallery of Heroic Women, and upon a Pedestal more
+advanced than the rest. We read not that Nature hath been so Prodi­gal of her
+choicest Largesses, as to produce two Cice­ro's, or two Virgil's, or two Ben
+Johnson's: why, then, should we seek after your Equal? It was their glory to
+be single: and it must be yours, to have no Peer, for ought we know, you are
+the First great Lady, that ever Wrote so much and so much of your own: and,
+for ought we can divine, you will also be the Last.
+
+These, Madam, are a few of those swarms of thoughts that crowded into my
+unquiet Head, when I proposed to my self to express some part at least of the
+great Honour and Reverence I owe your Grace. If I have so far obeyed the
+impulse of my Gratitude and Devotion, as to put them into Words, and offer
+them to your knowledge; it was not, I as­sure you, out of a vain conceipt,
+that they were answerable either to your vast Merits, or to my Obli­gations;
+but meerly upon Confidence, you would descend to exercise your Goodness and
+Candor, in receiving them as a simple recognition of both. And if I have
+suppressed the rest; it was out of good Manners, and a due fear of farther
+offending your Patience. I am not ignorant, Madam, that our Prayers to God,
+and our Addresses to Princes ought to be short. Resigning you, therefore, to
+the conversa­tion of your own more ingenious and useful thoughts, and to the
+Tranquill Fruition of those intellectual pleasures, that continually spring up
+in you from the Virtues of your Life, and the Fame of your Wri­tings; I most
+humbly beg your favourable Inter­pretation [[Page
+119]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=61) of what I have
+here weakly said, and with all Submission imaginable, cast my self at your
+Feet, as becomes
+
+From my House in Covent-Garden May 7. 1667.
+
+Your Graces, Just Honourer, and most Intirely Devoted Servant,
+
+Walter Charleton.
+
+### 2.59.
+
+MADAM,
+
+I Had the Honour to hear so good Solutions given by your Excellency upon
+divers Que­stions moved in a whole Afternoon, you was pleased to bestow upon
+my unworthy Conversati­on, that I am turning to School with all speed, humbly
+beseeching your Excellence may be so boun­tiful towards my Ignorance, as to
+Instruct me about the Natural Reason of those Wonderful Glasses, which, as I
+told you, Madam, will fly into Powder, if one breaks but the least top of
+their tails: whereas without that way they are hardly to be broken by any
+weight or strength. The King of France is, as yet unresolved in the Question,
+notwithstanding he hath been curious to move it to an Assembly of the best
+Philosophers of Paris, the Microcosme of his King­dom. Your Excellence hath no
+cause to apprehend the cracking blow of these little innoxious Gunns. If you
+did, Madam, a Servant may hold them close in his Fist, and your self can break
+the little end of their Tail without the least danger. But, as I was bold to
+tell your Excellence, I should be loath to [[Page
+120]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=62) believe any
+Female Fear should reign amongst so much over-masculine Wisdom, as the World
+doth admire in you. I pray God to bless your Excel­lence with a dayly increase
+of it, and your worthy self to grant, that among those Admirers, I may strive
+to deserve, by way of my humble Service, the Honour to be accounted,
+
+Hague, March 12. 1657.
+
+MADAM, Your Excellencies most Humble and most Obedient Servant
+
+Huygens de Zulichem.
+
+> I have made bold to joyn unto these a couple of poor Epi­grams I did
+meditate in my Journey hither, where your Excellencies Noble Tales were my
+best entertainment. I hope Madam, you will perceive the intention of them,
+through the Mist of a Language I do but harp and ghess at.
+
+### 2.60.
+
+MOST EXCELLENT PRINCESS,
+
+THe Obligations by which your Grace has eminently engaged your Servants in
+par­ticular, and in General the whole world, or at least the Judicious and
+Civil part of it, are so many and great, that to ennumerate them to this
+present Age may seem a large History, and to Gene­rations to come a real
+Romance. The happiness was so great we received the last year, when we had, by
+your Graces Permission, the Honour to pay our Duties to your happy self, that
+the Contemplation of it by your Grace's absence, adds the more to our
+Infelicity. But we shall not wholly despair to be [[Page
+121]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=62) restored to the
+same capacity of waiting on your Grace, which we are extreamly ambitious of:
+In the mean time presenting my Wifes most humble Ser­vice to your Grace, I
+take the confidence to sub­scribe my self,
+
+April, 22. 1668.
+
+MADAM, Your Graces very great Honourer, And most Devoted Humble Servant,
+
+BERKLEY.
+
+### 2.61.
+
+MY LORD,
+
+IT is not Strange to me that your Grace is pleased to surprise me with such
+obliging ci­vilities which are so essential to your Nature, and made customary
+by so many frequent Habits, that it were as difficult for your Grace not to do
+Acts like your great self, as it is for others (espe­cially in this
+degenerating Age) to imitate yours. I return your Grace my most humble Thanks
+for the high Honor and Favour of your Books, recei­ved by my self, and Son,
+which are much to be valued by judicious Persons, for the worth contain­ed
+therein, and rendred most Illustrious, for the great Authors sake, who will be
+much admired, not only by the present Age, but by all succession of Ages, as
+long as Loyalty, Sincerity, and high Acts of Honour are esteemed by Men, and
+have [[Page 122]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=63) any
+attractive Power, My Lord, I most humbly beseech your Grace to believe me to
+be
+
+Berkeley-House at St. Johns, April 22. 1668.
+
+Your Grace's high Honourer, And most Obedient Servant,
+
+BERKELEY.
+
+### 2.62.
+
+MY LORD,
+
+THe Right your Grace has to be a Supream Patron of Poesy, is given you, from
+your Affection to the Muses, and the excellent merit of your own Compositions,
+which have so many ways beautified Poesy, and delighted our Theatres, as they
+have received from your Wit (if possible) equal Glory with your other
+Gallantries and Actions, which have so much honoured our Nation; for this
+Cause I must beg your Graces Pardon, that I presume, to present you with this
+in­considerable Poem of mine, of which (though I wanted not Inclination) I
+durst not adventure a di­rect Dedication to your Grace, with whom I had not
+the Honour of an Acquaintance sufficient to incourage such a boldness, as also
+some doubt, it might not deserve a Patronage from so excellent a Poet, which
+made me rather venture its publick Dedication to this Honourable Person of my
+Alli­ance, I have mentioned before my Book, though this my private Address to
+your Grace, must be my greater Ambition, since you are not only a most
+accomplished Judge, but an Author: yet I presume to say that your Grace may
+challenge some con­cernment [[Page
+123]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=63) in this Poem,
+as it treats of the past Glory of our Ancestors; in which the Antiquity, and
+Ho­nour of your Blood, could not but have a high Re­nown: and as your Grace
+has scarce a Parallel, in all Acts of Generosity, and Nobleness, so your
+In­comparable Lady, doth no less excell in her Quality, and Sex, (the
+unequal'd Daughter of the Muses) besides all other her voluminous Productions,
+which compleat the Wonder of her Name, to whom I have presumed to present,
+likewise, with your Lord­ship, a Book of my Poem, as an expression to both
+your Graces, how much you are Honoured by,
+
+May 3. 1669.
+
+My LORD Your Graces Very Humble Servant,
+
+Edward Howard.
+
+### 2.63.
+
+MADAM,
+
+I Owe it to your Graces singular condescention, and goodness, that my Letters
+are not displea­sing, and I see a great deal of Generosity, in your Graces
+acceptance, of such mean things, as my slender stock of Knowledge can impart.
+As for your Inquiry about the Plastick Faculties; I Answer, that they are
+those, whereby the Body is formed at first, and by which the Alimental Juices,
+are after, through the whole course of Life, orderly distribu­ted for the
+purposes of growth and nutrition: But whether, as your Grace inquires, they
+are Faculties inherent, in the Soul, or are only Mechanical Mo­tions [[Page
+124]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=64) of the Body I
+cannot determine certainly. But I rather incline to the Platonists, who will
+have the Soul to be the Bodies Maker, and they affirm (as is ordinary; though
+with some diversity in the Names and Presentation) That there are three sorts
+of Faculties, which they Phancy as Analogous parts, or Regions in the Soul,
+(Viz.) The Mind, so they call the highest Faculties of abstract Reason, and
+Understanding, which is the First. The Second they call the Soul, (Viz.) as it
+is united to the Body, and exerciseth the operation of Sense. The Third, is
+the Image of the Soul, which is those Fa­culties, that are called Plastical,
+that move and turn the Body, but are devoid of Understanding, or Sense; Now
+how the Soul, which is Immaterial, can manage and order Corporeal Motions is a
+dif­ficulty of which Philosophy as yet hath given no account, as I have
+particularly taken notice, and proved in my Sceptis Scientifica, but yet the
+thing ought not therefore to be denied, because the man­ner of the most
+obvious sensible things is to us un­known; And by this we can only prove, that
+we have yet nocertain Theory of Nature: And, in good earnest, Madam, all that
+we can hope for, as yet, is but the History of things as they are, but to say
+how they are, to raise general Axioms, and to make Hypotheses, must, I think,
+be the happy priviledge of succeeding Ages; when they shall have gained a
+larger account of the Phoenomena, which yet are too scant and defective to
+raise Theories upon: so that to be ingenious and confess freely, we have yet
+no such thing as Natural Philosophy; Natural History is all we can pretend to;
+and that too, as yet, is but in its Rudiments, the advance of it your [[Page
+125]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=64) Grace knows is
+the design and business of the Royal Society; from whom we may reasonably at
+last expect better grounds for general Doctrines, than any the World yet hath
+been acquainted with; but this, Ma­dam, is an excursion. I therefore return to
+your Graces Letter, which inquires some things, about my No­tion of the Souls
+Original: As to this I would not be understood to affirm peremptorily a thing,
+which the greatest part of Men, neither have, nor can re­ceive, only I
+consider it as an Hypothesis, that may be taken up to satisfy those minds that
+are much troubled at the seeming inequalities of Providence; and whether true,
+or false, this I will take the bold­ness to be confident in, That the Doctrine
+of the Souls Praeexistence, doth best suit with the appearan­ces of the World.
+And best Answers for the Di­vine Justice and Goodness, in all the affairs of
+Pro­vidence; In this Madam, I am a little Dogmatical, and this step further, I
+think I may take, without im­modesty; That the Doctrine hath so much to say
+for it self, from Reason, and the highest Antiquity, as to render it fit to be
+considered, and indeed, since the two other wayes, are confessedly desperate,
+me­thinks there should be no harm in examining this; which is all I pretend
+to. But particularly to your Grace's Quaery, Whether were Souls Created or
+Un­created? I Answer, no doubt Created: But then I do not see how that
+follows, which your Grace is pleased to infer, Viz. That Sin was then Created,
+For our Souls in their State were Spotless and Innocent, as the Angels of God.
+That Mankind was so first, and fell by a voluntary Transgression, is the
+com­mon Doctrine; and how we may suppose it was par­ticularly in the way of
+Praeexistence, your Grace will [[Page
+126]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=65) see easily,
+when I shall have procured that Book of mine, I have mentioned, and promised
+your Grace, but cannot yet light on. The other part also of your Graces
+Division: Viz. That if those Souls were Eternal, they are Gods; is I humbly
+conceive a mistake likewise, since though the World, had been Created from
+Eternity (which even the Schools confess possible) it had nevertheless been a
+Creature, by reason of its dependence upon another, for its being, and to have
+been produced, and yet from Eternity, is no absurdity, our Faith affirms it,
+in the Eternal Generation of the Son, and Procession of the Holy-Ghost, and to
+take an instance with which we may make more bold: If the Sun had been from
+Eternity no doubt it would have shone E­ternally, and yet it's Beams had been
+effects and de­pendent; And whereas your Grace saith again, That what is
+Immaterial is a God: I must here also take the boldness, to enter my Dissent
+to your Propo­sition; Indeed Mr. Hobbs denys all Immateriality to Created
+Beings, but I think upon grounds preca­rious and unsafe, That our Souls are
+Immaterial in their Natures, hath been sufficiently proved by some late
+Philosophers; particularly by the most learned Dr. H. Moore, and I also have
+done something about this, in my Book of Praeexistence, If your Grace de­mands
+my Reasons; they shall be ready at the least intimation, of those commands
+which I shall ever account a singular Honour to observe. For the anti­quity of
+Praeexistence, which your Grace rightly ob­serves, to be no certain Argument
+of the truth of it, I humbly say I have not alledged it, for a demon­stration
+of the thing, but to take off the prejudice we are apt to have against all
+supposed Novelties, [[Page
+127]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=65) and to shew
+that it is not so despicable, an Hypothe­sis but that several great minds of
+former times, even in the Ages of the best Antiquity have owned a kindness for
+it, and consequently that we cannot, without some immodesty, deny it a
+favourable hear­ing, But madam, I forget my self, and the consi­deration I
+ought to have of your Grace's Time and Patience, and therefore only add, that
+I am,
+
+Bath, Octob. 13. 1667.
+
+Illustrious Madam, Your Graces Most Obedient Servant,
+
+Jos. Glanvill
+
+### 2.64.
+
+MY LORD,
+
+HAd I not been out of Town a great part of the last Summer, and almost all
+this Winter, I had written to your Grace long since. The Town might have
+furnish'd me with occasions of writing that had not been impertinent. For only
+to say that I am the humblest of your Graces Servants, and that no man has a
+greater Honour for you than I have, would be Impertinent, since all that know
+me, know it of me already, and I hope your Grace believes it. But (my Lord)
+the Printing of the Humourists has given me a new occasion of troubling you,
+and desiring your Favour to be an Advocate, for me, to my Lady Dutchess, to
+procure me her Pardon, and a favouroble re­ception of that little Comoedy. My
+Lord, (as long asyou are so great a Mecaenas) it will be im­possible [[Page
+128]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=66) to defend your
+self from the Importunate Addresses of Poets: And Poetry is in such a
+de­clining condition, that it has need of such Noble Supporters as are at
+Welbeck: Your Grace saw this Comoedy (before the Sting was taken out) and was
+pleased to approve it, which is to me more than the Plaudit of a Theatre: As
+it is, it stands more in need of Pardon, and Protection, which I hope your
+Grace, and my Lady Dutchess will have the Mercy to afford it. I have (in this
+Play) only shown what I would do if I had the liberty to write a general
+Satyr, which (though it should really re­flect upon no particular persons,
+yet) I find the Age is too faulty to endure it. If, for this reason, I were
+not tyed to too great a strictness for a Poet, I should not despair of
+presenting you with some­thing much more worth your view than this mang­led
+Play; but all that I can do can never make any proportionable return to the
+favours, received from you, by,
+
+London, April 20. 1671.
+
+My LORD, Your Graces most Obliged Humble Servant,
+
+Tho. Shadwell.
+
+### 2.65.
+
+[[Page 129]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=66)
+
+MADAM,
+
+IAm to beg your Graces Pardon for my felf, and this imperfect Piece, for which
+I have bor­rowed the Patronage of your Name; I am not ignorant of the
+disadvantage that Name might ap­pear with (before such a Trifle as this Play)
+if it were not too well known, and had been too often pre­fixt to excellent
+Pieces of your own to suffer any detraction now: This Dedication will only in
+some measure express the Honour that the Humblest of your Servants has for
+your Grace, and the Power you have to protect so defenceless a Poem. But
+(Madam) I confess it is too great a Presumption, for me, to hope that your
+Grace (that makes so good use of your time with your own Pen) can have so much
+to throw away as once to read this little offspring of mine: And (but that
+before I found not only Pardon for an Offence of this kind but encouragement)
+I should despair of having this for­given. When none of all the Nobility of
+Eng­land gives encouragement to Wit, but my Lord Duke and your excellent self,
+you are pleased to receive favourably and encourage the very endea­vours
+towards it: and under that notion this poor Play begs your Pardon and
+Reception. Though it met with opposition from the Malice of one party, yet
+several men of Wit were kind to it. But whatsoever opposition threatens that,
+or me, it can never prejudice either, if that be Protected by your Grace, and
+I be thought what I really am,
+
+London, April 20. 1671.
+
+MADAM, Your Graces most Humbly Devoted Servant,
+
+Tho. Shadwell.
+
+### 2.66.
+
+[[Page 130]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=67)
+
+MADAM,
+
+BEing an Hundred and fifty Miles from Lon­don, at a place called Chaddeston,
+near Man­chester: I had an account, but the last Post, of the receit of your
+Graces Noble present: other­wise you had received a more early Acknowledg­ment
+with my humble Thanks; which are all the return I can make for that, and many
+other Fa­vours I have received from Welbeck: It had been Bounty enough (and as
+much as I could have ex­pected) for your Grace to have Pardoned the
+pre­sumption of my Dedication, which intituled you to the Patronage of so
+sleight a thing: but to reward my Crime, is beyond expression Generous. Thus
+your Grace, like Heaven, rewards the intention without considering the
+imperfection of the Act. My Design was, in some measure, to testify my
+Grati­tude, and the Honour I have for your Grace: but even this Acknowledgment
+has run me more in debt. Your Grace is thus resolved to be before-hand with
+all your Servants. Let them be never so dilligent, your Benefits will out-go
+their Services; and they can never over-take your Bounty. I, for my part, am
+in despair of ever coming near it: But nothing shall ever hinder me from
+making use of all occasions, I can lay hold on, to testify the great Honour I
+have for my Lord Duke, and your Grace, and that I am,
+
+May, 25. 1671.
+
+MADAM, Your Graces most Humble, and most Obedient Servant
+
+Tho. Shadwell.
+
+### 2.67.
+
+[[Page 131]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=67)
+
+MADAM,
+
+COnsidering that the Divine Gods accept of Offerings, though never so trivial,
+when that their poor and obliged Creatures of­fer them with true Devotion,
+incourages me here, by your Favours and Goodness, to believe alike of your
+Ladyship, and to hope your Pardon and ac­ceptance of this Sacrifice of Thanks,
+which in all Humility I thus Dedicate for the Honour of your Book, of which I
+dare not say I am now unworthy, since I find where it comes, it has the
+Efficacy of Great Seals, and Patents, to meliorate both Persons and Places,
+and such Esteem and Reverence as they come welcomed with, I must always and
+much more account due to your Ladyships Orations, and to be Eternally paid by,
+
+MADAM, Your Ladyships Most Devoted, Humble, and Obliged Servant
+
+Bullingbrooke.
+
+### 2.68.
+
+MOST ILLUSTRIOUS PRINCESS,
+
+THough deprived so many years of your most Noble Presence, yet left your Grace
+so perfect an Idea in our Thoughts of your great Virtue, and those rare
+faculties of your Understanding, wherewith Nature hath adorned [[Page
+132]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=68) your Grace, so
+that we ever do admire the same, it being often our most pleasing delight to
+discourse thereof, besides the remembrance of your many great and undeserved
+Favours formerly received; and though we stand infinitely Obliged for the same
+un­to your Grace, yet you are pleased to increase our Obligations, by
+Honouring us with the Noble Gift of five several Books together, of your
+Graces last Edition, which especially for what belongs to those Sublime
+matters of Natural Philosophy are only for the most Learned, and Judicious
+Under­standings, and for us to admire, and keep them as a singular mark of
+your Graces great Benevolency toward us, and an Emblem of your high
+Perfecti­ons, after our Lives to be left as a Testimony of the same. In the
+mean time we humbly intreat your Grace to preserve us all in your good
+Opi­nion, and Honour me with a belief that I am as long as I live, to the
+utmost of my weak Ability,
+
+Antwerp, Octob. 20. 1671.
+
+Your Graces, Most Humble and most Obedient Servant,
+
+J. Duartes.
+
+> My Sisters with the tender of their most Obedient Service, Humbly kiss your
+Graces Hand.
+
+### 2.69.
+
+[[Page 133]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=68)
+
+MADAM,
+
+UNto the Rich and Incomparable Present of your Excellencies Works, wherewith
+you have been pleased to Honour the Uni­versity, I have, by the special
+appointment of Mr. Vice-Chancellor, given a just reception; which word I
+confess we could not use without being guilty of great rudeness, but that we
+have placed them by that Illustrious Piece wherewith his Excellency your
+Renowned Lord had before Honoured us, which is it self Incomparable. Indeed
+Madam, the Univer­sity finds her self oppressed herein with so many
+Obligations in one, that She knows not where to begin her Acknowledgments; as
+considering, that not only her Repositories are dignified to be the Cabinet of
+so rich a Jewel, but that She is singled out by your Excellency, and valued
+above the rest of the World for her Approbation, and (as your Excellency
+pleases to stile it) to be a Judge of it. Alas, Ma­dam, that is an Office we
+dare not assume, not only without censure of Arrogance, but even of
+Impro­priety; for seeing that every one is to be judged by their Peeres, who
+shall undertake to be Judge of that that hath no Peer? We may see other things
+by the Light, but to perceive the Light it self we cannot call for another
+Light; so neither may this gallant Work be Judged but by its own Innate
+Ex­cellency, and the splendor it self carrys in it. No, Madam, 'tis Honour
+enough for us that we are taught by it, we will not usurp upon it; and shall
+count it our Pride and not our Shame to be out-done by so Transcendent an
+Example. We acknowledge that we are become instructed in the Sciences which
+our [[Page 134]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=69)
+selves profess; Philosophy, Oratory, Physick, Po­etry, we write them over our
+Doors, but we find them herein at a farr cheaper rate sent home to those
+Doors, and that by a hardiness of Invention which your Excellency first hath
+shewed unto the World, and that an easy one too, by sending us to that common
+and neglected Mistress, even Nature her self, to whose Benignity if we would
+confide (as your Excellency hath done) we should make far greater Progresses
+in the ways of Knowledge and Wisdom (as likewise your Excellency hath done)
+than through all the tedious Disciplines wherewith we are detained and vexed
+in our rugged Nurseries. Two things do justly leave us, Madam, under a
+surprize and admiration of your Excellencies great Production; First, that it
+should proceed from a Per­son of so high Honour and Fortune; for Ignorance in
+such things as those is appointed by the World unto such Estates, and thought
+a kind of Preroga­tive belonging unto Wealth: And next, that it should proceed
+from a Sex unaccustomed to, and commonly excused from such painful and
+elevated Inquisitions. For (as your Excellency hath ob­served) men do assign
+to your Sex nothing but va­nities, and Trifles for their Portion, and under
+co­lour of Courtship do confine them in their Educa­tion only to some
+inferiour Qualities, and so in ef­fect but to a kind of delicate Barbarism:
+But herein your Excellency hath shew'd great Courage in breaking through that
+Obstruction, and by a Fe­male and unusual Chevalry have rescued your whole
+Nation and Sex from the oppression and injury in this point, and of that great
+Giant, the World. For our part of your University, we must needs sub­scribe
+[[Page 135]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=69) to your
+Excellencies judgment herein, for 'tis the Muses were esteemed our best
+Genius's and Sciences did choose unto themselves for their Deities not Patrons
+but Patronesses: and our Corporation of Learning, though it consist all of
+Men, yet when we would express it in the Abstract and in Picture we represent
+it by a Woman. And in fine, my self, Madam, (who am allowed the Honour to be
+the Custos of your immortal Donary) must be obliged to borrow from a Womans
+Eloquence exemplified in the Work it self, whereby to express worthily the
+Resentments due unto it by those that have em­ployed me, and particularly mine
+own, who am,
+
+May 20. 1663.
+
+MADAM, Your Excellencies most Humble and Devoted Servant,
+
+Thomas Lockey, Keeper of the Publick Library.
+
+### 2.70.
+
+MADAM,
+
+EVer since I had the happiness to see any of your Graces most ingenious
+Writings, I have felt a mighty Desire to speak my par­ticular gratitude for
+those singular Composures to all which the World is obliged; And had attempted
+something towards it more than three years since, but that my acknowledgments
+miscarried in the way. I am, Madam, an Admirer of Rarities, and your Grace is
+really so great an one, that I cannot but in­deavour [[Page
+136]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=70) some Testimony
+of a proportion'd respect and wonder, though perhaps there may be Indeco­rum
+in the boldness of such unknown Addresses. I am sensible it can contribute
+nothing to your Graces great stock of Fame to be acknowledged by
+inconsiderable Persons; But yet we must be just, and 'tis Religion to
+celebrate the Virtuous. And I know your Grace is too generous to contemn the
+offerings of the meanest Devoto's, upon the incou­ragement of which Belief I
+am bold to beg Favour and acceptance for a Trifle of mine that was designed
+for your Grace, as soon as it saw the Light, but could not find it's way into
+the North. I should not have the confidence to present so mean a thing to so
+deep and Sagatious a Judgement, had I not an opi­nion of your Graces Candor
+and Goodness, equal to my apprehension of your other Celebrated Per­fections;
+and these are so Illustrious and so great, that our Sex would envy, did they
+not admire, and your own too, Madam, were they not universally concerned in
+the Honour. For your Grace hath con­vinced the World, by a great instance,
+that Women may be Philosophers, and, to a Degree fit for the Ambitious
+emulation of the most improved Mascu­line Spirits.
+
+But, Madam, 'tis time to beg your Graces Par­don for the rudeness of this bold
+intrusion; and I know, that grandure and generosity of Mind that occasion'd
+the fault, will forgive it to
+
+Bath, April 22.
+
+Illustrious Madam, The Humblest of your Graces Admirers, and Servants,
+
+Jos. Glanvill.
+
+### 2.71.
+
+[[Page 137]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=70)
+
+MADAM,
+
+THe greatest Favour I could have expected in Answer to my boldness, was but a
+pardon for the confidence of that intrusion; But that your Grace should so
+generously accept my Trifles, and make me so Glorious a return as I re­ceived
+in your most ingenious Letters, this, Madam, was an Honour as much beyond my
+expectation, as desert; and exceeds all my possibilities of ac­knowledgment.
+But if ever any thing happen within the reach of my indeavours, by which I may
+serve or gratify your Grace, I shall then give evidence of the great
+resentment I have of this condescention, and the Veneration which is due to a
+Person of so obliging and so unusual a Virtue. Your Grace, I know, is Nobly
+inquisitive, and hath a rich stock of generous Apprehensions; and Persons of
+this Character use to be pleased in the persual of the va­riety of others
+Conceptions; And on this account I presume, that those notions I sometimes
+entertain my self with, may not be unacceptable, being not alto­gether of the
+road and common track. And if your Grace please to permit, and pardon my
+Importuni­ties, I shall take occasion to give you my sense of some things that
+are not of the meanest concern­ments. For the present I am obliged to answer
+the particulars of your Grace's Letter, in which your Grace hath very much
+obliged me by those argu­ments you are pleased to excuse; and to them I make
+this humble return.
+
+1\. That whereas your Grace calls the Induce­ments to the belief of Witches,
+probable Arguments, I am apt, with submission, to think some of them to [[Page
+138]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=71) be as great
+demonstrations as matter of Fact can bear; being no less than the evidence of
+the Senses, and Oaths of sober Attestors, and the critical inquiries of
+Sagacious, and suspitious Persons; which Circum­stances of Evidence, your
+grace knows, some of those Relations have to prove them. And there is a
+particular Story which is sufficiently famous, and of part of which I my self
+was a Witness, which I think is not subject to just Exception. 'Tis that of
+the Drum in the House of Mr. Mompession of Tedworth in Wiltshire. Of this,
+Madam, I shall take an occasion to give your Grace a particular ac­count, if
+you have not yet been acquainted with the circumstances of that unusual
+disturbance. But to confine my self now to your Grace's considerations on the
+subject; The second thing I observe, is,
+
+The intimation of an Argument against the Ex­istence of Witches, because they
+are not mentioned by Christ, and his Apostles, concerning which I humbly
+desire your Grace to consider.
+
+1\. That Negative Arguments from Scripture use not often to be of any great
+signification or validity. Our Saviour spake as he had occasion, and the
+thou­sandth part of what he said, or what he did, is not recorded, as one
+Evangelist intimates. He said no­thing of those large unknown Tracts of
+America, gives no intimations of the Existence of that nume­rous People, much
+less any instructions about their Conversion. He gives no particular account
+of the affairs and state of the other World, but only that general one, of the
+happiness of some, and the mi­sery of others. He makes no discovery of the
+Mag­nalia of Art, or Nature, no not of those whereby the propagation of the
+Gospel might have been [[Page
+139]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=71) much advanced;
+viz. The Mystery of Printing, and the Magnet. And yet no one useth his
+Si­lence in these Instances as an Argument against the being of things, which
+are the evident Objects of Sense. I confess the omission of some of these
+particulars is pretty strange and unaccountable, and an argument of our
+Ignorance of the Reasons and Menages of Providence, but I suppose of nothing
+else; or if it were, I crave leave to add,
+
+2\. That the Gospel is not without intimations of Sorcery, and contracts with
+evil Spirits. The ma­licious Jews said our Saviour did his Miracles by their
+assistance, He casts out Devils by Beezebub. And he denys not the supposition
+or possibility of the thing in general, but clears himself by an appeal to the
+Actions of their own Children, whom they would not so severely criminate. And
+besides this,
+
+3\. The Apostles had intimations plain enough of the being of Sorcery and
+Witchcraft, as seems to me evident from Gal. 3.1. Gal. 5.20. Rev. 9.21. Rev.
+21.8. Rev, 22.15.
+
+'Tis very true as your Grace suggests, that Su­perstition and Ignorance of
+Causes make Men many times to impute the Effects of Art, and Nature, to
+Witchcraft and Diabolick Contract. And the Com­mon People think God, or the
+Devil to be in every thing extraordinary. But yet, Madam, your Grace may
+please to consider, That there are things done by mean and despicable persons,
+transcending all the Arts of the most knowing and improv'd Virtuosi, and above
+all the Essays of known and ordinary Nature. So that we either must suppose
+that a sottish silly old Woman hath more knowledge of [[Page
+140]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=72) the intrigues
+of Art, and Nature, than the most ex­ercised Artists, and Philosophers, or
+confess that those strange things they performe, are done by con­foederacy
+with evil Spirits, who, no doubt, act those things by the ways and
+applications of Nature, though such as are to us unknown. This, Madam, is, I
+conceive, as much as is necessary to be said to the Argumentative part of your
+Graces excellent Letter.
+
+As for the following Periods, I am mostly of the same Opinion with your Grace,
+in the way that I understand them. Nature is in a continual motion (for there
+is no such thing as Rest in the World) and perhaps that is not purely
+Mechanical, but may, in great part (at least as to the beginnings and
+directi­ons of it) be ascribed to the Soul of the World, which possibly is the
+great Archeus that formes Plants, Animals, and other more curious Phoenomena.
+And there is no doubt but (as your Grace suggests) that much wickedness is
+caused by the meer impulse of Lower Nature; and I believe several Men are
+determined to Actions of Vice by the odness of their particular make and
+contexture. But whereas your Grace saith that nothing but God himself can be
+perfect, I cannot so well understand that. Absolutely so, and in all kinds,
+'tis true, I grant it, but your Grace doth not seem to intend the proposition
+in that sense. And to be Perfect in a lower kind is but to have all the parts
+and faculties that are re­quisite to such a being, in that order, disposition,
+and all other circumstances which are suitable to its Idea, and proper for its
+respective ends. And in this sense I think all things are perfect in their
+first con­stitution; according to what your Grace saith af­terwards, [[Page
+141]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=72) That [God
+cannot create any Imper­fection, being absolute Perfection himself] which
+appositely fits mine, but I can not see how it so well consists with your
+Graces former assertion, except it be intended to infer, That God made
+nothing; a Proposition which methinks your Grace should not own; but some
+things that follow seem to look that way, when you are pleased to say [Neither
+can I conceive how God could actually make or act any thing, either in a
+Mechanical manner, or a Free, being not locally moving] To which I humbly say
+that if your Grace doubts the possibility of the Cre­ation out of nothing, I
+think I can speak some things as a Philosopher, that may render it
+rea­sonable. Nor is actual motion in the Deity neces­sary to his actions,
+since he is Immense and needs not local motion to render him present by his
+Essence, or his Virtue, to any place of the great Universe, being Eternally
+there by the Infinity of his being, and his Power. And whereas your Grace is
+plea­sed to say, that God is no Mechanick, I consent that He is not so
+properly, in that he needs not material Instruments to act by. But yet he hath
+made all things by a kind of Geometry; in Number, Weight, and Measure, saith
+the Holy Oracle. And there is a sort of Mathematics in all the Works of
+Na­ture.
+
+Thus, Madam, I have made bold with your Graces Patience, in confidence of your
+Candor, and your goodness, which I implore, for the Pardon of this Voluminous
+Trouble. And in order to it, I have this to say, that I could not well have
+said less without having been wanting in some of your Graces Periods; and
+there is something else, in which [[Page
+142]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=73) I despair of
+being ever able to say enough, and that is, to express how much I am,
+
+Bath, July 8.
+
+Illustrious Madam, Your Graces Humble Admirer, and Devoted Servant,
+
+Jos. Glanvill.
+
+### 2.72. To the Right Honourable, the Lady MARGARET, Marchioness, of New-
+Castle.
+
+EXCELLENT MADAM,
+
+I Well know that the Generous never propose to themselves any other End of
+their Favours, besides Content, which necessarily results from the pursuance
+of their own Noble Inclinations, but only the Benefit of the Persons, upon
+whom they choose to confer them: and that therefore they usu­ally select such
+Subjects, whereon to exercise their Beneficence, that seem more likely to
+husband it, by a silent Devotion, and modest Acknowledgment, than to abuse it,
+by attempting a Retribution. And this, Madam, both teacheth and assureth me;
+that though the Favour you were pleased to do me, in sending me one of your
+admirable Books, newly published, under the Elegant and most accommo­date
+Title of The WORLDS OLIO; be so eminent an one, as to require from me a more
+sig­nificant Expression of my Gratitude, than either my Wit, or Fortune, or
+Interest can ever be able to make: yet none can be more acceptable to you,
+[[Page 143]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=73) than
+this, That I intend ever to continue your Debtor. So much, therefore, I here
+solemnly profess; and most faithfully promise you, that I never will, so much
+as in a wish for a Capacity of Retaliation, prophane the Freedom of the
+Obligation your good­ness moved you to lay upon me.
+
+But, not to state the Particulars of my Debt, at least in brief; might give
+you just cause to suspect, that I understand not the Value of what I have
+re­ceived. And, therefore, I humbly ask your leave, that I may acknowledge to
+you, that you have highly benefited me, in my Reputation, in my Understanding,
+in my Affections.
+
+First, I say you have benefited me in my Re­putation; in that you have
+declared me capable of so singular an Honour, as to be in the number of those
+Persons, whom you thought worthy to receive so rich a Present, from so Noble a
+Hand. For me to have sat among the Multitude, whom your Sta­tioner invites to
+feast upon your OLIO, had been proportionable enough to the degree of so
+ordinary a Judgement, as mine: but to be among those few, whom your self had
+nominated for your Chief Guests, was a Grace infinitely above my Ambi­tion.
+
+Secondly, You have benefited my Understanding; in that your Philosophical
+Phancies have furnished me with variety of such Novel Conceipts, concern­ing
+sundry the most difficult Problems in Nature; as that if my Memory be but
+faithful enough to retain them, I shall never be unprovided of somwhat that is
+poynant and grateful, to entertain Curiosity withall: and whenever my own
+Reason is at a loss, how to investigate the Causes of some Natural Se­cret
+[[Page 144]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=74) or
+other, I shall relieve the Company with some one pleasant and unheard of
+Conjecture of yours. So that by reading of your Philosophy, I have acqui­red
+thus much of advantage; that where I cannot Satisfy, I shall be sure to
+Delight: which is some­what more than I dare promise from any other Discourses
+of the same Title; in so much as they generally leave the Mind in a kind of
+Anxiety and Regret, when ever they fail to afford it Satisfaction. And,
+certainly, if it be (as some hold) reasonable to allow, that the Fictions of
+Poets, and Roman­cists do usually take as strong hold of mens Minds, and Charm
+their Affections as powerfully, as the most Authentique Narrations of
+Historians; though the Reader well understands the Passages related by these,
+to be certain Truths, and the adventures de­scribed by Those, to be meerly
+Imaginary; and this, because Delight is equal on both sides: if this, I say,
+be justifiable, that man can run but little hazard of his Judgement, who shall
+affirm, that your Suppo­sition of Fayeries in the Brain, and of our Thoughts
+being their Consults and Suggestions; and your opini­on that the Fayeries
+digging for Stones in the Quar­ries of the Teeth, to repair their decay'd
+Tenements in the Head, is the Cause of the Tooth-ach; are as worthy the
+hearing, as the most solid demonstrative Theory of any Philosopher whatever;
+insomuch as these may yield both as high and lasting a Delight as that. I say
+Delight as High and Lasting; for, to speak my Thoughts clearly, the Pleasure
+that ariseth from the comprehension of the most perfect and la­borious
+Demonstration in Geometry, I never could find, either in height or duration,
+much to exceed that, which I have sometime been affected withall, [[Page
+145]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=74) at the recital
+of a Facetious Poetical Extravagancy, of which I had not afore heard. Nor do I
+believe, that the Raptures, and Exultations of Don Quixot were much inferior
+to that famous one of Archimed, which transported him out of himself, as well
+as out of the Bath, into a loud Exclamation, I have found it, I have found it.
+And the Reason of this Equa­lity may be well enough thought, to consist
+chiefly in the unsatisfiedness of our Nature, which always hurrying our Minds
+on to Novelties, causeth us to put an equally cheap rate upon all things we
+think already in the possession of our Understanding; and to value acquest of
+a fresh, though perhaps useless, and absurd Opinion, above the calm fruition
+of an­tient and irregular Maxims. But, this (Madam) being a Paradox, ought to
+have more room, than can be spred in a Letter, whose design'd Argu­ment is
+Thankfulness: and besides, should I adven­ture further, to avouch it, the same
+could not but much redound to my disadvantage; insomuch as it might render me
+suspected for something of a Scho­lar, and consequently incapable of the
+Honour and Pleasure of sometimes attending you, and hearing your more than
+ingenious Discourses. For as I re­member, in one of your Prefaces, or Epistles
+to your Readers, you have been pleased expresly to declare; That you never
+Conversed, so much as one Hour, with any Philosopher, or Professed Scholar, in
+your whole Life: and that, doubtless, must have proceeded from your constant
+Aversion to such blunt Company; not from your want of opportunities to hear
+what they could say. Because, being always Educated among the Noblest, and
+most Knowing Persons of our Nation; you could hardly escape the Conver­sation
+[[Page 146]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=75) of the
+most Learned in all the Arts and Sci­ences; unless you purposely withdrew your
+self from their Society, or shut your Ears against their Dis­courses.
+
+But, Madam, among those, who have perused your Writings, I meet with a sort of
+Infidels, who refuse to believe, that you have alwayes preserved your self so
+free from the Contagion of Books, and Book-men. And the Reason they give me,
+is this; that you frequently use many Terms of the Schools, and sometimes seem
+to have Imp'd the Wings of your high-flying Phansy with sundry Feathers ta­ken
+out of the Universities, or Nests of Divines, Philosophers, Phisicians,
+Geometricians, Astronomers, and the rest of the Gowned Tribe. For instance, of
+Divines, when you speak of Praedestination, Free will, Transubstantiation, &c.
+Of Philosophers, when you mention Quantity, Discrete and Continued, the
+Uni­versal and First Matter, Attoms, Elements, Motion, Dilatation, and
+Contraction, Rarefaction, and Conden­sation, Meteors, &c. Of Physicians, when
+you distin­guish of Choler, Phlegme, Melancholy, and Blood, and speak of the
+Circulation of the Blood, of Venricles in the Heart and Brain, of Veins,
+Arteries, and Nerves, and expatiate upon Fevers, Apoplexies, Convulsions,
+Droqsies, and divers other Diseases, with their particular Causes, Symptoms,
+and Cures: Of Geometricians, when you touch upon Triangles, Squares, Circles,
+Diameters, Circumferences, Centres, Lines, streight and crooked, and their
+proportions each to other, and that invin­cible Problem, the Quadrature of the
+Circle: Of Astronomers, when you speak of the Horizon, Me­ridian, Aequator,
+Zodiack, Ecliptick, Tropicks, Poles of the World, and of the Ecliptick, and in
+a manner [[Page 147]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=75)
+run over the whole Doctrine of the Sphere, repre­senting the model of the
+Universe, and cast some transitory glances also upon the Doctrine Theorical
+concerning the Motions of the Orbs, and Pla­nets. Nor can I, indeed, hope to
+dissolve the stif­ness of these mens unbelief; untill I shall be better able
+to convince them, that all these Scholastical Terms and Notions may be brought
+into the World with us, and afterwards drawn forth of the Soul, by solitary
+Meditation, and the labour of ones own Thoughts; and are not rather instilled
+into it, and imprest upon it, by often Hearing, or Reading the Discourses of
+others, who profess those Arts and Sciences to which they belong, and for the
+more plain and methodical teaching whereof, they were first Invented and
+Recorded. But I fear me, while I insist thus particularly upon the Reason
+alleadged by these men, in defence of their Diffidence; I may fall into the
+same danger, for the avoidance of which, I even now left my Paradox destitute
+of Assertion: and therefore I lay by that subject, and take up another more
+opportune and considerable, as to the discharge of my Duty, and confessing how
+many wayes you have obliged me.
+
+I acknowledge, therefore, in the last place; that my Affections must own you
+for their Benefactress. For those many Moral Apothegms, and Satyrical
+Remarques upon the Manners of Men and Wo­men, which you have frequently
+inspersed upon the Leaves of your Book, are so pathetically delivered, and
+with such vigour of proper and familiar Lan­guage press'd home to the Bosome
+of every man; as that that person must be irrecover ably lost in the darkness
+of Vice, who doth not, through thhm, clearly [[Page
+148]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=76) discern the
+Lustre and Amiableness of Virtue, and thereupon instantly abominate his former
+Deformi­ties, and become your perfect Proselite. When a Young, Noble,
+Beautiful, Witty, and Sprightly Lady, one on whom all the Pleasures of the
+World seem to be Enamoured, and in throngs offer them­selves to be accepted
+and commanded by her; when such an one, I say is heard to Preach up
+Temperance, Abstinence, Modesty, Chastity, Solitude, and the suppression of
+all irregular sensual Appetites. What Sardanapalus is there, who must not
+blush at the me­mory of his Vicious Acts, and being convinced, that the
+delights of a Soul, well ordered according to the rules of Virtue and Honour,
+are infinitely more charming and desirable, than the most magnified Pleasures
+of the Body, swimming in an Ocean of Luxury, and Laciviousness; firmly resolve
+with him­self, thenceforth to seek for Felicity, not in the short Titillations
+and Blandishments of the Senses, but in the Purity and constant Serenity of
+the Mind. Is it possible, that any of our Ladies, should retain her pretences
+of Platonick Love, or continue the practise of her petty Arts of Daubing and
+Painting, of Dis­sembling, Medisanse, and Detraction: after she hath once read
+your smart Invectives against them, and solid Arguments to shew, that they may
+all be justly suspected for Bawds to procure and conceal the fruition of that
+Pleasure, which doth not con­sist in the admiring conversation of Souls, but
+in the close Conjunction of Bodies, and the satisfaction of that rank Appetite
+of the Flesh, commonly called Lust? In a word; what Sex, Age, Constitution,
+Condition is there, whose most secret Ulcers, the sharpness of your Wit and
+Pen hath not launced [[Page
+149]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=76) open to the
+bottom; and afterward prescribed most easy and certain Remedies for the Cure
+of them? So that I may well conclude this Paragraph with saying that your
+Moral Essayes contain wise Pre­cepts enough in them, for the Reformation of
+the Age we live in, and that, certainly, is so bad that no Man need ever fear
+a worse.
+
+And, now, Incomparable Madam, having done my Homage to you, in token of what I
+hold by the tenure of your Wit and Bounty, it remains, that I humbly beg your
+Pardon for the rude and tedious manner of it. And that, I hope, you will grant
+me, when you have considered, that the Devotion may be sincere, where the
+Ceremonies are imperfect; and I have assured you, that I will never omit to
+pay you those Dues of Thanks, and constant Observance, that belong to you,
+from me, as one whom your Goodness hath made,
+
+London, January 1. 1654.
+
+Your Eternal Honourer, and Faithful Servant,
+
+W. Charleton.
+
+### 2.73. To the most Illustrious, and most Excellent Princess, Margaret
+Dutchess of New-Castle.
+
+MOST ILLUSTRIOUS PRINCESS,
+
+SEeing your Graces singular Genius, hath long since been experienced, and
+fully discovered to us; for such as is both accomplish'd with all various
+Learning, and furnished with a Native Cur­tesie; that for its high abilities,
+it is able; and for [[Page
+150]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=77) its eminent
+Candor, it usually obtains infinitely upon the favourers of Learning: We
+obliged on both these accounts, were unwilling to incurr so great a Crime, as
+not chearfully to Consecrate to your Grace, these our Acknowledgments, as
+Argu­ments of our Eternal Observance. Your Graces goodness having this,
+peculiar and above others, that 'tis neither forced by Solicitations of
+Friends, nor Importunities of Petitions, but voluntary and of its own accord
+flowes out, and delivers it self. Truely every more than ordinary Spirit is
+powerfully drawn out to what is like it self, invites, embraceth, and
+preserves, whatever bears the name of any kind of Excellency, as allyed to it.
+But how truely Mag­nificent is this of your Grace, that the Arts them­selves,
+by your Graces Example, are render'd more August and Venerable? How shall
+future Ages stoop under the weight of your Graces Fame, that your Grace in
+that Nobility of Extract, and conflu­ence of Fortune, should yet outvie in the
+Methods of Learning, even those, whose necessities must prompt them to
+diligence? Wherein your Grace hath made so happy a progress, that never any
+can more appear, a Devotist to, or Proficient in Learn­ing: so that your
+Graces teeming Brain is ever bring­ing forth some new Miracle: and though a
+Wo­man, yet hath merited the Diadem of Learning be­fore Men; though a
+Courtier, yet before the Aca­demicks: In a word, wherein any one, is in any
+thing Excellent, yet is your Grace in that thing far more excellent. Nor can
+we believe, that any mortal Man, no not your Grace our Princess (with your
+Graces Pardon) can from Natures instinct, or humane strength be excited and
+raised to so manifold [[Page
+151]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=77) and profound
+Speculations. It must necessary, be that that most capacious Soul of your
+Grace, expa­tiating it self so far into all sorts of Learning, is Di­vinely
+inspired; that almost Infinite Comprehension of so many and so great Notions
+informes us, how great a measure of the Heavenly Spirit hath possest your
+Grace; and that no single Deity hath enlarged this one Soul unto the Immense
+Tracts of all the Sci­ences. With these happy Omens hath your Grace reached
+unto, whatever in the Arts seemed good unto your Grace when some Diviner
+Genius of your Grace our Princess, judged the No­tion of any clear Truth,
+would be beneficial. And whereas it was your Graces Work, not to give
+Rea­sons, but Magisterially to Prononce, as from an Oracle; (yet such is your
+Graces condescention) that all your Graces Tenets are asserted and con­firmed
+with most Cogent Arguments: as if we did not owe a Belief, and had not a
+certain Devotion obliging our Assent to your Graces bare Assertion. Henceforth
+therefore do we Destine our spare hours unto these kinds of Studies, and are
+reaching unto the perfection of Philosophy, seeing your Grace hath judged
+these Speculations such as are worthy your Graces Intentions, and nearer
+Approximations: for such an happy clearness of Wit shall render every theng
+discoverable and fully to be comprehended, and that most free inclinination of
+your Graces Can­dor will communicate every thing discovered to your Graces
+Cantabrigians. Yet lest we should give our selves up to unworthy Ease, and
+Consecrate our selves to Sloth, your Grace hath left us one very difficult
+Task, namely Thankfulness. Forasmuch then, through your Graces Labours,
+Minerva's [[Page
+152]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=78) Pupils have now
+obtained that Divine thing, which they may, without error, pursue, to wit a
+calm re­pose in all our Studies; we therefore judge that a more Honourable
+Monument was never at any time erected, to any of the ancient Kings or
+Emperours, than what we here humbly dedicate to your Graces worthy name and
+memory.
+
+> To Margaret the First: Princess of Philosophers: Who hath dispelled Errors:
+Appeased the differences of Opinions: And restored Peace, To Learnings
+Commonwealth,
+
+>
+
+> From the Colledge of the Sacred and Individual Trinity. Octob. 5. 1668.
+
+[[Page 153]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=78)
+
+## 3\. POEMS, &c.
+
+### 3.1. To the most Illustrious and most Excellent Princess, The Marchioness
+of NEW-CASTLE. After the reading of her Incomparable POEMS.
+
+MADAM,
+
+WIth so much Wonder we are strook
+
+When we begin to read your match­les Book;
+
+A while your own excess of Merit stays
+
+Our forward Pens, and do's suspend your Praise;
+
+Till time our minds do's gently recompose,
+
+Allayes this Wonder, and our Duty show's;
+
+Instructs us how your Virtues to Proclaim,
+
+And what we ought to pay to your great Fame;
+
+Your Fame which in your Countrey has no Bounds!
+
+But wheresoever Learning's known, it sounds.
+
+Those Graces Nature did till now divide,
+
+Your Sexes Glory, and our Sexes Pride,
+
+Are joyn'd in you, and all to you submit,
+
+The brightest Beauty, and the sharpest Wit;
+
+[[Page 154]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=79)
+
+No Faction here, or fiercer Envy swayes,
+
+They give you Mirtle, while we offer Bayes;
+
+What Mortal dares dispute those Wreath's with you?
+
+Armd thus with Lightning and with Thunder too.
+
+This made the great New-Castle's Heart your prize;
+
+Your Charming Soul, and your Victorious Eyes,
+
+Had only pow'r his Martial mind to tame,
+
+And raise in his Heroick Breast a Flame;
+
+A Flame, which with his Courage still aspires,
+
+As if Immortal Fewel fed those Fires:
+
+This mighty Chief, and your great self made One,
+
+Together the same Race of Glory run;
+
+Together on the Wings of Fame you move,
+
+Like yours his Virtue, and like his your Love.
+
+While we, your Praise endeavring to rehearse,
+
+Pay that great Duty, in our humble Verse,
+
+Such as may justly move your anger; you
+
+Like Heaven forgive them, and accept them too:
+
+But what we cannot, your brave Hero payes,
+
+He builds those Monuments we strive to raise;
+
+Such, as to after Ages shall make known,
+
+While he Records your deathless Fame, his own;
+
+So when an Artist some rare Beauty draws,
+
+Both in our Wonder share, and our Applause;
+
+His Skill, from time, secures the Glorious Dame,
+
+And makes himself Immortal in her Fame.
+
+George Etherege.
+
+[[Page 155]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=79)
+
+### 3.2. To her Excellency the Lady Marchioness of New­Castle, on Her
+Incomparable Works:
+
+MADAM,
+
+WHen with stol'n Metaphors we would display
+
+Those Glorious Lights which rule our Night and Day,
+
+We call them Lamps and Spangles, and suborn
+
+Our Wits t'obscure, what we cannot adorn:
+
+But when some fading Beauty haunts our Eyes
+
+Tempting to Praise, what Greatest Souls Despise,
+
+We can advance the Phrase all smoothly runs,
+
+Her Cheeks are Roses, and her Eyes are Suns.
+
+Great Virtues only by themselves are prais'd;
+
+What's highest higher by no Art is rais'd:
+
+'Tis proper only to our Imperfections
+
+To need, or to admit, our Wit's Protections.
+
+Were your Pen's Noble Issue such small things,
+
+As the fine Poet to his Mistris sings:
+
+Or else such pretty Babies as are sent
+
+Out from the lab'ring Press, to Complement
+
+Our Childish Age; which nothing so wel pleases
+
+As Lispings, Weakness, and Wit's Diseases:
+
+Then I, perhaps amongst the rest might wast
+
+Some Paper, to be your Encomiast;
+
+And, in the present mode; pick Crums and Scraps
+
+From Sirs that wear their Phancyes in their Caps,
+
+And Cook a Mess of Bumbast to delude
+
+And glut at once the gaping multitude.
+
+But 'tis your Wit's prerogative to be
+
+As far above all Praise as Flattery:
+
+[[Page 156]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=80)
+
+And since you have said All, we boldly may
+
+Excuse our selves, you've left us nought to say.
+
+In ev'ry Line you give us we descry
+
+Your Panaegyrick, our Apology:
+
+Where all's so well like you, that to conceive
+
+Ought but our wonder may admittance have,
+
+Is to suppose, you either cannot see
+
+Our meanness, or will veil your Majesty.
+
+Then he betrays your Name whoe're essayes
+
+To load it with vain Epithets of Praise:
+
+Who seems to understand all you have writ,
+
+T'advance his own, doth much abase your Wit.
+
+Madam we're in a maze: such Glorys can
+
+Not be beheld by what is only Man.
+
+When you are pleas'd to work new Miracles
+
+We'll see and read what's yours and nothing else:
+
+When you give Eyes as well as Light, when you
+
+With Language will on us new Tongues bestow,
+
+When you can make us write just as you do;
+
+We'll learn to praise your Works: But sure it is
+
+Impossible; you can do all but this.
+
+'Tis equally absurd for us to guess
+
+We e're should do so much or you ought less.
+
+Thanks for our Freedom from the learned Thrall
+
+Of thrice-three Mistresses; you're One and All:
+
+Those antique wits which erest would not be seen,
+
+But in a mist of obscure Tongues which Screen
+
+More Follies far than Phansies, are become
+
+Like their own Pump'd-out Oracles all dumb;
+
+Great Aristotle and his greater
+
+Plato:
+
+Master
+
+VVith their long rabble have the same disaster.
+
+These Paper-Armies Bodly's Goal contains
+
+Your Captives are, fretting in Iron Chains.
+
+[[Page 157]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=80)
+
+One Lady's pregnant Brain has slain whole hosts
+
+Of Rabbys, and quite laid their Paper ghosts,
+
+VVhich haunted all our Studies, and perplex'd
+
+Our wearied thoughts with a Moth-eaten Text.
+
+VVho would not give a life that he might live
+
+In the next Age, to see the Learned strive
+
+VVhose Margin should strut biggest with your Name
+
+VVho raise up highest Pyramids of Fame
+
+Over your peaceful Ashes; may it be
+
+Such Phoenixes can know mortality.
+
+VVas it her modesty (for she's a VVoman)
+
+Made Nature Coy, and shew her self to no man?
+
+She walk'd in Vizors till she met with you.
+
+VVhat wonder if she did retir'dness vow
+
+And to our Ruffian Sex shewd Nun that late
+
+Unveil'd to your Sex; and but one of that?
+
+You need not fear to die, she needs must live
+
+Her self, whose Noble Office 'tis to give
+
+Life to our late Posterity: each line
+
+Of yours must be their Oracle, your Shrine.
+
+Your Images the work of your own Pen
+
+Shall frustrate all the curteous Cheats of men,
+
+Pronouncing all your true adorers blest
+
+Without the help of Conjuror or Priest.
+
+Be merciful to Captives (Madam) and
+
+Kill not all those that bend at your Command.
+
+Your softest Sex your Noble Order shall
+
+Vote all such cruelty Apocryphal.
+
+You have subdu'd the VVorld of Learning, spare
+
+At least so much alive as may declare
+
+Who was the Conqueror, that all may know
+
+VVhate're survives is owing all to you.
+
+[[Page 158]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=81)
+
+You have out-done what's mortal; Imitate
+
+Those Pow'rs above which to maintain their state
+
+Let some poor vassals live, and worship'd are
+
+Not by whom they destroy, but whom they spare.
+
+Then sheathe your Conqu'ring Pen since nothing now
+
+Remains unvanquish'd but your Works and you.
+
+### 3.3. On her Grace the Dutchess of New-Castles Closet.
+
+WHat place is this? looks like some Sacred Cell
+
+Where holy Hermits anciently did dwell,
+
+And never ceas'd Importunating Heav'n
+
+Till some great Blessing unto Earth was giv'n;
+
+Is this a Ladys Closet? 'tcannot be,
+
+For nothing here of vanity you see;
+
+Nothing of Curiosity nor Pride,
+
+As all your Ladies Closets have beside;
+
+No mirrour here in all the Room you find;
+
+Unless it be the mirrour of the Mind,
+
+Nor Pencil here is found, nor Paint agen
+
+But only of her Ink and of her Pen.
+
+Which renders her an Hundred times more fair
+
+Than they with all their Paints and Pensils are:
+
+Here she is Rapt, here falls in Extasy
+
+VVith studying high and deep Philosophy:
+
+Here these clear Lights descend into her Mind
+
+VVhich, by Reflection, in her Books you find,
+
+And those high Notions and Idea's too,
+
+VVhich, but herself, no VVoman ever knew,
+
+[[Page 159]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=81)
+
+Whence she's their chiefest Ornament and Grace,
+
+And Glory of our times: Hail Sacred Place!
+
+To which the World in after times shall come,
+
+As unto Homer's Shrine, or Virgil's Tomb,
+
+Hon'ring the Walls in which she made abode,
+
+The Air she breath'd and Ground whereon she trod,
+
+Counting him happy, who but sees the Place
+
+And happier who least Relick of her has;
+
+For whose Sole Inkhorn they as much would bid
+
+As once for Epictetus's they did.
+
+Thus Fame shall Celebrate, and thus agen
+
+The Arts shall honour her, who honour'd them,
+
+Whilst others who in other things did trust
+
+Shall, after Death, lye in forgotten Dust.
+
+### 3.4. To the Illustrious Princess, Margaret, Dutchess of New-Castle, on Her
+Incomparable Works.
+
+VErtue, and Wit's great Magazine,
+
+Accept an Offering to your Shrine,
+
+Whose wondrous Raptures needs must raise
+
+All Souls to Poetry or Praise:
+
+With such Amazement I was strook,
+
+(Madam) when first I read your Book,
+
+To see your Sex with so great Parts,
+
+Treat of all Sciences and Arts,
+
+As if Inspir'd i'th' Times of Old,
+
+When Poetry all things foretold.
+
+That Waller, Denham, and the Wits,
+
+Who write such mighty things by fits;
+
+I did expect should all at least,
+
+Have sent in Presents to the Feast,
+
+[[Page 160]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=82)
+
+But that they choose to write no more,
+
+Shews they're out-done and so give o're,
+
+Though 'tis allow'd their luck was such,
+
+They did Coyne Mettle that held Touch,
+
+Like Min'ralists, they sprung a Vein
+
+Of Oare, they could not long maintain;
+
+Your Pregnant Brain does every day
+
+Spring Mines of Gold, without allay,
+
+The Dross you so Refine that we,
+
+Only the purer Mettle see,
+
+Yours is th'Elixar of true Wit,
+
+Because it finds all Subjects fit.
+
+Had Spencer liv'd your Works t'have seen,
+
+You must have been his Fairy-Queen.
+
+Great Virgil would have thought it due,
+
+Not to name Dido Queen, but You.
+
+And had you liv'd when Ovid writ
+
+You'd been the Subject of his Wit;
+
+He would have made a richer Piece
+
+Of you, than Helen fair of Greece.
+
+You've all that's blest in humane kind,
+
+In outward form, and in your mind:
+
+When you with Beauty do invite,
+
+Your Virtue checks proud Appetite.
+
+Some Ladys think they'r born in vain
+
+Unless they Teem; your fruitful Brain
+
+Brings better issue; here's the odds,
+
+They please but Men, you please the Gods.
+
+Strange Power 'tis you Govern by,
+
+What Nature asks you can deny:
+
+Great Miracle in what you do,
+
+That can Charm Men and Angels too;
+
+Th'honour and envy of our Age,
+
+That write for Gown-men, and the Stage;
+
+[[Page 161]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=82)
+
+Though you speak to us in one Tongue,
+
+You seem all Languages t'have known,
+
+And Secrets to the World reveal,
+
+As if the Gods did sometimes steal,
+
+To tell you News, and from above
+
+You knew all passages of Love,
+
+We must conclude 'tis only thence
+
+You can have your Intelligence,
+
+By which our Knowledge you so raise,
+
+You merit Crowns, that ask but Bayes.
+
+### 3.5. To the most Accomplish'd and Incomparable Princess, The Dutchess of
+New Castle her Grace.
+
+MAdam, 'tis you whom both in Form and Mind,
+
+Nature has favour'd 'bove all Female kind,
+
+You have been constant from the first of Youth
+
+To Friendship, Justice, Chastity and Truth,
+
+Wit in your Childhood did begin to reign,
+
+And like the Tide came flowing in amain,
+
+Wherein such high Conceptions did lye,
+
+As rais'd a new and true Philosophy.
+
+Things Natural and Moral you have writ,
+
+And both in Scenes and Poems shew'd your Wit,
+
+Letters and Dialogues declare your Fame,
+
+In History you Eternalize the Name
+
+Of your Dear Lord, when truly you relate
+
+His Loyal Actions for the King and State;
+
+All this makes you admir'd and envied too,
+
+'Cause you've done more than any yet could do,
+
+In you the Glory of your Sex do's shine,
+
+And all perfections in your Soul combine,
+
+[[Page 162]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=83)
+
+What ever is thought Virtue's found in you,
+
+Your mind is high, and yet 'tis humble too;
+
+Not Pride (as Envy stiles it) but a Flame
+
+More noble strives t'immortalize your Fame,
+
+For you do stoop to those of low descent,
+
+And with compassion to their Case resent,
+
+Which Fortune Frowns upon: How can there be
+
+A nobler Mind and nearer Deity?
+
+Nay Fortune seeing how Nature favour'd you,
+
+To her Perfections added Honour too;
+
+Thus Honour, Beauty, Wit, and Virtue joyn'd,
+
+Made you the greatest Wonder of your Kind,
+
+Let none presume to draw your Picture then
+
+For you surpass all th'art and Skill of Men,
+
+Who e're looks on you with a stricter view
+
+Sees Natur's chiefest masterpiece in You.
+
+### 3.6. To the Glory of her Sex, the most Illustrious Princess, the Lady
+Marchioness of New-Castle, upon her most admirable Works.
+
+NOw let enfranchiz'd Ladies learn to write,
+
+And not Paint white, and red, but black, and white,
+
+Their Bodkins turn to Pens, to Lines their Locks,
+
+And let the Inkhorn be their Dressing-box:
+
+Since, Madam, you have Scal'd the walls of Fame,
+
+And made a Breach where never Female came.
+
+Had Men no Wit, or had the World no Books,
+
+Yet here's enough to please the curious looks
+
+Of Every Reader: such a General Strain,
+
+Would reinstruct the School-boy-world again,
+
+[[Page 163]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=83)
+
+Philosophers and Poets were of old
+
+The two great Lights, that humane minds control'd;
+
+The one t'adorn, the other to explain,
+
+Thus Learnings Empire then was cut in twain.
+
+But Universal Wit and Reason joyn's
+
+To make you Queen: nor can your sacred Lines
+
+Without a Paradox be well express'd
+
+Truth never was so naked, nor so dress'd.
+
+Majestick Quill! that keeps our minds in Awe,
+
+For Reasons Kingdom knows no Salique Law,
+
+Or if that Law was ever fram'd 'twas then
+
+When Women held the Distaff not the Pen.
+
+The Court the City, Schools and Camp agree,
+
+Welbeck to make an University,
+
+Of Wit and Honour, which has been the Stage,
+
+Since 'twas your Lords the Heroe of this Age;
+
+Whose Noble Soul is Steward to great Parts,
+
+And do's dispence his Reasons and his Arts,
+
+His Wit and Power, his Greatness, and his Sense,
+
+With as much Freedom, and Magnificence,
+
+As when our English Jove became his Guest,
+
+And did receive a more than Humane Feast.
+
+With Arts of Wit, he mixes those of Force
+
+And Pegasus is his old Manag'd Horse.
+
+No wonder he excells all other Men,
+
+They but Nine Muses had, and he has Ten.
+
+A Lady whose Immortal Pen transferrs,
+
+To our Sex Shame and Envy, Fame to hers;
+
+Whose Genius traces Wit through all her wayes
+
+In abstruse Notions, Poems, and in Playes.
+
+Then why should we the mouldy Records keep
+
+Of Plautus, or disturb Ben Johnson's Sleep?
+
+The Silent Woman Famous heretofore
+
+Has been, but now the VVriting Lady more.
+
+[[Page 164]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=84)
+
+### 3.7. On the Dutchess of New-Castle her Grace.
+
+MADAM,
+
+WHilst others study Books, I study you,
+
+And can b'Experience this affirm for true,
+
+Of all your Sex you have the greatest worth
+
+As ever yet these later times brought forth,
+
+And I have Studied many, and some such
+
+As former times could hardly better much,
+
+Your Soul so Spiritual it doth appear
+
+Fram'd for some Angel of a higher Sphere,
+
+However 'twas infus'd, I know not how,
+
+Into a mortal Body here below,
+
+Aspiring restlesly like Fire and Flame
+
+To mount again to th'Sphere from whenc it came,
+
+So nobly active as it doth by Truth,
+
+As by the World the Macedonian Youth,
+
+As soon as y'ave o'recome and Conquer'd one,
+
+You grieve there are not more to overcome,
+
+There being nothing so Sublime and High
+
+But you can reach in all Philosophy;
+
+Nor so profound and deep again, but you
+
+With ease, can dive and penetrate into,
+
+Your Virtues being so infinite, I find
+
+When I consider but your Soul and Mind,
+
+'Twere easier for me never to begin
+
+Than ever to give o're when once l'm in;
+
+Which whosoe're should go about to tell,
+
+Might number all the Stars of Heav'n as well,
+
+The blades of Grass upon Earth's spacious Plain,
+
+Or Sands the Sea's vast Bosome does contain.
+
+[[Page 165]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=84)
+
+But as your greatest Beauties have their moles,
+
+So some small faults are still in greatest Souls,
+
+And I shall tell you, Madam, what they be,
+
+T'acquit my self, o'th Crime of Flattery:
+
+'Tis an Ambition above mortal state,
+
+And Mind with Glory never satiate,
+
+Without which Glory and Ambition
+
+No noble Action yet was ever done,
+
+So avidious and so Covetous of Fame,
+
+As only for Eternizing their Name
+
+They, as the Phoenix life to's young do's give,
+
+Would be content to die that that might live.
+
+But now I'll tell what my opinion is
+
+Of Fame (and pardon if I Judge amiss:)
+
+Fame's but a shadow of great action,
+
+And but the Eccho of't when we are gone,
+
+Than whose Trumpet no Musick is more sweet
+
+Nor none's alive more pleas'd with hearing it,
+
+But I do'nt know what pleasure I should have,
+
+When I am dead with Musick at my Grave.
+
+### 3.8. An Elegy upon the death of the Incomparable Princess Margaret
+Dutchess of New-Castle.
+
+HEnceforth be Dumb, ye Oracles of Wit;
+
+Ye humbly must to Fate submit:
+
+How soon must ye decline! How low must fall!
+
+Since She is gone who did Inspire ye all?
+
+Her Books are the best Patterns for the Pen,
+
+Her Person was the best of Subjects too;
+
+[[Page 166]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=85)
+
+In Wit and Sense She did excel all Men;
+
+And all her Sex in Virtue did outgoe.
+
+Though Grief affords some Eloquence,
+
+Henceforth expect but little Sense;
+
+For, since she's gone, all we can do
+
+Will but the Pangs of Dying-writers show.
+
+VVhen the bright Ruler of the Day
+
+Th'Horizon of his Presence has berest
+
+Some feeble streaks of Light are left,
+
+Yet darkness soon must come, and all that light decay.
+
+Our Sun's forever set, we have no hope
+
+Of this as of the other Sun's return:
+
+VVe all in Darkness must forever grope,
+
+And we for ever must in Tears her absence mourn.
+
+Philosophers must wander in the dark;
+
+Now they of Truth can find no certain mark;
+
+Since She their surest Guide is gone away,
+
+They cannot chuse but miserably stray.
+
+All did depend on Her, but She on none,
+
+For her Philosophy was all her own.
+
+She never did to the poor Refuge fly
+
+Of Occult Quality or Sympathy.
+
+She could a Reason for each Cause present,
+
+Not trusting wholly to Experiment,
+
+No Principles from others she purloyn'd,
+
+But wisely Practice she with Speculation joyn'd.
+
+None was more good, and once none was more fair:
+
+She was not as most of her frail Sex are;
+
+Who ave Fruitful Wombs but Baren 'Brains,
+
+She left the best Remains:
+
+[[Page 167]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=85)
+
+Though we no Issue of her Body find
+
+Yet she hath left behind
+
+The Nobler Issue of her mighty Mind;
+
+Learning she needed not, nor yet despis'd:
+
+Though from herself all Arts she knew;
+
+The truly Learn'd she nobly Patroniz'd,
+
+And every Artist, she encourag'd too.
+
+Let all her Sex fashion by her their Lives:
+
+She was the best of Women, best of Wives.
+
+T'her Lord Sh'was warme and loving as the Spring,
+
+But to all others cold as Winters lce,
+
+Her sight on all a shiv'ring awe did bring,
+
+And nipt, at first, all vain attempts of Vice;
+
+But though in Love she bore a Noble pride,
+
+She to each Skilful man of Art
+
+Her Conversation freely doth impart,
+
+And to all others civil was beside.
+
+But we by praising thus provoke our Grief
+
+VVhich never can expect Relief,
+
+Nor can the most luxurious Praise
+
+(Though penn'd with Art that might deserve the Bayes.)
+
+Nor all which we can think afford
+
+Ease to her much lamenting Lord:
+
+Whose loss does now by far outvye
+
+All he yet e're sustain'd
+
+Yet he once lost much more for Loyalty
+
+Than any Subject, and much less has gain'd;
+
+This noble half she left behind
+
+Who by her much lamented death must find
+
+Too great a Trial for the greatest Mind.
+
+[[Page 168]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=86)
+
+Oh what Expedient can there be
+
+Found to support his Magnanimity!
+
+The best of Husbands, and the noblest Peer;
+
+The best of Generals, best of Subjects too,
+
+Whose Arts in Peace as well as War appear:
+
+He knows how to advise, and how to do;
+
+His Prudence and his Courage might uphold
+
+The most decay'd and crippled State,
+
+And rescue it from the Jawes of Fate:
+
+His Body may, but Mind, can ne're be old;
+
+Him she has left, and from our sight is hurl'd
+
+And Gloriously shines in the true Blazing VVorld.
+
+Thomas Shadwell.
+
+### 3.9. An Elegy on the Death of the Incomparable Dutchess of NEW-CASTLE.
+
+IF with due honour you would Solemnize
+
+The great New-Castles Funeral Obsequies
+
+Let every Science in close-mourning stand
+
+About the Hearse, with Cypress in her hand:
+
+Philosophy herself shall hold the Pall,
+
+(She's the chief Mourner at this Funeral)
+
+Philosophy which well the Poets drew
+
+With Womens Features; here we find it true,
+
+Nature, whose Lovers (in their Courtship rude)
+
+Into her Privy-Chambers did intrude,
+
+Out of her own Sex modestly one chose,
+
+To whom her self she naked did disclose:
+
+VVho all her wonders did so well explain,
+
+That she the only wonder did remain.
+
+[[Page 169]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=86)
+
+Let Rhetorick, the pow'rful Syren there
+
+Drest in her richest Livery appear;
+
+Drest in those Robes which Tully to her gave
+
+When the Worlds Mistress Rome, he made her Slave;
+
+Or the strong Reason of New-Castles Books,
+
+VVeav'd with the Charming sostness of her Looks:
+
+But yet her weakness let her here confess,
+
+Her Silence best this Sorrow do's express.
+
+The Muses Her in lasting Tears shall steep,
+
+The Graces mourn, and Comoedy shall weep:
+
+And thousand Cupids sigh forth mournful Airs,
+
+And wish for Eyes, to ease their Grief by Tears.
+
+Let them their Bowes in sign of honour wave,
+
+And with their Torches light her to her Grave.
+
+Nor will they this attendance her deny,
+
+Those Torches first were lighted at her Eye.
+
+VVho now their un-arm'd Deities will dread?
+
+Their Magazine is now demolished.
+
+Yet did not her Muse kindle unchast Fires,
+
+That Heav'nly Cupid Heav'nly Thoughts inspires:
+
+No Kitchin-flames before her Beams would burn,
+
+And wanton Love did to Devotion turn.
+
+Thus Sol at once lifts up the Lamp of Day,
+
+And warms at once, and bids the Persian Pray.
+
+Great Issue of Natures united Pow'rs!
+
+Glory of your Sex, and Disgrace of ours!
+
+Which shall I call the greater Prodigy,
+
+That you were such, or being such could Dye?
+
+Did Nature fear lest that thy boundless Mind
+
+For future search should nothing leave behind?
+
+Or did you take this flight to Heav'n to see
+
+How it with Thy fair Model did agree?
+
+Whate're the cause; Joy rings through every Sphere;
+
+And Heav'n more Heaven is since you came there.
+
+[[Page 170]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=87)
+
+None in it with more Native Lustre shine,
+
+Or livelier do reflect the light Divine.
+
+Such spotless Innocence in that Bosome lyes,
+
+Eve thinks she brought you forth in Paradice:
+
+For that first crime lest not a lesser trace
+
+On any Breast of all her num'rous Race;
+
+Excepting one, whom you sit next to there,
+
+Who her Creator in her Womb did bear:
+
+And with her too almost you may contend,
+
+What He Created you did Comprehend.
+
+Blest Soul, who dwellest in Essential Light,
+
+Direct us lost in Ignorance, and Night!
+
+Whilst we with grateful Off'rings, what before
+
+We ail admir'd, do humbly now adore.
+
+Knightly Chetwood, Coll. Regal. Cant.
+
+### 3.10. In Obitum Margaretae Ducissae Novo-Castrensis.
+
+BArbara jam sileat, sileat quoque Graia vetustas,
+
+Nec jactet fidas Itala terra nurus:
+
+Hanc unam attonitum non mendax Fama per Orbem
+
+Centeno potiùs debuit ore loqui:
+
+Dulcè cavâ Sapphô testudine flebat amorem,
+
+Sed nec pulchra a satis, sed néque casta fuit:
+
+Haec toto numeris animoque, & corpore constat,
+
+Vita etiam castis consonat ipsa modis.
+
+Arsit fida suum Letho quóque Portia Brutum,
+
+Caesaris at tinctus Sanguine Brutus erat:
+
+[[Page 171]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=87)
+
+Hujus dum Regem sequitur per Bella Maritus,
+
+Per medios lgnes Ipsa sequuta Virum.
+
+Mausolum epotum taceat Regina subimo
+
+Viventem vivens Haec qu [...]que corde tulit:
+
+Pensile nec Tumuli jactet;
+
+Vitam ejus descri­psit.
+
+monumenta Mariti
+
+Duratura magis condidit sta sui.
+
+Natorum numero Niobe non provocet Illam;
+
+Nec specie, Nobes quae Dea stravit opes:
+
+Bis septem è gravido, ceu Jupiter, Illa cerebro
+
+Pignora dat; (decuit sic peperisse Deam)
+
+Pignora ceu speculo totum referentia mundum,
+
+Non nisicum Mundo pignora digna Mori.
+
+Ah! cur non placuit Tibi vivae Academia sedes,
+
+(Ceu
+
+Qui fuit è Coll. Jo­hannes Can­tabr.
+
+Ducis) ut jactet nomine Granta tuo!
+
+Invidit sexus; jam Filia non potes esse,
+
+E Fama titulus nec foret ille Tuâ.
+
+At dum pauperibus legâsti Scripta Camoenis
+
+Ditia, dum Mammas exeris usque Tuas,
+
+(Nunc eniam super Astra faves) Academia Mater
+
+Te Matrem posthàc est habitura suam
+
+Knightly Chetwood, Coll. Regal. Cantabr.
+
+[[Page 172]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=88)
+
+### 3.11. Upon the Death of the Illustrious and Incomparable Lady, Margaret
+Dutchess of New Castle.
+
+1.
+
+DEath! thou hast done thy worst, we dread not now
+
+The threatnings of thy angry Brow.
+
+By thy last victory we're hard'ned grown,
+
+Learnt to despise thy malice, scorn, and frown.
+
+Thy saucie Power is so great,
+
+That we like Slaves are become desperate.
+
+2.
+
+Since brave New-Castles Dutchess thou hast slain,
+
+We baser Mortals to complain
+
+Think it a crime, dye we would rather all,
+
+That so we might attend her Funeral,
+
+VVait on her, when her Soul takes flight
+
+Into the Mansions of Eternal Light.
+
+3.
+
+VVithin her Breast such throngs of Virtues grew
+
+That they their Prison overthrew,
+
+And being vex'd at this same sottish Age
+
+VVhere dull Impertinence so much does rage,
+
+Their Fetters broke they upwards hie
+
+In hopes to find there better company.
+
+4.
+
+She scorn'd those trifles which her Sex adore,
+
+VVhich they vain Fools do value more
+
+Than inward worth, would not like them mispend
+
+That little time which God to her did lend.
+
+[[Page 173]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=88)
+
+It was her only business here
+
+To dress her Soul, and make it fine appear.
+
+5.
+
+Her pow'rful reason aw'd enticing sence,
+
+Taught Rebel-thoughts Obedience.
+
+VVhen stupid matter would unruly prove,
+
+Instructed it, more calmly how to move.
+
+External Pleasures she thought Sin,
+
+Compar'd with those Delights which dwell within.
+
+6.
+
+So vast a knowledge ne're was yet confin'd
+
+Within one single Womans Mind.
+
+Her Fancy it was strong, so great her VVit,
+
+That nothing but her Judgement equal'd it.
+
+When e're she spoke the winged crew
+
+Of pretty Notions streight about her flew.
+
+7.
+
+What e're she pleas'd with ease she overcame,
+
+Learning before her time was lame,
+
+Nature was dress'd but slovenly till she
+
+Made it so spruce by her Philosophy.
+
+It heretofore in Tatters went,
+
+Is grown Gentile now, and can Complement.
+
+8.
+
+Had she but liv'd when blind Antiquity
+
+Call'd what it pleas'da Deity.
+
+She would have quite engross'd the Worship Trade,
+
+Jove and his Kindred had been Bankrupts made.
+
+They must have Starv'd without Relief,
+
+Pin'd to Mortality, and Dy'd with Grief.
+
+[[Page 174]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=89)
+
+9.
+
+Rome where Divinity was sold so cheap,
+
+Who Temples built on ev'ry heap
+
+Of dirt and rubbish, would have quickly sent
+
+It's Mungril-Gods all into Banishment.
+
+Told them 'twas manners to give place
+
+To one of a more noble Heav'nly Race.
+
+10.
+
+How well did Providence her real worth
+
+Declare to th'World and set it forth,
+
+When it in ties of Holy Wedlock joyn'd
+
+The best of Men to th'best of Womankind.
+
+And suffer'd fair Lucasia's Charms
+
+To vanquish and subdue the God of Arms.
+
+11.
+
+The mighty Cavendish could only prove
+
+A Husband to the Queen of Love,
+
+Heav'n would have had her sooner, 'twas in strife
+
+Whether she should Dye first, or be his Wife.
+
+At length resign'd its right to show
+
+How much to his great merits it did owe.
+
+12.
+
+What Joy above at her arrival there?
+
+The Angels crowd to welcome her.
+
+And big with wonder all pay Reverence
+
+Unto a Soul of so much Excellence,
+
+A Soul so pure, so bright all o're,
+
+That they the like had never seen before.
+
+[[Page 175]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=89)
+
+To the Duke.
+
+YOur pardon, Sir, if striving to express
+
+Perfections which in her were numberless,
+
+I vainly mine own weakness do betray,
+
+And show how little foolish Rhithms can pay
+
+To her vast Merits, which like th'Ocean stretch
+
+And drown what ere dares come within their reach.
+
+For if to tell of with due Praise her Fame,
+
+And as I ought her Virtues to Proclaim:
+
+She would have had me rightly understood
+
+She must have been less Worthy and less Good.
+
+### 3.12. On the Death of the most Illustrious Princess, the Lady Dutchess of
+NEW-CASTLE.
+
+An EPITAPH.
+
+SHe's Dead, and here she lies; the vulgar cry:
+
+Fools know not that great Wits can never dye.
+
+She sleeps; nay, that's too much: As well could she
+
+Admit of Death, as such a Lethargie.
+
+Yet say she Sleep, her very Dreams outvie
+
+All our Grave Lectures of Philosophy.
+
+Perhaps she Rests; 'tis time for her: but O!
+
+What Fates attend her Rest poor Mortals know.
+
+Tir'd with this World's Impertinence, she's come
+
+For privacy to this Retiring-Room:
+
+The place we call her Tombe, where she doth lie,
+
+But 'tis her Closet, our great Library.
+
+Howe're, she hath withdrawn her felf from hence,
+
+And our Wits Freez, rob'd of her Influence.
+
+[[Page 176]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=90)
+
+Like breathless Statues, here we stand all dumb,
+
+Not one wise word to set upon her Tomb.
+
+The brightest Sun blind Moles must never see;
+
+So she seems dead because we senseless be.
+
+Her sprightly Soul, ful of Aethereal Fires,
+
+Up far above our Regions now aspires,
+
+To seek new Game, since all things here below
+
+Grew stale, and nothing left she did not know.
+
+Her Phant'sies heat had scortch't all Subjects, hurl'd
+
+The Universe into the Blazing-World:
+
+And having nought out of her self do do,
+
+She soon too active for her Body grew.
+
+Spirits are not confin'd, out thence she flashes,
+
+And leav's her house consum'd to these few ashes.
+
+Puff then broil'd Chymist, wrangle out thy Fire,
+
+Th'Elixyr's fled: and till thou canst inspire
+
+These silent Ashes with new Forme, restore
+
+Us such a Phoenix as we had before;
+
+In spite of thy big words, we standers by
+
+Shall call thee fool, and thy fine Art a Lie.
+
+Be gone thou silly Poet, and invoke
+
+The Destinies, thy Muses all are broke,
+
+Cannot inspire thee longer, but by stealth
+
+Out of her Books the Muses Common-wealth.
+
+This Ladies learned Dust which here doth lye
+
+Hath drunk thy boasted Helicon quite dry.
+
+Bring, old and new Philosophers, your Art,
+
+Rip up Dame Natures Bowels, pierce her Heart.
+
+Alas, all's now too late, here's nothing left,
+
+Her early Industry hath you berest
+
+Of all her Jewels, and your Wits at once;
+
+And bids you this new title wear, Grave Dunce.
+
+She could not else have gone to rest so soon,
+
+Who never paus'd before her work was done.
+
+[[Page 177]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=90)
+
+All Natures Treasure in this Tomb doth lye,
+
+If you would find it. Fools despair and dye.
+
+Here lies that noblest Lady, whose great name
+
+Hath choak'd the Muses, and hath glutted Fame.
+
+A Name! All Poetry is mute to hear it,
+
+This hardest Marble here doth sweat to bear it.
+
+And did not yet the Sacred Ashes live,
+
+And better words to Stones, than Men have, give.
+
+We could not know that here enclosed lies,
+
+The wonder of admired Mysteries.
+
+Arts, Sciences, Muses, and Graces all
+
+Comprised in one Golden Manual.
+
+If thou wouldst know more of her, search for it
+
+Amongst the many Wonders which she writ.
+
+If out of those thou canst not spell and frame
+
+Th'illustrious Dutchess of New-Castles Name,
+
+Thou hast but one help left thee, in a word,
+
+Consult the Living-Oracle, her Lord.
+
+'Tis Treason against Wit for any one
+
+To speak her name at length, but him alone:
+
+Seeing in him, and him alone, we find
+
+Whatever she of Wit hath left behind.
+
+And VVit this Lady-Wonder shall survive
+
+VVhilst this great Prince of Honour is alive.
+
+Yea, may He live, till we can weary grow
+
+Of all that Nature in one piece can show;
+
+Wit might seem larger whil'st in Two it shone,
+
+'Tis stronger now contracted into One.
+
+VVhilst by his Curtesy she had ingros'd
+
+So much, the honour of our Sex seem'd lost:
+
+Wit was Hermaphrodite, when One in Twain;
+
+But now 'tis only Masculine again.
+
+Clement Ellis, Minister.
+
+[[Page 178]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=91)
+
+### 3.13. Tumulus Nobilissimae, Illustrissimaeque Principis, Margaretae
+Ducissae Novi-Castri.
+
+QUis Deus extremum possit prohibere dolorem,
+
+Cùm Dea sublimi tendit in Astra fugâ?
+
+Pectore lacteolo condatur ferreus ensis,
+
+Et non purpureo Sanguine tinctus erit?
+
+Alta cadat  [...]edrus, nemorosae gloria Sylvae,
+
+Non tamen ad Coelos diriget or a fragor?
+
+Quid vetet, ut Saevi perculsus imagine fati
+
+Non gemat, & nubes dissipet usque suas?
+
+Lampade victrici dum transfert Foemina morti,
+
+(Foemina, cui nomen non nisi gemma fuit,)
+
+Unica, virtutum comitatus, vita, salusque,
+
+Graviter officiis consuluisse suis.
+
+Hoc fuit innuptae decus, observâsse parentes;
+
+Uxoris, Domini non violâsse torum.
+
+Non dolus aut ferrum, mollis facundia, nec vis
+
+Surripuit nuptam Conjugis è gremio.
+
+Sed sitiens mortis telum divortia fingit,
+
+Et, quod non poterant caetera fata, facit.
+
+Occidit illa, suis-decus, omnibus altera Pallas,
+
+Deliciae Musis, Coelitibúsque comes,
+
+Nunquid in aeternum vivet post Funer a Virtus?
+
+Nunquid eruditi fama superstes erit?
+
+Qui poterit vivae tolli virtutis Imago?
+
+Ardentem Pallas non super are rogum?
+
+Num febris calor insanae praeordia vellit?
+
+Et Canis aestivus viscera caeca vorat?
+
+Nostrarum extinguet Lachrimarum copia morbum,
+
+Mortis & immerget spicula saeva dolor.
+
+Frigida Sublimem repetunt Cruciamina Mentem?
+
+Vitalesque aurae deseruêre focum?
+
+[[Page 179]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=91)
+
+En nostri in tantam Dominam flagrantia Zeli
+
+Scintillas reparat, Religióque fovet.
+
+Certè igitur fatis nondum concessit iniquis
+
+Foemina, quae nullo crimine tincta fuit.
+
+Nonita jampridem divinitùs acta Creatrix
+
+(Unius est summi, posse creare, Dei.)
+
+Ex nihilo finxit diversa volumina Coeli,
+
+Mundum alium, stabiles fixit utrinque Polos.
+
+Huic se transmisit Solio, quia pulchrior illi
+
+Virtutum est facies, formáque lucidior;
+
+Quàm quae vel lippis vulgus dignetur ocellis;
+
+Aut nostro immeritos praebeat Orbe dies:
+
+Sic nimia Phoebus nè vi perstringeret Orbem,
+
+In Clymenis gremium nocte silente redit.
+
+Huc se transmisit, ne longa absentia Mundum
+
+Jam tum constructum verteret in cineres.
+
+Istum dura Fames torqueret, crapula nostrum,
+
+Aequales si non tendat utrique manus.
+
+Ne tantam invidiam pariat, quòd inhospita tecta
+
+Linquat, pernici Pectore summa petens;
+
+Haec non contineat spatiosam angustia mentem,
+
+Quae velit influxum reddere utrique solo.
+
+Indulsit nostris sua quaeque Volumina terris,
+
+Nunc alios Orbes hisce beare cupit.
+
+Utque sciant omnes, quantùm sciat omnia, sese
+
+Transtulit, expressam Numinis effigiem.
+
+ANDERTON.
+
+[[Page 180]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=92)
+
+### 3.14. In Illustrissimam Dominam Margaretam, Novi­Castri Ducissam,
+
+EPITAPHIUM.
+
+SIste Paulisper gradum, Viator,
+
+Non longûm moreris erit necesse:
+
+Legenti licet currere,
+
+Currenti licet legere,
+
+Utrique intelligere,
+
+Quòd hic sita est
+
+Lectissima Foemina,
+
+Domina Margareta,
+
+Neo-Castrensis Ducissa.
+
+Nobilitate verè Aulicâ,
+
+Eruditione verè Academica,
+
+Pietate verè Coelicâ,
+
+Praedita & dotata.
+
+Animo virili, super sexum,
+
+Sapientiâ senili supra aetatem,
+
+Ingenio entheo, supra sortem,
+
+Afflata & imbuta.
+
+Quam licèt ex hoc nostro discas Vixisse,
+
+In suis tamen scriptis edisces Vivere,
+
+Scilicet in Vitâ quam scripsit, Mariti,
+
+Suam quoque perpetuare.
+
+Quam licèt Bona Opera,
+
+Moralia, Evangelica,
+
+Ad arces Coelorum avolantem secuta sint.
+
+Literata tamen
+
+Philosophica, Historica, Poëtica,
+
+In Terris spirantem & commorantem reserunt,
+
+Servabuntque superstitem.
+
+Fuit
+
+Florentissimi Mariti, Uxor Splendidissima,
+
+[[Page 181]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=92)
+
+Bellicosi viri, Doctissima Matrona,
+
+Armati Ducis, Togata Ducissa,
+
+Quam si habuisset Socrates Uxorem,
+
+Plato ejus Philosophiam, non literis mandâsset.
+
+Quae si habuisset Caesarem Maritum,
+
+Ille non sua Gesta suâ manû scripisisset.
+
+Illa ipsa Socratis Dicta Enarrâsset.
+
+Illa ipsa Caesaris Facta Enarrâsset.
+
+Illa ipsa Fidelitèr, Feliciter, Enarrâsset.
+
+Qualem si Martialis mordax speravisset sibi,
+
+Nunquam non Doctissimam Conjugem optâsset.
+
+Quam modò, Historias omnes callentem,
+
+Curtúmque torquere Enthymema potentem,
+
+Rebúsque honestis Finem Ultimum imponentem,
+
+Cúmque Homero Maronem comparantem.
+
+Utrumque imitantem,
+
+Vidisset Satyricus, non frontem corrugâsset,
+
+Non intollerabilem Uxorem,
+
+Sed Raram in Terris Avem, dixisset.
+
+Vitam In Aulâ Regiâ, Honoratam, Egit.
+
+Vitam In Minervae Castris, Eruditam, Egit.
+
+Vitam In Ecclesiâ Dei, devotam, Egit.
+
+Vitam Domi, Contemplativam, Egit.
+
+Vitam Foris, Activam, Egit.
+
+Vitam Piè, Placidè, Pacatè Egit.
+
+Mortem Mortali natae, Expectatam, Obiit.
+
+Mortem Philosophiae diditae, non formidatam, Obiit.
+
+Mortem Ad Christianam spem vocatae, exoptatā, Obiit.
+
+Mortem Laetè, Tranquillè, Beatè, Obiit.
+
+Quâ translata est Obiit.
+
+A meditatione purâ, ad Perfectam Visionem,
+
+A creaturis contemplandis ad intuendum Creatorem,
+
+A Poëtarum camoenis, ad Angelorum Hymnos,
+
+Ab Aulâ Terrenâ, ad Curiam Coelestem.
+
+[[Page 182]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=93)
+
+Libros Suos, sobolem Suam, ad utramque Academiam
+
+Misit, at ad dandam non capiendam doctrinam.
+
+Quibus Bibliothecas publicas ditavit,
+
+Quae Ipsa Bibliotheca Animata fuit.
+
+Opera illius fuere suum pretium,
+
+Labores illius suum praemium.
+
+Dedit, ut Herodotus unum Librum,
+
+Singulis Musarum unum volumen.
+
+Quae cum sunt ingressa Bibliothecam Joannensem,
+
+(Solam nobis ex officio memorandam Bibliothecam)
+
+Quàm densum obviam vênit agmen salutantium?
+
+Quae cùm sua ibidem subsellia petebant,
+
+Quâm grande fuit certamen locum cedentium
+
+Vitam Conjugis, quam scripsit, ad suas Parallelas
+
+Apposuit Plutarchus, & locum apparavit.
+
+Philosophia, quam scripsit, se Veteribus adjungi
+
+Modestè non dignata, ad Recentiores concessit.
+
+Poetas omnes singulósque unicè dilexit,
+
+Omnésque singulósque suo ordine visit avit.
+
+Indigna est loco isti catenâ alligari,
+
+Ad quem sibi adeò liberè accessum rogavit.
+
+Anima Ejus regnat in Choro Beatorum,
+
+Corpus (vides) jacet hîc in Choro Poëtarum.
+
+Illa Ipsa,
+
+Ut in Annulo gemma, utrobique refulget.
+
+At Tu, quisquis es, Viator,
+
+Orandus es Lachrymulis
+
+Tuis, pro merito, novum
+
+Heliconis hîc Rivum dare,
+
+Ubi Musis jam fecerunt novum
+
+Tot Poëtarum tumuli Parnassum.
+
+Tho. Brown, Coll. Joan. Cantab.
+
+FINIS.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=56934&page=93)
+
+[Home](/)
+
+Date: 1676  
+

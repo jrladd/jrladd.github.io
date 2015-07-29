@@ -1,0 +1,114 @@
+---
+layout: default
+---
+## (unknown project)
+
+# Lucifers life-guard containing a schedule, list, scrovvle or catalogue, of
+the first and following names of the antichristian, anabaptistical,
+atheistical, anarchial and infernal imps, who have been actors, contrivers,
+abettors, murders and destroyers, of the best religion, the best government,
+and the best king that ever Great Britain enjoyed : together with the manner
+of the mournful day and lamentable burning of the Rump at Dublin in Ireland,
+on the evening of that solemn day, Munday May 14. 1660. on which the sacred
+Majesty of King Charles II. was with uninamous consent proclaimed king of
+Great Britain, France and Ireland, &c.
+
+## Table of contents
+
+  * 1\. LUCIFERS LIFE-GUARD: CONTAINING A SCHEDVLE, LIST, SCROVVLE or CATALOGVE, Of the firſt and following Names of the Antichriſtian, Anabaptiſtical, Atheiſtical, Anarchical and Infernal Imps, who have been Actors, Contrivers, Abettors, Murderers and Deſtroyers, of the beſt Religion, the beſt Government, and the beſt King that ever Great Britain enjoyed: Together with the manner of the Mournful and Lamentable Burning of the RUMP at Dublin in Ireland, on the Evening of that ſolemn Day, Munday May 14. 1660. On which the ſacred Majeſty of King Charles II. was with unanimous conſent proclaimed King of Great Britain, France and Ireland, &c.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=163839&page=1)
+
+## 1\. LUCIFERS LIFE-GUARD: CONTAINING A SCHEDVLE, LIST, SCROVVLE or
+CATA­LOGVE, Of the firſt and following Names of the Antichriſtian,
+Anabap­tiſtical, Atheiſtical, Anarchical and Infernal Imps, who have been
+Actors, Contrivers, Abettors, Murderers and Deſtroyers, of the beſt Religion,
+the beſt Govern­ment, and the beſt King that ever Great Britain enjoyed:
+Together with the manner of the Mournful and Lamentable Burning of the RUMP at
+Dublin in Ireland, on the Evening of that ſolemn Day, Munday May 14\. 1660. On
+which the ſacred Majeſty of King Charles II. was with unanimous conſent
+proclaimed King of Great Britain, France and Ireland, &c.
+
+  * 1\. JOhn Pontius Pilate Ravilac Belial Bradſhaw,
+  * 2\. Nimrod Herod Oliver Aceldama Cromwell,
+  * 3\. Henry Caiphas ſon of Perdition Ireton,
+  * 4\. Faux Cateline Boutefeu L. Grub Gray,
+  * 5\. Oliver Mountebanck Achitophel John no St.
+  * 6\. Sir Machiavel Bulſtrode Amphibion Whitlock,
+  * 7\. Judas Henry Iſcariot Vane Father and Son,
+  * 8\. Sir Arthur bloud-hound Hazaelrigg,
+  * 9\. Sir Reverence Henry Bawble Mildmay,
+  * 10\. Sir horrible Hangman Hardreſſe Waller,
+  * 11\. Sir Bore-mouth'd William Bastinado'd Breerton,
+  * 12\. Sir Peter Knight of the Buckingtub Wentworth,
+  * 13\. Sir Damnable ungrateful Danvers of Chelſey,
+  * 14\. Sir Zani quarter-witted Harrington,
+  * 15\. Sir Peter Paul-colton Temple,
+  * 16\. Sir Gregory Caponet Norton,
+  * 17\. Whimſey whirlegig Wigeon Wilde,
+  * 18\. Satan Poſtilion Prideaux accuſer general,
+  * 19\. Stinking Stygian Steele,
+  * 20\. Golgotha Laethean John Liſle,
+  * 21\. Cerberus Phlegeton Cook,
+  * 22\. Miles Bulheaded ſplayfooted circumcis'd Baconfac'd Corbet,
+  * 23\. Clineas Maudlin Beſſus Fleetwood,
+  * 24\. Dametas Nathaniel Corn-cutter Fines,
+  * 25\. Henry Burdello Mahomet Martyn,
+  * 26\. Cain viperous Chaloners Brothers,
+  * 27\. Actaeon Dog Cur-nelius Holland,
+  * 28\. Security Bond-Bayle to the Devil for Oliver Cromwell,
+  * 29\. Inviſible John Thimble-Smith Barksted,
+  * 30\. Sneaking ſniveling cozening Adrian Scroop,
+  * 31\. Edmund Fart by his Fathers Copy Ludlow,
+  * 32\. Yeaſty Thomas Bearward Pride▪
+  * 33\. Naſty John Cobler Hewſon,
+  * 34\. Carter John Phanatique Desborow,
+  * 35\. Becco Cornutho Cuckold Walton,
+  * 36\. Philip Windmill Skippon,
+  * 37\. Edward Vulture Whalley,
+  * 38\. Butcher bloudy Harriſon,
+  * 39\. William Cut-throat Cawley,
+  * 40\. Anthony Firebrand Stapeley,
+  * 41\. William Poyſon-gorged Goffe,
+  * 42\. Gregory Crupper-gall'd Clement,
+  * 43\. Clark Thomas Pocky mangy Bawdyhouſe Scot,
+  * 44\. Luke the Lamb murtherer Robinſon that tranſports wool▪
+  * 45\. Publican cheating cuſtomer Harvey,
+  * 46\. Daniel bloudy Blagrave,
+  * 47\. Francis Incendiary Allin,
+  * 48\. Simon malicious Meyne,
+  * 49\. John Ven Aldermen who hanged themſelves as did Sir Hen­ry Vane Senior.
+  * 50\. John Hoyle,
+  * 51\. Rowland Wilſon,
+  * 52\. Perjur'd Pennington, Theſe abortive Alder­men were Treaſurers for his Highneſs Lucifers Legi­nary Army.
+  * 53\. Wolf Wollaſton,
+  * 54\. Treble Traytor Andrews,
+  * 55\. Unchriſtian Chriſto. Pack,
+  * 56\. Tyburn Tichburn,
+  * 57\. Lewd look'd Ireton,
+  * 58\. Meroz Marſhall, Theſe were falſe Prophets and Chaplains to his Highneſs ſaid Leginary Armie.
+  * 59\. Negromancer Nye,
+  * 60\. Pimp Peters,
+  * 61\. Blaſpheming Sterry,
+  * 62\. Dunce Owen.
+
+The mournful form of the Rumps laſt end, as it was with great applauſe acted
+at Dublin on Munday May 14\. 1660.
+
+In the Evening of th' aforeſaid day, about the hour that Mortals make
+Bonfires, there appeared four hi­deous Moors or Negro's, apparelled in black
+with Devils ſhapes, cloven Feet and large Horns on their heads, on their
+ſhoulders was carried a goodly Rump, with which they marched to the Bonfire at
+Mr. Mayors door, being attended with forty Negro's more in Devils ſhipes alſo,
+twenty going before the Rump, and twenty following it with Links in their
+hands, and when they caſt it into the fire, they ſent forth high and hideous
+cries and ſhreeks after it: Exit Rump. Nay good Rump do not ſwagger.
+
+## Appendix A
+
+LONDON, Printed in the Year 1660.
+
+[Home](/)
+
+Date: 1660  
+

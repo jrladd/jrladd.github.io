@@ -1,0 +1,714 @@
+---
+layout: default
+---
+## (unknown project)
+
+# Choice sermons preached upon selected occasions Viz. The happinesse of
+peace: before K. James at Trinitie Colledge in Cambridge. The love-sick
+spouse: at St. Pauls Crosse. The burning light: at a visitation in Christs
+Church, London. The magistrates commission, or wisdome justified: before the
+judges. By John Stoughton, Doctor in Divinitie, sometime fellow of Emanuel
+College in Cambridge, late preacher of Aldermanbury, London. According to the
+originall copie which was perfected by the author before his death.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=1)
+
+THE Burning Light. A SERMON PREACHED at a Viſitation in CHRISTS Church,
+London.
+
+LONDON, Printed by Thomas Cotes for Daniel Frere. 1640.
+
+## Table of contents
+
+  * 1\. A SERMON PREACHED AT THE VISITATION IN CHRIST-CHVRCH, LONDON.SERM. 3
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=2)
+
+[[Page 1]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=2)
+
+## 1\. A SERMON PREA­CHED AT THE VI­SITATION IN CHRIST-CHVRCH, LONDON.SERM. 3
+
+IOHN 5. 35.‘He was a burning and a ſhining Light, and ye were willing to
+rejoyce in his Light for a ſeaſon.’
+
+THey ſay of the Nightingale,Introductio. 1. Apologia. that when ſhe is
+ſolitary in the Woods, ſhe is careleſſe of her note; but compoſes her ſelfe
+more quaintly and elegantly, if ſhe conceives there be any Auditors, or if ſhe
+be neere houſes: ſhe can chirpe it in a [[Page
+2]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=3) corner and chant it
+in a Quire more delicate­ly. Though I had thought to have accommo­dated my
+ſelfe, in ſome reſpect to the Audi­tory (for I know there is a great
+difference to which due reſpect may be had; Modus orationis eſt auditor) Yet
+as the Martyr ſayd, I ſhall coſen many this day, meaning the wormes, whom
+(ſaith he) I ſhall deceive of this fat carcaſe (which they would have made a
+feaſt on) it being likely to bee offered in Sacrifice to God with fire. If
+there be any here that bring a worme of Curioſi­ty in their eare, expecting
+quaint and elegant ſtraines, I ſhall deceive them, I make no pro­viſion for
+them; I muſt confeſſe as Nazianzen ſayd of himſelfe, he never affected in his
+life the glory or Pompe of the world, or riches and great eſtate; but (ſaith
+he) learning and eloquence I muſt confeſſe I have affected, but I ſet no other
+price upon that, but onely this, that I have ſomething of worth to eſteeme as
+nothing for Chriſt, I have layd all theſe low at the feete of Chriſt to
+advance his Kingdome, though in a plaine and home­ly manner. I liſt not to
+ſpeake in a vie; as the two Artificers who contended for the ma­ſtery in their
+Art and facultie; the firſt draw­ing Grapes ſo lively that hee cozened the
+birds; the other a Vaile ſo exquiſitely that he cozened the Artificer
+himſelfe. But if I may have ſo much Eloquence and learning, [[Page
+3]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=3) as to draw the
+attentions of the godly, I ſhall not be ſollicitous nor ambitious, to attaine
+to ſuch a pitch, as to exceede the expectation of the learned. So much by way
+of Apolo­gie.
+
+To come towards of the Text,2\. Technologia capitis. not to ſtay in the
+entrance; but to give a little touch of the coherence of the Chapter. The
+whole Chapter conſiſts of an Historicall narration,1\. Hiſtorica. and an
+Apologeticall Sermon of our Savi­ours.2\. Apologetica. There is a Narration of
+a glorious mira­cle done on a poore Cripple 38. yeares lame; and our Saviour
+is faine to make an Apologie for this gracious worke of his; and ſo in the
+latter part of the Chapter, he juſtifies his Authoritie and power, by which he
+tooke upon him that Office in the execu­tion of which he did this Miracle.
+
+This ſpeech of our Saviour his Sermon, is partly Didaſcalicall Doctrinall,
+[...]:, partly Elenchticall reproving their fault and their ſinne?
+
+In the Doctrinall part you have a plaine and vehement aſſertion of his power
+and autho­rity in the 19. verſe and ſo following,1\. Aſſertio Po­teſtatis.
+where he affirmes a greater power than yet they have ſeene him exerciſe.
+
+Secondly we have a Confirmation from two ſorts of Testimonies.
+
+Firſt of Iohn, Iohn bare witneſſe of me, from 31. verſe, of which the words of
+the Text [[Page 4]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=4) are
+a part: and partly of his Workes, his Workes beare a greater, and more cleere
+Teſtimony and evidence,Iohannis. Operum. The workes I doe they beare witneſſe
+of me.
+
+And ſecondly a Teſtimony more remote, yet more pregnant,2\. Remolo po­tenti.
+Patris. Scripturae. the The Teſtimony of his Father; The Father he beareth
+witneſſe of me: the 37. and 38. v. and the teſtimony of Scrip­ture, in the 39.
+v. Search the Scriptures for they beare witnes of me too: 2\.  [...]. All
+theſe evidences and ſeales he brings to juſtifie his Cōmiſſion: and therefore
+in the latter part he fals to Reprehen­ſion, 1\. Culphr. 2 Cauſa tri­plex. he
+reprehends their fault, pointing at the Cauſe, 1\. Malignitas. likewiſe the
+fault was, they did not be­leeve to eternal life: the cauſes, partly becauſe
+they wanted the love of God, they had a kinde of malignity againſt his
+heavenly Father, and being leaven'd with an ill humour, and ill diſ­poſition
+towards him; they did not receive nor entertaine him;2\. Superbia. and partly
+by rea­ſon of their pride and ſelfe-ſeeking, in the 42 verſ. You ſeeke the
+glory of men, and can you beleeve then; you ſeeke glory one from ano­ther: and
+ambition ſtopt their cares, cloſed up and hedged up the way from giving
+enter­tainement to Chriſt.3\. Infidelitas.
+
+And laſtly the roote and ground of all, was Infidelity, You beleeve not Moſes
+and the Prophets, and therefore no wonder you be­leeve not me, and my workes:
+If you beleeved them,2\. Tractatio. they would give witneſſe of me, as in
+[[Page 5]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=4) the cloſe of
+the Chapter.
+
+Theſe words containe a Noble Elogie which our Saviour doth moſt candidly give
+to Iohn, He was a burning and a ſhining light, &c.
+
+I purpoſe briefely to runne through the words, there bee many things will
+offer themſelves, but I will not inſiſt nor pitch up­on any in particular, but
+take the generality, and ſo draw to an Application.
+
+There be two maine things obſervable in the words.
+
+Firſt,1\. Miniſtri. the Office of the Miniſtery (for I will take it rather in
+the generality, than fall into any thing perſonally on Iohn) And ſecond­ly the
+entertainement which they muſt look for.
+
+The Office of the Miniſtry, repreſents both their Qualities, how they muſt be
+qua­lified:1\. Qualitas. and their Dignity, how they are to be dignified; all
+in the ſame words a little vari­ed in their conſideration. The Qualities and
+Endowments which a miniſter ought to have, are repreſented here in this
+Picture of Iohn; wherein our Saviour deſcribes the Character of a Miniſter.
+Like as it is in the heavenly bodies, There be three things, Light, and Heate,
+and Influence; We have proportionable here, three Endowments of the Miniſters.
+
+1\. They muſt have the Light of Knowledge.
+
+2\. They muſt have the Heate of Zeale.
+
+[[Page 6]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=5) 3\. They
+muſt have the Influence of Ver­tue both in life and Doctrine.
+
+They muſt be Lights.
+
+They muſt be burning Lights. Firſt,
+
+They muſt be endued with Knowledge, 2 Lux ſcientiae eruditio. and
+Vnderſtanding, furniſhed with Abilities for the diſcharge of that Office;
+their Office being to guide and to leade men in their way, in their path.
+
+The light that furniſhes,1\. Modus. 1. Pulchritu­do, Savitas. and endues them
+for that knowledge, which for the manner of it (for I doe but touch things)
+requires
+
+Firſt that there be a beauty and ſoundneſſe of the light, that there be
+Orthodoxe know­ledge, not tainted, and leavened with corrup­tion in Doctrine.
+
+And there muſt be a plenitude and ſuffici­encie of knowledge,2 Plenitudo,
+Sufficientia. that it euqnires too, e­nough to enlighten themſelves, and to
+ena­ble and enlighten others, and to guide and direct others.
+
+And for the degrees of that ſufficiency,2\. Gradus. 1. Proportiona­tus. it
+muſt bee proportionable to the excellencie of their Office, to the propriety
+of their place; Proportionable likewiſe to the rice and growth of time. 1\.
+Muneri. Iter caeeos Rex luſcus eſt. Amongſt blinde men,2\. Tempori. hee that
+is pur-blinde is a King, he may ſerve for a guide; But where the light is
+growne to a higher improvement and generality, there muſt bee a
+proportio­nable improvement, a proportionable de­gree [[Page
+7]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=5) of ſufficiency is
+required in the Mini­ſter: the leſſer light will ſerve to rule the night, the
+greater light God hath made to rule the day. In the night of ignorance a
+little ſpark may ſhine, a little Candle, a lit­tle ſtarre may doe ſome
+ſervice, but there muſt be a Sunne, in the ſun-ſhine of the Go­ſpell, when all
+men are growne to ripeneſſe, and maturity of Knowledge, Miniſters muſt ſtill
+keepe their diſtance.
+
+Secondly as it is proportionable ſo it is ve­ry variable,2\. Variegatus. a man
+cannot ſet one Homer to be a ſtandard and meaſure of all men, that all muſt
+needes attaine the ſame pitch and per­fection: There is one glory of the
+Sunne, ano­ther of the Moone, and another glory of the Starres; although they
+bee all heavenly and glorious lights, yet they have different de­grees and
+meaſures, ſo it is with Miniſters; All ſtarres are not of the primae
+magnitudinis, there be divers Magnitudes of ſtarres; and there may be in the
+Miniſters divers degrees of glory, and all in the compaſſe of that
+ſuf­ficiencie, that may bee proportionable to their Office, and the time and
+place wherein they are imployed, ſo they keepe within thoſe bounds, wherein
+that Latitude, there may be a great deale of difference, there muſt not be
+ſuch a ſtrictneſſe and rigour here to ſtretch men as Procruſtes the theefe
+did, all he tooke he ſtretcht upon his bed, if they [[Page
+8]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=6) were too long, hee
+cut them ſhorter, and if they were too ſhort, hee put them upon the Rackes and
+drew them to his owne ſtature and meaſure: but there may be a faire, and a
+decent, and ſevere ſtretching according to Pauls Canon, as the Father ſpeakes.
+
+That all Miniſters ſhould be able to Teach and to Inſtruct, and to Convince
+errours, to be ſtretched according to Pauls Canon, is no Tyrannie.
+
+In the ſecond place,2\. Calor Zeli. light of Knowledge, and ſufficiency is not
+ſufficient to qualifie a Miniſter enough, that light muſt be animated with the
+heate of zeale.
+
+The Philoſophers diſpute (and if I miſtake not, I rather thinke they be in an
+errour) and conceive that thoſe Coeleſtiall bodies, the Sunne and the Moone,
+are not Actu Calidi onely they have a virtue, and by way of Emi­nencie as it
+were, they doe produce heate below, and are not hot themſelves. I rather
+thinke that to containe any thing by way of Eminency, is a property of God,
+God containes all things Eminenter: theſe faculties which he hath not
+actually, habitually, and ſubje­ctively in himſelfe as faculties, yet hee
+con­taines them eminently, as being able to pro­duce all; but no creature can
+produce any thing but by ſome vertue put into it, which [[Page
+9]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=6) is enabled: but
+theſe lights, howſoever theſe heavenly lights muſt be Actu Calidi, they muſt
+have a heate in themſelves, viz. Heate of Zeale: let it bee the ſtile of the
+Falſe Church to be Filii Carbonis, ſonnes of the Coale, as Iob calls the
+ſparkles, ſo hot, as they be all for burning, all for Inquiſitions, and blood
+and Martyrdome; let it bee the Commendation of the true Church, and true
+profeſſion, that they be Filij Lucis, Children of Light, rather inlightners
+than conſumers, by way of burning: though that ſpirit you know ſuites not the
+ſtate of the Goſpell, that calls for fire from heaven: though there be
+difference betweene calling for fire from heaven, and fetching fire from hell
+to con­ſume States and Parlements. There is a dif­ference betweene being
+touched with a Coale from the Altar, and being kindled with a match from the
+vault to ſet on fire. There muſt be a Heate, but a regular and true Heate,;
+1\. Pro. A heate of zeale carried with Pro and Con, as the forme and
+difference, as they alſo call, is both Conſtitutive and Diviſive, or
+Distinctive. So then they that are infor­med (or inflamed rather) with this
+hea­venly heate have a double property,1\. Gloria Dei. poſitive and
+oppoſitive. A zeale for Gods glory, not for a mans owne ends: a zeale for the
+Sal­vation of the people,2\. Salute ho­minum. to have a tender, and
+compaſſionate affection to their ſoules: and [[Page
+10]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=7) not to aſcend this
+hill, this Pulpit without ſuch a Meditation as Zerxes had, who when he beheld
+his Army from an hill, wept that ſo many ſhould dye within the Compaſſe of ſo
+few yeares? So they muſt have a tender thought that any poore ſoule ſhould
+periſh thats under their view, under their Charge: and as for theſe there muſt
+be a Zeale Poſi­tive, 2\. Contr. ſo a Zeale againſt all Errour and Corrup­tion
+in Doctrine.1\. Errors. It is the Commendation of a Chriſtians heart, to be
+impatient in the point of hereſie:2\. Mores. and a Zeale againſt Corrupt
+manners: not to bee able Oſtridge-like to diſgeſt Iron, to diſgeſt oathes, to
+diſgeſt all filthineſſe and prophaneſſe, but to have the ſpirit burne within
+them as Pauls was at A­thens, againſt all ſinne, and againſt all
+ſuper­ſtition, and Idolatry. And yet this is not all, as there muſt be Light
+of Knowledge, 3\. Influentia virtutis. and Heate of Zeale to animate and
+quicken, ſo theſe two muſt have an Influence of Vertue: The world, the vulgar
+know no great matter of uſe, that the ſtarres and theſe glorious lights have,
+and therefore will hardly be in­duced to beleeve that they are of that
+Mag­nitude that Philoſophers and Mathematickes teach, divers of them to be as
+bigge or big­ger than the whole Earth, they thinke that ſuch great bodies
+ſhould be made onely for ſhew, for thats all the uſe they can ſee of them, to
+beautifie and beſpangle the firma­ment, [[Page
+11]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=7) to be an ornament
+to the world and to give light, but it is not credible there ſhould be ſo
+meane a uſe of ſuch great and glorious bodies; for beſides that, they have an
+In­fluence on the earth, thoſe ſtarres of light, the flowers that we ſee here
+below, are be­gotten by thoſe flowers of lights, the ſtarres which are above
+in the Firmament, they are the meanes and the Inſtruments for the hel­ping
+forward of the generation, and produ­ction of all theſe lower things here, by
+ha­ving an Influence on them. And ſo the hea­venly lights (as wee are now
+ſpeaking of) The Miniſters, their Light of Knowledge, and their Heate of
+Zeale, muſt have an In­fluence upon the people that be committed too them,
+both in Integrity of life, and Dili­gence of Doctrine and Inſtruction;1\.
+Aſsiduitate Doctrinae. they muſt be Trees of Knowledge, and Trees of Life to
+in Gods garden, to build up to both, and with both. Our Saviour that was the
+higheſt in his owne Church, in his owne houſe, made that the higheſt of his
+Offices, to imploy himſelfe diligently in his Fathers worke. We reade of
+nothing, nor heare of nothing, but Preaching and doing good, nothing but of
+his Influence continually. And Paul (as the Father ſpeakes) like ſome winged
+Triptole­mus that went about in his Chariot to teach men the Art of ſowing
+Corne throughout the world; hee went about ſpreading, and [[Page
+12]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=8) ſowing, and
+planting the Goſpell every where he came, with infinite diligence, and paines:
+there muſt be holineſſe and integri­ty of Life added to it. (I will not
+inlarge my ſelfe in an Argument ſo common,2\. Integritate vitae. and which
+would afford ſo many and ſo full diſcourſes, of wit and illuſtration as all
+know) Miniſters muſt not be like the drugge that the Phyſitian ſayes (or at
+leaſt the world takes it ſo ordina­rily) is hot in the mouth, and cold in the
+operation; hot in the Pulpit, and zealous there, and frequent there, but
+careleſſe and unconſcionable in their lives: Origen com­ming to Hieruſalem,
+and being deſired to Preach; after he had denyed the truth, and his ungodly
+offering Sacrifice to an Idoll; (though he was conſtrayned, and conſtrai­ned
+on hard tearmes) the booke happens to open upon that place of the Pſalmist,
+What hast thou to doe to take my word into thy mouth, ſeeing thou hateſt to be
+reformed? The re­membrance of his owne fault reflected up­on his Conſcience,
+and made him cloſe the booke, and ſit downe and weepe: ſo theſe that are not
+content to joyne holineſſe of life, to their diligence of Preaching, the beſt
+way for them is to repent of their Preaching; and ſo to Preach Repentance to
+the people.
+
+But to come to the ſecond; beſides the Qualities of the Miniſter in theſe
+three pro­perties expreſſed. There is the dignity of a [[Page
+13]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=8) Miniſter, ſecretly
+coutched, and the true de­grees and diſtances of that dignitie: A Mi­niſter is
+[...],2\. Dignitas. 1. Gradus ſub Deo. a Light, but an inferiour light.
+
+Not the Sunne, the Fons caloris, the foun­taine of life and heate, the
+Miniſter muſt know his diſtances, he is but under God, Viri radiis chorus can
+[...] mulier [...]s: as the Lawier ſaith, the Miniſter ſhines as the Moone,
+with bor­rowed beames from the Sunne; all his light is kindled at Gods fire,
+it is derived from him.
+
+Secondly,2\. Ort [...] a Deo. there is an Inferiour light, but yet ſet up by
+God  [...], kindled and tin­ded by God, God ſets it up. It is his Ordi­nance,
+his Inſtitution, and his hand holds theſe Lights.
+
+And in the laſt place he is  [...],3\. Actus ad Deum. a Light burning and
+kindled by God, and a ſhining light. This is the ſame, the Aſpect of all the
+Miniſteriall dignities: as they are under God and from God, ſo they are guides
+to God, ſhining and leading us in the way to happi­neſſe and eternity, this is
+the dignity of the Miniſtery. There is another thing which I will runne over
+briefely,2\. Hoſpitium in mundo apud. beſides the office: The Hoſpituim, the
+Entertainement of the Miniſtrie in the world.
+
+If we looke upon the people we have that expreſſely ſet downe,1\. Populum.
+beſides the degrees of extremity which are paſt over and omitted [[Page
+14]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=9) here, ſometimes
+they meete with better en­tertainment than our Saviour expreſſes here,1\.
+Meliuſculè. 2. Duriuſculè. ſo that their Doctrine is embraced faith­fully, and
+men bring forth fruite with pati­ence, having not onely a flaſhing Joy in the
+light of it, but fruitfulneſſe with patience; ſo ſometimes they meete with
+better entertain­ment, and ſometimes they meete with worſe entertainment, men
+doe not alwayes gather about the light, and dance about it, as boyes about the
+Bone-fire, making glee, and be­ing jolly at it, glad of it; but goe about to
+quench the light, to extinguiſh it, to perſe­cute it, and to labour to
+oppreſſe and over­whelme it; ſometimes they meete with ſuch. But theſe
+extremities are not here expreſſed in the Text.
+
+A middle kinde of entertainement is here noted,2\. Mediocre propoſitum. I will
+inſtance but in three particulars, which comprize all that is here expreſſed
+with an intimation of defence.
+
+Firſt of all,1\. Actu. the firſt thing is in the Act of that entertainment
+given,  [...]: It ſignifies in the Originall, as it were to dance a Galliard,
+you are willing to dance a Gal­liard, as I obſerved in the Embleme before
+which notes ſome defect, ſome externall and formall Joy, and jollity rather.
+As learned Calvin doth ſweetely expreſſe it,Externè potius from the place; As
+ſervants that have a Candle allow­ed them by their Maſter, to worke by at
+[[Page 15]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=9) night; they
+ſpend the Candle not in doing their Maſters worke, but in dancing about it,
+and making good cheere, and revelling and ſporting, and ſo weare and teare out
+the light that way;Quam Iuteru. rather I ſay ſuch a jolly rejoycing at the
+light, a vaine ſinfull thing, than any in­ward ſolide ſincere joy ſeemes to
+bee noted.
+
+Secondly,2, Ortu. I doe obſerve the rice of this joyfull entertainment, in
+which alſo there may ſeeme ſomething defective,  [...] [...], In his light you
+rejoyced: Many rejoyced in the light,Luce potius q0uam calore. in an innocent
+and harmeleſſe light, that will not bite, that hath no teeth, that cannot
+burne, that is plauſible, men re­joyce in it. But it was his light that they
+re­joyced in rather than his heate, yea Iohns light rather than
+Chriſts:Iohannis quam Chriſti. ſo a man may reverence ſuch a mans ſtraine,
+rather than the Word of God, to receive it as the Word of God; where­as they
+ſhould paſſe by, and over-looke men, and ſubmit to it, yeeld to it as the Word
+of God,2\. Exitio. man being but the Inſtrument.
+
+In the laſt place doe but marke the iſſue, or the degree of duration, and
+ſtability in this joyfull entertainement, and there is ſome­thing defective
+likewiſe there  [...]. It was but a fit, and unſetled, unconſtant, un­grounded
+joy: Faſt and looſe, backeward and forward, as men doe at dancing, one ſtep
+forward and two backward: as the Graſhop­per, [[Page
+16]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=10) that jumpes, and
+falls againe to the ground, leapes a little up, and then dyes and goes out
+againe,  [...], for an houre. Many men are content for an houre to be­ſtow
+it,Horam non ultra but if the houre be out, if the glaſſe be out, then they be
+quickly a weary of Iohn: [...] ſignifies the ſeaſon and the flowre of a
+thing.Florem non facem. Many Miniſters have their prime, and have their
+flowres, and many are willing to flocke about him, till they have got a little
+taſte of their gifts, for curioſity and novelty; to know what's in him: And
+then the prime is quickely gone; nothing fades ſooner than a Miniſters
+reputation, and reſpect in his caſe, it is too frequent in the world. As they
+ſay of another thing, of inferiour nature, gold in the morning, and ſilver at
+noone, and lead at night: men decline and fall, much a doe, much exalting and
+much joy about the light, when it is firſt ſet up, but it quicke­ly weares it
+ſelfe out, men be quickely tyred like horſes, that bee metled at firſt, but at
+length grow tyred and give out.
+
+The laſt branch of the Text, which is not directly in the words,2\. Hospitium
+apud Chri­ſtum. yet couched in them too, beſides the entertainment, Mini­ſters
+are like to finde in the world with the people; here is an expreſſe intimation
+what acceptance they ſhall finde with Chriſt. Chriſt gives a Noble and royall
+Teſtimony of Iohn. Now if you will conſider Chriſt in a three­fold [[Page
+17]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=10) relation, and
+threefold reſpect, it may ſuggeſt good Items, and occaſious to us, (I will but
+touch things.)
+
+1\. Chriſt in ſome reſpect is a Fellow ſer­vant wi [...]h his Miniſters,1\.
+Conſorium. a joynt Commiſſio­ner, he the Miniſter of the New Teſtament, though
+he be the Prince: And hee had no envie at the flowriſhing of Iohn, at the
+flock­ing about his light, but envy was baniſhed: And he gives a liberall and
+a canded teſti­monie, Hee was a burning and a ſhining light. Will you know
+Chriſts Teſtimony of him, hee will not take him downe and make him lower, to
+raiſe on his body a greater reputation, to raiſe a greatneſſe on the ruines of
+others, but gives him an honou­rable Teſtimony. He was a burning and a ſhining
+Light.
+
+Take him more than an ordinary Miniſter,2\. Praelatum. hee was likewiſe the
+Prince of Pastors, The Arch-biſhop of our Soules: the great Sheep­heard that
+had power, directive and corre­ctive, and the Cenſurer of the Miniſters. Iohn
+came under his cenſure and juriſdiction, but he doth not bite and ſnib, and
+curbe and trample upon Iohn; but gives him faire Quarter and faire reſpect, a
+due Teſtimony, He was a burning and a ſhining light.
+
+Conſider him as the Lord,3\. Dominum. the Supreame Lord and Iudge of all,
+though the world doth not acknowledge them, nor thoſe that [[Page
+18]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=11) ſhould have
+Iuriſdiction doe not acknow­ledge them, yet Chriſt will acknowledge and owne
+his faithfull Miniſters and Servants at that great Day, we ſhall bee ſure to
+have him keepe to his word: as hee doth freely here, ſo he will freely there,
+he will give an Abſolution and diſcharge; He was a burning and a ſhining
+light. I have runne over many things and ſhall now deſire to come to ſome
+application of the point, I will onely faſten upon a few.
+
+Firſt the conſideration of this what Mi­niſters are and ought to
+be;Applicatio. and what enter­tainement they may looke for with Chriſt, and in
+the World
+
+May ſerve for Inſtruction;1 Inſtructio. wee may learne what is the glorious
+ſtate of the Church when it is in the prime and higheſt pitch of beauty.1\.
+Eccleſiae glo­ria. Not when it is adorned with Pur­ple and Scarlet, and
+Iewells and Gold: as the woman in the 17. Revel. Thats an Ar­gument of a true
+ſpouſe of Chriſt, of a beautifull and glorious Church, theſe out­ward earthly
+ornaments. As he ſayd of a Painter that made the Picture of a woman, he aymed
+to have made her beautifull, but not reaching that, he made her gawdie, hee
+dawbed her with laces, and with rich appa­rell. Non potuit pulchram, pinxit
+divi­tem. The whoriſh Church could not attaine to the pure beauty of the
+Spouſe Chriſt: [[Page
+19]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=11) and therefore
+they have dawbed it over in Gallantry and bravery. But will you have the
+Church repreſented in her beauty, you have it in Revel. 12\. There is the true
+Spouſe of Chriſt with no earthly Ornaments a­bout her indeede, but all
+heavenly a Crowne of 12. ſtarres on her head, the Do­ctrine of the 12.
+Apoſtles; Cloathed with the Sunne; the Sunne of Chriſts Righte­ouſneſſe, the
+doctrine of Iuſtification by faith, as ſome have interpreted it, and the
+Moone, all theſe mutable and earthly things under her feete; it is her Crowne
+to have thē her footſtoole; when the Church is beau­tified with burning and
+ſhining lights, thats the greateſt glory and beauty of the Church.
+
+And concerning the Miniſters we under­ſtand here the Nobleneſſe,2\. Miniſtri.
+and neceſſitie of the Miniſtry.1\. Nobilitas. Herod promiſed Herodias (on her
+dancing) Iohn Baptists head, and would not refuſe (for he had bound it with an
+oath) for his oathes ſake, though he was ſorry for it afterwards: but as the
+Father notes hee neede not to have held his bargaine, for hee promiſed but
+halfe his Kingdome; but Iohn Baptiſts head was more worth, a faithfull
+Miniſter is worth a Kingdome: Satius Solem non lucere quam Chryſostomum non
+docere: as they ſayd ſometimes at Conſtantinople, better the Sunne ſhould be
+taken out of the firma­ment, than Chryſoſtome our worthy and faith­full [[Page
+20]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=12) Miniſter ſhould
+be taken out of the Pul­pit, better to loſe the Lights of heaven, than theſe
+lights that guide to heaven: there is a great deale of Nobleneſſe and
+excellencie in them, they be heavenly Lights. The ſay­ing is, if God ſhould
+take a ſhape to repreſent himſelfe viſibly to men, the outward part of it, as
+it were the Garment, ſhould be light animated and quickened with truth for our
+ſoules. They that have the light of divine Knowledge, in the purity of Divine
+Truth, theſe Meſſengers and Ambaſſadors, Types and repreſentations of God,
+they have a great deale of glory in them,2\. Neceſcilas.
+
+And there is a great neceſſitie of it, for Miniſters, burning and ſhining
+Lights are as Neceſſary as lights in a darke place, in a dark roome, upon
+which the Soule and the ſafety, the walke and the Iourney, and the good iſſue
+of all Chriſtians doth depend; as he makes the ſum of his ſtory,  [...]. The
+Lampes went out, and Leander was drowned: for want of proviſion the people
+periſh.
+
+We may note here the condition of the world, the malignity of it,2\. Mundi.
+the true rice of this malignity. What's the reaſon that men riſe up in Armes
+againſt the Miniſters of Gods Word,1\. Malignitus unde. as it is too frequent,
+they are Lights, and theſe love the workes of darke­neſſe: the theefe cares
+not to come at the light: they ſay when Hercules drew up [[Page
+21]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=12) Cerberus from
+hell, he led him in a chaine, and he went quietly till he came to the
+Ho­rizon, and ſaw the peeping of the light; but then he puld ſo ſtrongly that
+he had like to have puld the Conquerour and all backe againe. Cerberous his
+helliſh brood cannot in­dure heavenly light; they ſtumble at that light it is
+offenſive: though the ſweeteſt and grate­fulleſt thing in the world, to the
+eyes that be ſound and whole, yet to the eyes that be not ſound, light is
+troubleſome; or if a man have a minde to ſleepe on ſecurely in courſes of
+darkneſſe and ſin, light is offenſive, and that's the Reaſon of this
+malignitie. The world hath thought (though experience hath con­futed it) that
+the Torrid Zone is uninhabi­table, it is ſo hot that there is no inhabitati­on
+there. Men thinke a burning light is too hot, it is not habitable, not able to
+be dwelt in and endured, the burning is ſo offenſive: and therefore as they
+that dwell under the line (they ſay) curſe the riſing of the Sunne, they are
+glad when it ſets and riddes them of their burning, and when it riſes fall a
+cur­ſing, fretting, and chaſing; men are angry at the light▪ when it beginnes
+to ſcorch and burne, to come neere and cloſe to ſinne, when it meetes with
+their corruptions; the true Reaſon why there is ſuch a repugnancie is we ſee
+it in the light, and wee feele it in the heate. And would you ſee their foule
+de­formity, [[Page
+22]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=13) what they doe
+that oppoſe the Light, what a foule ſinne it is: It is as if they ſhould goe
+about to deprive us of the light of the Sunne,2\. Caecitas & Deformitas
+quarta. that we may live in perpetuall darkeneſſe, and what would we thinke of
+ſuch perſones: None but ſuch as are kinne to darkeneſſe can count the light
+grievous, be weary of light, and complaine of too much light: not to endure
+burning and ſhi­ning lights, it is an Argument they bee very neere a kinne to
+darkeneſſe that hate it ſo: the light muſt needs be gracious and accep­table
+to the children of the light onely: they were wont to Father it on the
+Chriſtians, that in their meetings they meete by night; as they were faine to
+doe in perſecution, and ſo uſed Candles: at laſt towards the cloſe of all,
+they put out the Candles and fell to promiſcuous mixtures, and commix­tures:
+No it concernes them that be Chil­dren of darkeneſſe to put out the light,
+then Creſcite & multiplicamini, then they breed and multiply in the darke, but
+the Children of God multiply and grow in the light, and in­creaſe and flouriſh
+there.
+
+Secondly,Commiſeratio. this may ſerve for gratulation, (for the other branch
+of it for cōmiſeration to ſtirre up a tender compaſſion towards thoſe many
+people in the world, under Hea­theniſme or Superſtition and Popery, or
+Ma­humetaniſme, or againſt our ſelves that have [[Page
+23]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=13) not theſe burning
+and ſhining lights I ſhall paſſe by) and for reproofe and reprehen­ſion, I
+will not take ſo much upon mee to meddle with reprooving of ſuch as are not
+lights. I know the ſnuffers of the Temple ſhould be of pure gold. I am not of
+mettle good enough to take on me to doe that. But I hope you will all joyne
+with me in gratula­tion,Gratulatio. to bleſſe and magnifie God that he hath
+raiſed up, and kindled and ſet up amongſt us, ſo many bright and ſo many
+ſhining lights, though not in every point of heaven (as it is not in the
+cleereſt night when the moſt ſtarres appeare, every point hath not a ſtarre in
+it) but in every quarter there bee ſtarres. Though every Candleſticke, every
+place hath not ſuch a burning and ſhining light, yet ſo many burning and
+ſhining lights are in e­very quarter of the Kingdome as the world affords not
+the like.2\. Exhortatio.
+
+In the laſt place this may ſerve for exhor­tation (I know not how I may
+incroach up­on the occaſion, and therefore I doe but touch things briefely)
+
+Firſt to the people,1\. Populumta­les honorant▪ are Miniſters burning and
+ſhining lights, then honour the Miniſters, give them double honour; it is
+worth the while to afford maintenance to them: he that makes uſe of the light
+to worke by it,2 Alant. it is hard if he cannot get ſo much by his worke, as
+will pay for his light.
+
+[[Page 24]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=14) And
+eſpecially honour them in walking according to the light, and according to
+their direction,2\. Audiunt [...]. and in yeelding and ſubmitting to them when
+they come in Gods name, and convey Gods light to convince us. When Gods heate
+warmes us let us not reſiſt and oppoſe but ſubmit: as a Father ſpeakes of fire
+and light, the light is moſt ſweete and gracious, but the burning moſt
+terrible; ſo if we miſuſe the Goſpell, and miſuſe the light, onely to play
+with the light and pleaſe our ſelves with light, and will not be ſet on fire,
+will not be enflamed, it will ſcorch in the end, it will bring burning,
+Iudgements, and calamities, to contemne and trample up­on Gods Word and
+Miniſters.
+
+In the ſecond place Magiſtrates and thoſe in Authority,2\. Ad Magi­ſtratum
+tales. are Miniſters burning and ſhi­ning Lights; 1\. Tueantur Intueantur.
+then thoſe that are ſuch it be­comes Magiſtrates very well to advance, to
+protect; to ſet a burning and ſhining light up­on a Golden Candleſticke, and
+to make a Caſtle, a Caſtle at leaſt of horne-worke, to defend and protect
+them, that theſe lights may be according to that in the ſtory; the lampe that
+never went out: that they may not eaſily be puffed or blowne out, by thoſe
+that doe maligne and oppoſe them; and thoſe that have power in this kinde of
+Iuriſdiction, influence and over-ſight, ſhould remember they may be ſnuffers
+to make the light burne [[Page
+25]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=14) more cleere; they
+muſt not be extinguiſhers to extinguiſh and to quench the light, they
+themſelves ſhould be lights, lampes; take heede, take order that ſuch perſons
+be not dampes to put out the light. The Flye whe­ther buſily or enviouſly,
+clings about the light, but ſinges his owne wings with it, and they that
+thinke to extinguiſh the light will but burne their owne wings.
+
+And to adde one word to the particular occaſion, that which Pariſienſis ſayd
+ſome­times concerning excommunicating of men for trifles, it is (ſaith he) as
+if a man ſhould ſee a flye or flea on a mans forehead, and for that ſhould
+preſently take a bettle and knock him in the head to kill the flye: It muſt
+not be for toyes and trifles; and ſo likewiſe not for every ſmall failing and
+exorbitancie or defect in the light, preſently to extinguiſh and put out the
+light, but rather to recover and to helpe it.
+
+And for ſuch as are not ſuch,2\. Non tales amoveant. not burning and ſhining
+lights. The Canon law, as it is reported out of that and it is very pertinent
+to make this order and conſtitution (according to the Popiſh faſhion) if the
+Hoaſt be conſu­med (ſay they) in a nights viſitation, the Prieſt ſhall be
+bound to put out the Candle, leſt the people ſhould worſhip an empty Pix ſo if
+there be any that have conſumed integritie, and holineſſe of life, if the hoſt
+[[Page 26]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=15) be gone,
+it is fit that the Candle ſhould bee put out, that men doe not worſhip an
+empty Caske, which hath no worth anſwera­ble.
+
+In the laſt place (I ſee I muſt of neceſſity be forced to contract things, but
+I had rather breake off abruptly, than incroach too much on the time,3\. Ad
+Clerum. and other occaſions) the laſt concernes the Miniſters and the Clergie:
+I ſhould have preſcribed ſomething both concerning their duty;1\. Officia. a
+little to have preſt home the things that are contained in the application of
+their duty:1\. Splendor vitae. For holineſſe of life for diligence of
+Doctrine: to be painefull and industrious in Preaching, joyn'd with a holy
+life,2\. Fulgor Do­ctrinae. for otherwiſe, as it is ſaid of a ghoſt, a leane
+meager ghoſt, with a Torch in the hand, it makes it looke more gaſtly; ſo to
+have a Miniſter that hath light in his Do­ctrine, and yet an ugly and filthy
+life, there is not a more gaſt and ugly ſight in the world: and for another
+thing too:3\. Candor Ani­mi. to have commen­ded that Candidneſſe, and that
+ingenuity of brethren towards their brethren, which wee ſee our Saviour
+affords to Iohn, that not to backebite, or detract, or draw downe the price
+and excellencie of our fellow Mini­ſters, ſuppoſe they doe as they may out-
+ſtrip us, but candidly an ingenuouſly to give them their due; He is a burning
+and a ſhining light, and to agree unanimouſly, and lovingly, and [[Page
+27]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=15) Chriſtianly;
+there is nothing of more con­ſequence, nor more uſe than for Miniſters to
+cohere, and ſo to ſtregthen and fortifie them­ſelves. The ſcales of the
+Leviathan (as Lu­ther makes the compariſon) ſticke cloſe to­gether, wickedmen
+in their projects and their deſignes, ſticke cloſe like the ſcales of the
+Leviathan, repreſenting the Devill as moſt interpreters expreſſe it. And the
+ſtones of the Temple (they ſay) were ſo cloſe, ſo ſi­mented together, as if
+there were but one ſtone, there was no pieecing appear'd or was ſeene by any,
+though they looked narrowly. The ſtones of the Temple, they that would helpe
+to build up Gods Temple, ſhould ſtand cloſe together, and remove bones of
+conten­tions, and difference, and rivality, and emu­lation. It was a Noble
+ſpeech of but a Hea­then man: a Lacedemonian, when he happe­ned not to be
+choſen (where the Citie ex­pected it ſhould be ſo) into the number of the 30.
+to be one of the principall officers of the Citie, when all the reſt of his
+friends were diſcontent and angrie to ſee that hee the moſt noble and worthy
+of all the reſt (as they thought) was paſt over, he himſelfe tooke it well; I
+am glad ſayes hee that the Citie hath ſo many men of more worth than my ſelfe.
+It ſhould be the honour and inge­nuity of every one to rejoyce that there bee
+thoſe that doe excell them, not to deſire the [[Page
+28]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=16) priority, or
+precedencie themſelves, but to be content to put it where God hath given it.
+
+And in the laſt place principally for zeale, to have preſt that,4\. Ardor.
+Zeli. all light, and all diligence, and all holineſſe, and all unanimity,
+except there be ſome edge of zeale put upon it, is nothing worth: and I
+thought to adde ſome directions:2\. Incentivum. 1. Tempus eri­git. Peccantes
+Gigantes. and in the laſt place ſome Incen­tives that might ſtirre and kindle
+all to the exerciſe of this heavenly grace; the time re­quires it, ſinne is
+Gyant-like, Popery growes bold, witneſſe the late fire (I thought to have
+added ſomething more concerning it.) If they be bold to claime kinne of us,
+and to beare the world in hand, that our owne Ar­ticles maintaine a ſecret
+correſpondence with Popery, it is time for our zeale to breake out to quit the
+Church, this Noble and honourable Church, from ſuch a diſho­nourable
+imputation: The Act it ſelfe of zeale is very opportune and ſeaſonable: Nunc
+ſi unquam, 2\. Actus. 1. Oportunus. niſi nunc quando? as the ſay­ing is: if
+not now when ſhall we ſhew our ſelves zealous; when Popery growes ſo bold and
+ſo high, ſhall we expect greater matters, and is it not time to make an
+oppoſition a­gainſt them, and now if ever.
+
+They that write the ſtory of the Travailes of the Apoſtles report that Simon
+Zelotes, preached here in England; if ever there nee­ded [[Page
+29]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=16) ſome Zelotes to
+come againe it is now, ſuch as Epiphanius ſpeakes of Eliah, that hee ſuckt
+fire out of his Mothers breſt, that have beene moulded to a holy heate and
+fire: nothing elſe can defend and preſerve the chaſtitie and integritie of the
+Church. A cold modeſty betrayes a woman invites, and provokes an impudent
+ſoliciter, a coy magnanimous countenance muſt vindi­cate her aſſaulted
+Chaſtity. An angry coun­tenance drives away fleerers, and fawners, and
+flatterers, it hinders ſo much as the at­tempt, whereas coldneſſe gives way,
+and hope and poſſibilite.
+
+Againe,2\. Fructu oſus. as the time requires it, and the act very ſeaſonable,
+I will adde this too; Our timely and ſeaſonable zeale may bee more effectuall
+than perhappes wee may imagine. The leaſt beame of light is able to breake
+through the thickeſt darkeneſſe, to ſhine in the darkeſt place. The leaſt
+ſparke of fire is enough (if well husbanded and impro­ved) to kindle the whole
+world. And as at the day of Conflagration, that purgatory fire that ſhall
+purge and refine all the ele­ments, is conceived it ſhall be out of a
+contri­bution and commixion of ſtarres. That of all the burning and ſhining
+lights, there ſhall be made that great heate that ſhall conſume all the
+burning and ſhining lights of Sathans Kingdome, if they would contribute and
+[[Page 30]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=17) make a
+ſhot together of their zeale, to make an oppoſition of ſinne and ſuperſtition.
+
+And in the laſt place,3\. Munus. our duty and office doth require it, it is as
+proper for to have zeale in the Miniſtry,1\. Neceſſari­um in nos in­cumbit. as
+to have fire in the Al­tar. We are the keepers (as it were) of the fire, to
+ſee that the fire goes not out; as thoſe of Athens in the Games in which they
+runne with,1\. Cura. Lampes in their hands, One ranne as farre as hee could
+and there delivered it to another, to carry farther, and to a third, and ſo
+the ſucceſſion was continued. We have received the Lampe of Gods Word and
+truth from our Predeceſſors, who have de­livered it us: let us runne on
+cheerefully and couragiouſly, to deliver it to our ſucceſſors, and ſo to all
+poſterity. Though fire in the houſe may be dangerous, there's no man but
+deſires to have fire on the hearth that's uſeful: though among inferiour and
+ignorant peo­ple, heate with light may be dangerous, yet among the Clergie,
+among the Judicious and able Clergie, if their light were quickned to heate,
+there would be no danger but excel­lent uſe of it.
+
+And the world expects ſo much of us,2\. Culpa: and will be ready to lay all
+the blame on us; that which Luther ſayd ſometimes Nunquam pe­riclitatur
+Religio niſi inter Reverendiſsimos: The vulgar are ready enough to take this
+up as a Maxime, as an Oracle. It is obſerved [[Page
+31]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=17) when Chriſt was
+Crucified, Pilate the civill Magiſtrate abſolved him, Caiphas the high Prieſt
+condemned him, Iudas his Diſciple he betrayed him to the People: the Laity are
+willing to waſh their hands as Pilate did, and thinke they have done all wel
+enough, if they can lay the blame at the doore of the Clergy: all the blame
+will lye on the unfaithfull Mini­ſters that ſhould be burning and ſhining
+lights if ſin grow to a height, if ſuperſtition increaſe all will lye there,
+it concernes therefore and God expects it, as having laid the charge up­on us,
+I will ad this one thing by way of con­cluſion, I have not yet ſpoken one
+ſtrong line, (as they ſay) affectedly▪ but give me leave to conclude with one
+ſtrong line drawne out of the Proverbe of the Germans, the pavement of hell
+(ſay they) is made of the bare ſculs of the Prieſts, or ſhaved Prieſts, & the
+glorious Creſts of great gallants. The meaning is, the greater and more
+eminent any one is in the Church, and doth not employ his Eminency for the
+maintenance of Gods truth, they ſhal lye loweſt in hell, they will have the
+deepeſt condemnation: and now the choyſe is be­twixt theſe two, we muſt either
+burne in zeale or hazard it to burne in hell: and therefore to conclude all, I
+know not whether is more ad­mirable, the reſolute meſſage that Mordecai ſent
+to Heſter, (Let not the Queene thinke that ſhe ſhall eſcape in the Kings
+houſe, more than the [[Page
+32]](http://eebo.chadwyck.com/downloadtiff?vid=1967&page=18) reſt of the
+Iewes, for if thou hold thy peacnow, deliverance ſhall come from another place
+but thou and thy houſe ſhall periſh) or the Noble reſolution of Heſter upon
+this meſſage, (If I periſh, I periſh, I will goe to the King though contrary
+to the Law, I will interceede and in­terpoſe the utmoſt grace that I have with
+the King, caſting away all care, and committing unto God in a holy, pious, and
+zealous way) I know not whether is more admirable: but I will winde up all;
+let us all learne to be burning and ſhining lights, ſo to conſume and chaſe
+away the darkneſſe of Ignorance, the dregs of ſin, and all the ſtubble of
+Superſtition; and then though the people ſhould be inconſtant and profidious,
+though our fellow brethren ſhould be malignant and cenſorious, though our
+fathers ſhould not be ſo benigne norr o­pitious: yet who is ſuch a Coward that
+dares not venture all upon the expectation of a Chriſtian and gracious
+abſolution from our Saviour; though all faile, miſ-judge, mm-re­port, and miſ-
+thinke, we ſhall be ſure to have a free, a candid teſtimony from our Saviour
+at the great Day: He was a burning and a ſhining Light.
+
+FINIS.
+
+[Home](/)
+
+Stoughton, John, d. 1639.. Date: 1640  
+

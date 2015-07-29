@@ -1,0 +1,569 @@
+---
+layout: default
+---
+## (unknown project)
+
+# A briefe catechisme concerning church-governemnt. By that Reverend Divine
+Mr. Iohn Robinson, and may fitly be adjoyned to Mr. Perkins six Principles as
+an appendix thereto.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=119633&page=1)
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=119633&page=1) A BRIEFE
+CATECHISME CONCERNING CHVRCH-GOVERNMENT BY That Reverend Divine Mr. IOHN
+ROBINSON, and may fitly be adjoyned to Mr. PERKINS ſix Prin­ciples as an
+Appendix thereto.
+
+‘1 TIM. 3. 14.Theſe things I write hoping to come unto thee ſhortly.’ ‘1 TIM.
+3. 15.But if I tarry long, that thou mayſt know how thou oughteſt to behave
+thy ſelfe in the houſe of God, which is the Church of the living God, the
+pillar and ground of the truth.’
+
+LONDON, Printed in the yeare, 1642.
+
+## Table of contents
+
+  * 1\. AN APPENDIX TO Mr. PERKINS HIS SIX PRINCIPLES Of Chriſtian Religion.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=119633&page=2)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=119633&page=2)
+
+## 1\. AN APPENDIX TO Mr. PERKINS HIS SIX PRINCIPLES Of Chriſtian Religion.
+
+VNTO the former Principles publiſhed by that Reverend man Mr. William Perkins,
+fully containing what every Chriſtian is to beleeve touching God and himſelfe,
+I have thought it fit for the good, eſpecially of thoſe over whom I am ſet,
+(the younger ſort of whom I have formerly catechiſed in private, ac­cording to
+the ſame Principles) to annex a few other, touching the more ſolemne
+fellowſhip of Chriſtians, Rev. 2\. 7. 2 Cor. 6\. 16. Rom. 9\. 4. Act. 2\. 47.
+Mat. 18\. 17. 18. 20. 2 Cor. 6\. 16. the Church of God, as being a divine
+inſtitution, the ſpirituall Paradiſe and Temple of the living God; in which
+his moſt ſolemne Services are to bee performed: and to which he addeth daily
+ſuch as ſhall be ſaved; promiſing to dwell in the middeſt of them by his moſt
+powerfull and gracious preſence.
+
+### 1.1.
+
+Queſtion. VVHat is a Church?
+
+Anſ. A company of faithfull and holy people (with their ſeed) called by the
+Word of God into publick co­venant with Chriſt, and amongſt them­themſelves
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=119633&page=3) for mutuall
+fellowſhip in the uſe of all the meanes of Gods glory and their ſalva­tion.
+
+### 1.2.
+
+Qu Of what ſort or number of people muſt this company conſiſt?
+
+A. It is all one whether they be high or low, few or many, ſo as they exceed
+not ſuch a num­ber, as may ordinarily meet together in M. 3. 28. Matth. 28\.
+17. 19. one place for the worſhipping of God, and ſan­ctification of the Lords
+day.
+
+### 1.3.
+
+Qu. What are the reaſons why the Church muſt conſiſt of faithfull and holy
+perſons?
+
+A. 1\. Firſt the 1 Cor. 11\. 17. 18. 20. &c. 14\. 23. Act. 20\. 7. Scriptures
+every where ſo teach.
+
+2\. The Levit. 20\. 26. Rom. 17\. 8. 1 Cor. 1\. 2. Phil. 1\. 1. to verſ. 9\.
+[...]h Eoh. 1 22.  [...]col. 1\. 18. Church is the body of Chriſt, all whoſe
+members therefore ſhould be conforma­ble in ſome meaſure to him their head.
+
+3 Onely ſuch Iohn 4\. 23 Prov. 15\. 5. Hob, 8\. 8. 10. &c. worſhippers pleaſe
+God as are accepted of him and have right to the covenant of grace and ſeales
+thereof.
+
+### 1.4.
+
+Qu But are not hypocrites mingled with the faithfull in the Church?
+
+A. None ought to bee by the word of God: and where ſuch are they are not truly
+added by the Lord to the Church, but doe Iude. v. 2\. Eze. 44\. 7. creepe in
+through their owne hypocriſie, and not with­out the Churches ſin alſo, if they
+may bee diſ­cerned to be ſuch.
+
+### 1.5.
+
+Qu. By what meanes is the Church gathe­red?
+
+A. Mat. 28 19. 20. Act 2\. 14. &c. & cap. 11\. 19. 20. 21. Rom. 1\. 5. 1 Cor.
+15\. 1. By the word preached and by faith re­ceived of them that heare it.
+
+### 1.6.
+
+Qu. Is every beleever a member of the viſi­ble Church?
+
+A Act. 19\. 1. and 5. 13 14. No Act. 2\. 21. 47. & Cap. 8\. 37. & 19\. 1. 9.
+16. & 9\. 26 27. Act. 17\. 1, 2, 3, 4. with 1 Theſ. 1\. 1., but he muſt alſo
+by his perſo­nall and publick profeſſion adjoyne himſelfe to
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=119633&page=3) ſome
+particular fellowſhip and ſocietie of Saints.
+
+### 1.7.
+
+Qu. How prove you the Seed of the faithfull to be of the Church with them?
+
+A. By the Gen. 17\. 7. &c. Luk. 1\. 72. 73. Gal. 3\. 8. 16, 17. covenant which
+God made with Abraham and his ſeed: which was the co­venant of the Goſpell and
+confirmed in Chriſt; the Rom 4\. 11 ſeale thereof circumciſion, being the
+ſeale of the righteouſneſſe of Faith.
+
+### 1.8.
+
+Qu. What are the eſſentiall markes of the Church?
+
+A. Col. 2\. 5, 6. 1 Pet. 2\. 5. with 5. 1. 2. Faith and Order, as the Church
+in them may be ſcene and beheld to walke in Chriſt Ieſus whom ſhee hath
+received: Faith profeſſed in word and deed, ſhewing the Matter to bee true:
+and Order in the holy things of God, ſhewing the Forme to bee true, which are
+the two eſſentiall parts of the Church. As true matter and Forme, or two
+eſſen­tiall parts of other things. As of a houſe, Temple, Taberna­cle. Exod.
+2\. 6. 1. to 7.
+
+### 1.9.
+
+Qu. Are not the preaching of the word and adminiſtring of the Sacraments
+certain marks of the true Church?
+
+A. No: for the word may (and that rightly) be preached to aſſemblies of
+unbeleevers for their converſion Mat. 28\. 19. Mar. 16\. 15. Act. 14\. 7. 14.
+& 17\. 22. &c.: as may the Sacraments alſo (though unjuſtly) bee adminiſtred
+unto them Gen. 34\. 24. Siche­mites. 2 Kings 17\. 25. 27. &c. Hoſ. 1\. 9. with
+Pſal. 50\. 16. Rom. 9\. 4. 5., and ſo be made ſying ſignes. Beſides, the true
+Church may for a time want the uſe of divers ordinances of God, but hath
+alwayes right unto them; as may alſo the falſe Church uſurpe and abuſe them
+but without right.
+
+### 1.10.
+
+Qu. What are the meanes in and by which Chriſt and the Church have fellowſhip
+together?
+
+A. 1 Cor. 12\. 3. 4. 5. 6. 1\. In the gifts of the Spirit of Chriſt. 2\. In
+the offices of miniſtery given to the Church. 3\. In the workes done in and by
+thoſe gifts and offices.
+
+### 1.11.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=119633&page=4)
+
+Qu. Wherein ſtandeth this communion of the Spirit?
+
+A. Eph. 2\. 12. & chap. 4\. 15. 16. Col. 3\. 19. In the in-dwelling and
+operation of the gifts and graces thereof conveyed from Chriſt as the head,
+unto the Church as his body, and mem­bers one of another: Whence ariſeth that
+moſt ſtreit and divine conjunction, by which, as by the civill bond of
+marriage, the man and wife are one fleſh: ſo they who are thus joyned to
+Chriſt are one ſpirit 1 Cor. 6\. 17. Eph. 5\. 23. to 30, 31, 32..
+
+### 1.12.
+
+Qu. How many are the offices of miniſtery in the Church?
+
+A. Five: (beſides the extraordinary offices of Apoſtles, Prophets and
+Evangeliſts, for the firſt planting of the Churches, which are ceaſed, with
+their extraordinary gifts.)
+
+### 1.13.
+
+Qu. How is that proved?
+
+A. Partly by the Rom. 12 7. 8. 1 Ti. 3\. 1. 8 with 5. 3. 9. 17. Scriptures,
+which both mention them expreſly, and deſcribe them by their principall gifts,
+and workes: and partly by Reaſon agreeable to the Scriptures.
+
+### 1.14.
+
+Qu. Shew me which thoſe officers bee, with their anſwerable gifts and workes.
+
+A. 1\. Eph. 4\. 11. Or the Ex­horter. Rom. 12\. 8. Or the Ex­horter. 1 Cor.
+12\. 8 Rom. 12\. 7. 1 Tim. 5\. 17. The Paſtor, to whom is given the gift of
+wiſedome for exhortation. 2. The Teach­er, to whom is given the gift of
+knowledge for doctrine. 3. The governing Elder, who is to rule with diligence.
+4. The Deacon, who is to adminiſter the holy treaſure with ſimplicitie. 5. The
+Widow, or Deaconeſſe, who is to attend the ſick and impotent, with compaſſion
+and cheerefulneſſe. Act. 6\. 1. 3 1 Tim. 3\. 8.  [...]0\. & cap. 5\. 3. 9. 10.
+Rom. 16\. 1.
+
+### 1.15.
+
+Qu. What is the Reaſon for the proving of theſe miniſteries?
+
+A. Becauſe all theſe are uſefull and neceſſary, and theſe alone ſufficient for
+the Church; as be­ing
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=119633&page=4) the moſt
+perfect ſocietie and 1 Cor. 12\. 27. Eph. 12\. 12.  [...] verſ. 19.  [...].
+body of Chriſt, which neither faileth in that which is neceſſary, nor
+exceedeth in any thing ſuperflu­ous.
+
+### 1.16.
+
+Qu. Whence ariſeth the uſefulneſſe and ſuffi­ciency of theſe miniſteries in
+the Church?
+
+A. From the condition partly of the ſoules, and partly of the bodies of the
+members.
+
+### 1.17.
+
+Qu. How doth that appeare?
+
+A. 1\. In the ſoule is the facultie of underſtan­ding, about which the Teacher
+is to be exerciſ­ed Rom. 12\. 7. 8. for information by doctrine. 2. The will
+and affections: upon which the Or Ex­horter, Ibidem. Paſtor is eſpecially to
+work by exhortation and comfort. 3. Becauſe that doctrine and exhortation
+with­out obedience, are unprofitable, the diligence of the ruling Elder is
+requiſite for that pur­poſe.
+
+### 1.18.
+
+Qu. How are the other two Miniſteries to be exerciſed?
+
+A. As the Church conſiſteth of men, and Act. 6\. 1. 3 and 4. 35. Gal. 6\. 6.
+[...]. 1 Tim. 5\. 18. they of ſoules and bodies, ſo are the Deacons out of the
+Churches treaſure, and contribution to provide for the common uſes of the
+Church, reliefe of the poore, and maintenance of the Of­ficers; as are the
+widowes to afford unto the ſick and impotent in body (not able otherwiſe 1
+Tim. 5\. 3. 9. to help themſelves) their cheerefull and comfor­table ſervice.
+
+### 1.19.
+
+Qu. Wherefore call you thoſe Offices by the name of Miniſteries, or Services?
+
+A. For two cauſes: 1. For that they are no Lordſhips, but ſervices of Chriſt,
+and of the Mat. 20\. 25, 26, 27. 2 Cor. 4\. 5. 1 Cor. 4\. 1. & cap. 3\. 21,
+22, 23. Church.
+
+2\. Becauſe they conſiſt in adminiſtring only of thoſe things which are
+Chriſts, and the Churches under him.
+
+### 1.20.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=119633&page=5)
+
+Q. By whom are theſe Officers to have their outward calling?
+
+A. By the Church whereof they are members for the preſent, and to which they
+are to ad­miniſter.
+
+### 1.21.
+
+Q. How doth that appeare?
+
+A. 1\. The Apoſtles who taught onely Chriſts Commandements, ſo directed the
+Churches Act. 1\. 15. 23. & cap. 6\. 1. 2. 3. 5. & cap. 14\. 23. Greek. Act.
+1\. 21. & 6\. 3. 1 Tim. 3\. 2, 3, 4, 5..
+
+2\. The people amongſt whom they have been converſant can beſt judge of their
+fitneſſe, both in reſpect of their Perſons and families.
+
+3 It furthereth much the diligence and ſaith­fulneſſe of the Miniſter, that
+they whoſe Mi­niſter hee is have freely choſen him, as un­to whom under Chriſt
+they commit the moſt pretious treaſure of their ſoule: as alſo it binds Heb.
+13\. 17. the people to greater love and conſcience of o­bedience of him and
+his miniſtry, whom them­ſelves have made choyce of.
+
+4\. The Church being a moſt free Corpo­ration ſpirituall under Chriſt the
+Lord, is in Eph. 2\. 12. 19. all reaſon and equity to chuſe her miniſters and
+1 Co. 12\. 27. 2 Cor. 4, 5. 1 Tim. 5\. 17 18. 1 Cor. 9\. 7. 9. Heb. 5\. 4, 5
+ſervants under him unto whom alſo ſhee is to give wages for their ſervice and
+labour.
+
+### 1.22.
+
+Qu. Is this outward calling of ſimple neceſ­ſity for a true Church officer?
+
+A. Yea, as for the Magiſtrate in the City and Common-wealth; or ſteward in the
+family: without which they uſurp their places, how excellent ſoever, whether
+in their gifts or workes.
+
+### 1.23.
+
+Q. What if the Officer bee found unfaithfull in his place?
+
+A. He is by the Church to bee warned to take heed to his miniſtery hee hath
+received, [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=119633&page=5) to
+fulfill it; which if he neglect to doe, by the ſame power which ſet him up, he
+is to be Col. 4\. 17 put downe and depoſed. Being dealt with as a Bro­ther,
+Math. 18\. 15. 17.
+
+### 1.24.
+
+Q. VVhat are the outward workes of the Churches communion with Chriſt
+
+A. Theſe ſix: 1. Prayer. 2. the reading and opening of the VVord. 3. the
+Sacraments. 4. ſinging of Pſalmes. 5. Cenſures. 6. con­tribution to the
+neceſſity of the Saints.
+
+### 1.25.
+
+Qu. Wherefore put you prayer in the firſt place?
+
+A. Becauſe by it all the reſt are ſanctified to the faithfull. For prayer ſee
+the end of the 1\. Tim. 2\. 1. & 4, 5. fifth Principle with the expoſition:
+onely adde this, that in the act of our ſpeaking unto God by prayer, wee are
+not to uſe the helpe of Iude verſ. 20\. Zach. 12\. 10. Rom. 8\. 15. 26. any
+booke, beades, crucifixes or the like, to teach or provoke us, but onely the
+helpe of the ſpirit of adoption, and prayer, working in our hearts
+effectually, and teaching us both what and how to pray as we ought.
+
+### 1.26.
+
+Qu. What believe you touching the word?
+
+A. Beſides the things obſerved in the fifth Principle and Expoſition; that the
+whole writ­ten Word, and it alone is to be read and opened in the Church.
+
+### 1.27.
+
+Qu. Wherefore are the whole Scriptures to be read and opened?
+
+A. Prov. 30\. 5. Rom. 15\. 4. 2 Tim. 3\. 16 Becauſe the whole Word of God is
+pure, written for our learning and comfort, given by divine inſpiration, and
+is profitable for doct­rine, reproofe, correction and inſtruction, and from
+which nothing may be Deut. 4\. 2. Rev. 21\. 19. diminiſhed,
+
+### 1.28.
+
+Qu. How prove you that the Scriptures on­ly are to be read, and opened in the
+Church?
+
+A. ſ Becauſe they alone are ſufficient for faith,
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=119633&page=6) 2 Rom. 16,
+17. Heb. 11\. 6. Ioh. 20\. 31. 2. Tim. 3\. 16, 17. and the obedience which is
+of Faith, and able to make the man of God perfit, throughly fur­niſhed unto
+all good workes, and unto which nothing may Prov. 30\. 6. Deut. 4\. 3. Rev.
+21\. 19. be added.
+
+### 1.29.
+
+Qu. Who are to open and apply the Scrip­tures in the Church?
+
+A. Principally the Biſhops or Act. 20 17, 28. Tit 1\. 5, 7. Elders, who by the
+Word of life are to feed the flock, both in teaching and government. Secondly,
+ſuch as are out of office, in the exerciſe of Pro­pheſie.
+
+### 1.30.
+
+Qu. How is that exerciſe proved in the Scriptures?
+
+A. By Luke 2: 42. 46, 47, & cap. 4\. 16, 17, 18. Act. 8, 4, & cap. 11\. 19,
+20, 21, & cap. 13, 14, 15, 16. & cap. 18\. 24, 25, 26. examples in the Iewiſh
+Church, where men though in no office, either in Tem­ple or Synagogue, had
+liberty publiquely to uſe their gifts.
+
+2 Luke 9\. 1. & cap. 10\. 1. g Rom. 2\. 6. 1, Pet. 4\. 10, 11. 1. Cor. 14\. 1.
+By the Commandement of Chriſt and his Apoſtles.
+
+3 By the prohibiting of 1\. Tim. 2\. 11, 12, 1, Cor, 14\. 34, 35. 11. Pet. 4\.
+10, 11. women (not ex­traordinarily inſpired) to teach in the Church: herein
+liberty being given unto men their huſ­bands, or others.
+
+4 By the excellent ends, which by this meanes are to be obtained: as 1 Theſ.
+5\. 19. 1 Tim. 3\. 2. 1 Cor. 14\. 35. The glory of God in the manifeſtation of
+his manifold gra­ces. 2. That the gifts of the ſpirit in men be not quenched.
+3. For the fitting and triall of men for the Miniſtery. 4. For the preſerving
+pure of the doctrine of the Church, which is more endangered, if ſome one or
+two alone may onely be heard, and ſpeake. 5. For debating and ſatisfying of
+doubts, if any doe ariſe. 6. For the edifying of the Church, and converſion of
+others.
+
+### 1.31.
+
+Qu. VVho is a Prophet in this ſence?
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=119633&page=6) A. He that
+hath the gift of the ſpirit to ſpeake Act. 2, 42. Luke 4\. 22, 23. 1. Cor.
+14\. 4. 24, 25. 1 Cor. 14\. 3. 37. Act. 13\. 15. unto edification, exhortation
+and comfort.
+
+### 1.32.
+
+Qu. VVhat is the order of this exerciſe?
+
+A. That it be performed af [...]er the publique Miniſtery by the teachers, and
+under their di­rection and moderation: whoſe duty it is, if any thing be
+obſcure to open it: if doubtfull to cleare it: if unſound to refuſe it: if
+unperfit to ſupply what is wanting, as they are able.
+
+### 1.33.
+
+Qu. What believe you touching the Sacra­ments further then is obſerved in the
+former Principles?
+
+A. That they are to be diſpenſed according to the tenure of the Covenant of
+grace, where­of they are ſeales: in reſpect both of the perſons to whom, and
+of the ends for which they are to be adminiſtred.
+
+### 1.34.
+
+Qu. VVhich are thoſe perſons?
+
+Gen. 17\. 7. 1 Cor. 7, 14. A. The faithfull and their ſeed.
+
+### 1.35.
+
+Qu. May all the faithfull partake in the Sacra­ments?
+
+A. Act, 2, 41, 42. 47. Act. 5\. 13. 14, Rom, 9\. 4, Deut. 12, 5, 13. No,
+except they be alſo added to ſome particular congregation, unto which the
+pub­lique ordinances and Miniſtery doth apper­taine.
+
+### 1.36.
+
+Qu VVhich are the ends and uſes of the Sa­craments?
+
+A. The firſt is from God to the Church, opened in the expoſition of the fifth
+Principle, where it is ſhewed what a Sacrament is. The Gen. 17, 9, 10. ſecond
+is from the Church to God, in which it teſtifieth the acceptance of the
+Covenant, and bindeth it ſelfe to the performance of the conditions. The third
+is in reſpect of the members themſelves mutually, as being bad­ges 1 Cor, 12,
+13. Iudg. 14\. 4. of their aſſociation. The fourth in re­ſpect
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=119633&page=7) of all other
+Aſſemblies,Iudg. 14\. 4. betweene whom and the Churches, they are notes of
+diſtin­ction.
+
+### 1.37.
+
+Qu. VVhat is required touching ſinging of Pſalmes in  [...]he Church?
+
+A. That they be ſuch as are parts of the word of God, formed by the Holy Ghoſt
+into Math, 26, 30. Eph. 5, 19. Col. 3\. 16. Pſalmes or Songs, which many may
+conve­niently ſing together, exhorting and admoni­ſhing themſelves mutually
+with grace in their hearts.
+
+### 1.38.
+
+Qu. VVhat believe you touching the cen­ſure of excommunication?
+
+A. That it is to be uſed by every particular Church, according to the rules of
+Chriſt.
+
+### 1.39.
+
+Qu. How prove you this power to be in e­very particular congregation?
+
+A. 1\. By the donation and gift of Chriſt the Lord. 2. The particular Church
+of Co­rinth Math. 18\. 17, 18, 19. 1 Cor. 5\. Rev. 2, & 3. had this power, for
+the neglect whereof it is reproved by the Apoſtle. 3. Every par­ticular Church
+hath right to the VVord, Sa­craments and Prayer, within it ſelfe, which are
+greater, and therfore to this which is leſſer then they.
+
+### 1.40.
+
+Qu. VVhat are the rules of Chriſt for ex­communication?
+
+A. 1\. The ſin thus to be cenſured muſt be Math. 18\. 15. 1 Cor. 5\. 11. Math.
+18\. 15, 16, 17. 19. 1 Cor, 5\. 4. 5. 11. ſcandalous, and the perſon obſtinate
+after due conviction and patience uſed.
+
+2\. The Church excommunicating muſt bee that particular congregation gathered
+together in the name of Chriſt, whereof the ſinner is a member.
+
+### 1.41.
+
+Qu. How prove you that by the Church Math. 18\. is not meant the Biſhop, or
+Presbyte­ry [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=119633&page=7)
+repreſenting the body?
+
+A. 1\. One man cannot be a Church, which as Chriſt teacheth, verſ. 19\. 20.
+muſt be a com­pany, how ſmall ſoever, gathered together in his name.
+
+2\. The word there uſed never ſignifieth in the Scriptures, an Officer or
+Officers, excluding the people.
+
+3\. The Apoſtle 1. Cor. 5\. expounds Chriſts meaning to be of the whole body
+come toge­ther.
+
+4\. The Elders being publique Officers, are to exerciſe the ſolemne workes of
+their Office, and particularly the worke of rebuking them that ſinne, openly
+and before the Church, both that others may feare, and the Church of Faith 1
+Tim. 5\. 20. conſent to the excommunication: and there­fore cannot repreſent
+the Church being actual­ly preſent.
+
+5\. A Repreſentative Church in a caſe of faith and conſcience without the
+conſent of the repreſented in the particular decree eſtabliſheth the Popiſh
+doctrine of implicit Faith.
+
+### 1.42.
+
+Qu. What is the order of proceeding in this Cenſure?
+
+A. That the Brother offending privately be admon [...]ſhed privately, and
+after (without his Mat. 18\. 15. repentance) with a witneſſe or two who may
+give teſtimony both of the offence and admo­nition and laſtly, that by the
+brother admo­niſhing with his witneſſes, the ſinner (remai­ning obſtinate,)
+complaint be made to the Church: which laſt complaint alone is ſuffi­cient in
+publike offences.
+
+### 1.43.
+
+Qu. VVhat Order is to be obſerved after complaint thus made?
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=119633&page=8) A. The
+Elders as the govenours of the Church, are by the Scriptures clearely to
+convince, and ſeriouſly to admoniſh and exhort the offender: and upon his
+impenitency (with due convicti­on and patience:) to decree againſt him the
+ſentence of Excommunication: and laſtly, with the peoples free conſent to
+pronounce and execute the ſame.
+
+### 1.44.
+
+Qu. How appeareth the neceſſity of this or­dinance?
+
+A. Many wayes. 1. By the commandement of Chriſt, and practiſe of the
+Apoſtolicall Mar. 18\. 15 1 Cor. 5\. 4. Churches.
+
+2\. For the glory of Chriſt, which is much impeached by the prophaneſſe of
+thoſe who pro­feſle Rom. 2\. 24. his ſervice.
+
+3\. For the humbling of the ſinner, and for the ſalvation of his ſoule. 1 Cor.
+5\. 5. verſ. 7. 8.
+
+4\. To prevent the infection of others. Heb. 12\. 15.
+
+5\. That by the zeale and holineſſe of the Church, they without may be gayned
+to the Goſpell.
+
+### 1.45.
+
+Qu. How is the Church to walke towards a perſon excommunicated?
+
+A. So as they may make him aſhamed by 2 Theſ. 3\. 6. 11. withdrawing from him
+in all ſpirituall Com­munion, and ciuill familiarity alſo, ſo farre as may be,
+without the violation of any naturall 1 Cor. 5\. 11 or civill bond.
+
+### 1.46.
+
+Q What is to be obſerved for the Chur­ches contribution?
+
+A. That in their publique meeting every 1 Cor. 16\. 1. firſt day of the week,
+they contribute, as God hath proſpered them, to the publique Treaſury, by the
+Deacons to be received and diſtributed, as there is need, to the reliefe of
+the poore, main­tenance Act. 5\. 1. Gal. 6\. 10. Rom. 15\. 26.
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=119633&page=8) of the
+Miniſtery, and other neceſſary uſes of the Church firſt, and after of others
+alſo, as need requireth.
+
+‘And whoſoever will walke according to this rule, peace be upon them, and
+mercy, and upon the Iſrael of God, Galath. 6. 16.’‘1\. CANT. 6, 7, 8. Looke
+not upon me becauſe I am black, becauſe the Sun hath looked upon me: my
+mothers Children were angry with me, they made me the keeper of the
+vine­yards, but mine owne vineyard have I not kept.’‘Tell me (O thou whom my
+ſoule loveth) where thou feedeſt, where thou makeſt thy flock to reſt at
+noone: for why ſhould I be as one that turneth aſide by the flocks of thy
+companions?’‘If thou know not (O thou faireſt amongſt women) go thy way forth
+by the footſteps of the flocke, and feed thy kids beſide the ſhepheards tents.
+Iſa. 60. 12, 13.’‘The Nation and Kingdome that will not ſerve thee, ſhall
+periſh.’‘I will beautify the place of my ſanctuary, and will make the place of
+my feet glorious. Pſal. 27. 4.’‘One thing I asked, &c.’
+
+I. ROBINSON.
+
+[Home](/)
+
+Robinson, John, 1575?-1625.. Date: 1642  
+

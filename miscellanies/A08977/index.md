@@ -1,0 +1,357 @@
+---
+layout: default
+---
+## (unknown project)
+
+# Robin and Kate: or, A bad husband converted by a good wife in a dialogue
+betweene Robin and Kate. To the tune of Blew cap. — Robin and Kate.
+
+## Table of contents
+
+  * 1\. Robin and Kate: or,
+    * 1.2. The ſecond part
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=20016&page=1)
+
+## 1\. Robin and Kate: or,
+
+A bad husband converted by a good wife, in a dialogue betweene Robin and Kate.
+
+To the tune of Blew Cap.
+
+### 1.1.
+
+_[figure]_
+
+_[figure]_
+
+FArre in the North Countrey (as I haue heard tell)
+
+there lines a blithe couple cau'd Robbin and Kate:
+
+This Robbin doth loue nappy liquor ſo well,
+
+that hée'll be at th'Alehouſe both early and late
+
+The wife to her husband
+
+i'th morning doth ſay,
+
+I prethée ſwéet Robin
+
+at home with me ſtay,
+
+Thou waſteſt thy time,
+
+and ſpendeſt thy chinke,
+
+Turne backe agen Robin,
+
+and ga not to drinke
+
+Man.
+
+I prethee ſwéet honey be patient and quiet,
+
+I'me ſure thou want'ſt nothing thats fit for thy ſtate,
+
+Thou lackſt neither money, apparell, nor diet,
+
+if any thou doſt, doe but ſpeake and thou'ſt ha'te:
+
+Thou haſt all the good
+
+that a wife can deſire,
+
+Tha'ſt ſeruants to 'tend thée,
+
+and I pay their hire:
+
+Then for my good-fellowſhip
+
+doe not thou prate,
+
+For I muſt and I will
+
+have my humour ſweet Kate.
+
+Wife.
+
+Tis chiefly thy company that I doe want,
+
+beſides, though we now haue ſufficient to liue,
+
+Yet if thou the Alehoule thus dayly doe haunt,
+
+we may become fitter to take than to giue:
+
+Swéet husband conſider
+
+and take my aduice,
+
+Let not thy companions
+
+thus lewdly intice
+
+Thy heart from thy Kate,
+
+but vpon my words thinke,
+
+Turne back agen Robin,
+
+and ga not to drinke.
+
+Out, out, hold thy twattle and doe not thus preach,
+
+Ile not be ruld by thée whateuer thou ſay,
+
+Séeke not by perſwaſtons my minde to ouer-reach,
+
+for Ile to the Ale-houſe as faſt as I may▪
+
+If thither thou follow,
+
+thou welcome ſhalt be,
+
+So thou wilt be quiet
+
+and pleaſant with me,
+
+Stay here or ga with me,
+
+tis both of a rate,
+
+But I muſt, and I will
+
+have my humour ſweet Kate.
+
+Wife.
+
+Waes me bonny Robin, that ere I was marrids,
+
+vnto ſike a husband that ſéekes my vndoing,
+
+I wou'd with my mother at home I had tarryde,
+
+or thought vpon this when thou firſt cam'ſt a wooing▪
+
+I thinke in my conſcience,
+
+(and I haue cauſe why,)
+
+That thou lou'ſt ſome other,
+
+farre better than I:
+
+Thou hat'ſt to ſtay with me,
+
+then what may I thinke,
+
+Turne back agen Robin
+
+and ga not to drinke.
+
+Man.
+
+Nay now I finde Kate whereabout thy ſhooe wrings,
+
+by this I perceiue that of me thou art iealous,
+
+But I for my part neuer dreame of ſike things,
+
+I ſéek not for wenches, but honeſt good fellowes:
+
+A pipe of Tabacco,
+
+a Pot or a Iugg,
+
+Theſe are the ſwéet honies
+
+that I kiſſe and hugg:
+
+All wenching delights
+
+are with me out of date,
+
+But I muſt and I will
+
+have my humour ſweet Kate.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=20016&page=1)
+
+### 1.2. The ſecond part
+
+To the ſame tune.
+
+_[figure]_
+
+_[figure]_
+
+Wife
+
+I Prethée my ioy doe not take at the worſt
+
+the words that I ſpeake in the heat of affection,
+
+No euill conceit in my boſome is nurſt,
+
+I de haue thee be rul'd by my louing direction:
+
+It thinke thou art honeſt
+
+to me in thy heart,
+
+But company ill
+
+may draw thee apart:
+
+To waſtefull expences
+
+thy minde doe not linke:
+
+Turne back agen Robin,
+
+and ga not to drinke.
+
+Man.
+
+Gude wife be perſwaded, and let me alone,
+
+forall thy vaine prattle will proue but mere folly,
+
+I tell thee my heart will be cold as a ſtone,
+
+if I ſtay at home I ſhall be melancholy
+
+Ile make my ſelfe merry
+
+as long as I'ue ſtore
+
+Tuſh Kate neuer thinke on't
+
+wee'ſt neuer be poore:
+
+Shall I ſtay at home
+
+on thy fancy to waite,
+
+No I muſt and I will
+
+have my humor ſweet Kate.
+
+Wife.
+
+Why Robin when firſt thou didſt marry with me,
+
+thou thoughtſt thy ſelf beſt whē thou  [...]idſt with me lō ­geſt,
+
+How comes the caſe thus to be alter'd with thée,
+
+true loue by much uſage will grow to be ſtrongeſt:
+
+But now thou art weary
+
+of my company,
+
+And canſt not be merry,
+
+I prethée Loue why?
+
+Thou giu'ſt me occaſion
+
+ſtrange matters to thinke,
+
+Turne backe agen Robin,
+
+and ga not to drinck.
+
+Man.
+
+Oh who wou'd be troubled thus with a foole,
+
+I prethée ſwéet-heart take one word for thy learning,
+
+I ſcorne that my wife ouer me ſhould beare rule:
+
+why Kate, doe I ſp [...]nd any thing of thy earning?
+
+I loue thée as well
+
+as I did the firſt day,
+
+And yet when I liſt
+
+I will goe or Ile ſtay,
+
+To be at command
+
+of my wife, I doe hate,
+
+For I muſt and I will,
+
+haue my humor ſweet Kate.
+
+Wife
+
+Alas my deare Lui [...] thou miſtakeſt me much,
+
+I doe not command thee, thats not my intention,
+
+For my humble duty vnto thee is ſuch,
+
+that one word of anger to thée Ile not mention
+
+Examine thy heart,
+
+and thou ſhalt vnderſtand
+
+I giue thee good counſell,
+
+I doe not command:
+
+Then with due diſcretion,
+
+vpon my words thinke,
+
+Turne backe agen Robin,
+
+and ga not to drinke.
+
+Man.
+
+Ah now my ſweet Kate I perceiue very well,
+
+thy words doe procéed from a hearty affection,
+
+Now all my delight in thy boſome▪ ſhall dwell,
+
+Ile euer be orderd by thy direction
+
+My former ill husbandry,
+
+I will repent,
+
+And in thy ſwéet company,
+
+reſt well content:
+
+Strong Liquor no more,
+
+ſhall impaire my eſtate,
+
+Now Ile ſtay at home
+
+with my bonny ſweet Kate.
+
+M. P.
+
+FINIS.
+
+## Appendix A
+
+London Printed for Thomas L [...]
+
+[Home](/)
+
+M. P. (Martin Parker), d. 1656?. Date: 1634  
+

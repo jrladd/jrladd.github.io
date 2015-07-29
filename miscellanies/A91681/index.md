@@ -1,0 +1,186 @@
+---
+layout: default
+---
+## (unknown project)
+
+# The re-resurrection of the Rump: or, Rebellion and tyranny revived
+
+## Table of contents
+
+  * 1\. THE RE-RESURRECTION Of the RUMP: Or, Rebellion and Tyranny revived. The third Edition.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=152708&page=1)
+
+## 1\. THE RE-RESURRECTION Of the RUMP: Or, Rebellion and Tyranny revived. The
+third Edition.
+
+To the Tune of the Blackſmith.
+
+IF none be offended with the Sent,
+
+Though I foul my Mouth, Ile be content,
+
+To ſing of the Rump of a Parliament,
+
+Which no body can deny.
+
+I have ſometimes fed on a Rump in Sowſe,
+
+And a man may imagine the Rump of a Lowſe;
+
+But till now was ne're heard of the Rump of a Houſe,
+
+Which no body can deny.
+
+There's a Rump of Beefe, and the Rump of a Gooſe,
+
+And a Rump whoſe Neck was hang'd in a Nooſe;
+
+But ours is a Rump can play faſt and looſe,
+
+Which no body can deny.
+
+A Rump had Jane Shore, and a Rump Meſſaleen,
+
+And a Rump had Antonyes reſolute Queen;
+
+But ſuch a Rump as ours is, never was ſeen,
+
+Which no body can deny.
+
+Two ſhort years together we Engliſh have ſcarce
+
+Been rid of thy rampant Noſe (Old Mars)
+
+But now thou haſt got a prodigious Arſe,
+
+Which no body can deny.
+
+When the parts of the Body did all fall out,
+
+Some votes it is like did paſs for the Snout;
+
+But that the Rump ſhould be King was never a doubt,
+
+Which no body can deny.
+
+A Cat has a Rump, and a Cat has nine Lives,
+
+Yet when her heads off, her Rump never ſtrives;
+
+But our Rump from the grave hath made two Retrives,
+
+Which no body can deny.
+
+That the Rump may all their Enemies quail,
+
+They'l borrow the Devils Coat of Mayl,
+
+And all to defend their Eſtate in Tayl,
+
+VVhich no body can deny.
+
+But though their Scale now ſeem to be the Upper,
+
+There's no need of the charge of a Thankſgiving ſupper,
+
+For if they be the Rump, the Army's their Crupper,
+
+VVhich no body can deny.
+
+There is a ſaying belongs to the Rump,
+
+Which is good, although it be worn to the Stump,
+
+That on the Buttocks Ile give thee a Thump
+
+VVhich no body can deny.
+
+There's a Proverb in which the Rump claims a part,
+
+Which hath in it more of Sence than of Art,
+
+That for all you can do, I care not a Fart,
+
+VVhich no body can deny.
+
+There's another Proverb gives the Rump for his Creſt,
+
+But Alderman Atkins made it a Jeſt,
+
+That of all kind of Lucks, ſhitten Luck is the beſt,
+
+VVhich no body can deny.
+
+There is another Proverb that never will fail,
+
+That the good the Rump will do when they prevail,
+
+Is to give us a Flop with a Fox-tail,
+
+Which no body can deny.
+
+There is a Saying which is made by no Fools;
+
+I never can hear on't but my Heart it cools,
+
+That the Rump will ſpend all we have in Cloſe Stools
+
+Which no body can deny.
+
+There's an Obſervation wiſe and deep,
+
+Which without an Onion will make me to weep;
+
+That Flyes will blow Maggots in the Rump of a Sheep,
+
+Which no body can deny.
+
+And ſome that can ſee the Wood from the Trees,
+
+Say this Sanctify'd Rump in time we may leeſe;
+
+For the Cooks do challenge the Rumps for their Fees.
+
+Which no body can deny.
+
+When the Rump do ſit we will make it our Moane,
+
+That a reaſon be 'nacted if there be not one,
+
+Why a Fart hath a Tongue, and a Fyeſt hath none?
+
+Which no body can deny.
+
+And whil'ſt within the Walls they Lurk,
+
+To ſatisfy us, will be a good work;
+
+Who hath moſt Religion, the Rump, or the Turk,
+
+Which no body can deny.
+
+A Rump's a Fag-end, like the Baulk of a Furrow,
+
+And is to the whole like the Jayl to the Burrough;
+
+T'is the Bran that is left, when the Meal is run thorough
+
+Which no body can deny.
+
+Conſider the World, the Heav'n is the head on't,
+
+The Earth is the middle, and we men are fed on't;
+
+But Hell is the Rump, and no more can be ſed on't.
+
+VVhich no body can deny.
+
+Flectere ſi nequeunt ſuperos Achaeronta movebunt.
+
+FINIS, In Engliſh, The RVMP.
+
+[Home](/)
+
+Date: 1659  
+

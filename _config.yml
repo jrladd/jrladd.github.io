@@ -6,13 +6,3 @@ lsi: false
 description: Still learning how to read.
 url: http://jrladd.com
 permalink: /:title.html
-collections:
-  - miscellanies
-  miscellanies:
-      output: true
-defaults:
-    - scope:
-        path: ""
-        type: miscellanies
-      values:
-        layout: default

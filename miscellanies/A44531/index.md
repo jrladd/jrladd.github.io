@@ -1,0 +1,8285 @@
+---
+layout: default
+---
+## (unknown project)
+
+# The gentlemans jockey, and approved farrier instructing in the natures,
+causes, and cures of all diseases incident to horses. With an exact and easie
+method of breeding, buying, dieting, and otherwise ordering all sorts of
+horses, as well for common and ordinary use, as the heats and course. With
+divers other curiosities collected by the long practice, experience and pains
+of J.H. Esquire, Matthew Hodson, Mr. Holled, Mr. Willis, Mr\ Robinson, Mr.
+Holden, Thomas Empson, Mr. Roper, Mr. Medcalf, and Nathaniel Shaw. —
+Gentleman's jocky.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=1)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=1)
+
+THE GENTLEMAN'S JOCKEY, AND Approved Farrier: INSTRUCTING In the Natures,
+Cauſes, and Cures of all Diſeaſes incident to HORSES. WITH An Exact and Eaſie
+Method of Breeding, Buying, Dieting, and otherwiſe Ordering all ſorts of
+Horſes, as well for Common and Ordinary USE, as the HEATS and COURSE. With
+divers other Curioſities collected by the long Practiſe, Experience and Pains
+of J. H. Eſquire, Matthew Hodſon, Mr. Holled, Mr. Willis, Mr. Robinſon, Mr.
+Holden, Thomas Empſon, Mr. Roper, Mr. Medcalf, and Nathaniel Shaw.
+
+The Fourth EDITION.
+
+Virg. Georg. L. 3
+
+Tantus amor Laudum, tantae eſt Victoria curae,
+
+Aequum eſt noſcere Equos, atque Johannem Obolum.
+
+LONDON, Printed for Hen. Twyford in Vine-Court Middle-Temple, and Nath. Brook
+at the Angel near the Royal Exchange in Cornhill. 1676.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=2)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=2)
+
+## TO THE READER.
+
+AFter ſo many Eſſays, and ſome of them not of the meaneſt, which have been
+made concerning this point, let it not be thought a preſumption to offer known
+Experiments. For although there have been many great Maſters, who have in many
+points offered their knowledge in publick to the World in this Matter, yet
+have not altogether ſaid ſo much, but that a
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=3) Well-wiſher
+may have liberty to caſt in his Gleanings And though it is ſaid, Facile eſt
+inventis addere, yet ſuch Additions have wrought that high improvement of
+Arts, whereof in this Age the World boaſteth. Eſ­culapius, who by the Ancients
+was Deified for his first Practiſe in Phyſick; yet was after undone by Galen,
+whoſe Works are ſtill famous, even beyond Eſculapius's Name; yet hath later
+Learning queried much in Galen, and Paracelſus not afraid even to Arraign him.
+If theſe in that ſo re­nowned Art of Pharmaceuty have thus varied and amended
+by Practical Expe­riments, why may not this little Manual (as it makes a
+Supplement) be looked upon with an impartial eye: If the Sub­ject of it in
+Practiſe hath been worth the Experimenting by ſuch able hands, it can­not be
+leſs worth thy Reading. And though you expect more then you find, yet I dare
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=3) ſay you ſhall
+find more then you expect. Whoever is a Gentleman, or a Souldier that loves
+his Horſe, will find the Advantage thereof in any Experiment; and the ho­neſt
+Country man, whoſe habitation perhaps may be ſome miles distant from a
+Farrier, having this Book, may at an eaſie charge Cure his own Cattle. Uſe it
+with the ſame Freedom I offer it; And I dare believe you will find no leſs
+Advantage than many Honourable Perſons have done, upon occaſi­on, as theſe
+Medicines and Experiments have been Applyed, and well Approved: and therein
+your ſatisfaction will be an a­mends for all our past Care and Labour.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=4)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=4)
+
+## THE TABLE.
+
+A.
+
+  * AGe, How to know a Horſes Age. 63, ad 67
+  * Anbury, a remedy for it. 103, 270
+  * Apoplexy, or Palſey. 135
+  * Antocow, a diſeaſe in a Horſe, and how cured. 276
+
+B.
+
+  * BRead for a Running Horſe, how and of what to be made: The firſt. 17, 18
+  * The ſecond bread. 27
+  * The laſt bread. 29, ad 34
+  * Botts cured. 62, 63, 84, 230, 282
+  * Back Sinew-ſtrain cured. 72
+  * Blood. To cure piſſing blood. 84, 113, 131, 158, 283
+  * Back, Swelling there, how cured. 85
+  * Breed of Horſes, how to order. 92
+  * Bleeding at Noſe, to ſtop. 110, 235, 238
+  * Burning. To cure a Horſe burnt by a Mare. 113
+  * Bruiſe inward, remedy for it. 149
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=5) Back-ſwancked Horſe, how to remedy. 159
+  * Blow, or other miſchance, cauſing ſwelling about the Head. 162
+  * Brisket ſwelled, how cured. 216
+  * Button-farcey oured. 218
+  * Belly-ach, or Belly-bound. 281
+  * Blood. To ſtop in any part. 288
+  * Blood-ſpavin, &c. 266
+
+C.
+
+  * COld, a Medicine for it. 59, 70, 84. 150, 154, 181, 208, 209
+  * Cut, or hewing on the Legs, cured, 78
+  * Canker in the horſes mouth, how to cure. 83, 111, 223
+  * Colts,
+    * when beſt to wean them. 97
+    * What is the beſt feeding for them. 98, 100
+    * When they may be handled. 101
+  * Cough, old or new, how to cure. 111, 151, 153, 236
+  * Canker in the tongue, a Remedy. 112
+  * Canker in the head.. 160
+  * Cods bruiſed, or bitten, how to cure. 169
+  * Cords, a Diſeaſe, the cure. 220, 271
+  * Cold, either old or new, to cure with ſafety. 236, 237, 241, 242, 275
+  * For a Curb, the Remedy. 244
+  * For the Cough, a good Receipt. 257
+  * Cramp, or Convulſion of Sinews. 274
+  * Colick, how to cure. 281
+  * Colt Evil cured. 283
+  * Canker, in the Noſe: 288
+  * Crick in the Neck. 253
+  * Hurts in the Cronet, Quitterbone or Matlong. 268
+
+D.
+
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=5)DIet, how to diet a Horſe for a match. 7. ad 15
+  * Dung of a Horſe to be obſerved. 49
+  * Directions to uſe Medicines: 170
+  * Diapente, how made. 222
+  * Decoction, what it is. 265
+  * Drugs, to be put into a Gliſter. 266
+  * Dropſie, how to cure. 280
+
+E.
+
+  * EYe, a Water for ſore Eyes or dim ſight. 71
+  * Enterfairing, how to help or hide it. 82
+  * Eye, a ſtroke or bite of the Eye, cured. 84, 146, 147
+  * To take a film from the Eye. 106, 134
+  * Diſeaſes in the Eyes, and their cure. 286
+
+F.
+
+  * FEeding of a horſe to be obſerved. 51
+  * Farcey cured. 79, 83, 107, 114, 136, 137, 212, 215, 217
+  * Founder, Frettize, &c. cured. 79
+  * Flaps in a horſes mouth, how to cure. 103
+  * Fundament, or Mother faln out, the cure of it. 108, 282
+  * Foot, a ſtub or other hurt in the Foot. 109
+  * Falling Evil, how to cure. 111
+  * Founded Horſe, how to cure. 118, 183, 258
+  * For the Cheſt Founder. 124
+  * Fiſtula, how to cure. 128, 251
+  * Feeding Cattle, obſervations concerning the ſame. 145
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=6) Foot-foundring, the Cure. 156
+  * Fever in a Horſe to cure. 232
+  * Falling Evil, the Remedy. 273
+  * Foundring in the Body, how to help. 278
+  * Frictions, for a Horſe. 286
+  * Falling of the Creſt, Mangineſs. 254
+  * Defending of a Horſe from Flies. 277
+
+G.
+
+  * GRound to run on, how to be choſen: 56
+  * For the Glanders, a Medicine. 58, 69, 81, 251, 275
+  * Balls for the ſame. 60
+  * Greaſe fallen into the Legs, how to be cured. 81
+  * Galls between the Legs, how to prevent. 82
+  * Garget, to cure. 129, 157, 158
+  * Gall: To help the overflowing thereof. 158
+  * Griping or Fretting, in a Horſes belly. 229
+  * Glanders, a preparatory drink. 248, 249
+  * The black drink for the Glanders. 250
+  * Gangrene in the Foot, a Remedy for it. 251
+  * A Gliſter for a ſick or ſurfeited Horſe. 261, 267, 268, 269, ad 272
+  * Gliſters, and their uſe. 264, 285
+    * How to be made. 266
+    * When to give it. ibid.
+    * The length of the Gliſter-pipe. 267
+  * Gall diſeaſed. 279
+
+H.
+
+  * HEats: What Heats are neceſſary for a Running Horſe. 15
+  * Horſes hair to be minded. 57
+  * Hudſon's Medicines. 58
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=6) Horſes hoofs to be made tough and ſtrong. 80
+  * Brittle Hoofs cured. 82, 139, 141, 191
+  * Horſes for Hunting, Pleaſure, or Travel. 87, ad 92
+  * How to breed Horſes. 92
+  * How to handle a ſturdy Horſe. 99
+  * Hurle-bone▪ out of joynt, helped. 175
+  * Heat ſudden and great, that the Greaſe is melted. 181
+  * Horſe, to make him thrive. 192
+  * Horſe-ſpice, how made. 223
+  * Head-ach in a Horſe, cured. 273
+  * Hide-bound. 276
+  * Hungry Evil, how cured. 278
+  * Halting by ſtrain, or ſtroke. 259
+  * Hoofs infirmities of all kinds. 265
+
+I.
+
+  * IVes. A Diſeaſe. Remedies for the ſame. 133
+  * Inflammation, how to cure. 169
+  * Impoſthume in the Ear, how to cure. 287
+  * Any other Impoſthume. 288
+  * Itch in the Tail, &c. 257
+  * Interfering, or Shackle-galls. 264
+
+K.
+
+  * KErnels under a Horſes Throat, how to cure. 152, 163
+  * Knobs, old and hard, the Remedy thereof. 165, 274
+  * Knees, broken, ſwelled and hard. 165
+  * Kidneys. Pains therein remedied. 282
+
+L.
+
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=7)LAxativeneſs, or extream Looſneſs, cured. 68, 180
+  * Legs ſwelled, or Gourded, the Remedy for them. 75, 76, 215, 216
+  * Leproſie cured. 79
+  * Lice, how to kill. 109, 139, 148, 276
+  * Lask, or Bloody Flux, to cure. 281
+
+M.
+
+  * MUzzle, the uſe of it for a Horſe. 19, 20
+  * Mange cured. 78, 86, 161, 233
+  * Mules, a Diſeaſe, cured. 82, 113
+  * Mares not good for the Race: 92
+    * When firſt to be cover'd, and how to be order'd then. 93, 94, 95
+    * How to make them fruitful. 95
+    * How to be cured when ready to Fole. 96
+  * Murren, how to cure. 129
+  * Mallender, to cure it. 135, 180, 261
+  * Moulten Horſe, how to cure. 141
+  * Mourning of the Chine, a Remedy for it. 275
+  * Mares. Particular diſeaſes in them, and their reme­dies. 284
+  * Mouth Diſeaſes, Bloody Rifts, Liggs, Lampreys, &c. 252
+
+N.
+
+  * NAvel Gall, how to cure. 113, 140, 163
+  * Night-mare, the remedy for it. 278
+  * Neeſing for a Horſe. 286
+
+O.
+
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=7)OBſervations for Sickneſs and Health in a Horſe. 48
+  * Over-reach, or a tread of the Heel, cured. 84, 188, 262
+  * Over-gorged, Horſe or Cow, how to cure. 130
+
+P.
+
+  * PRivy-parts of a Horſe to be minded. 54
+  * An excellent Purgation for a Horſe. 68
+  * Pearl, Pin, and Web, or any film on a Horſes Eye. 80
+  * Prick in the Foot, how to cure. 115, 189
+  * Peſtilence in a Horſe, how to cure it. 123, 124, 129
+  * Piſs, to make a Horſe piſs. 126, 149, 199
+  * Poll Evil, to cure. 127, 177
+  * Poyſon, for a Horſe or Cow that is poyſoned. 130
+  * A Purge, for peccant humours by ſurfets. 255
+  * A Purge by Graſs in Summer. 261
+  * A general Purge. 262, 263, 264, 285
+  * Planet-ſtruck, how to cure. 273
+  * Palſey, the Remedy. 273
+
+Q.
+
+  * QUitter-bone, how to cure. 117, 245
+
+R.
+
+  * RUnning Horſe, how to order him. 5, 6, 20, 21, 22
+    * How to keep him the ſecond fortnight. 16
+    * How to keep him the third fortnight. 27
+    * The last fortnights keeping. 28
+  * Rules how to buy a Horſe. 34, ad 45
+  * Ringbone, cured. 77, 78, 144. 224
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=8) Rats tails, cured. 82
+  * Rowel, how to put in a French Rowel. 104
+
+S.
+
+  * SCowring, the firſt ſcowring of a Running Horſe. 27
+  * How to Order him after. 24, 25
+  * Sickneſs of a Horſe in general. 46, 47
+  * State of a Horſes Body, which the beſt. 52, 53
+  * Sweating of a Horſe to be obſerved. 56, 57
+  * Strain in the Shoulder, a Remedy. 59
+  * For a Sinew Sprung-horſe. 60
+  * Stone cured. 69
+  * A Scowring for a Horſe. 70, 138, 141, 147
+  * Strain or Swelling a Medicine. 72, 73, 74, 85, 117
+  * Splint and Spavin cured. 77, 78
+  * Scratches, a cure for them. 77, 83, 84, 85, 155, 156, 227
+  * Surbate cured. 79, 115
+  * A Salve for a Sore or Swelling. 80
+  * For the Spleen, a Remedy. 86, 280
+  * Stallion, his diet. 96
+    * How long he will continue. 97
+  * Sore or Swelling, to rot it. 103, 125
+  * Sleeping Evil, cured. 110, 273
+  * Splent, how to take out. 120, 121, 179, 260
+  * Swelling under the Iaws. 125
+  * Staggers, a Remedy for it. 131, 132, 206
+  * Sinew-ſtrain in the Leg. 140, 163, 164, 177
+  * Strangling, the cure of it. 148
+  * Shaw's Receipts. 160
+  * Strain in the Paſtern, Back, or Sinews. 166, 254, 257
+  * Salve of Sope and Brandy, how to be boyled. 166
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=8) Swelling in general, the cure. 167
+  * Shoulder-ſtrain, a Remedy. 172, 175
+  * Stifle in the Stifling-bone. 176
+  * Scrupin, what, and its cure. 179
+  * Stub in the Foot or Heel. 188
+  * Surfet, the cure. 192, 195, 203, 256, 277
+  * Squinzey, or Strangling, the cure. 200
+  * Stumbling, to help it. 222
+  * Spavin, the cure of it. 225, 238
+  * Star, how to make it in the Fore-head of a Horſe. 226
+  * Strangullion, how to remedy it. 228, 283
+  * Suppoſitor for a Houſe. 258, 259, 260, 285
+  * The Strangle cured. 288
+  * Swaying the back. 256
+  * To draw out Stubs or Thorns. 269
+  * Spur-galling. 272
+  * Sinews being cut 273
+
+T.
+
+  * THorn or Nail, to draw out. 102
+  * Tyred Horſe, how to help. 277
+  * Teeth, or Looſe Teeth. 251
+
+V.
+
+  * URine of a Horſe to be obſerved. 50, 51
+  * Vein that ſwells upon blood-letting. 112
+  * Vives, a Diſeaſe, how cure. 200, 287
+  * Vomits, to cauſe a Horſe to vomit. 243
+  * Venome drunken, the cure of it. 285
+  * Venemous wounds, &c. 275
+
+W.
+
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=9)WAter, how and when to be given a Horſe. 55
+  * Wind-gall, and ſtrain in the Shoulder. 74, 263
+  * Wind, a Gliſter for it. 86
+  * Wind-Colick, a Gliſter. 86, 87, 134
+  * Wound, a drier for a green wound. 102
+  * How to lay open a Wound. 103
+  * An oyntment to heal any Wound. 105, 106, 107, 114, 116
+  * To clean any Wound. 109
+  * Wound, a water to cure it. 122
+  * Water Farcion, the cure. 133, 217
+  * New Wound, a Remedy for it. 149, 188
+  * Wind-broken, how to cure. 154
+  * Worms, the cure for them. 235, 260, 282
+  * Pain in the Withers. 255
+  * Wounds in the Feet, &c, 267
+
+Y.
+
+  * YEllows, a Remedy for it. 124, 205, 275
+  * Yard foul and furr'd, to cure the ſame. 191
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=9)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=10)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=11)
+
+## THE Gentlemans IOCKY & Approved FARRIER
+
+_[figure]_
+
+London Printed for H Twyford in Vine court Midle Temple and N Brooke att ye
+Angell in Cornehill 1671
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=12)
+
+[[Page 1]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=12)
+
+## AN INTRODUCTION TO THE READER, OR, A gaining of ſatisfaction to all
+reaſon­able Practiſers, and confuting the wil­ful ſelf-conceited.
+
+I Will not diſpute the ſeveral opinions of men in this Kingdom, touching the
+keeping of the Running Horſe; be­cauſe I know many are idle and frivo­lous,
+ſome uncertain, and a few in the right way: Only in this I would clear one
+Paradox, which is ſtrongly maintained, and infinitely purſued by many of our
+beſt Profeſſours; And that is the limitati­on and length of time, for the
+preparing or making rea­dy of an Horſe for a Match or great Wager.
+
+[[Page 2]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=13)There be
+divers, nay ſome which I know carry the Goddeſs Iſis on their backs, that
+affirm an Horſe, which is exceeding fat, foul, newly taken from graſs ſoile,
+or lofty, liberal, and unbounded feeding, cannot be brought to performance of
+his beſt labour under ſix Moneths, five is too little, and four an act of
+impoſſi­bility; by which they rob their noble Maſters of half a years
+pleaſure, thruſt upon them a tiring charge to make the ſport lothſome, and get
+nothing but a Cloak for ignorance, and a few falſe got Crowns, which melt as
+they are poſſeſſed.
+
+Yet as Heretiques cite Scriptures, ſo theſe find reaſons to defend want of
+knowledge.
+
+As the danger of ſo early exerciſe.
+
+The offence of greaſe too ſuddenly broken.
+
+The moving of evil humours too haſtily, which leads to mortal ſickneſs.
+
+And the moderation or helping of all theſe by a ſlow proceeding, and bringing
+of the Horſe into order by degrees and times, or, as I may say, by an ignorant
+ſufferance.
+
+Theſe reaſons, I know, have the ſhew of a good ground; for the early exerciſe
+is dangerous, but not if free from violence.
+
+To break greaſe too ſuddenly is an offence unſuffer­able; for it puts both the
+Limbs and the life in ha­zard, but not if purged away by Scowrings.
+
+The haſty ſtirring up of humours in Body, where they ſuperabound, and are
+generally diſperſed, and not ſettled, cannot but breed ſickneſs.
+
+But not where diſcretion and judgment evacnateth them in wholſome ſweats and
+moderate ſtirrings.
+
+And for the moderation of all theſe by the tediouſ­neſs of time, as two
+Moneths for the firſt, two Moneths for the ſecond, and as many for the laſt.
+It is like [[Page 3]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=13)
+the covering of a Gangrene in an old man, better to dye than be diſmembred,
+better loſe the prize, than bear the charge: for I dare appeal to any noble
+judgment (whoſe purſe hath Experience in theſe actions,) if ſix Moneths
+preparation, and the depen­dances belonging to it, and his perſon, do not
+devour up an hundred pound wager.
+
+But you will demand of me, What limitation of time I will allow for this
+purpoſe of preparation? And I anſwer, that two Moneths time is ſufficient at
+any time of the year whatſoever; and he that cannot do it in two Moneths,
+ſhall never do it in fif­teen.
+
+But reply they, No Scowring is to be allowed; for they are Phyſical, then
+unnatural; they force na­ture, and ſo hurt nature; they make ſickneſs, and ſo
+impair health: Becauſe nature worketh every thing her ſelf, and though ſhe be
+longer, yet ſhe hath leſs danger.
+
+I confeſſ that ſlibberſauce ſcowrings, which are ſtuft up with poyſonous
+Ingredients, cannot chooſe but bring forth Infirmity; but wholſome ſcowrings
+that are compoſed of beneficial and nouriſhing Simples, nei­ther occaſion
+ſickneſs, nor any manner of infirmity, but bring away greaſe▪ and all manner
+of foulneſs in that kind, that one week ſhall effect and cleanſe a­way more
+than two Moneths of delat [...]ry and doubtful forbearance.
+
+Becauſe no man in this lingring courſe can cer­tainly tell which way the
+greaſe and other foulneſs will avoid: as whether into his Ordure, which is the
+ſafeſt; into ſweat, which is hazardous; into his limbs, which is miſchievous;
+or remain and putrifie in his body, which is mortally dangerous; ſince the
+iſſue of all theſe falleth out according to the ſtrength and [[Page
+4]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=14) eſtate of the
+Horſes body, and the diligence of the keeper; and if either the one fall in
+power or the o­ther in care, farwell Horſe for that year; all this nevy cannot
+chooſe but confeſs, only they have but one broken Crutch to ſupport them,
+which is, they know no ſcowring, therefore they will allow of no ſcowring.
+Againſt Barbariſm I will not diſpute, on­ly I appeal to art and diſcretion,
+whether purga­tion or ſufferance (when nature is offended) be the better
+doers.
+
+To conclude, Two Moneths I allow for preparation, and according to that time,
+I have laid directions. My humble ſuit is, out of a ſincere opinion to truth
+and juſtice, ſo to allow or diſallow, to refrain or imitate.
+
+## Table of contents
+
+  * TO THE READER.
+  * THE TABLE.
+  * THE Gentlemans IOCKY & Approved FARRIER
+  * AN INTRODUCTION TO THE READER, OR, A gaining of ſatisfaction to all reaſonable Practiſers, and confuting the wilful ſelf-conceited.
+  * 1\. OF THE RUNNING HORSE, And divers other Choice Secrets Not formerly publiſhed.
+    * 1.1. The firſt ordering of the Running Horſe, according to the ſeveral eſtates of their Bodies.
+    * 1.2. How to diet an Horſe for a Match, that is fat, foul, and either newly taken from Graſs or Soil, being the firſt Fortnight.
+    * 1.3. Now touching his heats, you are to take to your ſelf theſe four Conſiderations.
+    * 1.4. The ſecond Fortnight's keeping.
+    * 1.5. The firſt Bread.
+    * 1.6. The firſt Scowring.
+    * 1.7. The Ordering of the Horſe after this Scowring.
+    * 1.8. The third Fortnights keeping.
+    * 1.9. The ſecond Bread.
+    * 1.10. The Fourth and Laſt Fortnights keeping.
+    * 1.11. The laſt Bread.
+    * 1.12. General Obſervations, Helps and advertiſements, for any man when he goeth about to buy an Horſe.
+    * 1.13. Certain Infallible Helps and Cures for thoſe Infirmities which are moſt dangerous, and do commonly attend all Horſes; eſpecially the Runing Horſe.
+      * 1.13.1. Firſt of Sickneſs in general.
+      * 1.13.2. Certain neceſſary Obſervatins and Advantages for every Keeper to obſerve in ſundry accidents.
+      * 1.13.3. Obſervations for ſickneſs and health.
+      * 1.13.4. Obſervations from the Dung
+      * 1.13.5. Obſervations from the Urine.
+      * 1.13.6. Obſervations in Feeding.
+      * 1.13.7. Obſervations in Caſe of Lameneſs.
+      * 1.13.8. Obſervations from the ſtate of the Horſes Body.
+      * 1.13.9. Obſervations from the Privy Parts.
+      * 1.13.10. Obſervations from the Limbs.
+      * 1.13.11. Obſervations for the giving of Water
+      * 1.13.12. Obſervations in the choice of Ground to Run on
+      * 1.13.13. Obſervations from Sweating.
+      * 1.13.14. Obſervations from the Horſes Hair.
+  * 2\. MATTHEW HODSON'S Medicines.
+    * 2.1. A Medicine for the Glanders.
+    * 2.2. A Medicine for any Cold that is not the Glanders.
+    * 2.3. For a Strain in the Shoulder
+    * 2.4. A Cure for a Sinew-Sprung Horſe.
+    * 2.5. The true manner of making thoſe Balls, which Cure any violent Cold or Glanders, which prevent heavy Sickneſs, which purge away all molten greaſe, which recover a looſe ſtomack, which keep the heart from fainting with exerciſe, and make a lean Horſe fat ſuddenly.
+    * 2.6. An approved Cure for the Botts, and all manner of Worms, of what nature ſoever.
+    * 2.7. Another moſt excellent Receipt for the Botts or any Worms, which is moſt eaſie and moſt certain without ſickneſs.
+    * 2.8. An uncontrollable way how to know the Age of any Horſe.
+      * 2.8.1. Firſt
+      * 2.8.2. Second.
+      * 2.8.3. Third.
+      * 2.8.4. Fourth.
+      * 2.8.5. Fifth
+      * 2.8.6. Sixth
+      * 2.8.7. Seventh.
+    * 2.9. An Excellent Purgation, when any Horſe is ſick of his Greaſe, or any Coſtiveneſs.
+    * 2.10. For Laxativeneſs or extream Looſeneſs.
+    * 2.11. An Infallible help for the Stone, or pain of Urine, cauſing Sickneſs.
+    * 2.12. An approved Medicine to cure and break any old grevious, feſtred and rotten Cold, and to dry up a foul running Glanders.
+    * 2.13. Another for a Violent Cold.
+    * 2.14. An excellent Scowring, when other Scowrings will not work.
+    * 2.15. An admirable Water for any ſore Eye, or to clear any dim ſight, as the Moon-eyes and the like.
+    * 2.16. Another Water, no leſs precious for the Eyes then the former.
+    * 2.17. The Maſter Medicine of all Medicines, for a Back Sinew-Strain, or any grief, pain, ſtraightneſs, ſhrinking, or numneſs of joynts or ſinews.
+    * 2.18. St. Antayne his only Excellent Medicine, for any Strain or Swelling.
+    * 2.19. Another for any deſperate old Strain, whether it be in the Shoulder, Joynts, Hips, or Back-ſinews.
+    * 2.20. An Excellent Charge for any New Strain, or offence on the Sinews, or any grief proceeding from heat.
+    * 2.21. A perfect Cure for any Sinew-Strain,
+    * 2.22. Markham's own Balm, which hath never failed him, for any Strain in the Shoulder, or other part, hidden or apparent; Or any Wind-gall, Pain or Swelling whatſoever.
+    * 2.23. For ſwell'd or Gourded-Legs, whether it be by reaſon of the Greaſe falling into them, or other accident, as Scratches, Pains, Mules, &c.
+    * 2.24. Another approved Cure for the Scratches, or any Diſeaſe of that nature.
+    * 2.25. For any Splint, Spaven, Ringbone, Curb, or any other hard Knot or Excreſſion.
+    * 2.26. An approved Cure for the Swift Cut, or any hewing on the Legs whatſoever.
+    * 2.27. For any Farcy, Mangy, Scab, or Leproſie, whether in the Mane or otherwiſe.
+    * 2.28. For any Founder, Frettize, Surbait, or any imperfection in the Feet.
+    * 2.29. To make Hoofs grow quickly; and to be tough and ſtrong.
+    * 2.30. A general Salve for any Sore or Swelling.
+    * 2.31. For a Pearl, Pin, and Web, or any Film on an Horſes Eye.
+    * 2.32. For Greaſe fallen into the Legs to help them at twice dreſſing, and to help the Scratches.
+    * 2.33. For the Glanders, an approved Cure.
+    * 2.34. To ſtay the Glanders for a time, till you may make ſale of your Horſe.
+    * 2.35. An approved Cure for the Pains, Mules, Rats-tails, and the like.
+    * 2.36. To help an Horſe that galls between the Legs, either through heat or evil dreſſing.
+    * 2.37. For Enterfairing, to help it or hide it, for a ſmall time.
+    * 2.38. The beſt Receipt that can be for brittle Hoofs.
+    * 2.39. To cure the Scratches
+    * 2.40. For the Farcy.
+    * 2.41. For to cure the Cankers in a Horſes mouth.
+    * 2.42. An approved Cure for the Pains, Mules, Rats-tails, and the like.
+    * 2.43. To help an Horſe that galls between the Legs, either through heat or evil dreſſing.
+    * 2.44. For Enterfairing, to help it or hide it, for a ſmall time.
+    * 2.45. The beſt Receipt that can be for brittle Hoofs.
+    * 2.46. To cure the Scratches
+    * 2.47. For the Farcy.
+    * 2.48. For to cure the Cankers in a Horſes mouth.
+    * 2.49. For to cure the Scratches.
+    * 2.50. For a Horſe that hath a Cold.
+    * 2.51. For a Beaſt that ſtaleth Blood.
+    * 2.52. For the Botts.
+    * 2.53. For a Horſe that hath got an Over-reach, or a Tread of the Heel.
+    * 2.54. For a Horſe that hath got a ſtroke, or a bite of the Eye
+    * 2.55. For the Scratches.
+    * 2.56. For the ſwelling of a Horſes Back.
+    * 2.57. For a ſtrain
+    * 2.58. For a Horſe that is mangy.
+    * 2.59. For the Spleen.
+    * 2.60. A Gliſter to expel the Wind.
+    * 2.61. A Gliſter for the Wind-Colick.
+    * 2.62. For the Wind Colick.
+  * 3\. How to order, feed, and keep any Horſe for Pleaſure, Hunting, or Travel.
+  * 4\. An Order how to breed Horſes.
+    * 4.1. The choice of your Stallion and Studd Mares.
+    * 4.2. Wild Mares be not beſt to keep for the Race.
+    * 4.3. At what age your Mare is firſt to be handled and covered.
+    * 4.4. How to inforce your Mares to come to be ſtrained.
+    * 4.5. The Order of covering.
+    * 4.6. How to uſe your Mare which is covered.
+    * 4.7. How to make that no mare ſhall go barren.
+    * 4.8. What time of the year is beſt for your Mares to be covered.
+    * 4.9. To Dyet your Stand for the time he ſhall cover.
+    * 4.10. How your breeding Mare is to be uſed when ſhe ſhall foal.
+    * 4.11. How many years a Horſe will ſerve to cover your Mares.
+    * 4.12. The beſt age for Horſe or Mare to get or bear Colts, and how many years they will continue good
+    * 4.13. What time of the year is beſt to wean the Colts from their Dams,
+    * 4.14. What feeding is beſt for Colts, from two years old upward.
+    * 4.15. Why Engliſh Horſes being taken up ſo young, are not good.
+    * 4.16. The way to handle a ſturdy Horſe.
+    * 4.17. The uſing of Horſes after they be handled.
+    * 4.18. What feeding is beſt in Winter for Mares, Weanlings, of two years old.
+    * 4.19. At what age Colts may beſt be handled.
+  * 5\. Approved Receipts, For the Curing of all Diſeaſes Incident to HORSES.
+    * 5.1. Receipt. I. To draw out any Thorn or Nayl, in any place.
+    * 5.2. II. A perfect Drier of a Green Wound, or any other Sore.
+    * 5.3. III. For any Anbury.
+    * 5.4. IV. For the Flapps in an Horſes mouth.
+    * 5.5. V. To rot a Sore or Swelling.
+    * 5.6. VI. Directions how to lay a Wound open, and where; and how to miſs the Veins under it, be it in Body or Legs.
+    * 5.7. VII. The way to put in a French Rowel.
+    * 5.8. VIII. A rare Green Oyntment to heal any Wound, old or new, quickly
+    * 5.9. IX. To take a Film off an Horſes Eye.
+    * 5.10. X. A Medicine to defend and keep back humors from a Wound, ſo that it may heal the ſooner.
+    * 5.11. XI. Another for the ſame.
+    * 5.12. XII. A rare Receipt for a Farcion.
+    * 5.13. XIII. For a Horſe that hath his Fundament fallen out; or for a Cow that hath the Mother fallen out.
+    * 5.14. XIV. To kill Lice of horſes and Cows.
+    * 5.15. XV. For a Stub or other hurt in or about the Foot.
+    * 5.16. XVI. To Cleanſe any Wound old or new.
+    * 5.17. XVII. For the Sleeping Evil.
+    * 5.18. XVIII. To ſtop bleeding at the Noſe.
+    * 5.19. XIX. For the Falling Evil in an Horſe.
+    * 5.20. XX. For a Cough old or new, or the heaving of his Lungs.
+    * 5.21. XXI. For a Canker in the Tongue.
+    * 5.22. XXII. For a Vein that ſwells upon letting Blood
+    * 5.23. XXIII. For a Navel Gall,
+    * 5.24. XXIV. For a horſe that piſſes Blood.
+    * 5.25. XXV. For the Mules.
+    * 5.26. XXVI. For a Horſe burnt with a Mare.
+    * 5.27. XXVII. A precious Oyntment that will cure any Wound, old or new.
+    * 5.28. XXVIII. For a Farcyon.
+    * 5.29. XXIX. For Solebatted with going without Shooes.
+    * 5.30. XXX. For Pricking in the Foot.
+    * 5.31. XXXI. An Oyntment to skin or heal any Wound or hurt
+    * 5.32. XXXII. To take down any Swelling being new, whether it be broke or not broke.
+    * 5.33. XXXIII. For a Quitterbone, though far gone and hard to cure.
+    * 5.34. XXXIV. For a Foundred Horſe.
+    * 5.35. XXXV. For a Splent.
+    * 5.36. XXXVI. For a through great Splent.
+    * 5.37. XXXVII. For a Splent great or ſmall, an excellent one.
+    * 5.38. XXXVIII. A Water to cure any old Wound, or green, in Man or Beaſt.
+    * 5.39. XXXIX. A Receipt to cure a Horſe Peſtilence.
+      * 5.39.1. Another Receipt for a Febula, or Horſe-Peſtilence.
+    * 5.40. XL. For the Yellows.
+    * 5.41. XLI. For a Cheſt-Founder.
+    * 5.42. XLII. For a ſwelling under the Jaws, when a Horſe hath the ſtrangling.
+    * 5.43. XLIII. For a Sore.
+    * 5.44. XLIV. To make a Horſe piſs, that is troubled with the Wind-Colick, or Obſtruction in the Bladder.
+    * 5.45. XLV. To cure a Poll Evil, which grows upon the top of the Head.
+    * 5.46. XLVII. For a Fiſtula.
+    * 5.47. XLVII. For the Plague, Peſtilence, Garget, or Murrain, in Horſe or Beaſt only.
+    * 5.48. XLVIII. For a Horſe or Cow that is poyſoned by licking of Venome, or is over-gorged with Clover-graſs, or Turnips, by greedy feeding.
+    * 5.49. XLIX. For a Horſe or Cow that maketh Redwater.
+    * 5.50. L. For the mad Staggers.
+    * 5.51. LI. For the Water Farcion.
+    * 5.52. LII. For the Ives.
+    * 5.53. LIII. For the Wind-Colick.
+    * 5.54. LIV. For a Film in an Horſes Eye.
+    * 5.55. LV. To cure a Mallender.
+    * 5.56. LVI. For an Apoplexy, or Palſey.
+    * 5.57. LVII. For a Fareine that lyes all over the Body of a Horſe.
+    * 5.58. LVIII. For a Farcion only in the Neck or Head of a Horſe.
+    * 5.59. LIX. A rare Medicine to make an Horſe ſcour that is Hide-bound, that is Moulten, that does not thrive nor fill: and to lay his Coat if it ſtand right up.
+    * 5.60. LX. To ſtop a thin Scouring in Cow or Bullock, or any other Creature.
+    * 5.61. LXI. To kill Lice in Cattel.
+    * 5.62. LXII. To make Hoofs that are brittle grow quickly, and to make them firm and ſtrong.
+    * 5.63. LXIII. To heal a Navil-Gall, Sore-back, or a Set-faſt.
+    * 5.64. LXIV. For a Sinew-ſtrain in the Fore or After-Leg.
+    * 5.65. LXV. A Scouring Drink.
+    * 5.66. LXVI. For Brittle Hoofs.
+    * 5.67. LXVII. For a Horſe that is Moulten, and breaks out.
+    * 5.68. LXVIII. A Scouring Drink to cleanſe his Kidneys if they be pained.
+    * 5.69. LXIX. For a fleſhy Knot that is moving from the place where it grows.
+    * 5.70. LXX. For a Cow that hath a Garget in her Dug or Udder.
+    * 5.71. LXXI. For a Ring-bone.
+    * 5.72. LXXII. Another for the ſame.
+    * 5.73. LXXIII. Obſervations concerning the ordering of Cattle, as Cowes, &c. in the time of feeding, when there is great fulneſs of Graſs: As in the Months of May, June, and July.
+    * 5.74. LXXIV. For a Bite, Blow, or Film in the Eye.
+    * 5.75. LXXV. A precious Oyntment for an Horſes Eye, either for Bite, Blow, or Film.
+    * 5.76. LXXVI. A gallant Scouring to make a Beaſt thrive, Winter or Summer.
+    * 5.77. LXXVII.
+    * 5.78. LXXVIII. For a Strangling in the Spring.
+    * 5.79. LXXIX. To kill Lice in Horſes or Cows.
+    * 5.80. LXXX. To make a Horſe Stale or Piſs.
+    * 5.81. LXXXI. For an inward Bruiſe with any Fume or Stub.
+    * 5.82. LXXXII. For a Horſe that hath rent his fleſh about the Belly or elſewhere, or for any new wound.
+    * 5.83. LXXXIII. For an old Cold with a Cough.
+    * 5.84. LXXXIV. For a ſtrangling in the Guts: the Cough of the Lungs: For clearing the Pipes, and giving much breath.
+    * 5.85. LXV. To waſte the Kernels under the Horſes Throat, cheaply and ſuddenly.
+    * 5.86. LXXX. For a Cough of the Lungs.
+    * 5.87. LXXXVII. For a Broken-winded Horſe.
+    * 5.88. LXXXVIII. For a Cold in a Beaſt, either in Winter or Summer.
+    * 5.89. LXXXIX. For the Scratches.
+    * 5.90. XC. For the Scratches.
+    * 5.91. XCI. Another for the ſame.
+    * 5.92. XCII. For Foot-foundring.
+    * 5.93. XCIII. For the Garget in the Throat of a Cow.
+    * 5.94. XCIV. Another for a Garget at the Root of the Tongue of a Cow.
+    * 5.95. XCV. For the Garget in the Guts of a Cow, or Bullock.
+    * 5.96. XCVI. For the over-flowing of the Gall, in a Cow or Bullock.
+    * 5.97. XCVII. For a Horſe or Cow that makes Redwater.
+    * 5.98. XCVIII. For a Horſe that is Back-ſwanckt, or for a Strain in the Kidneys, being over-burthened in the Hinder▪part, or in Race-running, or by being over-ſtrained in the Back.
+    * 5.99. C. For a Canker in the Head.
+    * 5.100. CI. For a dry ſcurvy Mange, although it be from the Head to the Tayl, of Horſe, Cow, Dog, or any thing elſe.
+    * 5.101. CII. For a blow or any other miſchance, which cauſeth a ſwelling about the Head, Face, Jaws or Chaps.
+    * 5.102. CIII. For a Navil-Gall.
+    * 5.103. CIV. For hard Kernels under the Throat.
+    * 5.104. CV. For a New Sinew ſtrain.
+    * 5.105. CVI. For an old Sinew-ſtrain that is ſwelled and hard, on Fore or After-legs.
+    * 5.106. CVII. For any old, hard, and cruſhy Knobs, or Swellings, that have been a long time, let them be never ſo hard. Do thus,
+    * 5.107. CVIII. For old broken Knees much ſwelled and hard, that have been long healed up.
+    * 5.108. CIX. For a Strain in the Paſtern, Back, or Sinews.
+    * 5.109. CX. How to boyl the Charge of Sope and Brandy to a Salve.
+    * 5.110. CXI. For a Swelling that comes by reaſon of Wind or Cold getting into the Wound, how to take it away, whether it be in the Head or any part of the Body.
+    * 5.111. CXII. For a hot Inflammation or ſoft Swelling▪ that is new done, whether broken or not broken.
+    * 5.112. CXIII. For a Bruiſe or Bite upon the Cods of an Horſe, that cauſe them to ſwell much.
+    * 5.113. CXIV. To keep in your Medicine, and keep out the Wind.
+    * 5.114. CXV. Directions.
+    * 5.115. CXVI. For a Shoulder-ſtrain.
+    * 5.116. CXVII. For an old Strain in the Shoulder.
+    * 5.117. CXVIII For the Hurle bone out of Joynt, or a little miſcarried.
+    * 5.118. CXIX. For a ſtifle in the Stifling-bone.
+    * 5.119. CXX. A ſpeedy Cure for a Sinew-ſtrain, old or new.
+    * 5.120. CXXI. For a Poll-Evil in the Head of an Horſe.
+    * 5.121. CXXII. For a through Splent on both ſides of the Leg, by ſome called a Great Bone-S•rupin.
+    * 5.122. CXXIII. For a Mallender.
+    * 5.123. CXXIV. For a looſeneſs in the Body of any Beaſt.
+    * 5.124. CXXV. For a Cold in Summer, or when a Horſe doth not fill.
+    * 5.125. CXXVI. For a ſudden great heat, as in Hunting, Racing, or hard Riding, that the Horſes Greaſe is melted.
+    * 5.126. CXXVII. For a Foundred Horſe.
+    * 5.127. CXXVIII. For a Back ſwanckt in the Fillet of the Loin: or for a Wrench in the Back-bone, about the Navel place: or for a ſtrain in the Kidneys, by being over-burthened in the Hinder-parts, or over-ſtrained in the Kidneys in Race-running.
+    * 5.128. CXXIX. For a new Wound made with a Stake, or ſuch like thing, Stub or Fork.
+    * 5.129. CXXX. For a Stub in the Foot or Heel: For an over-reach with the Toe of the Afterfoot, upon the Heel of the Fore-foot: A Tread or Cut above the Hair, or when a Stone hath cut a Horſes Leg.
+    * 5.130. CXXXI. For a Horſe that is prickt in the ſhooing, and afterwards feſtred.
+    * 5.131. CXXXII. For a Horſe that is prickt with a long Channel Nail.
+    * 5.132. CXXXIII. For a Brittle Hoof.
+    * 5.133. CXXXIV. For an Horſes Yard, foul and furr'd without, ſo that he piſſes in the Cod.
+    * 5.134. CXXXV. When a Horſe doth not thrive, and when his Coat ſtands ſtaring and doth not lye ſmooth: For an inward dry Surfet, that cauſeth the Cods to ſwell, ſometimes continually, and ſometimes betwixt times. When the Greaſe is melted, and afterwards ſet and dried in his Body, and his Legs ſometimes ſwelled. For an Horſe that is Gaunt and will not fill, or is Gut-foundred, when he is Coſtive in Body and Dungs ſmall. To procure a Stomack. The following Directions are admirable good for all theſe following Diſtempers.
+    * 5.135. CXXXVI. For a moiſt, hot, running Surfet, that falls out of his Body into his Fore-legs, and ſometimes into his After-legs, and ſometimes into all four.
+    * 5.136. CXXXVII. To make a Horſe Stale free, and conſtantly.
+    * 5.137. CXXXVIII. To cure the Vives under the roots of the Ears.
+    * 5.138. CXXXIX. For the Squinſey, or Strangling, or Cold that breaks out at the Noſe, and hath run a year.
+    * 5.139. CXL. For a Horſe that hath a dry Surfet in his Body, and falls away in his Fleſh: That hath a weak Cough, and is in a Conſumption.
+    * 5.140. CXLI. For the Yellows.
+    * 5.141. CXLII. For the Staggers.
+    * 5.142. CXLIII. For a cold newly taken.
+    * 5.143. CXLIV. For an old Cold, which cauſeth the Horſe to run ſometimes at one Noſtril, and ſometimes at both, and hath done for a year together, and is knotted with Kernels under his Throat between his Jaws.
+    * 5.144. CXLV. For a Canker in the Mouth.
+    * 5.145. CXLVI. To cure a Foul, Rank, Pocky Farcion, which runs all over an Horſe, or in any particular part of his Body.
+    * 5.146. CXLVII. For a Farcey in the Head.
+    * 5.147. CXLVIII. For a ſwelling in the Fore-legs, or After-legs.
+    * 5.148. CXLIX. For a Swelling in the Brisket, below the Cheſt.
+    * 5.149. CL. For a Swelling with a Blow upon the Cheſt or any other part.
+    * 5.150. CLI. For a Farcey that is broken out in the Legs.
+    * 5.151. CLII. For a Water-Farcey.
+    * 5.152. CLIII. For a Button-Farcey.
+    * 5.153. CLIV. To cure the Cords; which is when an Horſe can neither lift up his Head to the Rack, nor put his Head to the Ground, no not to his Knees.
+    * 5.154. CLV. For a Stumbling Horſe.
+    * 5.155. DLVI. How to make Diapente.
+    * 5.156. CLVII. How to make Horſe-ſpice.
+    * 5.157. CLVIII. To Cure a Ring-bone.
+    * 5.158. CLIX. For a Spavin as big as an Egg.
+    * 5.159. CLX. To make a Star in an Horſes Fore-head.
+    * 5.160. CLXI. For the Pains or Scratches, or rotten broken Cuts, putrified Sinews, this Receipt will cure in a wonderful manner.
+    * 5.161. CLXII. For the Strangullion in an Horſe.
+    * 5.162. CLXIII. For Fretting or Griping in an Horſes Belly.
+    * 5.163. CLXIV. To kill Botts or Worms.
+    * 5.164. CLXV. For a Fever in a Horſe.
+    * 5.165. CLXVI. For a dry inward Mange.
+    * 5.166. CLXVII. To ſtop bleeding at the Noſe, or in the Mouth, where the Fleam or Knife hath cut a great Gaſh: Or when you have cut the Vein in a Quitter-bone, and it bleed that you know not how to ſtop it.
+    * 5.167. CLXVIII. For a Cold new or old, or a Cough wet or dry.
+    * 5.168. CLXIX. For a young Horſe that hath taken a new Cold.
+    * 5.169. CLXX. For a new taken Cold with a Coughing?
+    * 5.170. CLXXI. For the Botts.
+    * 5.171. CLXXII. For a Blood-Spavin.
+    * 5.172. CLXXIII. For an old Cold.
+    * 5.173. CLXXIV. For a Cold with a violent Cough.
+    * 5.174. CLXXV. A rare Receipt to cauſe an Horſe to vomit.
+    * 5.175. CLXXVI. For a Curb.
+    * 5.176. CLXXVII. For a Quitterbone, Old or New.
+    * 5.177. CLXXVIII. A Preparation before you give the Black Drink for the Glanders, in the next following Receipt.
+    * 5.178. CLXXIX. The Black drink for the Glanders.
+    * 5.179. CLXXX. To cure the Glanders running at the Noſe: Alſo all Colds, and Rheums.
+    * 5.180. CLXXXI. For a Fiſtula or Gangrene in the Foot, by reaſon of ſome Channel-Nail, which hath lain long and deep in the Foot, that breaks out above the Hoof, and cauſeth the ſole of the foot to come out, and cauſeth the Leg and Paſtern to ſwell very much.
+    * 5.181. CLXXXII. For a ſtrain in the Coffin joynt, or a Sive-bone in the Socket of the Hoof.
+    * 5.182. CLXXXIII. A Purge for filthy Slime, and to carry away the peccant Humours, which Surfets have ingendred in the Body.
+    * 5.183. CLXXXIV. For an Horſe that is ſick and ſurfeited of Colds, whether in Winter or in Summer.
+    * 5.184. CLXXXV. For a ſtrain in the Paſtern of an Horſe.
+    * 5.185. CLXXXVI. For an Horſe-Cough.
+    * 5.186. CLXXXVII. A ſuppoſitory to ſupple the Guts, to diſſolve and ſend forth all dry and hot Excrements.
+    * 5.187. CLXXXVIII. Another Suppoſitory to be given, that you dare not without peril of his life, give him any thing elſe inwardly: Then give him this.
+    * 5.188. CLXXXIX. A Suppoſitory to purge Flegm.
+    * 5.189. CXC. A Suppoſitory to purge Choler.
+    * 5.190. CXCI. A Suppoſitory to purge Melancholy.
+    * 5.191. CXCII. Another Suppoſitory.
+    * 5.192. CXCIII. Directions for Suppoſitories.
+    * 5.193. CXCIV. To kill Worms.
+    * 5.194. CXCV. To purge by Graſs in Summer.
+    * 5.195. CXCVI. A Gliſter for a Sick, ſurfeited, Diſeaſed Horſe.
+    * 5.196. CXCVII. A Purge.
+    * 5.197. CXCVIII. Another Purge.
+    * 5.198. CXCIX. Another Purge.
+    * 5.199. CC. Of Gliſters and their uſe
+    * 5.200. CCII. What a Decoction is.
+    * 5.201. CCII. What quantity òf Broth or Decoction is put in to make a Gliſter.
+    * 5.202. CCIII. For the quantity of Drugs put into a Gliſter.
+    * 5.203. CCIV. What time is fit for an Horſe to keep his Gliſter.
+    * 5.204. CCV. The length of the Gliſter-pipe.
+    * 5.205. CCVI. A Gliſter for a Horſe that is bound in his body and cannot dung.
+    * 5.206. CCVI. For another Gliſter
+    * 5.207. CCVIII. A Gliſter reſtringent to ſtop looſneſs.
+    * 5.208. CCIX. A Gliſter for a fat foul-bodied Horſe, that is newly taken from Graſs, or for any ſick, ſurfeited, diſeaſed Horſe.
+    * 5.209. CCX. A Gliſter for Melancholy.
+    * 5.210. CCXI. A Gliſter to be given in caſe of a deſperate Sickneſs: It helpeth Fevers: is good againſt the Peſtilence and all languiſhing Diſeaſes, moſt excellent againſt Surfeits either by Provender or otherwiſe: And will give great ſtrength in ſhort time, if it be rightly made and carefully given.
+    * 5.211. CCXII. A Gliſter for the Peſtilence and all Fevers.
+    * 5.212. CCXIII. A Lenitive Gliſter.
+    * 5.213. CCXIV. A Gliſter for the Collick or any Sickneſs or Gripings in the Gutts or Belly.
+    * 5.214. CCXV. Of Sickneſs in Horſes.
+    * 5.215. CCXVI. Of the Head-ach, Frenzy or Staggers.
+    * 5.216. CCXVII. Of the Sleeping evil.
+    * 5.217. CCXVIII. Of the Falling Evil, Planet-ſtruck, Night-Mare, or Palſey.
+    * 5.218. CCXIX. Of the general Cramp, or Convulſion of Sinews.
+    * 5.219. CCXX. For any Cold or Cough whatſoever, wet or dry, or for any Conſumption or Putrefaction of the Lungs whatſoever.
+    * 5.220. CCXXI. Of the Running Glanders, or mourning of the Chine.
+    * 5.221. CCXXII. Of Hide-bound or Conſumption of the Fleſh.
+    * 5.222. CCXXIII. Of the Breaſt-pain or any other ſickneſs proceeding from the heart, as the Antocow and ſuch like.
+    * 5.223. CCXXIV. Of Tired Horſes.
+    * 5.224. CCXXV. Of Diſeaſes in the Stomack, as Surfeits, lothing of Meat or Drink.
+    * 5.225. CCXXVI. Of foundring in the Body.
+    * 5.226. CCXXVII. Of the Hungry Evil.
+    * 5.227. CCXXVIII. Of the Diſeaſes of the Liver, as Inflammations, Obſtructions, and conſumptions.
+    * 5.228. CCXXIX. Of the Diſeaſes of the Gall, and ſpecially of the Yellows.
+    * 5.229. CCXXX. Another for the ſame.
+    * 5.230. CCXXXI. Of the Sickneſs of the Spleen.
+    * 5.231. CCXXXII. Of the Dropſie, or evil Habit of the Body.
+    * 5.232. CCXXXIII. Of the Collick, Belly-ach, or Belly-bound.
+    * 5.233. CCXXXIV. Of the Lask or Bloody-Flux.
+    * 5.234. CCXXXV. Of the falling out of the Fundament.
+    * 5.235. CCXXXVI. Of Bots and Worms of all ſorts.
+    * 5.236. CCXXXVII. Of pain in the Kidneys; pain to Piſs, or the Stone.
+    * 5.237. CCXXXVIII. Of Piſſing of Blood.
+    * 5.238. CCXXXIX Of the Strangullion.
+    * 5.239. CCXL. Of the Colt-Evil, Muttering of the Yard, Falling of the Yard ſhedding of the Seed.
+    * 5.240. CCXLI. Of the particular Diſeaſes in Mares, as Barrenneſs, Conſumption, rage of Love, caſting Foles, hardneſs to Fole: and how to make a Mare caſt her Fole.
+    * 5.241. CCXLII. Of drinking Venom, as Horſe-Leaches, Hens-Dung, &c.
+    * 5.242. CCXLIII. Of Suppoſitories, Gliſters, and Purgations.
+    * 5.243. CCXLIV Of Neeſings and Frections.
+    * 5.244. CCXLV. Of the Diſeaſes, in the Eyes, as wátery Eyes, Blood-ſhotten Eyes, Dim Eyes, Moon Eyes, Strokes on the Eyes, Warts in the Eyes, Inflammation in the Eyes, Pearl, Pin, Web, or Haw in the Eye.
+    * 5.245. CCXLVI. Of the Impoſtume in the Ear, Poll-Evil, Fiſtula, Swelling after Blood-letting, any Galled Back, Canker in the Withers, Setfaſt, Wens, Navel-Gall, or any hollow Ulcer.
+    * 5.246. CCXLVII. Of the Vives.
+    * 5.247. CCXLVIII. Of the ſtrangle, or any Boyl or Botch, or other Impoſtume whatſoever.
+    * 5.248. CCXLIX. Of the Canker in the Noſe, or any other part of the Body.
+    * 5.249. CCL. Of Stanching of Blood, whether it be at the Noſe, or proceeding from any Wound.
+    * 5.250. CCLI. Of Pain in the Teeth, or looſe Teeth.
+    * 5.251. CCLII. Of Diſeaſes in the mouth, as blood-Rifts, Liggs, Lampras, Camery, Inflammaytion, Tongue burnt, or the Barbes.
+    * 5.252. CCLIII. Of the Crick in the Neck.
+    * 5.253. CCLIV. Of the falling of the Creſt, Mangineſs in the Mane, or the ſhedding of the Hair.
+    * 5.254. CCLV. Of pain in the Withers.
+    * 5.255. CCLVI. Of Swaying the Back, or weakneſs in the Back.
+    * 5.256. CCLVII. Of the Itch in the Tail. or the general Scab or Mangineſs; or of the Farcy.
+    * 5.257. CCLVIII. Of Foundring in the Feet.
+    * 5.258. CCLIX. Of any Halting which cometh by Strain or Stroke, either before or behind, from the Shoulder or Hip down to the Hoof.
+    * 5.259. CCLX. Of the Splent, Curb, bone bone-Spavin, or any Knob, or bony Excreſſion, or Ring-bone.
+    * 5.260. CCLXI. Of the Mallander, Selander, Pains, Scratches, Mellet, Mules, Crown Scabs, and ſuch like.
+    * 5.261. CCLXII. Of any Upper Attaint, or Nether-Attaint, or any hurt by Over-reaching.
+    * 5.262. CCLXIII. Of Wind-Gauls.
+    * 5.263. CCLXIV. Of interfering or Shackle-gauls, or any Gaulings.
+    * 5.264. CCLXV. Of the Infirmities of Hoofs, as falſe Quarters, Looſe Hoofs, and Hoof-bound, Hoof-running, Hoof brittle, Hoof hurt, Hoof ſoft, Hoof hard, or generally to preſerve Hoofs.
+    * 5.265. CCLXVI. Of the Blood Spavin, or Hough bony, or any other unnatural Swelling; from what cauſe ſoever it proceedeth.
+    * 5.266. CCLXVII. Of Wounds in the Feet, as Gravelling, Pricking, Fig, Retrait, or Cloying.
+    * 5.267. CCLXVIII. Hurts on the Cornet, as the Quitterbone or Matlong.
+    * 5.268. CCLXIX. To draw out a Stub or Thorn.
+    * 5.269. CCLXX. Of the Anbury, or Tetter.
+    * 5.270. CCLXXI. Of the Gords or String-halt.
+    * 5.271. CCLXXII. Of Spur-galling, and fretting the Skin and Hair.
+    * 5.272. CCLXXIII. Of Sinews being cut.
+    * 5.273. CCLXXIV. Of Knots in the Joynts.
+    * 5.274. CCLXXV. Of Venemous Wounds, or bitings with a Mad Dog, Tuſhes of a Boar, Serpents, or ſuch like.
+    * 5.275. CCLXXVI. Of Lice or Nits.
+    * 5.276. CCLXXVII. Of defending an Horſe from Flies.
+    * 5.277. CCLXXVIII. Of broken Bones, or Bones out of Joynt.
+    * 5.278. CCLXXIX. A moſt famous Receipt, to make an Horſe that is lean, and full of inward ſickneſs, ſound and fat in fourteen daies.
+  * Appendix A Books, Printed and Sold by Henry Twyford,
+  * Appendix B Books Printed for, and Sold by Nathaniel Brook, at the Angel in Cornhil near the Royal Exchange.
+
+[[Page 5]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=14)
+
+## 1\. OF THE RUNNING HORSE, And divers other Choice Secrets Not formerly
+publiſhed.
+
+### 1.1. The firſt ordering of the Running Horſe, accor­ding to the ſeveral
+eſtates of their Bodies.
+
+WHen a Horſe is matched (or to be matched) for a runing Courſe, you are
+principally to regard the eſtate of the Body, in which the Horſe is at the
+time of his matching, and this eſtate of body I divide into three ſeveral
+kinds.
+
+  * 1\. The firſt is, if he be very fat, foul, and either newly taken from graſs or ſoil.
+  * [[Page 6]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=15)2, The ſecond, if he be extreme lean and poor, either through over-riding, diſorder, or other in firmity.
+  * 3\. The third, if he be in a good and well liking eſtate, having had good uſage and mode­rate exerciſe.
+
+If your Horſe be in the firſt eſtate of his bo­dy, you ſhall take longer time
+for matching, keeping, and bringing into order, as two Moneths at the leaſt,
+or more, as you can con­clude your wager.
+
+If your Horſe be in the ſecond eſtate of Body, that is, very poor, then you
+ſhall alſo take as long time as you may, yet you need not ſo much as in the
+former, both becauſe greaſe cannot much offend, and exerciſe may go hand in
+hand with feeding.
+
+If your Horſe be in the third eſtate of Body, (which is a mean betwixt the
+other extremes) thena Moneth or ſix weeks may be time ſuffici­ent to diet him
+for his Match.
+
+Now as you regard theſe general eſtates of bodies; ſo you muſt have an eye to
+certain par­ticular eſtates of bodies: as if a Horſe be fat and foul, yet of
+free and ſpending nature, apt quickly to conſume and loſe his fleſh; this
+Horſe muſt not haue ſo ſtrict an hand, neither can he endure ſo violent
+excerciſe, as he that is of a hard diſpoſition, and will feed and be far upon
+all meats and all exerciſes.
+
+Again, if your Horſe be in extreme poverty, through diſorder or miſuſage, yet
+is by nature very hard and apt, both ſoon to recover his fleſh, and long to
+hold it; then over this Horſe you ſhall by no means hold ſo liberal and tender
+[[Page 7]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=15) an hand,
+nor forbear that excerciſe, which otherwiſe you would do to the Horſe, which
+is of a tender nature, a weak ſtomack, and a free ſpirit. Provided always, you
+haue regard to his limbs, the imperfection of his lame­neſs.
+
+Thus you ſee how to look into the Eſtates of Horſes Bodies, and what time to
+take for your matchings.
+
+I will now deſcend to their ſeveral order­ings and dietings, and becauſe in
+the fat Horſe, is contained both the lean Horſe, and the Horſe in reaſonable
+eſtate of Body, I will in him ſhew all the ſecrets and obſervations, which are
+to be imployed in the dieting and ordering of all three, without any omiſſion
+or reſervation whatſoever. For truth, Sir, I have Vowed unto you, and truth I
+will preſent you.
+
+### 1.2. How to diet an Horſe for a Match, that is fat, foul, and either newly
+taken from Graſs or Soil, being the firſt Fortnight.
+
+IF you match an Horſe that is fat and foul ei­ther by runing at Graſs, or
+ſtanding at Soil, or any other means of reſt, or too high keeping, you ſhall
+for the firſt fortnight at leaſt riſe early in the morning before day, or at
+the ſpring of day, according to the time of the year, and having put on his
+Bridle waſht in Beer, and tyed to the Rack, take away the dung and other
+foulneſs of the Stable, then you [[Page
+8]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=16) ſhall dreſs the
+Horſe exceeding well, that is to ſay,
+
+You ſhall firſt curry him all over from the head to the tail, from the top of
+the ſhoulder to the knee, and from the top of the buttock to the hinder
+cambril; then duſt him all over, either with a clean duſting cloth, or with an
+horſes tayl, or ſuch like thing, made faſt to an handle, then curry or rub him
+all over with the French bruſh, beginning with his forehead, temples and
+cheeks, ſo down his neek, ſhoulders, and fore­legs, even to the ſetting on of
+his hoofs, ſo along his ſides, and under his belly; and laſtly, all about his
+buttocks, and hinder legs, even to the ground. Then you ſhall go over all
+thoſe parts which the bruſh hath touched with your wet hand, and not leave, as
+near as you can, one looſe hair about him, nor one wet hair; for what your
+hands did wet, your hands muſt rub dry again: you ſhall alſo with your wet
+hands cleanſe his ſheath, his yard, his ſtones or cods, and his Tuel; and in
+dead not leave any ſecret place uncleanſed, as ears, noſtrils, fore-bowels,
+and between his hinder thighs. Then you ſhall take an haircl-oth, and with it
+rub the Horſe all over in every part, but eſpecially his face, eyes, cheeks,
+between the chops, on the top of his forehead, in the nape of the neck, and
+down his legs, fetlocks, and about his paſterns.
+
+Laſtly, You ſhall take a clean woollen cloth, and with it you ſhall rub the
+Horſe oll over, be­ginning with his head and face, and ſo paſſing through
+every part of the Horſes body or limbs, which hath been before mentioned; then
+take a wet Mane-comb, and come down mane and tail. [[Page
+9]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=16) When this work is
+finiſhed, take a fair large body-cloth, of thick warm houſewives Kerſey▪ (if
+it be in the winter ſeaſon, or of fine corten, or other light ſtuff, if it be
+in the Summer ſea­ſon) and fold it round about the Horſes body; then clap on
+his Saddle, and girt the foremoſt girth pretty ſtrait, and the other girth
+ſome­what ſlack, and wiſp it on each ſide the Horſes heart, that both the
+girths may be of equal ſtraitneſs, then put before his breaſt a warm breaſt-
+cloth, and let it cover both his ſhoul­ders.
+
+When the Horſe is thus accoutred and made ready, you ſhall take a little beer
+into your mouth and ſpirt it into the Horſes mouth, and ſo draw him out of the
+Stable, and take his back, leaving ſome ordinary Groom behind you, to trim up
+your ſtable, to carry forth dung, and ſhake and toſs up your litter. For you
+are to underſtand, and it is a general principle, that your Horſe muſt ſtand
+upon good ſtore of freſh dry Litter continually, both night and day, and it
+muſt ever be of Wheat-ſtraw, if poſſible, or Oat-ſtraw, if forced by
+neceſſity. As for Bar­ley-ſtraw, and Rye-ſtraw, they are both un wholeſome and
+dangerous, the one doth heart­burn, the other cauſeth ſcowring.
+
+When you are thus mounted, you ſhall walk forth your Horſe foot pace, (which
+we call racking) for you muſt neither amble, nor trot, at leaſt a mile or two,
+or more, upon ſmooth and ſound ground, and as near as you can to the ſteepeſt
+hils you can find: there gallop your Horſe very gently up thoſe ſteep hils,
+and rack or walk him ſoftly down, that he may cool as [[Page
+10]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=17) much one way, as
+he warmeth another. And when you have thus exerciſed him a pretty ſpace then
+ſeeing the Sun beginning to riſe, or pret­tily riſen, you ſhall walk your
+Horſe down ei­ther to ſome freſh River, or ſome clear Pond that is fed with a
+ſweet Spring, and there let your Horſe drink at his pleaſure.
+
+After he hath drunk, you ſhall gallop and ex­erciſe him moderately as you did
+before; then walk him a pretty ſpace, and after offer him more water: If he
+drink, then gallop him again; if he refuſe, then gallop him to occaſion
+thirſt; and thus always give him exerciſe both before and after water.
+
+When he hath drunk (as you think ſufficient­ly) then bring him home gently,
+without a wet hair about him: when you are come to the ſta­ble door (before
+which your Groom ſhall throw all his foul litter continually from time to
+time) you ſhall there alight from his back, and by whiſtling ſtretching the
+Horſe upon the ſtraw, and ariſing the ſtraw up under the Horſe, ſee if you can
+make him Piſs, which if at firſt he do not, yet with a little cuſtome he wil
+ſoon be brought unto it, and it is an wholſom action, both for the Horſes
+health, and for the cleanly keeping of the ſtable.
+
+When theſe things are performed, you ſhall then bring the Horſe into his
+ſtall; and firſt tye his head up to the rack in his bridle, then with hard
+wiſps rub all his four legs down with as great ſtrength as you can, then
+unlooſe his breſt­cloth; rub his head, neck, and breaſt, exceeding much with a
+dry cloth: then take of his Saddle, and hang it by; and after take of his
+[[Page 11]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=17) Body-
+cloth; then rub over all the Horſes bo­dy and limbs, eſpecially his back where
+the Sad­dle ſtood; and then clothe him up firſt with alin­nen ſheet, then over
+it a good ſtrong houſing­cloth, and a bove it his woollen body-cloth, which in
+the winter is not amiſs to have lined with ſome thin cotten, or other woollen
+ſtuff, but in the heat of Summer the Kerſey it ſelf is ſufficient.
+
+When you have girt theſe Clothes about him, ſtop his ſurſingle round with
+reaſonable big, ſoft, and thick wiſps; for with them he will lye at beſt eaſe,
+becauſe the ſmall hard wiſps are ever hurtful.
+
+After your Horſe is thus clothed up, you ſhall then pick his feet, and ſtop
+them up with cow-dung, and then throw in to his racka little bundle of hay, ſo
+much as a half-penny bottle in a dear Inn, well duſted, and hard bound up
+together, and this he ſhall tear out as he ſtandeth on his bridle.
+
+After the Horſe hath ſtood on his bridle more than an hour, or an hour and
+half, you ſhall then come to him, and firſt rub his head, face, and the nape
+of his neck with a clean rubber, made of new rough hempen cloth, for this is
+excellent for the head, and dſſolveth all groſs and filthy humours, and then
+you ſhall draw his bridle, and with a very clean cloth make the manger ſo
+clean as may be; and if he hath ſcat­tered any hay therein, you ſhall gather
+it up and throw it back into his rack; then you ſhall take the quantity of a
+quart, or better, of ſweet, dry, old, and clean dreſſed Oats, of which the
+heavieſt and the whiteſt are the beſt, as thoſe which we [[Page
+12]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=18) call the Poland
+Oats, or the cut Oats, for thoſe only are wholeſome, the other which are
+un­ſweet breed infirmity, thoſe which are moiſt cauſe ſwelling in the body,
+thoſe which are new breed worms, and pain in the belly, and they which are
+half dreſſed deceive the ſtomack, and bring the Horſe to ruine. As for
+theblack Oats, though they are tolerable in the time of neceſ­ſity, yet they
+make full dung, and hinder a mans knowledg, in the ſtate of the Horſes body.
+
+This quart of Oats you ſhall put into a Sieve that is ſomewhat leſs than a
+Riddle, and a thought bigger then a Reeing Sieve, ſuch a one as will let a
+light Oat go through, but will keep a ful Oat from ſcattering. In this Sieve
+you ſhall ree, dreſs, and toſs your Oats very much, that there may be neither
+duſt, nor any other foul thing in them: And ſo give them to the Horſe to eat,
+and if he eat them with a good ſtomack, you may then ſift, and give him as
+much more; and ſo let him reſt, till it be near eleven of the clock. Then come
+to the ſtable again, and ha­ving rubbed the Horſes head, neck, and face, you
+ſhall then take another quart or better of Oats, and as before, toſs and ree
+them through your Sieves, and ſo give them the Horſe. Then cloſing up your
+windows and light, that the Horſe may remain ſo dark as is poſſible, leave him
+til one of the clock. And here you are to underſtand that the darker you keep
+your Horſe in your abſence, the better it is, and it will oc­caſion him to
+feed, lye down and take his reſt, where otherwiſe he would not. And therefore
+we commonly uſe to arm the ſtals, where­in
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=18) thoſe Horſes
+ſtand, round about, and aloft, and over the rack, with ſtrong Canvas, both for
+darkneſs, warmth, and that no filth may come near the Horſe.
+
+At one a clock or thereabouts, come to the Horſe again, and ſift and dreſs him
+another quart of Oats, as before ſhewed, and give them him: after you have
+rubbed well his face, head, and nape of the neck, then putting away his dung
+and making the ſtable clean and ſweet, give him a little knob of hay, and ſo
+leave him till four of the clock in the evening, if it be in the Summer; after
+three, if it be in the Winter and ſhort ſeaſon.
+
+At four a clock in the evening come again to the Stable, and having made all
+things clean, then bridle up the Horſe, having wet the ſnaffle with beer, and
+tyed him up to the rack, then take off his clothes and dreſs him in all
+points, and every way as was ſhewed you in the morning. After he is dreſſed,
+then clothe and ſaddle him, as was alſo ſhewed for the morning: then bring him
+forth, and do your beſt to make him piſs and dung upon the foul Litter at the
+ſtable door: then mount his back▪ and ride him forth, as you did in the
+morning, but not to the hils, if poſſible you can find any other plain and
+level ground, as Meadow, Paſture, or any other earth, eſpe­cially if it lye
+along by the River. But in this caſe you can be no chooſer, but muſt take the
+moſt convenient ground you can find, to make a vertue of neceſſity. There air
+your Horſe in all points in the Evening, as you did in the Mor­ning, galloping
+him both before and after his water, then racking him gently up and down,
+[[Page 14]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=19) in your
+raking you muſt obſerve even from the Stable door in all your paſſages,
+eſpecially when you would have your Horſe to empty himſelf, to let him ſmell
+upon every old and new dung you meet with all, for this will make him empty
+his body, and repair his ſtomack.
+
+After you have watered your Horſe, and ſpent the Evening in airing till within
+night, (for nothing is more wholſome or ſooner con­ſumeth foulneſs than early
+and late airings) you ſhall then air him home to the Stable door, there
+alight, and whatſoever you did in the morning either within doors or without,
+do the ſame alſo now at night, and ſo leave the Horſe on his bridle an hour or
+an hour and an half. Then come to him again, and as you did in the fore-noon,
+ſodo now, rub well, draw his bridle, cleanſe the manger, put up his ſcattered
+hay, ſift him a quart and better of oats, and give them him and ſo let him
+reſt till nine of the clock at night.
+
+At nine of the clock at night, which is bedtime both for your Horſe and your
+ſelf, come unto him, and firſt rub down his legs hard with hard wiſps, then
+with a clean cloth rub his face, head, chaps, nape of the neck and fore-parts.
+Then turn up his clothes, and rub over his fillets, but­tocks, and hinder
+parts: then put down his clothes, and ſift him a quart of Oats, and give them
+him. Then put into his Rack a little bundle of hay (as hath been before
+ſhewed) toſs up his Litter and make his bed ſoft, and ſo betake both him and
+your ſelf to your reſts till the next morning.
+
+The next morning (as the morning before) come to the Horſe before day, or at
+the break, [[Page
+15]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=19) according to the
+ſeaſon of the year, and do e­very thing, without the omiſſion of any one
+particular, as hath been formerly declared.
+
+And thus you ſhall keep your Horſe conſtant­ly for the firſt fortnight; in
+which by this double daily exerciſe you ſhall ſo harden his fleſh, and conſume
+his foulneſs, that the next fortnight (if you be a temperate man) you may
+adventure to give him gentle heats.
+
+### 1.3. Now touching his heats, you are to take to your ſelf theſe four
+Conſiderations.
+
+FIrſt, That two heats in the week is a ſuffici­ent proportion for any Horſe of
+what condition or ſtate of body ſoever.
+
+Secondly, That one heat ſhould ever be given upon that day in the week on
+which he is to be run his match. As thus, for Ex­ample.
+
+If your match is to be run upon the Munday, then your fitteſt heating days are
+Mundayes and Fridayes, and the Munday to be ever the ſharper heat; both
+becauſe it is the day of his match, and there is three days reſpite betwixt it
+and the other heat.
+
+If the match-day be on the Tueſday, then the heating days are Tueſdays and
+Satur­days.
+
+If it be on Wedneſday, then the heating dayes are Wedneſdayes and Saturdayes
+by rea­ſon of the Sabbath.
+
+If on the Thurſday, then the heating dayes are Thurſdayes and Mundayes, and ſo
+of the reſt.
+
+[[Page 16]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=20)Thirdly,
+you ſhall give no heat (except in caſe of extremity) in very rainy and foul
+wea­ther; but rather to differ hours, and change times, for it is unwholeſome
+and dangerous. And therefore in caſe of ſhowers and uncertain weather, you
+ſhall be ſure to provide for your Horſe a warm lined hood with linnen ears,
+and the nape of the neck lined to keep out rain, for nothing is more dangerous
+than cold wet falling into the ears, upon the nape of the neck and the
+fillets.
+
+Fourthly and laſtly, Obſerve to give your heats (the weather being ſeaſonable)
+as early in the morning as you can, that is, by the ſpring of the day: but by
+no means in the dark, for it is to the Horſe unwholeſome and unpleaſant, to
+the man a great teſtimony of folly, and to both an act of danger and
+precipitation.
+
+### 1.4. The ſecond Fortnight's keeping.
+
+NOw to deſcend to your ſecond Fortnight's keeping; touching your firſt
+approach to the Stable and all other by-reſpects, as cleanſ­ing, ſhaking up of
+Litter, and the like, you ſhall do all things as in the firſt fortnight. Only
+before you put on his Bridle, you ſhall give him a quart or better, of clean
+ſifted Oats, which as ſoon as he hath eaten, you ſhall then bridle him up, and
+dreſs him in all points, as was de­clared in the firſt fortnight, you ſhall
+clothe him, ſaddle him, air, water, and bring him [[Page
+17]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=20) home in all
+points, as in the firſt fortnight; on­ly you ſhall not put any Hay in his Rack
+to tear out, but only draw with your hand as much fine ſweet Hay (which you
+ſhall toſs and duſt well) as you can well gripe, and let him as he ſtandeth on
+the bridle tear it out of your hand, which if he do greedily and earneſtly,
+then you may give him another and another, and ſo let him ſtand on the bridle
+an hour or more after. Then come to him, and after rubbing and other
+ceremonies, before declared, performed; ſift and duſt up the quantity of a
+quart of Oats, and ſet them by: Then take a loaf of bread, that is at leaſt
+three dayes old, made after this man­ner,
+
+### 1.5. The firſt Bread.
+
+TAke three pecks of clean Beans, and one peck of fine Wheat, and mix them
+toge­ther, and grind it to pure meal.
+
+Then ſearce and bolt through a reaſonable fine range, and knead it up with
+great ſtore of barm and lightning, but with as little water as may be; labour
+it in the Trough with all pain­fulneſs, tread it, break it, and after cover it
+warm, and let it ly a pretty ſpace in the Trough to ſwell: then after knead it
+over again, and mold it up into big Loaves, and ſo bake them well, and let
+them ſoak ſoundly; after they are drawn from the Oven, turn the bottoms upward
+and let them cool.
+
+At three daies old you may adventure to give this bread, but hardly ſooner,
+for nothing doth [[Page
+18]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=21) occaſion
+ſurfeit, or is more dangerous than new bread; yet if neceſſity compel you that
+you muſt ſooner give this bread, or that the bread be danck and clammy, ſo as
+the Horſe taketh diſtaſte thereat, then cut the loaf into thin ſhives, and lay
+it abroad in a Sieve to dry, and then crum­bling it ſmall amongſt his Oats,
+you may give it without danger.
+
+But to return to my purpoſe where I left: when you have taken a loaf of this
+bread of three dayes old, you ſhall chip it very well, then cut it into thin
+ſhives, and break three or four ſhives thereof (which may countervail the
+quan­tity of the Oats) very ſmall, and mix it with the Oats you had before
+ſifted, and ſo give them to the Horſe.
+
+About Eleven of the Clock you ſhall come to the Horſe, and having performed
+your by-Ce­remonies, before ſpoken of, you ſhall give him the ſame quantity of
+bread and Oats as you did in the morning, and ſo let him reſt till the
+after­noon.
+
+At one of the Clock in the afternoon (or af­ter, if you intend not to give him
+an heat the next day) you ſhall feed him with bread and Oats as you did in the
+forenoon, and ſo con­ſequently every meal following for that day, obſerving
+every action and motion, as hath been before declared.
+
+But if you intend the next day to give him an heat (to which I now bend mine
+aim) you ſhall then only give him a quart of ſweet Oats, and as ſoon as they
+are eaten, put on his bridle, and tye up his head, not forgetting all by-
+Ceremo­nies, before declared. Then dreſs him, clothe [[Page
+19]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=21) him, ſaddle him,
+air and water him, as before ſhewed: alſo bring him home, and order him, as
+before ſhewed, only give him no hay at all
+
+After he hath ſtood an hour on the bridle, give him, as before a quart of
+clean ſifted Oats; when he hath eaten them, you ſhall then put on his head a
+ſweet clean waſht muzzle, and ſo let him reſt till nine of the Clock at Night.
+
+Now touching the uſe of the Muzzle; and which is the beſt, you ſhall
+underſtand, that as they are moſt uſeful, being good and rightly made; ſo they
+are dangerous and hurtful, being abuſed or falſly made.
+
+The true uſe of them, is to keep the Horſe from eating up his Litter, from
+gnawing upon Boards and mud-Walls, and indeed to keep him from eating any
+thing, but what he reciveth from your hand.
+
+Theſe muzzles are ſometimes made of leather, and ſtampt full of holes, or elſe
+cloſe, but they are unſavoury and unwholeſome; for if it be allom'd Leather,
+the allom is offenſive; if it be liquor'd, the greaſe and ouze are full as
+unplea­ſant: beſides, they are too cloſe, and too hot, and both make a Horſe
+ſick, cauſe him to forbear reſt, and retain his dung longer in his body, then
+otherwiſe he would do.
+
+The beſt Summer-muzzle, is the Net-muzzle, made of ſtrong packthred, and knit
+exceeding thick, and with ſmall maſhes in the bottom, and ſo enlarged wider
+and wider up to the middle of the Horſes head, and then bound about the top
+with ſtrong tape, upon the near ſide a loop, and on the far ſide a long ſtring
+of tape to be faſtned unto the Horſes head.
+
+[[Page 20]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=22)The beſt
+winter muzzle, is that which is made of ſtrong double Canvas, with a round
+bottom, and a ſquare Lattis window of ſmall tape, before both his noſtrils,
+down to the very bottom of the Muzzle; this muſt alſo have a loop and a ſtring
+to faſten it about the Horſes head.
+
+At nine of the Clock at night coming to the Horſe again, after your by-
+Ceremonies, before taught, are performed, give him a quart of clean ſifted
+Oats; and as ſoon as he hath eaten them, put on his muzzle, toſs up his
+Litter, and leave him to his reſt.
+
+The next day early in the morning before day, come to the horſe (if he be
+ſtanding on his feet) but if he be laid, by no no means diſturb him.
+
+Now whilſt he is lying, or if he be ſtanding, take a quart of clean Oats well
+ſifted, and rub between your hands, and waſh them in a little ſtrong Ale or
+beer, and let them not be too moiſt for fear of offence, and ſo give them to
+the Horſe.
+
+As ſoon as he hath eaten them, bridle him up, and hang by his muzzle in ſome
+ſweet place, then unclothe him, and dreſs him, as hath been before ſhewed;
+after put on his body-cloth, and breaſt­cloth, and Saddle him: then being
+ready to go forth with him, take his Bridle-rein and draw it over the top of
+the rack, ſo as you may draw his head aloft. Then take a new laid Egg, waſht
+clean, and breaking it in his mouth make him to ſwallow it down, then waſh his
+tongue and mouth with a little beer, and ſo lead him forth of the ſtable.
+
+At the door ſee if he will piſs or dung, then take his back and rack him
+gently to the Courſe, [[Page
+21]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=22) ever and anon
+making him ſmell upon other Horſes dung, whereby he may empty himſelf the
+better.
+
+When you are come within a mile or there­abouts, of the ſtarting Poſt, you
+ſhall alight from the Horſes back, and take of his Body-cloth, and Breaſt-
+cloth; and then girt on the Saddle a­gain, then ſending away your Groom both
+with thoſe clothes, and the clean dry rubbing clothes, let him ſtay at the
+laſt end of the race till you come. Then your ſelf rack your Horſe gently up
+to the ſtarting Poſt, and beyond: make your Horſe ſmell to that Poſt, as you
+ſhall alſo do at the firſt Poſt, which we call the weighing Poſt, that he may
+thereby take notice of the beginning and ending of his Courſe. And there ſtart
+your Horſe roundly and ſharply at near a three quar­ters ſpeed, and according
+to his ſtrength of bo­dy, ability of wind, and chearfulneſs of ſpirit, run him
+the whole Courſe through. But by no means do any thing in extremity, and above
+his wind and ſtrength; but when you find him a little yield, then give him a
+little eaſe, ſo that all he doth, may be done with pleaſure, and not with
+anguiſh; for this manner of training will make him take delight in his labour,
+and ſo increaſe it, the contrary will breed diſcomfort, and make exerciſe
+irkſome.
+
+Alſo during the time that you thus courſe your Horſe, you ſhall with all
+carefulneſs note upon what grounds he runneth beſt; as whether upon the hill,
+whether on the ſmooth earth, or on the rough, whether on the wet, or on the
+dry, or whether on the level, or the earth that is ſomewhat riſing, and
+according as you find [[Page
+22]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=23) his nature and
+diſpoſition, ſo maintain him for your own advantage.
+
+When you have thus courſed the courſe over ſtrongly and ſwiftly, and after a
+little ſleightly gallop him up and down the field, to rake his wind and chear
+his ſpirits, you ſhall then (your Groom being ready with your clothes and
+o­ther neceſſaries) ride to ſome warm place, as under the covert of ſome
+hedge, buſhes or trees, into ſome hollow dry ditch, pit, or other de­fence
+from the air, and there alight from his back, and firſt with a graſing knife,
+or ſcraping knife, as ſome call it, made either of ſome broken Sword blade,
+ſome old broken Sythe, or for want of them, a thin piece of old hard Oaken
+wood, faſhioned like a broad long knife with a ſharp edg: And uſing this with
+both your hands, ſcrape off all the ſweat from your horſe in every part of
+him, whereſoever you find any wet: And thus do till you find there will no
+more ſweat ariſe, and ever and a non move and ſtir the Horſe up and down, and
+then with dry clothes rub the Horſe all over exceedingly. Then take off the
+Saddle, and having glaſſed, ſcraped and rubbed his back, put on his body­cloth
+and his breſt-cloth, and then ſet on the Saddle again and girt it; then gallop
+the Horſe gently forth, and again a little ſpace ever and a non rubbing his
+head, neck, and body, as you ſit on his back; then walk him about the Fields
+and Downs to cool him, and when you find that he drieth a pace, then rack him
+gently home­ward, ſometimes racking and ſometimes gallop­ing. But by no means
+bring him to the Stable, till you find he have not one wet hair about him,
+[[Page 23]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=23) when you
+have brought him to the Stable-door dry, there diſmount, and having enticed
+him to piſs and empty himſelf, then lead him into his ſtall, and there tye his
+head gently up to the Rack with his Bridle; which done, pre­ſently, as having
+prepared it before, give the Horſe this Scowring following, and made in this
+manner.
+
+### 1.6. The firſt Scowring.
+
+TAke a Pint of the beſt ſweet Sack, and put thereto better than an ounce of
+the cleareſt, and pureſt Roſin, bruiſed to a very fine duſt, and brew them
+together exceeding much; then when the Sack and it is incorporated toge­ther,
+put thereto half a pint of the beſt Sallet Oyl, and brew them alſo well
+together: then laſtly, take a full Ounce and an half of brown Sugar-Candy
+beaten to Powder, and put it in alſo: then mull alſo upon the fire, and being
+luke-warm, and the Horſe newly come in from his heat, as before I ſhewed you,
+draw his head up to the rack, and with an horn give him this Scowring, for it
+is a ſtrong one, and this taketh away, and avoideth all manner of moulten
+greaſe, and foulneſs whatſoever.
+
+[[Page 24]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=24)
+
+### 1.7. The Ordering of the Horſe after this Scowring.
+
+AS ſoon as you have given the Horſe this Scowring, preſently let your Groom
+fall to rubbing of his Legs, and do your ſelfe take off his Saddle and
+clothes, and finding his Bo­dy dry, run ſlightly over it with your Curry-Comb,
+after with the bruſh. Then duſt well, and laſtly, rub all his body over
+exceedingly well with dry clothes, eſpecially his head, nape of the neck, and
+about his heart; then clothe him up warm, as at his other ordinary times, and
+wiſp him round with great warm wiſps, and if you throw over him a little looſe
+blanket, it will not be amiſs in theſe extra­ordinary times, eſpecially if the
+ſeaſon be cold.
+
+Your Horſe muſt faſt full two hours after the receipt of his Scowring, but yet
+depart not your ſelf, or your Groom out of the Stable, but ſtay and keep the
+Horſe ſtirring and walk­ing, partly by extraordinary noiſe and cla­mour, and
+partly by action about him, or ma­king him move up and down, as he ſtandeth.
+There is nothing more hurtful to the Horſe, or working of the Medicine, than
+ſleep, ſtilneſs, and reſt, and nothing better or more available to the working
+of the Medicine, than action and motion, for they make the ſpirits lively, and
+ſtir up thoſe humours which ſhould be removed, when reſt keeps the ſpirits
+dull, and the hu­mours ſo incloſed and reſerved, that nature hath nothing to
+work upon.
+
+[[Page 25]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=24)After your
+horſe hath faſted upon his bridle two hours, or more, then you ſhall take an
+handful of Wheat-ears, being your pollard, that is, without rough beards, and
+coming to the Horſe, firſt handle the roots of his ears, then put your hands
+under his clothes againſt his heart, upon his Fillets, Flanks, and on the
+neather part of his Thighs, and if you find any new ſweat to ariſe, or any
+coldneſs of ſweat, or if you ſee his body beat, or his breath move faſt, then
+forbear to give him any thing, for it is a pregnant ſign, that there is much
+foulneſs ſtir­red up, on which the Medicine working with a conquering quality,
+the Horſe is brought to a little heart-ſickneſs. Therefore in this caſe you
+ſhall only take off his bridle, and put on his Col­lar, then toſs up his
+litter that he may lye down, and then abſent your ſelf (having made the Stable
+dark and ſtill) for two hours more at the leaſt, which is the utmoſt end of
+that ſickneſs:
+
+But if you find no ſuch offence, then you ſhall proffer him the ears of wheat
+by three or four together, and if he eat this handful, then give him another.
+
+After he hath eaten the Wheat-ears, you ſhall then give him a little bundle of
+Hay, ſuch as hath been before declared, and draw his Bridle, rubbing his head
+well.
+
+An hour or better after he hath had his Hay, you ſhall ſift him a quart of the
+beſt Oats, and to them you ſhall put two or three handfuls of ſpelted Beans,
+which you ſhall cauſe to be reed and dreſſed, ſo clean as poſſible, from all
+man­ner of huls, duſt, and filth whatſoever, ſo as there may be nothing but
+the clean ſpelted [[Page
+26]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=25) Beans
+themſelves. To theſe Oats and beans you ſhall break two or three good thick
+ſhives of bread, clean chipt, and give all unto the Horſe, and ſo leave him to
+his reſt for near three hours or there abouts.
+
+At evening, before you dreſs your horſe, give him the like quantity of Oats,
+ſpelted beans and bread, and when he hath eaten them, then bridle him up and
+dreſs him, as before ſhewed; after he is dreſt, clothe him up, for you ſhall
+neither ſaddle him, nor ride him forth; for you ſhall underſtand that this
+evening after his heat, the Horſe being inwardly foul, and the Scow­ring yet
+working in his body, he may not re­ceive any water at all.
+
+After the Horſe is dreſt, and hath ſtood an hour and half upon his bridle, you
+ſhall then take three pints of clean ſifted Oats, and waſh them in ſtrong Ale
+or beer, and ſo give them to the Horſe; for this will inwardly cool and
+refreſh him, as if he had drunk water.
+
+After he hath eaten all his waſht meat, and reſted upon it a little ſpace, you
+ſhall then at his feeding times, which have been ſpoken of before, with Oats
+and ſpelt beans, or Oats and bread, or all together, or each ſeveral and
+ſimple of it ſelf (as you ſhall find the ſtomack of the Horſe beſt addicted to
+receive it) feed him that night in plentiful manner, and leave a Know of hay
+in the Rack when you go to your bed.
+
+The next day, very early as may be; firſt feed, then dreſs, after clothe,
+ſaddle, then air him abroad, and water him, as hathe been before ſhewed: after
+bring him home and feed him [[Page
+27]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=25) with Oats, ſpelt
+Beans, and Bread, as was laſt of all declared; only very little hay, and keep
+your heating dayes, and the preparation the day before, in ſuch wiſe as hath
+been alſo formerly declared, without any omiſſion or addition. Thus you ſhall
+ſpend the ſecond Fortnight, in which your Horſe having received four heats
+ſoundly given unto him, and four Scowrings, there is no doubt but his body
+will be inwardly clean: you ſhall then the third Fortnight or­der him
+according to theſe Rules which here­after follow.
+
+### 1.8. The third Fortnights keeping.
+
+THe third Fortnight you ſhall make his Bread finer than it was formerly. As
+thus.
+
+### 1.9. The ſecond Bread.
+
+YOu ſhall take two pecks of clean Beans, and two pecks of fine Wheat, grind
+them on the black ſtones, ſearce them through a fine range, and knead it up
+with barm, and great ſtore of Lightning; working it in all points, and baking
+it in the ſame ſort as was ſhewed you in the former Bread.
+
+With this Bread, having the Cruſt cut clean away, and being old (as was before
+ſhewed) with clean ſifted Oats, and with clean dreſt ſpelt beans, [[Page
+28]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=26) you ſhall feed
+your Horſe this Fortnight, as you did in the Fortnight before, you ſhall
+ob­ſerve his dreſſing, airing, and hours of feeding, as in the former
+Fortnight; alſo you ſhall ob­ſerve his heating dayes, and the day before his
+heat, as in the former Fortnight, only with theſe differences.
+
+Firſt, you ſhall not give his heats ſo violently as before, but with a little
+more pleaſure; that is to ſay, if the firſt heat be of force and violence, the
+ſecond heat ſhall be of pleaſure and eaſe, and indeed none at all to
+overſtrain the Horſe, or to make his body ſore.
+
+Next, you ſhall not after his heats, when he cometh home, give him any more of
+the former Scowring, but inſtead thereof, you ſhall in­ſtantly upon the end of
+your heat, after the Horſe is a little cool'd, and clothed up, and in the ſame
+place where you rub him, by draw­ing his head up aloft as you ſit in the
+Saddle, or raiſing it up otherwiſe, give him a Ball ſome­what bigger then a
+French Wall-nut, hull and all, of that confection, which is mentioned be­fore,
+of the true manner of making of Cor­dial Bals.
+
+### 1.10. The Fourth and Laſt Fortnights keeping.
+
+NOw to return again to my purpoſe, having thus ſpent the three laſt
+Fortnights, you ſhall the fourth and laſt Fortnight make [[Page
+29]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=26) your Horſes
+bread much finer than either of the former.
+
+### 1.11. The laſt Bread.
+
+TAke three pecks of fine Wheat, and put one peck of clean Beans, grind them to
+powder on the black ſtones, and bolt them through the fineſt Bolter you can
+get; then knead it up with very ſweet Ale-barm, and new ſtrong Ale, and the
+barm beaten together, and alſo the Whites of at leaſt twenty Eggs, in any wiſe
+no water at all, but inſtead thereof ſome ſmall quantity of new milk. Then
+work it up, and labour it with all painfulneſs that may be, as was ſhewed in
+the firſt Bread; then bake it and order it, as was declared in the other.
+
+With this Bread (having the cruſt cut clean away, and with Oats well ſunned,
+beaten, and rubbed over with your hands, then new win­nowed and ſifted, and
+moſt finely dreſt, that there may be neither light ones, nor foul ones, nor
+any falſe grain amongſt them; and with the pureſt ſpelted Beans that can be
+tried out) feed your Horſe at his ordinary feeding times, in ſuch wiſe as you
+did in the Fortnight laſt mentioned before.
+
+You ſhall keep his heating dayes the firſt week of this laſt Fortnight, in
+ſuch wiſe as you did in the former Fortnight: but the laſt week you ſhall
+forbear one heat, and not give him any [[Page
+30]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=27) heat five dayes
+before his Match at the leaſt, only you ſhall give him long and ſtrong Air­ing
+to keept him in wind▪
+
+You ſhall not need this Fortnight to give him any Scowring at all.
+
+If this Fortnight, Morning and Evening, you burn upon a Chafingdiſh and coals
+in your Stable of the pureſt Olibanum or Frackincenſe mixt with Storax and
+Benjamina, to perfume and ſweeten the room, you ſhall find it exceed­ing
+wholeſome for the horſe, and he will take delight therein.
+
+In this Fortnight, when you give your horſe any waſht meat, waſh it not in Ale
+or beer, but in the Whites of Eggs or Muskadine, for that is more wholeſom and
+leſs pur­ſy.
+
+This Fortnight give your horſe no hay at all, but what he taketh out of your
+hand after his heats, and that muſt be in little quantity, and clean duſted
+and dreſt, unleſs he be an exceed­ing evil feeder, and marvellous tender, and
+a great belly-looſer.
+
+The laſt week of this Fortnight, if your horſe be a foul feeder, you muſt uſe
+the Muzzle con­tinually, but if he be a clean feeder and will touch no litter,
+then three dayes before your Match is a convenient time for the uſe of the
+Muzzle.
+
+The morning the day before your Match, feed well both before and after Airing,
+and Water, as at other times, before noon and after noon, ſcant his proportion
+of meat a little.
+
+Before and after Evening Airing, feed as at [[Page
+31]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=27) noon, and water
+as at other times, but be ſure to come home before Sunſet.
+
+This day you ſhall cool the horſe, ſhoe the horſe, and do all extraordinary
+things of Or­nament about him: Provided there be nothing to give him offence,
+or to hinder him in feed­ing, or any other material or beneficial action: for
+I have heard ſome horſemen ſay, that when they had ſhoed their horſe with
+light ſhoes, and done other actions of Ornament about them, the night before
+the courſe, that their horſe hath taken ſuch eſpecial notice thereof, that
+they have refuſed both to eat and lye down. But you muſt underſtand that thoſe
+horſes muſt be old, and long experienced in this exerciſe, or they can­not
+reach at theſe ſubtile apprehenſions: for my part, touching the nice and
+ſtrait platting up of horſes tails in the manner of Sakers or Docks (which is
+now in general uſe) howſoever the ornament may appear great to the Eye, yet I
+do not much affect it, becauſe I know, if an ignorant hand have the
+workmanſhip thereof, he may many wayes give offence to the horſe, and in
+avoiding cumberſomneſs breed a great deale of more cumber; therefore I wiſh
+every one rather to avoid curioſity, which they call neceſſary Ornament, than
+by thoſe falſe graces to do injury to the horſe.
+
+Now for the neceſſary and indifferent things which are to be done unto the
+horſe▪ I would rather have them done the day before, than on the morning of
+the Courſe, becauſe I would have the horſe that morning to find no trouble or
+vexation.
+
+The next morning which is the Ma [...]ch-day, [[Page
+32]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=28) come to your
+horſe before day, take off his muz­zle, rub his head well, and give him a
+pretty quan­tity of Oats maſht in Muskadine, if he will eat them, or elſe in
+the Whites of Eggs; or if he refuſe both, then try him with fine dreſt Oats
+dry and mixt with a little Wheat, or with your lighteſt Bread: as for Beans
+forbear them, of any of theſe foods give him ſuch a quantity as may keep life
+and ſoul together: then if he be a Horſe that is an evil emptier, and will
+re­retain meat long, you may walk him abroad, and in the places where he uſed
+to empty, there en­tice him to empty, which as ſoon as he hath done, bring him
+home, put on his Muzzle, and let him reſt, till you have warning to make ready
+and lead forth: but if he be a good and free emptying Horſe, then you need not
+ſtir him, but let him lye quiet.
+
+When you have warning to prepare for lead­ing out, then come to your Horſe,
+and having waſhed his ſnaffle in a little Muskadine, take off his Muzzle and
+bridle him up: But before you bridle, if you think the Horſe too empty, you
+may give him three or four mouthfuls of the waſht meat laſt ſpoken of, then
+bridle up, then dreſs: after having pitcht your Saddle and Girths with
+Shoemakers wax, ſet it on his back, and girt it as gently as may be, ſo as he
+may have a feeling but no ſtraitneſs. Then lay a very white ſheet over the
+Saddle next his skin, and over it his ordinary clothes, then his body­cloth
+and breaſt-cloth, and wiſp them round about with ſoft wiſps: then if you have
+a coun­terpane or cloth of State for braverie's ſake, let it be faſtened above
+all: when this is done, [[Page
+33]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=28) and you are
+ready to draw out, then take half a pint of the beſt Muskadine, and give it
+him with an Horn, and ſo lead him away.
+
+In all your leadings upon the Courſe, of gentle and calm motions, ſuffering
+the Horſe to ſmell upon every dung, that thereby he may empty himſelf; and in
+ſpecial places of advan­tage, as where you find ruſhes, long graſs, ling, or
+heath, or the like, walk your Horſe, and intice him to piſs: But if you find
+no ſuch help, then in ſpecial places upon the Courſe, and chiefly towards the
+latter end, and having uſed the ſame means before, break ſome of your wiſps
+under the Horſes belly, and ſo make him piſs.
+
+Alſo in your leading, if any white or thick foam or froth ariſe about the
+Horſes mouth, you ſhall with a clean handkerchief wipe it away, carrying a
+small bottle of clear water about you, waſh your Horſes mouth now and then
+therewith.
+
+When you come to the place of ſtarting, be­fore you unclothe the Horſe, rub
+and chafe his Legs with hard wiſps, then pick his feet, and waſh his mouth
+with water, then unclothe him; mount his Rider, Start fair, and then refer all
+the reſt to God's good will and plea­ſure.
+
+[[Page 34]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=29)
+
+### 1.12. General Obſervations, Helps and advertiſe­ments, for any man when he
+goeth about to buy an Horſe.
+
+THere is nothing more difficult or intricate in all the Arts of Horſemanſhip,
+than to ſet down conſtant and uncontrollable Reſolu­tions, by which to bind
+every man's mind to an unity of conſent in the buying of an Horſe: For
+according to the old Adage, That which is one man's meat, is another man's
+poyſon; what one affects another diſlikes. But to proceed accor­ding to the
+Rule of Reaſon, the precepts of the Ancients, and the modern practice of our
+preſent conceived Opinions, I will, as freely as I can, ſhew you thoſe
+Obſervations and Ad­vertiſements, which may ſtrengthen and for­tifie you in
+any hard & difficult Election.
+
+Firſt therefore, you are to obſerve, that if you will elect an Horſe for your
+heart's con­tentment; you are to take to your ſelf this principal
+conſideration: Namely, the end and purpoſe for which you Elect him; as whether
+for the Wars, for▪ Running, Hunting, Travel, Draught, or Burthen; every one
+having their ſeveral Characters, and their ſeveral faces, both of beauty and
+uncomelineſs.
+
+But becauſe there is but one Truth, and one perfection, I will, under the
+deſcription of the perfect Horſe, that is untainted, ſhew all the
+imperfections and attaintures, that either na­ture or miſchance can put upon
+the Horſe of greateſt deformity.
+
+[[Page 35]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=29)Let me
+then adviſe you that intend to buy a Horſe, to acquaint your ſelf well with
+all the true ſhapes and excellencies which belong to an Horſe, whether it be
+in his natural and true proportion, or in any accidental or outward increaſe
+or decreaſe of any Limb or Member; And from their contraries, to gather all
+things whatſoever that may give diſlike or of­fence.
+
+To begin therefore with the firſt Principles of Election, you ſhall
+underſtand, that they are divided into two ſpecial heads: the one general, the
+other particular.
+
+The general Rule of Election, is firſt the end for which you buy, then his
+breed or gene­rations, his colour, his face and his ſtature: and theſe are
+ſaid to be general; becauſe the firſt, which is the end for which you buy, is
+a thing ſhut up onely in your own breaſt.
+
+The other which is his breed, you muſt either take it from faithful report,
+your own know­ledg, or from ſome known and certain Cha­racters, by which one
+ſtrain or one Country is diſtinguiſhed from another: As the Neapo­litan is
+known by his hook▪ Noſe, the Spaniard by his ſmall Limbs, the Barbary by his
+fine Head, the Dutch by his rough Legs. the Engliſh by his general ſtrong
+knitting together, and ſo forth of divers others.
+
+As for his colour, although there is no co­lour exempt utterly from goodneſs,
+for I have ſeen good of all, yet there are ſome better re­puted than others,
+as the Daple gray for beauty th Brown Bay for ſervice, the black ſilver-hair▪
+[[Page 36]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=30) for
+courage, and the Lyard or true mixt Roan for countenance: as for the Sorrel,
+the black without white, and the unchangeable Iron­gray, they are reputed
+cholerick; the bright bay, the flea-bitten, and the black with white marks,
+are Sanguiniſts; the blanke-white, the yellow dun, the kite glew'd, and the
+Pide­bald, are Flegmatick; and the cheſnut, the mouſe­dun, the red▪bay, and
+the blew-gray, are melan­choly.
+
+Now for his Pace, which is either Trot, Amble, Rack, or Gallop, you muſt re
+[...]er it to the end alſo for which you buy; as if it be for the Wars,
+Hunting, Running, or your own private diſpoſition, then the trot is moſt
+to­lerable. And this motion you ſhall know by a croſs moving of the Horſes
+Limbs, as when the far fore-Leg and the near hinder-Leg, or the near fore-Leg
+and the far hinder-Leg, move and go forward in one inſtant. And in this
+motion, the neater the Horſe taketh his Limbs from the ground, the opener, the
+evener, and the ſhorter he treadeth, the better his pace; for to take up his
+feet ſturnly ſhews ſtumbling and lameneſs, to tread narrow or croſs ſhews
+enterfering or falling: to ſtep uneven ſhews toil and wearineſs, to tread long
+ſhews over-reach­ing.
+
+Now if you elect for eaſe, great Perſons Seats or long Travel, then Amble is
+required, and this motion is contrary to trotting, for now both the feet on
+one ſide muſt move equal­ly together, that is, his far fore-Leg, and the far
+hinder-Leg, and this motion muſt go juſt, large, ſmooth and nimble; for to
+tread falſe [[Page
+37]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=30) takes away all
+eaſe, to tread ſhort rids no ground, to tread rough ſhews rolling, and to
+tread nimbly ſhews a falſe pace that never con­tinueth, as alſo lameneſs.
+
+If you elect for Buckhunting, for galloping on the High-way, for Poſt,
+Hackney, or the like then a Racking pace is required, and this motion is the
+ſame that Ambling is, only it is in a ſwifter time and ſhorter tread, and
+though it rid not ſo much ground, yet it is a little more eaſie.
+
+Now to all theſe parts muſt be joyned a gallop (which naturally every Trotting
+and Rac­king Horſe hath) the Ambler is a little unapt thereunto, becauſe the
+motions are both one, ſo that being put to a greater ſwiftneſs of pace, than
+naturally he hath been acquainted withal, he handles his legs confuſedly and
+out of order, but being tamed gently, and made to know and underſtand the
+motion, he will as well undertake it, as any Trotting Horſe what­ſoever. Now
+in a good gallop, you are to ob­ſerve theſe vertues.
+
+Firſt, That the Horſe which taketh his feet nimbly from the ground, but doth
+not raiſe them high, that neither rolleth, nor beats him­ſelf that ſtretcheth
+out his fore-legs, follows nimbly with his hinder, and neither cutteth under
+the knee, (which we call the swift cut) nor croſſeth, nor claps one foot upon
+another, and ever leadeth with his far fore-foot, and not with the near.
+
+This Horſe is ſaid ever to gallop moſt comely, and moſt true, and is the
+fitteſt for ſpeed, or any other like imployment.
+
+[[Page 38]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=31)If he
+gallop round, and raiſe his fore-feet, he is then ſaid to gallop ſtrongly, but
+not ſwiftly, and is fitteſt for the great Saddle, the Wars, and ſtrong
+encounters.
+
+If he gallop ſlow, yet ſure, he will ſerve for the high-way; but if he labour
+his feet confuſedly, and gallop painfully, then he is good for no gal­loping
+ſervice, beſides it ſhews ſome obſcure lameneſs.
+
+Laſtly, touching his ſtature, it muſt be refer­red to your own judgment, and
+the end for which you buy him; ever obſerving, that the biggeſt and ſtrongeſt
+are fitteſt for ſtrong oc­caſions, as great burthens, ſtrong draughts, and
+double carriage, the middle ſize for plea­ſure, and general employments, and
+the leaſt for eaſe, ſtreet-walks, and Summer-Hack­ney.
+
+Now touching the particular Rule of electi­on, it is contained in the
+Diſcovery of natural deformities, accidental, outward or inward hidden
+miſchiefs, which are ſo many, are infi­nite, that it is a world of work to
+explain him; yet for ſatiſfaction ſake, I will, in as methodical manner as I
+can, briefly and accor­ding to the beſt conceited opinions, ſhown or can be
+obſerved in this occaſion.
+
+firſt therefore, When an Horſe is brought unto you to buy, being ſatisfied for
+his breed his pace and colour, then ſee him ſtand naked before you, and
+placing your ſelf before his face, take a ſtrict view of his countenance, and
+the chearfulneſs thereof, for it is an ex­cellent Glaſs wherein to ſee his
+goodneſs; As­thus, If his Ears be ſmall, thin, ſharp, pricked, [[Page
+39]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=31) and moving, and
+if they be long, yet well ſet on, and well carried, it is a mark of beauty,
+goodneſs and metal; but if they be thick▪ laved, or lolling, wide ſet on, and
+unmoving, then are they ſigns of dulneſs, doggedneſs and ill nature.
+
+If his face be clean, his forehead ſwelling outward, the mark or feather in
+his face ſet high; as above his eyes, or at the top of his eyes, if he have a
+white ſtar, or a white rach of an indifferent ſize, and even placed, or a
+white ſnip on his Noſe, all are marks of beauty and goodneſs: but if his face
+be fat▪ cloudy or ſcouling, his fore-head flat as a trencher, which we call
+mare-ſaced, the mark in his forehe ad ſtand low, as under his eyes; if his
+ſtar or Rach ſtand awry or in an evil poſture, or in­ſtead of a ſnip, his Noſe
+be raw and unhairy, or his face generally bald, all are ſigns of deformi­ty;
+if his Eyes be round, bright, black, ſhining, ſtaring, or ſtarting from his
+head; if the black of the Eye fill the pit, or outward circumference, ſo that
+in the moving none (or very little) of the white appeareth, all are ſigns of
+beauty, goodneſs and meral; but if his eyes be uneven and of a wrinkled
+proportion; if they be little (which we call Pig-eyed) both are uncomely ſigns
+of weakneſs: if they be red and fiery, take heed of Moon-eyes, which is the
+next door to blindneſs; if white and walled, it ſhews a weak ſight, and
+unneceſſary ſtarting or finding of boggards; if with white ſpecks, take heed
+of the pearl, pin and web; if they water or ſhew bloudy, it ſhews bruiſes; and
+if they matter, they ſhew old over-riding and [[Page
+40]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=32) feſtred Rheums,
+or violent ſtrains, If they look dead or dull, or all hollow and much ſunk,
+take heed of blindneſs, at the beſt the Beaſt is of an old decrepit
+Generation; if the black fill not the pit, but the white is alwayes appearing,
+or if in moving the white, the black be ſeen in equal quantity, it is a ſign
+of weakneſs and dogged diſpoſition.
+
+If handling of his Cheeks or Chaps, you find the bones lean and thin, the
+ſpace wide between them, the thropple or wind-pipe big as you can gripe, and
+the void place without knots or kernels; and generally, the jaws ſo open, that
+the neck ſeemeth to couch within them, they are all excellent ſigns of great
+wind, courage, and ſoundneſs of head and body; But if the chaps be fat and
+thick, the ſpace between them cloſed up with groſs ſubſtance, and the thropple
+little, all are ſigns of ſhort wind, and much inward foulneſs; if the void
+place be full of knots and kernels, take heed of the ſtrangle or glanders, at
+leaſt the Horſe is not without a foul cold.
+
+If his jaws be ſo ſtrait, that his neck ſwel­leth about them; if it be no more
+but natural, it is only an uncomely ſign of ſtrait wind, and purſineſs, or
+groſsneſs; but if the ſwel­ling be long and cloſe to his chaps like a
+whet­ſtone, then take heed of the Uvies, or ſome other unnatural impoſthume.
+
+If his noſtrils be open, dry, wide and large, ſo as upon any ſtraining the
+very inward redneſs is diſcovered; and if his Muzzle be ſmall, his mouth deep;
+and his lips equally meeting, they are all good ſigns of wind, heat [[Page
+41]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=32) and courage; but
+if his noſtrils be ſtrait, his wind is little; if his Muzzle be groſs, his
+ſpi­rit is dul; if his mouth be ſhallow, he will ne­ver carry a bit well; and
+if his upper lip will not reach his neather, old age or infirmity hath marked
+him for carrion; and if his noſe be moiſt and dropping, if it be clear water
+it is a cold, if foul matter then be ware the glan­ders, if both noſtrils run
+it is hurtful, but if one then moſt dangerous.
+
+Touching his teeth, and their vertues, they are at large ſet down in another
+Chapter touch­ing the Horſes age; only remember you never buy an Horſe that
+wanteth any, for as good loſe all as one.
+
+From his Head look down to his Breaſt, and look that it be broad, out-
+ſwelling, and adorned with many feathers, for that ſhews ſtrength and
+endurance: the little braeſt is un­comely, and ſhews weakneſs; the narrow
+breaſt is apt to ſtumble, fall and enterfere before; and the breaſt that is
+hidden inward, and wanteth the beauty and diviſion of many feathers, ſhews a
+weak-armed heart, and a breaſt that is unwil­ling and unfit for any toyl or
+ſtrong la­bour.
+
+Next look down from his Elbow to his Knee, and ſee that thoſe fore-things be
+ruſh-grown, well horned within, ſinewy fleſh, and with­out ſwelling, for they
+are good ſigns of ſtrength; the contrary ſhews weakneſs▪ and are unnatu­ral.
+
+Then look on his knees, that they carry an equal and even proportion, be
+clean▪ ſinewy, and cloſe knit, for they are good and comely; [[Page
+42]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=33) if one be bigger
+and rounder than another, the Horſe hath received miſchief; if they be groſs,
+the Horſe is gouty; and if they have ſcars or hair broken, it is a true mark
+of a ſtumbling Jade, and a perpetual faller.
+
+From his knees look down his Legs to his Paſterns, and if you find his Legs
+clean, fat, and ſinewy, and the inward bougth of his knee without a ſeam, or
+hair broken, then he ſhews good ſhape and ſoundneſs; but if on the in­ſide,
+there are excreſſions, if under his knee be Scabs on the inſide, it is the
+ſwift cut, and he will ill endure galloping; if above his Pa­ſterns on the
+inſide you find Scabs, it ſhews en­terfering. But if the Scabs be generally
+over his Legs, it is either extreme foul keeping, or a ſpice of the mangy; if
+his Legs be fat, round and fleſhy, he will never endure labour; if on the
+inward bougth of his knee you find ſeams, ſcabs, or hair broken, it ſhews a
+mallander, which is a cankerous ulcer.
+
+Look then on his Paſtern, the firſt muſt be clean and well knit together, the
+other muſt be ſhort, ſtrong, and upright ſtanding, for if the firſt be big or
+ſweld, take keed of the ſinew-ſtrains and gurding; if the other be long, weak,
+or bending, the limbs will hardly carry the Body without tiring.
+
+For the hoofs in general, they would be black, ſmooth, rough, rather a little
+long than round and hollow, and full ſounding, for a white hoof is tender, and
+carries a ſhoe ill; a rough, groſs, ſeamed hoof ſhews old age or over-beating▪
+brittle hoofs will carry no ſhoe, an extraordinary round hoof is ill for foul
+[[Page 43]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=33) wayes or
+deep hunting; a flat hoof that is pum­miſſed ſhews foundering, and an hoof
+that is empty and hollow-ſounding ſhews a decayed inward part, by reaſon of
+ſome wound or dry founder. As for the Crownet of the hoof, if the hair be
+ſmooth and cloſe, and the fleſh fat and even, all is perfect; but if the hair
+be ſtaring the ſkin ſcabbed, the fleſh riſing, then look for a ring-bone, a
+Crown-ſcab, or like miſchief.
+
+After this, ſtand by his ſide, and firſt look to the ſetting on of his head,
+and ſee that it ſtand neither too high nor too low, but in a direct line; and
+that his neck be ſmall at the ſeting on, and long growing deeper and deeper,
+till it come to the ſhoulders, with an high, ſtrong, and thin Creſt; and his
+Mane thin, long, ſoft, and ſomewhat curling, for theſe are beautiful
+Cha­racters; where as to have the head ill ſet on, is the greateſt deformity,
+to have any bigneſs or ſwelling in the nape of the neck, ſhews the pole­evil,
+or begining of a Fiſtula: to have a ſhort thick neck like a Bull, to have it
+falling at the withers, to have a low, a weak, a thick or fal­ling creſt,
+ſhews want both of ſtrength and me­tal, and to have much hair on the Mane
+ſhews intolerable dulneſs, to have it too thin ſhews fury, and to have none,
+or too ſhed, ſhews the worm in the mane, the itch, or elſe mangies
+
+Look then to the chine of his back, that it be broad, even and ſtraight▪ his
+ribs well compaſ­ſed, and bending outward, his fillets upright, ſtrong and
+ſhort, and not above four fingers between his laſt rib and his huckle-bone,
+let [[Page 44]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=34) his
+body be well let down, yet hidden without his ribs, and let his ſtones be
+cloſe truſt up to his body, for all theſe are marks of good per­fection.
+Whereas to have his chine narrow, he will never carry a Saddle without
+wounding; and to have it bending or Saddle-backt, ſhews weakneſs; to have his
+ribs fat, there is no li­berty for wind; to have his fillets hanging long or
+weak he will never climb an hill well, nor carry burthen; and to have his
+belly clung up and gant, or his ſtones hanging down cloſe or ſide, they are
+both ſigns of ſickneſs, tenderneſs, or foundering in the body, and unaptneſs
+for labour. Then look upon his buttock, and ſee that it be round, full, plump
+and in an even level with his body; or if long, that it be well raiſed behind,
+and ſpread forth at the ſetting on of the tail, for theſe are come­ly and
+beautiful: the narrow pin-buttock, the Hog or Swine-rump, and the falling or
+down­let-buttock are full of deformity, and ſhew both an injury in nature, and
+that they are nei­ther fit nor becoming for Pad, Foot-cloth, or Pillow.
+
+Then look to his hinder thighs, or gaſcoyns, that they be well let down, even
+to the middle joynt, thick, brawny, full and ſwelling, for that is a great
+argument of ſtrength and good­neſs; where as the clean, lank, ſlender thigh,
+ſhews diſability and weakneſs. Then look upon the middle joynt behind, and ſee
+if it be nothing but skin and bone, veins and ſinews, and ra­ther a little
+bending then too ſtraight, then it is perfect as it ſhould be; but if it hath
+chaps or ſores in the inward bougth or bending, then it is a S [...]landar.
+
+[[Page 45]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=34)If the
+joynt be ſwell'd generally all over, then he hath gotten a blow or bruiſe, if
+the ſwelling be particular, as in the plot or hollow part, or on the inſide,
+and the vein full and proud; if the ſwelling be ſhort, it is a blood-ſpaven,
+if hard, it is a bone-ſpaven, but if the ſwelling be juſt behind, below the
+knuckle, then it is a curb.
+
+Then look to his hinder legs, and if they be clean fat, and ſinewy, then all
+is well, but if they be fat, they will not endure labour; if they be ſwel'd,
+the greaſe is molten into them; if they be ſcabbed above the Paſterns, he hath
+the Scratches; if he have chaps under his Paſterns, he hath the Pains, and
+none of theſe but are dan­gerous and noiſome.
+
+Laſtly, for the ſetting on of his tail, where there is a good buttock, there
+the tail can never ſtand ill, and where there is an ill buttock, there the
+tail can never ſtand well, for it ought to ſtand broad, high, flat, and a
+little touched in­ward.
+
+Thus I have ſhewed you true ſhapes, and true deformities, you may in your
+choice pleaſe your own fancy.
+
+[[Page 46]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=35)
+
+### 1.13. Certain Infallible Helps and Cures for thoſe Infirmities which are
+moſt dangerous, and do commonly attend all Horſes; eſpecially the Runing
+Horſe.
+
+#### 1.13.1. Firſt of Sickneſs in general.
+
+WHenſoever upon any occaſion you ſhall find your Horſe to droop in
+Countenance, to forſake his meat, or to ſhew any apparent ſign of ſickneſs; if
+they be not great, you may forbear to let blood, becauſe where blood is ſpent,
+the ſpirits are ſpent alſo, and they are not eaſily recovered; but if the
+ſigns be great and dangerous, then by all means let blood inſtantly, and for
+three mornings together; the Horſe being faſting, give him half an ounce of
+the Powder called Dia­hexaple, brewed either in a pint of the pureſt and
+fineſt ſirrup of Sugar, being two degrees above the ordinary Moloſſes, or for
+want there­of Moloſſes will ſerve the turn, or where all are wanting, you may
+take a pint either of Carduus­water, or elſe Dragon-water, or a quart of the
+ſweeteſt and ſtrongeſt Ale-wort; and this [[Page
+47]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=35) muſt be given
+him in a Horn, and if the Horſe have ability of body, ride him in ſome warm
+place after it, and let him faſt near two hours more. At noon give him a ſweet
+Maſh, clothe warm, and let him touch no cold water.
+
+Now for the exact and true making of this Powder, which I call Diahexaple,
+becauſe no man, that I know, either Apothecary or other, doth at this day make
+it truly, partly becauſe it is an experiment lately come to my knowledg, by
+conference with Learned Phyſicians, and part­ly becauſe our Medicine-makers
+are in Horſe-Phyſick leſs curious than they ſhould be; through which errors
+there is produced to the world abundance of falſe mixtures; which both
+de­ceive the honeſt Horſe-maſter, kils the harm­leſs Horſe, and diſgrace the
+well-meaning Farrier.
+
+To repair all which, I will here ſet down at large the true manner of making
+this admirable Powder, together with the vertues and operati­ons thereof.
+
+Take of the grains of Paradiſe, of Ivory and Myrrh, of the roots of Enula
+Campana, of Turmerick and Gentian, of each a like quan­tity; then beat and
+ſearſe them into a ſubtile Powder, and give the Horſe ſuch a quantity, as is
+before directed. This reſiſteth the putrifaction of humours, comforts and
+ſtrengthens the in ward parts, opens obſtructions, helps the Lungs, and if
+taken in time, not only recovereth the Horſe, but preventeth many other
+diſtempers.
+
+[[Page 48]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=36)
+
+#### 1.13.2. Certain neceſſary Obſervatins and Advantages for every Keeper to
+obſerve in ſundry accidents.
+
+THere is no unreaſonable Creature of plea­ſure ſubject to ſo many diſaſtrous
+chan­ces of Fortune as the Horſe, and eſpecially the Running Horſe, both by
+reaſon of the multi­plicity of Diſeaſes belonging unto them, as alſo the
+violence of their exerciſe, and the nice ten­derneſs of their Keeping. And
+therefore it be­hoveth every Keeper to be armd with ſuch Ob­ſervations as may
+diſcern miſchiefs, and thoſe helps which may amend them when they hap­pen.
+
+#### 1.13.3. Obſervations for ſickneſs and health.
+
+THe firſt Obſervation therefore that I would arm your Keeper with all, is to
+diſcern ſickneſs from health. As thus.
+
+If you find in your Horſe heavineſs of coun­tenance, extreme looſneſs, or
+extreme coſtiveneſs ſhortneſs of breath, lothing of meats, dull and imperfect
+eyes, rotten or dry cough, ſtaring hair, or hair unnaturally diſcover'd, a
+ſtaggering pace, frantick behaviour, yellowneſs of the eyes and skin; faint or
+cold ſweat, extraordinary lying down or beating, or looking back at his [[Page
+49]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=36) body, alteration
+of qualities and geſtures, no caſting his coat, leanneſs, hide-bound, and the
+like; all theſe are apparent ſigns of diſtempe­rature or ſickneſs.
+
+#### 1.13.4. Obſervations from the Dung
+
+IT is neceſſary that our Keeper obſerve the Horſes Dung, for it is the beſt
+tell-troth of an Horſes inward parts, yet he muſt not judg it by a general
+opinion, but a private diſcourſe with himſelf, how the Horſe hath been fed,
+becauſe food is the only thing.
+
+As Thus
+
+If the Dung be clear, criſp, and of a pale and whitiſh-yellow complexion,
+hanging toge­ther without ſeparation, more than as the weight breaks it in the
+falling, being neither ſo thin that it will run, nor ſo thick but it will a
+little flat on the ground, and in deed both in ſavour and ſubſtance ſome what
+reſemling a ſound man's ordure. Then is the Horſe clean, well fed, and without
+imperfection; if it be well coloured, yet fall from him in round knots or
+pellets: But if all his Dung be alike, then it is aſign of foul feeding, and
+he hath either too much Hay, or eats too much Litter, and too little Corn.
+
+If his Dung be in round pellets, and blackiſh or brown, it ſhews inward heat
+in the body, if [[Page
+50]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=37) it be greaſe, it
+ſhews foulneſs, and that greaſe is molten but cannot come away; if he doth
+a­void greaſe in groſs ſubſtance with his dung, if the greaſe be white and
+clear, then it comes away kindly and there is no danger; but if it be yellow
+and putrified, then the greaſe hath lain long in his body, and ſickneſs may
+fol­low if not prevented: if his dung be red and hard, then the Horſe hath had
+too ſtrong heats, and coſtiveneſs will follow; if it be pale and looſe, it
+ſhews inward coldneſs of body, or too much moiſt feeding.
+
+#### 1.13.5. Obſervations from the Urine.
+
+AS the Keeper hath thus a principal reſpect to the Horſes dung, ſo he ſhall
+take ſome little Notes from the Urine alſo: and though they be not altogether
+ſo material as the other, becauſe according to the opinion of Phyſicians,
+Urina eſt Meretrix, Urine is a decei­ver; yet it hath ſome true faces. As
+thus, The Urine which is of a pale yellowiſh colour, ra­ther thick than thin,
+of a ſtrong ſmell and a piercing condition, is an healthfull ſound and good
+Urine; but if you find any note or com­plexion contrary to theſe, then in the
+Horſe is ſome imperfection. As thus, If the Urine be of an high and ruddy
+complexion, either like blood or inclining to blood, then hath the Horſe
+either had too ſore heats, been over­ridden, or ridden too early after winter
+graſs, [[Page 51]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=37) if
+the Urine be of an high complexion, clear and tranſparent, like old March
+Beer, then the Horſe is inflamed in his body, and hath taken ſome ſurfeit.
+
+If the Urine carry a white cream on the top, it ſhews a weak back, and
+conſumption of ſeed.
+
+A green Urine ſhews a conſumption of the body.
+
+An Urine with bloody ſtreaks ſhews an Ulcer in the Kidneys, and a black thick
+cloudy Urine ſhews Death and Mortali­ty.
+
+#### 1.13.6. Obſervations in Feeding.
+
+AGain, Our Keeper muſt obſerve, that if there be any meat, drink, or other
+nou­riſhment, which he knoweth good for the Horſe, if the Horſe refuſeth to
+take it, in this caſe he ſhall not violently thruſt it upon the Horſe, or by
+force cram him therewith; but by gentle degrees and coming enticements, and by
+pro­ceſs of time win him thereunto; rempting him when he is moſt hungry or
+moſt thirſty, and if he get but a bit at a time or a ſup at a time, it will
+ſoon increaſe to a greatter quantity, and ever let him have leſs then he
+deſireth. And that he may the ſooner be brought to it, mix the meat he loveth
+beſt with that he loveth worſt, the drink he loveth the beſt, with that he
+loveth the worſt, till both be made like [[Page
+52]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=38) familiar, and ſo
+ſhall the Horſe be a ſtranger to nothing that is good or wholeſome.
+
+#### 1.13.7. Obſervations in Caſe of Lameneſs.
+
+AGain, Our Keeper muſt obſerve ifhis Horſe be ſubject to lameneſs or ſtiffneſs
+of joynts or ſinews, ſurbayting or tenderneſs of feet, firſt to give him his
+heats upon ſoft and ſmooth carpet earth, and to forbear ſtony ground, hard
+high ways, croſs furrows, till extremity compel him.
+
+#### 1.13.8. Obſervations from the ſtate of the Horſes Body.
+
+IT is good for our Keeper to obſerve, that the ſtrongeſt eſtate of body (which
+I ac­count the higheſt and fulleſt of fleſh, ſo it be good, hard, and without
+inward foulneſs) to be the beſt and ableſt for the performance of Wagers; yet
+he muſt herein take to himſelf two conſiderations; the one, the ſhape of the
+Hor­ſes body, the other, his inclination and man­ner of feeding.
+
+For the ſhape of Horſes bodies, there be ſome Horſes that be round, plump, and
+cloſe knit together; ſo that they will appear fat and well ſhaped, when they
+are lean and in poverty; [[Page
+53]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=38) others are raw-
+boned, ſlender and looſe knit together, and will appear lean, deformed, and in
+poverty, when they are fat, foul, and full of groſs humors.
+
+So likewiſe their inclinations, ſome Horſes (as the firſt before named) will
+feed outwardly, and will carry a thick rib, when they are in­wardly as clean
+as may be, and without all manner of foulneſs.
+
+There be others (as the latter) that will ap­pear clean to the eyes, and ſhew
+nothing but skin and bone, when they are full of inward fatneſs, and have guts
+as full as may be. In this caſe the Keeper hath two helps to advantage his
+knowledg, the one outward, the other in­ward.
+
+The outward help is the outward handling and feeling of the Horſes body,
+generally over all his ribs, but particularly upon his ſhort and hindmoſt
+ribs; if his fleſh generally handle ſoft and looſe, and your fingers ſink into
+it as into down; then is the Horſe foul without queſtion: But if generally it
+be hard and firm, only upon the hindmoſt rib it handleth ſoft and downy; then
+it is a pregnant ſign, there is greaſe and foul matter within the Horſe, which
+muſt be avoided, how lean or poor ſoever he appear in outward ſpeculation.
+
+The inward help is only ſharp exerciſe and ſtrong ſcowrings, the firſt will
+diſſolve and melt the foulneſs, the latter will bring it away in abundance.
+
+If your Horſe be fat and thick, and as it were cloſed up between the chaps, or
+if his jaws handle fleſhy and full, it is a ſign of much [[Page
+54]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=39) foulneſs both in
+the head and body; but if he handle thin, clean, and only with ſome lumps or
+ſmall kernels within his chaps, then it is only a ſign of ſome cold or poze
+newly taken.
+
+#### 1.13.9. Obſervations from the Privy Parts.
+
+IT is good for our Keeper to obſerve his Horſes ſtones if, if he be ſtoned,
+for if they hang down ſide or long from his body, then is the Horſe out of
+luſt and heart, and is either ſick of greaſe or other foul humors; but if they
+be cloſe couched up, and lye hid in a very ſmall room, then is the Horſe in
+health and good plight.
+
+#### 1.13.10. Obſervations from the Limbs.
+
+IT is good for our Keeper to obſerve every night, before he runs either match
+or heat, to bathe his Horſes legs well, from above the Knees, and above the
+Cambrels downwards, with either Dogs-greaſe, which is the beſt, or Trotters
+oyl, which is the ſecond, or the pureſt clarified Hogs greaſe that can be got,
+which is moſt tolerable, and to work it in with his hands, and not with
+melting at the fire; and what he gets not in the firſt night, will be got in
+the [[Page 55]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=39) next
+morning, and what he gets not in the next morning, will be got in when he
+comes to un­clothe at the end of the Courſe; ſo that you ſhall need to uſe
+Oyntment but once, but the Fricaſs or Rubbing, as often as you find
+oppor­tunity
+
+#### 1.13.11. Obſervations for the giving of Water
+
+OUR Keeper ſhall obſerve, that albeit I give no directions for the watering of
+his Horſe in the Evening after his heat, yet he may in any of the three latter
+fortnights (finding his Horſe clean, and his greaſe conſumed or gone away)
+ſomewhat late at night, as about ſix of the Clock, give his Horſe water in
+reaſonable quantity, being made Milk-warm, and faſting an hour after it
+
+Alſo, if the weather be unſeaſonable, then you ſhall at your watering hours
+water in the houſe with warm water, putting a little quan­tity of hot water
+into a greater of cold, and ſo make it Milk-warm; if you throw a handful of
+Wheat-meal, Bran, or Oat-meal finely pounded, but Oat-meal is the beſt.
+
+[[Page 56]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=40)
+
+#### 1.13.12. Obſervations in the choice of Ground to Run on
+
+OUR Keeper ſhall obſerve, that if the ground whereon he is to run his match be
+dan­gerous and apt for ſtrains, ſlips, over-reaches, and the like, that then
+he is not togive all his heats thereon; but having made his Horſe acquainted
+with the nature thereof, then either to take part of the courſe, as a mile,
+two or three, according to the goodneſs of the ground; and ſo to run his Horſe
+forth and back a gain, which we call turning heats: Provided alwayes, that he
+end his heat at the weighing Poſt, and that he make not his courſe leſs but
+rather more in quantity than that he muſt run; but if for ſome ſpecial
+occaſions he like not part of the Courſe, then he may many times, (but not
+ever) give his heats upon any other good ground, either forth-right and
+turning or round about any ſpacious and large field, where the Horſe may lay
+down his body, and, run at pleaſure.
+
+#### 1.13.13. Obſervations from Sweating.
+
+OUR Keeper ſhall take ſpecial regard in all his airing, heating, and all
+manner of Exerciſe and Motion whatſoever, to the ſweat­ing of his Horſe, and
+to the occaſions of his ſweating: as if an Horſe ſweat upon little [[Page
+57]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=40) or no occaſion,
+as walking foot-pace, ſtanding ſtill in the Stable, or the like, it is then
+appa­rent that the Horſe is faint, foul fed, and wanteth exerciſe; but if upon
+good occaſion, as ſtrong heats, and the like, he ſweat, if his ſweat is white,
+frothy, and like ſoap-ſuds, then is the Horſe inwardly foul, and wanteth alſo
+exerciſe; but if the ſweat be black, and as it were only water thrown upon
+him, then is the Horſe in good luſt and good caſe.
+
+#### 1.13.14. Obſervations from the Horſes Hair.
+
+OUR Keeper ſhall obſerve well his Horſes Hair in generall, but eſpecially his
+neck and thoſe parts which are uncovered, and if they be ſleek, ſmooth, and
+cloſe, then is the Horſe in good caſe; but if they be rough and ſtaring, or
+any way unnaturally diſcoloured; then is the Horſe inwardly cold at the heart,
+and want­eth clothes and warm keeping, or elſe there is ſome ſickneſs creeping
+upon him.
+
+Many other Obſervations there be, but theſe are moſt material, and I hope
+ſufficient for any reaſonable underſtanding.
+
+[[Page 58]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=41)
+
+## 2\. MATTHEW HODSON'S Medicines.
+
+### 2.1. A Medicine for the Glanders.
+
+TAke a quart of red Vinegar, being no Wine Vinegar, put it over the fire, and
+put thereto two ſpoonfuls of Engliſh Honey, two ſpoonfuls of Elecampane,
+beaten into fine Powder, and ſearſe it through a fine Searſer, and as much
+Roch-Allum as the bigneſs of an Egg, beaten into fine Powder, half a Pint of
+Sallet Oyl, put in your Sallet Oyl af­ter all theſe have boyled together one
+quarter of an hour, then take it off the fire, and let it ſtand until it be
+Milk-warm, then give your Horſe ſix ſpoonfuls in each noſtril with a little
+horn: after you haue given this drink, ride him two or three turns and no
+more, then tye his head down to his foot for the ſpace of four hours; then let
+him faſt four hours: you muſt give [[Page
+59]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=41) this drink at
+nine ſeveral times, being three days betwixt every drink; every ſecond day
+after he hath had his drink, give him Chickens guts warm, rolled in beaten Bay
+Salt, and put them down his throat, giving him warm water and wet hay all the
+time you give him this drink. and this will amend the Glanders, and the
+mourning in the Chine. Probatum eſt.
+
+### 2.2. A Medicine for any Cold that is not the Glanders.
+
+TAke two ſpoonfuls of Pepper well beaten, two ſpoonfuls of Muſtard, four
+ſpoon­fuls of Sallet Oyl, four roſted Onions roſt­ed very ſoft, and cut them
+very ſmall; then take two ſpoonfuls of Elecampane made into fine Powder,
+mingle all theſe together, and make them into Balls with freſh Butter, and
+give your Horſe three Balls at a time. Nine Balls given at three times will
+cure him▪, ſo you travel him upon it.
+
+### 2.3. For a Strain in the Shoulder
+
+TAke two ounces of Oyl of Pumpillion, and two ounces of Oyl of Spike, two
+ounces of Lint-ſeed Oyl, rub theſe Oyls well together upon his ſhoulder, and
+warm it in with an hot iron, then let him be blooded in the ſhoulder and
+hopple his forefeet together, and this will cure him.
+
+[[Page 60]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=42)
+
+### 2.4. A Cure for a Sinew-Sprung Horſe.
+
+TAke a pint of Lin-ſeed Oyl, and boyl it, then put in three penny-worth of
+Aqua-Vitae, and ſtir them together, then anoint your Horſes Leg with it, and
+this will cure him
+
+### 2.5. The true manner of making thoſe Balls, which Cure any violent Cold or
+Glanders, which prevent heavy Sickneſs, which purge away all molten greaſe,
+which recover a looſe ſto­mack, which keep the heart from fainting with
+exerciſe, and make a lean Horſe fat ſuddenly.
+
+TAke of Anni-ſeeds, of Cummin-ſeeds, of Fenugreek-ſeeds, of the fine ſearſe
+powder of Ellecampane roots, of each two ounces bea­ten, and ſearſt to a very
+find duſt; then add to them two ounces of brown Sugar-Candy beaten to powder▪
+and two ounces of the flour of Brimſtone; then take an ounce of the beſt juyce
+of Licoris, and diſſolve it on the fire in half a pint of White-wine; which
+done, take an ounce of the beſt Chymical Oyl of Anni-ſeeds, and three ounces
+of the ſirrup of Colts-foot; then of Sallet-Oyl, of fine live Honey, and the
+pureſt ſirrup of Sugar or Moloſſes, of [[Page
+61]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=42) each half a
+pint: then mix all this with the for­mer powders, and with as much fine
+wheat­flour as will bind and knit them all together, work them into a ſtiff
+paſte, and make thereof balls, ſome what bigger then French wall-nuts, huls
+and all; and ſo keep them in a cloſe Gally­pot, for they will laſt all the
+year; yet I do not mean that you ſhould keep them in the pot in Balls, for
+becauſe they cannot lye cloſe, the Air may get in and do hurt, as alſo the
+ſtrength of the Oyls will ſweat outward, and weaken the ſubſtance; therefore
+knead the whole lump of paſt into the Gallypot, and make the Balls as you have
+occaſion to uſe them.
+
+Now for the uſe of theſe Balls, becauſe they are Cordial, and have divers
+excellent vertues, you ſhall underſtand, that if you uſe them to prevent
+ſickneſs; then you ſhall take one of theſe Balls and anoint all over with
+ſweet but­ter, and ſo give it to the Horſe in the morning in the manner of a
+Pill: then ride him a little after, if you pleaſe, otherwiſe you may chooſe,
+and feed and water him abroad or at home, according to your uſuall cuſtome,
+and this do three or four mornings.
+
+If you uſe them to cure either Cold or Glan­ders, then uſe them in the ſame
+manner for a week together.
+
+If you uſe them to fatten an Horſe, then give them for a fortnight together
+
+But if you uſe them in the nature of ſcowring to take away molten greaſe or
+foulneſs, then inſtantly after his heat and in his heat you muſt uſe them.
+
+[[Page 62]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=43)Again, If
+you find your Horſe at any time hath taken a little cold, as you ſhall
+perceive by his inward ratling; if then you take one of theſe Balls, and
+diſſolve it into half a pint of Sack, and ſo give it the Horſe with a Horn, it
+is a preſent remedy.
+
+Alſo to diſſolve the Ball in his ordinary wa­ter being made milk-warm, it
+worketh the like effect, and fatneth exceedingly.
+
+To give one of theſe Balls before travel, it prevents tiring; to give in the
+height of travel, it refreſheth wearineſs; and to give it after travel, it
+ſaves an Horſe from ſurfeits and in­ward ſickneſs.
+
+### 2.6. An approved Cure for the Botts, and all manner of Worms, of what
+nature ſo­ever.
+
+TAke a quart of new Milk, and as much of the pureſt clarified Honey as will
+make it extraordinary ſweet; then being luke warm, give it to the Horſe very
+early in the morning, he having faſted all the night before; which done,
+bridle him up, and let him ſtand tyed to the empty Rack for more then two
+hours.
+
+Then take half a pint of White-wine, and diſſolve into it a good ſpoonfull or
+more of black Soap, and being well incorporated toge­ther [[Page
+63]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=43) (the Horſe
+having▪ ſtood two hours as aforeſaid) give it him to drink, and let him faſt
+other two hours more after it, and the worms will avoid in great abundance.
+
+### 2.7. Another moſt excellent Receipt for the Botts or any Worms, which is
+moſt eaſie and moſt certain without ſickneſs.
+
+TAke the ſoft downy hairs which grow in the Ears of an Horſe, and which you
+clip away when you poll him, and the little ſhort tuft which grows on the top
+of his fore­head, underneath his foretop, and having a pret­ty quantity of
+them, mix them well with a pot­tle of ſweet Oats, and ſo give them to the
+Horſe to eat, and there is not any thing that will kill worms more aſſuredly.
+
+### 2.8. An uncontrollable way how to know the Age of any Horſe.
+
+THere are ſeven outward Characters by which to know the age of every Horſe; as
+namely, his Teeth, his Hoofs, his Tail, his Eyes, his Skin, his Hair, and the
+Barrs of his Mouth.
+
+[[Page 64]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=44)
+
+#### 2.8.1. Firſt
+
+If you will know his Age by his Teeth, you muſt underſtand that a Horſe hath
+in his head juſt fourty Teeth, that is to ſay, ſix great wang Teeth above, and
+ſix below on one ſide, and as many on the other, which makes twenty four, and
+are called his grinders. Then ſix above and ſix below in the forepart of his
+mouth, which are called gatherers, and make thirty ſix. Then four Tuſhes, one
+above and one below of one ſide, and one above and one below on the other
+ſide, which is juſt fourty.
+
+Now the firſt Year he hath his Foals Teeth, which are only grinders and
+gatherers, but no Tuſhes, and they be ſmall, white, and bright to look upon.
+
+The ſecond Year he changeth the four foremoſt Teeth in his head, and they will
+appear browner and bigger then the other.
+
+At three Years old he changeth the Teeth next unto them, and leaveth no
+apparent Foals Teeth before, but too of each ſide above, and two below, which
+are alſo bright and ſmall.
+
+At Four Years old he changeth the Teeth next unto them, and leaveth no more
+Foals Teeth, but one on each ſide, both above and below.
+
+At five Years old his foremoſt Teeth will be all changed, but then he hath his
+Tuſhes on each ſide compleat, and the laſt Foals Teeth which he caſt, thoſe
+which come in their [[Page
+65]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=44) place will be
+hollow, and have a little black ſpeck in the midſt, which is called, the mark
+in the Horſes mouth, and continueth till he be eight years old.
+
+At ſix years old, he putteth up his new Tuſh­es, near about which you ſhall
+ſee moſt apparent­ly growing a little Circle of new and young fleſh at the
+bottom of the Tuſh, beſides the Tuſh will be white, ſmall, ſhort and ſharp.
+
+At ſeven years old, all his Teeth will have their perfect growth, and the mark
+in the Hor­ſes mouth before ſpoken of, will be plainly ſeen.
+
+At eight years old, all his Teeth will be full, ſmooth, and plain, the black
+ſpeck or mark be­ing hardly to be diſcerned, and his Tuſhes will be more
+yellow then ordinary.
+
+At nine years his fore-moſt Teeth will ſhew longer, yellower, and fouler, then
+at younger years, and his Tuſhes will be bluntiſh.
+
+At ten years old, in the inſide of his upper Tuſhes, will be no holes at all
+to be felt with your fingers end, which till that age, you ſhall ever moſt
+perfectly feel; beſides the Temples of his Head will begin to be crooked and
+hollow.
+
+At eleven years of Age, his Teeth will be exceeding long, very yellow, black,
+and foul, only he will cut even, and his Teeth will ſtand directly oppoſite
+one againſt another.
+
+At twelve years old, his Teeth will be long, yellow, black, and foul, but then
+his upper Teeth will over-reach and hang over his neather Teeth.
+
+At thirteen years old, his Tuſhes will be worn ſomewhat cloſe to his Chaps,
+(if he be a much ridden Horſe) otherwiſe they will be [[Page
+66]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=45) black, foul, and
+long, like the Tuſhes of a Bear.
+
+#### 2.8.2. Second.
+
+If an Horſes Hoofs be rugged, and as it were ſeamed, one ſeam over another;
+and many, if they be dry, fou!, and ruſty, it is a ſign of very old age; as on
+the contrary part, a ſmooth, moiſt, hollow, and well ſounding Hoof, is a ſigu
+of young years.
+
+#### 2.8.3. Third.
+
+If you take your Horſe with your Finger and your Thumb, by the ſtern of the
+Tail, cloſe at the ſetting on by his Buttock, and feeling there hard; if you
+feel betwixt your Finger and your Thumb of each ſide his Tail, a joynt ſtick
+out more than any other joynt, of the bigneſs of an Haſel-nut, then you may
+preſume the Horſe is under ten years old; but if his joynts be all plain, and
+no ſuch thing be felt, then he is a­bove ten, and may be fifteen.
+
+#### 2.8.4. Fourth.
+
+If an Horſes Eyes be round, full, and ſtaring from his head, if the pitts over
+his Eyes be fil­led ſmooth, and even with his Temples, and no wrinckles either
+about his Brow, or under his Eyes; then the Horſe is young: If otherwiſe you
+ſee the conrrary, it is a ſign of old age.
+
+[[Page 67]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=45)
+
+#### 2.8.5. Fifth
+
+If you take up a Horſes skin on any part of his body, betwixt your Finger and
+your Thumb, and pluck it from his fleſh, then letting it go a­gain, if it
+ſuddenly return to the place from whence it came, and be ſmooth and plain
+with­out wrinckle, then the Horſe is young and full of ſtrength; but if being
+pulled up, it ſtand, and not return to his former place, then he is very old
+and waſted.
+
+#### 2.8.6. Sixth
+
+If an Horſe that is of any dark colour, ſhall grow griſſel only above his Eye-
+brows, or un­derneath his maiu, or any Horſe of a whitiſh co­lour, ſhall grow
+meanelled with either black or red meanels univerſally over his body, then
+both are infallible ſigns of extream old age.
+
+#### 2.8.7. Seventh.
+
+If the Bars in his mouth be great, deep, and handle rough and hard, then is
+the Horſe very old, but if they be ſoft, ſhallow, and handle gently and
+tenderly, then is the Horſe young, and in luſt.
+
+And thus much of the Age of an Horſe.
+
+[[Page 68]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=46)
+
+### 2.9. An Excellent Purgation, when any Horſe is ſick of his Greaſe, or any
+Co­ſtiveneſs.
+
+TAke a pint of good old white-Wine, and ſet it on the fire, then diſſolve into
+it a lump half as much as an Hens-Egg, of Caſtile Sope; and ſtrain them well
+together on the fire, then take it off, and put into it two good ſpoonfuls of
+Hempſeed beaten into fine duſt, and an ounce and an half of the beſt Sugar-
+Candy beaten to fine powder, and brew all well together; Then ha­ving warmed
+the Horſe, to ſtir up the Greaſe and other foul humors, give him this to
+drink, and walk him up and down a little after it, to make the potion work;
+then ſet him up warm, and after a little ſtirring him up and down in the
+ſtall, if he grow ſickiſh, give liberty to lye down, After two or three hours
+faſting, give him a ſweet Maſh. Then feed as at other times.
+
+### 2.10. For Laxativeneſs or extream Looſeneſs.
+
+TAke a quart of red Wine, and ſet it on the fire, then put into it an ounce
+and half of Bolearmony made in fine powder, and two oun­ces and an half of the
+Conſerves of Sloes; Then ſtir and mix them well together, after take it from
+the fire, and put to it a ſpoonful or two of the powder of Cinnamon. And
+brewing all well together, give it the Horſe.
+
+[[Page 69]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=46)Let him
+faſt two hours after it, and let him eat no waſht meat.
+
+Hay is wholeſom, ſo is Bread and Oats, if they be well mixt with Beans or
+wheat, but not otherwiſe.
+
+### 2.11. An Infallible help for the Stone, or pain of Urine, cauſing
+Sickneſs.
+
+MAke a ſtrong Decoction (that is to ſay) boyl your firſt quantity of Water to
+an half pint, three times over, with keen Onions clean pilled, and parſley;
+Then take a quart thereof, and put to it a great ſpoonfull of Lon­don-Treacle,
+and as much of the powder of Egg­ſhels finely ſearc't, and give it the Horſe
+to drink, and thus do divers mornings, if the infir­mity be great; otherwiſe,
+when you ſee the Horſe offended.
+
+### 2.12. An approved Medicine to cure and break any old grevious, feſtred and
+rotten Cold, and to dry up a foul running Glanders.
+
+TAke a pint of the beſt Verjuyce, and put to ſo much ſtrong Muſtard made with
+wine-Vine­gar, as will make the Verjuyce ſtrong and keen thereof; Then take an
+ounce or more of Roach-Allom, [[Page
+70]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=47) and beat it into
+fine white Powder, then when you give this to the Horſe, ſo with a Knife or
+Spoon, put ſome of the Allom into the Horn, and ſo give it the Horſe; part at
+his mouth, and part at both his Noſtrils, but eſpecially that Noſtril which
+runneth moſt: Then ride and chafe him a little after it, then ſet him up warm.
+At noon, give him a warm Maſh, and at all times give him no cold water, but
+when the Horſe may have exerciſe after it. And thus drench the Horſe three
+days together, and it will be ſufficient.
+
+### 2.13. Another for a Violent Cold.
+
+TAke of Wine Vinegar half a pinte, and as much Sallet-Oyl, brew them well
+together, and then put to it an ounce and half of Sugar-Candy in fine powder,
+and ſo give it the Horſe, and ſtir him a little after. This is exceeding good,
+but it will occaſion ſickneſs for a ſmall ſeaſon.
+
+### 2.14. An excellent Scowring, when other Scow­rings will not work.
+
+TAke of ſweet Butter a quarter of a pound, half ſo much Caſtle-ſoap, beat them
+well to­gether, then add to them two ſpoonfulls of Hempſeed, bruiſed, of
+anniſeed a ſpoonfull, [[Page
+71]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=47) bruiſed, of
+Sugar-Candy an ounce, of Roſin finely bruiſed half a ſpoonful, work all theſe
+in­to a paſte, and give it the Horſe in the manner of Pills, immediately after
+his heat, or when you have warmed him, and ſtirred up the greaſe and foulneſs
+within him.
+
+### 2.15. An admirable Water for any ſore Eye, or to clear any dim ſight, as
+the Moon-eyes and the like.
+
+TAke the ſtone called Lapis Calaminaris, and heat it red hot in the fire, then
+quench it in half a pint of White-wine, and thus do twelve times together.
+Then add unto it half ſo much of the juice of Houſleek, and with this, bath
+the Eye twice or thrice a day, and it is excel­lent againſt any imperfection
+therein.
+
+### 2.16. Another Water, no leſs precious for the Eyes then the former.
+
+TAke a pint of Snow-water, and diſſolve it into three or four drams of white
+Vitriol, and with this water waſh the Horſes Eyes, three or four times, and
+the effect is great and ſtrange.
+
+[[Page 72]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=48)
+
+### 2.17. The Maſter Medicine of all Medicines, for a Back Sinew-Strain, or
+any grief, pain, ſtraightneſs, ſhrinking, or numneſs of joynts or ſinews.
+
+TAke a fat ſucking Maſtive whelp, flay it, and bowel it, then ſtop the body as
+full as it can hold, with gray Snails, and black Snails; then roaſt it at a
+reaſonable fire, when it begins to warm, baſt it with ſix ounces of the Oyl of
+Spike, made yellow with Saffron, and ſix oun­ces of the oyl of Wax; Then ſave
+the drippings, and what moiſture ſoever falls from it, whilſt any drop will
+fall from the Whelp, and keep it in a Gally-pot.
+
+With this oyntment anoint the ſtrain, and work it in very hot, holding a hot
+bar of iron before it; And thus do both Morning and Eve­ning, till the Cure be
+finiſhed.
+
+### 2.18. St. Antayne his only Excellent Medicine, for any Strain or Swelling.
+
+TAke Cummin-ſeeds, and bruiſe them groſs, and boyl it with the oyl of
+Camomile, then add to it ſo much yellow Wax, as will bring it to the body of a
+Cerrot or Plaiſter, and ſpread it on either Cloth or Leather, and very hot
+apply it to the grief. It is wonderfull ſoveraign for any man alſo.
+
+[[Page 73]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=48)
+
+### 2.19. Another for any deſperate old Strain, whether it be in the Shoulder,
+Joynts, Hips, or Back-ſinews.
+
+TAke of the beſt Aqua-vitae a pint, of oyl de Boy, of oyl of Swallows, and of
+black Soap, of each half a pinte, work and labour all theſe together, till
+they come to a thin oyntment, then take of Camamoile, and of red Sage an
+hand­full, of Rue, and of Miſſeldine an handfull, dry them, and bring them to
+a very fine powder; Then mix them with the former oyntment, and bring all to a
+gentle Salve.
+
+With ſome of this Salve, made as hot as the Horſe can ſuffer it, anoint the
+Strain, and hold an hot bar of Iron before the grieved place, cha­fing it in
+with your hand as much as may be, and thus do once a day, and in nine dayes
+the Cure will be effected.
+
+### 2.20. An Excellent Charge for any New Strain, or offence on the Sinews, or
+any grief proceeding from heat.
+
+TAke the whites of ſix Eggs, and beat them well with a pint of white Wine-
+Vine­gar, and an ounce of the oyl of Roſes, & as much of the oyl of Mintils;
+Then take four ounces of Bolearmonie, and as much Sanguis Draconis, and [[Page
+74]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=49) with as much
+fine Bean-flower, or wheat flow­er, but Bean-flower is the beſt as will
+thicken it; bring it to a ſtiff Salve, then ſpread it a­bout the grieved
+place, and renew it as it dry­eth.
+
+### 2.21. A perfect Cure for any Sinew-Strain,
+
+TAke a live Cat▪ either wild or tame, and cut off her head and tail, then
+cleave her down the chine, and clap her hot, the bowels and all upon the
+ſtrain, and remove it not for forty eight hours, and the effect is great.
+
+### 2.22. Markham's own Balm, which hath never failed him, for any Strain in
+the Shoulder, or other part, hidden or apparent; Or any Wind-gall, Pain or
+Swelling whatſoever.
+
+TAke ten ounces of the beſt and pureſt Gooſe­greaſe, and melt it on the fire,
+then take it off, and put it into four ounces of the Oyl of Spike, and an
+ounce of the Oyl of Origanum, ſtir them very well together, then put it up
+in­to a Gallipot.
+
+With this Oyntment anoint the grieved part, the Oyntment being made exceeding
+hot; and rub and chafe it in with all painfulneſs, hold­ing an hot bar of Iron
+before it, and thus anoint once in two dayes, but rub and chafe it in, twice
+[[Page 75]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=49) or thrice
+a day at the leaſt, and give the Horſe moderate Exerciſe.
+
+This is approved and infallible.
+
+### 2.23. For ſwell'd or Gourded-Legs, whether it be by reaſon of the Greaſe
+falling into them, or other accident, as Scratches, Pains, Mules, &c.
+
+IF your Horſes Legs be ſwell'd only, becauſe the Greaſe is faln into them, and
+that there is no other outward Ulcer; neither will the bathing with cold
+water, and other outward helps aſſwage it: Then you ſhall take a piece of
+ſtrong courſe woollen Cloths and thereof make him an Hoſe, a pretty deal
+larger then his Leg, to reach from the lower part of his paſtern, up to the
+Cambrel, or to the Knee, and make it cloſe and ſtraight at the paſtern, and
+wide a­bove. Then take a pottle of Wine Lees (if you can get them) or elſe the
+grounds or Lees of ſtrong Ale or Beer, and ſet them on the fire, and boyl them
+well; then put to them a pound of clarified Hogs-greaſe, and when it is melted
+and ſtirred well together, take as much Wheat-Bran as will thicken it, and
+bring it to the bo, dy of a Pultis, with this Pultis as hot as the Horſe can
+fuffer it (only you muſt not ſcald) fill the Hoſe or Hoſes, and then cloſe the
+Hoſe at the top.
+
+With this Pultis let the Horſe ſtand two days, then the third day open the
+Hoſe at the [[Page
+76]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=50) top, but ſtir
+not the Pultis, only take molten Hogs-greaſe, hot as the Horſe can ſuffer it,
+and with a ſpoon pour it unto the Pultis on every ſide, till it will receive
+no more, for this will renew the ſtrength of the Pultis. Then cloſe up the top
+of the Hoſe, and ſo let the Horſe ſtand other two dayes, or three. Then you
+may open the Leg and rub it down, and if you find ſtrong occaſion, you may
+apply another new Pultis, if not, your cure is wrought.
+
+Now if beſides the ſwelling of his Legs, your Horſe hath Ulcers, or Chaps, or
+Scratches, Pains, Mules, or the like:
+
+Then you ſhall firſt apply the former Pultis, in all reſpects as aforeſaid;
+then after five or ſix dayes application, when you take the Pultis away, you
+ſhall take a quart of old Urine, and put to it half a handful of Salt, as much
+of Al­lom, and half an ounce of white Copperas, and boyl it till all be mixt
+and incorporated toge­ther; then with this water very hot, waſh the ſores once
+or twice a day, and after a little dry­ing, anoint them with the oyntment
+called Ae­gyptiacum, and is made of Vinegar, eight oun­ces, of Honey twelve
+ounces, of Verdigreaſe two ounces, of Allom one ounce and an half; boyl it to
+that height, till it come to a red Salve; and it will both kill the malignant
+humors, and alſo heal and dry up the ſores.
+
+[[Page 77]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=50)
+
+### 2.24. Another approved Cure for the Scratches, or any Diſeaſe of that
+nature.
+
+TAke of Hogs-greaſe eight ounces, of Brim­ſtone, of Lime, of Gunpowder, of
+each three ounces, of black Soap eight ounces, and of Soot as much as will
+ſuffice to bring the reſt to a Salve, boyl the Hogs-greaſe and Soap toge­ther,
+and bring the other hard ſimples to a fine powder, and ſo mix all together,
+and make a black ointment; with this anoint the ſores once a day, after they
+are cleanſed and made raw.
+
+### 2.25. For any Splint, Spaven, Ringbone, Curb, or any other hard Knot or
+Excreſ­ſion.
+
+FIrſt, having taken view of the Excreſſion, clip away the hair as far as the
+excreſſion goeth, and a little thought more; then take a piece of Allom'd
+Leather, made as big juſt as the place you have bared, and fit it to the ſame
+proportion. Then take a little Shoo-makers Wax, and ſpread it round about the
+very edge or verge of the ſame, leaving all the inward or middle part empty,
+and not touched with the Wax, according to this Figure O. Then take of the
+herb called Sparagus, which hath the vir­tue to raiſe Bliſters, and bruiſing
+it in a Mor­tar, [[Page
+78]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=51) lay ſome thereof
+on the Leather, in the void and empty place, which ought to contain the juſt
+quantity of the Knot or Excreſſion, and bind it faſt thereon; ſuffering it ſo
+to lye (if it be in the Spring or Summer time, when the Sparagus hath its full
+ſtrength and virtue) two or three hour.  [...]But if it be in the Winter, then
+it hath leſs virtue; Then it is not amiſs to revive the ſtrength of the Herb,
+if you add to it a drop or two of Origanum, and let it lye a day, and and be
+ſure to tye up the Horſes head for two hours for fear of biting it away.
+
+When you have taken off the Plaiſter, anoint the place with Train-oyl warm and
+you ſhall find no Excreſſion.
+
+### 2.26. An approved Cure for the Swift Cut, or any hewing on the Legs
+whatſoever.
+
+TAke a pint of White-wine, and put to it two or three ſpoonfulls of Hony. and
+ſtir them well together, then boyl them till they be well incorporated
+together, and brought to the body of an ointment. Then take it from the fire,
+and put in as much Turpentine, as there was Hony before, and ſtir all well
+together. Then ſtrain it with this Salve ſomewhat hot, bath the Sores twice a
+day, and it is a moſt ſpec­dy healer.
+
+[[Page 79]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=51)
+
+### 2.27. For any Farcy, Mangy, Scab, or Leproſie, whether in the Mane or
+other­wiſe.
+
+FIrſt let Blood, then take a quart of old U­rine or Vinegar, and break into it
+a quar­ter of a pound or better of the beſt Tobacco, then ſet it on the fire
+of Embers, where it may ſimper and not boil, and ſo let it ſtew a whole night;
+then ſtrain it, and with this water waſh the in­fected place, whether it be in
+the Mane, or any other obſcure place, and it is a certain Remedy.
+
+### 2.28. For any Founder, Frettize, Surbait, or any imperfection in the Feet.
+
+FIrſt pare thin, open the heels wide, and take good ſtore of blood from the
+Toes; then tack on a Shooe ſomewhat hollow; after, take of the beſt
+Frankincenſe, and rowling it in a lit­tle fine Cotton-wool or Bombaſt, with an
+hot iron melt it into the Foot, betwixt the Shooe and the Toe, till the
+Orifice where the blood was ta­ken be filled up. Then take half a pound of
+Hogs­greaſe, and melt it on the fire, then mix it with Wheat bran, till it be
+as thick as a Pultis. Then boyling hot as is poſſible, ſtop up the Horſes foot
+therewith; then cover it with a piece of an old Shooe, and ſplent it up, and
+ſo let the Horſe ſtand for three or four days, then if occaſion ſerves, you
+may renew it, otherwiſe the cure it wrought.
+
+[[Page 80]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=52)
+
+### 2.29. To make Hoofs grow quickly; and to be tough and ſtrong.
+
+TAke of the Juyce of Garlick ſeven ounces, of old Hogs-greaſe two pound, of
+Aſſes dung (for want of it Cows dung) an handfull, mingle them, and boyl them
+all well together; then with this, both ſtop the Horſes foot, and anoint the
+Crownets of the Hoofs, and the effect is great.
+
+### 2.30. A general Salve for any Sore or Swel­ling.
+
+TAke Turpentine, Black-Soap, Hogs-greaſe, Green Treat and Pitch, of each a
+little quan­tity, mix and boyl them all well together, and apply it warm to
+the grief.
+
+### 2.31. For a Pearl, Pin, and Web, or any Film on an Horſes Eye.
+
+TAke a new laid Egg, and roaſt it very hard, then cleave it in-ſunder long-
+wiſe, and take out the yolk; then fill the empty holes with white Vitriol
+finely beaten, and cloſe the Egg again. Then roaſt it the ſecond time, till
+the Vitriol be molten; Laſtly, beat the Egg­ſhell, and all in a diſh, and
+ſtrain it, and with the moiſture that comes from it, dreſs the Eye. This is
+approved.
+
+[[Page 81]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=52)
+
+### 2.32. For Greaſe fallen into the Legs to help them at twice dreſſing, and
+to help the Scratches.
+
+TAke of Train-Oyl, of Nerve-Oyl, of Oyl de Boy, of each half a pint, and the
+bigneſs of an Egg in Allom, boyl them all well together; then having cleanſed
+the Sores, and opened the Pultis, if there be any, with this ſalve anoint the
+Griefs, and it is a ſpeedy Cure.
+
+### 2.33. For the Glanders, an approved Cure.
+
+TAke a quarter of a pint of Verjuice, three ſpoonfuls of Sallet-Oyl, and two
+ſpoonfuls of Aqua-vitae, put one half into one Noſtril, the other into the
+other Noſtril, being blood­warm; then ride the Horſe ſomewhat ſpeedily for
+twenty or forty ſcore, and only ſpare him when he coughs; then ſet him up
+warm, and at Noon give him a warm Maſh: Laſtly, if you find him to grow ſick,
+give him warm Milk from the Cow.
+
+### 2.34. To ſtay the Glanders for a time, till you may make ſale of your
+Horſe.
+
+TAke a pound of Elder-bark, being the green and not the gray, beat it in a
+Mortar and ſtrain it; then put that juyce to a quart of Ale, and ſo give it to
+the Horſe: do this for three mornings together.
+
+[[Page 82]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=53)
+
+### 2.35. An approved Cure for the Pains, Mules, Rats-tails, and the like.
+
+TAke green Vitriol half a pound, and boyl it in a pottle of running Water,
+with Allom, Muſtard, Sage and Hyſop; of each an handful, Now the night before
+you apply this, anoint all the Sores with ſtrong Muſtard, after they are made
+raw; then the next day waſh them with the Water before ſhewed, and the Cure is
+cer­tain.
+
+### 2.36. To help an Horſe that galls between the Legs, either through heat or
+evil dreſſing.
+
+TAke a raw Egg, and cruſh it between the Horſes Legs, and rub the gall well
+therewith, after the Sores are made dry,
+
+### 2.37. For Enterfairing, to help it or hide it, for a ſmall time.
+
+FAſten a new Cord to his Dock, and having made divers hard knots thereon, draw
+it between his Legs, and faſten it to his Girths, or otherwiſe, rub great
+ſtore of Starch between his Thighs.
+
+### 2.38. The beſt Receipt that can be for brittle Hoofs.
+
+TAke Dogs-greaſe a pound, and clarifie it up with Roſemary; then mixing it
+with half ſo much Cow-dung, boyl it, and hot or cold ſtop the Horſes foot
+therewith.
+
+[[Page 83]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=53)
+
+### 2.39. To cure the Scratches
+
+TAke a penny worth of Verdigreaſe, a penny­worth of Red-lead, the like
+quantity of Sope; mix theſe together, and apply them plai­ſter-wiſe, letting
+it lye three days and three nights, You muſt cut the hair cloſe.
+
+### 2.40. For the Farcy.
+
+TAke about one handfull of Rew, and about ten cloves of Garlick, and pound
+them to­gether; then take one penny worth of Aqua­vitae, and ſtrain them
+through a Cloth; then take a little black Wool to drink up that moy­ſture, and
+put into each Ear half the Wool, then ſew up the Ears together, then cut the
+fore head of the Horſe, and put into the hole the inner rind of an Elder,
+about an inch long, or ſome­thing more: keep him from wet falling into his
+Ears the firſt day and night.
+
+Approved by Mr. Holled.
+
+### 2.41. For to cure the Cankers in a Horſes mouth.
+
+TAke half a pint of the beſt White-wine Vi­negar, and half a pound of the beſt
+Roch-Allom, and an handfull of red Sage, and boyl them all together, and ſo
+waſh the Hories mouth and tongue.
+
+Approved, W. B▪
+
+[[Page 82]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=54)
+
+### 2.42. An approved Cure for the Pains, Mules, Rats-tails, and the like.
+
+TAke green Vitriol half a pound, and boyl it in a pottle of running Water,
+with Allom, Muſtard, Sage and Hyſop; of each an handful, Now the night before
+you apply this, anoint all the Sores with ſtrong Muſtard, after they are made
+raw; then the next day waſh them with the Water before ſhewed, and the Cure is
+cer­tain.
+
+### 2.43. To help an Horſe that galls between the Legs, either through heat or
+evil dreſſing.
+
+TAke a raw Egg, and cruſh it between the Horſes Legs, and rub the gall well
+therewith, after the Sores are made dry,
+
+### 2.44. For Enterfairing, to help it or hide it, for a ſmall time.
+
+FAſten a new Cord to his Dock, and having made divers hard knots thereon, draw
+it between his Legs, and faſten it to his Girths, or otherwiſe, rub great
+ſtore of Starch between his Thighs.
+
+### 2.45. The beſt Receipt that can be for brittle Hoofs.
+
+TAke Dogs-greaſe a pound, and clarifie it up with Roſemary; then mixing it
+with half ſo much Cow-dung, boyl it, and hot or cold ſtop the Horſes foot
+therewith.
+
+[[Page 83]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=54)
+
+### 2.46. To cure the Scratches
+
+TAke a penny worth of Verdigreaſe, a penny­worth of Red-lead, the like
+quantity of Sope; mix theſe together, and apply them plai­ſter-wiſe, letting
+it lye three days and three nights, You muſt cut the hair cloſe.
+
+### 2.47. For the Farcy.
+
+TAke about one handfull of Rew, and about ten cloves of Garlick, and pound
+them to­gether; then take one penny worth of Aqua­vitae, and ſtrain them
+through a Cloth; then take a little black Wool to drink up that moy­ſture, and
+puta into each Ear half the Wool, then ſew up the Ears together, then cut the
+fore head of the Horſe, and put into the hole the inner rind of an Elder,
+about an inch long, or ſome­thing more: keep him from wet falling into his
+Ears the firſt day and night.
+
+Approved by Mr. Holled.
+
+### 2.48. For to cure the Cankers in a Horſes mouth.
+
+TAke half a pint of the beſt White-wine Vi­negar, and half a pound of the beſt
+Roch-Allom, and an handfull of red Sage, and boyl them all together, and ſo
+waſh the Hories mouth and tongue.
+
+Approved, W. B.
+
+[[Page 84]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=55)
+
+### 2.49. For to cure the Scratches.
+
+TAke Sope and Salt and mix them together in your hand, and keep his Feet dry,
+and tye a linnen Cloth about them, and it will cure them.
+
+Approved at Stanton.
+
+### 2.50. For a Horſe that hath a Cold.
+
+TAke new Butter unwaſhed, and without Salt and mix with it brown Sugar-Candy,
+Anni­ſeeds, and Liquoriſh; but if the Horſe rattle in his head, put in two
+cloves of Garlick made in balls: do this three mornings together.
+
+Approved, W. B.
+
+### 2.51. For a Beaſt that ſtaleth Blood.
+
+TAke one quart of ſtrong Ale, and a red Her ring cut into ſmall pieces, and
+let it lye a ſteeping in the Ale; then give the Beaſt it with a Horn, and it
+will ſtay the in-bleeding of the Beaſt. Robinſon.
+
+### 2.52. For the Botts.
+
+TAke Salt and Water, and give the Horſe it in a Horn. Approved, Tho. Emſon.
+
+### 2.53. For a Horſe that hath got an Over-reach, or a Tread of the Heel.
+
+FIrſt ſearch itwell to the bottom, and take out all the Gravel, and waſh it
+with Stale, [[Page
+85]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=55) then take a good
+handfull of Nettles, and a good handfull of Salt, put them in a cloth, and
+bind them to the ſore; do this two or three mornings together, then ſet the
+ſhooe on with a leather under it, then pour in ſome Hogs-greaſe ſcald­ing hot,
+after that pour in Roſin ſcalding hot, preſently after which put in ſome
+Wheat-bran.
+
+Approved. Pepper.
+
+### 2.54. For a Horſe that hath got a ſtroke, or a bite of the Eye
+
+TAke a little Honey with a little grated Gin­ger; mix them together, and put
+it into the Horſes eye with a feather; do this three mor­nings together.
+Approved by me W. B.
+
+### 2.55. For the Scratches.
+
+TAke Verdigreaſe and burnt Allom, mix them together, and ſo apply it, keeping
+the Horſe dry. Approved, W. B.
+
+### 2.56. For the ſwelling of a Horſes Back.
+
+TAke Flax or Flax Teare, with the whites of Eggs and Wheat-flower, beat them
+all toge­ther, it will take the ſwelling down.
+
+Approved, Tho. Emſon.
+
+### 2.57. For a ſtrain
+
+HOgs-greaſe is very good for a Sinew-ſtrain, or any other part of the Horſe.
+
+Approved by me W. B.
+
+[[Page 86]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=56)
+
+### 2.58. For a Horſe that is mangy.
+
+TAke a gallon of ſtrong Ale, and a pound of Tobacco-ſtalks, half a pound of
+Allom a pint of Salt, one pennyworth of Mercury; boyl theſe all together until
+they be half boyled away; the day before let the Horſe blood, and Curry him
+with a Comb; when the Horſe is dreſt, waſh the Manger with ſcalding Water, and
+ſmoak the Saddle with Allom or Brimſtone, burnt Hay or Straw. Approved Mr.
+Willes.
+
+### 2.59. For the Spleen.
+
+MAke a Plaiſter of Oxycrocium, and ſpread it upon ſheeps leather, lay it to
+the pain, and let it lye till it come off of it ſelf.
+
+Mr. Holden.
+
+### 2.60. A Gliſter to expel the Wind.
+
+TAke Fennelſeeds and Anniſeeds, two ſpoon­fuls of each, and bruiſe them; a
+little Cama­mile flowers. Roſemary flowers, Pellitory of the Wall, Peneroyal
+and Camamile, of each of theſe half a handfull. Mr. Holden
+
+### 2.61. A Gliſter for the Wind-Colick.
+
+TAke a quart of thin Poſſet-drink, Peneroyal, Pellitory of the Wall, of each
+an handful; Mallows and Plantin, of each half an handful; and Cummin-ſeeds and
+Saſafrage-ſeeds, of each one ſpoonful bruiſed; Camamile flowers one [[Page
+87]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=56) ſpoonfull, boyl
+them down to half the Poſſet-ale, take half a pint thereof, diſſolve therein
+half an ounce of the Electuary, called Electuarium de baccis lauri.
+
+Medcalf.
+
+### 2.62. For the Wind Colick.
+
+BOylone ſpoonfull of Cumminſeeds with a few Camamile flowers, in Poſſet-drink,
+good to drink for the Wind, for one that is Coſtive in his Body.
+
+Medcalf.
+
+## 3\. How to order, feed, and keep any Horſe for Pleaſure, Hunting, or
+Travel.
+
+I Would have your Keeper of theſe ordinary Horſes, to riſe early in the
+morning, by the ſpring of day, or before. according to the ſea­ſon of the
+year, and to ſift the Horſe the quan­tity of near three pints of good old dry
+Oats, and to put to them an handfull or two of ſpel­ted Beans, Hulls and all,
+and ſo give them to the Horſe.
+
+After he hath eaten them, let him dreſs him according to the order of good
+Horſemanſhip.
+
+[[Page 88]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=57)Firſt,
+curry with the Comb, then duſt, then curry with the Bruſh, then duſt, then rub
+with wet Hands, after with a clean Woollen cloth, after with a clean Linnen
+cloth, then pick all obſcure places; Laſtly, comb down the Main, and Tail.
+Then ſaddle him, and ride him forth to water. then warm him both before and
+after very moderately. ſo bring him home dry with­out ſweat.
+
+Then cloth him up after you have rubbed his head, body, and legs, and let him
+ſtand on his Bridle more then an hour, then give him the former quantity of
+Provender, and the ſame in kind.
+
+After he hath eaten his Provender, give him into his Rack a pretty bundle of
+Hay, and ſo let him reſt till after dinner.
+
+When you have din'd, give him the former quantity of Provender, and the ſame
+in kind, and ſo let him reſt till the evening; only renew his Hay, if there be
+occaſion.
+
+At evening dreſs him well, as in the morning, then ride him forth to water,
+and do as you did in the morning.
+
+When you come home, and have clothed him up, let him ſtand on his Bridle as
+before; then give him the former quantity of Provender, and ſo let him reſt
+till nine of the Clock at night; at which time give him the former quantity of
+Provender, and a pretty bundle of Hay, and ſo let him reſt till the morning.
+
+This you ſhall do concerning his Ordinary keeping at home, where the Horſe
+hath reſt, and that you may dispoſe of hours as you pleaſe; [[Page
+89]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=57) but if you be
+either in Travel, or Sport, or other occaſion, ſo that you cannot obſerve
+theſe particular times, then you muſt divide the main and whole quantity of
+Meat, into fewer parts and greater quantities, and give them at the beſt
+conveniency; ever obſerving to give the leaſt quantity before Travel, as a 3
+part before Moun­ture, and the two other after you come to reſt.
+
+Nor would I have you to diſtract your mind with any doubt or amazement,
+becauſe I pre­ſcribe you five ſeveral times of Feeding in one day, as if it
+ſhould either over-charge you, or over-feed your Horſe: Queſtionleſs there is
+no ſuch matter, when you look into the true pro­portion; for it cannot be
+denied, but whoſo­ever is worthy of a good Horſe, or good Means to keep a good
+Horſe, cannot allow him leſs than one Peck a day; nay the Carrier, Caerter,
+Poulter and Packhorſe will allow half a peck at a Watering, and this allowance
+which I ſet down comes to no more; for 15 pints of Oats, and one pinte of
+Spelt-Beans up-heaped, make two gallons, and that is one peck of Wincheſter
+meaſure. Now to give it at twice, fills the ſto­mack more, makes the digeſtion
+worſe, and the appetite weak; whereas to give leſs, but more often, the
+ſtomack is ever craving, the dige­ſtion always ready, and the appetite never
+wanting: ſo that health (without diſorder) can never be a ſtranger.
+
+Therefore once again, thus much for ordina­ry keeping.
+
+But if you intend to give an Heat, as to Hunt, Gallop, Travel, or the like,
+which I would wiſh you do once, twice, or thrice a week; Then [[Page
+90]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=58) obſerve all your
+former obſervations; only the night before give him little or no Hay at all.
+
+In the morning early before his Heat, and be­fore his dreſſing, give him three
+or four hand­fulls of clean ſifted Oats, waſht either in ſtrong Ale or Beer;
+Then dreſs him, Saddle him, and give him his Heat.
+
+But if it be ſudden and violent, then let it be when the Horſe hath emptied
+himſelf very well.
+
+After his heat Rub him very well, and bring him dry into the Stable.
+
+Then after he is Clothed up warm, let him ſtand on his Bridle at leaſt two
+hours, then give him a little bundle of Hay to tear out upon his bridle, and
+an hour after feed him as hath been before ſhewed: Only with the firſt Oats
+give him an handful or better of Hempſeed, well duſted and mixed.
+
+At night warm him a little water, and give him it luke-warm, then an hour
+after give him his Provender, and a pretty bundle of Hay, and ſo let him reſt
+till the next Morning.
+
+The next Norning do all things as in his Or­dinary keeping.
+
+Let him ſtand on Litter both night and day; yet change it often, and keep the
+Planches clean.
+
+If you intend to Travel or Journy in the Morning, then give no Hay, or but
+little the Night before, If you Journy in the Afternoon, then give no Hay, or
+but little in the Morning.
+
+In Journeying ride moderately the firſt hour or two, but after according to
+your occaſions. Water before you come to your Inn, if poſſible; but if you
+cannot, then give warm water in the Inn after the Horſe is fully cooled.
+
+[[Page 91]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=58)Trotters
+Oyl is an excellent Oyntment being applied very warm, and well chafed in, to
+keep your Horſes limbs and ſinews nimble, and to help ſtiffneſs and lameneſs.
+
+Neither waſh your Horſe nor walk him; for the firſt endangereth foundering in
+the body or feet, and breedeth all ſurfeits; the latter is the ground of all
+ſtrong colds. which turn to Glan­ders and Rottenneſs: but if neceſſity compel
+you to either, as foul wayes and long ſtays, then rather waſh your Horſes legs
+with pails of Water at your Stable-door, than to endanger him in any Pond or
+River.
+
+And for Walking, rather ſit on your Horſes back to keep his ſpirits ſtirring,
+than to lead him in hand, and with dull ſpirits to receive all man­ner of
+miſchief.
+
+This I think ſufficient for clean and Ordinary keeping.
+
+[[Page 92]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=59)
+
+## 4\. An Order how to breed Horſes.
+
+### 4.1. The choice of your Stallion and Studd Mares.
+
+FIrſt and principally you muſt foreſee, that your Stallion and Studd Mares be
+both of good and lively nature, and not ſubject to any natural diſeaſes. For
+as heavy Horſes and Mares will breed Colts of roiliſh and heavy nature, ſo if
+they be infected with any natural diſeaſe, their Colts for the moſt part ſhall
+be troubled with the ſame diſeaſe.
+
+### 4.2. Wild Mares be not beſt to keep for the Race.
+
+IT ſhall be well done that you handle all your Studd Mares, and make them tame
+and eaſie, whereby, beſides the commodity you may have of their work, which
+cannot hurt their taming if they be ſoberly handled, you may be ſure at all
+times to remove them from one Paſture to another, to bring them to be covered,
+and to take their Colts from them without great trou­ble; whereas wild Mares
+be not only cumber­ſome to keep, but alſo oftentimes do deſtroy the Colts in
+their bellies with their raſhneſs, when you ſhould handle them or any of their
+fellows.
+
+[[Page 93]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=59)
+
+### 4.3. At what age your Mare is firſt to be handled and covered.
+
+THe beſt age to take up your Mare to make her tame, and to break her, is when
+ſhe ſhall be two years old and the vantage, and ſo you may the year following,
+when ſhe ſhall be fully three years old and upward, put her to your Horſe to
+be covered, which in my opinion is the beſt age to put her firſt to the Horſe,
+al­though ſome Writers be of opinion, that it is beſt that ſhe be firſt
+covered at two years old.
+
+### 4.4. How to inforce your Mares to come to be ſtrained.
+
+YOu may moſt conveniently bring her to be covered of your Stallion, if four or
+five days before you will bring her to your great Horſe, you cauſe to be put
+to her in ſome cloſe Paſture, kept and fenced for that purpoſe, ſome ſmall
+ſtoned Nag to woo her, that ſhe may abide your great Horſe, foreſeeing that he
+be in no wiſe unfettered longer than ſome diligent man doth look on; for if
+the Nag be at liberty at any time after ſhe is diſpoſed to take the Horſe, ſhe
+will be ſure to be covered of him, though he be lower than ſhe by a cubit.
+
+### 4.5. The Order of covering.
+
+WHen you do perceive that your Mare will abide the Nag, and doth ſhew other
+to­kens that ſhe is deſirous to be covered, you muſt [[Page
+94]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=60) cauſe your great
+Horſe that ſhall cover her to be provendred, and not to drink much the night
+before he ſhall cover her. Then in the morning following, at the Sun-riſing,
+you may bring him to your Mare, or her to him, in ſome ſuch place as neither
+of them can leap out of; where when he hath covered her twice or thrice, let
+her re­main feeding on Graſs, with her Colt kept by her without water, but let
+your Horſe be taken up, well rubbed and well provendred to the next evening.
+And then put him to your Mare again where you left her, and let him cover her
+as often as he will that night, except you ſee your Horſe chafe ſo much that
+he will marr himſelf.
+
+### 4.6. How to uſe your Mare which is covered.
+
+ANd ſo muſt you of force be driven to take him from her the ſecond time, till
+the morn­ing following, at which time (except your Mare be ſatisfied with that
+which was done before) you muſt put to your Horſe the third time, and when he
+hath covered her as often as he will, between four of the clock in the
+morning, and eight of the clock before noon, take up your Horſe, and let your
+Mare be led into ſome water to the mid-ſide at leaſt, where ſhe may drink
+water; but not too much; and then let her be led and turned to the whole ſtud,
+where no other Horſes muſt come for a whole Month at the leaſt to beat her.
+
+[[Page 95]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=60)
+
+### 4.7. How to make that no mare ſhall go barren.
+
+ANd when you have thus ſeverally cauſed to be covered all your Mares, you muſt
+about Lammas, in the Month of July, or beginning of August, get a Mare or two
+which have not been covered that year before, and enforcing them to he horſed
+by ſuch means as before appointed, when they ſhall be ready to be covered, you
+muſt turn them with ſome other Stallion, whom you eſteem not as your beſt
+Horſe among your ſtud of Mares; and ſo he covering that Mare, or Mares, you
+turned in with him unto the ſtud, ſhall cauſe the reſt (if any of them have
+not conceived at their firſt covering) to come to that Horse againe; whereby
+you ſhall be ſure to keep no Mare barren all the year, but to have of every
+Mare a Colt, though not by your beſt Horſe: you may ſuffer that Horſe to run
+a­mongſt your Mares three weeks or a month. But if you turn him into your
+ſtud, putting no Mare in with him ready to be covered, he will at his firſt
+entry beat all your Mares, and ſo happily hurt all your Mares which had
+conceived be­fore, and ſo do more hurt than good.
+
+### 4.8. What time of the year is beſt for your Mares to be covered.
+
+The beſt time of the year to have your Mare covered, is from the end of May to
+the end of July, and then ſhall your Mare, which al­ways goes with Foal one
+year lacking a month, [[Page
+96]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=61) Foal in ſuch
+time of the year as ſhe ſhall find plenty of graſs to nouriſh her ſelf and her
+Colt withal. whereas if you ſuffer her to be covered in February, March, or
+April, ſhe will foal ſo rathe in the year, that oftentimes being bare, and not
+covered of the Winter paſt, ſhe doth hunger both her ſelf, and mar her Colt,
+for lack of feeding.
+
+### 4.9. To Dyet your Stand for the time he ſhall cover.
+
+HEre is to be noted, that although your Stal­land ſtanding at hard meat will
+not miſs to get a Colt on your Mare going to Graſs, (if ſhe be ordered and
+inforced as before) yet the beſt dyet for him for the whole time he ſhall
+cover, is to feed on Graſs, when he hath taſted of the Graſs with them, he
+will like his Hay the worſe; and alſo there is more danger in break­ing of his
+wind in feeding rather on Hay than Graſs.
+
+### 4.10. How your breeding Mare is to be uſed when ſhe ſhall foal.
+
+YOur breeding Mare that hath a Colt in her belly, muſt fourteen or fifteen
+days before ſhe foal be taken from the ſtud, and with ſome other gentle Mare
+or Gelding be put in ſome other rank Paſture well fenced for that purpoſe,
+which will not only make her luſty, and ſoon ready to be covered, and able to
+foal without danger, but alſo give plenty of milk to her Colt when he is firſt
+foaled.
+
+[[Page 97]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=61)
+
+### 4.11. How many years a Horſe will ſerve to cover your Mares.
+
+YOur Stallion uſed as is before, will ſerve for ſix or ſeven years, to cover
+every year ſeven or eight Mares and do you ſervice the reſt of the year
+beſides, whereas turned abroad to your Mares, he can do you no other ſervice,
+neither will he laſt above three years.
+
+### 4.12. The beſt age for Horſe or Mare to get or bear Colts, and how many
+years they will continue good
+
+THe beſt age for Horſe or Mare to get or bear Colts, is, for the Mare, from
+three years old till ten. And for the Horſe, from four or five years till
+twelve, and after that age the Colts of them wax heavy, weak and ſlothful.
+
+### 4.13. What time of the year is beſt to wean the Colts from their Dams,
+
+THe beſt time of the year to wean your Colts is at Candlemas, or Shrove-tide,
+after the time as your Colt is Foaled, wherein you muſt uſe much diligence,
+for if your Colt be not well weaned, well Summered, and well Wintered, the
+three firſt years and namely the firſt year when he moaneth for his Dam, he
+ſhall ſeldom or ne­ver come to be a good Horſe. And therefore when you wean
+your Colts, you muſt bring them to ſome houſe ordained for the ſame purpoſe,
+clean [[Page 98]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=62) out
+of the hearing of their Dams, wherein they muſt be pinned, and not to come
+abroad the firſt fourteen days out of the hearing of their Dams, whereunto you
+muſt have paſture ad­joyning wherein they may play, and feed every fair day
+after the fourteen days paſt, from the time ye begin to wean them, till graſs
+be fully ſprung in May, and put them into ſome ſuch paſture, as commonly your
+Milch kine be fed in, where they may neither, feeding in high and rank graſs
+hurt their Reins, or grow thick­necked, nor for lack of feeding hinder their
+growth, but feeding in a ſhort ſweet graſs, may prove well till they have
+forgotten their Dams
+
+### 4.14. What feeding is beſt for Colts, from two years old upward.
+
+THis is a general ground, that wet lying and lack of feeding in the winter,
+and old rank feeding in ſummer, from two years old forwards, doth marr the
+moſt part of our whole breed in England, which in my opinion, well ordered,
+would breed the beſt Horſes for all kind of ſer­vice, of the whole earth; for
+as wet lying and lack of good feeding in the winter, doth breed a heartleſs
+ill ſhapen Horſe, ſubject to all cold and watry diſeaſes both in his body and
+limbs; ſo over rank feeding in the ſummer, chiefly from two years old upward,
+doth breed an evil rein­ed, and a ſlothful horſe, ever ready (being overla­den
+with fat fleſh) to be more founderd, and to catch the Glanders and Cough upon
+every Cold. And therefore your beſt feeding of your horſe Colts [[Page
+99]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=62) from two years
+old upward for the ſummer feeding, is, where he may have a large walk, and
+hungry ſhort feeding, and not yet ſo bare but that he may (travelling for it)
+feed himſelf full once in a day, and that he hinder not himſelf of his
+growing, but in any wiſe keep your Horſe Colts from knowing any Mare till they
+be five years old,
+
+### 4.15. Why Engliſh Horſes being taken up ſo young, are not good.
+
+THe cauſe why our Engliſh Horſes be taken up ſo young, as I heave heard ſundry
+of our chief Horſe-maſters ſay, is, for that our Horſes being great and well
+fed, if they ſhould run till they ſhould come to their full ſtrength, would be
+ſo ſturdy and miſchievous to break, that they would rather miſchieve
+themſelves and their Breaker, than be made tame; which in my fancy is but a
+vain opinion. For there was never ſo ſturdy nor ſo wilfull a Horſe, which
+would not be tame and eaſie to handle, with watching and hunger, within one
+month at the furtheſt, if his Keeper will uſe diligence.
+
+### 4.16. The way to handle a ſturdy Horſe.
+
+ANd that may moſt conveniently be brought to paſs, if at the firſt coming into
+the houſe, before he will ſuffer his Keeper to handle him and to take up his
+feet, he do put no meat before him, but let him take all his feeding at his
+Keepers hands, and ſo ſhall you make him [[Page
+100]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=63) gentle and tame
+without ſtrives or ſtriving; and the order before appointed in his breaking,
+be­ing the Colt of a tame Mare, and fed ſome part of every winter at hand in
+the houſe, will acquaint him with the man, and make him al­moſt tame before he
+be taken up, which Colt ſhall ſeldom prove a fearful or a blenching Horſe.
+
+### 4.17. The uſing of Horſes after they be handled.
+
+ANd for Concluſion, whoſoever doth uſe to keep his Horſe bridled after riding
+till he be in good temper, and almoſt cold, and doth not give him water nor
+meat, being hot, neither doth ride him faſt upon a full ſtomach; ſhall ſeldom
+or never have his Horſe lame or ſick, if he breed him as is aforeſaid, before
+he take him up.
+
+### 4.18. What feeding is beſt in Winter for Mares, Weanlings, of two years
+old.
+
+ANd for the Winter feeding you muſt uſe one order for your Mares, and
+Weanlings two years old in ſeveral places, which is a hovel or houſe made for
+them adjoyning to your winter paſture, wherein you muſt ſometime in the evil
+weather, in a rack made for that purpoſe, give them ſome fodder, and be ſure
+that they be brought into that houſe every night that is like to prove wet,
+but in the froſty dayes and nights, it is beſt to pin them abroad.
+
+You muſt in any wiſe keep one paſture nigh to the houſe that you feed your
+Mare Colts in [[Page
+101]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=63) the winter
+time, which paſture may not be fed in before Shrove-tide, becauſe that time
+and the middle of May (before which, graſs is not ſuffi­ciently ſprung in moſt
+places for Horſes to feed on) is the moſt time of danger to hunger-bane of all
+the year, in which time, if your Colts grow­ing all the Summer following, will
+make your Colt Mares ſo bare that they ſhall not be able to foal, nor give
+their Colts ſufficient ſuck.
+
+### 4.19. At what age Colts may beſt be handled.
+
+WHen your Horſe-Colt hath been bred as is afore-appointed, the beſt age in my
+opinion to take him up to break, is when he ſhall be full four years old and
+the vantage, or if you may ſpare him and have good cloſe ground to keep him
+in, rather at five years old and the vantage, for then will his joynts and
+ſinews be ſtrong and well knit, his hoof ever tough, and not brittle, his eye-
+ſight good, his chine ſtrong, ſo that you cannot hurt him, neither in breaking
+nor in reaſonable riding, beſides he will laſt a good Horſe till he be 24 or
+25 years old, whereas if you will take him up at two or three years old; as we
+commonly do, you ſhall find him afterwards many times blind, brittle, hoofed,
+weak back'd, full of windgalls and ſplints, and ſhew himſelf to be an old
+ſtiff Horſe, before he come to be ten years old, as the moſt part of their
+Spaniſh Horſes do, becauſe they are taken up ſo young; which is, becauſe that
+in Spain they have no good cloſe ground to let their Colts run longer in, and
+not for any other Commodity.
+
+[[Page 102]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=64)
+
+## 5\. Approved Receipts, For the Curing of all Diſeaſes Incident to HORSES.
+
+### 5.1. Receipt. I. To draw out any Thorn or Nayl, in any place.
+
+TAke Dod monds, which are houſe Snails, and ſeeth them in Butter and apply
+them, and they will draw out any Thorn or Nayl: And ſo will the Roots of
+Reeds, if they be bruiſed and laid to, being bound to the wounded place with a
+linnen cloth: He may run out, but to ſtand in is better. Proved.
+
+### 5.2. II. A perfect Drier of a Green Wound, or any other Sore.
+
+TAke Soap and unſlaked Lime, and mix them well together; but before you lay it
+to, waſh the wound or ſore with a little White-wine Vi­negar, and then apply
+it. Proved.
+
+A Marrow-bone burnt and made into powder, and ſtrewed on a Sore or wound is a
+great Dryer.
+
+[[Page 103]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=64)
+
+### 5.3. III. For any Anbury.
+
+TAke a hot Iron and make it very ſharp; and take the Anbury in your hand, and
+ſear it off to the bottom with a red hot Iron: Then mix a little beaten
+Verdigreaſe and Train-oyl together, heat them and anoint the place once a day
+till it be whole. Proved.
+
+### 5.4. IV. For the Flapps in an Horſes mouth.
+
+TO know this, you ſhall perceive his Lips to be ſwell'd on both ſides of his
+mouth, and that which is in the bliſters is like the white of an Egg; you muſt
+cut ſome ſlaſhes in it with a knife, then rub it once with Salt and it is
+cured.
+
+Proved.
+
+### 5.5. V. To rot a Sore or Swelling.
+
+ANoint the Sore or ſwelling with cold Bacon­greaſe once in two days, till it
+be ſoft, then open the skin with a Pen-knife at the bottom of the Sore, and
+let out the filth; and ſo heal it up with your healing Salve. Proved.
+
+See the water and Green Oyntment.
+
+### 5.6. VI. Directions how to lay a Wound open, and where; and how to miſs
+the Veins un­der it, be it in Body or Legs.
+
+WHen you cut a Sore open, lay it drayning at the bottom, or a little lower: Be
+ſure [[Page 104]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=65)
+always to do this; To miſs the Maſter Vein, if it lye lengthwiſe in the body,
+be ſure to cut under the Vein; If it be a Sore upon the Leg, that lyes right
+over the Vein, then cut it ſide­wayes of the Vein right up and down. If a Sore
+happen to be hollow a great length, be it in Bo­dy or Legs, then cut a hole at
+the loweſt place, that the filth may drain from the Sore the bet­ter, then put
+in your finger under the Vein, and when your finger is paſt the Vein upwards
+as far as it will go, cut at your fingers end another hole, and if you fee
+occaſion, turn your finger to an­other place, and at your fingers end cut
+another hole. If you chance at any time to cut a Vein in pieces, put in a
+piece of a Hares—ſkin with the wool on, or Cony wool, but Hares is beſt, and
+this will ſtop the bleeding. Proved.
+
+That Hares wool will ſtop bleeding ſooner than moſt things: See Receipt, To
+ſtop bleeding in Veins that be cut.
+
+### 5.7. VII. The way to put in a French Rowel.
+
+THat is, upon the loweſt part of the Horſes breaſt to that ſide that is lame,
+you ſhall with a ſharp knife cut the skin through, not croſs the breaſt but
+right down, half the length of your finger, then put your finger between the
+skin and the fleſh, and raiſe the skin from the fleſh round about the hole the
+breadth of a ſix pence, then take a piece of the upper leather of a ſhooe, and
+cut it in the manner of this Figure here preſcribed; cut the piece of Leather
+round, and then cut out a hole
+
+_[figure]_
+
+[[Page 105]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=65) round,
+as you ſee by the figure, then put a Needle and a thread through it, as you
+may per­ceive by the two pricks in the top and bottom of the hole; then take a
+Tobacco-pipe or a quill, and cut it ſo that the wind may go through it; and
+put one end into the hole of his breaſt up­wards and blow in the wind, and
+beat the wind upwards to the top and all over his ſhoulder; when you have
+blown it two or three times, run the Needle and thread once through the Rowel
+and once through the skin, and draw the Rowel into the cut: When you have thus
+placed the Rowel in the cut, with the hole of the Rowel right againſt the hole
+that you have cut in the breaſt, ſo that it may not move: then with your
+Needle and thread run a ſtitch or two o­verthwart the cut to keep in the
+Rowel, as you are directed in the Margin: When you have done thus, anoint it
+with a piece of butter, and let the Rowel ſtand a week in the hole, and then
+cut the thread and take it out. This is the beſt Rowel that is. Proved.
+
+_[figure]_
+
+Your breath muſt not ſmell of Tobacco when you blow the skin up (for a ſweet
+breath is beſt,) if it do, the place will ſwell the more.
+
+### 5.8. VIII. A rare Green Oyntment to heal any Wound, old or new, quickly
+
+TAke an handfull of water-Betony, as much of Comfry, of Mugwort; red Sage,
+Sage of Bethlehem, by ſome called Jeruſalem Sage, of Sothern-wood, of Rue, by
+ſome called Herb of grace, of Roſemary, of each of theſe an hand [[Page
+106]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=66) full, boyl all
+theſe in a pint of May Butter, and as much Mutton Suet, and when it hath
+boyl'd a while, take it off the fire and ſtrain it through a cloth, and put it
+into a pot for your uſe. This Oyntment will laſt good a year. Proved.
+
+Before you lay this Oyntment to, waſh the Wound firſt with the Water which you
+have in Receipt. 38.
+
+### 5.9. IX. To take a Film off an Horſes Eye.
+
+YOU muſt take as much of Dialthaea as the bigneſs of a Walnut, and put to it
+the powder of Verdigreaſe as much as an Haſel­nut, mix them well together▪
+then every day Put into his Eye as much of it as the bigneſs of a Peaſe; this
+will take of any Film whatſoever.
+
+Proved.
+
+### 5.10. X. A Medicine to defend and keep back humors from a Wound, ſo that
+it may heal the ſooner.
+
+TAke two pints of Tartar, or the dregs of White-wine Vinegar, but the Tartar
+is bet­ter; and put in as much Bolearmonick as con­tain to an Egg, an handfull
+of white or bay Salt, and an handfull of great Burdock leaves, or the Roots,
+waſh the ſwell'd place, and round about the Swelling with this once a day;
+this will haſten the cure very much, if you do ſo waſh it with this, and apply
+to the wound your heal­ing Salves or Oyntments, as you may in this Book be
+furniſhed with ſtore of them for that purpoſe. Proved.
+
+[[Page 107]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=66)
+
+### 5.11. XI. Another for the ſame.
+
+TAke a pint of Verjuyce, and put to it three penny-worth of Camphire cut very
+ſmall, boyl them together a quarter of an hour, and when it is almoſt cold put
+it into ſome glaſs or pot, and waſh the ſwell'd place round about it once a
+day with this, till it be healed with other Medicines.
+
+This will much further the Cure of any Wound or Sore, where humors do fall
+down to it, whilſt you do apply other Medicines to heal up the Sore or Wound:
+For theſe defenſives are for no other purpoſe, but to keep back humors that
+hinder Sores or Wounds from healing.
+
+Proved.
+
+### 5.12. XII. A rare Receipt for a Farcion.
+
+TAke Mullin, by ſome called Higtaper, it hath a great woolly leaf, it groweth
+cloſe by the ground upon the banks of Ditches or in the high-ways ſide,
+Chickweed, Groundſel and Wood Betony, of each an handfull, cut them ſmall and
+boyl them all in a quart of Ale, and when it is luke-warm put in two penny-
+worth of Quickſilver, and give it him to drink faſting: The third day after
+give him the like proportion, warm water all the while to drink, and to ſtand
+in. Proved.
+
+[[Page 108]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=67)
+
+### 5.13. XIII. For a Horſe that hath his Fundament fallen out; or for a Cow
+that hath the Mother fallen out.
+
+TAke an armfull of Willow boughs, and dry them on a hot Hearth, when they are
+dry ſweep the Hearth as clean as you can, and ſet them on fire and burn them
+to aſhes, then take the aſhes and ſearce them through a fine boulter, and
+before you ſtrew on the powder of the aſhes, waſh the Fundament with warm
+water to make it as warm as the body, then ſtrew on the fineſt of the aſhes,
+and put the Fundament up into its place, then tye a line to the Horſes tayl,
+and bring it between his hinder Legs, and faſten it to a Surcingle under his
+belly pretty ſtraight; uſing this means his Fundament will be kept up, and in
+a very ſhort time, it will be knit firm and ſtrong again. If the Mother of a
+Cow come forth, uſe but the aforeſaid means, and you will find it a perfect
+remedie. both proved.
+
+White Pepper beaten finely and ſearced through a fine ſearce, the Fundament
+being well warmed with warm water or milk, and after warmed with a warm cloth,
+and then this beaten Pepper ſtrewed upon it, and ſo put up and his tayl tyed
+cloſe between his Legs, as before, you will find it very good.
+
+A Marrow-bone of a Bullock burnt in the fire, and beaten to fine powder, is,
+for a Wound, a great and good dryer and healer, and will skin a Wound. Proved
+
+The inward and outward bark of a Willow­tree, [[Page
+109]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=67) firſt dryed,
+and afterwards the hearth being ſwept very clean, burnt to aſhes, and the
+aſhes ſifted through a fine boulter: the fineſt of theſe aſhes is good to dry
+up any Sore, nothing like it. Theſe aſhes are likewiſe a great binder for a
+looſneſs in Horſes or Cows bodies. Proved.
+
+### 5.14. XIV. To kill Lice of horſes and Cows.
+
+TAke a quantity of Hogs-greaſe, and anoint the Horſe underneath the Mane, and
+upon the ridgebone of the back; it will burſt them all preſently.
+
+### 5.15. XV. For a Stub or other hurt in or about the Foot.
+
+TAke Bees-wax, Pitch, Hogs-greaſe, and Tur­pentine, boyl them together in an
+earthen pan, but put in the Turpentine a little before you take it off the
+fire, and ſtir it well together, make the wound clean and pour it in ſcalding
+hot, dip hards or tow in it, and ſtuff the place where it is hurt full with
+it, and it will heal it in a ſhort time; this will laſt a year. Proved.
+
+### 5.16. XVI. To Cleanſe any Wound old or new.
+
+TAke the Roots of Elder and beat them to powder, and boyl them with Engliſh-
+Hony▪ It is good to cleanſe any Sore old or new. But take this for a general
+obſervation, that before you dreſs any Wound, let it be where it will about
+the Horſe, waſh it clean firſt with White­wine [[Page
+110]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=68) wine Vinegar,
+and then dreſs it with your Salve.
+
+Proved.
+
+### 5.17. XVII. For the Sleeping Evil.
+
+THe ſigns to know it are, The Horſe will ſtand ſleeping in a corner
+continually, with his head hanging down to the ground, it takes away his
+memory. The Cure is to be performed thus: Let him blood on both ſides the neck
+in the mor­ning faſting before he drink; let him blood alſo in the mouth, in
+the third furrow in the roof of his mouth, and after he hath bled well, give
+him this Drink: Take of Camomil and mother­wort together three handfulls cut
+ſmall, and boyl them in two quarts of Running water half an hour, and then
+give the Horſe a pint once in two days faſting, the third day give him the
+reſt faſting, and three or four hours after give him warm water; and a little
+comfortable Maſh made of ground Mault put into ſcalding hot water after it
+comes of the fire, keep him in the houſe warm the time of the cure, and fume
+his head as you do for the Staggers, and this in a ſhort time is a perfect
+cure. Proved.
+
+### 5.18. XVIII. To ſtop bleeding at the Noſe.
+
+THe chief cauſe thereof is the thinneſs of the Vein in the head; you muſt let
+him blood in both the Plate veins, and then wind a thumband of wet Hay about
+his neck, and throw cold wa­te upon the thumband till you ſee the blood to
+ſtanch; the thumband muſt be ſo long, that it may be wound from his ears to
+his breaſt very lightly.
+
+[[Page 111]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=68)
+
+### 5.19. XIX. For the Falling Evil in an Horſe.
+
+THe Falling Evil will cauſe him ſuddenly to fall down, and to lye ſprauling
+with his heels, and foaming at the mouth, like a man that hath the Falling
+ſickneſs; you ſhall know whether he be ſubject to fall often by feeling him by
+the gri­ſtles of his Noſe, which will be cold if he be ſubject to it. The Cure
+is, to let him blood on both ſides of his neck, after he hath bled, in the
+morning before he drink, give him this Drink: Take Miſeltoe that groweth upon
+an Apple-tree, the leaves are like Ivy leaves, dry it and rub it to powder,
+and uſe it at your leiſure: give him of this powder of Miſeltoe one ſpoonfull
+in half a pint of Sack, and keep him in the houſe till he be well, and give
+him to drink water luke­warm. Proved.
+
+You may add to the Miſeltoe three drams of the Electuary, called Theriaca
+Diareſſeron, or the Oyl of Pepper one dram, or a dram and an half.
+
+### 5.20. XX. For a Cough old or new, or the heaving of his Lungs.
+
+TAke the Root of Gentian, which you ſhall have at the Apothecaries, ſlice it,
+dry it; and beat it to powder, give the beaſt as much of this powder as will
+lye upon a ſhilling in half a pinte of his own water, give this to him faſting
+once in three days, and ſo continue every third day, till you ſee his Cough
+and Heaving to abate or be quite gone, the cold of his water muſt be juſt
+[[Page 112]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=69) taken
+off, and he muſt ſtand in all the time of the Cure. This for an old Cough or
+heaving of the Lungs, is the beſt Cure in the World.
+
+Proved.
+
+### 5.21. XXI. For a Canker in the Tongue.
+
+YOU ſhall ſee his mouth and tongue raw within, you ſhall know it by his
+ſtinking breath and his roping ſlavering: Which to Cure, take as much Roch
+Allom as contain to an Egg, boyl it in three or four ſpoonfuls of White­wine
+Vinegar, with a ſpoonfull of Engliſh Ho­ney, and an handfull of Columbine
+leaves cut ſmall, waſh his tongue once a day till it be whole: It will be
+cured in two or three times dreſſing; you may tye a rag about a ſtick and waſh
+his mouth. Proved.
+
+### 5.22. XXII. For a Vein that ſwells upon letting Blood
+
+AS when the wind gets in it will do, or when a fleam miſcarries it will do the
+like. For the Cure of which, take white Pitch, black Pitch and Roſin, of each
+a like quantity, boyl them together and lay it on hot with a flat ſtick, and
+then flock it, and this doing once in four or five days will take down the
+ſwelling, do it all over the ſwelling, if once will not do, do it oftner: he
+muſt ſtand in with dry meat the time of the Cure. You may anoint it with the
+Oyl of Po­pulion; or apply Sope and Brandy.
+
+Proved.
+
+[[Page 113]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=69)
+
+### 5.23. XXIII. For a Navel Gall,
+
+TAke and cut off the looſe skin firſt with a knife, and apply to it this
+Salve: Mix as much as a Walnut of Verdigreaſe, with a ſpoon­ful of Dialthaea,
+and a pint of Train Oyl, and it will cure it: if it be old done and hard, cut
+out the cruſh, and ſear the wound within with a hot Iron, and then dip ſome
+Cotten in the green Oyntment, and put it in as a Tent. Proved.
+
+### 5.24. XXIV. For a horſe that piſſes Blood.
+
+TAke of Tarragon a ſpoonfull and ſteep it in white-wine, and as much Poppy-
+ſeed beaten, as will lye on a ſhilling, give this in the white-Wine, and it is
+a certain cure: Give this faſting: Probatum eſt.
+
+### 5.25. XXV. For the Mules.
+
+YOU ſhall know this by the ſtaring of the hair above the fore part of his hoof
+on his after-Leg, and by the dew that ſtands on his feet above the hoof. For
+the Cure: Take Lynſeed Oyl, and black Sope of each a like quantity, boyl them
+together, and before you anoint his Sore at any time, waſh it clean and dry
+it, and then anoint it with the aforeſaid Salve, and it will cure. Proved.
+
+### 5.26. XXVI. For a Horſe burnt with a Mare.
+
+YOU ſhall know this by the mattering of his Yard within: For Remedy take a
+pinte of [[Page 114]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=70)
+vvhite-Wine, boyl in it a quarter of a pound of Roch Allum, and vvhen it is
+boyled and cool, it muſt be ſquirted in vvith a Syringe, as far into his Yard
+as you can, this vvill cure him in a few times doing. Proved.
+
+### 5.27. XXVII. A precious Oyntment that will cure any Wound, old or new.
+
+TAke half a pint of refined Sallet Oyl, and put it into a Skellet, then put to
+it a quarter of a pound of Roſin, boyl theſe together, and vvhen it is boyled,
+put in three penny-worth of Verdigreaſe beaten to a fine powder, ſtir them
+vvell together, and keep it for your uſe; if the vvound be hollow and deep,
+put in a tent of this Oyntment to the end of the vvound, a­nointing it beſide:
+Proved. Train Oyl and Verdigreaſe melted together, vvill heal and skin any
+wound▪ well and quickly.
+
+### 5.28. XXVIII. For a Farcyon.
+
+YOu muſt firſt give him the drink that is made vvith Running water, in that
+Receipt which you are to give once in three dayes; For this Farcyon, you muſt
+in the morning before he hath drank, give him that drink made of the Running
+vvater, the ſame morning ſear the head of every bud vvith a hot Iron, then
+take yellow Arſenick and beat it to powder, and mix it with black Sope, as
+much Arſenick as a Haſel-nut, to as much black Sope as a ſpoon vvill hold, or
+a little more, then lay on a little at a time for once and no more, lay it on
+no where but juſt on the top [[Page
+115]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=70) or head of the
+bud of every Farcion, as much as contain to a Peaſe vvill ſerve, being laid
+upon the top or head of every Farcion, and vvithin one Week you ſhall ſee them
+all drop out; then do nothing but anoint the hole with Sallet Oyl once a day
+till it be whole, and it will cure him; be ſure to do as I have directed and
+no other­wiſe, for Arſenick is rank Poyſon, and a great eater. Proved
+
+### 5.29. XXIX. For Solebatted with going without Shooes.
+
+FOr a Horſe that is Solebatted by going vvithout Shooes, you muſt firſt pare
+him cloſe tovvards the Toe, then take a Pen-knife, and vvith the point cut a
+little hole through the bottom of the Hoof, a matter of half an inch from the
+Toes end right over the vein, and let the vein bleed a quarter of a pint, then
+ſet on his Shoes pretty hollovv vvithin the feet, and boyl Tar, Tallovv and
+Turpentine together, and pour it into his foot or feet ſcalding hot, and ſtuff
+in Wool or Hards after it, to keep and make it ſtay in; you may put in flat
+ſticks betvveen his Shooes, and the bottom of his Hoof, and it is cu­red vvith
+once putting in. Proved.
+
+### 5.30. XXX. For Pricking in the Foot.
+
+WHen a Horſe is pricked in the Foot, vvhen he ſtandeth ſtill he vvill moſtly
+ſtand up­on his Toe: and if at any time a Smith prick a Horſe, then before you
+take off his Shooe to pare his Foot, take your pincers and try by nip­ping
+[[Page 116]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=71) him with
+them where the ailment lyes, or by knocking in of the Nail upon the head with
+your Hammer; as ſoon as you ſee where the ail­ment is, take off his Shooe, &
+pare him by degrees with the butter is and your drawing Knife, when you have
+found the bottom of the wound, and have made it clear to your mind, then take
+Tur­pentine, freſh Butter, with a little black Pitch boiled together, and pour
+it in ſcalding hot, then dip ſome hards or Tow in the ſame, and ſtuff it well
+between the Shoo and Foot, you may take a piece of upper Leather or Sole-
+Leather and do it between the Shooe and the Hards, or you may ſplinter it in
+with ſticks: But if it be a long Chan­nel Nail that ſtruck into his foot on
+the Road as you rid him, or as you wrought him, then pluck the Nail out, and
+heat it preſently red hot, and put it into the hole ſo far as it went in at
+the firſt; when you have thus ſeared it with the red hot Nail, which will keep
+it from rankling and feſtring, then melt Turpentine and freſh Butter, with a
+little black Pitch together, and pour it in ſcalding hot; then clap on the
+Shooe, and ſtuff the foot with Tow or Hards, keeping it in as before you were
+directed, this will cure certainly. Proved.
+
+### 5.31. XXXI. An Oyntment to skin or heal any Wound or hurt
+
+TAke two ſpoonfulls of Dogs greaſe, one ſpoonful of black Sope, and as much
+Roch Alom burnt and beaten to powder as a Haſel-Nut, put the burnt Allum in
+when the other are [[Page
+117]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=71) melted and
+taken off the fire, and ſtir them vvell together in an earthen Veſſel, and you
+may keep it a year or more: not tryed, but it is very pro­bable.
+
+### 5.32. XXXII. To take down any Swelling being new, whether it be broke or
+not broke.
+
+TAke tvvo pintes of red Wine-Vinegar, and boyl in it ſour handfulls of Foles-
+foot leaves, not cut, but vvrung a pieces vvith your hand, vvhen it begins to
+boyl, put in tvvo handfulls of Bay Salt, and vvhen the Salt is melted in it,
+take it off the fire, and vvhen you uſe it, heat it as hot as you can indure
+your hand in it, and vvith it anoint the place once a day till it be
+aſſvvaged: This alſo is a very likely Medicine, but by me not tryed.
+
+### 5.33. XXXIII. For a Quitterbone, though far gone and hard to cure.
+
+_[figure]_
+
+TAke off a quarter of the hoof right under the Quitterbone, that it may drain
+the better, you may do it after this manner that this figure directs. Take a
+dravving Knife, and dravv it dovvn after this manner, to the quick on both
+ſides and belovv, according to the figure then take hold vvith a pair of
+Pincers preſently belovv the piece of Hoof, then pull it avvay, vvhen it is
+off, lay a piece of Hares skin to it lightly to ſtanch the blood, and do not
+look to it in tvventy four hours, then take all the [[Page
+118]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=72) Hares-skin
+away, and waſh it once with Wine-Vinegar, and ſcald it with Butter and Salt
+boy­led together as hot as may be, to kill the rank­ling▪ and to keep it from
+dead fleſh, do this three times once every other day: And then take
+Verdigreaſe as much as three Haſel-nuts beaten to powder, then take a quarter
+of a pint of Wine Vinegar, and as much Hony, boyl them together vvith the
+Verdigreaſe, and keep it continually ſtirring the time it boyls, which muſt be
+half an hour, then take it off the fire, and put it into a Pot or Pipkin, and
+anoint the wound with it once a day till it be whole; when it is whole, then
+anoint the Hoof to make it grow, with Tar, Tallow, Turpentine, Dogs-greaſe
+boyled together, put in the Turpentine a little before you take it off the
+fire, and ſtir it well, keep him dry in the houſe the time of the cure:
+for­bear to pull off the Hoof if you think you can cure him without, for that
+will take a long time the curing, to make the Hoof compleat; this is a certain
+way, but it is none of the readieſt, this way is vvhen all other waies fail.
+
+### 5.34. XXXIV. For a Foundred Horſe.
+
+_[figure]_
+
+TO take out the Soals of his Feet you muſt pare the Foot thin, then at the end
+of the Fruſh you muſt cut the Hoof after this manner, as this Figure ſhews.
+Cut the middle of the Soal juſt at the Fruſhes end, in the fa­ſhion of a Hens
+tongue, and raiſe it a lit­tle with the point of your Knife, as you may ſee in
+the midſt of this Figure, which I have made near the faſhion of a Horſe Hoof,
+when you [[Page 119]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=72)
+have cut and raiſed the little piece at the Fruſhes end, then take your Pen-
+knife, and with the point thereof, prick the vein till it bleed, the vein lyes
+right under the little piece in the middle of the foot at the Fruſhes end,
+when it hath bled, cloſe down the piece of Hoof again, then let him ſtand in
+the Stable the time of the Cure, and not drink his water abroad, when you ſee
+him halt, and that you think it is feſtred e­nough between the Soal and the
+quick, round a­bout the bottom of the Hoof, being thus feſtred, the ſoal will
+come out eaſier by a great deal and with leſs danger of pulling away the veins
+with the Soal of the foot; if you let it feſter in this manner, before you
+pull it out, you muſt take your drawing Knife, and draw the Hoof to the quick,
+round about the Soal within the Hoof, as you may ſee by this Figure: When you
+have drawn it to the quick round about, then raiſe the ſoal at the Toe, and
+take hold of it with a pair of Pinſers, and pull it upwards to the heel; and
+ſo pull it quite out: when it is out, apply Hares wool to Hſtanch the blood,
+and within 24 hours take away the wool again, then waſh the ſoal of the foot
+with Chamber-lye, then ſet on the Shooe and put in Pitch, Turpentine and Hogs-
+greaſe melted together, of each an equal proportion, dipping hards or Wool in
+the ſame Medicine, and apply it to the bottom of the Foot, ſtuff it in with
+ſplinters, or a ſoal of Leather to keep it it; apply this Medicine three times
+in a week or ten days, three times is e­nough: You muſt never take out the
+Soals of both his fore feet at one time, for then he will never be able to
+ſtand; hereafter in another [[Page
+120]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=73) Chapter I will
+give you the practiſe of another, which in my judgment is far more eaſie for
+the Beaſt than to feſter the Foot; which is, firſt to cord the foot-lock hard,
+that it may not bleed, then to draw round about the Soal to the quick, and ſo
+to pull out the Soal without feſtring, by cording of it; it will not bleed at
+all after you have pulled out the Soal, ſo that you need not to take care to
+ſtanch the blood, but as ſoon as you have pulled out the Soal, you may waſh it
+with Chamber-lye and then put in the aforeſaid mate­rials: After you have ſet
+on the Shooe, ſtuff it as you were before directed.
+
+Proved.
+
+### 5.35. XXXV. For a Splent.
+
+YOu muſt caſt the Horſe firſt, then you muſt beat the place with a blood-ſtick
+or other ſtick till you feel it ſoft; then fleam in three or four places upon
+the ſplent, and ſqueeſe out the blood with your ſtick, your fingers and thumb,
+then take as much Hogs greaſe as a Wallnut, as much Bolearmoniack, and
+Brim­ſtone as much, beat theſe two laſt to powder, and mix them with greaſe,
+and ſpread it upon a ſheet of gray Paper, and lay it upon the ſplent, then
+heat a Brick very hot, and dry the Medi­cine in it, then melt ſome black Pitch
+in an Iron pan, and dip ſome flocks in it, and dab it on all over the ſplent
+cloſe, that it may lye on ſure, & when the flocks come off, the ſplent will
+come out, but if the flocks come off before the ſplent, then lay on more
+flocks till the ſplent come out, and as ſoon as it does come out, waſh it with
+a [[Page 121]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=73) little
+White-wine Vinegar, and then anoint it with Sallet Oyl and Turpentine melted
+toge­ther; anoint it cold till it be whole, once a day, and in a weeks time
+the ſplent will come out and be whole: This you may do, but it makes a great
+blemiſh, it takes away hair and fleſh, and ſometimes the hair comes no more:
+You ſhall have a Receipt hereafter for this purpoſe, that will not take off
+the hair nor break the fleſh: It is a very gallant one, that will lay the
+ſplent flat in a few hours.
+
+### 5.36. XXXVI. For a through great Splent.
+
+BEat it and fleam it, as you were directed in the other, then take as much
+Crown Sope as an Egg, and mix it with as much Bolearmo­niack on purpoſe that
+none may knovv that you uſe any thing but Sope, lay it on a piece of gray
+Paper, and heat a Brick hot and dry it in, as you did the former, this is much
+of the nature of the former. Proved.
+
+### 5.37. XXXVII. For a Splent great or ſmall, an excellent one.
+
+IF it were never medled with before, be it great or ſmall, this will cure it:
+Firſt, take a piece of Leather as broad again as will cover the Splent, then
+take of Cantharides which is a flye that you may have at the Apothecaries, and
+beat them to powder or very fine, take of them half a quarter of an ounce at a
+time, mixed with as much Nerve Oyl, as contain to half a Wall­nut, bray them
+well together, and lay them [[Page
+122]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=74) upon a piece of
+Leather, and bind it on for eight or ten hours, and then take it off, and
+ſtroke it down with your Fingers and Thumb twice or thrice a day, till you ſee
+it quite fallen: This Medicine will diſſolve the Splent into a Water, and you
+ſhall ſee it ſweat out drops of water, doing it with your fingers and Thumb
+every day: If it be a great through Splent lay it on twice, if it be a little
+one, but once doing will ſerve; he muſt ſtand in all the time of the Cure; you
+may ride him after you have taken the Medicine off, take a piece of Tape to
+bind it on: Make no more at a time than you ſhall uſe, it will not laſt as to
+do good. This will not diminiſh a hair, but ſink it flat. This Medi­cine is
+not to be laid to a Splent that hath been formerly medled with, where the
+ſwelling ſtill remains, and the hair is come off▪ and the skin very thin; the
+Medicine is too ſtrong, and will ſoon eat the thin skin a pieces in ſuch a
+caſe. Proved to be right good.
+
+### 5.38. XXXVIII. A Water to cure any old Wound, or green, in Man or Beaſt.
+
+TAke half a pound of Bolearmoniack, a quar­ter of a pound of white Copperis,
+two ounces of Roch Allum, beat your Roch Al­lum and Copperis ſmall, and put
+them into a Pipkin, and melt them together, and when they are cold, put them
+with the Bolearmoniack into a Mortar; and beat them all together to a fine
+powder, then take a pottle of Running Spring water, where the Spring boyls
+with a blew [[Page
+123]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=74) ſand at the
+bottom, if poſſible, rather than in any other Spring, ſet this pottle of
+Spring-wa­ter on the fire with a cloſe Skellet, till it be ſcal­ding hot, and
+then put it into a clean earthen Pitcher, and put two ſpoonfuls of this powder
+into the water, and ſtir it up well together, be­fore you let it ſtand to
+ſettle, and vvhen the vvater hath ſtood two or three days ſetling; then skum
+off the upper moſt froth, put the vva­ter into another Pitcher clean from the
+dregs, and afterwards uſe it vvhen you have occaſion: But vvhen you uſe it
+either for man or beaſt, vvarm the vvater as hot as can be indured either by
+man or beaſt: When you vvaſh any vvound of a man, let the cloth lie a vvhile
+vvet upon the vvound, and vvet a double cloth in the ſame vvater, and bind it
+on plaiſter vviſe, renevving it tvvo or three times a day: For any vvound, old
+or nevv, alvvaies vvaſh it firſt vvith this vvater, and then apply the green
+Oyntment to it after­vvards, vvhich you ſhall find in R. VIII.
+
+Proved
+
+### 5.39. XXXIX. A Receipt to cure a Horſe Peſtilence.
+
+TAke of Wormwood a handful, of Rue a handful, of Selendine roots a handful, to
+be cut ſmall, then put them into a quart of Aloes Milk, boyl it till it comes
+to a pint. Then ſtrain it, and put to it half a pound of freſh Butter, then
+give it the Horſe in the morning faſting, pretty vvarm, and keep him from
+drinking two daies, and if he does drink, let it be cold water; and if graſs
+may be had let him ear graſs.
+
+[[Page 124]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=75)
+
+#### 5.39.1. Another Receipt for a Febula, or Horſe-Peſtilence.
+
+TAke one ounce of Storax, one ounce of Benjamin, one ounce of Betony, a
+quar­ter of an ounce of Engliſh Saffron, theſe being beaten all to a powder,
+put them into a quart of new Ale, and give it to the Horſe to drink; Let him
+not have any warm water, but keep him as before, from any drink two dayes, and
+let him eat graſs, if to be had.
+
+### 5.40. XL. For the Yellows.
+
+YOu ſhall know this by his faint ſweating at the roots of his Ears and the
+white of his Eyes will be yellow; you muſt firſt let him blood in the Neck
+veins, or on both ſides of the Neck; then take Elder Leaves, Cellendine, and
+Camo­mile, of each a handfull, cut them ſmall, and give them to the Horſe in a
+pint and a half of the beſt Beer being heated lukewarm, faſting; you may run
+your Cornet-horn into the third roof in the palat of his mouth, keep him warm,
+and give him warm water to drink for a day or two, and this drench will
+certainly cure him.
+
+Proved.
+
+### 5.41. XLI. For a Cheſt-Founder.
+
+To know this, he will go crimpling, and ſtand ſtradling, and covet lye to
+down: Take ſix penny-vvorth of the Oyl of Peter, and bath [[Page
+125]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=75) it well into
+his breaſt, rub it in well at the firſt, then dry it lightly with a hot Iron:
+this with once doing will be a perfect Cure: Not tried but very likely.
+
+### 5.42. XLII. For a ſwelling under the Jaws, when a Horſe hath the
+ſtrangling.
+
+FOr a ſwelling of this nature, take nothing elſe but Bacon-greaſe and anoint
+it, which will if it be hard, ſuddenly ſoften it with twice anointing, and
+when it is full ripe let it out; ſome uſe to burn the ſwelling with a Candle
+be­fore they anoint it, and it will cauſe it to break the ſooner; let it out
+with the point of a Pen­knife, and ſometimes there will come out a pinte of
+filth, when it is clean out, put in ſome white Salt: when any ſore is ſoft,
+let it out with the point of a Pen-knife, lay it drayning as much as you can,
+with all the advantages you can: If it be a ſore in any other place than the
+Throat, rot it with Bacon-greaſe, and open it, and put it out, and heal it
+with the green Oyntment mentioned in R. XXXVIII. You muſt have a care of
+veins, that you do not cut them:
+
+Proved.
+
+### 5.43. XLIII. For a Sore.
+
+IF a Horſe hath a Sore in his ſide or elſe where, rot it firſt with Bacon-
+greaſe, then open it in the midſt, and let the hole below enough; that you may
+put your finger in from the middle of the wound downwards, cut it in the
+midſt, and ſlaſh it quite down to the bottom, [[Page
+126]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=76) it will drain
+the better, and heal the ſooner a great deal: Heal it up with the green
+Oyntment, dreſſing it once a day, and always before you lay your green
+Oyntment to the wound, waſh it with the rare water to heal any wound firſt.
+This is that I adviſe you, when you waſh a wound with this water, dry it with
+a clean linnen cloth, before you lay your green Oyntment to: This water and
+green Oyntment will heal any wound old or new, if you obſerve and do as I have
+di­rected; if there be any proud fleſh in any ſore, be the ſore in what place
+it will, ſcald it with Butter and Salt, and it will eat it off, and help to
+heal it preſently Proved.
+
+### 5.44. XLIV. To make a Horſe piſs, that is troubled with the Wind-Colick,
+or Obſtruction in the Bladder.
+
+TAke a quarter of a pound of Caſtle Sope, and ſcrape it ſmall, then put to it
+two ounces of Dialthaea, which you ſhall have at the Apotheca­ries, bray them
+well together in a Mortar, and then make them up in Balls about the bigneſs of
+a Barbers, waſh-ball, and keep them for your uſe, they will laſt a year, one
+Ball crumbled into a pint and a half of ſtrong Beer heat ſcalding hot, will
+diſſolve the Ball, then let it ſtand till it be but luke warm, and give it the
+Beaſt with a horn; with this he will empty beyond expectation, as long as any
+thing is in him: Let him faſt an hour after he takes it▪ Proved.
+
+[[Page 127]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=76)
+
+### 5.45. XLV. To cure a Poll Evil, which grows upon the top of the Head.
+
+YOu may know it when it begins to breed, by its growing bigger than ordinary,
+upon the top of the head; if it be pretty big, take a hot Iron, and ſear it
+round about the Poll Evil, till the skin look yellow; as this Figure doth ſhew
+you.
+
+_[figure]_
+
+Then take another red hot Iron made of this faſhion, and make ſo many holes
+vvith this Iron, as the Croſs vvill give you leave and no further, make all
+theſe holes with the point of this laſt Iron, vvithin the compaſs of the
+ſeared place, as you may ſee the pricks in the Figure, ſo many pricks ſo many
+holes, the bigger it is you may make the more, the leſſer the fewer; theſe
+holes being thus made, take a piece of yellow Arſe­nick as big as a wheat-
+kernel, and put it into one hole, and ſo do the like to every hole; then at
+the ſame time, lay on every hole over the Arſenick, a piece of black Sope to
+ſtop the Arſenick in; after all theſe beat ſome Arſenick fine to povvder, and
+mix as much of the Powder vvith black Sope as contains to half a vvall-nut, to
+anoint the place vvhere firſt the Iron ſea­red it round, but no where elſe,
+and within three weeks it vvill be ready to come out; all that is vvithin the
+compaſs of the round Ring, the Arſenick vvill eat to the bottom, if you ſee it
+hang but by a little at the bottom, then you may adventure to cutit out,
+otherwiſe let it [[Page
+128]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=77) alone three or
+four days longer▪ and then cut it out cloſe at the bottom: After you have cut
+it clean out, then waſh it with the water that is good to cure any old Ulcer,
+or green Wound, and if you ſee or find with your Inſtrument, that there is any
+hole at the bottom, or ſuſpect that there is any dead fleſh there, ſquirt the
+wa­ter aforeſaid with a Syringe or Squirt to the bottom, till all the dead
+fleſh be eaten out, this water will do it quickly, which when you ſee, a­noint
+it with Sallet Oyl upon a Feathers end once a day, till it be quite whole; if
+the hole go forwards to his ears, let him ſtand in at dry meat; if the hole go
+backward; let him run a­broad at graſs, becauſe, be holding down his head, the
+filthy matter cannot ſpread further, but muſt come back to the main Wound;
+this Obſervation will much further the Cure: A­gain if this diſeaſe happen in
+Winter, when no flyes are ſtirring, anoint it and heal it with Sallet Oyl, if
+this diſeaſe happen in Summer, when the flyes are buſie, anoint it then with
+Train Oyl, which you ſhall have at the Curri­ers; if this diſeaſe of a Poll-
+Evil or a Fiſtula, chance to be over-grown with Bags or Bunnies of proud
+fleſh, while you are healing of it, then do nothing but ſcald it with Butter
+and Salt and it will ſoon remedy that.
+
+### 5.46. XLVII. For a Fiſtula.
+
+THe mark of the Fiſtula is after this manner, the Fiſtula always hangs on
+either ſide the top of the Creſs, as you may ſee by this Figure. The ſame way,
+
+_[figure]_
+
+[[Page 129]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=77) and the
+ſame means will cure this as you uſed to the Poll-Evil, with the Inſtrument
+with a croſs, you muſt make ſo many holes as you ſee pricks within the Figure,
+and you muſt do in every thing as you did in the laſt: Mark, you muſt make
+three holes upon the top of the Wollis, which is the top of the Neck or Creſs,
+which is in the midſt of the Fiſtula, and you muſt make two holes on either
+ſide. Proved.
+
+### 5.47. XLVII. For the Plague, Peſtilence, Garget, or Murrain, in Horſe or
+Beaſt only.
+
+YOu muſt not let blood in this Diſeaſe, you ſhall know it by theſe ſigns: He
+will hang down his head, and will gum thick Atter at the Eyes, as big as your
+fingers end, and much, and will go weakly, ſtaggering, and his Head will
+oftentimes ſwell very big, and will fall away of his fleſh ſuddenly, and yet
+feed very well; the Cure is thus: Take as much Diapente as a Haſel­nut, as
+much Dialphera, as much London Trea­cle, as much Mithridate, as much Saffron,
+a handful of Wormwood▪ an handful of red Sage, Rhubarb as much as an Haſel-
+nut, two Cloves of Garlick; boyl all theſe together in two pints of good Beer,
+till it come to a pint and a half, then give it him luke-warm faſting, and
+keep him very warm; and the next thing you give him muſt be a Maſh made of
+ground Malt, let him drink warm water for a Week, and ſometimes burſten Oats,
+now and then a little clean ſweet Hay, it is his ſweating that does the Cure:
+If one Drink will do no good, give him another [[Page
+130]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=78) three daies
+after to make all ſure, it will not make him much ſick: Half of the
+proportions of this drink, will do wondrous well for a Cow, if ſhe have the
+like diſeaſe. Not tryed, but ve­ry probable.
+
+### 5.48. XLVIII. For a Horſe or Cow that is poyſoned by licking of Venome, or
+is over-gorged with Clover-graſs, or Turnips, by greedy feeding.
+
+EIther Horſe or Cow will ſwell and ſlaver very much, and will be ſo extreamly
+full, as if they were ready to burſt, and the skin to crack; if they drink
+ſoon after it, ſo much the worſe: but if he be but alive when you give him
+this, it will cure him in a quarter of an hour, for it will work as ſoon as it
+is in his body: For the cure, Take a quarter of a pound of Caſtle­ſope, and
+ſcrape it thin, and put to it two oun­ces of Dialphera, which you ſhall have
+at the Apothecaries, bray them in a Mortar ſmall toge­ther, and make them up
+in Balls as big as a Bar­bers Waſh-ball, and lay them by till you have
+occaſion to uſe them, one Ball is enough for one Beaſt to cure this Diſeaſe;
+you muſt diſſolve the Ball in a pint and a half of Strong beer ſcalding hot,
+and give it luke-warm, the hotter the Beer be, the ſooner it will diſſolve;
+but if haſte require crumble the Ball in as ſmall as you can, and give it him
+down with a horn, he will ſoon be empty with piſſing and ſcowring. Proved.
+
+[[Page 131]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=78)
+
+### 5.49. XLIX. For a Horſe or Cow that maketh Red­water.
+
+TAke three or four Onions, one pound of lean Beef roaſted on the Coals till
+you may beat it to powder, Bolearmoniack as much as the bigneſs of an Egg, one
+handful of gray Salt, chop and beat them altogether, and put them all into a
+quart of Strong-beer, take Ale if you can get it, and give it to the Beaſt,
+and preſently after it, give her a diſhful of Cheeſe-runnets of almoſt a pint;
+do but this once or twice faſting; and let the Beaſt faſt two or three hours
+after it, and it will cure. Proved.
+
+### 5.50. L. For the mad Staggers.
+
+THe ſigns of this diſeaſe are, He will foam at the mouth white, and will ſeem
+dull-headed, and will have at that time a blew film over his eyes, and will
+wander much up and down, be ſure to let him blood on both his Neck veins,
+within one or two daies after he complains, and in the third furrow in the
+pallet of his mouth, with the point of a Cornet-horn, you may run an Awl into
+the griſtles of his Noſe, ſomething above his Noſtrils; the bleeding at the
+Mouth and the Noſe will eaſe the pain in his head. The cure is, Take a handful
+of Rue, by ſome called Herb­grace, three Cloves of Garlick, a ſpoonful of
+Salt, a ſpoonful of Vinegar, and two ſpoonfuls of Aqua-vitae, bruiſe all theſe
+together well, and then put the one half into one Ear, and the [[Page
+132]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=79) other half into
+the other Ear, with a little Wool after it; put the Liquor in with a ſpoon
+firſt, and then the Herbs, and then the Wool; and then tye or ſtitch with a
+Needle and Thread the Ears up very faſt, with two liſting Garters, then
+preſently fume him at the Noſtrils through a Funnel, with the ſtalks and
+pillings of Garlick, beaten in a Morter with Maſtick or Frankincenſe mixed
+together; of theſe make pellets as big as a bullet, and lay them upon a
+Chafing-diſh of freſh Coals, and the ſmoak will go up through the Funnel into
+the Head, and much comfort and cleanſe the brain; Fume his head three times a
+day till you ſee him mend, at the ſame time beat Red-weed ſeed which grows in
+Win­ter-Corn, by ſome called Poppy-ſeed, very ſmall, and give as much of the
+powder at each Noſtril as will lye upon a ſix pence, in two half hornfuls of
+any Beer, do this every morning: Or thus, if you cannot get Poppy-ſeed, then
+give him vvhite Poppy-vv [...]te [...], vvhich you may likevviſe have at the
+Apothecaries, and give at each Noſtril a ſpoonful and a half a teach time: It
+will make him ſleep ſo ſoundly, that you may vvalk upon him from the Head to
+the Tail and he vvill not ſtir, he vvill lye as if he vvere dead for a time,
+his ſleeping vvill mightily refreſh him: After you have given it unto him, you
+vvill ſee him, before he fall dovvn, to buckle and ſalley, till at laſt he
+vvill tumble dovvn. Let him ſtand in a dark room and vvarm, vvhere he may ſee
+no light, let him have burſten Oats, and Maſhes of ground Malt; let his drink
+be cold Water, that vvhich you put in his Ears, muſt remain there tvven­ty
+four hours and no longer: Put Wool, [[Page
+133]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=79) Flax, Lint, or
+a Rag after it, ſtitching is better than a Garter, for that will make the Hair
+come white. Proved, a rare Cure.
+
+### 5.51. LI. For the Water Farcion.
+
+IT will come by the Horſes feeding upon low watry Ground, and in Pits where
+the Graſs grows above the Water, for there he will lick the Water up as well
+as the Graſs, this kind of feeding will cauſe Horſes ſometimes to ſwell
+mightily under the Belly and Chaps: To cure it, cauſe a Smith to make an Iron
+like a fleam at a Nails rod end, then heat it red hot, and ſtrike it eaſily
+but juſt through the skin in many places upon the ſwelling, and no where elſe,
+and you ſhall ſee abundance of yellow, gray, oily water come out pouring; this
+being done, waſh it with Chamberly and Salt, as hot as you can endure your
+hand in it, waſh it but three or four times, and it is a certain Cure. If the
+ſwelling be very big, mix with the Chamberly and Salt as much Bolearmoniack as
+a Walnut, boyl them together, and waſh it.
+
+Proved.
+
+### 5.52. LII. For the Ives.
+
+YOu may ſee them grow in a Roul betwixt the hinder part of his Jaw-bone and
+his Neck; if they get the roots of his Ears there is great danger: The Cure
+is, Let blood in both the Neck veins, then take two ſpoonfuls of Pepper, as
+much Hogs-greaſe, and as much Vi­negar, [[Page
+134]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=80) and work them
+up together, and put them one half into one Ear, and the other into the other
+Ear, and Wool, Flax, Lint, or Rags, which you have at hand after it, and
+ſtitch up his Ears cloſe with a Needle and Thread for 24 hours, and it is a
+certain Cure. Proved.
+
+In the time of the Cure, let him ſtand in the Houſe; give it him faſting, any
+water cold or warm, any meat, only let him ſtand in the houſe three or four
+daies after it.
+
+### 5.53. LIII. For the Wind-Colick.
+
+IT comes by means of long faſting, and then the Wind gets into the Bag-gut
+with one end, and then when the Horſe comes to meat, he feeds ſo hungerly that
+he never chews his meat, and it goes down unchewed and undige­ſted, and ſtops
+the wind in the Gut, that it puts the Horſe to abundance of miſery. It cauſeth
+the ſlime in the Gut to be ſo extreamly hot, that the Horſe will do nothing
+but tumble and wal­low, and covet much to lye upon his back, with all four
+feet right up: The Cure is, Firſt, to prick him in the Mouth and let him bleed
+well, then rub his Mouth well with a handful of Salt, then give him this
+Drink. Take a pint of Brine and boyl it, but do not ſcum it, and put thereto a
+handful of new Hens-dung, and give him it luke-warm, at any time when this
+diſeaſe hap­pens; then ride him an hour before he drink, and three hours after
+it. The Signs: He will ſtand crimpling with all four together, and lay himſelf
+down very eaſily, and will rather look full then empty: If he be cold in the
+Mouth no [[Page 135]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=80)
+Cure; if he be warm in the mouth, there is hope in four or five hours to abate
+the pain. Either preſent cure, or preſent death. Proved.
+
+### 5.54. LIV. For a Film in an Horſes Eye.
+
+TAke a piece of the ſalteſt Beef you can poſ­ſibly get, dry it in an Oven, and
+beat it to powder, take as much of Licoriſh-ſticks, dry them, and beat them to
+fine powder, and ſearee it through a cloth, blow the powder into his Eye once
+a day, and it will take off the film in three or four times doing: If a Rheum
+attend the Eye at the ſame time, to ſtop it, dip a little Flax or Hards in
+ſome melted Roſin, and lay it in the hole of the Horſes Eye: I was told it
+would ſtop any Rheum, but have not tryed it.
+
+### 5.55. LV. To cure a Mallender.
+
+FIrſt rub it dry with a cloth, then anoint it with Crown-Sope and red Mercury
+preci­pitate mixed together, when you have anointed it once, pluck the hairs
+which grow in it, and upon the edge of it, out; then dreſs him three times
+more; once in two daies dreſs it, then anoint it with Sallet Oyl, and it is
+cured. But alwaies before you anoint it you muſt rub it dry. Proved.
+
+### 5.56. LVI. For an Apoplexy, or Palſey.
+
+TO know this Palſey, the Signs are theſe: It either will take him in the Neck,
+that he [[Page 136]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=81)
+cannot put down his head to the ground, or in the After-parts that he cannot
+riſe, the Sinews of his flank will be hard, if you feel them with your hand.
+The Cure is thus: Take ſix penny­worth of the oyl of Peter, and anoint the
+place grieved with it at one time, and dry it in with a hot Iron, if you
+anoint the After-part of him, then lay upon him the Litter of a hot reeking
+Muckhil, and lay a Cloth over that to hold it on, renewing it four times a
+day: If it be in the Neck, after you have anointed it and dryed it in, make a
+Thumb-band of the longeſt hotteſt Dunghil Litter that you can get, and wind it
+round about his Neck ſomething looſe, that he may eat and drink: Let the
+Thumb-band be ſo long, that it may go ſo often about his Neck that it may
+reach from his Shoulders to his Ears.
+
+Probatum eſt.
+
+### 5.57. LVII. For a Fareine that lyes all over the Bo­dy of a Horſe.
+
+FIrſt, Bleed thoſe Buds that do not dye, waſh them with the water that you
+have for any old Ulcer, and this will cure them and kill them; waſh them once
+a day, then take a pottle of run­ning water, and boyl it in two ſpoonfuls of
+Hempſeed beaten to powder, and two handfuls of Herb-grace cut ſmall; boyl all
+theſe toge­ther, till it come to a pint and a half, and give it the Horſe
+faſting; do this once in three daies, or three times in nine daies, let him
+ſtand in the night before, and not drink; you may give him three or four hours
+after it a Maſh, or warm wa­ter, [[Page
+137]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=81) and then Hay.
+This very Drink, given to a Cow or Bullock after letting blood in the Neck,
+will make them thrive exceeding faſt if it be given them at the Spring of the
+Year, and then turned out to Graſs. If a Cow, or Bullock, do not thrive, but
+is lean, ſcurvy, hide-bound, and her hair ſtand right up, do but let blood,
+and give her this drink, and ſhe will mend preſently upon it. Proved.
+
+### 5.58. LVIII. For a Farcion only in the Neck or Head of a Horſe.
+
+FIrſt, Let blood in the Neck veins, then take two ſpoonfuls of the juyce of
+Hemlock, and two ſpoonfuls of the juyce of Houſleek, and mix them together,
+and put the one half in­to the one Ear, and the other half into the other Ear;
+you muſt mix two ſpoonfuls of Sallet Oyl with the Houſleek and Hemlock, and
+then put them altogether into his Ears. Put a little Wool, Flax, or Tow after
+it, ſtitch up his Ears, and at the end of twenty four hours, unſtitch them and
+take out the ſtuffing; give him a Maſh two or three hours after, and warm
+Water to drink: You may give him any meat to eat, only waſh the Buds with the
+Water for an old Ulcer, till he be whole.
+
+Proved.
+
+[[Page 138]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=82)
+
+### 5.59. LIX. A rare Medicine to make an Horſe ſcour that is Hide-bound, that
+is Moulten, that does not thrive nor fill: and to lay his Coat if it ſtand
+right up.
+
+IF a Horſe be Moulten, give him this ſcouring Medicine ſuddenly faſting: If an
+Horſes skin cleave to his Ribs, we ſay he is Hide-bound: and if an Horſes Coat
+ſtand right up ſtaring, and do not lye ſmooth, or if he do not fill well, it
+is then to be judged the Horſe is ſurfeited, foul, and out of health. To cure
+all theſe at once or twice at the moſt, and make your Beaſt thrive gallantly,
+give him this ſcouring Medicine: Take half an ounce of Aloes and beat it to
+pow­der, and put it into a pint of Butter made after­wards round, put the
+Aloes in three or four balls of Butter, and rowl the balls in as much of the
+powder of Jallop as will lye upon a ſix pence, waſh down the balls with a pint
+and a half of ſtrong Beer luke-warm: Let him faſt three or four hours after,
+then give him a Maſh or bur­ſten Oats, and warm water to drink, for two or
+three daies. Ride, or work him moderate­ly, and the Horſe will thrive the
+better.
+
+Proved often.
+
+### 5.60. LX. To ſtop a thin Scouring in Cow or Bullock, or any other
+Creature.
+
+TAke a quarter of a pint of Verjuyce, and as much Bolearmoniack beaten to
+powder [[Page 139]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=82)
+as a Walnut, ſtir it well up and down in the Verjuyce, and give it to the
+Beaſt. Proved.
+
+### 5.61. LXI. To kill Lice in Cattel.
+
+TAke a broad woollen Liſt, as broad as your hand that will go round about his
+Neck, then wet the Liſt well in Train-Oyl, and ſew it about the Beaſts Neck,
+and the Lice will come to it, and it will kill them if there were never ſo
+many: Daub ſome about the Beaſt in ſeveral places, and they will come to it,
+and it will kill them. No flies in Summer will come near any Wound or Sore
+wherewith this is applyed, for it will kill them. Proved.
+
+### 5.62. LXII. To make Hoofs that are brittle grow quickly, and to make them
+firm and ſtrong.
+
+TAke of Garlick 7 ounces, Herb-grace three handfuls, of Allom beaten to powder
+7 oun­ces, of old Hogs-greaſe two pound, of Aſſes­dung, or for want of it Cow-
+dung, an handful; beat and cut them all ſmall, and mix them alto­gether, and
+boyl them altogether well; then with this Oyntment ſtop his Fore-feet, between
+his Shoes and the bottom of his Feet, and keep it in with a piece of Leather,
+or Sole-Leather of a Shoe; let it be betwixt his Foot and Shoe. And beſides,
+you ſhould do well to anoint the out­ſides of his Hoofs all over; do this till
+you ſee his brittle Hoofs to grow tough and ſtrong, you will find the effect
+to be great. Proved.
+
+[[Page 140]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=83)
+
+### 5.63. LXIII. To heal a Navil-Gall, Sore-back, or a Set-faſt.
+
+TAke a quarter of a pint of Train-Oyl, and boyl in it as much beaten
+Verdigreaſe as half a Walnut, put it into a Pot and keep it for your uſe: This
+very Medicine will heal any Navil-gall, Set-faſt, or Sore-back ſuddenly: And
+no Flyes will dare to touch or come near it, if they do they dye preſently.
+Proved.
+
+### 5.64. LXIV. For a Sinew-ſtrain in the Fore or After-Leg.
+
+A Sinew-ſtrain, is alwaies upon the Sinews which grow behind on the Fore-leg,
+and behind upon the Sinews of the After-leg, above the Foot-lock joynt, upon
+the back part of the Fore-leg, and upon the back part of the After­leg, much
+about the Ancle-bone; it will be ſwelled and knotted when it is thus over-
+ſtrain­ed, you may ſee and diſcern it by his going, and by the ſwelling; if
+you nip it between your Fingers and Thumb, he will quinch at it very much: For
+the Cure; Take Nerve-oyl and Tur­pentine of each a penny-worth, and mix them
+together, and lay it on at two or three ſeveral times or more, till it be
+well; and alwaies dry it in well with a hot bar of Iron when you lay it on,
+anoint it two or three daies diſtance, you muſt reſt him in the time of the
+Cure.
+
+Probatum.
+
+[[Page 141]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=83)
+
+### 5.65. LXV. A Scouring Drink.
+
+WHen you let a Horſe blood, ſave the blood with a Bowl or Diſh, and put
+thereunto a handful of Salt, take the blood as it comes from him, and ſtir it
+and the Salt together with your hand, that it may not clot, and give it him
+again to drink with a Horn faſting; whe­ther it be the blood of another Horſe,
+or his own blood, it matters not much. Give him warm Water to drink once.
+Proved.
+
+### 5.66. LXVI. For Brittle Hoofs.
+
+ANoint them with an equal proportion of Dogs-greaſe, Turpentine, and Tar, all
+boyl together a little while, and it will make them grow ſtrong and tough; put
+in the Tur­pentine but a little before you take it off the fire.
+
+Proved.
+
+### 5.67. LXVII. For a Horſe that is Moulten, and breaks out.
+
+WHen you ſee Swellings appear like Bags, about the Girting place under the
+Horſes belly: Firſt, anoint it with Bacon-greaſe once every day till it be
+rotten; then lance it in one place to make the filth come out, with the point
+of your Pen-knife, ſtroke your hand pretty hard upon it, ſqueez out all the
+filth, then anoint the Swelling with Train-oyl all over, and wind a linnen
+Cloth about a ſticks end, and dip [[Page
+142]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=84) it in Train-
+Oyl, and with it waſh the wound well within. If the Swelling run under the
+belly to the Cods-ward, then get a Smith with a Nail at a Rods end, to beat a
+piece in the faſhion of a Fleme, then heat it red hot, and ſtrike him juſt
+through the skin, in ſix or eight ſeveral places, thereafter as the largeneſs
+of the Swelling is, and as your diſcretion ſhall guide you; when you have
+flemed it, and ſqueezed it, that all the filth is out, then daub on Chamberlye
+and Salt ſcald­ing hot, and then anoint it with Train-Oyl within and without,
+the Train-Oyl will heal it alone; anoint it once a day at firſt within and
+without, and once in two or three daies as it heals: You muſt alwaies have a
+care of any wound, that the cold and wind get not in, if it do it will ſwell
+much, and in ſuch a caſe you muſt anoint about the wound, all over the
+Swel­ling, with the Oyl of Populeon, and that will take the Swelling down
+certainly, be it in what place it will. Both proved.
+
+### 5.68. LXVIII. A Scouring Drink to cleanſe his Kid­neys if they be pained.
+
+FIrſt, heat a pint of ſtrong Beer in a Skellet, and ſcum it, and put in a
+penny-worth of Treacle-Jean, and give it him luke-warm; it will cleanſe his
+Kidneys and Guts much, three or four hours after it, give him a Maſh, warm
+water the firſt day and no longer. Let him ſtand two or three daies. Probatum.
+
+[[Page 143]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=84)
+
+### 5.69. LXIX. For a fleſhy Knot that is moving from the place where it
+grows.
+
+LEt it grow where it will, if you by feeling upon it with your Fingers and
+Thumb feel it moving, and ſomething ſoft upon the place where it grows, then
+take the knot in your hand, and with the point of your Knife ſlit a hole in
+the middle, and cut the knot out; if it bleed much, ſear it with a hot Iron to
+ſtanch the blood; then ſtuff the wound with Hares-wool, or Coneys-wool, but
+Hares-wool is beſt to ſtanch blood. The nextday take out the wool, and waſh it
+clean with White-wine Vinegar; then dry the wound with a clean linnen cloth,
+then heal it with your blew Medicine, or green Oyntment, which I take to be
+beſt, but the blew Medicine is good: Alwaies before you anoint the wound, waſh
+it with the water which you have for an old Ulcer, if it grow rank, if not,
+you ſhall not need to do it: Tye a Rag about it to keep the Dirt out. Dreſs it
+once a day till it be whole. Proved.
+
+### 5.70. LXX. For a Cow that hath a Garget in her Dug or Udder.
+
+YOu ſhall know when ſhe-hath the Garget in her Dug, for then ſhe will not give
+down her Milk: For remedy, let her ſtand in ſome Houſe or Yard the Night
+before you let blood, the next Day in the Morning faſting, let her blood on
+both ſides of the Neck, then give [[Page
+144]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=85) her this Drink:
+Take a handful of Higtaper, by ſome called Mullin, and cut it ſmall; it
+grow­eth by the ſides of Dikes, and in High-waies, it hath a long ſtem with a
+broad woolly Leaf; and afterwards boyl it a little in a pint of Beer, and give
+it her luke-warm faſting: This with once giving will make her give down her
+milk freely.
+
+Proved.
+
+### 5.71. LXXI. For a Ring-bone.
+
+A Ring-bone grows juſt upon the inſtep, as we uſe to ſay upon the fore-part of
+the hin­der Leg, juſt above the Hoof, in a hard knob as big as a Walnut:
+Firſt, the Beaſt muſt be caſt, or elſe you muſt tye up his contrary Leg with a
+ſtrong Rope, till you ſtrike four or five holes in the Ring-bone, at the very
+edge of it. Let every hole be an equal diſtance from other, then take white
+Mercury or Arſnick beaten to pow­der, as much as will lye upon your Fleme, and
+put it into one hole, and as much likewiſe in the ſame manner into every hole,
+binding it on for twenty four hours:
+
+### 5.72. LXXII. Another for the ſame.
+
+TAke quick and unſlaked Lime, newly ta­ken from the Kiln, which muſt be well
+burn­ed, and the beſt burned you may know by its lightneſs; make your Lime
+into fine powder, and lay it upon the place ſwelled all along of a good
+thickneſs, and bind upon it a linnen Cloth made faſt about the foot, and ſo
+put the Horſe into the Water a pretty while, then take [[Page
+145]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=85) him forth and
+unbind his foot, and he is infalli­bly cured.
+
+For the burning of the Lime in the Water, does kill the Ring-bone even unto
+the Root thereof, with this Receipt I have cured not ſo few as an hundred
+Horſes. But when you are thus to dreſs your Horſe, let him be brought cloſe to
+the Water wherein he is to be ridden, that ſo ſoon as you have applyed the
+Lime unto the Ring-bone, you may preſently put him into the Water. Proved.
+
+### 5.73. LXXIII. Obſervations concerning the order­ing of Cattle, as Cowes,
+&c. in the time of feeding, when there is great fulneſs of Graſs: As in the
+Months of May, June, and July.
+
+THen in thoſe Months muſt be your care to let them blood: For at that time of
+the Year they never digeſt their meat ſo well as in Win­ter: And thoſe raw
+digeſtions, do hinder many inward paſſages, which cauſeth bad blood. Which to
+help, you muſt let them blood in the beginning of the Month of May, and let
+them ſtand in ſome cloſe yard the Night before; And the Night after, give them
+a handful of Hemp­ſeed a piece: Now for the Peſtilence, Gargil, and Murrain,
+they are infectious, contagious Diſeaſes, none like them; they proceed many
+times from hard driving, heats and colds, hun­ger, or any other thing breeding
+corrupt hu­mors; as by drinking when they are hot, or feeding upon groſs, foul
+and corrupted foods, [[Page
+146]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=86) as in low
+grounds after floods, when the Graſs is unpurged, and the like. And ſometimes
+it cometh from ſome evil influences of the Planets, corrupting the Plants and
+Fruits of the Earth: And ſometimes from Cattle too: And from di­vers ſuch like
+cauſes. But howſoever, when theſe Diſeaſes begin, certain it is that they are
+moſt infectious, and if there be not great care taken, they will leave but few
+alive of a great many, for the one infects the other. Theſe Diſeaſes are
+eaſily known, they will hang down their heads, and run Atter at the Eyes, will
+ſwell on the Lips, and all on one ſide of the Cheek, and under the Tongue, and
+ſometimes at the roots of the Ears: The Cure is, to ſeparate the ſound from
+the ſick, a good diſtance of place from the Air where the ſick breathe, then
+let them blood on the Neck-veins, and give every one a ſpoon­ful of Diapente
+in a pint of Verjuyce: If you cannot get Diapente, take a ſpoonful of Treacle-
+Jean, and give it in a pint of Verjuyce: Thus give them a good quantity of old
+Urine, and a handful of new Hens-dung, ſtir the Urine and Hens-dung well
+together, and give it to the Beaſt luke-warm, keep him in the houſe a Week
+after: Theſe for Cows or Bullocks be prime Re­ceipts▪ Proved.
+
+### 5.74. LXXIV. For a Bite, Blow, or Film in the Eye.
+
+TAke as much white Copperis as the bigneſs of half a Walnut, and beat it very
+fine, the ſame quantity of Verdigreaſe beaten to pow­der: Bray theſe two well
+together upon an I­ron-ſpade, or in a Mortar, then mix them with [[Page
+147]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=86) as much freſh
+Butter as a Walnut; put into the Eye as much of this as the bigneſs of a
+Peaſe, once a day until it be well and clear. Proved.
+
+### 5.75. LXXV. A precious Oyntment for an Horſes Eye, either for Bite, Blow,
+or Film.
+
+GO to the Apothecaries, and buy the ſtone called Lapis Calaminaris, it is of a
+blew co­lour; heat it red hot, then take it out and quench it preſently in a
+pint and a half of Whitewine▪ and ſo heat it, and quench it as afore 12 times
+one after another; then add unto the Wine half ſo much of the juyce of
+Houſleek, well ſtamped and ſtrained, and ſtir them up well together, dip a
+Feather in this water, and dreſs it two or three times a day, till the ſight
+be recovered.
+
+Proved.
+
+### 5.76. LXXVI. A gallant Scouring to make a Beaſt thrive, Winter or Summer.
+
+TAke a handful of Groundſel, called by ſome Sertion, half a handful of Red-
+ſage, half a handful of dried or green Wormwood ſtript, you muſt ſhred them
+all ſmall, and boyl them in a pint and a half of ſtrong Beer, and when it
+comes off the fire, put in a piece of Butter, as big as an Egg: You may put in
+as much of the powder of Mechoacan as will lye upon a ſhilling at three or
+four times: I know it purgeth Slime and moulten Greaſe in Lumps, and works
+very kindly: Give him warm Water to drink, even­ing and morning for three or
+four daies after: [[Page
+148]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=87) A Maſh of Malt
+once a day, or once in two daies, if your Horſe do not fill well, and that his
+Coat ſtand right up ſtaring, or be Hide­bound, give him this.
+
+### 5.77. LXXVII.
+
+IF you let blood in the Neck or Temple-vein▪ you muſt alwaies Cord the Horſe.
+Take this for a Rule.
+
+### 5.78. LXXVIII. For a Strangling in the Spring.
+
+TAke a handful of Elder-buds, as much of dried Wormwood, half an handful of
+Mer­cury, as much of Tanſey, cut theſe ſmall, and boyl them in a pint of
+ſtrong Beer, and it will ſerve for three drinks, three daies diſtance be­tween
+drink and drink. Give it him faſting in mornings, give a Maſh three hours
+after, warm Water for a day or two, let him ſtand in all the while. If he be
+ſwelled between the Jaws, anoint it with Bacon-greaſe once in two or three
+daies, till it be rotted, and then let it out, and heal it with your healing-
+ſalves. Proved.
+
+### 5.79. LXXIX. To kill Lice in Horſes or Cows.
+
+TAke two pennyworth of Quickſilver, and work it well with Faſting-ſpittle upon
+the Palm of your hand till the Quickſilver be killed, then take the whites of
+two Eggs and bray them with the Quickſilver and Spittle, till they be as an
+Oyntment, ſpread theſe upon a Liſt that will go round about the Beaſts Neck,
+let it [[Page 149]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=87)
+be as broad as four fingers, firſt cut away the hair, and then tye your Liſt
+round about, and ſow it up; they will come to it, and it will kill abundance
+of them; and in ſeveral places about the Beaſt daub on ſome Train-oyl.
+
+### 5.80. LXXX. To make a Horſe Stale or Piſs.
+
+TAke as much Caſtle-ſope as a Walnut, boyl it in a pint of ſtrong Beer a
+little while, and give it him luke-warm, it will make him piſs. Proved.
+
+### 5.81. LXXXI. For an inward Bruiſe with any Fume or Stub.
+
+TAke a pint and a half of ſtrong Beer, and one ounce of Bolearmoniack, and
+boyl them a little together, and give it him with a Horn luke-warm. It is very
+good for an inward bruiſe of a Beaſt: The greaſie ſort is beſt. Proved.
+
+### 5.82. LXXXII. For a Horſe that hath rent his fleſh about the Belly or
+elſewhere, or for any new wound.
+
+TAke a pint of Whitewine Vinegar the ſharp­eſt you can get, boyl it in half a
+quarter of a pound of Bolearmoniack, after it hath boyled a little, and when
+it comes off the fire, put into it a little piece of Butter, and bathe the
+place grieved once in two daies, and in two or three times dreſſing it will
+cure: This is a plain and eaſie Cure.
+
+[[Page 150]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=88)
+
+### 5.83. LXXXIII. For an old Cold with a Cough.
+
+TAke as much freſh or ſalt Butter as an Egg, and make it hollow as a Pye, and
+put as much Tar into it as a Walnut, then cloſe up the Ball very round, and
+roul it in the Seeds and ſtrippings of Wormwood cut ſmall: To make two Balls
+of the Butter and Tar is better, give him this in a pint and a half of ſtrong
+Beer in the morning faſting, he having ſtood in the night before; keep him in
+houſe three or four daies after, give him warm Water, the cold juſt taken off
+it, for two daies, the water muſt be no warmer at any time: If you ſee he doth
+not fill well, and hath left his Coughing, then four or five daies after give
+him the ſame again, and order him as before: When you have given him this,
+ride him a hand-gallop for three or four miles, till he ſweat well; but a mile
+before you come at home, ride him very ſoftly to cool him: Set him up warm,
+Litter him well, clothe him with a couple of warm cloths, tye him up to the
+Rack upon the bit for three or four hours, if it be five or ſix hours it
+matters not, when you un-bit him, give a Maſh firſt, or warm Wa­ter firſt,
+then clean Hay, and take off one of his clothes; after one or two daies you
+may work him, ſo you do it moderately: This is not ſo good for a new Cold, as
+for an old Cold. Proved.
+
+[[Page 151]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=88)
+
+### 5.84. LXXXIV. For a ſtrangling in the Guts: the Cough of the Lungs: For
+clearing the Pipes, and giving much breath.
+
+IF you be to run your Horſe for a wager, give him two of theſe Balls a week
+before: I make them thus. Take as much of freſh or ſalt Butter as the bigneſs
+of an Egg and an half, part it in the midſt as near as you can, hollow it in
+the faſhion of a Pye, mix and bray together with your But­ter half an ounce of
+Anniſeeds beaten to powder: then make a Pye of your Butter and Anniſeeds thus
+mixed, and put into it three quarters of a ſpoonful of Syrup of Horehound into
+each Ball, and cloſe up the Ball cloſe that the Syrup may not come out: Make
+your Balls no bigger then a Barbers Waſh-ball, or but a little bigger if you
+do, for it is not good to give Balls too big; then warm a pint and a half of
+ſtrong Beer lukewarm, and fill the Horn with Beer, and before you put it in,
+put in one of the Balls, having pull'd out his tongue with your left hand
+before; when his tongue is out, put the Ball into his mouth as far as you can,
+then haſten two Horns full of Beer after it to waſh it down, do the like with
+the next Ball as you did with the firſt, then take his back, & ride him for
+three or four miles a hand-gallop, till he ſweat well, for this reaſon:
+Becauſe the Di­ſeaſes in this Receipt, as they come with a heat, ſo the
+ſpeedieſt and beſt Remedy is to drive them away with a heat: The ſecond reaſon
+is, That a Drink will take no more place in a Horſe for [[Page
+152]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=89) heats and
+colds, than to give a Horſe a Drink and walk him about the Yard. Therefore for
+Diſeaſes of this Nature, ride him till he ſweat ſoundly: A mile before you
+come at home, ride him but a foot pace, that he may be ſet up ſome­thing cool,
+then tye him up to the Rack, cover him with two cloaths, ſtuff him and litter
+him very warm, cover his head and body to keep him from the cold, let him
+ſtand four or five hours before he eat or drink; then when you unbit him, give
+him a Maſh, or ſome Water luke-warm, or ſome clean Hay, and take off one
+cloth, and keep him warm. If this will not do, a week after give him the ſame
+again, and give him warm Water but two daies after it, and then cold water; a
+week before your Horſe goes to graſs give this, and a week after he comes from
+graſs; give it three or four times a year; and it will keep your Horſe in
+gallant health, it will fat a Horſe: It will make him ſick, but fear nothing:
+But if you give your Horſe too much at a time, that it makes him extraordinary
+ſick, give him a pint of Milk as it comes from the Cow, or heat the Milk
+lukewarm. Proved many times. This is a rare Receipt.
+
+### 5.85. LXV. To waſte the Kernels under the Horſes Throat, cheaply and
+ſuddenly.
+
+FIrſt, ſear the Kernels with a Candle, then take of freſh or ſalt butter, and
+lay a piece upon a red piece of Cloth, and rub it well in, and in a Fortnights
+time the Knot will be quite [[Page
+153]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=89) gone, and if
+his Noſe run, it will ſtop when the Kernels are gone: Anoint the Knots once a
+day for a week in the time of his Cure. If it be in Summer let him run out,
+and in Winter ſtand in. Proved.
+
+### 5.86. LXXX. For a Cough of the Lungs.
+
+TO know this, the Horſe will cough hollowly and gruntingly, he will hang down
+his head when he coughs, his flanks will beat, he will fetch his breath ſhort:
+For Remedy, Let him ſtand in the night before, the next day in the morning
+faſting, give him a ſpoonful of the Syrup of Horehound, and a ſpoonful of the
+flower of Brimſtone, and put theſe two into a pint and a half of ſtrong Beer
+heated lukewarm, and give it him faſting; take him and ride him three or four
+miles preſently upon it, till he ſweat well, ride but a foot pace within a
+mile of home, be careful to ſet him up warm: Litter and clothe him warm: Let
+him ſtand in not above two or three nights, if it be in Summer; after that
+turn him out from ten a Clock to three a Clock, for two or three daies, and
+then turn him out for altogether; the more moderately you work him, the better
+he will thrive: It will take away his Cough, clear his Pipes, and make him
+thrive much after it. If there be a white, thick, clayey water near, let him
+drink there, it is a warmer and more fattening Water than any other; give warm
+Water not above twice; this Drink will clear his Pipes, and drive it from his
+Lungs: You may put in as much of the powder of Mechoacan, as will lye upon a
+ſhilling, at three times. Proved.
+
+[[Page 154]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=90)
+
+### 5.87. LXXXVII. For a Broken-winded Horſe.
+
+TAke Bores-dung and dry it to powder, and put a ſpoonful of it into two pints
+of Milk as it comes from the Cow, or otherwiſe heated lukewarm, and give it
+him: If you ſee that this proportion will not make him ſick the firſt time you
+give it, then give him two ſpoonfuls more of the powder, and in four or five
+times giving, it will perfectly cure. This Drink muſt be given every third
+day. A ſpoonful of the powder of a Hedge-hog, by ſome called an Urchin, doth
+infinitely help in this caſe. Proved.
+
+### 5.88. LXXXVIII. For a Cold in a Beaſt, either in Winter or Summer.
+
+TAke an Egg-ſhel full of Tar, half an ounce of Red-ſtone Sugar, half an ounce
+of Anni­ſeeds beaten ſmall, half an ounce of Tobacco bea­ten, half an ounce of
+Liquoriſh cut and beaten very ſmall, 2 ounces of Brimſtoue beaten ſmall, a
+quarter of a handful of Herb-grace cut ſmall; af­ter that theſe things are
+thus beaten and ſtirred up together, make them up into three Balls of a like
+bigneſs, then put two pints of ſtrong Beer lukewarm, and the firſt hornful of
+Beer that you give him, put a Ball into it, and do ſo likewiſe to the ſecond
+and third; and then give him the remainder of the Beer. Let him not drink for
+four or five hours after, give him a Maſh, and af­terwards Hay to eat: Let him
+ſtand in for three or four nights if it be in Summer, after the firſt [[Page
+155]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=90) days giving,
+work him every day moderately▪ and the Beaſt will thrive the better. If once
+will not take away his Cough, and cauſe him to belly, give him another; keep
+him warm, and it is a Cure. Proved.
+
+### 5.89. LXXXIX. For the Scratches.
+
+THey are upon the After-heels of a Horſe in the Paſtern and above: For Remedy,
+take two penny-worth of black Sope, as much as an Egg, of the neweſt Hens-dung
+as you can get, Oyſter-ſhels put into hot Embers five or ſix, they muſt be put
+in over-night, and raked up ſo, that they may be well dried by the morning,
+then beat them to powder, and bray them altogether like an Oyntment, and apply
+it to the Horſes ſore Heels every morning and evening, the Horſe muſt not come
+in the Water till you ſee he is cured: Alwaies rub his Heels very clean
+be­fore you rub in the Oyntment, and you ſhall find it a certain Cure in two
+or three times dreſſing.
+
+Proved.
+
+### 5.90. XC. For the Scratches.
+
+OVer-night let his Heels and Legs be bathed well in Beef-broth, the next
+morning rub his Legs clean, and then apply this Oyntment to heal it. Take two
+pennyworth of Gilts-greaſe two pennyworth of Speck-oyl at the Curriers, made
+of ſhreds and cuttings of Leather, two pennyworth of Verdigreaſe beaten ſmall,
+two pennyworth of Train-Oyl; put all theſe into a Pipkin, and ſet it on the
+Coles to melt, but ſtir [[Page
+156]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=91) them till they
+be melted; then once a day anoint him with this Oyntment, till his Heels be
+well, which will be whole very ſuddenly: Chafe it, and rub it in with your
+hand very well, let him come in no water nor dirt till he be whole, when
+Horſes have been ſo ſwelled, crannied and ſtiff, that they could not go, but
+fall down: This hath cured them. Proved.
+
+### 5.91. XCI. Another for the ſame.
+
+IF at any time a Horſes Leg ſwell, but eſpeci­ally in the month of March, ride
+him into a River where the Water runs ſwiftly, up to the Mid-leg, and there
+let him ſtand not above a quarter of an hour; then when you ſet him up in the
+Stable, take a Wiſp and a Payl of Water, and daſh the Water againſt his Legs,
+till they be clean. This is a Cure for ſwelled Legs in a very ſhort time, that
+is when they are not broken out, but only ſwelled. Proved.
+
+### 5.92. XCII. For Foot-foundring.
+
+THat Foot which is foundred, he will ſet before the other: For Remedy, pare
+him down to the quick, if he bleed it matters not, then ſet on his Shoe very
+hollow, then take Flax or Tow, and make a pretty thick Cake thereof, and
+ſpread Venice Turpentine thereon a good thickneſs; then lay it all over the
+bottom of the Hoof, and put a piece of the upper Leather of a Shoe to keep it
+in: At 3 daies end lay on a new Plaiſter as before. If his Foot grow again,
+pare [[Page 157]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=91) him
+to the quick again, and every third day lay on a new Plaiſter, till you ſee
+him go better; he muſt run abroad in low grounds; this Plaiſter will draw down
+the humours exceedingly. Con­tinue thus doing, and if he have not been
+found­red too long, this will cure him in a month or very little more,
+perfectly. To further the Cure, you may let him blood at the Toes,
+nevertheleſs the place ſhould not be dirty that he goes in.
+
+Proved.
+
+### 5.93. XCIII. For the Garget in the Throat of a Cow.
+
+IF you have an Ox, or Cow, or Bullock, that hath the Garget in the Throat, it
+comes for want of Water; it will cauſe a ſwelling under the ſides: The Remedy
+is, firſt to caſt the Beaſt, then cut the skin through in the midſt of the
+ſwelling, and flea the skin from the fleſh ſo far as any ſwelling goes, then
+take of the whiteſt Wood-aſhes that you can get, ſifted fine, mix them with
+ſome mouldy, ſtale, old Piſs, ſtir them well together, and waſh the Sore
+therewith.
+
+Proved.
+
+### 5.94. XCIV. Another for a Garget at the Root of the Tongue of a Cow.
+
+A Garget at the Root of the Tongue, is a certain ſwelling under the Root of
+the Tongue, which cauſeth his head and face to ſwell alſo, and to froth at the
+mouth, he will then for ſake his meat, with often gulping in his throat.
+[[Page 158]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=92) The
+Remedy is, firſt caſt him in ſoft ſtraw, from bruiſing his body, then take his
+Tongue in your hand and pull it out as far as you can, and with the point of a
+ſharp Penknife; ſlit down the mid­dle Vein an inch, right under the Tongue,
+and there will come forth black blood, and water which comes from the Gall,
+then rub the place with Salt and Vinegar mingled together, and it will cure.
+Proved.
+
+### 5.95. XCV. For the Garget in the Guts of a Cow, or Bullock.
+
+THe ſigns are theſe: The Beaſt will run at the Eyes, drivel and ſlaver at the
+Mouth, with a ſad heavy countenance: For Remedy, take an Egg-ſhel full of Tar
+and put it down her Throat, then take two handfuls of Salt, and put it into a
+pint of Verjuyce, and put it down the Beaſts Throat with a Horn, then drive
+her to and fro till ſhe dung: Keep her faſting four hours after. Proved.
+
+### 5.96. XCVI. For the over-flowing of the Gall, in a Cow or Bullock.
+
+THe ſigns are extraordinary fulneſs of the Body, and ſlavering at the mouth:
+The Re­medy; Take an Egg-ſhell full of Tar, and put it down her Throat, having
+before a pint of Ver­juyce or Vinegar, and a pennyworth of Cloves beaten; boyl
+the Verjuyce and Cloves together, and when you take it off the fire, put in
+two [[Page 159]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=92) good
+handfuls of Salt, and give it her lukewarm with a Horn, immediately after the
+Egg-ſhell full of Tar, and drive her to and fro. Proved.
+
+### 5.97. XCVII. For a Horſe or Cow that makes Red­water.
+
+TAke a Red herring with a hard Row, and cut it as ſmall as you can, and put it
+into a quart of ſtrong Beer, and give the Beaſt it luke­warm, and in twice
+giving it is a Cure:
+
+Proved.
+
+### 5.98. XCVIII. For a Horſe that is Back-ſwanckt, or for a Strain in the
+Kidneys, being over-bur­thened in the Hinder▪part, or in Race-run­ning, or by
+being over-ſtrained in the Back.
+
+TAke a fat hot Sheeps-skin, juſt as it comes from the back of the Sheep as
+ſoon as ſhe is kill'd, mix four pennyworth of Nerve-oyl, and four pennyworth
+of Turpentine well together, and beſmear or anoint the inſide of the
+Sheeps­skin all over, and clap it to the place of the back where the grief
+lies, which commonly is in the Navil-place of the back-bone: In that part of
+the back-bone, is a horſe moſtly ſwanckt of, when you have thus laid it along
+his back-bone, make a Crupper to go under his Tail to keep it on, and a
+breaſt-plate before, and faſten them together, to girt it upon him for a month
+till his back be knit and ſtrengthened. Proved.
+
+[[Page 160]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=93)Here
+followeth Nathaniel Shaw's Re­ceipts, which are all approved things: and he is
+accompted as a­ble a Farrier as any is in London. I have both proved my ſelf,
+and ſeen him prove moſt of them, both Inward and Outward; and although the
+former Receipts in this Book will do much good: Yet theſe go beyond them in
+many things, both for cheapneſs and readineſs of the Cure. I ſhall begin with
+a Diſeaſe in the Head called the Canker.
+
+### 5.99. C. For a Canker in the Head.
+
+A Canker is a Diſeaſe in the Head, and ſome­times will ſet upon the Eyes, and
+ſometimes in the Noſtrils: You ſhall know it by his raw­neſs, and it will run
+a yellow Water. For Re­medy, Take half a pint of Sallet-oyl, one ounce of the
+Oyl of Turpentine, three ounces of Bur­gundy Pitch, and one pennyworth of
+Verdi­greaſe beaten fine; put all but the Verdi­greaſe into a Pipkin, and let
+them boyl together a pretty while, then take it off the fire, and [[Page
+161]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=93) put in the
+Verdigreaſe, and let them all boyl to­gether to a Salve, but if you have not a
+great care, the Verdigreaſe will make all boyl over, to prevent which, alwaies
+have another Pipkin ſtand by in readineſs, that if it boyl over you may put
+ſome into that; then put them together again, and ſet them upon warm embers,
+and let it gently boyl till you ſee it come to a Salve, be­ing neither too
+hard nor too ſoft; you muſt ſtir it all the while it boyls, then take it off,
+and keep it for your uſe: If you uſe this Medicine for a Canker in the
+Noſtrils, firſt tye a rag about a ſticks end, and dip it in ſome Whitewine
+Vine­gar and ſome Salt, and run it up his Noſtrils to do off all the ſcales:
+When you have waſht it clean, take a Feather, and if it be not long e­nough
+tye two together, and dip it in the cold Salve, and run it up his Noſtrils but
+once a day: If it be a Canker in the Head, Face, or Eyes, take a little Tow,
+and rub the Canker till it bleed, and when it leaveth bleeding, anoint it with
+a Feather dipt in the aforeſaid Salve, and ſtrew ſome Wheat-bran upon the
+Salve, it will hold on the better: Dreſs it once a day, till you ſee it heal,
+and then once in two or three daies, whilſt it heal up: Obſerve this Rule in
+all out­ward Cures, for it is needful, let him ſtand in all the time of the
+Cure. Proved.
+
+### 5.100. CI. For a dry ſcurvy Mange, although it be from the Head to the
+Tayl, of Horſe, Cow, Dog, or any thing elſe.
+
+FIrſt, ſcrape off all the Scurff with an old Curry-comb or piece of Knife,
+then take [[Page
+162]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=94) two ounces of
+the Oyl of Turpentine, and as much ſtrong Beer, mix them together, and ſhake
+them well in a Glaſs Vial, then anoint the Horſe where he is pild and mangy; a
+Week after dreſs him again if you ſee any matter y running pla­ces, elſe not;
+tye him up with a ſtrong Halter, till it hath done working, for it will ſmart
+terri­bly: When you have kill'd the Mange, to make the hair come again, waſh
+it two or three times with a little ſtrong Beer now and then, and it will make
+the hair come quickly and thick. Let the Beaſt ſtand in at dry meat the time
+of the Cure. This is a rare Receipt. Proved.
+
+### 5.101. CII. For a blow or any other miſchance, which cauſeth a ſwelling
+about the Head, Face, Jaws or Chaps.
+
+FIrſt, Let blood in the Neck-vein, on the ſide the Head ſwells, if he ſwells
+on both ſides let him blood on both ſides: Then give him this Drink to prevent
+a Farcy; take an ounce of Turmerick, and an ounce of Anniſeeds, of Red­ſage,
+Wormwood, Herbgrace, of all three but a handful, cut them ſmall, and put all
+into a quart of ſtrong Beer, and give it the Beaſt cold, for they are hot of
+themſelves, faſting in a morning, and let him faſt four or five hours after
+it; give him warm Water to drink but for once, ſo ſoon as you have given him
+his Drink, apply this charge hot with a flat ſtick, dab on the ſwel­ling, a
+quarter of a pint of Aqua-vitae or Brandy­wine, which is the ſpirit of Aqua-
+vitae, but Brandy is beſt, mixed with a pennyworth of Crown-ſope, according to
+the bigneſs or ſmal­neſs [[Page
+163]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=94) of the
+ſwelling; make a quantity of theſe two things which you apply as a charge;
+this charge of theſe two things, will take down any ſwelling old or new
+whatſoever. ſoke it in with a red hot Iron; apply it but once, it will not
+come off in fourteen or fifteen daies, it will ſink it quite flat, or break
+it. Proved.
+
+### 5.102. CIII. For a Navil-Gall.
+
+TAke Brandy-wine cold, and dab it on with your hand, or with a Rag, it will
+take it down in a few times dreſſing, if the skin be not broken. Proved.
+
+### 5.103. CIV. For hard Kernels under the Throat.
+
+MIx Sope and Brandy-wine together, and apply it to the Kernels hot, then heat
+it in with a hot Iron; it will either ſink them flat, or break them. Proved.
+
+### 5.104. CV. For a New Sinew ſtrain.
+
+APply Sope and Brandy once hot, and heat them in with a hot Iron: but firſt
+you muſt clip the hair away in the Paſtern right over the Shackle-veins, and
+then let blood on both the Shackle-veins, and then apply the Charge; letting
+Blood will much further the Cure. Let the Sinew-ſtrain be before or behind,
+you muſt let blood if you will have a ſpeedy Cure: Letting blood thus, and
+applying the Charge, will take his lameneſs away in eight and forty hours,
+with once doing at the moſt: Do not [[Page
+164]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=95) ride him in
+four or five daies after you have laid on this charge: This Sope and Brandy
+heat well in with a hot Iron, it will not come off in 14 or 15 daies, and when
+you ſee the ſcurff to riſe, a­noint it with Trotters-oyl, which is made of
+Sheeps-feet boiled, anoint it once in two dayes to ſtrengthen the Sinews, till
+he go well; you may ride him in four or five daies, and for four or five
+daies, or a week, keep him out of the Wa­ter, after you have applyed the
+Charge, and it will be a perfect Cure. Proved.
+
+### 5.105. CVI. For an old Sinew-ſtrain that is ſwelled and hard, on Fore or
+After-legs.
+
+FIrſt, clip away the hair right over the Shac­kle-veins on the Paſtern, and
+you will ſee to ſtrike the Shackle-vein the better: when it hath bled, apply
+two ounces of the Oyl of Turpen­tine, mixed with two ounces of ſtrong Beer,
+and put them into a glaſs Vial, and ſhake them well together, bath moſt of it
+in with your hand up­on the Vein or ſwelling, and three or four daies after it
+hath done ſwelling, and begins to be ſcurfie, lay a Charge of Sope and Brandy,
+heat it well in with a hot Iron, and it will take it quite down in a week or a
+fortnights time, you may ride him in five or ſix daies: When you ſee the
+Charge to ſcurf and pill, you may anoint it with Oyl of Trotters once or
+twice. Proved very cer­tain.
+
+[[Page 165]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=95)
+
+### 5.106. CVII. For any old, hard, and cruſhy Knobs, or Swellings, that have
+been a long time, let them be never ſo hard. Do thus,
+
+FIrſt, anoint it with an ounce and a half of the Oyl of Turpentine, and as
+much ſtrong Beer mixed together, and put it in a Glaſs and well ſhaken
+together, and bathed in with your hand; and three or four daies after, the
+Charge of Sope and Brandy, applied and well heared in with a hot Iron; and
+four or five daies after you may ride him where you pleaſe, it will take it
+quite down. Proved.
+
+### 5.107. CVIII. For old broken Knees much ſwelled and hard, that have been
+long healed up.
+
+FIrſt, mix an ounce and a half of the Oyl of Turpentine, and the like quantity
+of ſtrong Beer, ſhaking them in a Glaſs together; then bathe it in with your
+hand upon the ſwelled Knee: two or three daies after, apply the charge of
+Crown Sope and Brandy hot, and let it lye on till it come off of its own
+accord; it will much leſſen, if it do not take it quite down; let him ſtand
+in: The Oyl of Worms is a great mollifier of a hard and bony part, and hard
+ſwel­lings. Proved.
+
+[[Page 166]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=96)
+
+### 5.108. CIX. For a Strain in the Paſtern, Back, or Sinews.
+
+A Charge of Crown-ſope and Brandy-wine applied hot, and heated well in with a
+hot Iron, is marvellous good; keep him out of the Water for a week after, till
+you ſee him go well. This Sope and Brandy-wine is an abſolute cure for a
+Strain newly taken, or new ſwelling, or ſoft ſwelling; but if it be old done,
+and the ſwelling as hard as a bone, then you muſt firſt anoint it with the Oyl
+of Turpentine and Beer, and two or three daies after apply the Charge of Sope
+and Brandy, and it will take it quite down. Proved.
+
+### 5.109. CX. How to boyl the Charge of Sope and Bran­dy to a Salve.
+
+THis Sope and Brandy, when you are to boyl them, let them boyl till they come
+to a white Salve, then lay it on hot with a flat ſtick, alwaies when you dreſs
+a Beaſt, this is how to boyl it, and make the Charge: It will make a Horſe
+ſwell much, but within three or four daies after it hath taken its courſe, it
+will fall as flat as may be. For all theſe lameneſſes, the Beaſt muſt ſtand in
+for four or five daies, you need not take above a quarter of a pint of
+Bran­dy, and a pennyworth of Crown-ſope: For a Horſe that is caſt in a Ditch,
+and is much ſwel­led and bruiſed aboue the Head and Body with beating of
+himſelf: Let blood in this caſe, firſt [[Page
+167]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=96) in thoſe Veins
+where you ſee moſt cauſe, and let him blood as diſcretion ſhall teach you, and
+then apply the Charge of Crown-ſope and Brandy­wine hot all over the ſwelling
+with a flat ſtick, and heat it well in with a hot Iron, and let him ſtand in
+the houſe the time of his cure, and you ſhall find it to be a very perfect and
+ready cure.
+
+Proved.
+
+### 5.110. CXI. For a Swelling that comes by reaſon of Wind or Cold getting
+into the Wound, how to take it away, whether it be in the Head or any part of
+the Body.
+
+IF the ſwelling in the Head cauſe a thick film over the Eyes, then follow the
+directions un­der written: If the ſwelling comes by reaſon of Wind or Cold
+getting into the wound, to take out the heat and rankneſs of the ſwelling, you
+muſt anoint it all over with an ounce of the Oyntment of Populeon, or more if
+the ſwelling be great; anoint it twice a day at firſt, and as it falls fewer
+times will ſerve; in the mean time do nothing to the wound, till the ſwelling
+be almoſt gone; when the ſwelling is almoſt gone or down, waſh the wound with
+Cham­berlye and Salt, or Vinegar and Salt, and heal it up with your healing
+Salves: If he get a wound in his Face or Head, and the Wind get in and cauſe
+it to ſwell, when you have taken a­way the ſwelling by anointing it with this
+Po­puleon, it may be you ſhall ſee your Beaſt to have loſt his ſight, by
+reaſon of ſome thick film that hath covered his Eyes. For Remedy, when you
+have firſt taken down the ſwelling, do thus: [[Page
+168]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=97) Slit a little
+hole upon the bone of the Cheek with a ſharp pointed Penknife, and then put in
+your Cornet-horn, and work up the point thereof be­tween the skin and the
+fleſh, cloſe up to the Eye, then take a little bit of new Canvaſs, and cut it
+three ſquare, and roul it up round the length of your Thumb, mix ſome Salt and
+freſh Butter to­gether, and ſtrow ſome Salt upon the Butter, al­though the
+Butter be ſalt, and ſpread it on both ſides the Canvaſs; then roul it up round
+and thruſt it up into the hole, and there let it be, o­ver it lay a little
+piece of Canvaſs, with ſome Burgundy Pitch ſpread upon it, to keep out the
+cold and wind, and it will draw and drain the Eye very clean and clear; this
+being done, put a little piece of freſh Butter, with a corn or two of Salt
+into the Eye, and put in a piece of But­ter into the hollow hole above the
+Eye, anoint and rub it well in, that it may drain down the Eye: For a blow
+with a Cudgel, Whip, Stick, or a Haw in the Eye, though you think the Horſes
+Eye would go out, this courſe taken, will reme­dy it in a ſhort time.
+
+Let blood in the Temple-vein for a hot Rheum, and likewiſe when a Horſes eye-
+ſight fails with hard riding or much ſtraining; nevertheleſs, you muſt ſtrike
+the fleme croſs the Vein, and then the Rheum will ſtop, and the Vein will knit
+up of it ſelf; this is a main means to ſtop a hot Rheum that comes down to a
+Horſes Eye: when you let a Horſe blood on this Vein at any time, you muſt cord
+him about the Neck, and when he hath bled as much as you think good, to keep
+the cold and wind out of the Vein, you ſhould do well to pitch and flock it:
+For a hot Rheum, [[Page
+169]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=97) hard riding, or
+over-much ſtraining. Give this Drink faſting, to clear the Stomack, and
+cleanſe the Blood and Lights (viz.) one ounce of Tur­merick, half a quarter of
+Aquavitae or Brandy, two or three ſpoonfuls of Whitewine Vinegar, a quart of
+the beſt Beer, give it luke-warm: but if there be a kind of whiteglaſs in his
+ſight, then it can be no cure.
+
+Likewiſe, if you have a young Horſe that you think will be Moon-blind, then
+you muſt take up the Temple-vein in the wane of the Moon, doing with your
+Cornet-horn as before you were taught, and put a piece of Butter in his Eye,
+and a piece in the hole of his Eye: If it be a hot Rheum, his Eye will water
+and look red below the Eye, let him come into the cold Wind as lit­tle as you
+can: If it be a film, if it be thick, white, blew, though it hath been for
+half a year, then do as ye were juſt directed in this Receipt, and no
+otherwiſe. Proved.
+
+### 5.111. CXII. For a hot Inflammation or ſoft Swelling▪ that is new done,
+whether broken or not bro­ken.
+
+ANoint it with the Oyl of Populeon, and rub it in cold with your hand once a
+day, or twice at the moſt, till it be down. Proved.
+
+### 5.112. CXIII. For a Bruiſe or Bite upon the Cods of an Horſe, that cauſe
+them to ſwell much.
+
+FIrſt, Bath them well in warm Whey or Milk, but Whey is beſt, let it be as hot
+as [[Page 170]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=98) the
+Horſe can endure it, bath it for three or four daies together; then make a Bag
+to put his Cods therein to keep them warm, anoint his Cods with the Oyl of
+Populeon cold, once or twice a day, till you ſee the ſwelling of his Cods
+abate, which when you ſee, apply the Charge of Crown-ſope and Brandy-wine, to
+take down the reſt of the ſwelling, and to knit the Veins and Strings of his
+Cods again: Lay it on hot, and heat it well in, three or four daies after ride
+him into a Ri­ver, if you can, or Pit, up to the belly, and you ſhall ſee it
+fall in a ſhort time. If the Cods be ſwell'd much, and it have been long done,
+and is hard, then do not meddle with it. Proved.
+
+### 5.113. CXIV. To keep in your Medicine, and keep out the Wind.
+
+OVer your Medicine, lay a Plaiſter of Bur­gundy Pitch, and it will keep in
+your Me­dicine and keep out the Wind, whilſt you take down the ſwelling with
+the Oyl of Populeon, but Culpepper ſaith that the Oyntment of Popu­leon is
+better.
+
+### 5.114. CXV. Directions.
+
+IF at any time a Horſe come to you with ſwel­led Legs, and that hath been
+poyſoned with other Farriers Medicines: Firſt, before you ap­ply any thing of
+your own to it, bath his Leg or Legs with Whey as hot as he can endure it, to
+waſh off the poyſon of their Medicines, and to make his Legs clean. Whey will
+not take off the [[Page
+171]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=98) hair if it be
+not off before, it will cool gal­lantly, it is better than Milk: But if you
+can­not get Whey then take Milk; after you have thus bathed it in warm Whey or
+Milk, you may fall to work according to your judgment, as it is in hardneſs or
+ſoftneſs: This Book will tell you, whether you ſhall take it away by Drinks or
+Oyntments, or by both: Look the Receipts for a dry Surfet, and the Receipt for
+a Pocky Far­cion Horſe: Look the following Receipts for a dry Surfet, and
+there you ſhall ſee the Purge of Aloes to be given inwardly, and other things
+to be applied outwardly to the hard ſwelling: If it be a Surfet that comes
+down out of the Body, and falls into the Legs before or behind, and breaks,
+and runs moiſt, watry, or attery, ſtink­ing filthy matter, then look the
+following Re­ceipts for a foul, rank, pocky Farcion Horſe. And give him the
+firſt Drink there mentioned at the beginning of the Receipt; one or two of
+thoſe Drinks will dry up the moiſt humours, that fall out of his Body into his
+Legs. Note, That where the filth breaks out of the Chaps, if the Crannies be
+very great, and if you ſee that the filthy matter that comes out of thoſe
+Crannies, are like to rot the Sinews of the Legs, then uſe the following
+Receipt, which is for Pains and Scratches, made of Hony, Pepper, and Garlick.
+The Drink given inwardly, & this Receipt appli­ed outwardly to the Crannies of
+his Legs, are in­comparable, for the Drink at once or twice gi­ving, wil dry
+up the humor; in his body, although never ſo many or ſo violent, and the Salve
+will heal up his Legs ſuddenly and to purpoſe. This is enough to direct you,
+eſpecially for dry Sur­fets [[Page
+172]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=99) that fall out
+of the Body into the Legs, and there ſettle and become very hard: And likewiſe
+for ſurfets that fall out of his Body, and break, ſtink, and run, watry,
+yellow, thick, and ſome­time thin mattry filth in the Legs: if after you have
+made a Cure of theſe, and ſee your Horſe gaunt, and doth not fill well, then
+give him the Purge of Aloes to ſcour and cleanſe him; and after that your
+Cordial, Whitewine, and Honey, all mentioned in the following Receipts in this
+Book, which is for a dry Surfet: And when a Horſes Cods are ſubject to ſwell
+oft, give him this Purge of Aloes that is for a dry Surfet, which is when the
+Greaſe is melted, and afterwards ſetled and dried in his Body. It is good for
+a Horſe that is gaunt and will not fill, and we ſay is gut-foundred, and his
+hair ſtands right up. The Cordial of Whitewine and Honey is marvel­lous good
+to beget and continue a ſtomack to his meat, being given after his Purge, as
+you are fully directed in the Receipt for a Horſe that is ſwelled in his Cods,
+and that hath a dry Surfet, and runs at the Noſe. I ſay in the following
+Receipts you ſhall there find them altogether in order.
+
+### 5.115. CXVI. For a Shoulder-ſtrain.
+
+FIrſt, tye up his ſound Leg very ſure with a Liſt or Garter, then walk or
+drive him upon three Legs, that he may lay the weight of his Body upon the
+lame Leg, till he begin to ſweat at the Ears and Cods with pain; this is,
+becauſe you may ſee the Plait-vein the plainer appear; then let down his lame
+Leg, and [[Page 173]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=99)
+you ſhall ſee the Vein yet plainer than you could when his Leg was tied up: If
+you cannot ſee the Vein plain enough when his Leg ſtands upon the ground, then
+heat but a little Water, and clap it on with your hand upon the Vein, and then
+you ſhall certainly ſee the Vein appear a great deal bigger, that you may let
+it blood, then when you ſee the blood is come into the Plait­vein, and that
+the Vein is plain enough to ſee and feel, tie up his lame Leg again, and let
+him blood in the Plait-vein, on that ſide the bottom of his Cheſt his lame Leg
+is on: Let him bleed a quart or two, or more, the greater the lameneſs is, the
+more let him bleed: after he hath bled a­bout a quart upon the ground,
+preſently put in­to a Bowl a good handful of Salt, and let him bleed a quart
+or more into that Salt: you muſt ſtir the Salt and blood altogether, all the
+vvhile he bleeds into the bovvl, becauſe it may not clot, then ſet the Blood
+and Salt by, and ſtop the Plait-veine vvith a piece of Lead, that may nip the
+mouth of the Vein together again that it may not bleed: You muſt have in a
+readineſs an ounce, or an ounce and a half of the Oyl of Turpentine, and as
+much ſtrong Beer, put them both into a Glaſs Vial, and ſhake them vvell
+to­gether: When you have thus ſhaked the Oyl and Beer together, bathe it vvell
+in vvith your hand about his Breaſt, and all his Shoulder over, and the bottom
+of his Breaſt, betvveen his Legs, and half vvay dovvn to his knees; bathe it
+and clap it vvell in vvith your hand, preſently after take the Blood and Salt,
+and bathe and clap that upon the former; then ſet him up into the Stable to
+meat, and vvith a Liſt or Garter, tye both his Fore-legs [[Page
+174]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=100) together as
+cloſe as you can, a Girt or Surcingle will ſerve to tie his Legs. The next day
+untie his Fore-legs, take him out and walk him, and if you ſee he go any thing
+well, take his back and ride him gently a Mile, and ſet him up again, and tie
+his Fore-feet again, as cloſe as you did before; If he go not well the firſt
+day, do but walk him the ſecond day, and not ride him; and the third day after
+his firſt dreſſing, do not only tie his Legs, but flat a ſtick on both ſides
+in the faſhion of a wedge, about the breadth of a ſixpence, take it and drive
+it in between the Toes of his Shooes, and the Toe of his Foot faſt, ſo that it
+may not come out, and alwaies whilſt he ſtands ſtill in the Stable, tie his
+Legs cloſe, and peg him with a Wedge, and when you walk or ride him abroad,
+untie his Legs and take out the Wedge: do this every night and day till he
+grow ſound, which will be vvithin two or three daies, if it be a Strain nevvly
+taken: To let blood once, and a­noint it once vvith the Oyl of Turpentine and
+Beer, and once vvith the blood and ſalt, is enough vvith the help of tying his
+Legs together, and driving in a vvooden Wedge as you vvere be­fore directed:
+For a vvrench in the Shoulder, or vvhen a Horſe hath pulled his Shoulder out
+of his place, and the Shoulder is faln the breadth of a mans hand or more, or
+if he be ſplayed on the Shoulder, do nothing contrary to vvhat you vvere
+directed before in this Receipt, either for matter or manner; for if it be but
+lately done, it is as ſpeedy a Cure for the one as for the o­ther. And if you
+do as you are here directed, I am perſvvaded there is not a better or ſpeedier
+vvay to be taken under the Sun. I can­not [[Page
+175]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=100) give praiſes
+ſufficient to the vvorth of it. Proved in all.
+
+### 5.116. CXVII. For an old Strain in the Shoul­der.
+
+THe fore-going direction in the laſt Receipt, is moſt incomparably certain,
+for an old hurt in the Shoulder, and is for this as abſolute a Cure in one
+Weeks time as any is under the Sun. Proved.
+
+### 5.117. CXVIII For the Hurle bone out of Joynt, or a little miſcarried.
+
+THis Hurle-bone is much about the midſt of the Buttock, and is very apt to go
+out of the Socket vvith a ſlip or ſtrain. The Oyl of Tur­pentine and Beer is
+marvellous good, uſed as before you vvere directed, for a Horſe that has
+gotten a miſchance in the Hurle-bone: After you have ſhaked them together in
+the Glaſs▪ take of it, and as near as you can, pour a little of it right over
+the Socket of the Hurl-bone, the breadth of the palm of your hand, and rub it
+in vvith your hand. It vvill make the skin to purſe up and be very ſore, and
+you muſt anoint him on the bravvn and thick part of the inſide of the Thigh,
+and ſo dovvn to the Stifle, and anoint him dovvn to the very——.
+
+In the time of the Cure, drive in a vvooden Wedge in the contrary Foot
+betvveen the Toe and the Shooe, and ſo let him ſtand day and night: If you ſee
+your Horſe mend and go bet­ter, [[Page
+176]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=101) you may then
+ride him every day, ſo as when you ſet him into the Stable, you peg him with a
+Wooden Wedge, this courſe being taken, will in a very fevv daies cure him, and
+make him go compleat.
+
+Proved.
+
+### 5.118. CXIX. For a ſtifle in the Stifling-bone.
+
+IF your Horſe be ſtifled that you ſee the ſtifling bone is out of his place;
+then firſt, ſvvim him in a Mill-pool for half an hour, till he ſvveat behind
+his Ears, in vvhich time or before, the bone vvill be in his place again: then
+lead him gently home cloathed, and keep him in the Sta­ble vvarm; as ſoon as
+he comes into the Stable, peg him on the contrary foot behind, all the time of
+his Cure vvhilſt he ſtands ſtill in the houſe; and as ſoon as he is dry, take
+Sope and Brandy mentioned in the fore-going Receipts, and lay it hot to the
+grieved place, and heat it vvell in vvith a hot Iron, it vvill ſwell a little
+at firſt, but it vvill ſoon fall; it vvill ſtrengthen the grieved place much,
+and in a ſhort time it vvill be a perfect Cure: Or thus, you may for a ſtifle
+after ſvvimming, peg him as ſoon as he comes into the ſtable, and ſo do
+alvvaies vvhen he ſtands in the houſe, and vvhen he is dry rub in half an
+ounce of the Oyl of Turpentine, and as much ſtrong Beer ſhaked together in a
+Glaſs. It vvill cauſe it to ſvvell ſomething more than Sope and Brandy, but it
+is admirable for a ſtifle, and a ſpeedy Cure. Obſerve, that ſvvimming is not
+good for any ſtrain, but only to bring a ſtifle­bone right into place again,
+and you may try it [[Page
+177]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=101) for that, but
+not for a ſtrain. The Beaſt muſt ſtand in the Houſe all the time of his Cure.
+
+Proved.
+
+### 5.119. CXX. A ſpeedy Cure for a Sinew-ſtrain, old or new.
+
+FIrſt, Let blood in the Shackle-veins, which are in the Paſtern, for it will
+much further the Cure: Then take the fatteſt Cat you can get, kill her, and
+flea her as ſoon as you can poſſible, then bruiſe the fleſh and bones of the
+Cat ſmall, and lay it upon a cloth, and bind it cloſe to the Sinew-ſtrain,
+from the Paſtern up the Legs, as far as it will go, and as warm as you can:
+you muſt take out her Guts before you bruiſe her fleſh, or lay it too; and you
+muſt, after you have let blood in the Shackle-vein, bathe the Si­new-ſtrain
+with Aqua-vitae, and rub it in cold with your hand, and then afterwards lay
+the fleſh of the Cat on a cloth to the place: Of all cures for a Sinew-ſtrain
+this is the beſt and ſpeedieſt, wind a cloth two or three times about the Leg,
+when you have laid the Cat on, to bind it on, becauſe a Cat draws and knits
+mightily: Let him not come into the Water till he be cured.
+
+Proved.
+
+### 5.120. CXXI. For a Poll-Evil in the Head of an Horſe.
+
+IF you take it at the firſt ſwelling, then do thus: Take half an Ounce of the
+Oyl of Tur­pentine, [[Page
+178]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=102) and anoint the
+ſwelling therewith, ſo far as it is ſwelled, and let it ſink in and take its
+courſe for four or five daies, in which time the skin will be ſhrunk up like a
+purſe: At the four or five daies end, if you ſee the ſwelling begin to fall,
+then take Burgundy Pitch, and Black Pitch of each two ounces, and one ounce of
+Maſtick, put them into a Pipkin and melt them; then take a flat ſtick and
+ſpread it all over the ſwelling, then take the ſhearings of cloth or flocks,
+and do them thick on with your hand up­on the Pitch till it be hot, when your
+Plaiſter comes off, which it may be will be a fortnight or a month. If then
+you ſee the Oyl and the Plaiſter have killed the venome of it, and taken down
+the ſwelling, then do no more to it. A­gain, if you ſee, when your Plaiſter
+comes off, that it is much ſwelled, or that there be proud fleſh in it, then
+if it be not broken, lance it, and if there be any dead or proud fleſh in it
+cut it out, then fill the hole or wound with fine Tow, Flax, or Hards, to dry
+the blood up; and there let it lye five or ſix hours, then take it away, and
+put in ſome of the Medicine which you uſe for a Canker in the Head, Face,
+Eyes, or Noſtrils of a Horſe, vide Receipt C. With this Medi­cine dreſs it
+once a day at firſt, and as it be­gins to heal, dreſs it once in two daies;
+this Medicine will heal it ſuddenly; cut a hole at the edge or lower part of
+the ſwelling, to lay it a draining, and it will heal a great deal ſooner, dab
+and throw on good ſtore of Wheat-bran up­on it when you lay it on, when your
+Plaiſter comes off, look upon the top of the Poll-Evil, to ſee how far the
+dead, proud, white, jelly fleſh [[Page
+179]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=102) goes, cut it
+all out with your Inciſion knife, till you come at the red fleſh which is
+ſound; the Veins will bleed much, and ſpin again when you come at the quick;
+but let not that hinder you from cutting out all the dead, proud fleſh, which
+if you cut all out clean, you cannot do amiſs, on­ly take heed you do not cut
+the white Paxwax, which runs along the top of the Neck, which ſome call a
+Creſs; it is white, and you may ea­ſily ſee it; if you cut that, his Neck will
+fall and look baſely, therefore have a care. There is a white Pith in a Poll-
+evil near the top of the Neck by the Paxwax, take your Nippers and pull it
+out, it will come out like a Plug, there is no ſuch thing in a Fiſtula; when
+you have pul­led it out, put ſome of your Medicine to it, and it will heal it
+apace: Let not the dead fleſh be left in the wound, but cut it clean out,
+although the wound ſeem never ſo broad: The ſame cure and the ſame way is to
+be uſed for a Fiſtula; the Beaſt muſt ſtand in the time of the Cure.
+
+Proved.
+
+### 5.121. CXXII. For a through Splent on both ſides of the Leg, by ſome
+called a Great Bone-S [...]ru­pin.
+
+FIrſt, Tye the Horſes head cloſe to a ſtrong Poſt, then tye up his contrary
+Leg, then bruiſe and beat the Splint on both ſides with a Blood-ſtick, or Bed-
+ſtaff, beat it till it be ſome­thing ſoft, if he will not endure the beating
+of it ſtanding, caſt him with a rope; after you have beat it ſoft, Take of the
+Oyl of Riggrum 12 [[Page
+180]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=103) pennyworth,
+and rub it on with your fingers on both ſides, upon the very ſplent and no
+where elſe; you ſhall have of this Oyl but a little for a ſhilling. Tye up his
+head for two or three hours; for it will ſmart, and tye up his contrary Leg,
+this way will take off the Hair a little, but it will grow again of the ſame
+colour preſently: If it be never ſo big, do but thus two or three times, and
+within a weeks time it will be quite faln, one dreſſing will ſerve for a ſmall
+Splent, or for a blood Splent; this way will a little break the hair, but not
+the skin. If you will, you may turn him out. Proved to be admirable.
+
+### 5.122. CXXIII. For a Mallender.
+
+FIrſt, Clip away the hair which grows upon it, and about it, then rub the
+Scabs off with a Hair-cloth, or the back of your Sciſſars, or Knife; this
+rubbing of it will cauſe it to run a yellow matter, take a Linnen-cloth, and
+wipe away the filth clean, then take four penny-worth of the Oyl of Riggrum,
+and mix it with a little of your own Dung, and lap it on with a flat ſtick
+upon a Linnen-cloth, and bind it to for a Week, then make it clean, and dreſs
+it again, and it is a Cure. After your firſt dreſſing, you may ride him or
+turn him out. Proved.
+
+### 5.123. CXXIV. For a looſeneſs in the Body of any Beaſt.
+
+TAke a pint of Red-wine, or for want there­of a pint of Claret, warm it in a
+Wine-pot [[Page
+181]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=103) upon the fire,
+then put an Ounce of beaten Ci­namon therein, and give him it a little warm,
+you may put thereto the yolks of two new laid Eggs, once or twice is a Cure;
+give him warm Water at night, and cold Water next day, and ride him upon it.
+Proved.
+
+### 5.124. CXXV. For a Cold in Summer, or when a Horſe doth not fill.
+
+BOyl a quarter of Red-ſtone Sugar in a pint of Sack, till it be diſſolved, and
+then take it off the fire, and put in two ſpoonfuls of Sallet Oyl, and give it
+lukewarm: ride hard when you have given it unto him: Give him warm Wa­ter for
+three or four daies after, keep him warm, give him now and then a Maſh.
+
+Proved.
+
+### 5.125. CXXVI. For a ſudden great heat, as in Hunt­ing, Racing, or hard
+Riding, that the Hor­ſes Greaſe is melted.
+
+THis you ſhall know by the panting of the Horſe that Night he comes in ſo hot,
+for if he be over-ridden and his Greaſe melted, you ſhall know it by his
+panting at the Breaſt, and Girting-place, and heaving at the Flank; you ſhall
+ſee the Night he comes in, and the next day morning, that his Body will be
+mighty hot: For Remedy, Take and give this, to purge him and cleanſe him, and
+to qualifie the heat and working of his Body: Take one pint of Sack, and put
+to it one ounce of Diaſcordium, beaten [[Page
+182]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=104) ſmall, mix
+them together, and give it to the Beaſt at any time cold, but in the morning
+faſting is the beſt; give him warm Water for three or four daies after; give
+him burſten Oats, boyled Bar­ley, and Maſhes made of ground Malt, keep him
+well littered, and clothed warm. If he forſake his meat, and you ſee he hath
+loſt his ſtomack, to bring him to his ſtomack again▪ give him two ounces of
+Hony, and half a pint of Whitewine mixed together, and heated lukewarm; in the
+morning, after he hath drank cold water, you may give him it with a Horn: It
+will make him piſs, clear his bladder, and bring him to his ſto­mack again.
+After you have given him it, ride him a mile or two gently, and ſet him up
+warm, at night ride him a mile or two again, and litter him well, and keep him
+warm: Thus do for three or four daies, or a week; at three daies end, give him
+the Wine and Hony as before you were directed: If you ſee, notwithſtanding all
+theſe means uſed, that he will not fall to his meat, and that he is bound in
+his belly, and dungs ve­ry ſmall; then give him this Cordial two or three
+times, in two or three daies, betwixt each Cordial giving. Take three pints of
+ſtale Beer, houſhold brown Bread, the quantity of half a penny Loaf, boil
+theſe two well together, then take it off the fire: and put into it a quarter
+of a pound of Hony, and a quarter of a pound of freſh Butter, give him this
+Cordial lukewarm faſting, and ride him a mile or two every E­vening and
+Morning, as well when you do not give it to him, as when you do; ride him
+fair­ly▪ and clothe and litter him up vvarm: this Cordial vvill bring him to
+his ſtomack, and cauſe [[Page
+183]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=104) him to be
+looſe bodied, and dung ſoft, al­though he be vveak, and have little or no
+ſto­mack, four or five hours after his Cordial, the firſt thing you give him,
+boyl him half a peck of Oats, and a pound of Fenygreek together in vvater till
+they be burſt, and the vvater vvhere­in theſe vvere boyled, pour it from the
+Oats into another Payl, and put ſome cold vvater to it, and vvhen he drinks
+let him drink of this vvater; for the Oats and Fenygreek, throvv ſome of them
+into the Manger hot, and if he be loth to eat them, then ſtrevv ſome Wheat-
+bran upon it, and it is very likely he vvill eat all together: This courſe
+taken in every particular, vvill bring your Horſe to a ſtomack, and raiſe him
+ſudden­ly. Look the Receipt follovving for a dry Sur­fet, and when the Horſe's
+Cods are ſwelled, and he runs at the Noſe; and there you ſhall ſee the purge
+of Aloes. A fortnight or three vveeks af­ter he is thus melted, and that you
+have given him the former things, to give him this Purge of Aloes, vvill do
+the Beaſt a great deal of good in this caſe: I am confident it is good: Or
+give him as much of the povvder of Mechoacan, as vvill lye upon a ſhilling at
+three or four times, that is very good in a pint of Wine, or a quart of ſtrong
+Ale. Proved.
+
+### 5.126. CXXVII. For a Foundred Horſe.
+
+FIrſt, tye a Liſt or Blood-cord hard about the Paſtern, and that will keep the
+Blood up into his Leg, that it cannot come dovvn into his Foot, when you have
+taken out the Soal, ſet on his Shooe ſomething hollow and broad, then [[Page
+184]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=105) untye the
+ſtring about the Paſtern, and knock the out-ſide of the Hoof, and the blood
+will come pouring out: Let him bleed well, then put a handful of Salt into the
+bottom of the foot, and put as many Hards, Flax, or Tow after it, as will fill
+the bottom of the Foot, take two or three flat ſticks, and lay them between
+the Hards and the Shooe, a piece of ſtiff Soal-Leather will do as well; at the
+end of 24 hours take the Hards away, and take a handful of Nettle-tops, and a
+handful of Salt, and beat them together, and lay them to the bottom of the
+Foot, and to keep them in, take Hards and Splinters, as you were directed
+before; at forty hours end, take the Hards away, and apply the ſame quantity
+of Nettles and Salt, mixed with as much Hogs Greaſe as contains to an Egg, and
+beat them altogether in a Mortar, and lay them to the Soal of the foot, and
+Hards and Splinters as before▪ with this laſt Medicine you may dreſs his foot
+once or twice more if you ſee cauſe; after you ſee the Horſe goes a little
+well, ſet on another Shooe, formed with a broad Web, and let it ſtand broad
+and eaſie, and in ten daies time the Horſe will go very well and ſound: when
+you come at your journeys end, waſh his Legs clean, and when his Legs are dry,
+make a Poultis of a quarter of a pint of Whitewine Vinegar, and a quarter of a
+pound of Sheeps­kidney Suet cut very ſmall: Let theſe two boyl a pretty while
+in a Skellet, and when it comes off the fire, put two or three handfuls of
+Wheat­bran to it, and ſtir them all together, and make it thick like a
+Poultis, and lay it to the bot­tom of the foot; then Hards and Splinters
+[[Page 185]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=105) as
+before you were directed; then ſpread the reſt of the Poultis upon a long
+piece of Linnen-cloth and lay it hot to the hair round about the top of the
+Hoof and the Foot-lock, and let it come un­der the bottom of the Hoof, lay it
+to as hot as you can; let every Poultis lye on forty eight hours: Three or
+four Poultiſſes laid to in this manner, will do the Horſe much good, and cauſe
+his foot to grow and ſhoot out, and give him much eaſe, ſo as in a very ſhort
+time he will go very ſound. If an Horſe be bruiſed in the bot­tom of his foot
+with a ſtone, or any other thing, this Poultis will give preſent eaſe: For a
+found­ring, the Beaſt muſt ſtand in till the bottom of his foot be grown
+again. I hold it beſt to take out but one ſoal at a time, becauſe if you take
+out both at a time, the Horſe will not be able to ſtand: Some take out Fruſh
+and all, ſome take out nothing but the bare Soal, and leave the Fruſh. The way
+is, firſt cord the Paſtern, then pare the Soal, and then raze it round about
+the Soal to the quick, as near the inſide of the out­ward ſhell of the Hoof as
+you can with a draw­ing knife, then raiſe the Soal at the Toe, then lay hold
+with a pair of Pincers; and pull it quite out, but beware you break not the
+Veins in the foot.
+
+Proved.
+
+[[Page 186]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=106)
+
+### 5.127. CXXVIII. For a Back ſwanckt in the Fillet of the Loin: or for a
+Wrench in the Back-bone, about the Navel place: or for a ſtrain in the
+Kidneys, by being over-burthened in the Hinder-parts, or over-ſtrained in the
+Kidneys in Race-running.
+
+IF you ſee any of theſe miſchances to fall upon the Back or Hinder parts of
+your Beaſt, then do thus and no otherwiſe, for all thoſe miſchan­ces above-
+written. Take a hot Sheeps-skin fleaed of a Sheep newly kill'd, apply it as
+hot as you can, with the fleſhy ſide from his Rump, all over to the midſt of
+his Back-bone, if it will reach ſo far: Let it lye on twenty four hours, and
+at the end of that time, lay another hot Sheeps-skin in the ſame manner to it,
+if need require, and you ſee the firſt will not do: Let the grief be never ſo
+great, two hot skins will do it, with the help of the Drink next under
+written; but if the hurt be not great, the Sheeps-skin will do it alone. It
+will make the Horſe to ſweat much, it will draw out all the bruiſe, and
+ſtrengthen the back of the Horſe exceedingly in a ſhort time: But if your
+Horſe be ſo weak that he cannot ſtand nor go, then take a Sack or two, and
+Ropes, and throw them over a Balk, and hang him for nine or ten daies; when
+you firſt hang him, clap a hot Sheeps-skin to his Rump and Back for twenty
+four hours, and at the end of the time, lay another hot Sheeps-skin to, and
+then no [[Page 187]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=106)
+more: In the time of this Cure, give him this Drink if the ſtrain be great: If
+it be but ſmall, this Drink can do no hurt, but a great deal of good: Take
+Polygonatum commonly called So­lomon's Seal, you may have it at the
+Apotheca­ries, but it is dear; take ten roots of it that may weigh three
+ounces, Polypodium of the Oak a quarter of a pound, two handfuls of Wood-
+be­tony, or for want thereof, as much Garden-be­tony, cut it ſmall, and if the
+roots be dry, beat them to powder; if they be green cut them thin; then take a
+Gallon of ſtrong Beer, or ſomewhat more, put it into a Kettle, and put the
+other three things to it, and let them boyl till the Beer be boyled half away,
+then take them off the fire, and put into it a quarter of a pound of Butter,
+and a quarter of a pound of Hony, and give the Horſe of this to drink three
+times in nine daies, in the morning faſting, and give him warm Wa­ter to drink
+all the while, with a handful of Bran put into it: give him of this Drink a
+quart at a time. Buy of theſe Roots green, dry them, and beat them ſmall, and
+keep them from wind and air for your uſe: If you cannot get the root of
+Solomon's Seal, make uſe of the other things, they may do well without, but
+better with it. Let him ſtand in the time of the Cure. To this Drink you may
+add Penny-royal, Clarey and Comfrey, they are all knitting and ſtrengthening
+Herbs.
+
+Proved.
+
+[[Page 188]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=107)
+
+### 5.128. CXXIX. For a new Wound made with a Stake, or ſuch like thing, Stub
+or Fork.
+
+Firſt, waſh the Wound well with Butter and Vinegar melted together, then take
+a Clout and tye it about a ſticks end, and dip it in ſome Linſeed Oyl, and run
+it to the bottom of the wound, anoint it well, and in a ſhort time no­thing
+but this will heal it and kill the Gangrene of it. If the Wind get into the
+Wound, and cauſe it to ſwell, anoint it with the Oyl of Po­puleon round about
+the ſwelling: Train-oyl and Verdigreaſe melted together, will heal and skin
+any Wound well and quickly. Proved.
+
+### 5.129. CXXX. For a Stub in the Foot or Heel: For an over-reach with the
+Toe of the After­foot, upon the Heel of the Fore-foot: A Tread or Cut above
+the Hair, or when a Stone hath cut a Horſes Leg.
+
+FIrſt, waſh the Wound with fair Water, or with Water and Salt: when the Wound
+is dry, take a big Onyon, or two or three ſmall ones to the bigneſs of a great
+one, a ſpoonful of Pepper beaten ſmall, as much Crown-ſope as the bigneſs of
+an Egg, theſe three things muſt be beaten to a Salve, and laid upon a Linnen-
+cloth, and laid to the Wound four and twenty hours, and at the end of that
+time dreſs it as you did before, and ſo continue doing every four and [[Page
+189]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=107) twenty hours
+till it be whole: If this quantity of Medicine bee too little, make more: As
+you ſee it heal, dreſs it but once in two or three daies. This Onyon Salve
+will prevent a Quitter­bone, if you lay it to before it break. This Salve is
+good to heal and cure all theſe hurts.
+
+Proved.
+
+### 5.130. CXXXI. For a Horſe that is prickt in the ſhooing, and afterwards
+feſtred.
+
+FIrſt, open it well, and take out all the corrup­tion to the very bottom, ſo
+far as the Nayl did go, then take three or four Houſe-ſnails, a little Salt,
+as much Sope as a Walnut, beat them altogether, and lay it to the place that
+was prick­ed four and twenty hours, till you ſee it begin to heal, then dreſs
+it but once in two daies; and in three or four dreſſings it will be whole:
+When you lay this Medicine to the bottom of the foot, lay ſome Flax, Hards or
+Tow over it, and over that a piece of Leather or Splinters to keep the Hards
+and Medicine in: And if it break out, or be ſoft above the top of the Hoof,
+lay ſome of this Medicine to, and bind it on with a Lin­nen rag. Proved.
+
+### 5.131. CXXXII. For a Horſe that is prickt with a long Channel Nail.
+
+FIrſt, ſearch it with your Buttris and drawing­knife, till you find where the
+Channel Nail went in, open it well and give it all the eaſe you can, ſearch it
+to the bottom with a little Tow [[Page
+190]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=108) at your
+Inſtruments end, then drop ten or twelve drops of the Oyl of Turpentine into
+the hole, take a little Tow or fine Lint at your Inſtru­ments end, and dip it
+in the Oyl of Turpentine, and put it in Tent-waies, then mix a little Crown-
+ſope, a little Salt, and a little Pepper beaten together, and lay it over the
+former, and Tow or Hards over it, and a piece of Leather and Splinters over it
+to keep it in: The Shooe muſt be taken off when you dreſs it, and after to ſet
+it on again, dreſs it once in four and twenty hours, till it be whole. If you
+find that after three or four times dreſſing, that the Horſe is in great pain
+ſtill, and that you fear a breaking out above the hoof, then take out the Soal
+of his Foot, and apply the Medicine in order, as you were directed for a
+foundred Horſe in Receipt CXXVII. Do with this juſt as you are there directed,
+to make the Soal come again; after his Foot begins to grow again, take as much
+Hogs Greaſe as an Egg, and the like quantity of Burgundy Pitch, mix them
+together, and lay a pretty quantity thereof in the bottom of the Hoof, and lay
+Hards or Tow over that, and a piece of Leather or Splinters over it, as you
+were formerly directed. Dreſs it every day for three or four daies: this
+Greaſe and Pitch will much nouriſh his Foot, and ſtrengthen it and keep it
+from drying up. Let him ſtand in the time of his Cure, and then if you pleaſe
+you may turn him out abroad. Proved.
+
+[[Page 191]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=108)
+
+### 5.132. CXXXIII. For a Brittle Hoof.
+
+LAy the Poultis to the bottom and top of the Hoof and Foot, as you have
+directions for a Foundred Horſe, in Receipt CXXVII. Lay that Poultis to, and
+in three or four times dreſ­ſing, it will make his brittle Hoof tough and hard
+as you can deſire. Let him ſtand in the time of his Cure. Proved.
+
+### 5.133. CXXXIV. For an Horſes Yard, foul and furr'd without, ſo that he
+piſſes in the Cod.
+
+TAke ſome freſh Butter and Whitewine Vi­negar, and melt them, then pull out
+his Yard, and do off the filth with your hand, and waſh it with the Butter and
+Vinegar till it be clean, ſquirt ſome of it into his Yard with a Syringe, it
+will much help him in this particular.
+
+Proved.
+
+[[Page 192]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=109)
+
+### 5.134. CXXXV. When a Horſe doth not thrive, and when his Coat ſtands
+ſtaring and doth not lye ſmooth: For an inward dry Sur­fet, that cauſeth the
+Cods to ſwell, ſome­times continually, and ſometimes betwixt times. When the
+Greaſe is melted, and afterwards ſet and dried in his Body, and his Legs
+ſometimes ſwelled. For an Horſe that is Gaunt and will not fill, or is Gut-
+foundred, when he is Coſtive in Body and Dungs ſmall. To procure a Sto­mack.
+The following Directions are ad­mirable good for all theſe following
+Di­ſtempers.
+
+FIrſt, make your Purge thus: Take an ounce of fine Aloes, the beſt is that
+which ſhines and gliſters, an ounce will coſt you a ſhilling, beat it to
+powder, take a quarter of a pound of freſh Butter, bray and mix theſe two well
+toge­ther, and put a handful of Wheat-bran to it, to make it ſtiff like a
+piece of Dough or Paſte, then roul it up in Balls made big in the midſt, and
+ſharp at both ends, this quantity will make four or five Balls; then hold up
+his Head with a Drenching-ſtick, and take his Tongue in your Left-hand; and
+put in one Ball to the root of his Tongue if you can, that he may ſwallow it
+the better; put your finger under his Tongue, then give him a Hornful of
+ſtrong Beer cold after it; then give him a ſecond Ball, and a Hornful [[Page
+193]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=109) of Beer to
+waſh it down, and ſo do in like man­ner by all the reſt, then ride him a Mile
+gently, and ſet him up warm; Let him not eat not drink for five or ſix hours
+after it, then give him a lit­tle clean Hay at Night, not before, and ſome
+warm Water to drink, with ſome Wheat-bran put into it; the next Morning give
+him warm Water to drink in the ſame manner, and ride him a Mile gently, and
+tye him to the Rack for an hour after, then you may give him what meat he will
+eat, at Night warm Water and Bran again; the third day in the Morning after he
+hath done purging, give him cold Water, and before you ride him after his cold
+Water, give him two ounces of Hony, and half a pint of White-wine heated a
+little warm, to make him piſs and to clear his bladder, and to beget a
+ſtomack; then ride him a Mile or two gently, and at Night ayr him again, and
+ſo do Morning and Evening till he be well, litter him well, and keep him warm:
+If you ſee that after his Purge, and after you have given him the Hony and
+Whitewine, he do not fall to his meat, but is ſtill bound in his body, and
+dungs very ſmall, then give him this Cordi­al faſting two or three times, and
+let there be two or three daies betwixt each Cordial giving. It is thus made;
+Take three pints of ſtale Beer, courſe Houſhold bread the quantity of half ae
+penny Loaf, when theſe two are well boyled to­gether, take it off the fire,
+and put into it a quar­ter of a pound of Hony, and a quarter of a pound of
+freſh Butter, give him all theſe toge­ther as a Cordial lukewarm, then ride
+him a mile after it, and ſet him up warm, and tye him up to the Rack for three
+or four hours after [[Page
+194]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=110) it, then give
+him a Maſh of burſten Oats or Bar­ly, and warm Water with Wheat-bran in it,
+till the Horſe be come to his ſtomack, and be looſe bodied again, which in two
+or three times giving he will be: The fore-going Purge is admirable good for a
+dry Surfet, and for a Horſe that is bound in his body, and dungs ſmall: The
+Cordial with Whitewine and Hony, is admirable good for a Horſe that is weak,
+and hath little ſto­mack, to bring him to a ſtomack again: When at any time
+for the fore going Diſeaſes, you give a Maſh of burſten Oats, to half a peck
+boyl a quarter of a pound of Fenygreek with them, and put ſome of them into
+the Manger hot, if he be loth to eat them, becauſe of the taſte of the
+Feny­greek, throw ſome Wheat-bran over them, and he will eat them; this is the
+only way to bring your Horſe to a ſtomack, and raiſe him ſudden­ly: Concerning
+his ſwelled Cods, and ſwelled Legs, as ſoon as his Purge hath done working,
+take the Charge of Sope and Brandy, and dab it on his ſwelled Cods, or ſwelled
+Legs, with a flat ſtick as it comes boyling hot off the fire; three or four
+daies after it hath taken its courſe, whilſt he ſtands in the houſe, take and
+ride him into the River up to his Saddle-skirts, with the ſtream and againſt
+it, half a quarter of an hour at a time, waſh him thus once every day, or
+twice, till you ſee the ſwelling quite down his Cods or Legs, which will be in
+very few daies, once laying on the Charge is enough. If it be a dry Surfet,
+give the Purge firſt, and afterwards the Cordial, of Whitewine and Hony: But
+if he have a Cold, and run at the Noſtrils, then firſt give him the following
+Drink made of Anniſeeds, Turmerick, [[Page
+195]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=110) Brandy or
+Aqua-vitae, Vinegar and Beer, and three daies after give him the Purge, and if
+you ſee his ſtomack to fail him, give him the Cordi­al; when a Horſe is fat
+and luſty, and then mel­ted, and the Greaſe ſet within him, in this caſe uſe
+the Purge firſt: But if he be fat and ſick both together, then give him the
+Whitewine and Ho­ny and Cordials, as you are before in this Re­ceipt directed,
+to bring him to a ſtomack firſt, and when you have done that, then give him
+the Purge, and order him after it as you are there di­rected. If there be hard
+Kernels between his Jaws or Chaps at the ſame time, the Charge of Sope and
+Brandy laid hot upon them, and heated well in, in once doing it will either
+ſink them flat, or break them: And if they break, waſh them with Butter and
+Vinegar, and let them heal up of themſelves. All proved to be good and
+certain.
+
+### 5.135. CXXXVI. For a moiſt, hot, running Surfet, that falls out of his
+Body into his Fore-legs, and ſometimes into his After-legs, and ſome­times
+into all four.
+
+THis Surfet comes with Colds and Heats, which are divers waies taken; when it
+falls out of his Body into his Legs, and runs hot, moiſt, white, yellow, thin,
+thick, ſtinking Wa­ter or Matter, in this caſe, the Horſes breath will ſtink
+and ſmell very ſtrong, and his Legs will ſwell and ſtink extreamly, when this
+Surfet breaks in his Body and falls down into his Legs, at his firſt going out
+of the Stable, he will [[Page
+196]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=111) hardly draw
+his Legs over the Threſhold, and he will be ſo ſtiff that he can hardly ſtir
+in the Stable, but will hold up his Leg to his Midribs, and although this
+Diſeaſe be never ſo violent in breaking out, or cauſing his Legs to ſwell and
+run, yet you need not fear Remedy for him, if you obſerve theſe Directions
+following. Firſt, keep him faſting all the Night before, or give him but a
+very little meat, to keep his jaws from falling; the next day in the Morning
+before he drink, let him blood on both the Neck-veins, and let him bleed well,
+then uncord him, and give him this Drink following, which will much purge and
+dry up his groſs humours in his bo­dy, and cleanſe his blood: Take one ounce
+of Ariſtolochia, one ounce of Turmerick, one ounce of Anniſeeds dry, and beat
+the Turmerick and Anniſeeds ſmall, and grate the root of Ari­ſtolochia; put
+all theſe together, with one hand­ful of Rew, and a handful of Wormwood green
+or dry, and one handful of Red-ſage, one hand­ful of green Fennel, if it be
+Winter that you cannot get green, then take two ounces of Fen­nel-ſeeds, and
+beat them ſmall, and put to the reſt of the things, and all put into an
+earthen pot or pan, and put to them three pints of running and Spring-water,
+and there let them lye in ſteep all Night; the next Morning before you give it
+to him, ride him a Mile till he be a little warm, & give it to him cold as it
+ſtood all night, then after that ride him a Mile again, and let him ſtand upon
+the bit ſix or ſeven hours, and then give him a little Hay, and after that
+warm Wa­ter and Bran; the next Morning ride him to the River, let him drink
+but once a day, and [[Page
+197]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=111) ride him two
+or three Miles after it: At three daies end give him the former Drink faſting,
+and follow the Directions before named in this Receipt; and ſo continue doing,
+by giving the former Drink at every three daies end, till you ſee you have
+dried up the groſs humors in his body, and cauſed them to ceaſe running and
+ſwelling; you may work him three or four hours in a day to get him a ſtomack;
+let it be in Winter or Summer; keep him in the houſe with dry meat; when he is
+cured you may turn him out: Waſh his Legs clean in ſome River up to the Hams,
+and keep his Legs as cool as you can all the time of the cure: One or two of
+theſe Drinks given at three daies diſtance, will dry up the humours in his
+body, which feed the ſwellings in his Legs, Cods, or elſewhere; theſe Drinks
+will make him run at the Noſe white or yellow: If he fall from his meat, you
+may the third day after his Drink give him a Cordial, as it is ſet down in the
+fore­going Receipt; and then a Drink, and then a Cordial of White-wine and
+Honey: Now if there be great Chaps or Crannies in his Legs, as it is a hundred
+to one but there will, by reaſon of the extream heat and continual running of
+the moiſt fretting humor, to heal them up although never ſo big, yea though
+the Sinews were al­moſt rotted with the filth; to prevent which, and to heal
+it alſo, take this gallant Receipt follow­ing which is for Pains and
+Scratches, and if it were never ſo ill, in a ſhort time it will heal it. The
+way to order the Horſe and make the Salve is thus: In this caſe you muſt not
+ride him into the River or Water at all, but you muſt firſt take two or three
+payls of fair Water and waſh [[Page
+198]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=112) his Legs
+clean, then clip away all the Hair cloſe to the Skin, ſo far as his Legs are
+Crannied or Scabby, then waſh his Legs clean with another Payl of fair Water,
+and let him ſtand till his Legs be dry, then take half a pound of Hony, an
+ounce of beaten Pepper, and ten heads of Garlick, beat them well altogether in
+a Bowl till they come to a Salve, divide this Salve into two parts, ſpread the
+one half upon half a ſheet of gray Pa­per, and the other half upon the other
+half ſheet of Paper, then take a broad piece of Linnen­cloth and lay it upon
+the Paper, and ſo lay the Plaiſter to the Crannied place, and the cloth o­ver
+it, and ſew it on faſt, that it may not come off, let this Plaiſter lye on two
+daies, make a ſmall Thumb-band of Hay, and wind it about his Legs and over the
+Plaiſter for two daies, at the end of which take all off, and take a
+Linnen­cloth and wipe the Chaps of every Cranny in his Legs or Heels clean,
+and then lay on a freſh Plaiſter, and do as you did before, in three or four
+times dreſſing it thus, it will be whole: He muſt not come into the Water all
+the time of his Cure. If you have an Horſe that his Sinews are rotten, broken
+or cut, or much putrified, then apply none but this Medicine to it, and it
+will draw, cleanſe, and knit them together again. It is for a Sinew in this
+nature, the beſt cure in the World. After you have thus drencht him in­wardly,
+and cured the ſwelling of his Legs out­wardly: If you ſee he look gaunt, and
+hath no ſtomack to his meat, and do not fill and thrive well, if he be ſick
+and weakly, give him White­wine and Hony, the Cordials mentioned in the
+foregoing Receipts, to bring him to his ſtomack [[Page
+199]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=112) again, then
+and not before give the Purge of A­loes: But if your Horſe be gaunt, and girt
+up in his Body, if he be in any heart, and will eat his meat, in this caſe
+give the Purge firſt, and then your White-wine and Hony, and your Cor­dials,
+as you are directed in the foregoing Re­ceipts, to bring him to his ſtomack:
+If you do as you are here directed, all along throughout the whole Receipt in
+every particular, you need not queſtion but, through Gods bleſſing, you ſhall
+have the deſired ſucceſs you look for. All Proved.
+
+### 5.136. CXXXVII. To make a Horſe Stale free, and conſtantly.
+
+TAke half a pint of White-wine, one ounce of Ivy-berries beaten to powder, and
+put to the Whitewine, let it lye in ſteep all night, then give it to the Horſe
+next morning faſting, do not heat it at all, but ride him after it a mile or
+two, then tye him up to the Rack, two, three, or four hours after it: This is
+very good for the Wind-colick, and to make a Horſe piſs freely, do this every
+morning till you ſee him piſs free; this will cleanſe the Kidneys of all ſand
+and filth; it is very good for the Stone and Gravel. Theſe Berries you muſt
+gather when they are black-ripe, which is about Lent or Shrovetide, if you
+gather them green, or when they are full ripe, put them in a platter, and dry
+them in the Sun till they be fit to beat to pow­der, and give them as you were
+directed: It is [[Page
+200]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=113) as good for a
+Chriſtian as for a Horſe: Nettle­ſeeds is a great provoker of Urine, you may
+put a handful to the Berries and Wine. Proved.
+
+### 5.137. CXXXVIII. To cure the Vives under the roots of the Ears.
+
+_[figure]_
+
+FIrſt, Let him blood on both ſides of his Neck, then clap a pair of Barnacles
+upon his Noſe, and take a red hot Iron, vvith the edge as thick as the back of
+your Knife, and with it make a ſtrike from the root of the Ears upon the
+middle of the Swelling, downwards to the loweſt part of the Swelling in this
+manner, as this figure directs you, three ſtrikes from the long; burn it till
+the skin be yellow, and then ſear it no more, when it is thus ſear­ed, anoint
+the Swelling with a little But­ter or Hogs Greaſe, if you anoint it once or
+twice, it is enough; if you ſear him deep you muſt anoint him the oftner.
+
+Proved.
+
+### 5.138. CXXXIX. For the Squinſey, or Strangling, or Cold that breaks out at
+the Noſe, and hath run a year.
+
+THe Squinſey breeds the Canker in the Mouth, and at the roots of the Tongue:
+At that time the Horſe hath in his Weſand pipe and Stomack, a great deal of
+tough, thick flegm, and when he cougheth much, as he will, thinking to void
+it, it will come in lumps into his mouth, [[Page
+201]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=113) and he will
+ſwallow it down again, and at that time his breath will be very hot, and his
+Mouth very red, and if he have a Canker in his Throat, or at the root of his
+Tongue, or in his Mouth, you ſhall diſcern it ſmell by the heat and ſtinking
+breath. To cure the Canker, See Receipt C. and there is alſo the Receipt, and
+here alſo will cauſe a preſent Cure. Now to cure the Strang­ling, or a Cold
+that runs at the Noſe, or hath done for half a year or more, or Squinſey when
+he is troubled with tough thick flegm: For theſe three laſt mentioned, take
+theſe following Ingre­dients, and give them as you are directed: Firſt, one
+ounce of Anniſeeds, an ounce of Turme­rick beaten to powder, half a quartern
+of Bran­dy or Aqua-vitae, half a dozen ſpoonfuls of Whitewine or Vinegar, a
+pint and an half of ſtrong Beer, put all theſe into a Skellet, and heat them
+blood-warm, and give it to the Beaſt faſting, then preſently run the point of
+the Cor­net-horn into the third furrow in the roof of his Mouth, and let him
+bleed, then walk him a mile and ſet him up. Clothe and Litter him warm. Let
+him ſtand upon the Bit four or five hours, he will ſweat with his Drink till
+one drop follow another. If you ſee he be ſick and deſirous to lye down, you
+may let him: Give him no Maſh­es but only warm Water to drink, with an
+hand­ful or two of Wheat-bran put into it, and the next Morning warm Water and
+Bran again; and preſently after give him two ounces of Ho­ny, and half a pint
+of Whitewine; or half a pint of Wine-vinegar, if you have not White­wine, walk
+him a Mile after it: The third day in the Morning after this Drink, in the
+begin­ning [[Page
+202]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=114) of the
+Receipt, give him this Cordial; three pints of ſtale Beer, Houſhold-bread a
+piece as big as a great Toſt, and crum it in, a quarter of a pound of Butter,
+put them into a Skellet toge­ther, and heat them a little upon the fire, and
+when you take it off, put in a quarter of a pound of Hony, ſtir them together,
+and give it him blood-warm faſting; then ride him a mile, and ſet him up warm
+clothed and littered. Three or four hours after, give him warm Water and Bran
+to drink: Every two or three daies for a Cold, whether it cauſe the Beaſt to
+run at the Noſe or no, or be in Glanders. In courſe of Phyſick, after his
+drink, give him this Cordial to bring him to a ſtomack, it will help to kill
+the Canker in his mouth or throat, clear the Guts, and cleanſe the Lights;
+with one drink of White­wine and Hony, and theſe Cordials, he will be in a
+very ſhort time cleared and cured. If in the time of his Cure, he hath hard
+Kernels between his Jaws, apply the Charge of Sope and Brandy, which will
+either quite ſink them, or break them. Again, if there be not Kernels, but
+hard ſwel­lings in the Jaws; as moſt part there is when he hath the
+Strangling; in this caſe alſo apply the Charge of Sope and Brandy, and heat it
+well in: If this Swelling do break in the time of the Cure, let it run and
+heal up of it ſelf: If the Swelling between his Jaws be ſoft all over, and in
+the midſt of the Swelling the hair begins to ſcale off, you may then put in
+the point of your Knife a little way through the skin, and let it out; if it
+be not full ripe, it will heal up with proud rank fleſh, and there will be a
+knot between his Jaws, which is an ugly blemiſh; therefore heal [[Page
+203]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=114) it up with
+nothing, but let it heal up of it ſelf. In the time of any of theſe Cures, ayr
+and ride him out two or three times every day, it will do him abundance of
+good, if you do not ride him too hard, but gently. If that which comes out of
+his Noſe be yellowiſh, and afterwards turns white, there is hope of perfecting
+the Cure; the Drink will make him ſwell, and be very ſick, but it will do him
+a great deal of good.
+
+Proved.
+
+### 5.139. CXL. For a Horſe that hath a dry Surfet in his Body, and falls away
+in his Fleſh: That hath a weak Cough, and is in a Con­ſumption.
+
+THe Signs of this Diſeaſe are, He will not thrive but be gaunt-bellied, and
+dried up in his Body, and cannot cough but gruntingly, by reaſon of the Cold
+and Surfet, and great ſore­neſs in his Body: The Remedy is this, Firſt, ride
+him a mile, and then let him blood in the bot­tom of the belly, at the lower
+end of all the Spur­vein, after he hath bled well, give him this Drink, one
+ounce of Anniſeeds, half an ounce of Dia­pente, four pennyworth of Engliſh
+Saffron, one ounce of Syrup of Colts-foot, one ounce of brown Sugar-candy, one
+ounce of Bay-berries, four or five ſpoonfuls of Whitewine Vinegar, a pint and
+a half of ſtrong Beer, put all theſe into a Skellet, and heat them lukewarm,
+and give it to the Beaſt faſting, and ride him two or three furlongs after it;
+then tye him up [[Page
+204]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=115) to the Rack,
+and let him faſt five or ſix hours af­ter his Drink, and clothe and litter him
+up very warm; then unbit him, and give him a little ſweet Hay till night, then
+give him warm Wa­ter and Bran to Drink. The next day in the morning before he
+eat or drink, burſt half a peck of Oats, with two ounces of Fenygreek, two
+ounces of Coriander-ſeeds for want of Cori­ander, two ounces of Caraway-ſeeds,
+burſt them altogether well, and give him them before he eat or drink. And at
+noon give him warm Water and Bran, and after three or four daies end, give him
+this drink after the firſt drink: One ounce of Anniſeeds beaten ſmall, half a
+pound of Rai­ſins of the Sun, an handful of unſet Leeks cut ſmall, two quarts
+of mild Beer, boyl all theſe together in a Skellet till half be conſumed, then
+take out all the Raiſins, and beat them in a Mor­tar, ſtones and all, take
+ſome of the Liquor wherein they were boiled, and waſh the Mortar clean
+therewith, and put it again into the Kettle amongſt the reſt, then take the
+Kettle off, and put in as much Butter as an Egg, and let it melt, and give him
+this drink faſting, walk him a furlong or two, and tye him up to the Rack for
+five or ſix hours, and clothe and litter him up warm, then give him Hay, and
+at Night warm Water and Bran: The next day have in readineſs ſome Oats,
+Coriander-ſeeds, or for want of them, ſome Cara­way-ſeeds, burſt them together
+by eleven or twelve a Clock, and throw ſome of them into the Crib, as you were
+directed before, and if he refuſe to eat them, ſtrew ſome Wheat-bran o­ver
+them, and that will cauſe him to eat them, give him but a few at a time. After
+this ſecond [[Page
+205]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=115) Drink given,
+you ſhall ſee the Horſe within two or three daies, to void at the Noſe yellow
+Glanders, or ſome other colour; ride him mo­derately twice a day, and keep him
+warm in the Stable. And two or three daies after you have given him this laſt
+Drink and warm Water, then and not before, water him at the River, and
+pre­ſently after it give him every Morning two oun­ces of Hony, and half a
+pint of Whitewine mix­ed together, heated lukewarm, you may give it him abroad
+or in the Stable, it matters not where; once in three or four daies faſting,
+you may give him a Cordial, made of Beer, Hony, Bread, and Butter, the very
+ſame, and you muſt ſo order it, as you were directed in the fore­going
+Receipt. And theſe Drinks, Hony and White-wine, and your Cordials, will make
+him come to his ſtomack in a ſhort time, and thrive very much, put the Water
+wherein the Oats and Seeds were burſt, into a Payl of cold Water, and let him
+drink of that as much as you can: vvhen an Horſe is fat, and the Greaſe ſet in
+his body, if he have a ſtomack, then give the Purge of A­loes firſt, but if he
+be fat and ſick, and hath no ſtomack, then give him Hony and Whitevvine, and
+his Cordials firſt, and aftervvards his Purge of Aloes. Proved▪
+
+### 5.140. CXLI. For the Yellows.
+
+THe Signs are, his Eyes vvill be ſtrip'd vvith red, and be yellovv, and his
+Lips vvill be pimpled and look yellovv: The Cure is, Let him blood on both his
+Neck-veins; after that, give him this Drink; one ounce of Turmerick and [[Page
+204]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=116) [...] [[Page
+205]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=116) [...] [[Page
+206]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=117) Anniſeeds
+beaten ſmall, a quarter of a pint of Whitewine Vinegar, half a quarter of a
+pint of Aqua-vitae, put them all into a Skellet, and heat it lukewarm and give
+it to the Beaſt; put a ſpoonful of the flower of Brimſtone, into the firſt
+Horn-full that you give him, pour it down his Throat, and then give him all
+the reſt of the Drink, one Horn-full after another; tye him up to the Rack for
+three or four hours, and then give him wet clean Hay, and at night Water and
+Bran, or a Maſh: If you have not the aforeſaid things in a readineſs by you,
+then give him an ounce of Horſe-ſpice, which you ſhall find men­tioned in the
+following Receipts, and there you ſhall find how to make it, and for what to
+give it, and when, and likewiſe how to keep it by you: If one Drink be not
+enough, give him the ſecond; if he do not fall to his meat at three daies end,
+give him a Cordial or two, warm Wa­ter for the firſt day and no more, and cold
+Wa­ter afterwards: Two or three daies after his Drink, work him moderately; If
+you cannot get Turmerick, take an handful of Selendine: if one Drink will not,
+two will cure him. Proved.
+
+### 5.141. CXLII. For the Staggers.
+
+IT comes at firſt of ſome corrupt blood, or groſs or tough humours oppreſſing
+the brain, from whence proceedeth a vaporous ſpirit, diſ­ſolved by a weak
+heat, which troubleth all the head: The Signs be theſe, Dimneſs of Sight,
+reeling and ſtaggering to and fro, he with very pain will thruſt his head
+againſt the Walls, and forſake his meat: For Remedy, do theſe [[Page
+207]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=117) things in
+order as you are here directed: Firſt, take a pretty long ſtreight ſtick, of
+the bigneſs of a Tobacco-pipe, ſmooth it well, and cut a notch or crotch at
+one end, then run up the ſtick to the top of his head, and job a little hard
+and turn the ſtick, then pull it out, and he will bleed freely. It is bad to
+cord him about the Neck in this Diſeaſe; when he hath bled well in the head,
+give him this Drink, an ounce of Anniſeeds, an ounce of Turmerick beaten
+ſmall, half a quarter of a pint of Aqua-vitae, a pint and a half of mild Beer,
+a pint of Verjuyce, or if you have not Verjuyce, then take a quarter of a pint
+of Whitewine Vinegar, and put it to the Beer, and all the reſt together, and
+heat them lukewarm, and give it to the Beaſt in the morn­ing before he drink,
+as ſoon as you have given it him, take a handful of Herbgrace and beat it
+ſmall in a Mortar, a pennyworth of Aqua-vitae, and put half the Aqua-vitae
+into one Ear, hold­ing it upright in the hollow of your hand, and put half the
+Herbgrace after it, and put Wool, Tow, or Hards after it to keep it in, then
+tye up the Ear with a Woollen Liſt or Garter, and ſo do the like with the
+other Ear, ſtitch up his Ears with a Needle and Thread, or otherwiſe with your
+Liſt tye up both his Ears together, and at twenty four hours end, unſtitch or
+un­tye his Ears, and take out the Wool and Herb­grace; the next day in the
+morning, let him blood on both ſides his Neck, and ſave of the blood a pint or
+more, which you may do in a Bowl, and put thereto a handful of Salt, and ſtir
+it well together, and give it the Horſe faſt­ing, four or five hours after
+give him ſweet [[Page
+208]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=118) Hay, and at
+Night warm Water and Bran: after you have given him the firſt Drink, tye up
+one of his Fore-legs, and ſtrew good ſtore of Litter under him, and he will
+lye down and take his reſt, and come to himſelf within a day or two, or elſe
+be ſoon dead; the Vinegar will make him piſs, and the Aqua-vitae will make him
+ſleep, if he comes not to his ſtomack with taking the Vinegar or Verjuyce
+before mentioned, then give him Ho­ny and White-wine, and the Cordial; as you
+are directed in the Receipt for a dry Surfet. After any ſickneſs, give him
+when he comes to eat his Provender, Bran and Peaſe, or Bran and Beans; when
+you let him blood in the Head with your Cornet-horn, let him blood in the
+third furrow of his Mouth, and let him bleed well, and let him blood in the
+griſtle of his Noſe, with a long Bod­kin, or Shoo-makers Awl.
+
+### 5.142. CXLIII. For a cold newly taken.
+
+TAke half an ounce of Diapente, two penny­worth of Sallet-oyl, and two
+pennyworth of Treacle, put them into a pint and a half of ſtrong Beer, and
+give it to the Beaſt lukewarm faſting, give him warm Water for two daies, and
+a Maſh of ground Malt, and keep him warm in the time of the Cure. Proved.
+
+[[Page 209]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=118)
+
+### 5.143. CXLIV. For an old Cold, which cauſeth the Horſe to run ſometimes at
+one Noſtril, and ſometimes at both, and hath done for a year together, and is
+knotted with Kernels under his Throat between his Jaws.
+
+THe Cure is thus: Take an ounce of Turme­rick, an ounce of Anniſeeds, beat
+them ſmall, one ounce of Lignum-vitae, you ſhall have it at the Apothecaries,
+a quarter of a pint of Aqua­vitae, a quarter of a pint of Whitewine Vinegar,
+one handful of un-ſet Leeks beaten ſmall in a Mortar, waſh the Mortar with
+Beer, put all theſe together with a pint and a half of ſtrong Beer; give them
+to the Beaſt faſting lukewarm, and tye him up to the Rack ſix or ſeven hours,
+and litter and clothe him up warm; at the end of that time, give him a little
+ſweet Hay, and at night give him ſome warm Water and Bran; the next morning
+give him warm Water & Bran again, and preſently after, give him two ounces of
+Hony, and half a pint of Whitewine luke­warm; then ride him three or four
+miles after it, cloath and litter him warm when he comes in; whilſt he is
+abroad, boyl him half a peck of Oat, with two ounces of Fennygreek, and two
+ounces of Coriander-ſeeds, burſt them altogether, and give it him; the third
+day morning, give him a Cordial made of three pints of ſtale Beer, a quarter
+of a pint of Hony, as much Butter, a good piece of Houſhold-bread, put in the
+Ho­ny and Butter after the Bread and Beer is boy­led [[Page
+210]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=119) together, and
+give him his Cordial faſting lukewarm, the fourth day morning, give him this
+Drink, one ounce of Polypodium, one ounce of Bay-berries, an ounce of Long
+pepper, one ounce of brown Sugar-candy, beat them all ſmall and put them into
+a quart of mild ſtrong Beer, heat it lukewarm, and before you give it him,
+ride him a mile, and then give it him, and ride him two or three miles after
+it, cloth and litter him up warm, after he hath faſted ſome four or five
+hours, give him burſten Oats, with two ounces of Fenygreek, and two ounces of
+Cori­ander, as before; if you have no Coriander, then take two Ounces of
+Carraway-ſeeds, and give him that Night of the Oats and Seeds, and put the
+Water where the Oats and Seeds were boyled, into ſome cold Water, and let him
+drink that and no other; when you have reſted him a Week, then give him the
+firſt Drink mentioned in this Receipt, and follow him as you are dire­cted
+every day; in the third Week give him the ſame things again, in the ſame
+manner and at the ſame diſtance of daies, in all points as you did the firſt
+Week, and in three or four Weeks it will be a Cure: The firſt Drink doth
+looſen the filth, and open the Lights and ſet them a running. The Cordial is,
+Whitewine and Ho­ny will keep him to his ſtomack, help him to a­void filth at
+the Noſe and Mouth, and will much nouriſh him within, they do cleanſe the
+ſtomack, breaſt and bowels, and do much waſte the Squin­ſey in the Throat,
+they do cut the tough thick flegm. If you order theſe things as you are in
+many places directed, and ayr him moderate­ly once or twice a day, the Horſe
+will ſoon be [[Page
+211]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=119) ſound again.
+The laſt Drink of Polypodium, Long-pepper, and Bay-berries, is a purger of the
+Veins, Blood, and Liver, and will ſtay the waſting of the Body: That day
+morning you give him the firſt Drink, apply the Charge of Sope and Brandy,
+made in a Salve, to the Ker­nels between his Jaws, and in a weeks time it will
+be fallen flat, and not break, lay the Charge on ſcalding hot, and heat it
+well in: If you ſee the yellow matter to become white, there will be the
+greater hopes of the ſpeedineſs of the Cure, Proved.
+
+### 5.144. CXLV. For a Canker in the Mouth.
+
+YOu ſhall know it by theſe Signs; He will ſlaver at the Mouth, and the Roots
+of his Tongue will be eaten with the Canker, the ſides of his Mouth will be
+hot, raw, and yellow: If the Canker have eaten any Holes in his Mouth, and
+cauſed many ſores, then take a pottle of run­ning Spring-water, an handful of
+Red-ſage, a dozen ſprigs of Roſemary, an handful of unſet Hyſop: If this
+diſeaſe happen in Summer, then add five or ſix Walnut-leaves, and a quarter of
+a pound of Roch-allum, put all theſe into a Kettle, and let them boyl till
+they be half conſumed, then put all into an earthen Pan, and let it ſtand till
+it be cold, you need not take out the herbs, but when you uſe it, take ten or
+twelve ſpoon­fuls of this Liquor, then pull out his Tongue with one hand, and
+have in a readineſs a Linnen cloth tyed at a ſticks end, dip it into the
+Li­quor, and waſh his Mouth and Throat all over, then pull out his Tongue
+again, and throw a handful of Salt into his Mouth; then preſently [[Page
+212]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=120) after it, dip
+another ſticks-end tyed with a Rag into Tar, and put it all over his mouth
+where the Sores are; and once in three daies give him a Cordial, and Whitewine
+and Hony, made as you may ſee before, and the ſame quantity: Ride or work him
+upon it. This Water, Salt, Tar, Whitewine and Hony, and Cordials, will bring
+the Horſe to a ſtomack, cleanſe his ſtomack, looſen his body: It will take
+away the heat of his ſtomack, and comfort his ſtomack, and cut the tough flegm
+there; it will cure the Canker in a very ſhort time, except his Tongue and
+Mouth be very much eaten indeed; you need not waſh his Mouth afterwards with
+the Water and Tar, for the Wine and Hony, and the Cordials, will heal it
+alone, and work the aforeſaid effects. Let the Hay and Provender you give him,
+be clean and moiſt, it will be the better. Give him no Chaff, for that will
+ſtick in his Mouth and feſter it. Proved.
+
+### 5.145. CXLVI. To cure a Foul, Rank, Pocky Farcion, which runs all over an
+Horſe, or in any par­ticular part of his Body.
+
+AN Horſe that hath the Farcion, if his breath ſmell very ſtrong, and ſtink,
+then do not meddle with him, for his Lights are rotten, and there is no Cure
+for him, for he is as full of them within as without. But if his breath be
+ſweet, there is no queſtion of the Cure: Firſt, for all knotted, budded
+Farcions, ſeparate the ſound from the ſick, for this Diſeaſe is infectious,
+they will take it one of another. This Diſeaſe [[Page
+213]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=120) cometh firſt
+of Colds and Surfets: For Reme­dy do as followeth; Give him but a little Hay
+overnight, to keep his Jaws from falling; the next day morning, let him blood
+on both ſides of the Neck, and let him bleed well; then give him this Drink:
+One ounce of Ariſtolochia, an ounce of Turmerick, one ounce of Anniſeeds, beat
+your Turmerick and Anniſeeds ſmall, and grate the root of Ariſtolochia, and
+put them all together, with one handful or two of Lung­wort or Liver-wort,
+Herbgrace, one good handful of Red-ſage, a handful of green or dryed Wormwood,
+one handful of green Fennel, and if it be Winter that you cannot get it green,
+then inſtead thereof take two ounces of Fennel­ſeeds, cut the Herbs ſmall, and
+beat the Seeds, and put them all to ſteep in three pints of run­ning Spring-
+water, and let them lye in ſteep all night, the next day morning before you
+give it him, ride him a Mile till he be vvarm, at his re­turn give it him cold
+as it ſtood all night; then ride him gently a mile after his Drink, ſet him up
+warm clothed and littered; let him ſtand upon the Bit ſeven or eight hours,
+then unbit him and give him a little ſweet Hay, and at night warm Water with
+ſome Wheat-br [...]n in it, the next day morning ride him to the River, and
+let him drink, but let him drink but once a day, but ride him well upon his
+watering, and at the end of three daies, give him his former Drink again, and
+order him as before; work him moderately all the time of his Cure: Be it in
+Winter or in Summer, for this Diſeaſe keep him in the Houſe vvith dry meat;
+vvhen he is cured, you may turn him out, or keep him in [[Page
+214]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=121) the ſtable
+which you pleaſe; when he is cold, waſh him twice a day up to the back, ſoak
+him well in the River, and at three or four daies diſtance, if you ſee need
+require, give him two or three Drinks more, ordering him as before: As ſoon as
+you have given him the firſt Drink, with the end of your Cornet-horn let him
+blood in the furrow in the top of his mouth. Theſe Drinks will make him run at
+the Noſe much white or yellow matter, and they will make him ſpevv at the
+mouth much filth; theſe Drinks vvill much purge and dry up all the groſs
+humors in his bo­dy, and cleanſe the blood: After theſe Drinks given, you
+ſhall ſee the Farcions to appear vvith red heads, and they vvill drop out of
+themſelves, and vvhere you ſee them ready to drop out, apply this Medicine;
+Take a quarter or half a pound of Roch-allum, and put it into the fire, and
+you ſhall ſee it run and be all of a Cake, then take it out and beat it to
+povvder, and mix as much as you think you ſhall uſe vvith your faſting
+Spittle, till it be like an Oyntment, and there vvhere you ſee they are ready
+to drop out, lay a little of this upon the head of the bud, vvhich is the head
+of the Farcey, and vvhere you ſee they are hard in the fleſh let them alone,
+for ſome vvill dye, and the reſt vvill drop out of themſelves; ride him up and
+dovvn in the River tvvice a day, as far as the ſvvelling goes, a good vvhile
+after the Allum and Spittle have taken place: Theſe drinks vvill kill and dry
+up any pocky Gangrene Far­cion, let it be in the head body, legs, yea although
+it be run all over him, it vvill dry them quite up. Theſe Drinks vvith the
+Soak in the River, and the Allum and Spittle, vvill make a ſpeedy Cure.
+Proved.
+
+[[Page 215]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=121)
+
+### 5.146. CXLVII. For a Farcey in the Head.
+
+IF it be in the Head and no vvhere elſe, then blood him in both the Neck-veins
+in the morning before he hath drank, then give him the former Drinks for a
+pocky Farcey, and no Drink elſe, and after that vvith your Cornet­horns point
+let him blood in the third Furrovv of the roof of his mouth, and tye him up to
+the Rack for five or ſix hours, then give him a little clean Hay, and at night
+ſome vvarm Water and Bran: I ſay if it be in his head, and no vvhere elſe, and
+that ſome certain ſmall buds do there ap­pear; then do nothing but blood him
+in the Neck-veins, and give him the Drink, and bleed him in the palat of the
+mouth, and at the very ſame time apply the Charge of Sope and Brandy, as hot
+as you can, and heat it well in; lay it not upon the head of the buds, but lay
+it all over the ſwelling, and in a ſhort time, with the Drink u­ſing, the
+Farcey will dye, and the ſwelling will fall. Proved.
+
+### 5.147. CXLVIII. For a ſwelling in the Fore-legs, or After-legs.
+
+IF the Beaſt have a great Surfet, that falls down into his Fore or After-legs,
+if you think it will come to a Farcey, and you ſee it grow very hard, or two
+or three buds appear, you ſhall prevent it by giving him two or three Drinks
+for the pocky Farcion, at three daies diſtance between every Drink, and by
+charging [[Page
+216]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=122) the ſwelled
+Legs with Sope and Brandy, if it be not broken before: If you fear a Farcey,
+or ſee a few buds, do thus three or four daies, after the Sope and Brandy is
+laid on, ride him into the River half a quarter of an hour at a time, twice a
+day. Proved.
+
+### 5.148. CXLIX. For a Swelling in the Brisket, below the Cheſt.
+
+IF it be a Surfet that ſwells in the Brisket, or in any other part of the
+Beaſt, if you think it will come to a Farcey, and you ſee two or three buds to
+appear; then give him two or three Drinks for the pocky Farcey, at three daies
+di­ſtance between each Drink; Let the ſwelling be broke or not broke, lay the
+Charge of Sope and Brandy hot on, above the buds, and heat it well in; after
+the buds appear, lay the Allum and Spittle upon it: Theſe Remedies are enough
+for Diſeaſes of this Nature. Proved.
+
+### 5.149. CL. For a Swelling with a Blow upon the Cheſt or any other part.
+
+IF the Swelling comes by means of a blow, be it where it will, be it hot or
+cold, if it be not broken, lay nothing to it but the Charge of Sope and
+Brandy, and heat it well in, and in four or five daies it will either quite
+ſink it, or break it: If it break, ſee from pag. and there you will meet with
+directions for the pur­poſe. Proved.
+
+[[Page 217]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=122)
+
+### 5.150. CLI. For a Farcey that is broken out in the Legs.
+
+IF you ſee it to be thus, then do not Charge it, except you ſee it to ſwell
+above thoſe buds, up to the body-wards, and then in ſuch a caſe lay on the
+Charge of Sope and Brandy to ſtop it from running higher, as you are in many
+places in this Book taught before, upon the ſwelling all over above the buds,
+but not upon the buds below, only let him blood on the Neck-veins, and in the
+third Furrow in the roof of his Mouth, and then give him one or two of the
+pocky Farcion drinks, at three daies diſtance, till you ſee all the ſwel­ling
+killed and dryed up, with the Charge of Sope and Brandy, and the Drinks. Thoſe
+buds that are broken, lay the Allum and faſting Spit­tle upon them, and they
+will dry and heal up, for thoſe that are in the fleſh, ſome will dye in the
+fleſh, and ſome will drop out. This is a certain Cure. Proved.
+
+### 5.151. CLII. For a Water-Farcey.
+
+THe Signs to know it from a Pocky Farcey, are theſe; He will ſwell in great
+Bags as big as your head, ſometimes moſt along under the Belly, and ſometimes
+about his Chaps and under his Jaws. The Remedy; Take a Nail-rod, and make it
+bending at the end the length of a fleam, ſo as it may a very little more then
+go through the skin, at this end make it red hot, and with it ſtrike many
+holes all over the ſwel­ling, [[Page
+218]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=123) and you ſhall
+ſee the yellow water come out pouring, and the ſwelling, whether in his Jaws
+or Chaps, or under his Belly, ſuddenly fall quite down; this done; to qualifie
+the heat of the Iron, rub a little Sope upon it, and give him but one Drink
+for this, which you give for the pocky Farcion: The more you work any Farcey
+Horſe, the ſooner the Cure will be done, and the better he will thrive. If
+your Horſe be poyſoned with any poyſonable Medicine, your often putting him
+into the cold Water, will de­ſtroy the working of it, that it will not go any
+further; Give him warm Water to drink, and let him ſtand in the Houſe the time
+of the Cure.
+
+Proved.
+
+You may work any Far [...]ied Horſe with ano­ther, but let them neither ſtand
+together, nor feed together; And to make all ſure, give the ſound Horſe one or
+two Drinks at three daies diſtance, which you give for a pocky Farceyed Horſe,
+and thoſe Drinks will prevent a Farcey of the ſound Horſe.
+
+### 5.152. CLIII. For a Button-Farcey.
+
+THis Farcey you ſhall know by theſe Signs: The Horſe will be full all over of
+Bun­ches and Knots, ſome as big as Peaſe; ſome as big as Nuts, they lye in
+bubbles in the skin, and are eaſie to be ſeen: Firſt, let blood on both ſides
+his Neck, and let him bleed well: The next thing is, take a little Houſleek,
+and beat it and ſtrain it through a fine Linnen-cloth, and put it into his
+Ears; then take an ounce of Ariſto­lochia, [[Page
+219]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=123) and grate it
+ſmall, the tops of Rue an handful, as much Hogs Greaſe as an Egg, beat theſe
+three laſt together till they be like a Salve, as ſoon as you have put in the
+Houſleek into each Ear alike, divide the other into two parts, and put the one
+half into one Ear, and the other half into the other Ear, and put ſome Wool
+after it to keep it in, then ſtitch up his Ears with a Needle and thred, and
+tye a Liſt hard about his Ears that he may not ſhake it out, then tye the Liſt
+of both Ears together a little ſtreight, when you have done thus, with the
+Point of your Penknife make a little hole in his Forehead, and after that,
+with your Cornet-horn raiſe the Skin from his Forehead the breadth of your
+hand, round about the hole with your Knife, then take a Red-dock root, and
+ſlice it, and put into the hole three pieces of it, which will be enough at
+once, it will draw a great deal of corruption out of it, the corruption that
+comes out will ſcald the hair off; after the ſtrength of the root is gone, it
+will drop out of it ſelf; when you ſee it is dropped out, anoint it with a
+little freſh Butter▪ after you have put in the Root, lay a Plaiſter of
+Burgundy Pitch over it to keep out the wind and cold; Let him faſt ſeven or
+eight hours, and let him ſtand upon the Bit, you ſhall ſee him ſla­ver, champ
+and foam as if he were ridden, give him warm Water and Bran at night, let it
+be in his Ears two daies before you pull it out. Taking this courſe, you ſhall
+ſee the Knots and Bunches to fall in a ſhort time, and the hair will come
+a­gain upon his Forehead.
+
+Proved.
+
+[[Page 220]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=124)
+
+### 5.153. CLIV. To cure the Cords; which is when an Horſe can neither lift up
+his Head to the Rack, nor put his Head to the Ground, no not to his Knees.
+
+YOu may know this Diſeaſe by the Signs a­bove, the cauſe thereof cometh by
+reaſon of an extream cold which lodgeth in the ſtomack, and cauſe the cords to
+ſet and ſhrink quite up, ſo that the Beaſt can neither lift his Head up nor
+down, but only to eat meat out of the Crib; in this caſe a Horſe is afraid to
+lye down, and if he be laid, he cannot riſe. The Remedy; Firſt, make him a
+comfortable Drink of theſe things; Take half an ounce of Diapente, one ounce
+of Anniſeeds beaten ſmall, three pennyworth of Engliſh Saffron, dry it by the
+fire in a Paper, and crumble it ſmall with your fingers, two oun­ces of Hony,
+two ounces of freſh Butter, a pint and a half of ſtrong Beer, a quarter of a
+pint of Whitewine Vinegar, put all theſe things to­gether, and ſet it on the
+fire till the Butter and Hony be melted, and no longer; then take it off, and
+give it the Beaſt lukewarm faſting, then walk or ride him till he be warm,
+then ſet him up, and tye him upon the Bit five or ſix hours, clothe and litter
+him up warm, after it give him a little Hay, and then a Maſh, and no warm
+Water that night but the Water in his Maſh; give him the next day in the
+morning another Maſh, and about nine or ten of the clock warm Water and Bran,
+and thus keep him for four or five daies; look where the Sign is, if [[Page
+221]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=124) it be in the
+Head or Stomack, do not cut him, for it will not be ſo well, yet you may cut
+him, al­though the Sign be there, but it will not be ſo well. In cutting
+obſerve this; You muſt cut him at the very bottom of the Breaſt, you ſhall ſee
+the Vein, and under the Vein lyes the great Sinew, as big as a Tobacco-pipe
+ſteal, juſt by the in-ſide to the top of his Leg, when you ſee where the Vein
+lyes, draw the skin aſide which lyes over the Vein, and cut that part of the
+skin an Inch or more, which may juſt fall upon the Vein again, this being cut
+with your Cornets­horn point, make a little way and you ſhall ſee a blew film
+lye over the Vein; chafe it a pieces till you come to ſee the Vein, with the
+point of your Cornet-horn, then draw the Vein aſide with one hand, and put
+your Cornet-horns end under the Sinew, and raiſe the Sinew up above the skin
+with your Cornet-horn, and cut it quite aſunder, let it go, and put a little
+Butter and Salt into the Wound, and afterwards heal it up with ſome of the
+afore-named healing Salves; walk him an hour at a time twice a day for a Week
+together. If you find that with the firſt Drink, the Cold breaks at his
+Noſtrils, then give him the ſame Drink again at three or four daies diſtance
+be­tween each Drink, and order him as you are at the beginning of this Receipt
+directed. If need require, give him a third Drink. It is an ex­tream Cold that
+ſhuts the Cords, this Drink will break the Cold, and in a ſhort time the Beaſt
+will do well, and ſtir his Head again,
+
+Proved.
+
+[[Page 222]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=125)
+
+### 5.154. CLV. For a Stumbling Horſe.
+
+FIrſt, tye him up with a Halter cloſe to a Poſt that ſtands in a Shop-window,
+then take your Knife and cut a hole length-waies down to his Lips, end-wards
+in the midſt of his Noſe, be­tween his Noſtrils the length of your Thumb, when
+you have cut through the Skin, then do off the red film with your Cornet-horns
+end, and you ſhall ſee a white flat Sinew lye before your Eye, take the point
+of your Cornet-horn and put under it, and raiſe it above the Skin, then pull
+it hard out with your Cornet-horn, and turn your Cornet-horn about, then pull
+it the ſecond time, and turn your Horn again, and ſo the third time; in this
+doing, you ſhall ſee him bring his Hinder-legs to his Fore-legs almoſt, when
+you have thus pulled and turned the Sinew two or three times about the Cornet-
+horn, then cut the Sinew under the Cornet to the Lips end, but cut not the
+Sinew upon the Cornet, nor a­bout it; when you have cut it let it go, and put
+a little Butter and Salt into the Wound, then o­ver it lay a Plaiſter of
+Burgundy Pitch to keep out the wind, and you ſhall ſee the Horſe go very well,
+and never ſtumble afterwards.
+
+Proved.
+
+### 5.155. DLVI. How to make Diapente.
+
+TAke a quarter of a pound of Ariſtolochia, a quarter of a pound of Myrrh, half
+a pound of Bay-berries, the outward Husk pilled off, two ounces of white
+Ivory, two ounces of Harts­horn, [[Page
+223]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=125) the round root
+of Ariſtolochia is better than the long, cut the outward Rind, and then grate
+it ſmall, do not dry it, but after you have grated it, beat it ſmall by it
+ſelf, or with the o­ther things in a Mortar; then put them into a fine Sive,
+and ſearſe the fineſt out, then put the biggeſt into the Mortar again, and
+beat it as ſmall as you can, then ſearſe the fineſt from that, and beat the
+reſt again, and ſo do and ſearſe it till you have done all very fine, then put
+it into a Bladder, and keep it for your uſe: Of this Dia­pente you may give an
+ounce at a time, although you give other things with it. An ounce of Diapente
+is a good Drink alone in a pint of ſtrong Beer for a new taken cold.
+
+Proved.
+
+### 5.156. CLVII. How to make Horſe-ſpice.
+
+TAke a quarter of a pound of Anniſeeds, a quarter of a pound of Engliſh
+Liquoriſh, a quarter of a pound of Grains, a quarter of a pound of Fennel-
+ſeeds, a quarter of a pound of Flower of Brimſtone, more or leſs, theſe are
+the proportions to make the Horſe-ſpice, ſlice the Liquoriſh and dry it, and
+beat them altogether. If you will you may put in half a pound of Eli­campana,
+firſt dried, and then beaten ſmall in a Mortar with the reſt of the things;
+you may either put all theſe together, or elſe keep them ſeverally by
+themſelves. An ounce of this Horſe-ſpice, with a ſpoonful of Sallet-oyl, and a
+ſpoonful or two of Jean-Treacle, is a good Drink (for a Country man, who will
+give but a ſhilling or eighteen pence) in a quart of ſtrong [[Page
+224]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=126) Beer, this
+Drink is for a Cold, and to make a Horſe thrive, and to prevent Diſeaſes; if
+any man upon letting his Horſe blood, will have him likewiſe to have a Drink,
+give an ounce of this Horſe-ſpice in a pint of ſtrong Beer heated luke­warm in
+a morning faſting, let him ſtand in the Houſe, and give him warm Water to
+drink, and a Maſh. Proved.
+
+### 5.157. CLVIII. To Cure a Ring-bone.
+
+THis Ring-bone alwaies groweth upon the In-ſtep a little above the Hoof on the
+After­leg, about the bigneſs of a Walnut, ſometimes bigger, ſometimes leſſer,
+in a hard long cruſhy ſubſtance. The Cure is; firſt, take up the Vein of the
+inſide of the ſame Leg where the Ring­bone grows, then to make a certain Cure
+of it, burn it with a hot Iron that is of the thickneſs of the back of a
+Knife, upon the top of the Ring­bone ſo far as the Swelling goes, and with
+your hot Iron make three ſtrikes downwards, and three ſtrikes croſs them, as
+you may ſee in this Figure: burn it but till it look yellow and no more, then
+take a Horſe-nail, and drive it through a pretty big ſtick, ſo that the point
+may come through as much as may go through the skin, and make it juſt to
+bleed, ſtrike the point of the Nail into the ſeared Lines in every ſide 3 or 4
+holes, then take an handful of Salt, and rub it hard in with your hands, a
+quarter of an hour after, lay this Charge to the Ring-bone, as much Burgundy
+Pitch as a Walnut, and as much black Pitch, half an ounce of Maſtick, boyl
+them
+
+_[figure]_
+
+[[Page 225]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=126)
+altogether till they be melted, then take a flat ſtick and ſpread it on good
+and hot, then flock it with Sheremans flocks, and dab them on cloſe, this
+before it comes off, will lay it as flat as can be: He muſt not be ridden of a
+Fortnight, he muſt ſtand in the firſt night, and afterwards he may ſtand in or
+run out, ſo as he run in dry ground, this will be an abſolute Cure in once
+dreſſing. Proved.
+
+### 5.158. CLIX. For a Spavin as big as an Egg.
+
+IT groweth upon the inſide of the Hough of the After-leg: Firſt, beat it with
+a Blood­ſtick until it be ſoft, then anoint it with ſix pen­nyworth of the Oyl
+of Origanum upon the Bone-Spavin which you bruiſed, put your Oyl into an
+Oyſter-ſhel, or ſome ſuch thing, and rub it in with your fingers, no where but
+upon the place which you bruiſed: Two daies after the Oyl hath taken its
+courſe, take two or three oun­ces of the Oyl of Swallows, and anoint the
+Cord­ſinews in the bent of the Leg, to reach and give liberty to the Sinews
+that are ſhrunk, lay on of the Oyl of Swallows but half an ounce at a time,
+and lay it on no where elſe, but upon the ſinews on the bent of the Leg; after
+that the Oyl of Swallows is well ſoaked in, you may ride him or work him: This
+Oyl of Swallows doth much leng then and give liberty to the Sinews, at three
+or four days diſtance you may lay on half an ounce more. If Blood-bags come in
+the Spavin­place at the ſame time the Bone-ſpavin comes, then do not ſear it
+with your Iron by no means, but only lay the Charge of Sope and Brandy hot on,
+and heat it well in with a Bar of Iron, and [[Page
+226]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=127) for certain it
+will cauſe it to fall. An able Farri­er is of that opinion, that the Receipt
+in—will ſpeedily make it to fall, if firſt you beat the Bone-ſpàvin with a
+Blood-ſtick, and afterwards apply the Cantharides and Nerve-oyl, as there you
+ſhall find it ſet down▪ Proved.
+
+### 5.159. CLX. To make a Star in an Horſes Fore-head.
+
+FIrſt, With a pair of Sciſſars cut away the Hair cloſe to the Skin, in ſuch a
+place as you would have the form of a Star to be, then take a piece of red
+Brick, and rub it hard upon every place, where you have clipt away the Hair,
+rub it till it be at the roots of the Hair, then wipe it clean with a Linnen
+Rag, then make a Plaiſter of Burgundy Pitch, and ſpread it upon a Linnen-
+cloth, no longer nor wider than the form of the Star it ſelf, then a little
+before you lay it on, lay a hot Iron upon the Pitch to ſoften it, that it may
+ſtick on the better, then clap it to the place, as a Plaiſter fit for the
+Star, and lay a hot Iron upon the back of the Plaiſter to heat it, then over
+the firſt Plaiſter lay another Plaiſter a little broader, heating the ſecond
+as you did the firſt, and ſo let it ſtick on till it come off of it ſelf,
+which may be a month; when theſe Plaiſters come off, then to make the Hair
+come white in the place where you would have the Star be, take a little Hony
+and Butter, more Hony than Butter, and mix them together, and anoint the Star
+once in three daies, and do ſo for that di­ſtance of daies four or five times,
+and in a quar­ter of a year you ſhall ſee the thing deſired, he may ſtand in
+the Houſe or run abroad, you may [[Page
+227]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=127) work him or
+ride him: I know nothing to the contrary, but that a man with this courſe
+taking, may make a mark in any form, what he pleaſeth, and where he pleaſeth
+about the Beaſt, whether in his Buttockꝰ, Sides, or any other place as well as
+the Forehead.
+
+### 5.160. CLXI. For the Pains or Scratches, or rotten broken Cuts, putrified
+Sinews, this Receipt will cure in a wonderful manner.
+
+IF it be the Pains and Scratches, do thus; Take a pail of fair Water, if two
+or three, and waſh his Legs clean, and clip away the Hair cloſe to the Skin ſo
+far as his Legs are crannied or ſcab­by, then with a pail or two of fair Water
+waſh his Legs clean again, and let him ſtand till he be dry, then take half a
+pound of Engliſh Ho­ny, one ounce of beaten Pepper, ten Heads of Garlick, put
+all theſe into a Boul or Cup; and beat them together till they come to a
+Salve: If the Pains and Scratches be on both Legs, then di­vide the Salve into
+two parts, and lay one half upon one ſheet of Paper, and the other half up­on
+another half of gray Paper, and take a broad piece of Linnen-cloth, and lay it
+over the Pa­per, and lay the Plaiſter to the hinder part of his Legs, where
+the ſore alwaies is, and ſew them on with a Needle and Thread pretty hard, ſo
+as it may not come off, ſew it cloſe in the Footlock, and all the way up ſo
+far as his Legs are ſcabby, and let it lye on two [[Page
+228]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=128) daies, you
+muſt make a ſmall Thumb-band of fine Hay, and wind all over his Legs, and over
+the Plaiſter, and let it remain as long; at two daies end, take a Linnen-cloth
+and wipe the Chaps of every Cranny and Crack in his heels clean, then lay on a
+freſh Plaiſter, and do as you did before in every particular; and at two daies
+end take away that Plaiſter, then lay on another, and let it lye on three
+daies, and when you take that off, and ſee, if need require lay on another
+Plai­ſter, and let it lye on three daies more, and in three or four times thus
+dreſſing, it will be quite dryed up, and whole. Let him not come in the Water
+all the time of his Cure. If his Sinews be rotten, broken, cut in pieces, or
+much putrified, then apply this Medicine as before, and let it lye on the ſame
+time as before, and as it heals dreſs it the ſeldomer, and bind a Thumb-band
+of Hay over the Plaiſter, and keep him out of the Wa­ter, and in the Houſe all
+the time of the Cure. This Salve will draw clean, and knit the Sinews together
+again in a wonderful manner. It is for Pains, and Scratches, and Sinews in
+this na­ture, the beſt Cure in the World. If one or two of the pocky Farcies
+Drinks were given in this caſe, I am confident it would much further the Cure,
+and dry up thoſe humors in the Body which feed the Scratches in his Legs.
+
+Proved.
+
+### 5.161. CLXII. For the Strangullion in an Horſe.
+
+THe Signs to know it are; It much differeth from that, when an Horſe cannot
+Stale, [[Page 229]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=128)
+and differeth from the Diſeaſe called the Gripe or Fret in the Guts, which
+will put an Horſe to abundance of pain, and make him to tumble and wallow:
+This Diſeaſe called the Strangullion, if a Horſe have it he will look gaunt
+and cannot piſs, he will offer, and ſtand ſtraining to piſs, but cannot, his
+Bladder will be ready to burſt, with extream fulneſs and heat of his water,
+for pre­ſent Remedy do this; Take a pint of Claret-wine redded well, and put
+into it an ounce of Ivy­berries beaten ſmall, one ounce of Parſley-ſeeds
+beaten ſmall, and give it him at any time; once doing is enough.
+
+Proved.
+
+You may likewiſe ſee for the Gravel and Stone what is given to a man, and you
+may give it him.
+
+### 5.162. CLXIII. For Fretting or Griping in an Horſes Belly.
+
+THis Diſeaſe will make the Horſe to tumble and wallow with all four feet
+upwards, with a griping wind in the Guts, you ſhall ſee ſome Horſes in ſuch
+extream pain, that they will ſwell therewith as if they would burſt, and will
+endan­ger the breaking of their Bladder, and in this caſe they cannot dung.
+For Remedy, Take a quart of cold Salt-beef or Pork brine, if you cannot get a
+quart, get a pint, put it into a Horn and pour it down cold: After this brine
+is down, anoint your hand and arm with Sallet-oyl or Butter, and rake him, and
+pull out as much Dung as you can to give him all the eaſe you can, then take a
+[[Page 230]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=129) good
+big Onion, and peel off the outward rind, then cut it length-waies and croſs-
+waies in ma­ny places, then roul it up and down in a handful of Salt, and what
+Salt it will take up, put it into a hollow pye of Butter, but before you put
+it in­to his fundament, anoint your hand and arm with Butter and Sallet-oyl,
+and run up the Oni­on thus rouled in the Salt and put into the But­ter, as far
+as you can, and there leave it; then tye up his tail cloſe to his rump as you
+can, being tyed with a Cord, faſten the Cord to his Girths, that it may keep
+in the Onion and Butter, then lead him out and walk him, and in a quarter of
+an hours time it will purge exceedingly. It will cleanſe his Maw much, and
+cleanſe his Guts, and kill the Worms, let his Tail be tyed but a little while
+that he may purge freely, prick him in the Mouth with your Cornet-horn, the
+firſt thing you do. The next day morning give him a com­fortable Drink, made
+of an ounce of Horſe­ſpice, a quarter of a pint of Whitewine Vine­gar, with a
+pint and a half of ſtrong Beer, put them together, and give it the Beaſt
+lukevvarm faſting, and he vvill do very vvell after it: Give him burſten Oats,
+or a Maſh for two daies after it, and vvarm Water the day you give him this
+Drink. Proved.
+
+### 5.163. CLXIV. To kill Botts or Worms.
+
+YOu ſhall knovv vvhether your Horſe be troubled vvith Botts or Stomach-vvorms
+by theſe Signs, he vvill ſquitter and dung them, and all of a ſudden he vvill
+dung very ſmall; in this caſe he vvill void ſmall vvhite Worms of [[Page
+231]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=129) himſelf, he
+vvill be much knotted under his o­ver-lip, the roots of his Tongue vvill be
+fiery and yellovv, his breath hot, ſvveat much as he ſtands in the Stable, and
+vvill be very faint: Novv if you ſee him to ſvveat in the Stable, then knovv
+for certain that he is far gone, and is in great danger. For Remedy, Take
+Turmerick and Anniſeeds of each an ounce, one penny­vvorth of the Flovver of
+Brimſtone, half a quar­ter of a pint of Brandy or Aqua-vitae, beat the
+Anniſeeds and Turmerick ſmall, and then put all together into a pint and a
+half of ſtrong Beer, except the Brimſtone, and that lay upon the top of the
+Horn, when you are ready to give him the Horn into his mouth, give this Drink
+faſt­ing, and let him faſt four or five hours after it, and ſtand upon the
+bit; give him to drink warm Water at night, the next day cold Water, ride him
+after it, this Drink will work pretty ſtrong. If he have not been lately let
+blood before, let him blood in the Neck-vein, and in the third furrow in the
+roof of his mouth, with the end of your Cornet-horn. This Drink at once giving
+will kill the Botts, and take him off his faintneſs, and much cleanſe and
+purge him of tough groſs humours in his body, upon which the Worms do breed.
+Culpepper ſaith, that Box-tree leaves are excellent good to kill the Botts in
+Horſes, they are hot, dry, and binding, you may put in a handful of them into
+this Drink, and try con­cluſions. Proved.
+
+[[Page 232]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=130)
+
+### 5.164. CLXV. For a Fever in a Horſe.
+
+THe Signs are, The Horſe will fall ſuddenly ſick, and be very weak, he will go
+heavy and ſad, as if he would tumble down, and be gaunt in his belly, fall
+from his meat, and look weakly in his Eyes, hang down his head, and ſtand
+droop­ing: when this ſickneſs firſt takes him, he will tremble and quake, as
+if he had an Ague: For this Diſeaſe take no blood from him by any means, it is
+death if you do. The Remedy is, Take half an ounce of Diapente, one ounce of
+Bay­berries, half an ounce of Long-pepper, beat all theſe together, then take
+half an ounce of Diaſ­cordium, and put all theſe into a pint and a half of
+ſtrong Beer, heat it lukewarm, and give it to your Horſe at any time of the
+day, for this Di­ſeaſe is dangerous, and will admit of no delayes; clothe and
+litter him up very warm; the Diaſ­cordium in the Drink will cauſe him to lye
+down and ſleep; after the Drink hath done work­ing, and the Horſe done
+ſweating, then give him half a pint of Whitewine, and two ounces of Hony, mix
+them together, and heat them luke­warm, and give it him in the Stable, and
+after you come to ayr him, you may give it him a­broad; three or four hours
+after, give him a Cordial made of three pints of ſtale Beer, and a quarter of
+a pint of Hony, and a quarter of a pound of Butter, and a good piece of
+houſhold bread, boyl them a little together, and give it him lukewarm, and ſet
+him up for that night; give him warm Water and Bran at night, next [[Page
+233]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=130) morning
+faſting give him the Cordial again, and at nine or ten a clock, warm Water and
+Bran, at two or three a clock, Whitewine and Hony, and at night warm Water and
+Bran, and after­ward, now and then a Cordial, and Whitewine and Hony, and
+moderate ayring will ſoon bring him to his ſtomack, when you ſee he is able to
+walk abroad▪ ayr him once or twice a day, it will do him much good. Theſe
+Cordials, Wine and Hony, and ayring of him, will cauſe the Beaſt to amend
+apace. After he comes to eat his meat pretty handſomly, take ſome blood from
+his Spur-veins, the Frets from him, ſwetting will do him much good. If he lye
+down and ſleep, it will bring him down to his ſenſes, and the Horſe will mend
+much in twenty four hours. If Diaſ­cordium do not make him take reſt according
+to your mind, then you may take as much Poppy­ſeeds as will lye upon a
+ſixpence, in two half Hornfuls of any Beer, if you cannot get Poppy­ſeeds,
+which ſome call Red-weed-ſeeds, then buy White-poppy-water at the
+Apothecaries, and give at each Noſtril a ſpoonful, and that will make him
+ſleep heartily.
+
+Proved.
+
+### 5.165. CLXVI. For a dry inward Mange.
+
+THe Signs are theſe; his Hair will come off by plats, and ſometimes it will
+come all off from head to tayl, and there will be a dry Scurfie Mange, as well
+where the hair comes off, as where it ſtayes on, it is an extream heat of the
+blood which cauſes the hair to ſcale off, and cauſeth the dry Mange in his
+body. If his body [[Page
+234]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=131) be dried up
+and waſted, that the Horſe be miſe­rable lean and overcome with it, then give
+him this one Drink and no more, not elſe, viz. One ounce of the flower of
+Brimſtone, two ounces of Roſin beaten ſmall, one ounce of Turmerick beaten
+ſmall, one ounce of Anniſeeds beaten ſmall, put all theſe except the
+Brimſtone, into a quart of ſtrong Beer heated lukewarm, and give it him
+faſting, & put the Brimſtone at the mouth of the Horn, to put it down with the
+other things, tye him up to the Rack for four or five hours, then give him
+warm Water and Bran, at night burſten Oats; the next day after, give him in
+his Provender two ſpoonfuls of Roſin beaten to powder, at night the like; the
+next day the like, and then no more; This is to cleanſe and purge away the
+Mangy ſurfet that is in his body, and cauſeth the outward Mange: Alſo do thus,
+two or three daies after his Drink, ſcrape off all the Scabs and Scurf clean
+with the back of your Knife, or ſome other thing for that purpoſe, till the
+Blood and Water appear. Then preſently mix an equal proportion of Oyl of
+Turpentine and Beer together as will ſerve, and ſhake them well together in a
+Glaſs Vial, and anoint the Horſe all over but once, and it is an abſolute
+Cure. It will ſmart terribly, tye him cloſe for an hour, till it have taken
+its courſe. But if you be merrily diſpoſed, as ſoon as you have dreſt him all
+over with it, bid the Fellow go home with him and ſet him up, but believe it,
+he will not hold him long, for the Beaſt will run away with him, and kick and
+wallow, and rub in a moſt ſtrange manner, that one would think he were ſtark
+mad, but it will [[Page
+235]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=131) have done
+ſmarting in half an hour. It is a gal­lant Receipt. If the Horſe be not much
+pined and ſhrunk of his fleſh, do nothing but anoint him once outwardly, and
+give him this Drink, and the Oyl of Turpentine and Beer, will kill the Mange
+of a Beaſt, Dog, Bullock, or any thing with once dreſſing. Proved.
+
+### 5.166. CLXVII. To ſtop bleeding at the Noſe, or in the Mouth, where the
+Fleam or Knife hath cut a great Gaſh: Or when you have cut the Vein in a
+Quitter-bone, and it bleed that you know not how to ſtop it.
+
+FOr any of theſe, when nothing will ſtop it this following will; Firſt, take a
+Chafing­diſh of hot Coles, and burn three or four Lin­nen Rags upon the Coles,
+laying them one up­on another, and let the Horſes Mouth be over the ſmoak all
+the while, as the blood doth fall out of the Horſes Noſe and quench them, ſo
+you muſt blow them up with your breath again, till the Coles have burnt the
+Rags as black as a Cole, which when you perceive, take them as they are burnt
+black and bled upon by the Horſe, and put them up into each Noſtril an hand
+high, then hold up his Head, and have in readineſs three or four quarts of
+ſtrong Beer, and pour it down his Throat, to waſh down the ſmoak and clotted
+blood which lyes in his Throat. If he ſnort the burnt Rags out, have other
+burnt hot Rags in a readineſs to put up his Noſtrils: And you muſt remember as
+well when you fume him, as when you have ſtopt his Noſtrils with burnt [[Page
+236]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=132) Rags, to be
+often pouring down his throat cold Beer, becauſe the blood returning a
+contrary way will choak him: This courſe taken will ſtop bleeding at the Noſe
+of a man. If an Horſes mouth be cut with a fleam at any time, when you let him
+blood in the Mouth, and the fleam glance and cut a gaſh in his Mouth, and that
+it bleed ſo that you know not how to ſtop it, then take ſome of theſe burnt
+Rags and lay them as hot into the Wound as you can, and afterward take another
+clean Rag and lay it over the Wound to keep in the burnt Rags, and tye on each
+ſide his Teeth a ſmall ſtring overthwart to keep it cloſe to for 24 hours, at
+the end of which time you may take off the Cloth, but let the burnt Rags lye
+in the Wound as long as you pleaſe, for they will draw and heal mightily, when
+they come out you may put in more, and do as you did before: and ſo for a
+Quitter-bone, iſ you cut it till all the Veins bleed; and you cannot ſtanch
+the blood, then take of theſe hot burnt Rags and fill the hole full, and they
+will ſtop the blood in a very ſhort time, and let it lye there for 24 hours,
+and they will draw it as white as can be, ſo that you may ſee what to do
+afterward: This will ſtop the blood either at Noſe, or in any Wound. Proved.
+
+### 5.167. CLXVIII. For a Cold new or old, or a Cough wet or dry.
+
+TAke of Rue one handful, chop or ſtamp it very ſmall, and put to it a penny
+worth of Anniſeeds beaten to very fine powder; make it up in Pills with ſweet
+Butter, and ſo give it to [[Page
+237]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=132) your Horſe in
+a pint and an half of Ale or Beer faſting, ride him upon it, and let him faſt
+four or five hours after it: Do this every third morning till you ſee his
+Cough quite gone. This hath been found to be moſt ſoveraign for an Horſe that
+hath a Cold, whether newly or formerly taken; or for a wet or dry Cough: It is
+alſo moſt excellent for an Horſe that hath been over­ridden, or any waies
+wronged by labour.
+
+Proved.
+
+### 5.168. CLXIX. For a young Horſe that hath taken a new Cold.
+
+TAke Water and Salt as much as will ſuffice, brew them well together, make it
+Blood­warm and give it him, and do after as is neceſſa­ry. This I find to be
+ſingular good to be given to a young Horſe, that hath newly taken cold.
+
+Proved.
+
+### 5.169. CLXX. For a new taken Cold with a Coughing?
+
+TAke of Bayes, of Anniſeeds, and of Liquo­riſh, of each half a pennyworth, of
+brown Sugar-candy one pennyworth, make all theſe in­to powder, and ſew them up
+in a fine Linnen­rag, and ſo tye it to the Bit or Snaffle of the Bri­dle, and
+ſo ride a Journey and travel him: If it be a Cold newly taken, it will cure
+him in a ſhore time. This I have tryed and found to be good, for it will cure
+both Cold and Cough, if it be thus uſed with riding and exerciſe.
+
+Proved.
+
+[[Page 238]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=133)
+
+### 5.170. CLXXI. For the Botts.
+
+TAke as much black Sope as a Walnut, as much flower of Brimſtone and a little
+Garlick bruiſed, put theſe into a pint and an half of ſtrong new Beer, or
+ſweet Wort, ſteep it all night, and give it the beaſt next morning faſt­ing,
+and tye him up to the Rack three or four hours after, then give him warm Water
+and what meat you pleaſe. Proved.
+
+### 5.171. CLXXII. For a Blood-Spavin.
+
+FIrſt, Take a ſtrong Shop-halter, and put the Nooſe or Head-ſtall about his
+Neck cloſe to his ſhoulders, then take the other end of the Halter, and take
+the contrary After-foot from the ground, which the Blood-Spavin is not up­on,
+and put the other end of the Halter about his Paſtern, and draw it with the
+Halter from the ground, and tye it to the Head-ſtall of the hal­ter, that he
+may not ſet it down; by doing thus, you may take up the Vein and ſear him as
+he ſtands, but the beſt way will be to caſt him, and to tye his other three
+Legs, and let that be at liberty, then before you take up the Vein half a foot
+above the Spavin-place, in the ſmall of the Ham in the inſide of his Leg, you
+muſt firſt draw the skin croſs with your fingers on one ſide of the Vein, then
+cut a hole in the skin an inch and an half long down his Leg thus in that part
+of the skin which will lye right over the Vein, then let the cut go, and the
+Skin will lye over the Vein, then with the point of your Cor­net-horn [[Page
+239]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=133) length-waies
+as the wound is cut, chafe and fret the thin skin or film a pieces, that you
+may ſee the Vein lye blew, then with the point of your Cornet-horn, by degrees
+run it between the Vein and the Skin, and raiſe the Vein above the Skin, and
+after that put two ſhort Shooma­kers ends between the Vein and the Fleſh, a
+little diſtance one from the other, to tye or take up the Vein after it hath
+done bleeding; then and not before, with the point of a Pen-knife, ſlit a
+little hole length-waies in the Vein, not croſs the Vein by no means, for fear
+of cutting the Vein a pieces, you muſt open the Vein as it lyes upon, the
+Horn, and when it hath bled enough, tye the ends that you before put under it,
+above the ſlit of the Vein pretty hard, and tye the o­ther bonds end below the
+ſlit of the Vein pretty juſt, and leave the bonds end an inch long hang­ing
+without the Skin to keep the hole open, that the matter may come out at it,
+and that the Skin may not heal up, before the wax threds have eaten the Vein a
+pieces, vvhich vvill be vvithin a Week; vvhen you have tyed up the Vein, as is
+ſhevved you; then put into the hole or vvound a little piece of Butter and
+Salt mixed together, to heal it up: after all this, before you let dovvn his
+Leg (in caſe you do it ſtanding) but vvhether you do it ſtand­ing or lying
+this you muſt do, Take a Nail-rod at the ſame time, and make it vvith a thick
+edge bending or hook't back, heat it hot, and make in the bent of the Leg
+vvith it one long ſtrike dovvn­vvards, ſear it beſides the Sinevvs till the
+skin looks yellovv, make the ſearing thus
+
+_[figure]_
+
+[[Page 240]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=134) in the
+bent of the Leg beſides the Sinews, but not upon the Sinews, as the foregoing
+figure ſhews you, and thus you muſt ſear him on the inſide and on the outſide
+of the Knee; where you ſee the ſwelling appear, there you muſt ſear him
+likewiſe with one Line and two croſ­ſes, croſs it in this manner. After you
+have thus ſeared it, then apply this Charge; A quarter of a pint of
+Brandy­wine, or for want thereof a quarter of a pint of Aqua-vitae, and a
+pennyworth of Crown­ſope, boylthem together till they come to a white Salve,
+then lay it all over the Swelling as hot as you can, with a flat-ſtick, and
+heat it well in with a bar of Iron, once laying on this Charge is enough; when
+this hath lain on a Week, then ride him, whether he halt or not, ſo you ride
+him moderately, then take an ounce of the Oyl of Swallows, and rub it well in
+with your hand upon the Sinews of the bent of the Leg, to retch and give
+liberty to them, uſe of this Oyl every four or five daies, and in four or five
+times dreſ­ſing, it will be a Cure. After he come from work or riding at any
+time, and his Legs be waſht and dry, then rub on this Oyl upon the bent of his
+Leg, and upon the Sinews, you need not heat it in now with a hot Iron, but rub
+it well in with the palm of your hand, and within a fortnights time the blood
+Spavin will not be ſeen, and the ſwelling will be quite gone: If you take a a
+BloodSpavin at the firſt coming out of a young Horſe, then do but fire it
+lightly, and lay the former Charge to, and in once dreſſing it will be a
+compleat Cure. Proved.
+
+_[figure]_
+
+[[Page 241]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=134)
+
+### 5.172. CLXXIII. For an old Cold.
+
+IF you ſee cauſe, take blood from the Neck­vein, otherwiſe not, then inſtead
+of giving him Oats, give him Wheat-bran boiled in water after this manner.
+(viz.) Set a Kettle over the fire almoſt full of water, and when it begins to
+boil put in your Bran, and let it boil a full quarter of an hour, then take it
+off, and let it ſtand till it be almoſt cold, and about four or five of the
+Clock in the Morning, give it him as hot as he can eat it, and for his Drink
+give him the ſame water, and at Night give him Oats and White water to drink,
+and let him be covered and littered up warm. If it be in Summer, let not the
+Stable be too hot, for that will take a way his ſtomach, and make him faint▪
+And when you give him his water at night, alwaies give him as much of this
+powder as an Eggſhel will hold amongſt his Oats, to which you muſt keep him
+eight daies together, or longer if you ſhall ſee cauſe; the boiled Bran is
+that which drieth up all his corrupt and groſs humours, which was the cauſe of
+his cold: Now the Powder is this, (viz.) Take of Cummin-ſeeds, Fenygreek,
+Si­leris Montani, otherwiſe called Siſilers, Nut­megs, Cloves, Ginger,
+Linſeed, of each of theſe two ounces, quick Brimſtone ſix ounces, make all
+theſe into fine powder, and mix them all well together; it muſt be given him
+in his Oats the quantity that was preſcribed before; but he muſt firſt be
+watered with White water; and then preſently let him be well rubbed all over,
+and cloathed and littered vvarm, [[Page
+242]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=135) and an hour
+bdfore you give him his Oats, put into his Rack a little ſweet Wheat-ſtraw,
+and let him eat thereof an hour or better, and then and not before give him
+his Oats mixed with this powder, which having eaten give him Hay at your
+pleaſure, and with doing thus his Cold will be gone in a ſhort time, and the
+ſooner if you air him an hour before Sun-ſet, and an hour after Sun-riſing▪ if
+the Sun ſhine mark that; keep up his ſtomack with White-wine and Ho­ney, and
+the Cordials, or with what elſe you think beſt of. Proved.
+
+Now, if this cold bring with it a violent Cough, as is often ſeen, then uſe
+this Re­ceipt following.
+
+### 5.173. CLXXIV. For a Cold with a violent Cough.
+
+FIrſt, give him the Wheat-bran boiled, to­gether with the Powder, with his
+Oats, as is directed in the fore-going Receipt, but not above three or four
+daies, or till you ſee he hath purged ſufficiently, for that the ſaid Powder
+diſperſed the corrupt and groſs humours that are in his body, which do
+occaſion the Cough; and when you perceive that he hath purged ſufficiently,
+keep him notwithſtanding to his White-water, which is no other thing than
+water made hot in a Kettle, and then put in ſome Wheat-bran, or Barley-meal,
+let him eat the Bran as hot as he will, and drink the Water a little warm: But
+alwaies an hour be­fore you water him, take a ſtick a little big­ger than your
+thumb, of well nigh a foot long, and wrap a Linneu cloth about it four or five
+[[Page 243]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=135) times,
+firſt dipped in oyl of Bayes and put into his mouth; and with ſome Leather-
+thong or piece of ſmall Cord, faſten it to either end of the ſtick, and ſo
+faſten it over his Ears like the head-ſtall of a Bridle, like as Smiths do
+when they burn a Horſe for a Lampra's; Let him drink with this ſtick thus in
+his Mouth, and ſo ſtand with it an hour after at the leaſt, that he may lick
+and ſuck up the ſaid oyl, and after the three or four daies are expired, and
+that you ſee he hath purged ſufficiently, which is a little before mentioned,
+then when you give him the Oats, give him amongſt them this other Powder
+following; (viz.) Fennel-ſeeds four ounces, Fenygreek two ounces, and Cardimum
+one ounce, beat them but groſsly, or elſe he will blow them away when he eats
+his Oats, put one ſpoonful into his Oats, and keep him warm, and uſe him as is
+preſcribed in the foregoing Re­ceipt, and you will find it to do him much
+good.
+
+Proved.
+
+### 5.174. CLXXV. A rare Receipt to cauſe an Horſe to vomit.
+
+TAke two of the greateſt Roots of Polypo­dium as you can get from the Oak,
+waſh and ſcrape them very clean, and tie it to his Snaffle or Bit, then let it
+be ſteeped in oyl of Spike a whole Night, and in the Morning fa­ſting, put on
+his Bridle with the Roots tied to his Bit, and ride him ſoftly and fairly an
+hour or better with it in his mouth, and if he be troubled with any Rheumatick
+or Flegmatick [[Page
+244]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=136) humour, or
+with any cold or filthy matter, which may any way peſter, clog, or annoy his
+ſtomach, this very thing will force him to vent and vomit it up at his mouth
+or noſe, and it will cauſe him to cough and ſneeze much, that you ſhall ſee
+him to ſend forth a great abundance of filth, and evil ſlimy matter from his
+ſtomach and head, and in a ſhort time he will become very clean in his body,
+for this will both refine his blood, and exhauſt all the watriſh humours in
+ſuch ſort, as by temperate ordering of him, and doing as heretofore is
+preſcribed, you may keep him a long time ſound, perfect, and ſer­viceable; and
+this you may give to an Horſe newly taken from Graſs, or to any other Horſe
+that hath taken a Cold, or to any other filthy, foul, foggy or purſy Horſe
+whatſoever: And this upon trial, upon all occaſions before men­tioned, you
+ſhall find to be moſt admirable; this being done, I conceive it to be very
+good to give them Whitewine and Hony, and the Cor­dial formerly ſet down.
+Proved.
+
+### 5.175. CLXXVI. For a Curb.
+
+THis Curb alwaies groweth upon the back­part of the heel of the knee of the
+hinder Leg, in a hard ſubſtance; I ſhall give no more ſigns, for it is eaſie
+to be ſeen: The remedy is this, firſt tie up the contrary Leg as you do for a
+blood-Spavin, then with an hot Iron fear it length-waies down his Leg upon the
+Curb, till the skin look yellow, then draw your hot Iron croſs it, as you did
+for a blood-Spavin, in two or three places, then preſently take an Horſenail
+[[Page 245]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=136) and
+drive it through a ſtick, ſo that the point of the nail may come a little
+through the ſtick, the breadth of a ſtraw, or a little more, then ſet the
+point of the nail to the fired places, and ſtrike it in ſome ten or twenty
+times, according as the burning goes in ſeveral places, and as you ſee
+occaſion, then take a handful or two of Salt, and rub it well in with your
+hand to ſtop the blood, and half an hour after wipe the Salt off, and apply
+the charge of Sope and Brandy hot on, and heat it well in with a bar of Iron,
+and as your Iron cools, flake it over it to dry it in the better, let the
+charge lie on till it comes off of it ſelf; you may ride him every day after
+three or four daies, in the mean time let him ſtand in the Stable. Proved.
+
+### 5.176. CLXXVII. For a Quitterbone, Old or New.
+
+THis Quitterbone alwaies grows juſt above the top of the Hoof on the Hinder
+Foot, and ſometimes on the Inſtep juſt above the Hoof, and ſometimes above the
+Hoof on the ſide of the Foot, but be it in any place this is the Cure: Firſt,
+take up the vein in the ſmall of the Leg, if the Quitterbone be on the inſide
+of the Leg above the Hoof, then take up the vein on the inſide of the Leg: If
+it be on the outſide of the Leg, then take up the vein on the outſide, this is
+the way to further the Cure, and make all ſure by taking up the vein which
+does feed it. You may ſee how to take up a vein, if you look into the Receipt
+for a Blood-Spavin.
+
+[[Page 246]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=137)For the
+taking up of a vein is all alike, be it vvhere it will be, after you have
+taken up the vein let it bleed well, and put into the wound ſome Butter and
+Salt: Then with a little Towe, or Hards, or a Linnen-cloth wound about your
+Inſtrument's end, ſearch the Quitterbone to the bottom, and where you ſee the
+matter come out there put in your Inſtrument; when you have ſearched the wound
+and made it clean, put into it a piece of white Arſenick as big as a ſmall
+Bean and put a little Tow after it, and lay a little Tow upon the top of the
+quitterbone, with a Linnen cloth next, and a Woollen cloth over all, tyed on
+faſt that it may not come off; then tie him up to the Rack with a ſtrong
+Halter one day, till the anguiſh of the Arſenick be over, for fear he come at
+it with his mouth; let the Arſenick lie in fourty hours, then take out the
+Hards, and you ſhall ſee the hole in the quitterbone look very black, and
+ſwelled more than it was before: It is the effects of Arſenick, therefore you
+need not fear, but as ſoon as you have pulled off the Clothes and Hards from
+the place, you may put his foot into a pail of cold water for a quar­ter of an
+hour, and let it ſoak; or if the Ri­ver be near that you can lead him into it,
+if it be clear water, ſo that no ſand or dirt get into the wound, and let him
+ſtand and ſoak his Leg there for a quarter of an hour, for his Leg muſt be
+once a day ſoaked, either in a pail of clean water or in the River, for a week
+together, take off his wet hard Clothes, and tie on dry ones, this is all you
+have to do till you ſee the Core of the Quitterbone come out, which when you
+ſee, make this Medicine to heal it up: Take [[Page
+247]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=137) a pennyworth
+of good Honey, put it into a Pipkin, and when it begins to be hot, put in a
+penny worth of Verdigreaſe, and three or four ſpoonfuls of White-wine Vinegar,
+boil them all together for half an hour, then take it off the fire, and when
+it is cold take a little fine Towe and dip into it, and put it into the wound,
+and lay a little dry Towe or Hards o­ver that, and a Linnen cloth over them,
+and bind them on with a ſtring, and ſo dreſs it once a day till you ſee it
+begin to heal, and then dreſs it but once in two daies, and as you ſee it heal
+dreſs it the fewer times till it be whole: There will be a little ſpace bare
+where no hair will come, put in Arſenick but once, and although you tie him up
+to the Rack becauſe his mouth ſhould not come to the Arſenick, yet give him
+meat for all that; do but remember theſe two laſt Cautions, and you need not
+queſtion the Cure, for it will be ſpeedy. Proved.
+
+Now ſuppoſe you meet with a Quitterbone that hath been a long time in other
+Farrier's hands, that have ſo corroded and poyſoned it that it is much ſwelled
+about the Paſtern and Leg: In this caſe, you muſt firſt take up the vein on
+that ſide the Leg that the Quitterbone grows on, to keep the humour back that
+feeds it, then put in as much Arſenick as a Bean, as you were directed before,
+and ſo doing as it is there expreſt, ſoaking his Leg as yon are there­in
+taught, and when the Core is out▪ heal it with the ſame Salve that is there
+preſcribed, but if there grows proud fleſh in it whilſt you are a healing of
+it, then ſcald it with Butter and Salt, and that will keep the proud-fleſh
+down; [[Page 248]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=138)
+An old hurt in the foot may come to be a quit­terbone, and break out above the
+Hoof, but a quitterbone will never break out in the Sole of the foot. Except
+you take up the vein, a quit­terbone is a very hard thing to cure, after the
+Core is come out, it will not be amiſs before you go about to heal it, to waſh
+the ſore well with Whitewine Vinegar, and then to waſh it with the wattr
+mentioned in Receipt XXXVIII. and then apply the healing Salve mentioned in
+the foregoing Receipt.
+
+### 5.177. CLXXVIII. A Preparation before you give the Black Drink for the
+Glanders, in the next following Receipt.
+
+FIrſt take blood from him, if you do find it groſs or phlegmatick, for
+otherwiſe he can­not poſſibly mend, then inſtead of Oats give him every
+Morning about 4 or 5 a clock Wheat­bran prepared, for four or five daies
+together, and the Water to drink that the Bran is ſodden in, as you may ſee in
+the Receipt for an old Cold, which is to qualifie and dry up the moiſt and bad
+humors abounding in him, and then let him blood in the Neck, if you have not
+before. The next day rake him with your hand, and then give him this Gliſter:
+Make a decoction of Mallows one pint and a half, and put into it four ounces
+of freſh Butter, and of Sallet oyl a quarter of a pint, adminiſter it Blood-
+warm, and then with a ſtrap of Leather tied to his tail and put between his
+legs, and the other end fa­ſtened to the Suſſingle, ſo ſtraight, that the tail
+[[Page 249]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=138) may be
+cloſe to his Tewel or Fundament, that he cannot purge till it be looſened:
+This done, mount his back and ride him gently an eaſie trot or foot-ſpace for
+half an hour, then ſet him up cloathed and littered, with the Bit in his mouth
+three hours, during which time he will purge kindly, then give him White water
+and Hay, and at night a few Oats, for he muſt be kept to a ſpare diet: The
+next day mix well together the powder of Brimſtone and freſh Butter, and
+anoint all along two Gooſe-feathers, and run a thred through either of their
+Quills ends, that you may faſten the thred to the top of the head-ſtall of his
+Bridle, and run them up as high as you can into each noſtril, and ſo ride him
+an hour or two, and this will purge his head and lungs, and cauſe him to ſend
+forth much filthy matter; but when you ſet him up take them out, and an hour
+after give him Hay and White water, and Bran prepared, which he ſhould have
+before you ride him abroad: The next day give him his Gliſter again, and let
+him reſt for that day, but ordered in all things as before; the next day uſe
+the Gooſe-feathers again, and order him as you did before: And all this is but
+to prepare him for this after-Drink that followeth, but you muſt obſerve to
+keep him alwaies warm, and let him be ever faſt­ing and empty, before you give
+him any Phyſick, and air him Evening and Morning if the Sun ſhine, or the
+weather be warm or calm: Then three daies after give him this Drink following,
+which is called the Black Drink.
+
+[[Page 250]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=139)
+
+### 5.178. CLXXIX. The Black drink for the Glan­ders.
+
+TAke new-made Chamberlie, and of the beſt and ſtrongeſt White-wine Vinegar of
+each half a pint, then take of Muſtard-ſeed two or three ſpoonfuls, and make
+Muſtard thereof with Vinegar and grind it well, then put your Vine­gar and
+Chamberly to the Muſtard, and ſtir them well together, then take of Tar and
+Bay-ſalt of each alike, as much as may ſuffice, incorporate them well
+together, and convey ſo much thereof as two or three Eggſhels will hold, their
+meat being firſt taken out; having prepared theſe things, keep him over night
+to a very ſpare diet, and the next morning take and ride him firſt, till he
+begin to ſweat▪ then give him the Eggſhels filled with Tar and Salt as before
+preſcribed, and as ſoon as he hath taken that, give him with a Horn the afore-
+named drink made of Cham­berly, Vinegar and Muſtard, all at the mouth, except
+two ſmall hornfuls which muſt be pow­red into his Noſtrils, which when he hath
+taken, ride him again as much as you did before, ſet him up, and clothe and
+litter him warm, and ſo let him ſtand upon the Bit until three or four a
+Clock: then un-bit, and give him a warm Maſh, and order him in all things as
+is uſual for Horſes taking Phyſick. Give him this Medicine or Drink every
+other third day, if the Horſe be ſtrong, and if he be weak in body, once in
+three or four daies: And this is an infallible Cure in three or four times
+giving, if it be [[Page
+251]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=139) rightly given,
+though he be far ſpent.
+
+Proved.
+
+### 5.179. CLXXX. To cure the Glanders running at the Noſe: Alſo all Colds,
+and Rheums.
+
+FIrſt obſerve this, alwaies when you give him Oats, put ſome Hony to them, and
+rub them very well together betwixt your hands, continue to do thus, till he
+leave running at the Noſe: This is one of the beſt and moſt certain Cordials
+that I know, for it diſperſeth all the Flegm and Choller, it alſo purgeth the
+Head and Brain, it purifieth the Blood, it venteth evil Humours, it cauſeth a
+good digeſtion, and freeth a Horſe from Glanders, Colds, Catarrhs, Rheumes,
+runing at the Noſe, &c.
+
+Proved.
+
+### 5.180. CLXXXI. For a Fiſtula or Gangrene in the Foot, by reaſon of ſome
+Channel-Nail, which hath lain long and deep in the Foot, that breaks out above
+the Hoof, and cauſeth the ſole of the foot to come out, and cauſeth the Leg
+and Paſtern to ſwell very much.
+
+IF this Nail cauſe the ſole of the foot to come out, and do break out above
+the Hoof, and cauſe the Paſtern and Leg to ſwell, but in caſe the Sole of the
+Foot be not come out, then take it out as you were directed formerly, by
+girting the foot-lock hard, and when you have taken out the Sole of the foot
+as you are there dire­cted, ſearch the wound with a little Towe at the [[Page
+252]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=140) Inſtruments
+end, to ſee which way and how far the Cannel-Nail went; when you ſee where the
+holes are, drop in ten or twelve drops of the oyl of Turpentine, and take a
+little fine Towe, or a little Lint at your Inſtruments end, and dip it in the
+Turpentine, and put it in Tent­waies, then over this Tent lay to the bottom of
+the Hoof a handful of Nettle-tops, and a handful of Salt well beaten together,
+ſtuff his foot well with Towe, and let it lie on twenty four hours, and ever
+when you dreſs it take off the Shoe, and when you have dreſſed it tack on the
+Shoe again, dreſs it thus once a day with a Tent dipt in Turpentine, and laid
+to the Sole firſt, and then the Nettles and Salt over that, till you ſee the
+Sole come on a little, and when you ſee it a little grown, then apply the
+Poul­tis following in this manner (but not before) and lay over the Poultis,
+Hards or Towe, and over the Towe a piece of Leather, and over the Leather
+ſplinters of wood with his Shoe taken off, and ſet on again as you were ſhewed
+in ano­ther place; let him ſtand dry and in the houſe till he be whole, which
+will be in a few daies; the Poultis muſt lie on the firſt dreſſing twenty four
+hours, the ſecond dreſſing fourty eight hours, the third dreſſing fourty eight
+hours, and ſo con­tinue till the Sole of the foot be grown firm and ſtrong
+again: The Poultis is thus made, Take half a pint of ſalt Beef or Pork brine,
+and put it into a Skillet, a quarter of a pound of Kitchin­ſtuff greaſe, and
+when you have boiled theſe two a pretty while together, put ſome Wheat­bran to
+it, and make it not too thick nor too thin; when you have taken out his Sole,
+and [[Page 253]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=140)
+untied the Cord about his Paſtern, if it bleed much, then put a handful of
+Salt into the bot­tom of the Foot, with Towe, Hards or Flax, between the Sole
+of the Foot and the Shoe, and Splinters and a piece of Leather over it, to
+keep it in, at twenty four hours take it off, and lay on the Nettles and Salt
+as you were before di­rected, but no otherwiſe: Thus much for the Cure of the
+ſole of the Foot. But mark what followeth, which belongeth to the foregoing
+Receipt; which is, when the nail in the foot doth not only cauſe the Sole of
+the foot to come out, but alſo breaketh out above the Hoof, and cau­ſeth a
+Gangrene or ſwelling in the Paſtern, and ſo up the Leg. In this caſe, after
+you have ſear­ched it with a little fine Towe or Hards, with your Inſtrument's
+end, then drop into the hole a few drops of the oyl of Turpentine, and after
+that put in a tent dipt in the oyl of Turpen­tine into the hole as far as you
+can, and imme­diately apply the Poultis, laid upon a large Lin­nen cloth, to
+the ſwelling in the Paſtern, and up the Leg ſo far as the ſwelling goes, and
+bind it cloſe to with another cloth that it may not come off, tie him up to
+the Rack for ſeven or eight hours, that he may not pull it off with his mouth,
+let it lie on the firſt dreſſing twen­ty four hours, and for the other
+dreſſings the time you were directed before, till the Swelling be down, and
+the Sore be whole: alwaies put in a tent dipt in the oyl of Turpentine, before
+you lay this Poultis to, or any other thing: If the Hoof come off and it
+ſwell, and break out above the Hoof, if all theſe happen together at once, you
+muſt obſerve the diſtinct directions. [[Page
+254]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=141) The Cure of
+that in the ſole of the Foot, from that which breaks out above the Hoof, and
+ap­ply each Cure to each Diſeaſe; In this caſe the Poultis muſt be firſt
+applied above the Hoof, be­cauſe when the ſole of the Foot is taken out, you
+muſt not lay the Poultis to the ſole of the Foot till it be a little grown,
+and further, with the great pain and continual holding up his Foot from the
+ground, his Sinews in the bent of his leg will be ſhrunk; to remedy which, uſe
+the oyl of Swallows, as you may ſee for a Blood-Spavin in Receipt CLXXII. But
+if you cannot get the oyl of Swallows, if his Sinews be knit or ſtiff, then
+rub in ſome Trotters-oyl, which is made of Sheeps-feet, it is to be had at the
+Tripe­houſes, but for want of either of theſe, boil ſome Hogs-greaſe and Aqua-
+vitae together, and rub it in with your hand cold, which Receipt is
+incomparable for ſhrunk ſinews.
+
+Proved.
+
+### 5.181. CLXXXII. For a ſtrain in the Coffin joynt, or a Sive-bone in the
+Socket of the Hoof.
+
+FOr Remedy, Take off the Shoe, and then pare the bottom of the Foot as thin as
+you can, till the blood do almoſt appear; you ſhall know in what place the
+ſtrain is in, by taking the Foot in your hand, and wrying it to you and from
+you, if it be there he will ſhrink at it much when you thus turn his Foot,
+when you find where it is, make this Poultis and lay it to hot. Take a pint of
+powder-Beef or Pork­brine, [[Page
+255]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=141) and a quarter
+of a pound of Kitchin-ſtuff greaſe, put them into a Skillet, and boil them
+together half an hour, then take ſome Wheat­bran and put to it, make a Poultis
+thereof, not too thick nor too thin, then ſet on the Shoe a­gain, and put a
+good quantity of this Poultis as hot as you can into the ſole of the foot,
+then ſtuff the ſole with Towe or Hards, and either ſplinter it in with a flat
+ſtick, or with a piece of a ſole of Leather, to keep it in, and let it lie on
+forty eight hours, then take a long linnen cloth and ſpread the reſt of the
+Poultis ſcalding hot all about the top of the Hoof, the Paſtern, and up the
+Leg ſo far as the ſwelling goes, and let it lie on 48 hours, at the end of
+which take it off and lay on another, and let it lie on as long, and ſo
+likewiſe a third or fourth, till you ſee him go ſound, which will be in a very
+few daies, and after a weeks time he will not complain of it: If you have
+occaſion to ride him, after the third dreſſing you may ride him eight or ten
+miles moderately; a little before you ſet him up waſh his Legs, and when they
+are dry take off his Shoe, and lay the Poultis to as before: This Poultis is
+nothing differing from that in the Receipt before. Proved.
+
+### 5.182. CLXXXIII. A Purge for filthy Slime, and to carry away the peccant
+Humours, which Surfets have ingendred in the Body.
+
+TAke a pint of White-wine, or a quart of new Ale, which you can beſt get, as
+much of the beſt powder of Me [...]hoacan as you can [[Page
+256]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=142) take up with a
+ſhilling at four times, put them together and give it lukewarm, ride him
+gently a mile or two and ſet him up warm, and let him ſtand upon the Bit five
+or ſix hours, then give him a warm Maſh, and half an hour after give him Oats
+and Bran mingled together a lit­tle at a time, wet his Hay that night: This
+will make the ſlime to come away in great flakes up­on the Dung; if after this
+his ſtomach fail, then give him Whitewine and Hony, and the Cor­dial. This is
+a very rare purge, but before you give it, uſe the directions in the Receipt
+next following. Proved.
+
+### 5.183. CLXXXIV. For an Horſe that is ſick and ſur­feited of Colds, whether
+in Winter or in Summer.
+
+FIrſt let him Blood, then give him this Purge afterwards: Take of Aloes
+Siccatrina two ounces made into fine powder; then make it up into Pills with
+freſh or ſweet Butter, and give it the Horſe over night, he having been kept
+faſt­ing the whole day before, and inſtead of Hay, Straw, or any other meats
+hard of digeſtion, 2 or 3 daies before you give him this Purge, or any other
+Purge, let his meat be either Wheat or Rye-bran, as you may ſee in a Receipt
+or two a little before, or you may give him Bread made on purpoſe with Beans,
+Peaſe, and ſome Rye in it, or elſe Oats well ſifted both dry and ſweet, and
+let his drink be White-water only, which is nothing elſe but Wheat-bran ſodden
+in Water; the next day in the Morning early, after [[Page
+257]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=142) he hath taken
+the Pills, give him either a ſweet Maſh, or for want thereof White Water, for
+that will make his Pills to work the more kindly that Day, then let him faſt
+till night, during which time he will purge freely; then at Night give him
+White water, and after Oats and Bran, and give him for all Night Hay ſprinkled
+with water. If he be ſtrong bodied, it may be he will not purge the firſt day,
+but the ſecond day be ſure he will: in the mean time give him Ma­ſhes, Wheat-
+Bran boyled, and White water or clean Oats, and after his purging keep him
+warm and well littered, keep him to White water for two or three daies after,
+or longer, and when you give him cold water, let it not be with ex­ceſs, this
+is an excellent purge. Proved.
+
+### 5.184. CLXXXV. For a ſtrain in the Paſtern of an Horſe.
+
+Take of the grounds of Beer called Heild, that is▪ when all the Beer is drawn
+quite off, Hens Dung▪ Nerve oyl, and freſh Greaſe that never had Salt in it,
+make a Poultis thereof and lay it to: This is admirable for a ſtrain in the
+Paſtern or Foot-lock, and will make a ſpeedy Cure. Proved.
+
+### 5.185. CLXXXVI. For an Horſe-Cough.
+
+Take five or ſix Eggs, and lay them in ſharp White-wine Vinegar, till the
+ſhells be ſomewhat ſoft, then take his tongue in your hand, and put them down
+his throat one after a­nother: give them faſting, and let him neither [[Page
+258]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=143) eat nor drink
+of five or ſix hours after, ride him a mile or two after you have given it
+him, give him warm water to drink for once and keep him warm. This will Cure
+him forthwith.
+
+Proved.
+
+### 5.186. CLXXXVII. A ſuppoſitory to ſupple the Guts, to diſſolve and ſend
+forth all dry and hot Excrements.
+
+FIrſt Rake him, then take a great Candle of four in the pound, and cut off
+three Inches at the ſmaller end, then anoint the other part being the bigger
+end, with Sallet oyl or freſh Butter, and ſoput it up into his fundament, then
+hold his Tail to his Tewel half an hour, or tye it cloſe to his Tewel with a
+ſtrap of Leather, and faſten it to his Suſſingle, and in half an hours time it
+will be diſſolved, then let looſe his Tail and leap his back, and trot him up
+and down till he do begin to empty and purge himſelf, for by this means it
+will work the more kindly, this is the moſt gentle of all ſuppoſitories.
+Proved.
+
+### 5.187. CLXXXVIII. Another Suppoſitory to be gi­ven, that you dare not
+without peril of his life, give him any thing elſe inward­ly: Then give him
+this.
+
+TAke of common Honey ſix ounces, of Salt­nitre one ounce and a half, of Wheat-
+flowr and of Anniſeeds in fine powder, of each one ounce, boyl all theſe
+together to a ſtiff thick­neſs, and ſo make it into Suppoſitories, anoint
+[[Page 259]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=143) theſe
+as you did the former, and your hand alſo, and ſo put it up into his Fundament
+the length of your hand, then tye his Tail between his Legs, for half an hour,
+in which time the Suppoſitory will be diſſolved, then ride him and order him
+as before. This is very good, eſpecially in caſe of Surfeits or inward
+Sickneſs, rake him firſt and keep him warm. Proved.
+
+### 5.188. CLXXXIX. A Suppoſitory to purge Flegm.
+
+TAke a piece of Caſtle-ſoap, pare it and bring it into the faſhion of a
+Suppoſitory, put it into his Fundament and order him as before.
+
+Proved.
+
+### 5.189. CXC. A Suppoſitory to purge Choler.
+
+TAke Savin as much as will ſuffice, and ſtamp it to Maſh, and ſtamp with it
+Staveſacre and Salt, of each two ounces, boyl them in common Honey, as much as
+will ſuffice to make it thick, and ſo make it up into Suppoſitories, and
+Admi­niſter one of them like as you are before ſhewn, and order him
+accordingly.
+
+### 5.190. CXCI. A Suppoſitory to purge Melan­choly.
+
+TAke a Red Onion and pill it, and jagg it croſs-waies with your Knife, and ſo
+ad­miniſter it, and order him as before.
+
+[[Page 260]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=144)
+
+### 5.191. CXCII. Another Suppoſitory.
+
+TAke a pint of common Honey, and boyl it till it be thick, and make it up into
+Suppoſi­tories as it cooleth; and adminiſter it as before, and order him alſo
+in the like manner: This Suppoſitory purgeth evil humours, it cooleth and
+comforteth the body very much, and cau­ſeth a good appetite to meat. Proved.
+
+### 5.192. CXCIII. Directions for Suppoſitories.
+
+FIrſt obſerve this: When at any time you do adminiſter either Potions,
+Gliſters, or Suppoſitories, you muſt do it in a Morning faſting: Except
+neceſſity urge the contrary.
+
+Secondly, you muſt not at thoſe times ſuffer him to drink cold water, no not
+with exerciſe, but either ſweet Maſhes or White water.
+
+Thirdly, it is very needful before you admi­niſter any of theſe, that you Rake
+him; and be ſure you keep him warm.
+
+A Suppoſitory is but a preparative for a Gli­ſter or Purge, to make that way
+that they may purge the better.
+
+### 5.193. CXCIV. To kill Worms.
+
+TAke Bears-foot and Savin, Lavender Cot­ton, the flower of Brimſtone, give it
+him in ſweet wort; it will kill the Worms, and turn them into ſlime; Ask for
+the powder of Caro­line at the Apothecaries, it is as admirable a thing to
+kill Worms as can be, you may give [[Page
+261]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=144) three or four
+penny-worth at a time, in a pint and a half of ſweet Wort. It is a very ſafe
+thing.
+
+Proved.
+
+### 5.194. CXCV. To purge by Graſs in Summer.
+
+IF your Horſe be ſurfeited, or hath been o­ver laboured the Winter before,
+then turn him out when the Graſs is in the beſt heart: Now that Graſs that
+will purge moſt and beſt, is a new mowen Meadow, for that will rake his Guts
+very well, nor will he in ſuch a place ga­ther fleſh; therefore let him go
+there not above fourteen or eighteen days, and then put him into ſome other
+Paſture, where the Graſs hath not been touched with a Syth, and there he will
+belly well, and in a ſhort time recover much fleſh, and be very fat and luſty;
+This purging will ſcowr him bravely, and ſend away all ill humours and
+ſurfeits, and eaſe his Limbs marvel­louſly well, and do his legs and feet much
+good, and refine his corrupt bloud, and make him nim­ble and full of ſpirit.
+Alſo to mowe green Rye before it be eared is moſt wholeſom, for it ſcowr­eth,
+cleanſeth, and cooleth the body very much, ſo do the leaves of Sallow, and the
+leaves of the Elm-tree.
+
+### 5.195. CXCVI. A Gliſter for a Sick, ſurfeited, Diſ­eaſed Horſe.
+
+IF your Horſe be newly taken from Graſs, and that you hold it needful his body
+ſhould be cleanſed from bad humours, which either his [[Page
+262]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=145) Graſs or
+former Surfeits might bring: Firſt Rake him, and then give him this Gliſter
+fol­lowing, (viz.) Take Mallows three handfuls, Marſh Mallow Roots cleanſed
+and bruiſed two handfuls, Violet leaves two handfuls, Flax-ſeed three
+ſpoonfuls, and as many of the Cloves of white Lilly Roots, as you may eaſily
+hold in your hand; boyl all theſe in fair water from a Gallon to a Wine quart,
+then ſtrain it, and put thereto one ounce of Sena, which muſt be in­fuſed or
+ſteeped in the Liquor three hours ſtand­ing upon the hot Embers, then put
+thereto half a pint of Sallet oyl, and then adminiſter it Gli­ſter-wiſe blood-
+warm, and cauſe him to keep it half an hour or longer if you can; and the beſt
+time to give this Gliſter, is 3 or 4 dayes before the full or change of the
+Moon, but if occaſion be, you may give it any other time; this Gliſter is to
+be given to a foggy fat Horſe, which other­wiſe cannot be kept clean. It
+purgeth the Guts abundantly, and it is cheifly to be given an Horſe that is
+newly taken from Graſs. And the next day after you have given him this
+Gliſter, give him this drink following.
+
+### 5.196. CXCVII. A Purge.
+
+TAke the ſtrongeſt Ale-wort one quart, of Honey a quarter of a pint, of London
+Treacle two ounces, mix and brew them all to­gether, and give it him blood-
+warm; then keep him upon the bit ſix hours after, warm clothed and well
+littered, and give him a ſweet Maſh, and White water, and Rack him with ſweet
+[[Page 263]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=145) Wheat-
+ſtraw, Oats, and Bran, this both pur­geth and comforteth; two or three dayes
+after, give him this Drink following.
+
+### 5.197. CXCVIII. Another Purge.
+
+TAke a pint of White-wine, and put into it one ounce of Sena, and let it ſteep
+all night, next morning betimes ſtrain it, and put into it one ounce of the
+beſt Aloes made into fine powder, half an ounce of Agarick, and a ſpoonful of
+powder of Liquoriſh, mix and brew them altogether, and ſo give it to your
+Horſe blood-warm, and ride him gently a quarter of an hour after it, and ſo
+ſet him up warm, well clothed and littered, and let no cold ayr come to him,
+nor let him eat nor drink of ſix hours after; and at night give him a ſweet
+Maſh, or White water, and let his Rack-meat be ſweet Wheat-ſtraw, Oats and
+Bran; the next day let him blood, and prick him in the third Furrow of his
+Mouth, and if his blood be bad, take two quarts from him, but if good, ſcarce
+a quart: keep him warm, and give him ſweet Maſhes or White water, and put into
+his Drink either the powder of Brimſtone or of Fenygreek, or Tur­merick, or of
+Elecampana, one or more toge­ther, according as he will be brought to like and
+take them; which being well mixed, put there­of into his Drink a ſpoonful at a
+time. And this is very good to cool the blood, purge Choler, and other peccant
+humours, and to purifie and refine the Blood. And this is not only good for
+Horſes newly taken from Graſs, but for other ſick, ſurfeited, diſeaſed Horſes.
+
+[[Page 264]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=146)
+
+### 5.198. CXCIX. Another Purge.
+
+TAke one ounce and a quarter of Gentian, ſlice it thin, boil it in a quart of
+Beer till it come to a pint, and give it him blood-warm; It will make him very
+ſick for a ſhort time, but you need not fear, for it will do him much good;
+let him faſt after it five or ſix hours, and then give him a Maſh or White
+water, and the next day give him this following.
+
+Mingle Honey with his Oats, and rub the Honey and Oats well together between
+your hands, and continue thus doing till you ſee him quite cured, which will
+be when he hath done running at the Noſe. This is one of the beſt Cordials I
+know, for it diſperfeth all Flegm and Choler, it purgeth the head and Brain,
+it purifieth the Blood, it venteth evil Humours, it cauſeth good Digeſtion,
+and freeth an Horſe from Glanders, Colds, Catarrhs, Rheums, running at the
+Noſe, and the like, as you may ſee ſet down before, which is the ſame with
+this; this and the Purge before going you muſt give one after another, And for
+the Honey and his Oats mixed together, I conceive you may give them in other
+cauſes; as when an Horſe is trou­bled with cold Rheums, running at the Noſe,
+Glanders, Flegm, or Choler or ſuch like.
+
+### 5.199. CC. Of Gliſters and their uſe
+
+A Gliſter is given as a preparative to a pur­ging Drink, and a Gliſter by
+cleanſing [[Page
+265]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=146) the Guts
+refreſheth the Vital parts, and prepa­reth the way before; wherefore I adviſe
+every Farrier before he give a Drink, whether pur­ging or otherwiſe, if the
+Horſe be not at that time ſoluble in body, that after Blood-letting, the next
+day he give a Gliſter, this done he may the better give what is requiſite;
+other­wiſe if he give the Drink before the Gliſter, he may ſtir and provoke
+the evil humours, which by reaſon of much coſtiveneſs and Wind, and other
+impediments in his Guts, do attempt to make their paſſage by a contrary way,
+which cannot be done without great hazard to the life of the Beaſt. I
+therefore adviſe, if the beaſt be coſtive and bound in his body, to give a
+Suppoſitory or Gliſter Firſt, and after his Purging drink.
+
+### 5.200. CCII. What a Decoction is.
+
+A Decoction is a broth made of divers Herbs, as Mallows, Marſh-Mallows,
+Pellitory, Camomile, and ſometimes white Lil­ly roots, and ſuch like things
+which we do boyl in water to a third part, and ſometimes we uſe inſtead of
+herbs and water, to take the fat of Beef-broth, or the broth of a Sheep's
+head, Milk, Whey, or ſum ſuch kind of Liquor.
+
+[[Page 266]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=147)
+
+### 5.201. CCII. What quantity òf Broth or Decoction is put in to make a
+Gliſter.
+
+FOr the quantity, we do adminiſter accord­ing to the Age, ſtrength and
+greatneſs of the Horſe; for if he be of a ſtrong and able bo­dy, of large
+growth and ſtature, fat and luſty, in this caſe we put in three pints; but if
+he be of a ſmall growth, weak, ſick, feeble or, lean, in this caſe a quart is
+enough; we uſe to put in half a pint of oyl, of Salt two or three drams, and
+ſometimes we put in Verjuyce, and ſome­times Hony, as we ſee cauſe: Drugs we
+uſe, as Sena, Caſſia, Agarick, Anniſeeds, oyl of Dill, oyl of Camomile, oyl of
+Violets, Sugar-candy, and ſuch like.
+
+### 5.202. CCIII. For the quantity of Drugs put into a Gliſter.
+
+FOr the quantity of Drugs, you ought not to exceed the quantity of three
+ounces in one Gliſter at the moſt, neither put in above four ounces of Butter,
+and let it be but blood­warm when you adminiſter it.
+
+### 5.203. CCIV. What time is fit for an Horſe to keep his Gliſter.
+
+When you give it him, let him be empty, and before he do receive it, Rake him:
+After you have given it him let him keepe it half [[Page
+267]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=147) an hour, it
+will do it the more good, the longer he keep it the more good it will do him,
+hold his Tail cloſe to his Fundament all the while.
+
+### 5.204. CCV. The length of the Gliſter-pipe.
+
+THe beſt Inſtrument wherein to give an Horſe a Gliſter, is a Pipe made of
+pur­poſe, which ought to be twelve inches in the Shank, which muſt alſo be put
+home: And when the Gliſter is put into his body, then draw a way the pipe by
+degrees not all at once.
+
+### 5.205. CCVI. A Gliſter for a Horſe that is bound in his body and cannot
+dung.
+
+TAke the fat of Beef-broth (if he be Sick, weak and lean) a pint and a half is
+enough, if he be big, fat and luſty, you may put in two or three pints, put to
+it half a pint of Engliſh-hony; and two drams of white Salt, mix them well
+together, and adminiſter it Gliſter-wiſe blood-warm, then clap his Tail cloſe
+to his Tew­el for half an hour or longer, and if then it do not work, as I am
+confident it will, ride him up and down a gentle trot for half an hour more,
+but not till he ſweat, then ſet him up warm clo­thed and littered, and let him
+ſtand upon the Bit four or five hours, in which time he will purge kindly,
+then unbit him and give him ſweet Hay, and an hour▪ after that, give him White
+wa­ter, and he may drink any cold water in a day or two after, and this is the
+beſt cure for this Ma­lady. This Gliſter will open and looſen the bo­dy,
+[[Page 268]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=148) bring
+away all offenſive humous, remove all obſtructions ingendred in the body by
+means of exceſſive heat, it cleanſeth the Guts, and pur­geth away all ſlimy
+ſubſtance. And this you will find to be the beſt remedy for a Horſe that is
+co­ſtive and bound in his body, and that cannot dung. This hath been often
+proved.
+
+### 5.206. CCVI. For another Gliſter
+
+TAke two handfuls of Melilot, two handfuls of Pellitory, if you can get
+neither of them, then take two handfuls of Camomile, but Pellitory is the beſt
+if it can be gotten, boyl any one of theſe in a Decoction of water to a third
+part, then ad to it of Sallet-oyl and of Ver­juyce of each half a pint, of
+Honey four ounces, of Caſſia two ounces, mix all theſe together and adminiſter
+it luke-warm, and order him as in the firſt Gliſter. It will open the Gut and
+body very well, and will take from him all hurtful and oftenſive humours. It
+will carry away all Spun­gy matter. It will allay the biliouſneſs and
+ſharpneſs of humours, cleanſe inward Ulcers, and much refreſh and comfort the
+vital ſpirits▪ But if you find that by giving too great a quan­tity your Horſe
+purgeth and ſcoureth, longer or more violently than you think is meet and
+good, or for fear it ſhould ſtir up in him more bad humours upon the ſudden,
+then you may ea­ſily allay it with this following Gliſter▪
+
+[[Page 269]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=148)
+
+### 5.207. CCVIII. A Gliſter reſtringent to ſtop looſneſs.
+
+TAke of the Decoction in the Gliſter afore­going a pint, and put thereto as
+much Cow's Milk as it cometh warm from the Cow, and put alſo thereto the yolks
+of three new laid Eggs, well beaten and mixed together, and give it blood-
+warm: This Gliſter is only to be given to a Horſe that is very laxative or
+doth empty himſelf too much, which is occaſioned oft-times by over much
+debility or want of ſtrength, or when nature is very much offended: You may
+give this Gliſter as often as need ſhall require, and till you ſee his
+looſneſs ſtop.
+
+### 5.208. CCIX. A Gliſter for a fat foul-bodied Horſe, that is newly taken
+from Graſs, or for a­ny ſick, ſurfeited, diſeaſed Horſe.
+
+TAke three handfuls of Marſh-Mallow roots cleanſed and bruiſed, Violet leaves
+of each two handfuls, Flax ſeed three ſpoonfuls, the Cloves of white Lilly
+roots a ſmall handful, boil all theſe together in fair water, from a gallon to
+a Wine quart, then ſtrain it, and put thereto of Sena one ounce, which muſt be
+ſteeped in the Liquor three hours ſtanding upon the hot Em­bers, then put
+thereto half a pint of Sallet oyl, and being blood-warm adminiſter it
+Gliſter­wiſe, cauſing him to keep it above half an hour: And the beſt time to
+give this, is three or four dayes before the full or change of the Moon,
+[[Page 270]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=149) yet it
+may be given with much benefit at any other time. This Gliſter purgeth the
+Guts a­bundantly, and is chiefly to be given to an Horſe that is newly taken
+from Graſs.
+
+### 5.209. CCX. A Gliſter for Melancholy.
+
+TAke of Whey a quart, of Anniſeeds in fine powder two penny-worth, the leaves
+of Mallows two handful, boyl all theſe together till the Mallows be ſoft, then
+ſtrain it, and put there­to of ſweet Butter four ounces, and when the Butter
+is melted, give it Gliſter-wiſe blood­warm. This purgeth Melancholy, it
+cauſeth a good Appetite which before was wanting, it refreſheth the dulled
+Spirirs, and cauſeth a good Digeſtion, if the Horſe be kept warm and well
+tended.
+
+### 5.210. CCXI. A Gliſter to be given in caſe of a de­ſperate Sickneſs: It
+helpeth Fevers: is good againſt the Peſtilence and all langui­ſhing Diſeaſes,
+moſt excellent againſt Surfeits either by Provender or otherwiſe: And will
+give great ſtrength in ſhort time, if it be rightly made and carefully given.
+
+TAke of the Oyl of Dill, oyl of Camomile, oyl of Violets, and Caſſia, of each
+half an ounce, of brown Sugar-candy in powder three ounces: Then take of
+Mallow leaves a handful, and boyl them firſt to a Decoction in fair water,
+then ſtrain it and put thereto the before-named [[Page
+271]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=149) Ingredients
+and give it blood-warm. This is moſt ſoveraign to be given in caſe of a
+deſperate Sickneſs, and for all the Diſeaſes afore-men­tioned.
+
+### 5.211. CCXII. A Gliſter for the Peſtilence and all Fevers.
+
+TAke half an ounce of the pulp of Coloquin­tida the ſeeds and rind taken away;
+of Gum dragant three quarters of an ounce; boyl all theſe in three quarts of
+water to a quart with Centory and Wormwood, of each half an handful, and a
+quarter of an ounce of Caſtori­um, ſtrain it and diſſolve it into the
+Decoction of Gerologundium three ounces, and of white Salt three drams, and of
+Sallet oyl half a pint, and then adminiſter it Gliſter-wiſe blood-warm, this
+hath been often proved to be moſt excellent good for the Diſeaſes above
+mentioned.
+
+### 5.212. CCXIII. A Lenitive Gliſter.
+
+TAke the Decoction of Mallowes and put to it either of freſh Butter four
+ounces; or of Sallet oyl half a pint, and give it Gliſter-wiſe blood-warm;
+this is the gentleſt Gliſter of any before preſcribed, for it is both a
+looſener, and a great cooler of the body, and doth infinitely eaſe pain. Alſo
+it is good for Convulſions or Cramps, and moſt ſingular againſt coſtiveneſs,
+proceeding from any ſickneſs or ſurfeit by Pro­vender or Foundring in the
+Body.
+
+[[Page 272]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=150)
+
+### 5.213. CCXIV. A Gliſter for the Collick or any Sick­neſs or Gripings in
+the Gutts or Belly.
+
+TAke Salt water or new made Brine two pints, diſſolve therein a pretty
+quantity of Sope, and adminiſter it Gliſter wiſe, blood­warm; this is averred
+to be the moſt excellent for the Collick, or any Sickneſs or griping in the
+Guts.
+
+### 5.214. CCXV. Of Sickneſs in Horſes.
+
+SIckneſſes in general are of two ſorts, One offending the whole Body, the
+other a par­ticular Member; The firſt of them not viſible; The other apparent,
+and known by its own de­monſtrations. Of the firſt then, which offends the
+whole Body, as Fevers of all ſorts, the Quo­tidian, Tertian, Quartan, and
+Hectick, Fe­vers Peſtilential, Fevers accidental, or the ge­neral Plague, are
+known by theſe ſigns: much trembling, panting, ſweating, and ſallow
+coun­tenance, hot breath, faintneſs in labour, de­cay in ſtomack, coſtiveneſs
+in the body, any or all of which when you perceive; Firſt let the Horſe blood,
+and then give him Treacle: Take of Celedine roots and leaves a good handful,
+as much of Wormwood, as much of Rue, waſh them well and then ſtamp them in a
+Mortar▪ which done boyl them in a quart of Ale, then ſtrain them, and add to
+the Liquor half a pound of ſweet Butter, then being luke-warm give it to the
+Horſe to drink.
+
+[[Page 273]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=150)
+
+### 5.215. CCXVI. Of the Head-ach, Frenzy or Staggers.
+
+THe Signs to know theſe Diſeases, which are all of one Nature, and all of one
+effect Mortal, hanging down of the head, reeling; The Cure is, to let the
+Horſe blood three mor­nings together, after walk him a while, then clothe him,
+cover his Temples over with a plai­ſter of Pitch, and keep him exceeding warm,
+let his meat be little and his Stable dark.
+
+### 5.216. CCXVII. Of the Sleeping evil.
+
+THe Sleeping Evil or Lethargy in Horſes, proceeds from cold Phlegms, moiſt
+hu­mours which bind up the vital parts, and make them dull and heavy: The
+ſigns are, continual ſleeping or deſire thereunto. The cure is, to keep him
+much waking and twice in a Week to give him as much ſweet Sope as a Duck-Egg
+in the nature of a Pill, and after give him to drink new milk and Honey.
+
+### 5.217. CCXVIII. Of the Falling Evil, Planet-ſtruck, Night-Mare, or Palſey.
+
+ALthough theſe Diſeaſes have ſeveral faces, and looke as if there were much
+difference between them, yet they are in nature all one, and proceed all from
+one offence, which is only cold Phlegm, thick humour ingendred about the
+Brain, and benumming the Senſes, weakning [[Page
+274]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=151) the members
+ſometimes cauſing the Horſe to fall down, and then it is called the falling
+Evil, ſometimes weakning but one Member only, and then it is called Planet-
+ſtruck, ſometimes op­preſſing a Horſes ſtomack and making him ſweat in his
+ſleep, and then it is called the Night-mare, ſometimes ſpoiling one ſpecial
+Member by ſome ſtrange contraction, and then it is cal­led the Palſey. The
+cure for any of theſe in­firmities, is to give the Horſe this purging Pill:
+Take of Tar three ſpoofuls, or of ſweet But­ter the like quantity, beat them
+well together with the powder of Liquoriſh. Annis-ſeeds and Sugar-Candy till
+it be like a paſte, then make it into three round Balls, and put into each
+Ball two or three Cloves of Garlick, and give them to the Horſe, obſerving to
+warm him both be­fore and after, and keeping him faſting two or three hours
+both before and after.
+
+### 5.218. CCXIX. Of the general Cramp, or Convulſion of Sinews.
+
+CRamps are taken to be contracting or draw­ing together of Sinews of any one
+mem­ber, but Convulſions, are when the whole body, from the ſetting on of the
+head to the extre­meſt parts are generally contracted or ſtiffened. The Cure
+of either, is firſt to chafe and rub the member contracted with Vinegar and
+common oyl, and then rap it all over with wet Hay, or rotten Litter, or elſe
+with woollen Clothes, ei­ther of which is a preſent remedy.
+
+[[Page 275]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=151)
+
+### 5.219. CCXX. For any Cold or Cough whatſoever, wet or dry, or for any
+Conſumption or Putre­faction of the Lungs whatſoever.
+
+A Cold is got by unnatural Heats and too ſudden cooling, and theſe Colds
+ingen­der Coughs, and theſe Coughs putrefaction, and rotteneſs of the Lungs:
+The Cure there­fore for them all in general, is to take a handful or two of
+the white and greeneſt Moſs, which grows upon an old Oak, or any old Oaken
+Pale or Wood, and boyl it in a quart of Milk till it be thick, and being cold
+and turned to a jelly, then ſtrain it and give it to the Horſe luke-warm every
+morning, till his Cough ceaſeth.
+
+### 5.220. CCXXI. Of the Running Glanders, or mourn­ing of the Chine.
+
+TAke of Auripigmentum two drams, of Tuſ­lagſinis as much made into powder,
+then mixing them together with Turpentine till they be like Paſte, and making
+thereof little Cakes, dry them before the fire, then take a Chaſing­diſh of
+Coals, and laying one or two of the Cakes thereon covering them with a Tunnel,
+and when the ſmoak ariſeth, put the Tunnel into the Horſes Noſtrils, and let
+the ſmoak go up in­to his head, which done ride him till he ſweat; do this
+once every morning before he be wate­red, till the Running at his Noſtrils
+ceaſe, and the Kernels under his Chaps be leſſened.
+
+[[Page 276]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=152)
+
+### 5.221. CCXXII. Of Hide-bound or Conſumption of the Fleſh.
+
+HIde-bound or Conſumption of the Fleſh, proceedeth from unreaſonable travel,
+diſ­orderly Diet, and many Surfeits. It is known by a general diſlike and
+leanneſs over the whole body, and by the ſticking of the skin cloſe to the
+body in ſuch ſort, that it will not riſe from the body: The Cure is, firſt to
+let the Horſe blood, and then to give him to drink three or four mornings
+together a quart of new Milk, with two ſpoonfuls of Honey, and one ſpoon­ful
+of courſe Treacle; Let his food be either ſodden Barley, warm Grains, and
+Salt, or Beans ſplitted in a Mill, his drink Maſhes.
+
+### 5.222. CCXXIII. Of the Breaſt-pain or any other ſickneſs proceeding from
+the heart, as the Antocow and ſuch like.
+
+THeſe Diſeaſes proceed from too rank feed­ing and much fatneſs, the ſigns are;
+A faltering in his fore legs, a diſableneſs to bow down his neck, and a
+trembling over all his body: the Cure is to let him blood, and to give him two
+mornings together, two ſpoon­fuls of Diapente in a quart of Ale and Beer, for
+it alone putteth away all infection from the heart.
+
+[[Page 277]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=152)
+
+### 5.223. CCXXIV. Of Tired Horſes.
+
+IF your Horſe be tired injourneying, or in a­ny Hunting match, your beſt help
+for him, is to give him warm Urine to drink, and let him Blood in the mouth to
+ſuffer him to lick up and to ſwallow the ſame: then if you come where a­ny
+Nettles are, to rub his mouth and ſheath well therewith, then gently to ride
+him till you come at the reſting place, where ſet him up ve­ry warm, and
+before you go to bed give him ſix ſpoonfuls of Aqua-vitae, and as much
+pro­vender as he will eat, the next morning rub his Leggs with Sheeps-feet
+oyl, and it will bring freſh nimbleneſs to his Limbs.
+
+### 5.224. CCXXV. Of Diſeaſes in the Stomack, as Sur­feits, lothing of Meat or
+Drink.
+
+IF your Horſe with the Glut of Provender, or eating raw food, hath given ſuch
+offence to his ſtomack that he caſteth up all he eateth or drinketh, you muſt
+then give him comfortable things; as Diapente or Trephenicon in ale or Beer,
+then keep him faſting; Let him have no food but what he eateth out of your
+hand, which would be bread well baked, Oats, and after two or 3 bits, a Lock
+of ſweet hay, and his Drink ſhould be only new milk, till his ſtomack have
+gotten ſtrength, and in a bag you ſhall conti­nually hang at his Noſe ſowr
+brown bread ſteeped in Vinegar, at which he muſt ever ſmell, and his ſtomack
+will quickly come again to his firſt ſtrength.
+
+[[Page 278]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=153)
+
+### 5.225. CCXXVI. Of foundring in the Body.
+
+FOundring in the Body is of all Surfeits the mortalleſt and ſooneſt gotten; it
+proceed­eth from intemperate riding an Horſe when he is fat, and then ſuddenly
+ſuffering him to take cold, and there is nothing ſooner brings this infirmity,
+than waſhing a fat Horſe: The ſigns are ſadneſs of Countenance, Staring hairs,
+ſtifneſs of Limbs, and loſs of Belly: The Cure is only to give him wholſom
+meat, and bread of clean Beans, and warm drink, and for two or three mornings
+together, a quart of Ale-brew­ed with Pepper and Cinamon, and a ſpoonful of
+Treacle.
+
+### 5.226. CCXXVII. Of the Hungry Evil.
+
+THe Hungry-Evil is an unnatural and over­haſty greedineſs in an Horſe to
+devour his meat faſter then he can chew it, and is only known by his greedy
+ſnatching at his meat as if he would devour it whole: The Cure is to give him
+to drink Milk, and Wheat meal mixed to­gether a quart at a time, and to feed
+him with Provender by little and little till he forſake it.
+
+### 5.227. CCXXVIII. Of the Diſeaſes of the Liver, as Inflammations,
+Obſtructions, and con­ſumptions.
+
+THe Liver which is the Veſſel of Blood, is ſubject to many Diſeaſes, according
+to the [[Page 279]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=153)
+diſtemperature of the Blood, and the Signs to know it, are a ſtinking Breath,
+and a mutual looking towards his body. The Cure is, to take Ariſtolochia
+longa, and to boyl it in run­ning water till half be conſumed, and let the
+Horrſe drink continually thereof, and it will cure all evils about the Liver.
+
+### 5.228. CCXXIX. Of the Diſeaſes of the Gall, and ſpe­cially of the Yellows.
+
+FRom the over-flowing of the Gall, which is the veſſel of Choler, ſpring many
+mor­tal Diſeaſes, eſpecially the Yellows, which is an extreme faint mortal
+Sickneſs, if it be not prevented in time: The Signs are, yellowneſs of the
+Eyes and Skin, and chiefly underneath his upper Lip next to his fore-teeth, a
+ſudden and faint falling down by the high way, or in the Stable, and an
+univerſal ſweat over all his body: The Cure is, firſt to let the Horſe blood
+in the neck or mouth, or under the Eyes; then take two penny-worth of Saffron,
+which being dried and made into fine Powder, mix it with ſweet Butter, and in
+manner of a Pill, give it in Balls to the Horſe three mornings together; Let
+his drink be warm, and his hay ſprinkled with water.
+
+### 5.229. CCXXX. Another for the ſame.
+
+TAke a pint or more of Milk, and make a Poſſet of it, with ſtrong Ale or Beer
+a [[Page 280]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=154) pint
+or more, take off the Curd clean, then take two ounces of Caſtle-ſope, pare it
+in thin ſmall ſlices, and boyl it in the Poſſet-drink about a quarter of an
+hour, then when it is but Luke­warm give it the Horſe to drink, then take his
+back and ride a gentle pace an hour together, ſet him up warm: This hath been
+often tryed upon Chriſtians as well as Horſes, they taking and walking and
+ſtirring upon it an hour or more, taking it but two mornings together; it
+never fail'd of curing thoſe that had been ſo far ſpent with it, that they
+have been given over by all men.
+
+### 5.230. CCXXXI. Of the Sickneſs of the Spleen.
+
+THe Spleen which is the Veſſel of Melancho­ly when it is over-charged
+therewith, groweth painful, hard and great, in ſuch ſort, that ſometimes it is
+viſible: The ſigns are much groaning, haſty feeding, and a continual loo­king
+to the left ſide only. The cure is, take Agrimony, and boyl a good quantity
+thereof in the water the Horſe ſhall drink, and chopping the leaves ſmall, mix
+them with ſweet Butter, and give the Horſe two or three good round Balls
+thereof in the manner of Pills.
+
+### 5.231. CCXXXII. Of the Dropſie, or evil Habit of the Body.
+
+THe dropſie is an evil habit of the Body, which is ingendred by Surfeits, and
+unrea­ſonable labour, altereth the colour and comple­xion [[Page
+281]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=154) of the Horſe,
+and changeth the hairs in ſuch an unnatural ſort, that a man ſhall hardly know
+the Beaſt with which he hath been moſt familiar. The cure is, to take a
+handful or two of Wormwood, and boyl it in Ale or Beer a quart or better, and
+give it the Horſe to drink Luke-warm morning and evening, and let him drink
+his water at noon,
+
+### 5.232. CCXXXIII. Of the Collick, Belly-ach, or Belly-bound.
+
+The Collick or Belly-ach, is a fretting, gnaw­ing or ſwelling of the Belly or
+great bag, proceeding fromwindy humours, or from eating of green corn or
+pulſe, hot grains without ſalt or Labour, or bread Dough-baked: and
+belly­bound is when a Horſe cannot Dung: The cure of the Collick or Belly-ach
+is, to take good ſtore of the herb Dill, and boyl it in his water that you
+give the Horſe to drink, but if he can­not dung, then you ſhall boyl in the
+Water good ſtore of the herb Fumitory; and it will make him dung without
+danger or hurting.
+
+### 5.233. CCXXXIV. Of the Lask or Bloody-Flux.
+
+THe Lask or Bloody-Flux, is an unnatural Looſneſs in a Horſe's body, which
+being not ſtayed, will for want of other Excrements make a Horſe void blood
+only, The cure is, to take a handful of the herb Shepherds-purſe, and boyl it
+in a quart of ſtrong Ale, and when it is Luke-warm take the ſeeds of Woodroof,
+[[Page 282]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=155) ſtamp
+them and put them in, and give it the Horſe to drink.
+
+### 5.234. CCXXXV. Of the falling out of the Funda­ment.
+
+THis cometh through infinite miſlike and weakneſs. The Cure is, take Town-
+creſ­ſes, and having dryed them to powder, with your hand put up the
+Fundament, and then ſtrow the powder thereon, after it lay a little Honey
+thereon, and then ſtrow more of the powder with the powder of Cummin, and it
+helpeth.
+
+### 5.235. CCXXXVI. Of Bots and Worms of all ſorts.
+
+THe Bots and gnawing of worms is a grie­vous pain, and the Signs to know them
+are; the Horſes oft beating his Belly, and tumbling and wallowing on the
+ground, with much deſire to lye on his back: The Cure is; take the ſeeds
+bruiſed of the herb Ameos, and mix with it Honey and make two or three Bals
+and make the Horſe ſwallow them down.
+
+### 5.236. CCXXXVII. Of pain in the Kidneys; pain to Piſs, or the Stone.
+
+ALL theſe Diſeaſes ſpring from one ground, which is only Gravel and hard
+matter ga­thered together in the Kidneys, and ſo ſtopping the Conduits of the
+Urine: The ſigns are, that the Horſe will only ſtrain to piſs, and that
+of­ten, but cannot. The Cure is to take a handful [[Page
+283]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=155) of Maiden
+hair, and ſteep it all night in a quart of ſtrong Ale, and give it the Horſe
+to drink every morning till he be well: This will break any ſtone whatſoever
+in a Horſe.
+
+### 5.237. CCXXXVIII. Of Piſſing of Blood.
+
+THis cometh with over-travelling a Horſe, or travelling him ſore in the Winter
+when he goeth to graſs. The Cure is, take Ariſtolo­chia Longa and boyl it in a
+quart of Ale, and give it the Horſe to drink Lukewarm, and give him alſo reſt.
+
+### 5.238. CCXXXIX Of the Strangullion.
+
+THis Diſeaſe is a ſoreneſs in the Horſes Yard, and an hot burning when he
+piſſeth: The Signs are, he will piſs oft, yet but a drop or two at once: The
+Cure is, to boyl in the wa­ter he drinketh good ſtore of the herb Hogfen­nel,
+and it will cure.
+
+### 5.239. CCXL. Of the Colt-Evil, Muttering of the Yard, Falling of the Yard
+ſhedding of the Seed.
+
+ALL theſe Evils proceed from much Luſt in a Horſe, and the Cure is the powder
+of the herb Avens, and the leaves of Betony, ſtamp them well with White-wine
+to a moiſt Salve and anoint the Sore therewith, and it will heal all
+imperfections of the Yard: But if the Horſe ſhed his ſeed, then beat Venice
+Tur­pentine [[Page
+284]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=156) and Sugar
+together, and give him every morning a good round ball thereof, till the ſeed
+ſtay,
+
+### 5.240. CCXLI. Of the particular Diſeaſes in Mares, as Barrenneſs,
+Conſumption, rage of Love, caſting Foles, hardneſs to Fole: and how to make a
+Mare caſt her Fole.
+
+IF you would have a Mare barren, Let good ſtore of the herb Agnus Caſtus be
+boyled in the water ſhe drinks: If you would have her fruitful then boyl good
+ſtore of Motherwort, in the water: If ſhe loſe her belly, which ſheweth a
+Conſumption of the womb, you ſhall then give her a quart of Brine to drink,
+Mugwort being boyled therein: If your Mare through high keeping, grow into
+extreme Luſt, ſo that ſhe will neglect her food through the violency of
+fleſhly appetite, as it is often ſeen amongſt them, you ſhall houſe her for
+two or three days, and give her every morning a ball of Butter and Agnus
+Caſtus chopt together: If you would have your Mare caſt her Fole, take a
+handful of Betony and boyl it in a quart of Ale, and it will deliver her
+preſently: If ſhe cannot Fole take the herb horſe-mints, and either dry it or
+ſtamp it, and take the powder of the juyce, and mix it with ſtrong Ale, and
+give it the Mare and it will help her: If your Mare from former brui­ſes or
+ſtrokes, be apt to caſt her Foles, as many are, you ſhall keep her at Graſs
+very warm, and once a week give her a warm maſh of drink, this ſecretly
+knitteth beyond expectation.
+
+[[Page 285]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=156)
+
+### 5.241. CCXLII. Of drinking Venom, as Horſe-Lea­ches, Hens-Dung, &c.
+
+IF your Horſe have drunk horſe-leaches, ea­ten Hens-dung, Feathers, or ſuch
+like vene­mous things, which you ſhall know by his pan­ting, ſwelling or
+ſcowring; you ſhall take the herb Sowthiſtle, and drying it beat it into
+pow­der, and put three ſpoonfuls thereof into a pint of Ale, and give it the
+Horſe to drink.
+
+### 5.242. CCXLIII. Of Suppoſitories, Gliſters, and Purgations.
+
+IF your Horſe by Sickneſs, ſtrict Diet, and too vehement Travel, grow dry and
+coſtive in his Body, as it is ordinary, the eaſieſt means in extremity to help
+him, is to give him a ſup­poſitory: The beſt of which is to take a Candle of
+four in the pound, and cut of five inches at the bigger end, and thruſting it
+up a good way into his Fundament, preſently clap down his Tail and hold it
+hard to his Tewel, for a quar­ter of an hour, or half an hour, and then give
+him liberty to dung: But if this be not ſtrong enough, then you ſhall give him
+a Gliſter. And that is, Take four handfuls of the herb Anniſe, and boyl it in
+a pottle of running water till half be conſumed, then take the Decoction and
+mix it with a pint of Sallet Oyl, and a pretty quantity of Salt, and with a
+Gliſter pipe give it him at the Tewel. But if it be too weak, then give him a
+Purgation thus: Take twenty Raiſins of the Sun ſtoned, and ten [[Page
+286]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=157) Figs ſlit,
+boyl them in a pottle of running wa­ter till it come to a jelly, then mix it
+with the powder of Liquoriſh, Annis-ſeeds, and Sugar­candy, till it be like
+Paſte, make it into Balls, and roll it in ſweet Butter, and ſo give it the
+Horſe to the quantity of three Hens Eggs.
+
+### 5.243. CCXLIV Of Neeſings and Frections.
+
+THere be two other excellent helps for ſick Horſes, as Frictions and Neeſings;
+The firſt to comfort the outward parts of the Body, when the vital powers are
+aſtoniſhed, the other to purge the head when it is ſtopt with flegm, cold and
+other thick humours: And of Fricti­ons, the beſt is Vinegar and patch Greaſe
+mel­ted together, and very hot chafed into the Hor­ſes Body againſt the hair:
+and to make a Horſe Neeſe, there is nothing better then to take a bunch of
+Pellitory of Spain, and tying it to a ſtick put it up into the Horſes
+Noſtrils, and it will make him Neeſe without hurt or vio­lence.
+
+### 5.244. CCXLV. Of the Diſeaſes, in the Eyes, as wá­tery Eyes, Blood-ſhotten
+Eyes, Dim Eyes, Moon Eyes, Strokes on the Eyes, Warts in the Eyes,
+Inflammation in the Eyes, Pearl, Pin, Web, or Haw in the Eye.
+
+UNto the Eye belongeth many Diſeaſes, all which have their true Signs, and
+their Names; And as touching that which is watery, blood-ſhotten Dim, Moon-
+ſtricken or Infla, [[Page
+287]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=157) med, they have
+all one cure. Which is, to take Wormwood, beat it in a Mortar with the Gall of
+a Bull, ſtrain it and anoint the Horſes Eyes therewith, and it is an approved
+Remedy: But for a Wart, Pearl, Pin or Web, which are Evils growing in or upon
+the Eyes, to take them off; take the juyce of the herb Betony, and waſh his
+Eyes therewith, and it will waſte them away: For the Haw every Smith can cut
+it out.
+
+### 5.245. CCXLVI. Of the Impoſtume in the Ear, Poll-Evil, Fiſtula, Swelling
+after Blood-letting, any Galled Back, Canker in the Withers, Setfaſt, Wens,
+Navel-Gall, or any hollow Ulcer.
+
+THeſe Diſeaſes are ſo apparent and common, that they need no other Deſcription
+but their Names, and the moſt certain Cure is, to take Clay off a mud or Loam
+wall ſtrawes and all, and boyl it in ſtrong Vinegar, and apply it Plaſter-wiſe
+to the Sore, and it will of its own nature ſearch to the bottom and heal it,
+provi­ded that if you ſee any dead or proud fleſh ariſe, that then you eat or
+cut it away.
+
+### 5.246. CCXLVII. Of the Vives.
+
+FOr the Vives, which is an Inflammation of the Kernels between the chap of the
+Neck of the Horſe, Take a Penny-worth of Pepper, Swines greaſe a Spoonful, the
+juyce of a hand­ful of Rue, Vinegar two ſpoonfuls, mix them [[Page
+288]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=158) together, and
+then put it equally into both the Horſe's Ears, then tye them up with two flat
+La­ces, ſhut the Ears that the Medicine may go down, which done let the Horſe
+blood in the Neck and in the Temple-Veins, and it is a cer­tain Cure.
+
+### 5.247. CCXLVIII. Of the ſtrangle, or any Boyl or Botch, or other Impoſtume
+whatſoever.
+
+ALL theſe Diſeaſes are of one nature, being only hard boyls or Impoſtumes,
+gathe­red together by evil humours either between the Chaps or elſewhere on
+the Body: The Cure is, take Southern-wood and dry it to powder, and with
+Barley-meal and the yolk of an Egg make it into a Salve, and lay it to the
+Impoſtume, and it will ripen it, break it and heal it.
+
+### 5.248. CCXLIX. Of the Canker in the Noſe, or any other part of the Body.
+
+TO heal any Canker in what part ſoever it be; Take the juyce of Plantain, as
+much Vinegar, and the ſame weight of the powder of Allom, and with it anoint
+the ſore twice or thrice a day, and it will kill it, and cure it.
+
+### 5.249. CCL. Of Stanching of Blood, whether it be at the Noſe, or
+proceeding from any Wound.
+
+IF your Horſe bleed violently at the Noſe, and, you cannot ſtanch it, then you
+ſhall take Be­tony [[Page
+289]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=158) and ſtamp it
+in a Mortar with Salt, and put it into the Horſes Noſe, or apply it to the
+wound and it will ſtanch it; but if he be ſudden­ly taken in riding by the
+High way, or other­wiſe, and you cannot get this Herb, you ſhall then take any
+Woollen Cloth, or any Felt hat, and with a Knife ſcrape a fine Lint from it,
+and ap­ply it to the place bleeding and it will ſtop.
+
+### 5.250. CCLI. Of Pain in the Teeth, or looſe Teeth.
+
+FOr any pain in the Teeth, take Betony, and ſeethe it in Ale or Vinegar till
+half be con­ſumed, and waſh all the Gums therewith; but if they be looſe, then
+only rub them with the leaves of Enulacampana, or Horſe-holm, after they have
+been let blood, and it will faſten them.
+
+### 5.251. CCLII. Of Diſeaſes in the mouth, as blood-Rifts, Liggs, Lampras,
+Camery, Inflammay­tion, Tongue burnt, or the Barbes.
+
+IF you find any infirmity in the Horſes mouthe as the bloody Rifts, which are
+Chaps or Rifts in the Palat of the Horſes mouth; The Liggs, which are little
+Puſtula's or Bladders within th-Horſes Lips: The Lampra's, which is an
+excres­cence of fleſh above the teeth: The Camery, which are little Warts in
+the roof of the mouth: Inflammation, which is little Bliſters; Barbes, which
+are two little Papps under the Tongue: Or any hurt on the Tongue by the Bit or
+other, wiſe: you ſhall take the leaves of Wormwooda and the leaves of
+Shurewort, and beat them in, [[Page
+290]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=159) Mortar with a
+little Hony, and with it anoint the Sores, and it will heal them: As for the
+Lampra's they muſt be burned.
+
+### 5.252. CCLIII. Of the Crick in the Neck.
+
+FOr the Crick in the Neck, you ſhall firſt chafe it with the Friction,
+mentioned in Receipt CCXLIV, and then anoint and bath it with Sope and Vinegar
+mixed together.
+
+### 5.253. CCLIV. Of the falling of the Creſt, Mangi­neſs in the Mane, or the
+ſhedding of the Hair.
+
+ALL theſe Diſeaſes proceed from Poverty, Miſlike, or over-riding; and the beſt
+Cure for the falling of the Creſt is Blood-let­ting, or good keeping, with
+good ſtore of meat, for ſtrength and fatneſs will ever raiſe the Creſt: But if
+the Mane be Mangy, you ſhall anoint it with Butter and Brimſtone: And if the
+hair fall away, then take Southernwood and burn it to Aſhes, then take the
+Aſhes, and mix them with common Oyl, anoint the place therewith, and it will
+bring hair preſently; both ſmooth, thick, and fair.
+
+### 5.254. CCLV. Of pain in the Withers.
+
+AN Horſes Withers are Subject to many Griefs and Swellings, which proceed from
+cold humors, ſometimes from bad Saddles, therefore if at any time you ſee any
+Swellings [[Page
+291]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=159) about them,
+you ſhall take the Herb Harts­tongue, and boyl it with Oyl of Roſes, and apply
+it very hot to the Sore, and it will aſſwage it, or elſe break it and heal it.
+
+### 5.255. CCLVI. Of Swaying the Back, or weakneſs in the Back.
+
+THeſe two infirmities are very dangerous, and may be eaſed, but never
+abſolutely cured; therefore where you find them, Take Coleworts and boyl them
+in Oyl, and mix them with a little Bean flower and chafe it into the Back, and
+it will ſtrengthen it.
+
+### 5.256. CCLVII. Of the Itch in the Tail. or the general Scab or Mangineſs;
+or of the Farcy.
+
+FOr any of theſe Diſeaſes, take freſh Greaſe and yellow Arſenick, mix them
+together, and where the Mangineſs or Itch is, there rub it hard in, the Sore
+being made raw before; But if it be for the Farcion, then with a knife ſlit
+all the Knots, both hard and ſoft, and then rub in the Medicine; which done,
+tye up the Horſe ſo that he may not come to bite himſelf; after he hath ſtood
+an hour or two, take old piſs and Salt boyled together, and with it waſh away
+the oyntment, and then put him to meat: Do this two or three dayes together;
+Provided alwaies, that you firſt let the Horſe Blood, and take good ſtore from
+him, and give him every Morning a [[Page
+292]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=160) ſtrong
+Scouring, or a ſtrong purge, both which are ſhewed before.
+
+### 5.257. CCLVIII. Of Foundring in the Feet.
+
+THere be two ſorts of Foundring, a dry and a wet: The dry is incurable, the
+wet is thus to be cured and helped; Firſt, pare all the Soles of his Feet ſo
+thin that you may ſee the quick, then let him blood at every Toe, and let him
+bleed well, then ſtop the Vein with Tallow and Roſin, and having tackt on
+hollow Shooes on his Feet, ſtop them with Bran, Tar, and Tallow, as boyling
+hot as may be, and renew it once in two dayes for a week together, then
+Exerciſe him much, and his Feet will come to their true uſe and nimbleneſs.
+
+### 5.258. CCLIX. Of any Halting which cometh by Strain or Stroke, either
+before or behind, from the Shoulder or Hip down to the Hoof.
+
+THere are many Infirmities which make an Horſe halt, as pricking the Shoulder,
+a wrench in the Nether-joints, ſplatting the Shoulder, Shoulder-pight, ſtrains
+in joints and ſuch like: all which, ſince they happen by one accident, as
+namely by the violence of ſome ſlip or ſtrain, ſo they may be cured by one
+Me­dicine, and it is thus. After you have found where the grief is, as you may
+do by griping and pinching every ſeveral Member, and there where he moſt
+complaineth, there is his moſt pain and grief; you ſhall take Vinegar, Bole-
+Armoniack, [[Page
+293]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=160) the whites of
+Eggs, and Bean­flower, and having beaten them into a perfect Salve, lay them
+very hot to the ſore place, and it will cure it.
+
+### 5.259. CCLX. Of the Splent, Curb, bone bone-Spavin, or any Knob, or bony
+Excreſſion, or Ring-bone.
+
+A Splent is a bony Excreſſion under the Knee or the fore-Leg The Curb is the
+like behind the hinder Hough. The Spavin is the like on the inſide of the
+hinder Hough; And the Ring-bone is the like on the Corner of the Hoof. And the
+Cure is, firſt upon the top of the Excreſſion make a ſlit with your Pen-knife,
+the length of a Barly-corn or little more, and then with a fine Cornet raiſe
+the skin from the bone, and having made it hollow the compaſs of the
+Excreſſion and no more, take a little Lint and dip it in the Oyl of Origanum,
+and thruſt it into the hole, and cover the Knob and ſo let it abide till you
+ſee it rot, and that Nature caſt­eth out both the Medicine and the Cure: As
+for the Ringbone, you ſhall need to do no more but ſcarifie it, and anoint it
+with the oyl only.
+
+### 5.260. CCLXI. Of the Mallander, Selander, Pains, Scratches, Mellet, Mules,
+Crown Scabs, and ſuch like.
+
+FOr any of theſe you ſhall take Verdigreaſe, and ſoft Greaſe, and Grind them
+together [[Page
+294]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=161) to an
+oyntment, put it in the Box by it ſelf; Then take Wax, Hogs greaſe and
+Turpentine, of each alike, and being melted together, put this Salve into
+another Box, then when you come to dreſs the ſore, after you have taken off
+the Scab and made it raw. you ſhall anoint it with the green Salve of
+Verdigreaſe and freſh Greaſe, only for two or three dayes; it is a ſharp
+Salve, and will kill the Cankerous humor. Then when you ſee the Sore look
+fair, you ſhall take two parts of the yellow Salve, and one part of the green
+Salve, and mix them together, and a­noint the Sore therewith till it be whole,
+ma­king it ſtronger or weaker, as you ſhall find oc­caſion.
+
+### 5.261. CCLXII. Of any Upper Attaint, or Nether-Attaint, or any hurt by
+Over-reaching.
+
+THeſe Attaints, are Strokes or Knots, by o­verreaching; either on the back
+Sinew of the Fore-leg, on the Heels or nether-joynts, and may be healed ſafely
+by the ſame former Medicine, which healed the Malander or Selen­der in the
+former Receipt; Only for the over­reaches, you ſhall before you apply the
+Salve, lay the ſore plain open without hollowneſs, and waſh it with Beer and
+Salt, or Vinegar and Salt.
+
+### 5.262. CCLXIII. Of Wind-Gauls.
+
+THeſe are little Blebs or ſmall ſoft ſwellings on each ſide the Foot-lock.
+procured by [[Page
+295]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=161) much travel on
+hard and Stony wayes: The Cure is, to prick them and let out the Jelly, and
+then dry the Sore with a Plaiſter of Pitch.
+
+### 5.263. CCLXIV. Of interfering or Shackle-gauls, or any Gaulings.
+
+INterfering, is hewing one Leg againſt ano­ther and ſtriking of the skin; It
+proceed­eth from weakneſs, and ſtraightneſs of the Hor­ſes pace, and Shackle-
+gauling is any gauling under the Footlock: The cure is to anoint them with
+Turpentine & Verdigreaſe mixed together, or Turpentine alone if it rankle not
+too much.
+
+### 5.264. CCLXV. Of the Infirmities of Hoofs, as falſe Quarters, Looſe Hoofs,
+and Hoof-bound, Hoof-running, Hoof brittle, Hoof hurt, Hoof ſoft, Hoof hard,
+or generally to pre­ſerve Hoofs.
+
+THe Hoof is ſubject to many infirmities-As firſt, to half quarters, which
+cometh by pricking, and muſt be helpt by good ſhooing, where the Shooe muſt
+bear on every part of the Foot but upon the half quarters only. If the Hoof be
+looſe, anoint it with Burgundy Pitch, and it will knit it; if it be clean cut
+off, then Burgundy pitch and Tallow molten together, will bring a new; if it
+be bound or ſtraightned, it muſt be well opened at the Heels, the Soal kept
+moiſt, and the Cornet anointed with the fat of Bacon and Tar; if the ſruſh of
+the Foot run [[Page
+296]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=162) with ſtinking
+matter; it muſt be ſtopped with Soot, Turpentine, and Bole-Armoniack mixed
+together, if it be brittle and broken, then anoint it with Pitch and Linſeed
+oyl moulten to a ſoft Salve; If it be ſoft, then ſtop it with Sope and the
+Aſhes of a burnt Felt mixed together; if the Hoofs be hard, lay hot burnt
+Cinders upon them, and then ſtop them with Tow and Tallow. And generally for
+the preſerving of all good Hoofs, anoint them daily with the ſward of Bacon.
+
+### 5.265. CCLXVI. Of the Blood Spavin, or Hough bony, or any other unnatural
+Swelling; from what cauſe ſoever it proceedeth.
+
+THeſe two are Puſtules, or ſoft round Swel­lings; the firſt is of the inſide
+of the hinder Hough, and the other on the very huckle of the Hough, they are
+ſoft and very ſore: The Cure is firſt to bind up the Vein above, and let it
+blood only from below, then having tyed it faſt with two Shoomakers ends on
+both ſides, then ſlit the Vein in two pieces, then take Linſeed and bruiſe it
+in a Mortar, mix it with Cow dung, and heat it in a Frying pan, and ſo apply
+it to the ſwelling only, and if it break and run, then heal it with a plaiſter
+of Pitch, and the Horſe will never be troubled with a Spavin more. But if the
+ſwelling come by ſtrain or bruiſe, then take Pitch greaſe and melt it, anoint
+the Sore therewith holding a hot Iron near it to ſink in the Greaſe then fold
+a Linnen cloth about it, and it will aſſwage all Swellings whatſoever.
+
+[[Page 297]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=162)
+
+### 5.266. CCLXVII. Of Wounds in the Feet, as Gra­velling, Pricking, Fig,
+Retrait, or Cloying.
+
+IF your Horſe have any wound in his Foot, by what miſchance ſoever, you ſhall
+firſt ſearch it, to ſee if it be clear of any Nails point, or other Splent to
+annoy it, then waſh it very well with White-wine and Salt, and after tent it
+with the Oyntment called Aegyptiacum, and then lay hot upon the tent, Flax or
+Hards, with Turpentine oyl and Wax mingled together, and anoint all the Hoof
+on the top and Cornet, with Bole-Armoniack and Vinegar, do this twice in a day
+till the ſore be whole.
+
+### 5.267. CCLXVIII. Hurts on the Cornet, as the Quit­terbone or Matlong.
+
+THe Quitterbone, is a hollow Ulcer on the top of the Cornet, and ſo is the
+Matlong: And the Cure is, firſt to tent it with Verdigreaſe till you have
+eaten out the Core, and made the wound clean, then you ſhall heal it up with
+the ſame Salve that you heal the Scratches.
+
+### 5.268. CCLXIX. To draw out a Stub or Thorn.
+
+TAke the herb Ditany, and bruiſe it in a Mortar with black Sope, and lay it to
+the Sore: and it will draw out the Splint, Iron or Thorn.
+
+[[Page 298]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=163)
+
+### 5.269. CCLXX. Of the Anbury, or Tetter.
+
+THe Anbury is a bloody Wart on any part of the Horſes body, and the tetter is
+a Can­kerous Ulcer like it. The Cure of both, is an hot Iron, to ſear the one
+plain to the Body, and to ſcarifie the other; then take the juyce of Plantain
+and mix it with Vinegar, Hony, and the powder of Allom, and with it anoint the
+Sore till it be whole.
+
+### 5.270. CCLXXI. Of the Gords or String-halt.
+
+THis is an unnatural binding of the Sinews, which imperfection a Horſe brought
+into the world with him, and therefore it is certain it is incurable, and not
+painful, but an Eye-ſore; yet the beſt way to keep it from worſe
+incon­venience, is to bath his Limbs in the Decoction of Coleworts.
+
+### 5.271. CCLXXII. Of Spur-galling, and fretting the Skin and Hair.
+
+FOr this there is nothing better than Piſs and Salt, and to waſh the Sore
+therewith daily.
+
+### 5.272. CCLXXIII. Of Sinews being cut.
+
+IF the Horſe Sinews be cut, take the leaves of wild Nep or Woodbine, and beat
+them in a Mortar with May-Butter, apply it to the place and it will knit the
+Sinews.
+
+[[Page 299]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=163)
+
+### 5.273. CCLXXIV. Of Knots in the Joynts.
+
+PAtch greaſe applied as is afore ſhewed for Swellings, will take away any hard
+knot in the fleſh, or upon the Sinews.
+
+### 5.274. CCLXXV. Of Venemous Wounds, or bitings with a Mad Dog, Tuſhes of a
+Boar, Ser­pents, or ſuch like.
+
+FOr any of theſe Mortal or venemous wounds, take Yarrow, Calamint, and the
+Grains of Wheat, and make it into a Salve, and lay it to the Sore, and it will
+heal it ſafely.
+
+### 5.275. CCLXXVI. Of Lice or Nits.
+
+THe filthineſs of Vermine, is bred in a Horſe through unnatural diſlike and
+poverty; The Cure is, take the juyce of Beets and Staves-acre beaten together,
+and with it anoint the Horſes Body all over, and it will make him clean.
+
+### 5.276. CCLXXVII. Of defending an Horſe from Flies.
+
+TAke the juyce of Pellitory of Spain, and mixing it with Milk, anoint the
+Horſes bell therewith, and no Flies will trouble him.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=164)
+
+### 5.277. CCLXXVIII. Of broken Bones, or Bones out of Joynt.
+
+AFter you have placed the bones in the true place, take the Root of Oſmond and
+beat it in a Mortar with the oyl of Swallows, and anoint all the Member
+therewith, then ſplent it, and roul it up, and in fifteen daies the bones will
+knit and be ſtrong.
+
+### 5.278. CCLXXIX. A moſt famous Receipt, to make an Horſe that is lean, and
+full of inward ſickneſs, ſound and fat in fourteen daies.
+
+TAke of Wheat-flower ſix pound, Anniſeeds two ounces; Cummin-ſeeds ſix Drams,
+Carthamus one Dram and a half, Fenygreek ſeeds one ounce two Drams, Brimſtone
+one ounce and a half, Sallet oyl one pint, Hony one pound and a half, White-
+wine a pottle: this muſt be made into a Paſt, the hard ſimples being beaten
+into a Powder, and finely ſearced and kneaded together, and ſo made into Balls
+as big as a mans fiſt, then every morning conſume one of theſe Balls in his
+cold water that he drin­keth Morning, and Evening, for fifteen dayes together;
+and at firſt, if he be dainty to drink the water, yet care not, but let him
+faſt till he drink it, and after he begins to take it, he will drink it with
+great greedineſs.
+
+FINIS.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=164)
+
+## Appendix A Books, Printed and Sold by Henry Twyford,
+
+  * ANderſon's Reports in 2 Vol. fol.
+  * Bendlows Reports fol.
+  * Bulſtrods, and Bridgmans Reports fol.
+  * Lord Cokes 12th. and 13th. Reports fol.
+  * Herns Pleader fol.
+  * Huttons, Latches, and Lanes Reports fol.
+  * Ryleys Records of the Tower fol.
+  * Shepards Grand Abridgm. fol.
+  * Shepards Aſſurances, Practical Counſellor and Law of Pleadings fol.
+  * Styles Reports, and Owens Reports fol.
+  * Towneſends Tables fol.
+  * Wingates Maxims of Law fol.
+  * Manley on Cowels Interpreter fol.
+  * Dukes Law of Charitable uſes.
+  * Aſtons Placita Latina Rediviva.
+  * Brownlows Declarations, and Judicial Writs.
+  * Brownlows Reports, firſt and ſecond part.
+  * Compleat Clerk.
+  * Gregories Moote Book Engliſh.
+  * Hughes Grand Abridgment 3. Vol.
+  * Hughes of Original Writs.
+  * Shepards Marrow of Law, and Touchſtone.
+  * Brevia Selecta.
+  * Brooks Reading on Limitations.
+  * Clerk of Aſſiſes, and Clerk of the Peace.
+  * City Laws. Cokes Copy-holder.
+  * Compleat Attorney and Solicitor.
+  * Sir John Davis of Impoſition.
+  * Wingates Body of Law with Summary.
+  * Hawks Grounds of Law.
+  * Plowdens Abridgment.
+  * Book of Judgments in the Kings Bench.
+  * Kitchin of Courts Engliſh.
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=165)Lord Leigh of Wards and Liveries.
+  * Lamberts Duties of Conſtable.
+  * Shepards ſure Guide for Juſtices.
+  * Manleys Abridgment of Cokes 12th. and 13th. part.
+  * Wingates Abridgment, and Body of Law.
+  * Manbys Continuation of Wingate.
+  * Practica Walliae.
+  * Shepard of Corporations.
+  * Stones Reading on Bankrupts.
+  * Judges Reſolution on the Stat. of Bankrupts.
+  * Practice of the Exchequer.
+  * Vernons Conſideration on the Exchequer.
+  * Juſtice reſtored.
+  * Philips Principles of Law.
+  * Landlords Laws.
+  * Youngs Vade Mecum of Juſtice.
+  * Arcana Clericalia.
+  * Herns Law of Conveyances, and Modern Aſſurancer
+  * Gentlemans Jockey, and Cow Leech.
+  * Hiſtory of Italy.
+  * Burtons Antiquities of England.
+  * Miniſter of State firſt and ſecond part.
+  * Howels Londinopolis.
+  * Hiſtory of Swedeland and Poland.
+  * Grotius Annals.
+  * Wingates Clerks Tutor to Arethmatick.
+  * Chymical Galeniſt.
+  * Counteſs of Arundels Secrets.
+  * Sir John Finnets Obſervations on Forraign Ambaſ­ſadors.
+  * Life of St. Paul.
+  * Private Devotion.
+  * Diſcontented Collonel. Playes.
+  * The Step-mother. Playes.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=165)
+
+## Appendix B Books Printed for, and Sold by Nathaniel Brook, at the Angel in
+Cornhil near the Royal Exchange.
+
+  * THe admired Piece of Phyſiognomy, Chiromancy, Metopoſcopy, &c. fitted for Gent. By Richard San­ders. Fol. Price 12. s.
+  * The ſo well entertain'd Work, The new World of Engliſh made Words, &c. By E. P. Gent. Fol. 10 s.
+  * Mar [...] clauſum, or, the Right and Dominion, or Owner­ſhip of the Britiſh Seas, &c. Fol. pr. 10 s.
+  * Dr. Gells Remaines, or his notes on the new Teſtament. in Fol. pr. 30 s.
+  * Chriſtian Religions Appeale to the Bar of common Reaſon, a very Learned piece by J. Smith. of Colcheſter. Fol. pr. 12 s.
+  * The ſphear of Mouilius with very large and learned Notes, illuſtrated with Cuts, by E. Sherborn. Eſq Fol. pr. 30 s.
+
+Quarto.
+
+  * The Conveiancer's Light, or, The Compleat Clerk, &c. 12 s.
+  * Don Juan Lamberto, a Comical Hiſtory of the late paſt times in Droll. 1 s.
+  * A Treatiſe of Taxes and Contributions, very requi­ſite for ſtateſmen, &c. 1 s
+  * A new deſcription of the Country of Surinam.
+  * The Ingenious Satyr againſt Hypocrites.
+  * The Batchelors Banquet, or fifteen degrees of Marriage.
+
+Large Octavo,
+
+  * Moderne Fortifications, with Braſs cuts by Sr Jonas Moore, pr. 2 s. 6 d.
+  * Latin Primitives and Derivatives after their termination. by Jo Goad. Mr of Marchanttaylors Schoole 1 s. 6 d.
+  * A Phyſical and Anatomicall Treatiſe of the Nature and office of the Pancreatick Iuyce through the Body of man▪ by J. P. M D. pr. 2 s.
+  * The Practical Gauger; A plain method for Gauging allſort, of Veſſels by Jo Mayne.
+  * Arithmetick, made eaſie, &c. By Sr. Jonas Moor.
+  * Baker's Arithmetick, &c. 2 s. 6 d.
+  * Fax novn Linguae Latinae, A new Torch to the Latin Tongue, &c. 8 s.
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=32605&page=166) Abce darium Scholaſticum, or the Grammar Scholars Ab­cedary, &c. 1 s. 6 d.
+  * The Pſalms of K. David Paraphraſed, by M. Smith. 3\. s.
+  * Culpepers Laſt Legacy to his Wife, &c. 2 s. 6 d.
+  * Culpepers School of Phyſick.
+  * Culpepers Semeiotica Uranica, or his Judgment upon Di­ſeaſes, &c. 2 s. 6 d.
+  * The accompliſhed Cook, the beſt in the Kingdom. 5 s.
+  * Wits Interpreter, with Addition of theſe Courtly Games, viz. L'hombre, Piquer, Cheſs, Gleek, and Crib­bidge, &c. pr. 5 s.
+  * Loveday's Letters newly Reprinted. 2 s. 6 d.
+  * The Compleat Midwives practice enlarged.
+  * The Hiſtory of the Turkiſh Wars, &c. 2 s.
+  * A Store houſe to the Latin Tongue, &c.
+  * The Glories and Triumphs of his Majeſty Charles the Second, 2 s.
+  * A Plat form for purchaſers, rules for Building 2 s. 6 d.
+  * An Hiſtorical Eſſay, endeavoring to ſhew, that the Language of China is the primitive Language; by J. Web Eſq. 2 s.
+
+Small octavo and Twelves.
+
+  * A Treatiſe of Contentation, fit for theſe ſad times, by the Reverend Bp Hall. &c. 1 s.
+  * The natural Hiſtory of Nitre, by W. C. 1 s.
+  * The art of Simpling, &c. by W. Coles. 1 s.
+  * The Queens cloſer opened, 2 s. 6 d.
+  * Juvenal and Perſius, Farnaby's Notes.
+  * Farnaby's Phraſes.
+  * Dux grammaticus, per John Clark.
+  * The fearful State of Francis Spira. 8 d.
+  * Adagia Scotica, Scotch Proverbs, &c. 6 d.
+  * A Diſcourſe of the Small Pox &c. by Dr. T. W.
+  * Cockers New Copy-Book, or Englands Penman.
+  * A new and exact Map of the world, &c.
+  * A large and exact Map with a true Deſcription of the City of London, in cloth, &c. 12 s.
+  * Cleavelands Poems Enlarged, &c. 2 s. 6 d.
+  * Dr. Bunworth on the French Diſeaſe.
+  * The Royal Buckler, or Lectures for Traitors.
+  * An Epitome of Barclays Summum Bonum.
+  * The Life of Dr. Thomas Fuller, &c.
+  * Danger of Apoſtatizing to the Romiſh. Religion.
+
+[Home](/)
+
+Halfpenny, John, 18th cent.. Date: 1676  
+

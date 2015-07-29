@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Open Sans, ans-serif;
+  font: 13.34px Open Sans, sans-serif;
   font-size: medium;
   text-align: left;
 }
@@ -78,7 +78,7 @@ a:hover   { color: #000;
 }
 
 .header a {
-  font-family: Droid Serif, serif;
+  font-family: Open Sans, sans-serif;
   font-weight: bold;
   text-decoration: none;
 }
@@ -89,7 +89,7 @@ a:hover   { color: #000;
 }
 
 .title a {
-  font-family: Droid Serif, serif;
+  font-family: Open Sans, sans-serif;
   color: #33CC33;
   font-size: 120%
 }

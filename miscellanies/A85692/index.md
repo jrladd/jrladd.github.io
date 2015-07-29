@@ -1,0 +1,281 @@
+---
+layout: default
+---
+## (unknown project)
+
+# The gang or The nine worthies and champions, Lambert, &c. To the tune of
+Robin Hood.
+
+## Table of contents
+
+  * 1\. THE GANG OR THE NINE WORTHIES AND CHAMPIONS, LAMBERT, &c.
+    * 1.1. The ſecond Part.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=163653&page=1)
+
+## 1\. THE GANG OR THE NINE WORTHIES AND CHAMPIONS, LAMBERT, &c.
+
+To the Tune of ROBIN HOOD
+
+IT was at the Birth of a Winters morn,
+
+With a Hey down down a down down,
+
+Before the Crow had piſt,
+
+That nine Hero's in ſcorn
+
+Of a Parliament forlorn,
+
+Walk'd out with Sword in fiſt.
+
+Johnne Lambert was Firſt, a dapper Squire,
+
+With a Hey down, &c.
+
+A mickler man of might
+
+was ne're in York-ſhire;
+
+And he did conſpire
+
+With Vane Sir Harry a Knight.
+
+Desborow next, a goodlier ſwain,
+
+With a Hey down, &c.
+
+An Eaſter Sun nere ſee;
+
+He drove on a main
+
+Without any brain,
+
+Such a jolthead knave was he.
+
+Kelſey was a brave button-maker,
+
+With a Hey down, &c.
+
+As ever ſetmould upon ſcewer;
+
+And this wiſe-Aker
+
+Was a great pains taker,
+
+T'make Lamberts Noſe look blewer.
+
+The Devout and Holy Major Creed,
+
+With a Hey down, &c.
+
+I known't of what Faith or Sect,
+
+Had mounted a Steed,
+
+And vow'd he would bleed
+
+'Fore Lambert ſhould be checkt.
+
+Duckenfield (Steel was nere ſo true,)
+
+With a Hey down, &c.
+
+And as wiſe as ere was Toby
+
+Lay in the Purlew.
+
+The Cock-pit Avenue,
+
+To hinder the Speakers Go-by.
+
+A man of Stomack in the next Deal,
+
+With a Hey down, &c.
+
+Was hungry Colonel Cobbet,
+
+He would eat at a Meale,
+
+A whole Commonweale,
+
+And make a Joint but a Gobbet.
+
+The following Champion is Barrow,
+
+With a Hey down, &c.
+
+An Ominous name for a Swine-Herd,
+
+He flew like an Arrow,
+
+Thither, whence Lord Harry
+
+But durſt not draw his Whinyeard.
+
+Room for Packer a toyling Ditcher,
+
+With a Hey down, &c.
+
+He had ſet his Spade on edge,
+
+He hop't to be Richer
+
+By being a Britcher
+
+And Lambert his Stake in the hedge.
+
+For Nobilities ſake we may not forget,
+
+With a Hey down, &c.
+
+That Valiant Mars his true Son,
+
+His Cobling Feat,
+
+Lack't a Parliament Seat
+
+That Marks-man one eyed Hewſon.
+
+Theſe being aided with Red Coat & Creepers,
+
+With a Hey down, &c.
+
+After a ſhort Diſpute
+
+The Liberty Keepers,
+
+Were made boo-peepers
+
+And the Speaker ſtrucken Mute.
+
+But well ſaid Sir Arthur, what time of the day?
+
+With a Hey dewn, &c.
+
+The Parliament's now in their Prime
+
+They ſtand at a Bay,
+
+And have miſt their Prey
+
+And Cowardly curſe the time,
+
+### 1.1. The ſecond Part.
+
+Now Johnne is gone to the North Country.
+
+With a Hey down, &c.
+
+And glad he is to Retire,
+
+He crys Cramme O Cree,
+
+Have mercy on me
+
+My tail is ſet a Fire,
+
+And Desborough gotten into his Farm.
+
+With a Hey down, &c.
+
+Untill they doe him need
+
+'Meant the Houſe no harm,
+
+But took it for a Barn
+
+His Lord & he's not agreed.
+
+Kelſey is praying for the Dole,
+
+With a Hey down, &c.
+
+Of the Hoſpital thats Suttons
+
+He is out of the Roll,
+
+And hath ne're a Loap-Hole
+
+And now his Arſe maks Buttons.
+
+And Creed will now believe Sir Arthur,
+
+With a Hey down, &c.
+
+His Steed is Chop't for a Jade
+
+He will be a Carter,
+
+Before a Martyr,
+
+And is turned Renegade.
+
+Duckenfeld's in a pitiful Caſe,
+
+With a Hey down, &c.
+
+The Speakers Horſes and Coach,
+
+Were at ſtake with the Mace,
+
+And he's thrown Aums Ace
+
+Tyburn owes him a reproach.
+
+By being too greedy Colonel Cobbet,
+
+With a Hey down, &c.
+
+H [...]s got a Bone in his throat
+
+He hath ſighed and ſobbed
+
+And grievouſly throbbed,
+
+But it will not help the choak.
+
+Pray take your turn too Mr. Barrow,
+
+With a Hey down, &c.
+
+What think you of your Plot?
+
+Your Sow would not Farrow,
+
+The Hang-mans Harrow
+
+That Hurdle will be your Lot.
+
+Tye him up DƲN, 'tis Goodman Packer,
+
+With a Hey down, &c.
+
+That would ſet up another Noſe
+
+Had he been a Backer
+
+As Colonel Hacker,
+
+H'ad liv'd in ſpight of his Foes.
+
+Hewſon's Companions as ſcabby as Coots,
+
+With a Hey down down a down down.
+
+Have infected him with the mange,
+
+They have piſt in his boots,
+
+He muſt cry roots,
+
+And TƲRN OƲT to Turnup muſt change.
+
+## Appendix A
+
+London, Printed for Charls Guſtavus.
+
+[Home](/)
+
+Date: 1660  
+

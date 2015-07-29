@@ -1,0 +1,353 @@
+---
+layout: default
+---
+## (unknown project)
+
+# Robin Hood newly reviv'd. To a delightful new tune.
+
+## Table of contents
+
+  * 1\. Robin Hood newly reviv'd.
+    * 1.1. The Second Part,
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=174585&page=1)
+
+## 1\. Robin Hood newly reviv'd.
+
+To a Delightful New TUNE.
+
+_[figure]_
+
+COme liſten a while you Gentlemen all,
+
+with a hey down down a down down,
+
+That are in this Bower within,
+
+for a ſtory of gallant bold Robin Hood
+
+I purpoſe now to begin.
+
+What time of the day, qd. Robin Hood then,
+
+with a hey down, &c.
+
+Quoth little John, 'tis in the prime,
+
+why then we will to the green wood gang,
+
+For we have no victuals to dine.
+
+As Robin Hood walkt the forreſt along,
+
+with a hey down, &c.
+
+It was in the midſt of the day,
+
+there was he met with a deft young man,
+
+As ever walkt on the way.
+
+His Doublet was of ſilk, he ſaid
+
+with a hey down, &c.
+
+His ſtockings like ſcarlet ſhone,
+
+and he walkt on along the way
+
+To Robin Hood then unknown.
+
+A herd of Deer was in the Bend,
+
+with a hey down, &c.
+
+All feeding before his face,
+
+now the beſt of ye i'le have to my dinner,
+
+And that in a little ſpace.
+
+Now the ſtranger he made no mickle ado
+
+with a hey down, &c.
+
+But he bends a right good Bow,
+
+and the beſt Buck in the Herd he flew,
+
+Forty good yards him fr [...].
+
+Well ſhot, well ſhot, qd. Robin Hood then,
+
+with a hey down, &c.
+
+That ſhot it was ſhot in time,
+
+and if thou wilt accept of the place,
+
+Thou ſhalt be a bold Yeoman of mine.
+
+Go play the Chiven, the ſtranger ſaid,
+
+with a hey down, &c.
+
+Make haſte and quickly go,
+
+or with my fiſt beſure of this,
+
+I'll give thee buffets ſtore.
+
+Thou had'ſt not beſt buffet me, ſaid Ro. Hood,
+
+with a hey down, &c.
+
+For though I ſeem forlorn,
+
+yet I can have thoſe that will take my part
+
+If I blow but my horn.
+
+Thou waſt not beſt wind thy horn, the ſtranger ſaid.
+
+with a hey down, &c.
+
+Be'eſt thou never ſo much in haſte,
+
+for I can draw out a good broad ſword
+
+And quickly cut the blaſt.
+
+Then Robin Hood bent a very good bow,
+
+with a hey down, &c.
+
+To that ſhot and he would fain,
+
+the ſtronger he bent up a noble bow
+
+To ſhoot at bold Robin again.
+
+O hold thy hand, hold thy hand, qd. Ro. Hood,
+
+with a hey down, &c.
+
+To ſhoot it would be in vain,
+
+for if we ſhould ſhoot the one at the other,
+
+The one of us muſt be ſlain.
+
+### 1.1. The Second Part,
+
+to the ſame Tune.
+
+BVt let's take our ſwords and our  [...]ro [...]d  [...]u­  [...]klers,
+
+with a hey down &c.
+
+And gang under yonder tree;
+
+as I ho [...]e to be ſa [...]'d (the ſtranger ſaid)
+
+One foot I will not flee.
+
+Then Robin Hood lent the ſtranger a blow
+
+with a hey down, &c.
+
+Moſt ſcared him out of his wit;
+
+thou never felt blow (the ſtranger ſaid)
+
+That ſhall be better quit.
+
+The ſtranger he drew our a good broad ſword,
+
+with a hey down, &c.
+
+And hit Robin on the crown,
+
+that from every hair of bold Robins head
+
+The blood ran trickling down.
+
+God-a-merry good fellow (qd. Ro. Hood then)
+
+with a hey down, &c.
+
+And for this that thou haſt done,
+
+tell me good fellow what thou art,
+
+Tell me where thou doſt woon.
+
+The ſtranger then anſwered bold Ro. Hood,
+
+with a hey down, &c.
+
+I'le tell thee where I did dwell;
+
+in Maxfield was I born and bred,
+
+My name is young Gamwel.
+
+For killing of my fathers Steward,
+
+with a hey down, &c.
+
+I am forc'd to this Engliſh Wood,
+
+and for to ſeek an Vncle of mine,
+
+Some call him Robin Hood.
+
+But art thou a Couzen of Robin Hoods then?
+
+with a hey down, &c.
+
+The ſoone [...] we ſhould have done,
+
+as I hope to be ſav'd (the ſtranger then ſaid
+
+I am his own ſiſters ſon.
+
+But Lord what kiſſing & courting was there
+
+with a hey down, &c.
+
+When theſe two Couzens did meet,
+
+and they went all that ſummers day
+
+And little John did meet.
+
+But when they met with little John,
+
+with a hey down, &c.
+
+He thereunto did ſay:
+
+O Maſter where have you been
+
+You have tarried ſo long away?
+
+I met with a ſtranger (qd. Robin Hood then)
+
+with a hey down, &c.
+
+Full ſore he hath beaten me;
+
+then i'le have about with him (qd. little John)
+
+And try if he can beat me.
+
+Oh no, Oh no (quoth Robin Hood)
+
+with a hey down, &c.
+
+Little John it may not be ſo,
+
+for he is my own dear ſiſters ſon,
+
+And Couzens I have no mo.
+
+But he ſhall be a hold Yeoman of mine,
+
+with a hey down, &c.
+
+My chief Man next to thee,
+
+and I Robin Hood, and thou little John,
+
+And Scarlet he ſhall be.
+
+And we'll be three of the braveſt Out-laws
+
+with a hey down, &c.
+
+That is in the North-Country.
+
+if you'll have any more of bold Robin Hood,
+
+In this ſecond Part it will be.
+
+Then bold Ro. Hood to the North he would go,
+
+with a hey down, &c.
+
+VVith valour and mickle might,
+
+with ſword by his ſide which oft had bin try'd
+
+To fight and recover his right.
+
+The firſt that he met with was a bold Scot,
+
+with a hey down, &c.
+
+His ſervant he ſaid he would be;
+
+no, qd. Robin Hood, it cannot be good,
+
+For thou wilt prove falſe unto me.
+
+Thou haſt not been true to Sire nor Cuz,
+
+with a hey down, &c.
+
+Nay, marry, the Scot he ſaid,
+
+as true as your heart i'le never part,
+
+Gude Maſter be not afraid.
+
+Then Robin Hood turn'd his face to the Eaſt,
+
+with a hey down, &c.
+
+Fight on my merry men ſtour,
+
+our caſe is good quoth brave Robin Hood,
+
+And we ſhall not be beaten our.
+
+The Battle grows hot on every ſide,
+
+with a hey down, &c.
+
+The Scotch-man made great moan,
+
+quoth Jockey gude ſaith they fight on each ſide
+
+Would I were with my Wife Joan.
+
+The Enemy compaſt brave Robin about,
+
+with a hey down, &c.
+
+'Tis long e're the battel ends,
+
+there's neither will yield, nor give up the field
+
+For both are ſupply'd with friends.
+
+This ſong it was made in Robin Hoods days,
+
+with a hey down down a down down,
+
+Let's pray unto Jove above,
+
+to give us true peace, that miſchief may ceaſe,
+
+And war may give place unto love.
+
+## Appendix A
+
+Printed for Alex. Milbourn at the Stationers-Arms in Green-Arbor-Court in the
+Lit­tle Old-Baily.
+
+[Home](/)
+
+Date: 1682-1700?  
+

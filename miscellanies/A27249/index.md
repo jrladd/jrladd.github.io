@@ -1,0 +1,418 @@
+---
+layout: default
+---
+## (unknown project)
+
+# Mr. Bee's answer to Mr. Poole's second vindication of his Design for
+printing A synopsis of criticall and other commentators
+
+## Table of contents
+
+  * 1\. Mr. Bee's Anſwer to Mr. Poole's Second Vindication of his Deſign for Printing A Synopſis of Criticall and other Commentators.
+  * 2\. An Advertiſement concerning Mr. POOLE'S Synopſis, &c.
+
+[[Page 1]](http://eebo.chadwyck.com/downloadtiff?vid=98363&page=1)
+
+## 1\. Mr. Bee's Anſwer to Mr. Poole's Second Vindication of his Deſign for
+Prin­ting A Synopſis of Criticall and other Commentators.
+
+WEre it not that Mr. Bee had received the Character of Mr. Poole, to be a
+confident and reſt­leſs man in his way, he ſhould have very much wondred to
+have found him publiſhing a new Vindication of his Deſign, &c. for Mr. Bee
+really believed the ſtrength and reaſon of his former Paper, in Anſwer to what
+Mr.Poole and all his Friends were able before to ſay, would have ſatisfied,
+and once more ſilenced him, and ſaved both parties the farther trouble of
+multiplying Replies upon the preſent Difference. But ſince Mr.Poole has again
+gone a­bout to abuſe the World with a ſecond Paper, which he calls by the ſame
+name as he did his former, (and well he may ſo doe, ſince it conſiſts in ſo
+great meaſure of mere vain and needleſs Repetitions of what he had formerly
+written, and what Mr.Bee had formerly as fully anſwered; the reſt of it being
+made up of notorious Falſities, Miſtakes wilfull or of Ignorance, ſomething of
+Abſurditie, an impertinent Flaſh or two of Wit, and Confidence more then
+ſufficient through the whole) Mr. Bee is re­ſolved not to be behind-hand with
+him in juſtifying his Right and Propriety, and therefore to Mr.Poole's Se­cond
+Vindication returns this Anſwer, (if at leaſt any Senſe and Reaſon will paſs
+with Mr.Poole for an Anſwer.)
+
+1\. For his firſt Clauſe, of conſulting with able Lawyers, and receiving their
+Judgement in favour of his De­ſign; Mr. Bee thinks he hath ſufficiently
+anſwered that already; that one Story may be good till another be heard, that
+he hath alſo the Judgement of very able Lawyers againſt the Deſign, and that
+if Mr. Bee himſelf were fairly and fully to ſtate the Caſe to thoſe very
+Gentlemen named by Mr. Poole, he nothing doubts but, upon a clear ſight of the
+Pretenſions and Grounds on both ſides, they would be ready to entertain
+favourable thoughts to his Right in the Buſineſs controverted.
+
+2\. For Mr. Poole's Offer to refer all to Arbitration, &c. and Mr. Bee's
+Refuſall; Mr. Bee has confeſſed it, and given a Reaſon for it ſufficiently
+good to ſatisfie any Rational man. For the grand Abſurdity Mr. Bee is guilty
+of, neither Mr.Bee nor any body elſe can tell where it lies. Mr. Poole ſaies,
+It was not to be referr'd whether the CRITICI SACRI were Mr. Bee's; but what
+Right Mr.Bee had in Mr. Poole's Collections out of them and many others. Mr.
+Bee anſwers, that Mr. Poole's Collections out of the CRITICKS were Mr. Bee's
+juſt Right, as being his Authours in part; and for his many others, they could
+be no ground of any Reference, ſince he never laid Claim to them, nor had any
+thing to ſay to them. So that Mr. Bee's Authours in part (which Mr. Poole
+calls his Collections) were the thing to be referr'd, whether they were Mr.
+Poole's or Mr. Bee's Right. And where now lies the Abſurdity? Whereas Mr.
+Poole ſaies he offered an Equivalent, a greater proportion of Materials, and I
+know not how much Care and Pains in contriving and digeſting the whole: Mr.
+Bee anſwers; for his Pains he may thank himſelf, if he would be buſier then he
+needed, and run his Plow into another man's Ground upon his own head. What his
+Care was, Mr. Bee knows not; but when Mr.Bee ſhall have knock'd off Mr.
+Poole's fingers from meddling at all with his CRITICKS, and Mr. Poole ſhall
+have given his Subſcribers two or three more ſuch Slurrs as he has done by
+quitting the Biblia Maxima, one of his beſt Materials, which he formerly
+promiſed to bring in, but  [...]ow declares he will let alone, (ſo that they
+know not what they pay their Money for) Mr. Bee thinks by that time he may
+have his Labour for his Care and Pains. For the reſt of his Materials Mr. Bee
+knows not what they are: but were they of never ſo much worth and credit, when
+Mr.Bee ſaies he'll have nothing to doe with them, and Mr. Poole's other
+colle­ctions are his own already, how can Mr.Bee or any man elſe look upon
+this as an Equivalent? So that Mr.Bee goes on to declare, that Mr.Poole may as
+well religiouſly Epitomize his Purſe upon the High-way, as goe about by theſe
+crooked and ſiniſter Artifices to extort his unqueſtionable Right out of his
+hands, and all (as he pre­tends) for the Glory of God. That Mr.Bee never choſe
+above one perſon to any Meeting, and that one declar'd himſelf unſatisfied
+with Mr.Poole's Profer, Mr. Bee again affirms. And whereas Mr. Poole threatens
+never to offer the like Terms again; Mr.Bee cannot help it, but deſires
+Mr.Poole not to trouble his head about that, till ſuch time as he ſhall ſend
+to him, and beg ſuch a Favour of him.
+
+3\. For Mr. Bee's Ʋnrighteouſneſs, and his bringing down the Prices of Books
+to the loſs and prejudice of many Scholars, (if there be any ſo prejudiced)
+there needs no new Anſwer. But whereas Mr.Poole ſaies, If theſe Loſſes and
+Injuries be expiated by the Serviceableneſs of Mr.Bee's Deſign to the publick
+good, why may not he have the benefit of the ſame Plea? Mr.Bee anſwers,
+Becauſe Mr. Poole has not that true and juſt Title to the Copies he pretends
+to as himſelf had. For Mr.Bee meddled with no Authours that any Engliſh­man
+could claim a Right in, without firſt making them Satisfaction: But Mr. Poole
+declares to take his princi­pal Materials out of thoſe Authours that Mr.Bee
+has made himſelf a Legal Title in, and that without his Leave or Conſent, or
+any Conſideration for them. Let Mr.Poole but keep his own ground, and not
+treſpaſs upon the CRITICKS, and let his Epitomizing bring down the prices of
+what Authours he will.
+
+4\. To his fourth Clauſe, (which is moſt of it Crambe) concerning one man's
+Epitomizing anothe [...] Copy without being queſtion'd for it, (as Mr. Poole
+ſaies) Mr.Bee gives his former Anſwer, That Mr.Poole will find no Book in
+England, of one ſort or other, (before the Parliament 1642) printed either in
+whole or part, but either by the right Owner, or with his Conſent and
+Approbation; and the like in any forein ſettled Kingdome, State, or
+Principality. What things have been here ſince done to the contrary, have been
+done beſide Law [[Page
+2]](http://eebo.chadwyck.com/downloadtiff?vid=98363&page=2) and Reaſon. And if
+ſome men in thoſe Arbitrary and Licencious times have not been able to help
+themſelves againſt Ʋſurpers, their caſe was to be pitied, rather then drawn
+into Example. But if any true Proprietors will in theſe daies either wink at
+other men while they pick their Pockets, or be negligent of their own
+Intereſts, when they have the Law open to defend and juſtifie them, or think
+it not worth their while to ſue a Beggar and catch Vermine, or it may be have
+taken Compoſition under-hand, (all which are at leaſt tacit Conſents) why
+ſhould this ſway any thing with Mr. Bee, who never made over the leaſt of his
+Right, nor any way allow'd another to meddle with it, but is reſolved (by
+God's aſſiſtence) to try what the Law will doe for him, which as it is the
+great Diſcerner, ſo the Securer of all mens Proprieties? For Marlorat's
+Epitome, Mr. Bee again averrs, that it was printed at the Charge of the ſame
+Bookſellers that had the Propriety in the Authours he Epitomized, and printed
+by the very ſame Printer. Mr. Poole ſaies, he that looks on the Title-pages of
+thoſe Authours will find this a mere Fiction of Mr. Bee. But let Mr. Poole
+look on the Title-pages of the firſt Im­preſſions of thoſe Authours, (not
+thoſe after-Impreſſions in other Countries which lay out of the bounds of
+their Privileges, and could no way be prevented, as Mr. Bee cannot prevent a
+Diſcourteſie of that nature to him­ſelf in Forein parts, and therefore had
+need to be ſecured by his Grant at home) Let Mr. Poole look on theſe, and he
+will ſoon find Mr. Bee's Tale true, and the Fiction to lie at his own door. By
+that time Mr. Poole has ſerved an Apprenticeſhip to the Trade (as every
+Bookſeller ſhould) he will learn to make this diſtinction: but at preſent he
+is but raw and green in the way. That the Law-Patent-Caſe was determined by
+the Lord Keeper the laſt Term, (by which Mr. Poole muſt mean Hilary Term, for
+this is but the ſame Ʋntruth repeated, which he formerly printed in his firſt
+Paper a little after that Term) Mr. Bee wonders with what face Mr. Poole can
+perſiſt in ſo groſs and palpable a Falſity; when 'tis notoriouſly known that
+in that laſt Term (as he calls it) there was nothing like a Determination, but
+it was onely referr'd to a future Hearing the enſuing Eaſter term, that in
+that Term it was again heard, and again put off, and at this preſent Term
+continues undecided. This all the Town can tell him. Now what eminent Lawyer
+it was that ſhould ſo abuſe Mr. Poole, (if Mr. Poole does not rather abuſe his
+Lawyer) as to aſſure him he was preſent, and heard the Lord Keeper determine
+the Caſe, Mr. Bee cannot imagine, but takes the whole Story for a Caſtle built
+in the Air of Mr. Poole's Fancy, as moſt of what he ſaies beſides ſeems to
+have had its firſt hatching and production there.
+
+5\. Mr. Poole ſaies, he does not pretend to Epitomize the whole CRITICKS. Nor
+does Mr. Bee know how it can be done: for can a man Epitomize, and yet take
+the whole? can he take but parts of a thing, and yet have all? However (as Mr.
+Bee ſaid formerly) he takes all that he judges the beſt, and makes moſt for
+his purpoſe; he takes the Kernell, and leaves the Shell to Mr. Bee for his
+Fifteen thouſand pound. No, ſaies Mr. Poole, there are many material things in
+them not belonging to Expoſition of Scripture, which are valu­able another
+way. But what if Mr. Poole ſhould fall upon another Deſign hereafter, and then
+Collect out of them all that he now leaves behind, by the ſame Law and Reaſon
+that he now thinks to run away with ſo conſiderable a part of them? Mr. Bee
+remembers the Apologue of the old Fox and the young one. A ſorry Fox
+Epitomized a Flock of Geeſe, and brought home a couple of the fatteſt. The
+young ones laugh'd. At dinner ſaies one of them, Mother, they are excellent
+meat; but why did you bring no more of them? Peace, you fool, ſaies the old
+one, I have brought you home two of the beſt, and when occaſion ſerves I know
+where to find the reſt of them. So that Mr. Bee has no Security for the
+Remainder, and all that he has to thank Mr. Poole for is, his Reprieving the
+reſidue of his CRITICKS till his Luſt and Stomach be as ready for them as his
+Conſci­ence is.
+
+6\. His laſt Clauſe divides the Hoof, ſplits into two parts, and behold there
+come forth Twins. The firſt part conſiſts of a Tale of a Tub, the ſecond, with
+the Bottom out.
+
+To the firſt Mr. Bee ſaies, that he underſtands not what Mr. Poole means, when
+he ſaies his Deſign can be no Loſs of any preſent or certain Benefit to Mr.
+Bee. 'Tis true, what is certain and preſent Mr. Bee is ſure of. But this is
+certain at preſent, that the noiſe of Mr. Poole's Project (with divers that
+did not well underſtand the true ſtate of Buſineſſes) has done him ſome
+manifeſt Diſſervice abroad, which Mr. Bee muſt bear as well as he can. And
+whereas Mr. Poole is ſo raſhly confident as to publiſh in print now a ſecond
+time  that ſeveral of Mr. Bee's Partners declare they will not joyn with him
+in a ſecond Impreſſion: why ſhould they declare ſo, when Mr. Bee had never
+propoſed the thing to them? But to ſtop Mr. Poole's mouth for this matter, and
+to ſpoil his game here, let him but reade the following few words as they
+voluntarily came from Mr. Bee's Partners (now living) ſubſcribed with their
+own hands.
+
+We declare that we never refuſed to joyn with Mr. Bee in re-printing the
+CRITICKS, as Mr. Poole falſely chargeth us in his Paper.
+
+  * Richard Royſton.
+  * William Wells.
+  * Sam. Thomſon.
+  * William Morden.
+
+The Original of this Mr. Bee keeps by him, to ſatisfie Mr. Poole upon
+occaſion, or any of his ſcrupling Friends.
+
+But  [...]. Poole goes on, and ſays 'tis generally believed by Scholars and
+Bookſellers, that it is not like to be printe  [...] ▪ He neither tells their
+names, nor where they live. For the generality, Mr. Bee knows it to be falſe:
+and if there be any ſuch that ſo believe, Mr. Bee would know whether ever they
+finger'd Joſeph's Divination Cup, or how they came to dive to the bottom of
+his Thoughts and Intentions. And yet they are groſsly [[Page
+3]](http://eebo.chadwyck.com/downloadtiff?vid=98363&page=2) wide in their
+Gueſſes, which are directly beſides Mr.Bee's Reſolution, (if God permit) to go
+on as vigorouſly as Mr.Poole, according to the Pattern exhibited to the World
+in his late Specimen. But Mr. Poole ſays this Undertaking of Mr.Bee is a work
+of time, charge, and uncertainty. For the Ʋncertainty, Mr. Poole's Deſign is
+equally ſubject to it; and more uncertain in this reſpect, that the Epitomizer
+himſelf ſeems to be ſo uncertain, as not yet to be well reſolved what to take
+in to his Doing, and what to leave out; whereas Mr. Bee's whole Deſign is
+completed and digeſted. For Accidents and Caſualties they are common to both.
+For the Charge of it, let it not trouble Mr.Poole, it ſhall never coſt him a
+farthing. For the Time, Mr. Bee hopes to carry it on with that convenient
+expedition, that poſſibly it may prevent Mr.Poole's, and make a younger
+Brother of it, if it do not in the meanwhile prove Abortive, or ſtifled in the
+Wombe. And whereas Mr. Poole ſays he has a Privilege as well as Mr. Bee, and
+bears himſelf high upon that: Mr. Bee wonders upon the account of what Merit
+he procured it. But how-ever, he hopes Mr.Poole will conſider he is his ſenior
+in Privilege eight years, and that the Scene lies not in Kent, but in
+Middleſex, where Gavel-kind-Law has no footing, but the Elder has the
+advantage and priority of the reſt, that is, the Privilege. Both Mr. Bee and
+Mr.Poole can't have Right to the Eſtate. But if Mr. Bee's Privilege will not
+hold water, and ſecure him from any attempt Mr. Poole can make upon his
+Propriety, what does Mr.Poole think will become of his, if any man ſhould go
+about in a mad humour to Epitomize part or whole (as he phraſes it) of his
+Deſign? If Mr. Bee's Privilege will doe no good, why ſhould Mr. Poole trouble
+himſelf to procure one, which may as well be undermined by another, and that
+by a third, and ſo Mr.Poole be reduced to the ſame condition as he endeavours
+to bring Mr.Bee into, ſmart by his own Rod, and be gull'd of his pretended
+Right after his own Example?
+
+To the ſecond part; Whereas Mr.Poole inſtances in ſeveral Authours Epitomized,
+as Baronius, Raleigh, &c. which yet bear good rates in the World, and
+therefore Mr. Bee's Clamours are groundleſs, &c. Mr. Bee an­ſwers, that there
+are Epitomes which have been undertaken with ſo little diſcretion and
+judgement in the Ma­nagery, that the Undertakers have been laugh'd at and
+hiſs'd off the Stage: and no wonder if thoſe Authours at large have kept their
+Advantage. But for others, Baronius for one, they have been manifeſtly
+obſtructed in their ſales and rates, ſays the old Book-ſeller, what-ever
+Mr.Poole, (who is yet but a Pretender to the Trade) may ſay to the contrary.
+But is there any Authour ſo martyred as Mr. Poole threatens to ſerve Mr.Bee's,
+and yet lives? He pretends to drain and ſuck all the marrow and heart-bloud
+out of the CRITICKS, all that tends any way to the underſtanding of difficult
+places of Scripture, which is the whole Deſign and Life of Mr.Bee's nine
+Volumes? Mr.Poole ſays, Mr. Bee did formerly declare that ſuch a synopſis as
+Mr.Poole's would not prejudice his Work. If Mr. Poole means the Synopſis as he
+has now contriv'd it, to conſiſt two Vo­lumes in three out of his Work,
+there's no man can believe Mr. Bee ſo ſenſleſs as to expreſs himſelf to any
+ſuch purpoſe. All that he ſaid was, if Mr. Poole meddled not with his
+CRITICKS, or if his Deſign were as he firſt repreſented it to Mr.Bee, it would
+not be ſo prejudicial: but ſince he has declared to take one whole Volume, and
+another time no leſs then two, out of them, the caſe is alter'd, and Mr.Bee
+muſt not be underſtood to de­clare a thing ſo manifeſtly tending to his own
+ruine. Whereas Mr.Poole twits Mr. Bee with his conceit of ima­ginary Profit
+which may accrue to him, does not Mr.Poole expect the like in his Undertaking?
+and what may Mr. Bee think of him, who has the real profit and advantage of
+his subſcription-money for ſome moneths at leaſt, if his Deſign goes no
+farther on?
+
+Having gone thus far, Mr.Poole propoſes two ſmart Caſes, which if Mr.Bee
+thought it worth the while he would anſwer. To the firſt of them he ſays onely
+this, That if Mr.Poole will bring his imaginary Reve­rend and Learned Doctour
+out of the Clouds, where he ſuppoſes him to live, and procure a Meeting
+betwixt Mr.Bee and him, Mr. Bee will give him a ſatisfactory Anſwer to the
+wild Quere Mr. Poole makes on his be­half, (whether he may not print a
+Collection gathered out of ſeveral other as well as Mr. Bee's Authours be­fore
+he printed them, (divers of which latter neither Mr.Poole nor his learned
+Doctour had ever ſeen or heard of, had not they found them in the CRITICKS)
+print this Collection, I ſay, which he made for his own private uſe:) but till
+then Mr.Bee will give neither him nor Mr.Poole leave to tamper with any thing
+that has ſo im­mediate a relation to himſelf by way of Propriety.
+
+The other, of Epitomizing Speed, &c. (which Mr. Poole ſaies is exactly his
+Caſe) is as ſhallow: But the main thing that Mr.Bee obſerves by Mr. Poole's
+ramble, from the CRITICKS, to Law-Books, from them to Dictionaries, to
+Hiſtorians, to one thing after another, is this, that Mr.Poole's aim is for
+the levelling of all Propriety in any ſorts of Books whatſoever: and if he be
+not well obſerved in his preſent motion, he (or ſome other of his Friends that
+now lie fallow and have leiſure enough) may ere long attempt farther in
+ſubjects of another nature, eſpecially if he once finde himſelf of ſtrength to
+deal with Mr.Bee in the preſent Diſpute.
+
+But the thing that does moſt of all ſting and nettle Mr. Poole is Mr.Bee's
+challenging him of breach of Pro­miſe before his going into Holland, which
+was, that he would deſiſt in his Deſign till Mr. Bee's return from thence.
+Here Mr.Poole is ſore and winces, and at laſt is ſo far carried as to ſay he
+is ready to contradict Mr. Bee with an Oath, (which it may be for all that he
+would not doe if he were put to it.) He ſays, had any ſuch Promiſe been made,
+Mr.Bee would have put it in his Firſt Paper. That Mr.Bee ſpared him then, was
+out of a reſpect he had to his Coat, (though Mr.Poole's were never perfectly
+black) and the hope he had he ſhould have no occaſion to urge it. But  [...]
+nothing elſe would ſerve the turn, Mr.Bee thought it f [...] to dally no
+longer, but to let the world know how unworthily Mr. Poole had dealt by him.
+So that it was no afternoon-dream, as Mr. Poole waggiſhly ſuggeſts, but a real
+Truth of ſome weeks ſtanding, though then firſt awak'd by Mr. Bee, to the
+confutation of Mr.Poole's boaſt of his great Sincerity and Candour in this
+whole Tranſaction. But let Mr.Poole have a care, that notwithſtanding Mr.
+Bee's afternoon-dream, he be not up time enough in the morning to meet him in
+the firſt full career of his vigorous proceeding, and take the boldneſs to bid
+him Stand. For Mr. Bee's good invention, let any man judge where the Invention
+lies, and who has the beſt [[Page
+4]](http://eebo.chadwyck.com/downloadtiff?vid=98363&page=3) knack that way, by
+the ſeveral Weakneſſes Mr. Poole has been trapp'd in through this whole Paper
+hitherto. When Mr. Poole cites 2 Kings 9\. 11. Mr. Bee is afraid he is beſide
+the Text, and had turned down the wrong leaf, or that he prick'd with a Pin
+for it, as Boys do in a Lottery-Book; otherwiſe Mr. Bee thinks he might have
+as well cited the firſt verſe in Geneſis as that, for any thing that either
+the one or the other concerns the preſent buſineſs. But though Mr. Poole be a
+little obſcure here, yet by and by Mr. Bee queſtions not but to make the World
+know the man and his communication. How much more pertinent had it been for
+Mr. Poole to have turned to another Chapter? where he ſhould have found Ahab,
+a branded man for notorious impie­ty, yet making Conſcience in the caſe of
+another's Vineyard, which he would not ſeize upon either in whole or part
+without firſt profering an equivalent Compenſation? But as to Mr. Poole's
+Promiſe in Jewin Street, Mr. Bee is ready to ſwear, that it was given, and for
+3 months, with thoſe circumſtances which he has rela­ted in his former Paper.
+And though it had the fortune to be a private and unwitneſſed Tranſaction, (as
+Mr. Poole ſaies, who has otherwhile told Mr. Bee, that if a third man ſhould
+at any time come amongſt them, he would hold no diſcourſe of the buſineſs in
+difference betwixt them) yet Mr. Bee has ſufficient witneſs, that after his
+Return from Holland, this Paſſage was betwixt Mr. Poole and him in his Shop.
+Mr. Bee there in diſ­courſe taxed Mr. Poole with faileur in his Promiſe made
+before he went over. Mr. Poole then, as now, de­nied any ſuch Promiſe. What
+was it then, Mr. Poole, ſaid Mr. Bee, that you and I talked of ſo long
+together in Jewin street? Was it not about my buſineſs? And was there nothing
+of a Promiſe mention'd? Mr. Poole at laſt ingenuouſly confeſs'd he promiſed
+for three weeks. This was over-heard and ready to be atteſted by one then at a
+little diſtance from us. Now Mr. Bee leaves it to others to judge, the onely
+ground of the Pro­miſe being his neceſſary occaſion of abſence in the Low-
+Countries about his Concerns, which he then told Mr. Poole would require three
+months time; whether it were to any purpoſe for Mr. Poole to promiſe, or Mr.
+Bee to accept the Promiſe for three weeks, which was all one as if there had
+been no Promiſe at all; and whether it be not probable (there being a Promiſe
+made) it was rather for the whole term Mr. Bee's Occa­ſions required; who, had
+it not been that he had thought himſelf ſecure during his being abroad upon
+Mr. Poole's word paſſed, had at leaſt deferr'd his Voiage till ſome time
+after. But Mr. Poole grows warm, and ſaies he is ready to make Oath before a
+Magiſtrate that he made no ſuch Promiſe. Though Mr. Bee is not a little
+pleaſed to find Mr. Poole ſo far coming on, that at length he can perſuade
+himſelf to be willing to take ſome kind of Oath upon ſome occaſion; yet for
+him, who, after ſome boggling, at laſt refuſed and ſtill ſtands out againſt a
+Subſcription tendered from the great Authority of the Nation, tending ſo much
+to the preſerva­tion of the quiet and peace of the Nation, for him to make his
+firſt Eſſay of Swearing in a Caſe tending to his own private profit and
+advantage, to the manifeſt Detriment of his neighbour, and where Mr. Bee is
+con­fident the Truth ſtands againſt him; Mr. Bee deſires him to conſider
+whether there be not ſomething of his own Gnat and Camel in the caſe.
+
+For Mr. Bee's ſpreading a Report, that Mr. Poole's Work was ſtopp'd; Mr. Bee
+gives this ſhort Anſwer in Mr. Poole's ear: 'Tis falſe. But if any employ'd by
+Mr. Poole to diſperſe his Specimens ſhould accidentally glean up ſuch a ſtory
+in the Coffee-houſe, Mr. Bee cannot help it, nor is he bound to anſwer what
+people ſay in that prattling School. How could Mr. Bee goe about to raiſe ſuch
+a Report, when he knew in his Conſci­ence he neve [...] had mov'd the leaſt
+ſtep towards the ſtopping of it? For as long as Mr. Poole was but onely words
+and Preparations, Mr. Bee never troubled himſelf to meddle with him, or by any
+Application extra­ordinary to diſturb him; neit [...]er is he a man of that
+temper, to impound his neighbour's Cattel till he take them Damage-feaſant.
+Now, is his time to ſtop him; and it may be Mr. Poole may ſoon find it more
+then a Report.
+
+But in the mean while, who raiſed the Report both in the City and
+Univerſities, that Mr. Bee's friends need not make ſuch a ſtir about Mr.
+Poole's unjuſt and hard dealing with Mr. Bee, for Mr. Bee was well ſatisfied
+by Mr. Poole in the buſineſs? Certainly this muſt be either Mr. Poole's doing,
+(the ſtory is ſo falſe) or Mr. Bee knows not where to look the Authour; it
+being probable no unintereſted perſon would concern himſelf to hammer out ſuch
+a notorious invention. It muſt therefore be at leaſt a Sharer in the Synopſis
+of Criticall and other Commentators that firſt contrived it, as Mr. Bee is
+well aſſured it was firſt publiſhed and maintained in the above-named talking
+Academy.
+
+To conclude, let Mr. Poole reſt content with what is his own, and leave Mr.
+Bee to diſpoſe as he thinks good of what is his; let him leave out the
+Critical, and retain his other Commentators: if then Mr. Poole have oc­caſion
+to cite here and there a paſſage out of Mr. Bee's Authours, (for confirmation
+of the Subject he treats on, as he may a Text of Scripture in a Sermon,
+according to the Judgement of one of his Lawyers) Mr. Bee ſhall not be againſt
+it, provided he do it civilly and modeſtly; for Mr. Bee does not love he
+ſhould cite all his Book thus at a time. But if a Synopſis be a Beaſt of that
+nature, to hook and fang in all that lies within its reach for its Maſter's
+advantage, Mr. Bee thinks it not fit to be endured in a Commonwealth where
+Meum and Tuum are in faſhion. It is yet in Mr. Poole's power for him and Mr.
+Bee to part friends, the fault is elſe at his door: but in caſe Mr. Poole
+proceeds in his perverſe humour, Mr. Bee is reſolved (with God's help) to make
+uſe of thoſe Remedies which are proper for the Diſeaſe, and to endeavour by
+the beſt Art he can to put a ſtop to Mr. Poole in his unreaſonable
+proceedings.
+
+> June 10. 1668.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=98363&page=3)
+
+## 2\. An Advertiſement concerning Mr. POOLE'S Synopſis, &c.
+
+THere being ſome ſupernumerary Books printed in reference to forein parts, and
+divers of our own Nation (who in reaſon ſhould be firſt provided for) having
+declared their Diſappointments in their intended Subſcriptions by divers
+accidents, and their deſire to ſubſcribe, if it were not too late; they may
+hereby take notice, that if they ſpeedily come or ſend to Mr. Cornelius Bee's
+at the King's Arms in Little Brit­tain in London, they ſhall be directed and
+aſſiſted to procure the Firſt Volume at the ſame price with the former
+Subſcribers; viz. paying 50 s. in hand, and 15 s. more at the coming forth of
+the Second Volume, and 15 s. more at the coming forth of the Third Volume; for
+which they are to receive the Firſt Vo­lume in hand, and the Second and Third
+Volumes when they ſhall be printed and publiſhed. And any perſon that ſhall
+ſpeedily ſubſcribe or procure Subſcriptions for Ten Books ſhall have one for
+himſelf. And whereas there are ſome few Copies left of the Royall Paper, over
+and above thoſe that were diſpoſed of to Benefactours, thoſe that deſire them,
+paying the double price, (as the manner is in ſuch caſes,) may be furniſhed
+with them. And ſuch as deſire an exchange of their ordinary Books for the
+other of Royal Paper, ſhall be allowed what they pay'd for them: every
+Sub­ſcriber paying 6 d. each Volume for incidentall Char­ges.
+
+March 31. 1670.
+
+  * Matthew Poole.
+  * Cornelius Bee.
+
+[Home](/)
+
+Bee, Cornelius.. Date: 1668  
+

@@ -1,0 +1,18574 @@
+---
+layout: default
+---
+## (unknown project)
+
+# Poems on affairs of state from the time of Oliver Cromwell, to the
+abdication of K. James the Second. Written by the greatest wits of the age.
+Viz. Duke of Buckingham, Earl of Rochester, Lord Bu-------st, Sir John Denham,
+Andrew Marvell, Esq; Mr. Milton, Mr. Dryden, Mr. Sprat, Mr. Waller. Mr.
+Ayloffe, &c. With some miscellany poems by the same: most whereof never before
+printed. Now carefully examined with the originals, and published without any
+castration.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=1)
+
+POEMS ON Affairs of State: FROM The Time of Oliver Cromwell, to the Abdication
+of K. James the Second.
+
+Written by the greatest Wits of the Age.
+
+VIZ.
+
+  * Duke of Buckingham,
+  * Earl of Rochester,
+  * Lord Bu—st,
+  * Sir John Denham,
+  * Andrew Marvell, Esq
+  * Mr. Milton,
+  * Mr. Dryden,
+  * Mr. Sprat,
+  * Mr. Waller.
+  * Mr. Ayloffe, &c.
+
+With some Miscellany Poems by the same: Most whereof never before Printed.
+
+Now carefully examined with the Originals, and Published without any
+Castration.
+
+Printed in the Year 1697.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=2)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=2)
+
+[...]
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=3)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=3)
+
+## THE PREFACE.
+
+THE common aim of Prefaces to prepossess the Reader in favour of the Book, is
+here wholly useless; for what is now publish'd is none of the trifling
+Performances of the Age, that are yet to make their fortune, but a Collection
+of those vaulable Pieces, which several great Men have produc'd, no less
+inspir'd by the injur'd Ge­nius of their Country, than by the Muses. They are
+of Establish'd Fame, and already receiv'd, and allow'd the best Patriots, as
+well as Poets. I am sensible, that should we consult our superficial
+Hy­pocriticks, they would often be apt to arraign the Numbers; for there are a
+sort of Men, who ha­ving little other merit, than a happy chime, would fain
+fix the Excellence of Poetry in the smoothness of the Versification, allowing
+but little to the more Essential Qualities of a Poet, great Images, good
+Sense, &c. Nay they have so blind a Pas­sion for what they Excell in, that
+they will ex­clude all variety of Numbers from English Poetry, when they allow
+none but Iambics, which must by an identy of sound bring a very unpleasing
+sa­tiety upon the Reader. I must own that I am of
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=4) opinion that
+a great many rough Cadencies that are to be found in these Poems, and in the
+admi­rable Paradise Lost, are so far from Faults that they are Beauties, and
+contribute by their variety to the prolonging the pleasure of the Readers. But
+I have unawares faln into this Digression, which requires more time and room
+than I have here to allow to set to it, in that just Light it requires. I
+shall return to the following Poems, writ by Mr. Milton, Mr. Marvell, &c.
+which will shew us, that there is no where a greater Spirit of Li­berty to be
+found, than in those who are Poets; Homer, Aristophanes, and most of the
+inspired Tribe have shewed it; and Catullus in the midst of Caesar's Triumphs
+attack'd the Vices of that great Man, and expos'd 'em to lessen that
+Popularity and Power he was gaining among the Roman People, which he saw would
+be turn'd to the de­struction of the Liberty of Rome.
+
+Quis hoc potest videre, quis potest pati, &c.
+
+And
+
+Pulchre convenit improbis cinaedis
+
+Mamurrae,, Pathicoque, Caesarique.
+
+And again ‘Nil nimium studeo Caesar tibi velle placere, &c.’
+
+But it would be endless to quote all the Liber­ties the Poets have of old
+taken with Ill men, whose Power had aw'd others to a servile Flatte­ry; the
+succeeding Tyrants have not been able to suppress the numerous Instances we
+have yet of it. We have therefore reason to hope that no English­man
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=4) that is a
+true lover of his Countries Good and Glory, can be displeased at the
+publishing a Col­lection, the design of each of which was to re­move those
+pernicious Principles which lead us directly to Slavery; to promote a Publick
+and Generous Spirit, which was then almost a shame to the Possessor, if not a
+certain Ruine. I believe were a man of equal Ability and unbyass'd Tem­per to
+make a just Comparison, some of the fol­lowing Authors might claim perhaps an
+equal share with many of the most celebrated of the Ro­mans or Greeks. I know
+in a Nation so factious as this, where the preposterous Principles of Sla­very
+are run into a point of Conscience and Ho­nour, and yet hold abundance in
+unseasonable and monstrous Divisions, it would be a task that must disoblige
+too many to undertake. But when all Europe is engag'd to destroy that
+tyrannick Power, the mismanagement of those Times, and the selfish evil
+Designs of a corrupt Court had gi­ven Rise to, it cannot be thought
+unseasonable to publish so just an Account of the true sourse of all our
+present Mischiefs; which will be evidently found in the following Poems, for
+from them we may collect a just and secret History of the for­mer Times.
+
+And looking backward with a wise Affright,
+
+See Seams of Wounds dishonest to the Sight.
+
+Oh that we cou'd yet learn, under this Auspi­cious Government founded on
+Liberty, the gene­rous principles of the Publick Good! Sure th [...]s
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=5) Consort of
+Divine Amphions will charm the di­stracted pieces of the publick Building into
+one noble and regular Pile to be the wonder, as well as safeguard of Europe.
+This being the aim of this present Publication, it must be extremely ap­prov'd
+by all true Patriots, all lovers of the gene­ral Good of Mankind, and in that
+most certainly of their own particular.
+
+Omnes profecto liberi libentius
+
+Sumus, quam servimus.
+
+Take off the gawdy veil of Slavery, and she will appear so frightfull and
+deform'd that all would abhorr her: For all Mankind naturally preferr Liberty
+to Slavery.
+
+'Tis true some few of these Poems were print­ed before in loose Papers, but so
+mangled that the persons that wrote them would hardly have known, much less
+have owned them; which put a Person on examining them by the Originals or best
+Co­pies, and they are here published without any Castration, with many curious
+Miscellaneous Po­ems of the same great Men, which never before see the Light.
+
+By mistake of the Printer, the Running Titles of the Sheet G, (viz.) from p.
+81 to 96 are printed wrong; and should have been printed, Poems on State
+Affairs, instead of State Poems Continued.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=5)
+
+## The INDEX.
+
+  * A Panegyrick on Oliver Cromwell and his Victories, by E. Waller, Esq Page 1
+  * [...]ree Poems on the Death of the late Protector Oliver Cromwell, viz. by Mr. Dryden, p. 6
+  * By Mr. Sprat, p. 13
+  * By Mr. Waller, called the Storm, p. 23
+  * [...]rections to a Painter, said to be written by Sir John Denham, but believed to be writ by Mr. Milton, p. 24
+  * [...] the King by the same, p. 33
+  * [...]ntinuation of Directions to a Painter, by the same, p. 34
+  * [...] the King, by the same, p. 45
+  * [...]rections to a Painter, by the same, p. 46
+  * [...]rections to a Painter, by the same, p. 50
+  * [...] last Instructions to a Painter about the Dutch Wars, 1667, by A. Marvell, Esq p. 54
+  * [...] the King, by the same, p. 78
+  * [...] Loyal Scot, or Cleaveland's Ghost, upon the Death of Captain Douglas, burnt in his Ship at Chatham, by the same, p. 79
+  * [...]itannia and Rawleigh, a Dialogue, by A. Marvell, Esq. p. 84
+  * [...]dvice to a Painter, by A. Marvell, Esq. p. 89
+  * [...] the King, by the same. p. 92
+  * [...]ostradamus's Prophesies, by A. Marvell, Esq Ibid.
+  * [...]r Edmundbury Godfrey's Ghost, p. 94
+  * [...] Historical Poem, by A. Marvell, Esq. p. 97
+  * [...]odge's Vision from the Monument, Decemb. 1675, by the same. p. 102
+  * [...] Dialogue between two Horses, by the same, 1674, p. 106
+  * [...] the Lord Mayor and Court of Aldermen presenting the late King and Duke of York each with a Copy of their Freedoms, 1674, by the same, p. 112
+  * [...] Blood's stealing the Crown, by the same, p 115
+  * [...]rther Instructions to a Painter, 1670, by the same, Ibid.
+  * [...]ceana and Britannia, a Dialogue, by the same, p. 117
+  * [...] his Excellent Friend, Mr. Andrew Marvell, p. 122
+  * [...] Epitaph on the Lord Fairfax, by the Duke of Buckingham, p. 123
+  * [...] Essay upon tho Earl of Shaftsbury's Death, p. 125
+  * [...] Satyr in Answer to a Friend, p. 128
+  * [...] Character of the English in allusion to Tacitus de Vita Agric. p. 131
+  * [...]ollen with his Flock of Court Misses, p. 132
+  * [...]r Tho. Armstrong's Ghost, p. 135
+  * [...]he Royal Game, or a Princely New Play found in a Dream, 1672, p. 136
+  * [...]he Dream of the Cabal, a Prophetick Satyr, 1672, p. 137
+  * [...]n the three Dukes killing the Beadle on a Sunday Morning, Feb. 26. 1670, p. 147
+  * [...]he History of Insipids, a Lampoon, 1676, by the Lord Roch—r, p 149
+  * [...]ochester's Farewell to the Court, 1680, p. 154
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=6) Marvell's Ghost, by Mr. Jo. Ayloffe, p. 16 [...]
+  * The True Englishman, 1686, p. 16 [...]
+  * On the young Statesmen, by J D—n, 1680, p. 16 [...]
+  * Portsmouth's Looking-glass, by the Lord Roch—r, p. 16 [...]
+  * The Impartial Trimmer, 1682, p. 16 [...]
+  * Bajazet to Gloriana, 1683, p. 16 [...]
+  * On King Charles, by the Earl of Rochester, for which we he was banish'd the Court and turn'd Mountebank, p. 17 [...]
+  * Cato's Answer to Libanius when he advised him to go and consult th [...] Oracle of Jupiter Hamon, translated out of the Ninth Book of Lu­can, p. 17 [...]
+  * The Lord Lucas's Ghost, 1687, p. 17 [...]
+  * An Epitaph on Algernoon Sidney, p. 17 [...]
+  * The Brazen Head, p. 17 [...]
+  * The Answer to it, Ibi [...]
+  * Upon the Execrable Murther of the Right Honourable Arthur Earl  [...] Essex, p. 17 [...]
+  * An Essay upon Satyr, by J. D—n, Esq p. 179
+  * Upon an undeserving and ungratefull Mistress, whom he could not hel [...] loving, p. 186
+  * The Town Life, p. 19 [...]
+  * A Satyr on the Modern Translators, 1684, p. 19 [...]
+  * The Parliament-House to be Lett, 1678, p. 19 [...]
+  * Advice to Apollo, 1678, Ibid
+  * The Duel of the Crabs, by the Lord B—st, occasion'd by Sir R. H [...] his Duel of the Stags, p 20 [...]
+  * Instructions to his Mistress how to behave her self at Supper with he [...] Husband, 1682, p. 20 [...]
+  * The Sessions of the Poets, to the Tune of Cook Lawrel, p. 20 [...]
+  * Desire, a Pindarick, p. 21 [...]
+  * On the Prince's going to England with an Army to restrore the Govern­ment, 1688, p. 21 [...]
+  * On his Royal Highness's Voyage beyond Sea, March 3d. 1678, p. 21 [...]
+  * The Rabble, 1680, p. 21 [...]
+  * A New Song of the Times, 1683, p. 21 [...]
+  * The Battle-Royal: A Dream, 1687, p. 22 [...]
+  * An Epitaph upon Felron, who was hang'd in Chains for Murdering th [...] Old Duke of Buckingham: Written by the late Duke of Bucking­ham, p. 24 [...]
+  * An Answer to Mr Waller's Poem on Oliver's Death; called the Storm Written by Sir W— G—. p. 24 [...]
+  * Clarindon's House-Warming: Printed formerly with the Directions to  [...] Painter. Writ by an unknown Hand. p. 24 [...]
+  * Royal Resolutions: By A. Marvell, Esq p. 25 [...]
+  * On the Lord Chancellour H—e's Disgrace and Banishment, by King Charles II. p. 25 [...]
+  * The Parallel, 1682\. p. 254
+  * The perfect Enjoyment, by the Earl of Rochester, p. 25 [...]
+  * A Satyr against Marriage, by the same, p. 25 [...]
+
+ADDENDA.
+
+  * In Opposition to Mr. Dryden's Essay on Satyr, 1689\. p. 16 [...]
+
+## Table of contents
+
+  * THE PREFACE.
+  * The INDEX.
+  * 1\. POEMS ON State Affairs.
+    * 1.1. A Panegyrick on O. Cromwell, and his Victories.
+    * 1.2. Three POEMS on the Death of the late Protector, Oliver Cromwell.
+      * 1.2.1. Heroick Stanza's, on the late Vsurper Oliver Cromwell: Written after his Funeral,
+      * 1.2.2. To the Reverend Dr. Wilkins, Warden of Wadham College in Oxford.
+      * 1.2.3. To the happy Memory of the late Usurper, Oliver Cromwell.
+      * 1.2.4. Vpon the late Storm, and Death of the late Vsurper Oliver Cromwell ensuing the same.
+    * 1.3. Directions to a Painter concerning the Dutch War:
+    * 1.4. To the KING.
+    * 1.5. Directions to a Painter.
+    * 1.6. To the KING:
+    * 1.7. Directions to a Painter.
+    * 1.8. Directions to a Painter:
+    * 1.9. The last Instructions to a Painter, about the Dutch Wars, 1667.
+    * 1.10. To the KING.
+    * 1.11. The Loyal Scot.
+    * 1.12. Britannia and Raleigh.
+    * 1.13. Advice to a Painter.
+    * 1.14. To the KING.
+    * 1.15. Nostradamus's Prophecy.
+    * 1.16. Sir Edmundbury Godfrey's Ghost.
+    * 1.17. An Historical Poem.
+    * 1.18. Hodges's Vision from the Monument, December, 1675.
+    * 1.19. A Dialogue between two Horses.
+      * 1.19.1. The Introduction.
+      * 1.19.2. The Dialogue.
+      * 1.19.3. Conclusion.
+    * 1.20. On the Lord Mayor and Court of Alderman, presenting the late King and Duke of York each with a Copy of their Freedoms, Anno Dom. 1674.
+    * 1.21. On Blood's Stealing the Crown.
+    * 1.22. Farther Instructions to a Painter, 1670.
+    * 1.23. Oceana. & Britannia. Non ego sum vates, sed prisci Conscius aevi.
+    * 1.24. On his Excellent Friend Mr. Anth. Marvell, 1677
+    * 1.25. An Epitaph on the Lord Fairfax.
+    * 1.26. An Essay upon the Earl of Shaftsbury's Death.
+    * 1.27. A Satyr in Answer to a Friend. 1682.
+    * 1.28. A Character of the English. In All•sion to Tacit. de Vit. Agric.
+    * 1.29. Cullen with his Flock of Misses, 1679.
+    * 1.30. Sir Tho. Amstrong's. Ghost.
+    * 1.31. The Royal Game: or, A Princely new Play found in a Dream, &c. 1672.
+      * 1.31.1. PROLOGVE.
+      * 1.31.2. The Dream of the Cabal: A Prophetick Satyr. Anno 1672.
+    * 1.32. On the Three Dukes killing the Beadle on Sunday Morning, Febr. the 26th, 1670/1.
+    * 1.33. The History of Insipids; A Lampoon, 1676.
+    * 1.34. ROCHESTER's Farewell, 1680.
+    * 1.35. Marvil's Ghost.
+    * 1.36. The True Englishman, 1686.
+    * 1.37. On the Young Statesmen.
+    * 1.38. Portsmouth's Looking-Glass.
+    * 1.39. The Impartial Trimmer. 1682.
+    * 1.40. Bajazet to Gloriana, 1683/4;.
+    * 1.41. On King CHARLES, by the Earl of Rochester, For which he was banish'd the Court and turn'd Mountebank.
+    * 1.42. Cato's Answer to Libanius, when he advis'd him to go and consult the Oracle of Jupiter Hamon; translated out of the 9th. Book of Lucan, beginning at quid quin. Labiene jubes, &c.
+    * 1.43. The Lord Lucas's Ghost, 1687.
+    * 1.44. An EPITAPH.
+    * 1.45. The Brazen-Head, 1688
+      * 1.45.1. The Answer.
+    * 1.46. Vpon the Execrable Murder of the Honourable Arthur Earl of Essex.
+    * 1.47. An Essay upon Satyr:
+    * 1.48. Vpon an undeserving and ungratefull Mistress, whom he could not help loving. Being a Paraphrastical Translation of Ovid's Tenth Elegy. Lib. 3. Amorum.
+    * 1.49. The Town Life.
+    * 1.50. A Satyr on the modern Translators. Odi imitatores servum pecus, &c.
+    * 1.51. The Parliament-House to be Lett, 1678.
+    * 1.52. Advice to Apollo, 1678.
+    * 1.53. The Duel of the Crabs:
+    * 1.54. Instructions to his Mistress how to behave her self at Supper with her Husband, 1682.
+    * 1.55. The Session of the Poets,
+    * 1.56. DESIRE. A Pindaric.
+    * 1.57. On the Prince's going to England, with an Army to restore the Government, 1688.
+    * 1.58. On his Royal Highness's Voyage beyond Sea. March 30. 1678.
+    * 1.59. The RABBLE. 1680.
+    * 1.60. A New Song of the Times, 1683.
+    * 1.61. The Battle-Royal: A Dream, 1687.
+    * 1.62. An Epitaph upon Felton, who was hang'd in Chains for Murdering the Old Duke of Buckingham:
+    * 1.63. An Answer to Mr. Waller's Poem on Oliver's Death, called the Storm:
+    * 1.64. Clarindon's House-Warming: Printed formerly with the Directions to a Painter. Writ by an unknown hand.
+    * 1.65. Upon his House.
+    * 1.66. Royal Resolutions:
+    * 1.67. On the Lord Chancellor H—e's Disgrace and Banishment,
+    * 1.68. The Parallel, 1682.
+    * 1.69. The Perfect Enjoyment:
+    * 1.70. A Satyr against Marriage, by the same.
+  * Appendix A ADDENDA.
+    * Appendix A.1 In Opposition to Mr. Dryden's Essay on Satyr. 1680.
+  * Appendix B ADVERTISEMENT.
+
+[[Page 1]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=6)
+
+## 1\. POEMS ON State Affairs.
+
+### 1.1. A Panegyrick on O. Cromwell, and his Victories.
+
+By E. Waller, Esq.
+
+WHile with a strong, and yet a gentle Hand,
+
+You bridle Faction, and our Hearts command;
+
+Protect us from our selves and from the Foe;
+
+Make us unite, and make us Conquer too.
+
+Let partial Spirits still aloud complain,
+
+Think themselves injur'd that they cannot Reign;
+
+And own no liberty, but where they may,
+
+Without controul upon their Fellows prey.
+
+Above the Waves as Neptune shew'd his Face,
+
+To chide the Winds, and save the Trojan Race:
+
+So has your Highness (rais'd above the rest)
+
+Storms of ambition tossing us represt.
+
+Your drooping Country, torn with Civil hate,
+
+Restor'd by you, is made a glorious State:
+
+The Seat of Empire, where the Irish come,
+
+And the unwilling Scot to fetch their doom.
+
+The Sea's our own, and now all Nations greet
+
+With bending Sails each Vessel in our Fleet.
+
+[[Page 2]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=7)Your pow'r
+resounds as far as Wind can blow,
+
+Or swelling Sails upon the Globe may go.
+
+Heaven that has plac'd this Island to give Law,
+
+To balance Europe and her State to awe;
+
+In this Conjunction does our Britain smile,
+
+The greatest Leader to the greatest Isle.
+
+Whether this Portion of the World were rent
+
+By the wide Ocean from the Continent;
+
+Or thus created, it was sure design'd
+
+To be the sacred Refuge of Mankind.
+
+Hither the opprest shall henceforth resort,
+
+Justice to crave, and succour of your Court,
+
+And shew, your Highness▪ not for ours alone,
+
+But for the World's Protector shall be known.
+
+Fame, swifter than your winged Navy flies
+
+Through every Land that near the Ocean lies;
+
+Sounding your Name, and telling dreadfull News
+
+To all that Piracy and Rapine use:
+
+With such a Chief the meanest Nation blest,
+
+Might hope to lift her head above the rest.
+
+What may be thought impossible to do
+
+For us, embraced by the Sea and you?
+
+Lords, of the World's great wast, the Ocean, we
+
+Whole Forests send to reign upon the Sea:
+
+And every Coast may trouble and relieve,
+
+But none can visit us without your leave.
+
+Angels and we know this Prerogative,
+
+That none can at our happy State arrive;
+
+While we descend at pleasure to invade
+
+The bad with Vengeance, or the good to aid;
+
+Our little World, the Image of the great,
+
+Like that amidst the boundless Ocean set,
+
+Of her own growth has all that Nature craves,
+
+And all that's Rare, as Tribute from the Waves.
+
+As Egypt does not on the Clouds rely:
+
+But to the Nile owes more that to the Sky;
+
+So what our Heaven, or what our Earth denies,
+
+Our ever constant Friend, the Sea supplies.
+
+[[Page 3]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=7)The tast of
+hot Arabia's Spice we know,
+
+Free from the scorching Sun that makes it grow.
+
+Without the Worm in Persian Silks we shine,
+
+And without Planting, Drink of every Vine.
+
+To dig for Wealth we weary not our Limbs;
+
+Gold, though the heaviest Metal, hither swims.
+
+Ours is the Harvest where the Indians mow;
+
+We plough the Deep, and reap what others sow;
+
+Things of the noblest kind our own Soil breeds;
+
+Stout are our Men, and Warlike are our Steeds;
+
+Rome, though her Eagle through the World had flown,
+
+Could never make this Island all her own.
+
+Here the Third Edward, and the Black Prince too;
+
+France-conquering Henry flourish'd, and now You.
+
+For whom we staid, as did the Grecian State,
+
+Till Alexander came to urge their Fate.
+
+When for more worlds that Macedonian cry'd,
+
+He wist not Thetis in her lap did hide
+
+Another yet, a world reserv'd for you,
+
+To make more great than that he did subdue.
+
+He safely might old Troops to Battle lead
+
+Against th'unwarlike Persian, or the Mede,
+
+Whose hasty flight did from a bloodless Field
+
+More Spoil than Honour to the Victor yield.
+
+A Race unconquer'd by their Clime made bold,
+
+The Calydonians arm'd with want and cold,
+
+Have by a Fate indulgent to your Fame,
+
+Been from all ages kept for you to tame:
+
+Whom the old Roman VVall so ill contin'd,
+
+VVith a new Chain of Garrisons you bind.
+
+Here forein Gold no more shall make them come,
+
+Our English Iron holds them fast at home.
+
+They that henceforth must be content to know
+
+No warmer Region than their Hills of Snow,
+
+May blame the Sun, but must extol your Grace,
+
+VVhich in our Senate hath allow'd them place.
+
+Preferr'd by Conquest, happily o'erthrown;
+
+Falling they rise, to be with us made one.
+
+[[Page 4]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=8)So kind
+Dictators made, when they came home,
+
+Their vanquish'd Foes free Citizens of Rome.
+
+Like favour find the Irish, with like Fate
+
+Advanc'd to be a portion of our State;
+
+While by your Valour, and your courteous mind,
+
+Nations divided by the Sea, are joyn'd.
+
+Holland to gain your Friendship, is content
+
+To be our O [...]t-gard on your Continent.
+
+She from her Fellow-Provinces would go,
+
+Rather than hazard to have you her Foe.
+
+In our late Fight, when Cannons did diffuse
+
+Preventing Posts, the terrour of the News,
+
+Our Neighbour-Provinces trembl'd at their roar,
+
+But our conjunction makes them tremble more.
+
+Your never failing Sword made War to cease,
+
+And now you heal us with the arts of Peace;
+
+Our minds with bounty and with awe engage,
+
+Unite affections, and restrain our Rage.
+
+Less pleasures take brave minds in battel wone,
+
+Than in restoring such as are undone.
+
+Tygers have courage, and the rugged Bear,
+
+But Man alone can whom he conquers spare:
+
+To pardon willing, and to punish loth,
+
+You strike with one hand, but you heal with both.
+
+Lifting up all that prostrate lye, you grieve
+
+You cannot make the dead again to live.
+
+When Fate or Error had our age misled,
+
+And o're these Nations such Confusion spread,
+
+The only Cure which could from Heaven come down,
+
+Was so much Power and Clemency in one;
+
+One whose Extraction is from an ancient Line,
+
+Gives hope again that well-born men may shine:
+
+The meanest in your Nature, mild and good,
+
+The noble rest secured in your blood.
+
+Oft have we wonder'd how you hid in peace
+
+A Mind proportion'd to such things as these:
+
+How such a Ruling Spirit could restrain,
+
+And practise first o're your own self to Reign.
+
+[[Page 5]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=8)Your private
+Life did a just pattern give,
+
+How Fathers, Husbands, pious Sons should live.
+
+Born to Command, your Princely Vertues slept,
+
+Like humble David, whilst the Flock he kept;
+
+But when your troubled Country call'd you forth,
+
+Your flaming Courage, and your matchless Worth,
+
+Dazling the Eyes of all that did pretend
+
+To sow Contention —gave a prosperous end;
+
+Still as you rise, the State's exalted too,
+
+Finds no Distemper while it's chang'd by you:
+
+Chang'd like the World's great Scene, when without noise
+
+The rising Sun Night's vulgar Lights destroys.
+
+Had you some ages past this Race of Glory
+
+Run, with amazement we should read your Story.
+
+But living Vertue all atchievements past,
+
+Meets Envy still to grapple with at last.
+
+This Caesar found, and that ungratefull Age
+
+With losing him, fell back to blood and rage.
+
+Mistaken Brutus thought to break their Yoke,
+
+But cut the bond of Union at that stroke.
+
+That Sun once set, a thousand meaner Stars
+
+Gave a dim light to Violence and Wars.
+
+To such a Tempest as now threatens all,
+
+Did not your mighty Arm prevent the fall.
+
+If Rome's great Senate could not wield the Sword,
+
+Which of the conquer'd World had made them Lord,
+
+What hope had ours, while yet their power was new,
+
+To rule victorious Armies, but by you?
+
+You that had taught them to subdue their Foes,
+
+Could Order teach, and all their Hearts compose.
+
+To every Duty could their Minds engage,
+
+Provoke their Courage, and commend their Rage.
+
+So when a Lion shakes his dreadfull Main,
+
+And angry grows, if he that first took pain,
+
+To tame his Youth, approach the haughty Beast,
+
+He bends to him but frights away the rest.
+
+As the vext World, to find repose at last,
+
+It self into Augusta's Arms did cast:
+
+[[Page 6]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=9)So England
+now, does, with like toil opprest,
+
+Her weary Head upon your Bosom rest
+
+Then let the Muses with such Notes as these,
+
+Instruct us what belongs unto our Peace:
+
+Your Battles they hereafter shall indite,
+
+And draw the Image of our Mars in Fight;
+
+Tell of Towns storm'd, of Armies over-run,
+
+And mighty Kingdoms by your Conduct won:
+
+How, while you thunder'd, Clouds of Dust did choak
+
+Contending Troops, and Seas lay hid in Smoak.
+
+Illustrious Arts high Raptures do infuse,
+
+And every Conquerour creates a Muse.
+
+Here in low strains your milder deeds we sing;
+
+But there, my Lord, we'll Bays & Olives bring
+
+To crown your Head while you in triumph ride
+
+O'er vanquish'd Nations, and the Sea beside:
+
+VVhile all your Neighbour Princes unto You,
+
+Like Joseph's Sheaves, pay reverence, and bow.
+
+### 1.2. Three POEMS on the Death of the late Protector, Oliver Cromwell.
+
+Written by Mr. John Dryden, Mr. Sprat of Ox­ford, and Mr. Edm. Waller.
+
+#### 1.2.1. Heroick Stanza's, on the late Vsurper Oliver Crom­well: Written
+after his Funeral,
+
+by Mr. Dryden.
+
+I.
+
+AND now 'tis time; for their officious haste,
+
+VVho would before have born him to the Sky,
+
+Like eager Romans, e're all Rites were past,
+
+Did let too soon the sacred Eagle fly.
+
+[[Page 7]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=9)
+
+II.
+
+Though our best Notes are Treason to his Fame,
+
+Join'd with the loud applause of publick Voice;
+
+Since Heav'n, what praise we offer to his Name,
+
+Hath render'd too authentick by its choice.
+
+III.
+
+Though in his praise no Arts can liberal be,
+
+Since they whose Muses have the highest flown,
+
+Add not to his immortal Memory,
+
+But do an act of Friendship to their own.
+
+IV.
+
+Yet 'tis our duty, and our interest too,
+
+Such Monuments as we can build, to raise,
+
+Lest all the world prevent what we should do,
+
+And claim a Title in him by their praise.
+
+V.
+
+How shall I then begin, or where concude,
+
+To draw a Fame so truly Circular?
+
+For in a round, what order can be shew'd,
+
+VVhere all the parts so equal perfect are?
+
+VI.
+
+His Grandure he deriv'd from Heaven alone,
+
+For he was great e're Fortune made him so;
+
+And VVars like mists that rise against the Sun,
+
+Made him but greater seem, not greater grow.
+
+VII.
+
+No borrow'd Bays his Temples did adorn,
+
+But to our Crown he did fresh Jewels bring;
+
+Nor was his Vertue poyson'd soon as born,
+
+VVith the too early thoughts of being King.
+
+VIII.
+
+Fortune (that easie Mistress to the young,
+
+But to her ancient Servants coy and hard)
+
+Him, at that age, her Favourites rank'd among,
+
+VVhen she her best lov'd Pompey did discard.
+
+IX.
+
+He private, mark'd the Faults of others sway,
+
+And set as Sea-marks for himself to shun;
+
+[[Page 8]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=10)Not like
+rash Monarchs, who their youth betray,
+
+By Acts their Age too late would wish undone.
+
+X.
+
+And yet Dominion was not his design,
+
+We owe that blessing not to him, but Heaven,
+
+Which to fair Acts unsought rewards did join;
+
+Rewards that less to him, than us were given.
+
+XI.
+
+Our former Chief like Sticklers of the War,
+
+First sought t' inflame the parties, then to poise:
+
+The quarrel lov'd, but did the cause abhor,
+
+And did not strike to hurt, but make a noise.
+
+XII.
+
+War, our Consumption, was their gainfull Trade;
+
+He inward bled, whilst they prolong'd our pain;
+
+He fought to hinder fighting, and assay'd
+
+To stanch the blood by breathing of the Vein.
+
+XIII.
+
+Swift and resistless through the Land he past,
+
+Like that bold Greek, who did the East subdue,
+
+And made to Battles such Heroick hast,
+
+As if on wings of Victory he flew.
+
+XIV.
+
+He fought secure of Fortune as of Fame,
+
+Still by new Maps the Island might be shewn,
+
+Of Conquests which he strew'd where-e'er he came,
+
+Thick as the Galaxy with Stars is sown.
+
+XV.
+
+His Palms, though under weights they did not stand,
+
+Still thriv'd, no Winter could his Laurels fade:
+
+Heaven in his Portraict shew'd a Workman's hand,
+
+And drew it perfect, yet without a shade.
+
+XVI.
+
+Peace was the price of all his toil and care,
+
+Which War had banish'd, and did now restore:
+
+Bolognia's Walls thus mounted in the Air,
+
+To seat themselves more surely than before.
+
+[[Page 9]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=10)
+
+XVII.
+
+Her safety rescued Ireland, to him owes,
+
+And treacherous Scotland to no int'rest true,
+
+Yet bless'd that Fate which did his Arms dispose
+
+Her Land to civilize, as to subdue.
+
+XVIII.
+
+Nor was he like those Stars which only shine,
+
+When to pale Mariners, they storms portend;
+
+He had his calmer influence, and his Mein
+
+Did Love and Majesty together blend.
+
+XIX.
+
+'Tis true his Countenance did imprint an awe;
+
+And naturally all Souls to his did bow,
+
+As Wands of Divination downward draw,
+
+And point to Beds where Sov'raign Gold doth grow.
+
+XX.
+
+When past all offerings to Pheretrian Iove,
+
+He Mars depos'd, and Arms to Gowns made yield;
+
+Successfull Councils did him soon approve,
+
+As fit for close Intrigues as open Field.
+
+XXI.
+
+To suppliant Holland he vouchsaf'd a Peace,
+
+Our once bold Rival in the British Main,
+
+Now tamely glad her unjust claim to cease,
+
+And buy our Friendship with her Idol, Gain.
+
+XXII.
+
+Fame of th' asserted Sea through Europe blown,
+
+Made France and Spain ambitious of his Love;
+
+Each knew that side must conquer he would own;
+
+And for him fiercely, as for Empire strove.
+
+XXIII.
+
+No sooner was the French-man's Cause embrac'd,
+
+Than the light Monsieur, the grave Don outweigh'd;
+
+His Fortune turn'd the Scale where it was cast,
+
+Though Indian Mines were in the other laid.
+
+XXIV.
+
+When absent, yet we conquer'd in his Right;
+
+For though that some mean Artists Skill were shewn
+
+[[Page 10]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=11)In
+mingling Colours, or in placing Light;
+
+Yet still the fair Designment was his own.
+
+XXV.
+
+For from all Tempers he could Service draw;
+
+The worth of each with its Allay he knew;
+
+And as the Confident of Nature saw
+
+How she Complections did divide and brew.
+
+XXVI.
+
+Or he their single Vertues did survey,
+
+By intuition in his own large Breast,
+
+Where all the rich Ideas of them lay,
+
+That were the Rule and Measure to the rest.
+
+XXVII.
+
+When such Heroick Vertue, Heaven set out,
+
+The Stars, like Commons, sullenly obey;
+
+Because it drains them when it comes about,
+
+And therefore is a Tax they seldom pay.
+
+XXVIII.
+
+From this high Spring our Foreign Conquests flow,
+
+Which yet more glorious Triumphs do portend;
+
+Since their Commencement to his Arms they owe,
+
+If Springs as high as Fountains may ascend.
+
+XXIX.
+
+He made us Free-Men of the Continent,
+
+Whom Nature did like Captives treat before;
+
+To Nobler Preys the English Lion sent,
+
+And taught him first in Belgian walks to roar.
+
+XXX.
+
+That old unquestion'd Pirate of the Land,
+
+Proud Rome, with dread the Fate of Dankirk heard;
+
+And trembling wish'd behind more Alps to stand,
+
+Although an Alexander were her Guard.
+
+XXXI.
+
+By his Command, we boldly cross'd the Line,
+
+And bravely fought where Southern Stars arise,
+
+We trac'd the far-fetch'd Gold unto the Mine,
+
+And that which brib'd our Fathers made our Prize.
+
+[[Page 11]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=11)
+
+XXXII.
+
+Such was our Prince, yet own'd a Soul above
+
+The highest Acts it could produce to shew:
+
+Thus poor M [...]chanick Arts in publick move▪
+
+Whilst the deep secrets beyond practice go.
+
+XXXIII.
+
+Nor dy'd he when his ebbing Fame went less,
+
+But when fresh Laurels courted him to live;
+
+He seem'd but to prevent some new Success,
+
+As if above what Triumphs Earth can give.
+
+XXXIV.
+
+His latest Victories still thickest came,
+
+As near the Center, Motion doth increase;
+
+Till he press'd down by his own weighty Name,
+
+Did like the Vestal, under spoils decease.
+
+XXXV.
+
+But first the Ocean as a Tribute sent.
+
+That Gi [...]nt Prince of all her wat'ry Herd;
+
+And th' [...]sle, when her protecting Genius went,
+
+Upon his Obsequies loud sighs conferr'd.
+
+XXXVI.
+
+No civil Broils have since his Death arose,
+
+But Faction now by habit does obey;
+
+And Wars have that respect for his Repose,
+
+As Winds for Halcyons, when they breed at Sea.
+
+XXXVII.
+
+His Ashes in a peacefull Urn shall rest,
+
+His Name a great Example stands to show,
+
+How strangely high Endeavours may be blest,
+
+Where Piety and Valour jointly go.
+
+[[Page 12]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=12)
+
+#### 1.2.2. To the Reverend Dr. Wilkins, Warden of Wad­ham College in Oxford.
+
+SIR,
+
+SEeing you are pleased to think fit that these Papers should come into the
+publick, which were at first design'd to live only in a Desk, or some private
+Friends hands; I hum­bly take the boldness to commit them to the security,
+which your Name and Protection will give them, with the most knowing part of
+the World. There are two things especially in which they stand in need of your
+Defence: One is, That they fall so infinitely below the full and lofty Genius
+of that excellent Poet, who made this way of writing free of our Nation: The
+other, That they are so little proportioned and equal to the Renown of that
+Prince, on whom they were written. Such great Actions and Lives, deserving
+rather to be the Subjects of the noblest Pens and divine Fancies, than of such
+small Beginners and weak Essayers in Poetry as my self. Against these
+dangerous Prejudices, there remains no other Shield, than the Universal Esteem
+and Authority which your Iudgment and Approbation carries with it. The Right
+you have to them, Sir, is not only on the account of the Relation you had to
+this great Person, nor of the gene­ral favour which all Arts receive from you;
+but more particularly by reason of that Obligation and Zeal, with which I am
+bound to dedicate my self to your Service: For having been a long time the
+Object of you Care and Indul­gence towards the advantage of my Studies and
+Fortune, having been moulded (as it were) by your own Hands, and formed under
+your Government; not to intitle you to any thing which my meanness produces,
+would not only be Injustice, but Sacrilege: So that if there be any thing here
+tolerably said, which deserves pardon, it is yours Sir, as well as he, who is
+
+Your most Devoted, and Obliged Servant.
+
+[[Page 13]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=12)
+
+#### 1.2.3. To the happy Memory of the late Usurper, Oliver Cromwell.
+
+By Mr. Sprat of Oxon, Pin­darick Odes.
+
+I.
+
+TIS true, great Name, thou art secure
+
+From the forgetfulness and Rage
+
+Of Death, or Envy, or devouring Age;
+
+Thou canst the force and teeth of Time endure:
+
+Thy fame, like Men, the Elder it doth grow,
+
+Will of its self turn whiter too,
+
+Without what needless Art can do;
+
+Will live beyond thy breath, beyond thy Hearse,
+
+Though it were never heard or sung in Verse.
+
+Without our help, thy Memory is safe;
+
+They only want an Epitaph,
+
+That do remain alone
+
+Alive in an Inscription,
+
+Remembred only on the Brass, or Marble-stone.
+
+'Tis all in vain what we can do:
+
+All our Roses and Perfumes,
+
+Will but officious folly shew,
+
+And pious Nothings, to such mighty Tombs.
+
+All our Incense, Gums, and Balm,
+
+Are but unnecessary Duties here:
+
+The Poets may their Spices spare,
+
+Their costly Numbers, and their tunefull Feet:
+
+That need not be imbalm'd, which of it self is sweet.
+
+II.
+
+We know to praise thee is a dangerous proof
+
+Of our Obedience and our Love:
+
+For when the Sun and Fire meet,
+
+Th' one's extinguish'd quite;
+
+And yet the other never is more bright:
+
+So that they write of thee, and joyn
+
+Their feeble Names with thine,
+
+[[Page 14]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=13)Their
+weaker sparks with thy illustrious light,
+
+Will lose themselves in that ambitious thought;
+
+And yet no fame to thee from hence he brought,
+
+We know, bless'd Spirit, thy mighty Name
+
+Wants no addition of anothers Beam;
+
+It's for our Pens too high, and full of Theme:
+
+The Muses are made great by thee, not thou by them.
+
+Thy Fame's eternal Lamp will live,
+
+And in thy sacred Urn survive,
+
+Without the food of Oyl, which we can give.
+
+'Tis true; but yet our Duty calls our Songs;
+
+Duty commands our Tongues.
+
+Though thou want not our praises, we
+
+Are not excus'd for what we owe to thee;
+
+For so Men from Religion are not freed.
+
+But from the Altars Clouds must rise,
+
+Though Heaven it self doth nothing need,
+
+And though the Gods don't want an earthly Sacrifice.
+
+III.
+
+Great Life of wonders, whose each year
+
+Full of new Miracles did appear!
+
+Whose every Month might be
+
+Alone a Chronicle, or a History!
+
+Others great Actions are
+
+But thinly scatter'd here and there;
+
+At best, but all one single Star;
+
+But thine the Milky-way,
+
+All one continued light, of undistinguish'd Day;
+
+They throng'd so close, that naught else could be seen,
+
+Scarce any common Sky did come between:
+
+What shall I say or where begin?
+
+Thou may'st in double shapes be shown,
+
+Or in thy Arms, or in thy Gown;
+
+Like Jove sometimes with Warlike Thunder, and
+
+Sometimes with peacefull Scepter in his Hand;
+
+Or in the Field, or on the Throne.
+
+In what thy Head, or what thy Arm hath done,
+
+[[Page 15]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=13)All that
+thou didst was so refin'd,
+
+So full of substance and so strongly join'd,
+
+So pure, so weighty Gold,
+
+That the least Grain of it
+
+If fully spread and beat,
+
+Would many Leaves and mighty Volumes hold.
+
+IV.
+
+Before thy Name was publish'd, and whilst yet,
+
+Though only to thy self wer't great,
+
+Whilst yet thy happy Bud
+
+Was not quite seen, or understood,
+
+It then sure signs of future Greatness shew'd:
+
+Then thy Domestick worth
+
+Did tell the World what it would be,
+
+When it should fit occasion see,
+
+When a full Spring should call it forth:
+
+As bodies in the Dark and Night,
+
+Have the same Colours, the same red and white,
+
+As in the open Day and Light,
+
+The Sun doth only shew
+
+That they are bright, not make them so:
+
+So whilst but private Walls did know
+
+What we to such a mighty Mind should owe,
+
+Then the same Vertues did appear,
+
+Though in a less and more contracted Sphere,
+
+As full, though not as large as since they were:
+
+And like great Rivers, Fountains, though
+
+at first so deep thou didst not go;
+
+Though then thine was not so inlarg'd a Flood;
+
+Yet when 'twas little, 'twas as clear as good.
+
+V.
+
+[...]Tis true thou wast not born unto a Crown,
+
+Thy Scepter's not thy Fathers, but thy own:
+
+Thy Purple was not made at once in hast,
+
+And after many other Colours past,
+
+It took the deepest Princely Dye at last.
+
+Thou didst begin with lesser Cares,
+
+And private Thoughts took up thy private Years:
+
+[[Page 16]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=14)Those
+hands, which were ordain'd by Fates,
+
+To change the World, and alter States,
+
+Practis'd at first that vast Design
+
+On meaner things with equal Mind.
+
+That Soul which should so many Scepters sway,
+
+To whom so many Kingdoms should obey,
+
+Learn'd first to rule in a domestick way,
+
+So Government it self began
+
+From Family, and single Man,
+
+Was by the small relation, first,
+
+Of Husband, and of Father Nurs'd,
+
+And from those less beginnings past,
+
+To spread it self o'er all the World at last.
+
+VI.
+
+But when thy Country (then almost enthrall'd)
+
+Thy Vertue, and thy Courage call'd;
+
+When England did thy Arms intreat,
+
+And 't had been Sin in thee not to be Great:
+
+When every Stream, and every Flood;
+
+Was a true Vein of Earth, and run with Blood;
+
+When unus'd Arms, and unknown War
+
+Fill'd every Place, and every Ear;
+
+When the great Storms, and dismal Night
+
+Did all the Land affright;
+
+'Twas time for thee to bring forth all our Light.
+
+Thou left'st thy more delightfull Peace,
+
+Thy private Life, and better ease;
+
+Then down thy Steel and Armour took,
+
+Wishing that it still hung upon the Hook:
+
+When Death had got a large Commission out,
+
+Throwing her Arrows, and her Sting about;
+
+Then thou (as once the healing Serpent rose)
+
+Wast lifted up, not for thy self, but us.
+
+VII.
+
+Thy Country wounded was, and sick before
+
+Thy Wars and Arms did her restore:
+
+Thou knew'st where the Disease did lie,
+
+And like the Cure of Sympathy,
+
+[[Page 17]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=14)Thy strong
+and certain remedy
+
+Unto the Weapon didst apply;
+
+Thou didst not draw the Sword, and so
+
+Away the Scabbard throw,
+
+As if thy Country should
+
+Be the Inheritance of Mars and Blood:
+
+But that when the great work was spun,
+
+War in it self should be undone;
+
+That Peace might land again upon the Shore
+
+Richer and better than before:
+
+The Husbandmen no Steel should know,
+
+None but the usefull Iron of the Plow;
+
+That Bays might creep on every Spear:
+
+And though our Sky was overspread
+
+With a destructive Red;
+
+'Twas but till thou our Sun didst in full light appear.
+
+VIII.
+
+When Ajax dy'd, the purple Blood
+
+That from his gaping Wound had flow'd,
+
+Turn'd into Letters every Leaf
+
+Had on it wrote his Epitaph:
+
+So from that Crimson Flood,
+
+Which thou by fate of times wert led,
+
+Unwillingly to shed,
+
+Letters, and Learning rose, and renewed:
+
+Thou fought'st not out of Envy, Hope, or Hate,
+
+But to refine the Church and State;
+
+And like the Romans whate'er thou
+
+In the Field of Mars didst mow,
+
+Was, that a holy Island hence might grow.
+
+Thy Wars, as Rivers raised by a Shower,
+
+With welcome Clouds do pour:
+
+Though they at first may seem,
+
+To carry all away with an enraged Stream;
+
+Yet did not happen that they might destroy,
+
+Or the better parts annoy:
+
+But all the filth and mud to scour,
+
+And leave behind another slime,
+
+To give a birth to a more happy power.
+
+[[Page 18]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=15)
+
+IX.
+
+In Fields unconquer'd, and so well
+
+Thou didst in Battles and in Arms excell;
+
+That steelly Arms themselves, might be
+
+Worn out in War as soon as thee,
+
+Success, so close upon thy Troops did wait,
+
+As if thou first hadst conquer'd Fate;
+
+As if uncertain Victory
+
+Had been first overcome by thee;
+
+As if her Wings were clipt, and could not flee,
+
+Whilst thou didst only serve,
+
+Before thou hadst what first thou didst deserve.
+
+Others by thee did great things do,
+
+Triumphed'st thy self, and mad'st them triumph too;
+
+Though they above thee did appear,
+
+As yet in a more large and higher Sphere:
+
+Thou, the great Sun gav'st Light to every Star.
+
+Thy self an Army wert alone,
+
+And mighty Troops contain'd'st in one:
+
+Thy only Sword did guard the Land,
+
+Like that which flaming in the Angel's Hand,
+
+From Men God's Garden did defend:
+
+But yet thy Sword did more than his,
+
+Not only guarded, but did make this Land a Paradice.
+
+X.
+
+Thou fought'st not to be high or great,
+
+Nor for a Scepter or a Crown,
+
+Or Ermin, Purple, or the Throne;
+
+But as the Vestal Heat,
+
+Thy Fire was kindled from above alone;
+
+Religion putting on thy Shield,
+
+Brought thee victorious to the Field.
+
+Thy Arms like those, which ancient Heroes wore,
+
+Were given by the God thou did'st adore;
+
+And all the words thy Armies had,
+
+Were on an heavenly Anvil made;
+
+Not Int'rest, or any weak desire
+
+Of Rule or Empire, did thy Mind inspire;
+
+[[Page 19]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=15)Thy Valour
+like the holy Fire,
+
+Which did before the Persian Armies go,
+
+Liv'd in the Camp, and yet was sacred too:
+
+Thy mighty Sword anticipates,
+
+What was reserv'd for Heaven and those blest Seats,
+
+And makes the Church triumphant here below.
+
+XI.
+
+Though Fortune did hang on thy Sword,
+
+And did obey thy mighty word;
+
+Though Fortune for thy side and thee,
+
+Forgot her lov'd Unconstancy;
+
+Amidst thy Arms and Trophies thou
+
+Wert valiant and gentle too,
+
+Wounded'st thy self, when thou did'st kill thy Foe;
+
+Like Steel, when it much work has past,
+
+That which was rough does shine at last:
+
+Thy Arms by being oftner us'd did smoother grow;
+
+Nor did thy Battles make thee proud or high,
+
+Thy Conquest rais'd the state, not thee:
+
+Thou overcam'st thy self in every Victory:
+
+As when the Sun in a directer Line,
+
+Upon a polish'd golden Shield doth shine,
+
+The Shield reflects unto the Sun again his Light:
+
+So when the Heavens smil'd on thee in fight▪
+
+When thy propitious God had lent
+
+Success, and Victory to thy Tent;
+
+To Heav'n again the Victory was sent.
+
+XII.
+
+England till thou did'st come,
+
+Confin'd her Valour home;
+
+Then our own Rocks did stand
+
+Bounds to our fame as well as Land,
+
+And were to us as well,
+
+As to our Enemies unpassable:
+
+We were asham'd at what we read,
+
+And blush'd at what our Fathers did,
+
+Because we came so far behind the Dead.
+
+[[Page 20]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=16)The
+British Lion hung his main, and droop'd,
+
+To Slavery and Burthen stoop'd,
+
+With a degenerate sleep and fear
+
+Lay in his Den, and languish'd there;
+
+At whose least Voice before,
+
+A trembling eccho ran through every Shore,
+
+And shook the world at every roar:
+
+Thou his subdu'd Courage didst restore,
+
+Sharpen his Claws, and his Eyes
+
+Mad'st the same dreadfull Lightning rise;
+
+Mad'st him again affright the neighbouring Floods,
+
+His mighty Thunder sounds through all the Woods:
+
+Thou hast our military Fame redeem'd,
+
+Which was lost or clouded seem'd:
+
+Nay more, Heaven did by thee bestow
+
+On us, at once an Iron Age, and happy too.
+
+XIII.
+
+Till thou command'st, that Azure Chain of Waves,
+
+Which Nature round about us sent,
+
+Made us to every Pirate Slaves,
+
+Was rather burthen than an Ornament;
+
+Those Fields of Sea that wash'd our Shores,
+
+We plow'd, and reap'd by other hands than ours:
+
+To us, the liquid Mass,
+
+Which doth about us run,
+
+As 'tis to the Sun,
+
+Only a bed to sleep on was:
+
+And not as now a powerfull Throne,
+
+To shake and sway the world thereon.
+
+Our Princes in their hand a Globe did shew,
+
+But not a perfect one,
+
+Compos'd of Earth and Water too.
+
+But thy Commands the Floods obey'd,
+
+Thou all the wilderness of water sway'd;
+
+Thou did'st not only wed the Sea,
+
+Not make her equal, but a Slave to thee.
+
+Neptune himself did bear thy Yoke,
+
+Stoop'd, and trembled at thy stroke:
+
+[[Page 21]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=16)He that
+rul'd all the Main,
+
+Acknowledg'd thee his Sovereign:
+
+And now the conquer'd Sea doth pay
+
+More Tribute to thy Thames than that unto the Sea.
+
+XIV.
+
+Till now our Valour did our selves more hurt;
+
+Our wounds to other Nations were a sport;
+
+And as the Earth, our Land produc'd
+
+Iron and Steel, which should to tear our selves be us'd,
+
+Our strength within it self did break
+
+Like thundring Cannons creak,
+
+And kill'd those that were near,
+
+While the Enemies secur'd and untouch'd were.
+
+But now our Trumpets thou hast made to sound
+
+Against our Enemies Walls in foreign ground;
+
+And yet no Eccho back to us returning found.
+
+England is now the happy peacefull Isle,
+
+And all the World the while,
+
+Is exercising Arms and Wars
+
+VVith foreign or intestine Jars.
+
+The Torch extinguish'd here, we lend to others Oil,
+
+VVe give to all, yet know our selves no fear;
+
+VVe reach the flame of ruin and of death,
+
+VVhere e'er we please, our Swords to unsheath,
+
+VVhilst we in calm and temperate Regions breath:
+
+Like to the Sun, whose heat is hurl'd
+
+Through every Corner of the world;
+
+Whose flame through all the Air doth go,
+
+And yet the Sun himself, the while no Fire doth know.
+
+XV.
+
+Besides the Glories of thy Peace,
+
+Are not in number, nor in value less.
+
+Thy hand did cure, and close the Scars
+
+Of our bloody civil Wars;
+
+Not only lanc'd but heal'd the wound,
+
+Made us again as healthy and as sound,
+
+VVhen now the Ship was well nigh lost,
+
+After the Storm upon the Coast,
+
+[[Page 22]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=17)By its
+Mariners endanger'd most:
+
+When they their Ropes and Helms had left,
+
+When the Planks asunder clest,
+
+And Floods came roaring in with mighty sound,
+
+Thou a safe Land, and harbour for us found,
+
+And sav'dst those that would themselves have drown'd:
+
+A work which none but Heaven and Thee could do,
+
+Thou mad'st us happy wh'th'r we would or no;
+
+Thy Judgment, Mercy, Temperance so great,
+
+As if those Vertues only in thy mind had seat:
+
+Thy Piety not only in the Field, but Peace,
+
+When Heaven seem'd to be wanted least;
+
+Thy Temples not like Janus only were,
+
+Open in time of VVar,
+
+VVhen thou hadst greater cause of fear,
+
+Religion and the awe of Heaven possest
+
+All places and all times alike thy Breast.
+
+XVI.
+
+Nor didst thou only for thy Age provide,
+
+But for the Years to come beside;
+
+Our after-times, and late Posterity,
+
+Shall pay unto thy Fame as much as we;
+
+They two are made by thee.
+
+VVhen fate did call thee to a higher Throne,
+
+And when thy mortal work was done;
+
+VVhen Heaven did say it, and thou must be gone,
+
+Thou him to bear thy Burthen chose,
+
+VVho might (if any could) make us forget thy loss;
+
+Nor hadst thou him design'd,
+
+Had he not been
+
+Not only to thy Blood, but Vertue kin;
+
+Not only Heir unto thy Throne, but Mind,
+
+'Tis he shall perfect all thy Cures,
+
+And with as fine a Thread weave out thy Loom:
+
+So one did bring the chosen People from
+
+Their slavery and fears,
+
+Led them through their pathless Road,
+
+Guided himself by God.
+
+[[Page 23]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=17)He hath
+brought them to the Borders; but a second hand
+
+Did settle, and secure them in the promis'd Land.
+
+#### 1.2.4. Vpon the late Storm, and Death of the late Vsur­per Oliver
+Cromwell ensuing the same.
+
+By Mr. Waller.
+
+WE must resign; Heav'n his great Soul does claim
+
+In Storms as loud as his immortal Fame;
+
+His dying Groans, his last Breath shakes our Isle,
+
+And Trees uncut fall for his Funeral Pile.
+
+About his Palace their broad roots are tost
+
+Into the Air: So Romulus was lost.
+
+New Rome in such a Tempest mist their King,
+
+And from obeying fell to worshipping.
+
+On Oeta's top thus Hercules lay dead,
+
+With ruin'd Oaks and Pines about him spread;
+
+The Poplar too, whose Bough he wont to wear
+
+On his victorious Head, lay prostrate there:
+
+Those his last Fury from the Mountain rent;
+
+Our dying Hero, from the Continent,
+
+Ravish'd whole Towns, and Forts from Spaniards rest,
+
+As his last Legacy to Britain left;
+
+The Ocean which so long our hopes confin'd,
+
+Could give no limits to his vaster Mind;
+
+Our bounds inlargement, was his latest Toil,
+
+Nor hath he left us Prisoners to our Isle:
+
+Under the Tropick is our Language spoke,
+
+And part of Flanders hath receiv'd our Yoke.
+
+From civil broils, he did us disingage,
+
+Found nobler Objects for our Martial Rage;
+
+And with wise Conduct to his Country shew'd,
+
+Their ancient way of conquering abroad:
+
+Ungratefull then, if we no tears allow
+
+To him that gave us Peace and Empire too:
+
+Princes that fear'd him, griev'd, concern'd to see
+
+No pitch of Glory from the Grave is free;
+
+[[Page 24]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=18)Nature her
+self took notice of his Death,
+
+And sighing swell'd the Sea with such a breath,
+
+That to remotest shores her Billows rowl'd,
+
+Th' approaching Fate of her great Ruler told.
+
+### 1.3. Directions to a Painter concerning the Dutch War:
+
+By Sir John Denham, 1667.
+
+NAY Painter, if thou dar'st design that Fight,
+
+Which Waller only Courage had to write;
+
+If thy bold hands can without shaking draw,
+
+What ev'n th' Actors trembled at when they saw,
+
+Enough to make thy Colours change like theirs,
+
+And all thy Pencils bristle like their Hairs.
+
+First in fit distance of the prospect Main,
+
+Paint Allen tilting at the Coast of Spain;
+
+Heroick act! and never heard till now!
+
+Stemming of Herc'les pillars with the Prow!
+
+And how he lest his ship the hills to wast,
+
+And with new Sea-marks Cales and Dover graft.
+
+Next let the flaming London come in view,
+
+Like Nero's Rome, burnt to re-build it new;
+
+What lesser Sacrifice than this was meet
+
+To offer for the safety of the Fleet?
+
+Blow one ship up, another thence will grow:
+
+See what free Cities and wise Courts can do!
+
+So some old Merchant to insure his name,
+
+Marries afresh, and Courties share the Dame:
+
+So whatsoe'er is broke, the Servants pay't,
+
+And Glasses are more durable than Plate.
+
+No May'r till now, so rich a Pageant feign'd,
+
+Nor one Barge all the Companies contain'd.
+
+Then Painter draw Cerulean Coventry,
+
+Keeper, or rather Chancellor o'th' Sea;
+
+And more exactly to express his hue,
+
+Use nothing but Ultra-Marinish Blue.
+
+[[Page 25]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=18)To pay his
+Fees, the Silver Trumpet spends,
+
+And Boat-swains whistle, for his place depends;
+
+Pilots in vain repeat their Compass o're,
+
+Until of him they learn that one point more.
+
+The constant Magnet to the Pole doth hold,
+
+Steel to the Magnet, Coventry to Gold.
+
+Muscovy sells us Pitch, and Hemp and Tar;
+
+Iron and Copper, Sweden; Munster, War;
+
+Ashly, Prize; Warwick, Customs; Cart'ret, Pay;
+
+But Coventry doth sell the Fleet away.
+
+Now let our Navy stretch its Canvas Wings,
+
+Swoln like his Purse, with tackling like his strings,
+
+By slow degrees of the increasing gale,
+
+First under Sail, and after under Sale:
+
+Then in kind visit unto Opdam's Gout,
+
+Hedge the Dutch in, only to let them out.
+
+So Huntsmen fair unto the Hares give Law,
+
+First find them, and then civilly withdraw.
+
+That the blind Archer when they take the Seas,
+
+The Hambrough Convoy may betray with ease.
+
+So that the Fish may more securely bite,
+
+The Angler baits the River over night.
+
+But Painter, now prepare t' inrich thy piece,
+
+Pencil of Ermins, Oyl of Ambergreece,
+
+See where the Dutchess with triumphant trail
+
+Of numerous Coaches, Harwich doth assail!
+
+So the Land-Crabs, at Natures kindly call,
+
+Down to ingender to the Sea do crawl.
+
+See then the Admiral with the Navy whole,
+
+To Harwich through the Ocean carry Coal:
+
+So Swallows buried in the Sea at Spring,
+
+Return to Land with Summer in their Wing.
+
+One thrifty Ferry-boat of Mother-pearl,
+
+Suffic'd of old the Citharean Girl;
+
+Yet Navies are but Fopperies when here,
+
+A small Sea-mask, and built to court your Dear:
+
+Three Goddesses in one, Pallas for Art,
+
+Venus for Sport, but Juno in your Heart.
+
+[[Page 26]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=19)O
+Dutchess! if thy Nuptial pomp was mean,
+
+'Tis paid with interest in thy Naval scene.
+
+Never did Roman Mark within the Nile,
+
+So feast the fair Aegyptian Crocodile;
+
+Nor the Venetian Duke with such a state
+
+The Adriatick marry, at that rate.
+
+Now Painter, spare thy weaker art; forbear
+
+To draw her parting Passions and each Tear:
+
+For Love, alas! hath but a short delight;
+
+The Sea, the Dutch, the King, all call'd to fight.
+
+She therefore the Duke's person recommends
+
+To Brunker, Pen, and Coventry, her Friends,
+
+To Pen much, Brunker more, most Coventry;
+
+For they she knew were all more fraid than he:
+
+Of flying Fishes one had sav'd the Fin.
+
+And hop'd by this he thro' the Air might spin;
+
+The other thought he might avoid the Knell,
+
+By the invention of the Diving Bell;
+
+The third had try'd it, and affirm'd a Cable
+
+Coyld round about him was impenetrable.
+
+But these the Duke rejected, only chose
+
+To keep far off; let others interpose.
+
+Rupert that knew no fear, but Health did want,
+
+Kept State suspended in a Chair volant;
+
+All save his Head shut in that wooden case,
+
+He shew'd but like a broken Weatherglass;
+
+But arm'd with the whole Lyon Cap-a-Chin,
+
+Did represent the Hercules within.
+
+Dear shall the Dutch his twinging anguish know,
+
+And see what Valour whet with pain can do.
+
+Curst in the mean time be that treach'rous Jael,
+
+That thro' his Princely Temples drove the Nail.
+
+Rupert resolv'd to fight it like a Lyon;
+
+And Sandwich hop'd to fight it like Arion;
+
+He to prolong his Life in the dispute,
+
+And charm'd the Holland Pirates, tun'd his Lute,
+
+Till some judicious Dolphin might approach,
+
+And land him safe and sound as any Roach.
+
+[[Page 27]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=19)Now
+Painter, reassume thy Pencils care,
+
+Thou hast but skirmisht yet, now fight prepare;
+
+And draw the Battle terrible to shew,
+
+As the last Judgment was of Angelo.
+
+First let our Navy scowr thro' Silver Froth,
+
+The Oceans burthen, and the Kingdoms both;
+
+Whose very bulk may represent its birth;
+
+From Hide and Paston, burthens of the Earth;
+
+Hide whose transcendent Panch so swells of late,
+
+That he the Rupture seems of Law and State;
+
+Paston, whose Belly bears more millions,
+
+Than Indian Carracks, and contains more Tuns.
+
+Let shoals of Porpoises on every side
+
+Wonder in swimming by our Oaks out-vy'd;
+
+And the Sea-fowl all gaze, t' behold a thing
+
+So vast, more swift & strong than they of Wing.
+
+But yet presaging George they keep in sight,
+
+And follow for the Reliques of a Fight.
+
+Then let the Dutch with well dissembled fear,
+
+Or bold despair, more than we wish, draw near:
+
+At which our Gallants, to the Sea but tender,
+
+And more to fight their easy Stomachs render;
+
+With Breasts so panting, that at every stroke
+
+You might have felt their Hearts beat thro' the Oak:
+
+While one concerned in the interval
+
+Of straining Choler, thus did vent his Gall.
+
+Noah be damn'd! and all his Race accurst,
+
+Who in Sea-brine did pickle Timber first!
+
+What though he planted Vines, he Pines cut down,
+
+He taught us how to Drink and how to Drown:
+
+He first built Ships, and in his Wooden Wall,
+
+Saving but Eight, e're since endanger'd all.
+
+And thou Dutch Necromantick Fryar, be damn'd,
+
+And in thine own first Mortar-piece be ram'd!
+
+Who first invented Cannon in thy Cell,
+
+Nitre from Earth, and Brimstone fetcht from Hell.
+
+But damn'd and treble damn'd be Clarendine,
+
+Our Seventh Edward, with all his House and Line!
+
+[[Page 28]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=20)Who to
+divert the danger of the War,
+
+With Bristol, bounds us on the Hollander:
+
+Fool coated Gown man! sells, to fight with Hans,
+
+Dunkirk; dismantling Scotland, quarrels France;
+
+And hopes he now hath bus'ness shap'd, and Power
+
+T' out-last our Lives or his, and scape the Tower;
+
+And that he yet may see, e're he go down,
+
+His dear Clarinda circled in a Crown.
+
+By this time both the Fleets in reach dispute,
+
+And each the other mortally salute:
+
+Draw pensive Neptune biting of his Thumbs,
+
+To think himself a Slave whoe're o'recomes.
+
+The frighted Nymphs retreating to their Rocks,
+
+Beating their blue Breasts, tearing their green Locks.
+
+Paint Eccho slain, only th'alternate sound
+
+From the repeating Cannon doth rebound.
+
+Opdam sails placed on his Naval Throne,
+
+Assuming Courage greater than his own;
+
+Makes to the Duke and threatens him from far,
+
+To nail him to his Boards like a Petar;
+
+But in the vain attempt, took fire too soon,
+
+And flies up in his Ship to catch the Moon.
+
+Monsieurs like Rockets mount aloft, and crack
+
+In thousand sparks, then dancingly fall back.
+
+Yet e're this happen'd, destiny allow'd
+
+Him his Revenge, to make his death more proud;
+
+A fatal Bullet from his side did range,
+
+And batter'd Lawson: Oh too dear Exchange!
+
+He led our Fleet that day too short a space,
+
+But lost his Knee; since dy'd in glories Race:
+
+Lawson! whose Valour beyond fate did go,
+
+And still fights Opdam in the Lake below.
+
+The Duke himself, though Pen did not forget,
+
+Yet was not out of dangers Random set.
+
+Falmouth was there, I know not what to act;
+
+Some say 'twas to grow Duke too by contract:
+
+An untaught Bullet in its wanton scope,
+
+Dashes him all to pieces, and his Hope.
+
+[[Page 29]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=20)Such was
+his rise, such was his fall, unprais'd;
+
+A Chance-shot sooner took him than Chance rais'd:
+
+His shatter'd Head the fearless Duke disdains,
+
+And gave the last first proof that he had Brains.
+
+Bartlet had heard it soon, and thought not good
+
+To venture more of Royal Harding's Blood:
+
+To be Immortal he was not of Age,
+
+And did e'en now the Indian Prize presage;
+
+And judg'd it safe and decent, cost what cost,
+
+To lose the Day, since his dear Brother's lost.
+
+With his whole Squadron straight away he bore,
+
+And like good Boy, promis'd to fight no more.
+
+The Dutch Auranea careless at us sail'd;
+
+And promised to doe what Opdam fail'd:
+
+Smith to the Duke doth intercept her way,
+
+And cleaves t' her closer than a Remora:
+
+The Captain wonder'd, and withall disdain'd,
+
+So strongly by a thing so small, detain'd;
+
+And in a raging bravery to him runs,
+
+They stab their Ships with one anothers Guns:
+
+They fight so near it seems to be on Ground,
+
+And ev'n the Bullets meeting, Bullets wound.
+
+The noise, the smoak, the fire, the sweat, the blood,
+
+Is not to be exprest, nor understood.
+
+Each Captain from his Quarter-deck commands,
+
+They wave their bright Swords glittering in their hands.
+
+All luxury of VVar, all Man can do
+
+In a Sea-fight, did pass between them too.
+
+But one must conquer whosoever fight;
+
+Smith takes the Gyant and is made a Knight.
+
+Marlborough that knew, and durst do more than all,
+
+Falls undistinguisht by an Iron ball:
+
+Dear Lord! but born under a Star ingrate!
+
+No soul more clear, nor no more gloomy fate!
+
+VVho would set up VVars Trade that means to thrive?
+
+Death picks the Valiant out, Cowards survive:
+
+VVhat the Brave merit, th' Impudent do vaunt;
+
+And none's rewarded but the Sycophant.
+
+[[Page 30]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=21)Hence all
+his Life he against Fortune fenc'd,
+
+Or not well known, or not well recompenc'd:
+
+But envy not this praise t' his memory,
+
+None more prepar'd was, or less fit to dye:
+
+Rupert did others and himself excell:
+
+Holms, Tydiman, Minns; bravely Sanson fell.
+
+What others did, let none omitted, blame,
+
+I shall record, whoe're brings in his Name:
+
+But unless after-stories disagree,
+
+Nine only came to fight, the rest to see.
+
+Now all conspire unto the Dutchmens loss;
+
+The wind, the fire, we, they themselves do cross.
+
+When a sweet sleep began the Duke to drown,
+
+And with soft Diadems his Temples crown:
+
+And first he orders all the rest to watch,
+
+And They the Foe, whilst He a Nap doth catch:
+
+But lo, Brunkar by a secret instinct,
+
+Slept on, nor needed; he all day had winkt.
+
+The Duke in bed, he then first draws his steel,
+
+Whose vertue makes the misled Compass wheel.
+
+So e're He wak'd, both Fleets were innocent:
+
+And Brunkar Member is of Parliament.
+
+And now, dear Painter, after pains, like those,
+
+'Twere time that I and thou too do repose.
+
+But all our Navy scap'd so sound of Limb,
+
+That a short space serv'd to refresh and trim;
+
+And a tame Fleet of theirs doth Convoy want,
+
+Laden with both the Indies, and Levant:
+
+Paint but this one Scene more the world's our own,
+
+And Halcyon Sandwich doth command alone:
+
+To Bergen we with confidence made haste,
+
+And th' secret spoils by hope already taste;
+
+Though Clifford in the Character appear
+
+Of Supra-Cargo to our Fleet, and their
+
+Wearing a Signet ready to clap on,
+
+And seize all for his Master Arlington,
+
+Ruyter whose little Squadron skim'd the Seas,
+
+And wasted our remotest Colonies,
+
+[[Page 31]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=21)With Ships
+all foul, return'd upon our way;
+
+Sand—ch would not disperse, nor yet delay;
+
+And therefore like Commander grave and wise,
+
+To scape his sight and fight, shut both his Eyes;
+
+And for more state and sureness, Cutten true
+
+The left Eye closeth, the right Mountague;
+
+And even Clifford proffer'd in his zeal,
+
+To make all safe, t' apply to both his Seal.
+
+Vlysses so, till Syrens he had past,
+
+VVould by his Mates be pinion'd to the Mast.
+
+Now can our Navy view the wished Port,
+
+But there (to see the Fortune!) was a Fort:
+
+Sand—ch would not be beaten, nor yet beat;
+
+Fools only fight, the Prudent use to treat.
+
+His Cousin Mountague by Court-disaster,
+
+Dwindled into the wooden Horse's Master:
+
+To speak of Peace seem'd amongst all most proper,
+
+Had Talbot then treated of nought but Copper:
+
+Or what are Forts, when void of Ammunition?
+
+VVith friends or foes what would we more condition?
+
+Yet we three days, till the Dutch furnish'd all,
+
+Men, Powder, Money, Cannon,—treat with VVall!
+
+Then Tydiman, finding the Danes would not,
+
+Sent in six Captains bravely to be shot.
+
+And Mountague, though drest like any Bride,
+
+And aboard him too, yet was reach'd and dy'd:
+
+Sad was the chance, and yet a deeper care
+
+Wrinkled his Membranes under Forehead fair.
+
+The Dutch Armado yet had th' impudence
+
+To put to Sea, to waft their Merchants thence;
+
+For as if all their Ships of Wall-nut were,
+
+The more we beat them, still the more they bear:
+
+But a good Pilot and a favouring wind,
+
+Brings Sand—ch back, and once again did blind.
+
+Now gentle Painter, e're we leap on shore,
+
+With thy last strokes ruffle a Tempest o're;
+
+As if in our reproach, the Wind and Seas
+
+Would undertake the Dutch, while we take ease:
+
+[[Page 32]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=22)The Seas
+the spoils within our Hatches throw,
+
+The Winds both Fleets into our mouths do blow:
+
+Strew all their ships along the Shore by ours,
+
+As eas'ly to be gather'd up as Flow'rs:
+
+But Sand—ch fears for Merchants to mistake
+
+A man of War, and among Flow'rs a Snake.
+
+Two Indian ships pregnant with Eastern Pearl,
+
+And Diamonds, sate th' Officers and Earl:
+
+Then warning of our Fleet, he it divides
+
+Into the Ports, and so to Oxford rides.
+
+Mean while the Dutch uniting to our shames,
+
+Ride all insulting o'er the Downs and Thames!
+
+Now treating San—ch seems the fittest choice
+
+For Spain, there to condole, and to rejoyce:
+
+He meets the French; but to avoid all harms,
+
+Ships to the Groyn: Embassies bear no Arms:
+
+There let him languish a long Quarantain,
+
+And ne'er to England come till he be clean.
+
+Thus having fought, we know not why as yet;
+
+We've done we know not what, nor what we get:
+
+If to espouse the Ocean, all this pains
+
+Princes unite, and do forbid the Bains:
+
+If to discharge Phanaticks, this makes more;
+
+For all Phanaticks are, when they are poor:
+
+Or if the House of Commons to repay,
+
+Their Prize-Commissions are transferr'd away:
+
+But for triumphant check-stones if, and shell
+
+For Dutchess Closet, 't hath succeeded well.
+
+If to make Parliaments as odious pass,
+
+Or to reserve a standing force, alass!
+
+Or if, as just, ORANGE to re-instate,
+
+Instead of that, he is regenerate:
+
+And with four Millions vainly giv'n as spent,
+
+And with five Millions more of detriment,
+
+Our Summ amounts yet only to have won
+
+A Bastard Orange for Pimp Arl—ton
+
+Now may Historians argue con and pro:
+
+Denham says thus; though always Waller so:
+
+[[Page 33]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=22)And he,
+good Man, in his long sheet and staff,
+
+This Pennance did for Cromwel's Epitaph.
+
+And his next Theam must be o'th' Duke's Mistress,
+
+Advice to draw Madam l' Edificatress.
+
+Henceforth, O Gemini! two Dukes command,
+
+Castor and Pollux, Aumarle and Cumberland.
+
+Since in one Ship, it had been fit they'd went
+
+In Petty's Double-Keel'd Experiment.
+
+### 1.4. To the KING.
+
+By Sir John Denham.
+
+Imperial Prince! King of the Seas and Isles!
+
+Dear Object of our Ioy, and Heaven's smiles!
+
+What boots it that thy Light doth gild our Days,
+
+And we lie basking in thy milder Rays,
+
+While swarms of Insects, from thy warmth begun,
+
+Our Land devour, and intercept our Sun?
+
+Thou, like Jove's Minos, rul'st a greater Creet;
+
+And for its hundred Cities, count'st thy Fleet.
+
+Why wilt thou that State-Daedalus allow,
+
+Who builds the Butt, a Lab'rinth and a Cow?
+
+If thou art Minos, be a Iudge severe,
+
+And in's own Maze confound the Engineer.
+
+O may our Sun, since he too nigh presumes,
+
+Melt the soft wax wherewith he imps his Plumes!
+
+And may he falling leave his hated Name
+
+Unto those Seas his War hath set on Flame!
+
+From that Enchanter having clear'd thine Eyes,
+
+Thy native sight will pierce within the Skies,
+
+And view those Kingdoms calm with Ioy and Light,
+
+Where's Universal Triumph, but no Fight.
+
+Since both from Heaven thy Race and Power descend,
+
+Rule by its Pattern there to re-ascend:
+
+Let Iustice only awe, and Battel cease:
+
+Kings are but Cards in War; they're Gods in Peace.
+
+[[Page 34]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=23)
+
+### 1.5. Directions to a Painter.
+
+By Sir John Denham.
+
+SAnd—ch in Spain now, and the Duke in love,
+
+Let's with new Generals a new Painter prove:
+
+Lilly's a Dutchman, danger's in his art,
+
+His Pencils may Intelligence impart.
+
+Thou Gibson, that among thy Navy small
+
+Of Muscle-shells, commandest Admiral;
+
+Thy self so slender, that thou shew'st no more
+
+Than Barnacle new hatch'd of them before:
+
+Come mix thy Water-colours, and express
+
+Drawing in little what we yet do less.
+
+First paint me George and Rupert ratling far
+
+Both in one Box like the two Dice of War;
+
+And let the terrour of their linked Name,
+
+Fly thro' the air, like Chain-shot, tearing fame:
+
+Jove in one Cloud did scarcely ever wrap
+
+Lightning so fierce, but never such a clap.
+
+United Generals sure are th' onely spell,
+
+Wherewith United Provinces to quell:
+
+Alas, even they, though shell'd in treble Oak,
+
+Will prove an addle Egg with double Yolk.
+
+And therefore next uncouple either Hound,
+
+And loo them at two Hares e're one be found.
+
+Rupert and Beaufort, halloo; ah, there Rupert
+
+Like the phantastick hunting of St. Hubert;
+
+When he with airy Hounds, and Horn of air,
+
+Pursues by Fontain-bleau the witchy Hare.
+
+Deep providence of State! that could so soon
+
+Fight Beaufort here e're he had quit Thouloon.
+
+So have I seen, e're Human Quarrels rise,
+
+Foreboding Meteors combat in the Skies.
+
+But let the Prince to fight with Rumour go,
+
+The Generals meet a more substantial Foe:
+
+Ruyter he spies, and full of Youthfull heat,
+
+Though half their number, thinks the odds too great.
+
+[[Page 35]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=23)The Fowler
+watching, so his watry spot,
+
+And more the Fowl, hopes for the better shot.
+
+Though such a Limb was from his Navy torn,
+
+He found no weakness yet, like Sampson shorn;
+
+But swoln with sense of former Glory wone,
+
+Thought Monk must be by Albemarle out-done:
+
+Little he knew with the same Arm and Sword,
+
+How far the Gentleman out-cuts the Lord.
+
+Ruyter, inferiour unto none for Art.
+
+Superiour now in number and in Heart;
+
+Ask'd if he thought, as once our Rebel-Nation,
+
+To conquer theirs too, with a Declaration?
+
+And threatens, though he now so proudly sail,
+
+He shall tread back his Iter Boreale:
+
+This said, he the short period, e're it ends,
+
+With Iron-words from Brazen-mouths extends:
+
+Monk yet prevents him e're the Navies meet,
+
+And charges in himself alone a Fleet;
+
+And with so quick and frequent motion wound
+
+His murthering sides about, the Ship seem'd round;
+
+And the Exchanges of his Circling Tire,
+
+Like whirling Hoops, shew'd of triumphant Fire.
+
+Single he doth at their whole Navy aim,
+
+And shoots them through a Porcupine of flame.
+
+In noise so regular his Cannons met,
+
+You'd think that Thunder was to Musick set:
+
+Ah! had the rest but kept a time as true,
+
+What age could such a Martial Consort shew!
+
+The listning air unto the distant shore,
+
+Through secret Pipes conveys the tuned Roar;
+
+Till as the Eccho's vanishing, abate,
+
+Men feel a dead sound like the pulse of State.
+
+If Fate expire let Monk her place supply,
+
+His Guns determine who shall live or dye.
+
+But Victory doth always hate a Rant;
+
+Valour's her Brave, but Skill is her Gallant.
+
+Ruyter no less with vertuous Envy burns,
+
+And Prodigies for Miracles returns:
+
+[[Page 36]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=24)Yet he
+observ'd how still his Iron Balls,
+
+Recoyl'd in vain against our Oaken Walls.
+
+How the hard Pellets sell away as dead,
+
+By our inchanted Timber fillipped.
+
+Leave then, said he, th' invulnerable Keel,
+
+Wee'll find their feeble, like Achilles Heel.
+
+He quickly taught, pours in continual Clouds
+
+Of chain'd Dilemma's through our sinew'd Shrowds.
+
+Forrests of Masts fall with their rude embrace,
+
+Our stiff Sails masht, and netted into Lace;
+
+Till our whole Navy lay their wanton mark,
+
+Nor any Ship could sail but as the Ark,
+
+Shot in the Wing, so at the Powder's call,
+
+The disappointed Bird doth fluttering fall.
+
+Yet Monk disabl'd still such courage shews,
+
+That none into his mortal gripe dare close:
+
+So an old Bustard, maim'd yet loth to yield,
+
+Duels the Fowler in New-Market Field.
+
+But since he found it was in vain to fight,
+
+He imps his Plumes the best he can for flight:
+
+This, Painter, were a noble task to tell,
+
+What indignation his great Breast did swell.
+
+Not vertuous Man unworthily abus'd,
+
+Not constant Lover without cause refus'd,
+
+Not honest Merchant broke, nor skilfull Player
+
+Hist off the Stage, nor Sinners in despair;
+
+Not Parents mockt, nor Favourites disgrac'd,
+
+Not Rump by Monk, or Oliver displac'd;
+
+Not Kings depos'd, nor Prelates e're they dye,
+
+Feel half the rage of Gen'rals when they fly.
+
+Ah rather than transmit th' story to Fame,
+
+Draw Curtains, gentle Artist, o're the shame:
+
+Cashier the Memory of Dutell, rais'd up
+
+To taste, instead of Death, his Highness Cup;
+
+And if the thing were true, yet paint it not,
+
+How Bartlet, as he long deserv'd, was shot;
+
+[[Page 37]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=24)Though
+others that survey'd the Corps so clear,
+
+Said he was only petrify'd for fear:
+
+If so, th' hard Statute mummy'd without Gum,
+
+Might the Dutch Balm have spar'd, and English Tomb.
+
+Yet if thou wilt paint MINNS turn'd all to soul,
+
+And the great HARMAN cak'd almost to Coal;
+
+And JORDAN old worthy thy Pencil's pain,
+
+Who all the while held up the Ducal Train:
+
+But in a dark Cloud cover Askew, when
+
+He quit the Prince to embark in Lovestein;
+
+And wounded Ships, which wo immortal boast,
+
+Now first led Captive to an hostile Coast.
+
+But most with story of his Hand and Thumb,
+
+Conceal (as honour would) his Grace's Bum,
+
+When the large Bullet a large Collop tore
+
+Out of that Buttock never turn'd before:
+
+Fortune (it seems) would give him by that lash,
+
+Gentle correction for his fight so rash.
+
+But should the Rump perceive't, they'd say that Mars
+
+Had now reveng'd them upon Aumarle's Arse.
+
+The long disaster better o'er to vail,
+
+Paint only Jonas three days in the Whale:
+
+For no less time did conqu'ring Ruyter chaw
+
+Our flying Gen'ral in his Spungy Jaw.
+
+Then draw the youthfull Perseus all in hast,
+
+From a Sea-Beast to free the Virgin chast;
+
+But neither riding Pegasus for speed,
+
+Nor with the Gorgon shielded at his need:
+
+So Rupert the Sea-Dragon did invade,
+
+But to save George, himself, and not the Maid;
+
+And though arriving late, he quickly mist
+
+Ev'n Sails to fly, unable to resist.
+
+Not Greenland Seamen that survive the fright
+
+Of the cold Chaos, and half eternal Night,
+
+So gladly the returning Sun adore,
+
+Or run to spy the next Year's Fleet from shore,
+
+Hoping yet once within the Oily side
+
+Of the fat Whale, again their Spears to hide,
+
+[[Page 38]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=25)As our
+glad Fleet with universal shout
+
+Salute the Prince, and wish the second bout.
+
+Nor Wind's long Prisoners in Earth's hollow Vault,
+
+The fallow Seas so eagerly assault,
+
+As fiery Rupert with revengefull Joy,
+
+Doth on the Dutch his hungry Courage cloy;
+
+But soon unrigg'd, lay like an useless Board;
+
+(As wounded in the Wrist men drop their Sword)
+
+When a propitious Cloud between us stept,
+
+And in our aid did Ruyter intercept.
+
+Old Homer yet did never introduce,
+
+To save his Heroes, Mists of better use.
+
+Worship the Sun, who dwell where he doth rise;
+
+This Mist doth more deserve our Sacrifice.
+
+Now joyfull Fires and the exalted Bell,
+
+And Court-Gazettes our empty Triumphs tell.
+
+Alas, the time draws near, when overturn'd,
+
+Thy lying Bells shall through the Tongues be burnt;
+
+Paper shall want to print that Lye of State,
+
+And our false Fires true Fires shall expiate.
+
+Stay Painter here awhile, and I will stay;
+
+Nor vex the future Times with my survey:
+
+Seest not the Monky Dutchess all undrest?
+
+Paint thou but her, and she will paint the rest.
+
+This sad Tale found her in her outward Room,
+
+Nailing up Hangings not of Persian Loom:
+
+Like chaste Penelope that ne'er did rome,
+
+But made all fine against her GEORGE came home.
+
+Upon a Ladder, in her Coats much shorter,
+
+She stood with Groom and Coachman for Supporter;
+
+And careless what they saw, or what they thought,
+
+With Honi Pense full honestly she wrought.
+
+One Tenter drove, to lose no time or place,
+
+At once the Ladder they remove, and Grace.
+
+Whilst thus they her translate from North to East,
+
+In posture just of a four footed Beast,
+
+She heard the News: but alter'd yet no more,
+
+Than that which was behind she turn'd before;
+
+[[Page 39]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=25)Nor would
+come down, but with an Handkercher,
+
+Which Pocket foul did to her Neck prefer:
+
+She shed no tears, for she was too Viraginous,
+
+But only snuffling her Trunk Cartilaginous,
+
+From Scaling Ladder she began a story,
+
+Worthy to be had in Memento Mori;
+
+Arraigning past, and present, and futuri,
+
+With a prophetick, if not friendly Fury.
+
+Her Hair began to creep, her Belly sound,
+
+Her Eyes to sparkle, and her Udder-bound;
+
+Half Witch, half Prophet; thus the Albemarle,
+
+Like Presbyterian Sybil, 'gan to snarl:
+
+Traytors both to my Lord, and to the King!
+
+Nay now it is beyond all suffering!
+
+One Valiant Man by Land, and he must be
+
+Commanded out to stop their leaks at Sea:
+
+Yet send him Rupert, as an helper meet;
+
+First the Commands dividing, then the Fleet:
+
+One may if they be beat, or both be hit;
+
+Or if they overcome, yet Honours split.
+
+But reck'ning GEORGE already knockt i'th' head,
+
+They cut him out like Beef e're he be dead:
+
+Each for a Quarter hopes; the first doth skip,
+
+But shall fall short though at the Gen'ral-ship.
+
+Next they for Master of the Horse agree;
+
+A third the Cock-pit begs, not any Me.
+
+But they shall know, ay marry shall they do▪
+
+That who the Cock-pit hath, shall have Me too.
+
+I told George first, as Calamy told me,
+
+If the King brought these o're, how it would be:
+
+Men that there pick his Pocket to his Face,
+
+And sell Intelligence to buy a Place▪
+
+That their Religion's pawn'd for Cloaths, nor care,
+
+'Tis run so long now, to redeem't, nor dare.
+
+O what egregious Loyalty to cheat!
+
+O what Fidelity it was to Eat!
+
+Whilst Langdales, Hoptons, Glenhams starv'd abroad,
+
+And here true Roy'lists sink beneath their load.
+
+[[Page 40]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=26)Men that
+did there affront, defame, betray
+
+The King, and so do here; now who but they!
+
+What! say I Men! nay, rather Monsters; Men
+
+Only in bed, nor to my Knowledge then.
+
+See how they home return'd in revel rout,
+
+With the small manners that they first went out:
+
+Not better grown, nor wiser all the while,
+
+Renew the causes of their first Exile:
+
+As if, to shew the Fool what 'tis I mean,
+
+I chose a foul Smock, when I might have clean.
+
+First, they for fear disband the Army tame,
+
+And leave good George a Gen'rals empty name:
+
+Then Bishops must revive, and all unfix
+
+With Discontents, to content Twenty six:
+
+The Lords House drains the Houses of the Lord,
+
+For Bishops Voices silencing the word.
+
+O Barthol'mew! Saint of their Kalander!
+
+What's worse, th' Ejection or the Massacre?
+
+Then Culpepper, Glouster, and the Princess dy'd;
+
+Nothing can live that interrupts an Hyde.
+
+O more than human GLOSTER! Fate did shew
+
+Thee but to Earth, and back again withdrew.
+
+Then the fat Scrivener doth begin to think
+
+'Twas time to mix the Royal Blood with Ink.
+
+Berkley that swore as oft as he had Toes,
+
+Doth kneeling now her Chastity depose;
+
+Just as the first French Card'nal could restore
+
+Maidenhead to his Widow, Neece and Whore.
+
+For Portion, if she could prove light, when weigh'd,
+
+Four Millions shall within three years be paid;
+
+To raise it, we must have a Naval War,
+
+As if 'twere nothing but Tara-Tan-Tar!
+
+Abroad all Princes disobliging first,
+
+At home all Parties but the very worst.
+
+To tell of Ireland, Scotland, Dunkirk's sad;
+
+Or the King's Marriage: But he thinks I'm mad:
+
+And sweeter Creature never saw the Sun,
+
+If we the King wish Monk, or Queen a Nun.
+
+[[Page 41]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=26)But a
+Dutch War shall all these Rumors still,
+
+Bleed out these Humours, and our Purses fill;
+
+Yet after four days Fight, they clearly saw
+
+'Twas too much danger for a Son-in-Law:
+
+Hire him to leave, for Six score thousand Pound:
+
+So with the King's Drums men for sleep compound.
+
+But modest Sand—ch thought it might agree
+
+With the State-prudence, to do less than he;
+
+And to excuse their timorousness and sloth,
+
+They found how George might now be less than both.
+
+First Smith must for Leghorn, with force enough
+
+To venture back again, but not go through:
+
+Beaufort is there, and to their dazling Eyes
+
+The distance more the Object magnifies;
+
+Yet this they gain, that Smith his time should lose,
+
+And for my Duke too, cannot interpose.
+
+But fearing that our Navy, George to break,
+
+Might yet not be sufficiently weak;
+
+The Secretary, that had never yet
+
+Intelligence, but from his own Gazette,
+
+Discovers a great Secret, fit to sell,
+
+And pays himself for't, e'er he would it tell;
+
+Beaufort is in the Channel; Hixy here!
+
+Doxy Thoulon! Beaufort is ev'ry-where.
+
+Herewith assembling the supreme Divan,
+
+Where enters none but Devil, NED and NAN;
+
+And upon this pretence they straight design'd,
+
+The Fleet to sep'rate, and the World to blind:
+
+Monk to the Dutch, and Rupert (here the Wench
+
+Could not but smile) is destin'd to the French.
+
+To write the order, Bristol Clerk is chose;
+
+One slit in's Pen, the other in his Nose;
+
+For he first brought the News, it is his place;
+
+He'll see the Fleet divided like his Face;
+
+And through the cranny in his grisly part,
+
+To the Dutch Chink Intelligence impart.
+
+The Plot succeeds: The Dutch in hast prepar'd,
+
+And poor Peel Garlick George's Arse they shar'd;
+
+[[Page 42]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=27)And then
+presuming of his certain Wrack,
+
+To help him late they send for Rupert back.
+
+Officious Will seem'd fittest, as afraid
+
+Lest George should look too far into his Trade.
+
+At the first Draught they pause with Statesmens care,
+
+They write in full, then copy it as fair;
+
+And then compare them, when at last its sign'd,
+
+Will soon his Purse-strings, but no Seal could find.
+
+At Night he sends it by the common Post,
+
+To save the King of an Express the cost.
+
+Lord, what ado to pack one Letter hence!
+
+Some Patents pass with less circumference.
+
+Well George, in spite of them thou safe dost ride,
+
+Lessen'd I hope in nought but thy backside;
+
+For as to Reputation, this Retreat
+
+Of thine, exceeds the Victories so great:
+
+Nor shalt thou stir from hence, by my consent,
+
+Till thou hast made the Dutch and Them repent.
+
+'Tis true, I want so long the Nuptial Gift,
+
+But as I oft have done, I'll make a shift;
+
+Nor will I with vain pomp accost the shore,
+
+To try thy Valour at the Bouy o'th' Nore,
+
+Fall to thy Work there George, as I do here;
+
+Cherish the valiant up, Cowards cashier:
+
+See that the Men have Pay, and Beef, and Beer,
+
+Find out the cheats of the four Millioneer.
+
+Out of the very Beer, they sell the Malt;
+
+Powder of Powder, from powder'd Beef the Salt.
+
+Put thy hand to the Tub, instead of Oxe,
+
+They victual with French Pork that hath the Pox.
+
+Never such Cotqueans by small arts do wring,
+
+Ne'er such ill Huswives in the managing!
+
+Pursers at Sea know fewer cheats than they,
+
+Marriners on Shore less madly spend their Pay.
+
+See that thou hast new Sails thy self, and spoil
+
+All their Sea-market, and their Cable coyl.
+
+Look that good Chaplains on each Ship do wait,
+
+Nor the Sea-Diocese be impropriate:
+
+[[Page 43]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=27)Look to
+the sick and wounded Pris'ners; all
+
+Is prize; they rob even the Hospital,
+
+Recover back the Prizes too; in vain
+
+We fight, if all be taken that is ta'en.
+
+Now by our Coast the Dutchmen, like a Flight
+
+Of feeding Ducks, ev'ning and morning light;
+
+How our Land-Hectors tremble, void of sense,
+
+As if they came straight to transport them hence:
+
+Some Sheep are stol'n; the Kingdom's all array'd,
+
+And ev'd Presbyters now call out for aid.
+
+They wish ev'n George divided to command,
+
+One half of him at Sea, th' other on Land.
+
+What's that I see! ah, 'tis my George agen!
+
+It seems they in sev'n Weeks have rigg'd him then.
+
+The curious Heav'ns with Lightning him surrounds,
+
+To view him, and his Name in Thunder sounds.
+
+But with the same swift goes, their Navy's near:
+
+So e'er we hunt the Keeper shoots the Deer.
+
+Stay Heaven awhile, and thou shalt see him  [...]ail,
+
+And George too, he can thunder, lighten, hail.
+
+Happy the time that I e'er wedded George,
+
+The Sword of England, and the Holland Scourge.
+
+Avaunt Rotterdam-Dog, Ruyter avaunt,
+
+Thou Water-Rat, thou Shark, thou Cormorant.
+
+I'll teach thee to shoot Scissors: I'll repair
+
+Each Rope thou losest George, out of this Hair.
+
+'Tis strong and course enough; I'll hem this shift,
+
+E'er thou shalt lack a Sail, and lie a-drift:
+
+Bring home the old ones; I again will sew,
+
+And darn them up, to be as good as new.
+
+What, twice disabled! Never such a thing!
+
+Now Sovereign help him that brought in the King,
+
+Guard thy Posteriors, George, e'er all be gone,
+
+Tho' Jury-Masts, thou'st Jury-Buttocks none.
+
+Courage! How bravely (whet with this disgrace)
+
+He turns, and Bullets spits in Ruyter's Face.
+
+They fly, they fly, their Fleet doth now divide,
+
+But they discard their Trump: our Trump is Hyde.
+
+[[Page 44]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=28)Where are
+you now,de Ruyter, with your Bears?
+
+See where your Merchants burn about your Ears.
+
+Fire out the Wasps, George from the hollow Trees,
+
+Cramm'd with the Honey of our English Bees.
+
+Ah now they are paid for Guinea: e'er they steer
+
+To the Gold Coast, they find it hotter here.
+
+Turn all your Ships to stoves e'er you set forth,
+
+To warm your Traffick in the frozen North.
+
+Ah Sandwich! had thy conduct been the same,
+
+Bergen had seen a less but richer Flame;
+
+Nor Ruyter liv'd new battle to repeat,
+
+And oftner beaten be, than we can beat.
+
+Scarce had George leisure after all his pain,
+
+To tie his Breaches; Ruyter's out again:
+
+Thrice in one Year! Why sure this Man is wood:
+
+Beat him like Stock-fish, or he'll ne'er be good.
+
+I see them both again prepare to try;
+
+The first shot through each other with the Eye.
+
+Then—but the ruling Providence that must
+
+With humane Projects play, as Wind with Dust,
+
+Raises a storm. So Constables a fray
+
+Knock down; and send them both well cuff'd away.
+
+Plant now New England Firs in English Oak,
+
+Build your Ships Ribs proof to the Cannon stroke:
+
+To get the Fleet to Sea, exhaust the Land;
+
+Let longing Princes pine for the command:
+
+Strong March-panes! Wafers lights! so thin a puff
+
+Of angry air can ruin all that huff:
+
+So Champions having shar'd the Lists and Sun,
+
+The Judge throws down's Award, and they have done.
+
+For shame come home George, 'tis for thee too much
+
+To fight at once with Heaven and the Dutch.
+
+Woe's me! what see I next, alas! the fate
+
+I see of England, and its utmost date.
+
+Those Flames of theirs at which we fondly smile,
+
+Kindle like Torches our Sepulchral Pile.
+
+[[Page 45]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=28)War, Fire,
+and Plague against us all conspire;
+
+We the War, God the Plague, who rais'd the Fire?
+
+See how Men all like Ghosts, while London burns,
+
+Wander, and each over his Ashes mourns!
+
+Curs'd be the Man that first begat this War,
+
+In an ill hour, under a blazing Star.
+
+For Others sport two Nations fight a Prize;
+
+Between them both, Religion wounded dies.
+
+So of first Troy, the angry Gods unpaid,
+
+Raz'd the Foundations which themselves had laid.
+
+Welcome, though late, dear George: here hadst thou bin,
+
+We'd scap'd: (let Rupert bring the Navy in.)
+
+Thou still must help them out, when in the mire;
+
+Gen'ral at Land, at Plague, at Sea, at Fire.
+
+Now thou art gone, see Beaufort dares approach,
+
+And our Fleets angling, as to catch a Roach.
+
+Gibson farewell, till next we put to Sea:
+
+Truth is, thou'st drawn her in Effigie.
+
+### 1.6. To the KING:
+
+By Sir John Denham.
+
+GReat Prince: and so much Greater as more Wise;
+
+Sweet as our Life, and dearer than our Eyes,
+
+What Servants will conceal, and Councels spare
+
+To tell, the Painter and the Poet dare.
+
+And the assistance of an Heavenly Muse
+
+And Pencil represent the Crimes abstruse.
+
+Here needs no Fleet, no Sword, no foreign Foe;
+
+Only let Vice be damn'd, and Iustice flow.
+
+Shake but, like Jove, thy Locks divine and frown,
+
+Thy Scepter will suffice to guard thy Crown.
+
+Hark to Cassandra's Song, e'er fate destroy
+
+By thy lowd Navy's wooden Horse, thy Troy.
+
+As our Apollo, from the Tumults wave,
+
+And gentle Calms, though but in Oars will save.
+
+[[Page 46]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=29)So
+Philomel her sad embroidery strung,
+
+And vocal Silks tun'd with her Needles Tongue.
+
+The Pictures dumb in Colours loud reveal'd
+
+The Tragedies at Court so long conceal'd;
+
+But when restor'd to voice inclos'd with wings,
+
+To Woods and Groves what once the Painter sings.
+
+### 1.7. Directions to a Painter.
+
+By Sir John Denham.
+
+DRaw England ruin'd by what was given before,
+
+Then draw the Commons slow in giving more:
+
+Too late grown wiser, they their treasure see
+
+Consum'd by fraud, or lost by treachery;
+
+And vainly now would some account receive
+
+Of those vast Summs which they so idly gave,
+
+And trusted to the management of such
+
+As Dunkirk sold, to make War with the Dutch;
+
+Dunkirk, design'd once to a nobler Use,
+
+Than to erect a petty Lawyer's House.
+
+But what account could they from those expect,
+
+Who to grow rich themselves the State neglect;
+
+Men who in England have no other Lot,
+
+Than what they by betraying it have got;
+
+Who can pretend to nothing but Disgrace,
+
+Where either Birth or Merit find a place.
+
+Plague, Fire and War, have been the Nation's Curse,
+
+But to have these our Rulers, is a worse:
+
+Yet draw these Causers of the Kingdoms Woe,
+
+Still urging dangers from our growing Foe,
+
+Asking new Aid for War with the same face,
+
+As if, when giv'n, they meant not to make Peace.
+
+Mean while they cheat the publick with such hast,
+
+They will have nothing that may ease it, past.
+
+They Law 'gainst Irish Cattle they condemn,
+
+As shewing distrust o'th' King; that is, of them.
+
+[[Page 47]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=29)Yet they
+must now swallow this bitter Pill,
+
+Or Money want, which was the greater ill.
+
+And then the King to Westminster is brought,
+
+Imperfectly to speak the Chanc'llors thought;
+
+In which, as if no Age could parallel
+
+A Prince and Council that had rul'd so well,
+
+He tells the Parliament he cannot brook
+
+Whate'er in them like Jealousie doth look:
+
+Adds, that no grievances the Nation load,
+
+While we're undone at home despis'd abroad.
+
+Thus past the Irish with the Money-Bill,
+
+The first not half so good, as th' other ill.
+
+With these new Millions might we not expect
+
+Our Foes to vanquish, or our selves protect;
+
+If not to beat them off usurped Seas,
+
+At least to force an honourable Peace:
+
+But though the angry fate, or folly rather,
+
+Of our perverted State, allow us neither;
+
+Could we hope less to defend our Shores,
+
+Than guard our Harbours, Forts, our ships and stores?
+
+We hop'd in vain: Of these remaining are,
+
+Not what we sav'd, but what the Dutch did spare.
+
+Such was our Rulers generous stratagem;
+
+A policy worthy of none but them.
+
+After two Millions more laid on the Nation,
+
+The Parliament grows ripe for Prorogation:
+
+They rise, and now a Treaty is confest,
+
+Gainst which before these State-cheats did protest:
+
+A Treaty which too well makes it appear,
+
+Theirs, not the Kingdom's Int'rest, is their care:
+
+Statesmen of old, thought Arms the way to Peace;
+
+Ours scorn such thread-bare policies as these:
+
+All that was given for the State's defence,
+
+They think too little for their own expence:
+
+Or if from that they any thing can spare,
+
+[...]t is to buy Peace, not maintain a War:
+
+For which great work Embassadors must go
+
+With bare submissions to our arming foe:
+
+[[Page 48]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=30)Thus
+leaving a defenceless State behind,
+
+Vast Fleets preparing by the Belgians find;
+
+Against whose fury what can us defend?
+
+Whilst our great Polititians here depend
+
+Upon the Dutch good Nature: For when Peace
+
+(Say they) is making, Acts of War must cease.
+
+Thus were we by the name of Truce betray'd.
+
+Tho' by the Dutch nothing like it was made.
+
+Here, Painter, let thine Art describe a Story
+
+Shaming our warlike Island's ancient Glory:
+
+A Scene which never on our Seas appear'd,
+
+Since our first ships were on the Ocean steer'd;
+
+Make the Dutch Fleet while we supinely sleep,
+
+Without Opposers, Masters of the Deep:
+
+Make them securely the Thames-mouth invade,
+
+At once depriving us of that and Trade:
+
+Draw Thunder from their floating Castles, sent
+
+Against our Forts, weak as our Government:
+
+Draw Woollidge, Deptford, London, and the Tower,
+
+Meanly abandon'd to a foreign power.
+
+Yet turn their first attempt another way,
+
+And let their Cannons upon Sheerness play;
+
+Which soon destroy'd, their lofty Vessels ride
+
+Big with the hope of the approaching Tide:
+
+Make them more help from our Remisness find,
+
+Than from the Tide, or from the eastern Wind.
+
+Their Canvas swelling with a prosp'rous gale,
+
+Swift as our fears make them to Chatham sail:
+
+Through our weak Chain their Fireships break their way,
+
+And our great Ships (unmann'd) become their prey:
+
+Then draw the fruit of our ill-manag'd Cost,
+
+At once our Honour and our Safety lost:
+
+Bury those Bulwarks of our Isle in Smoak,
+
+While their thick Flames the neighb'ring Country choak,
+
+The Charles escapes the raging Element,
+
+To be with triumph into Holland sent;
+
+Where the glad People to the Shore resort,
+
+To see their Terror, now become their sport.
+
+[[Page 49]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=30)But
+Painter, fill not up thy Peice before
+
+Thou paint'st Confusion on our troubled shore:
+
+Instruct then thy bold Pencil to relate
+
+The saddest Marks of an ill govern'd State.
+
+Draw th'injur'd Seamen deaf to all Command,
+
+While some with horror and amazement stand:
+
+Others will know no other Enemy but they
+
+Who have unjustly robb'd them of their Pay:
+
+Boldly refusing to oppose a Fire.
+
+To kindle which, our Errors did conspire:
+
+Some (though but few) perswaded to obey,
+
+Useless for want of Ammunition stay:
+
+The Forts design'd to guard our Ships of War,
+
+Void both of Powder and of Bullets are:
+
+And what past Reigns in peace did ne'er omit,
+
+The present (whilst invaded) doth forget.
+
+Surpassing Chatham, make Whitehall appear,
+
+If not in danger, yet at least in fear.
+
+Make our dejection (if thou canst) seem more
+
+Than our Pride, Sloth and Ign'rance did before:
+
+The King, of danger now shews far more fear,
+
+Then he did ever to prevent it, care;
+
+Yet to the City doth himself convey,
+
+Bravely to shew he was not run away:
+
+Whilst the Black Prince, and our Fifth Harry's Wars,
+
+Are only acted on our Theatres.
+
+Our Statesmen finding no expedient,
+
+(If fear of danger) but a Parliament,
+
+Twice would avoid, by clapping up a Peace;
+
+The Cure's to them as bad as the Disease:
+
+But Painter, end not, till it does appear
+
+Which most, the Dutch or Parliament they fear.
+
+As Nero once, with Harp in hand, survey'd
+
+His flaming Rome; and as that burnt, he plaid:
+
+So our great Prince, when the Dutch Fleet arriv'd,
+
+Saw his Ships burn; and as they burnt, he—
+
+[[Page 50]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=31)
+
+### 1.8. Directions to a Painter:
+
+By Sir John Denham.
+
+PAinter, where was't thy former Work did cease?
+
+Oh, 'twas at Parliament, and the brave Peace.
+
+Now for a Cornucopia: Peace, all know
+
+Brings Plenty with it; wish it be not Woe.
+
+Draw Coats of Pageantry, and Proclamations
+
+Of Peace, concluded with one, two, three Nations.
+
+Canst thou not on the change make Merchants grin
+
+Like outward smiles, whiles vexing thoughts within?
+
+Thou art no Artist, if thou canst not feign,
+
+And counterfeit the counterfeit disdain.
+
+Draw a brave Standard, ruffling at a rate
+
+Much other than it did for Chatham's fate.
+
+The Tow'r Guns too, thundring their Joys, that they
+
+Have scap'd the danger of b'ing ta'en away:
+
+These, as now Mann'd, for triumph are, not fight;
+
+As painted fire for show, not heat or light.
+
+Amongst the roar of these, and the mad shout
+
+Of a poor nothing understanding Rout,
+
+That think the On and Off-Peace now is true,
+
+Thou might'st draw Mourners for Black Barthol'mew:
+
+Mourners in Sion! Oh 'tis not to be
+
+Discover'd! draw a Curtain curteously
+
+To hide them. Now proceed to draw at night
+
+A Bonfire here and there; but none too bright,
+
+Nor lasting: for 'twas Brushwood, as they say,
+
+Which they that hop'd for Coals now flung away.
+
+But stay, I had forgot my Mother: draw
+
+The Church of England 'mongst the Opera,
+
+To play their part too; or the Dutch will say,
+
+In War and Peace they've born the B [...]lls away.
+
+At this end then, two or three Steeples ringing,
+
+At th' other end, draw Quires, Te Deum singing;
+
+Between them leave a space for Tears: Remember
+
+That 'tis not long to th' Second of September.
+
+[[Page 51]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=31)Now if
+thou skill'st prospective Landskip, draw
+
+At distance, what perhaps thine Eyes ne'er saw;
+
+Polyroon, Spicy Islands, Kits, or Guinea:
+
+Syrenam, Nova Scotia, or Virginia:
+
+No, no; I mean not these, pray hold your laughter;
+
+These things are far off, not worth looking after:
+
+Give not a hint of these: Draw Highland, Lowland,
+
+Mountains and Flatts: Draw Scotland first, then Holland.
+
+See, canst thou ken the Scots frowns? Then draw those
+
+That something had to get, but nought to lose.
+
+Canst thou through Fogs discern the Dutchmen drink?
+
+Buss-Skippers, lately Capers, stamp to think
+
+Their catching craft is over: some have ta'en,
+
+To eke their War, a Warrant from the Dane.
+
+But passing these, their Statesmen view a while,
+
+In ev'ry graver Countenance a Smile:
+
+Copy the piece there done, wherein you'll see
+
+One laughing out, I told you how 'twould be!
+
+Draw next a pompous interchange of Seals;
+
+But curs'd be he that Articles reveals
+
+Before he knows them: Now for this take light
+
+From him that did describe Sir Edward's fight:
+
+You may perhaps the truth on't doubt; what tho'?
+
+You'll have it then Cum Privilegio.
+
+Then draw our Lords Commissioners advance,
+
+Not homewards, but for Flanders, or for France;
+
+There to parlier a while, until they see
+
+How things in Parliament resented be.
+
+So much for Peace. Now for a Parliament:
+
+A petty Sessions draw: with what content,
+
+Guess by their Countenance, who came up post,
+
+And quickly saw they had their Labour lost:
+
+Like the small Merchants when they Bargains sell;
+
+Come hither Jack: What say? Come kiss: Farewel:
+
+But 'twas abortive, born before its Day;
+
+No wonder then it dy'd so soon away.
+
+Yet breath'd it once, and that with such a force,
+
+It blasted Thirty Thousand Foot and Horse.
+
+[[Page 52]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=32)As once
+Prometheus Man did sneeze so hard,
+
+As routed all that new rais'd standing Guard
+
+Of Teeth, to keep the Tongue in order: So
+
+Down fall our new Gallants without a Foe.
+
+But if this little one could do so much,
+
+What will the next? Give a Prophetick touch.
+
+If thou know how; if not, leave a great space,
+
+For great things to be pourtray'd in their place,
+
+Now draw the shadow of a Parliament,
+
+As if to scare the upper World 'twere sent:
+
+Cross your selves, Gentlemen, for shades will fright,
+
+Especially if't be an English Sprite:
+
+Vermillion this man's guilt, cerule his fears;
+
+Sink th' others Eyes deep in his Head with cares:
+
+Another thoughtsome on accounts to see
+
+How his Disbursements with Receipts agree.
+
+Peep into Coaches, see Perriwigs neglected,
+
+Cross'd Arms and Legs of such as are suspected,
+
+Or do suspect what's coming, and foresee
+
+Themselves must share in this Polutrophy.
+
+Painter, hast travell'd? Didst thou e'er see Rome?
+
+That fam'd piece there, Angelo's day of Doom?
+
+Horror and Anguish of Descenders there,
+
+May teach thee how to paint Descenders here.
+
+Canst thou describe the empty shifts are made,
+
+Like that which Dealers call, Forcing of Trade.
+
+Some shift their Crimes, some Places; and among
+
+The rest, some will their Countries too, e'er long.
+
+Draw in a corner, Gamesters, shuffling, cutting,
+
+Their little Crafts, no wit, together putting:
+
+How to pack Knaves, 'mongst Kings and Queens, to make
+
+A saving Game, whilst Heads are at the stake.
+
+But cross their Cards, untill it be confest,
+
+Of all the Play, fair dealing is the best.
+
+Draw a Veil of Displeasure, one to Hide,
+
+And some prepared to strike a blow on's side.
+
+Let him that built high, now creep low to shelter,
+
+When Potentates must tumble Helter Skelter.
+
+[[Page 53]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=32)The Purse,
+Seal, Mace, are gone, as it was fit,
+
+Such Marks as these could not chuse but be hit.
+
+The Purse, Seal, Mace, are gone; Bartholomew-day,
+
+Of all the days i'th' Year, they're ta'en away.
+
+The Purse, Seal, Mace, are gone: but to another
+
+Mitre, I wish not so, tho' to my Brother:
+
+I care not for translation to a See,
+
+Unless they would translate to Italy.
+
+Now draw a Sail playing before the Wind,
+
+From the North-West; that which it leaves behind,
+
+Curses or Out-cries, mind them not, tell when
+
+They do appear Realities, and then
+
+Spare not to paint them in their Colours, though
+
+Crimes of a Viceroy: Deputies have so
+
+Been serv'd e'er now: But if the Man prove true,
+
+Let him with Pharoah's Butler have his due.
+
+Make the same wind blow strong against the Shore
+
+Of France, to hinder some from coming o'er.
+
+And rather draw the golden Vessel burning,
+
+Even there, than hither with her Fraight returning.
+
+'Tis true, the noble Treasurer is gone:
+
+Wise, Faithfull, Loyal, some say th 'only one!
+
+Yet I will hope we've Pilots left behind
+
+Can steer our Vessel without Southern wind.
+
+Women have grosly snar'd the wisest Prince
+
+That ever was before, or hath been since:
+
+And Granham Athaliah in that Nation,
+
+Was a great hinderer of Reformation.
+
+Paint in a new Peice painted Jezebel;
+
+Giv't to adorn the dining Room of Hell.
+
+Hang by her others of the Gang; for more
+
+Deserve a place with Rosamond, Iane Shore, &c.
+
+Stay Painter, now look, here's below a space
+
+I'th' bottom of this, what shall we place?
+
+Shall it be Pope, or Turk, or Prince, or Nun?
+
+Let the resolve be Nescio. So have done.
+
+Expose thy Peice now to the World to see,
+
+Perhaps they'll say of It, of Thee, of Me,
+
+[[Page 54]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=33)Poems and
+Paints can speak sometimes bold Truths,
+
+Poets and Painters are licentious Youths.
+
+Quae sequuntur, in limine T'halami Regii, à nescio
+
+quo nebulone scripta, reperibantur.
+
+Bella fugis, bellas sequeris, belloque repugnas
+
+Et bellatori▪ sunt tibi bella Thori
+
+Imbelles imbellis amas, audaxque videris
+
+Mars ad opus Veneris, Martis ad arma Venus.
+
+### 1.9. The last Instructions to a Painter, about the Dutch Wars, 1667.
+
+By A. Marvell, Esq.
+
+AFter two sittings now our Lady-State
+
+To end her Picture does the third time wait;
+
+But e'er thou fall'st to work, first Painter see,
+
+If't be'nt too slight grown, or too hard for thee.
+
+Canst thou paint without Colours, then 'tis right?
+
+For so we too without a Fleet can fight.
+
+Or canst thou daub a sign-post, and that ill?
+
+'Twill suit our great Debauch and little Skill.
+
+Or hast thou mark'd how antique Masters Limn,
+
+The Aly-roof with Snuff of Candle dim,
+
+Sketching in shady Smoak, prodigious Tools?
+
+'Twill serve this race of Drunkards, Pimps and Fools.
+
+But if to match our crimes thy skill presumes,
+
+As th' Indian draw out Luxury in Plumes.
+
+Or if to score out our compendious Fame,
+
+With Hook then through your Microscope take aim;
+
+Where like the new Comptroller all men laugh,
+
+To see a tall Louse brandish a white Staff.
+
+Else shalt thou off thy guiltless Pencil curse.
+
+Stamp on thy Palate, nor perhaps the worse.
+
+The Painter so long having vext his Cloth,
+
+Of his Hounds mouth to feign the raging Froth,
+
+[[Page 55]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=33)His
+desparate Pencil at the work did dart;
+
+His anger reacht that rage which past his Art.
+
+Chance finisht that, which Art could but begin,
+
+And he sate smiling how his Dog did grin.
+
+So may'st th [...]u perfect by a lucky blow,
+
+What all thy softest touches cannot do.
+
+Paint then St. Albans full of Soop and Gold,
+
+The new Courts pattern, Stallion of the old.
+
+Him neither Wit nor Courage did exalt,
+
+But Fortune chose him for her pleasure's Salt.
+
+Paint him with Dray-mans Shoulders, Butchers Mein,
+
+Member'd like Mule, with Elephantine Chin.
+
+Well he the Title of St. Albans bore;
+
+For never Bacon studied Nature more:
+
+But age allaying now that youthfull heat,
+
+Fits him in France to play at Cards and cheat.
+
+Draw no Commission, lest the Court should lye,
+
+And disavowing Treaty, ask supply;
+
+He needs no Seal but to St. James's lease,
+
+Whose Breeches were the instruments of Peace.
+
+Who if the French dispute his power, from thence
+
+Can strait produce them a Plenipotence
+
+Nor fears he the Most Christian should trapan
+
+Two Saints at once, St. German, and St. Alban;
+
+But thought the Golden age was now restor'd,
+
+When Men and Women took each others word.
+
+Paint then again her Highness to the Life,
+
+Philosopher beyond Newcastle's Wife:
+
+She naked can Archimedes self put down
+
+For an experiment upon the Crown.
+
+She perfected that Engine oft essay'd,
+
+How after Child-birth to renew a Maid;
+
+And found how Royal Heirs might be matur'd
+
+In fewer Months than Mothers once endur'd.
+
+Hence Crowder made the rare Inventress free
+
+Ol's Highnesses Royal Society.
+
+Happiest of Women if she were but able
+
+To make her glassen Duke once maleable.)
+
+[[Page 56]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=34)Paint her
+with Oyster lip, and Breath of fame,
+
+Wide Mouth, that Sparagus may well proclaim;
+
+With Chancellors Belly, and so large a Rump,
+
+There (not behind the Coach) her Pages jump:
+
+Express her studying now, if China-Clay
+
+Can, without breaking, venom'd Juice convey.
+
+Or how a mortal Poison she may draw
+
+Out of the Cordial Meal of the Cacoa.
+
+Witness the Stars of Night, and thou the pale
+
+Moon, that o'ercome with the sick Steam didst fail.
+
+Ye neighbouring Elms that your green Leaves did shed,
+
+And Fauns that from the Womb abortive fled.
+
+Not unprovok'd she tries forbidden Arts,
+
+But in her soft Breast Loves hid Cancer smarts,
+
+While she revolves at once Sydney's disgrace,
+
+And her self scorn'd for emulous Denham's Face,
+
+And nightly hears the hated Guards away
+
+Galloping with the Duke to other Prey.
+
+Paint Castlemain in colours that will hold
+
+Her, not her Picture, for she now grows old.
+
+She thro' her Lackey's Drawers as he ran,
+
+Discern'd Loves cause, and a new flame began.
+
+Her wonted joys thenceforth, and Court she shuns,
+
+And still within her mind the Footman runs.
+
+His brazen Calves, his brawny Thighs (the Face
+
+She slights) his Feet shap'd for a smoother race.
+
+Poring within her Glass, she re-adjusts
+
+Her locks, and oft-try'd Beauty now distrusts;
+
+Fears lest he scorn'd a Woman once assay'd,
+
+And now first wish't she e'er had been a Maid.
+
+Great Love! how dost thou triumph, and how reign,
+
+That to a Groom could'st humble her disdain!
+
+Stript to her Skin, see how she stooping stands,
+
+Nor scorns to rub him down with those fair Hands,
+
+And washing (lest the scent her crime disclose)
+
+His sweaty Hoofs, tickles him betwixt the Toes.
+
+But envious Fame too soon began to note
+
+More Gold in's Fob, more Lace upon his Coat;
+
+[[Page 57]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=34)And he
+unwary, and of Tongue too fleet,
+
+No longer could conceal his Fortune sweet.
+
+Justly the Rogue was whipt in Porters Den,
+
+And Jermin streight has leave to come again.
+
+Ah Painter! now could Alexander live,
+
+And this Campaspe thee Apelles give.
+
+Draw next a pair of Tables opening, then
+
+The House of Commons clattering like the men.
+
+Describe the Court and Country both set right
+
+On opposite points, the black against the white.
+
+Those having lost the Nation at Tick-Tack,
+
+These now adventuring how to win it back.
+
+The Dice hetwixt them must the fate divide,
+
+(As chance does still in multitudes decide)
+
+But here the Court doth its advantage know,
+
+For the cheat Turner for them both must throw;
+
+As some from Boxes, he so from the Chair
+
+Can strike the Dye, and still with them go share.
+
+Here Painter rest a little and survey
+
+With what small Arts the publick Game they play:
+
+For so too, Rubens with affairs of State
+
+His labouring Pencil oft would recreate.
+
+The close Cabal mark'd how the Navy eats,
+
+And thought all lost that goes not to the Cheats.
+
+So therefore secretly for Peace decrees,
+
+Yet as for War the Parliament would squeeze;
+
+And fix to the Revenue such a Summ
+
+Should Goodrick silence, and strike Paston dumb:
+
+Should pay Land Armies, should dissolve the vain
+
+Commons, and ever such a Court maintain,
+
+Hyde's avarice, Bennet's luxury should suffice,
+
+And what can these defray but the Excise?
+
+Excise a Monster, worse than e'er before,
+
+Frighted the Midwife, and the Mother tore.
+
+A thousand Hands she has, and thousand Eyes,
+
+Breaks into Shops, and into Cellars pries.
+
+With hundred rows of Teeth the Shark exceeds,
+
+And on all Trades, like Casawar she feeds;
+
+[[Page 58]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=35)Chops of
+the piece wheres'e're she close the Jaw,
+
+Else swallows all down her indented Maw.
+
+She stalks all day in Streets conceal'd from sight,
+
+And flies like Batts with leathern Wings by night:
+
+She wasts the Country, and on Cities preys:
+
+Her of a Female Harpy in Dog-days.
+
+Black Birch, of all the Earth-born Race most hot,
+
+And most rapacious like himself begot;
+
+And of his Brat enamour'd, as't increast,
+
+Bugger'd in Incest with the mongrel Beast.
+
+Say Muse, for nothing can escape thy sight,
+
+(And, Painter wanting other, draw this fight)
+
+Who in an English Senate fierce debate
+
+Could raise so long for this new Whore of State.
+
+Of early Wittalls first the Troop march'd in;
+
+For diligence renown'd, and Discipline.
+
+In loyal hast they lest young Wives in bed,
+
+And Denham these with one consent did head.
+
+Of the old Courtiers next a Squadron came,
+
+That sold their Master, led by Ashburnham.
+
+To them succeeds a despicable Rout,
+
+But knew the word, and well could face about;
+
+Expectants pale with hopes of Spoil allur'd,
+
+Though yet but Pioneers, and led by Steward.
+
+Then damning Cowards rang'd the vocal Plain:
+
+Wood these command, Knight of the Horn, and Cane▪
+
+Still his hook-shoulder seems the blow to dread,
+
+And under's Arm-pit he defends his Head.
+
+The posture strange men laugh at, of his pole,
+
+Hid with his Elbow like the Spice he stole:
+
+Headless St. Dennis so his Head does bear,
+
+And both of them alike French Martyrs were.
+
+Court Officers, as us'd, the next place took,
+
+And follow'd F—x, but with disdainfull look.
+
+His birth, his youth, his brokage all dispraise
+
+In vain; for always he commands that pays.
+
+Then the procurers under Progers fill'd,
+
+Gentlest of men, and his Lieutenant mild;
+
+[[Page 59]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=35) Bronkard
+Love's Squire, through all the Field array'd,
+
+No Troop was better clad, nor so well paid.
+
+Then marcht the Troop of Clarendon all full,
+
+Haters of Fowl, to Teal preferring Bull:
+
+Gross Bodies, grosser Minds, and grosser Cheats,
+
+And bloated Wren conducts them to their Seats.
+
+Charleton advances next (whose Wife does awe
+
+The Mitred Troop) and with his Looks gives Law.
+
+He marches with Beaver cockt of Bishops brim,
+
+And hid much fraud under an aspect grim.
+
+Next the Lawyers mercenary Band appear,
+
+Finch in the Front, and Thurland in the Rear.
+
+The Troop of Priviledge, a Rabble bare
+
+Of Debtors deep, fell to Trelawney's care;
+
+Their Fortunes error they supply'd in Rage,
+
+Nor any further would than these ingage.
+
+Then marcht the Troop whose valiant acts before
+
+(Their publick acts) oblig'd them to do more.
+
+For Chimnies sake they all Sir Pool obey'd,
+
+Or in his absence him that first it laid
+
+Then come the thrifty Troop of Privateers,
+
+Whose Horses each with other interferes:
+
+Before them Higgins rides with brow compact,
+
+Mourning his Countess anxious for his Act.
+
+Sir Frederick and Sir Solomon draw lots
+
+For the Command of Politicks and Scots:
+
+Thence fell towards—but quarrels to adjourn,
+
+Their Friends agreed they should command by turn.
+
+Carteret the rich did the Accountants guide,
+
+And in ill English all the world defy'd.
+
+The Papists (but of those the House had none
+
+Else) Talbot offer'd to have led them on.
+
+Bold Duncomb next of the Projectors chief,
+
+And old Fitz-Harding of the Eaters Beef.
+
+Late and disorder'd out the Drunkards drew,
+
+Scarce them their Leaders, they their Leaders knew.
+
+Before them enter'd equal in command
+
+Apsley and Brotherick marching hand in hand.
+
+[[Page 60]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=36)Last then
+but one Powel that could not ride
+
+Left the French Standard weltring in his stride;
+
+He, to excuse his slowness, truth confest.
+
+That 'twas so long before he could be drest.
+
+The Lords Sons last all these did reinforce,
+
+Cornbury before them manag'd Hobby-Horse.
+
+Never before, nor since an Host so steel'd
+
+Troop'd on to muster in the Tuttle-field.
+
+Not the first Cock-horse that with Cork was shod
+
+To rescue Albemarle from the Sea-Cod:
+
+Nor the late Feather-men whom Tomkins fierce
+
+Shall with one breath like Thistle Down disperse.
+
+All the two Coventries their Generals chose,
+
+For one had much, the other nought to lose.
+
+Nor better choice all accidents could hit,
+
+While Hector Harry steers by Will the Wit.
+
+They both accept the charge with merry glee,
+
+To fight a Battle from all Gun-shot free.
+
+Pleas'd with their Numbers, yet in Valour wise,
+
+They feign a Parley, better to surprize;
+
+They that e'er long shall the rude Dutch upbraid,
+
+Who in a time of Treaty durst invade
+
+Thick was the Morning, and the House was thin,
+
+The Speaker early, when they all fell in.
+
+Propitious Heavens! had not you them crost,
+
+Excise had got the day, and all been lost:
+
+For t'other side all in close Quarters lay
+
+Without Intelligence, Command or Pay.
+
+A scatterr'd body which the Foe ne'er try'd,
+
+But often did among themselves divide.
+
+And some ran o'er each Night, while others sleep,
+
+And undescry'd return 'fore Morning peep.
+
+But Strangeways that all Night still walk the round,
+
+For Vigilance and Courage both renown'd;
+
+First spy'd the Enemy, and gave th' Allarm,
+
+Fighting it single till the rest might arm:
+
+Such Roman Cocles stood before the Foe,
+
+The falling Bridge behind, the Streams below.
+
+[[Page 61]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=36)Each ran
+as Chance him guides to several post,
+
+And all to pattern his Example, boast;
+
+Their former Trophies they recall to mind,
+
+And to new edge their angry courage grind.
+
+First enter'd forward Temple, Conqueror
+
+Of Irish Cattle, and Solicitor;
+
+Then daring S—r, that with Spear and Shield
+
+Had stretcht the Monster Patent on the Field.
+
+Keen Whorwood next in aid of Damsel frail,
+
+That pierc'd the Gyant Mordant thro' his Mail:
+
+And surly Williams the Accountants bane,
+
+And Lovelace young of Chimny-men the Cane.
+
+Old Waller, Trumpet-Ceneral, swore he'd write
+
+This Combat truer than the Naval fight.
+
+Of birth, state, wit, strength, courage, How'rd presumes,
+
+And in his breast wears many Montezumes.
+
+These with some more with single valour stay
+
+The adverse Troops, and hold them all at bay.
+
+Each thinks his person represents the whole,
+
+And with that thought does multiply his soul;
+
+Believes himself an Army; theirs, one Man;
+
+As easily conquer'd, and believing, can
+
+With heart of Bees so full, and head of Mites,
+
+That each, though Duelling, a Battle fights.
+
+Such once Orlando famous in Romance,
+
+Broacht whole Brigades like Larks upon his Lance.
+
+But strength at last still under number bows,
+
+And the faint sweat trickl'd down Temples brows;
+
+Even Iron Strangeways chasing yet gave back,
+
+Spent with fatigue, to breathe a while Toback—
+
+When marching in, a seasonable recruit
+
+Of Citizens, and Merchants, held dispute,
+
+And charging all their Pikes, a sullen band
+
+Of Presbyterian Switzers made a stand.
+
+Nor could all these the Field have long maintain'd,
+
+But for th' unknown reserve that still remain'd;
+
+A gross of English Gentry nobly born,
+
+Of clear Estates, and to no Fact on sworn,
+
+[[Page 62]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=37)Dear
+Lovers of their King, and Death to meet
+
+For Country's cause, that glorious thing and sweet,
+
+To speak not forward, but in action brave,
+
+In giving generous, but in Council grave;
+
+Candidly credulous for once; nay twice:
+
+But sure the Devil can't cheat them thrice.
+
+The Van and Battle, tho' retiring, falls
+
+Without disorder in their Intervals;
+
+Then closing all in equal front, fall on,
+
+Led by great Garrway, and great Littleton.
+
+Lee equal to obey, or to command
+
+Adjutant-General was still at hand.
+
+The Marshal Standard Sands displaying shows
+
+St.Dunstan in it tweaking Satan's Nose.
+
+See sudden chance of War to paint, or write,
+
+Is longer work, and harder than to fight:
+
+At the first charge the Enemy give out,
+
+And the Excise receives a total rout.
+
+Broken in courage, yet the men the same,
+
+Resolve henceforth upon their other game;
+
+Where force had fail'd, with Stratagem to play,
+
+And what haste lost, recover by delay.
+
+St.Albans strait is sent to, to forbear,
+
+Lest the sure Peace (forsooth) too soon appear.
+
+The Seamens clamours to three ends they use,
+
+To cheat their pay, feign want, and th' House accuse▪
+
+Each day they bring the tale, and that too true,
+
+How strong the Dutch their Equipage renew.
+
+Mean time thro' all the Yards their Orders run,
+
+To lay the Ships up, cease the Keels begun.
+
+The Timber rots, the useless Axe does rust;
+
+Th' unpractic'd Saw lies buried in its dust;
+
+The busie Hammer sleeps, the Ropes untwine,
+
+The Stores and Wages all are mine and thine.
+
+Along the Coasts and Harbours they take care
+
+That Money lacks, nor Forts be in repair.
+
+Long thus they cou'd against the House conspire,
+
+Load them with envy, and with sitting tire:
+
+[[Page 63]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=37)And the
+lov'd King, and never yet deny'd,
+
+Is brought to beg in publick, and to chide:
+
+But when this fail'd, and Months enough were spent,
+
+They with the first days proffer seem content;
+
+And to Land-Tax from the Excise turn round,
+
+Bought off with Eighteen hundred thousand pound.
+
+Thus like fair Thieves, the Commons Purse they share,
+
+But all the Members Lives consulting spare.
+
+Blither than Hare that hath escap'd the Hounds,
+
+The House prorogu'd, the Chanchellour rebounds.
+
+Not so decripet Aeson hasht and stew'd
+
+With Magick Herbs rose from the Pot renew'd;
+
+And with fresh Age felt his glad Limbs unite,
+
+His Gout (yet still he curst) had left him quite.
+
+What Frosts to Fruits, what Arsnick to the Rat,
+
+What to fair Denham mortal Chocolat:
+
+What an account to Carteret, that and more,
+
+A Parliament is to the Chancellour.
+
+So the sad Tree shrinks from the Morning's Eye,
+
+But blooms all Night and shoots its Branches high.
+
+So at the Suns recess, again returns,
+
+The Comet dread, and Earth and Heaven burns.
+
+Now Mordant may within his Castle Tower
+
+Imprison Parents, and the Child deflower.
+
+The Irish Herd is now let loose, and comes
+
+By Millions over, not by Hecatombs:
+
+And now▪ now the Canary Patent may
+
+Be broach'd again for the great Holy-day.
+
+See how he reigns in his new Palace culminant,
+
+And sits in state Divine like Jove the Fulminant.
+
+First Buckingham that durst' gainst him rebel,
+
+Blasted with Lightning, struck with Thunder fell.
+
+Next the twelve Commons are condemn'd to groan,
+
+And roll in vain at Sisyphus's Stone.
+
+But still he car'd, whilst in revenge he brav'd
+
+That Peace secur'd, and Money might be sav'd:
+
+Gain and Revenge, Revenge and Gain are sweet,
+
+United most, when most by turns they meet.
+
+[[Page 64]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=38) France
+had St. Albans promis'd (so they sing)
+
+St. Albans promis'd him, and he the King.
+
+The Count forthwith is order'd all to close,
+
+To play for Flanders, and the Stake to lose.
+
+While chain'd together, two Embassadors
+
+Like slaves shall beg for Peace at Holland's doors.
+
+This done, among his Cyclops he retires
+
+To forge new Thunder, and inspect their Fires.
+
+The Court as once of War, now fond of Peace,
+
+All to new sports their wanton fears release.
+
+From Greenwich (where Intelligence they hold)
+
+Comes news of Pastime martial and old.
+
+A punishment invented first to awe
+
+Masculine Wives transgressing Natures Law;
+
+Where when the brawny Female disobeys,
+
+And beats the Husband, till for Peace he prays,
+
+No concern'd Jury damage for him finds;
+
+Nor partial Justice her behaviour binds;
+
+But the just Street does the next House invade,
+
+Mounting the Neighbour couple on lean Jade;
+
+The Distaff knocks, the Grains from Kettle fly,
+
+And Boys and Girls in Troops run hooting by.
+
+Prudent Antiquity! that knew by shame,
+
+Better than Law, domestick broils to tame;
+
+And taught Youth by spectacle innocent,
+
+So thou and I dear Painter represent
+
+In quick Effigie, others faults; and feign,
+
+By making them ridic'lous, to restrain:
+
+With homely sight they chose thus to relax
+
+The Joys of State for the new Peace and Tax.
+
+So Holland with us had the Mastery try'd,
+
+And our next Neighbours, France and Flanders ride.
+
+But a fresh News the great designment nips
+
+Off, at the Isle of Candy, Dutch and Ships.
+
+Bab May, and Arlington did wisely scoff,
+
+And thought all safe, if they were so far off;
+
+Modern Geographers! 'I was there they thought
+
+Where Venice twenty years the Turks had sought.
+
+[[Page 65]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=38)(While the
+first year our Navy is but shewn,
+
+The next divided, and the third we've none▪)
+
+They by the Name mistook it for that Isle
+
+Where Pilgrim Palmer travell'd in Exile,
+
+With the Bull's horn to measure his own head,
+
+And on Pasiphae's Tomb to drop a bead.
+
+But Morrice learn'd demonstrates by the Post,
+
+This Isle of Candy was on Essex Coast.
+
+Fresh Messengers still the sad news assure,
+
+More timorous now we are than first secure▪
+
+False terrors our believing fears devise,
+
+And the French Army one from Calais spies.
+
+Bennet and May, and those of shorter reach,
+
+Change all for Guineas and a Crown for each;
+
+But wiser Men, and Men foreseen in chance
+
+In Holland theirs had lodg'd before, and France.
+
+White-hall's unsafe, the Court all meditates
+
+To fly to Windsor and mure up the Gates.
+
+Each doth the other blame, and all distrust,
+
+(But Mordant new oblig'd would sure be just.)
+
+Not such a fatal stupefaction reign'd
+
+At London's Flames, nor to the Court complain'd.
+
+The Bloodworth Chanc'lor gives, (then does recall)
+
+Orders, amaz'd, at last gives none at all.
+
+St. Albans writ too, that he may bewail
+
+To Monsieur Lewis and tell Coward tale,
+
+How that the Hollanders do make a noise,
+
+Threaten to beat us, and are naughty Boys.
+
+Now Doleman's disobedient, and they still
+
+Uncivil, his unkindness would us kill.
+
+Tell him our Ships unrigg'd, our Forts unmann'd,
+
+Our Money's spent, else 'twere at his command;
+
+Summon him therefore of his word, and prove
+
+To move him out of pity, if not love;
+
+Pray him to make D'Wit and Ruyter cease,
+
+And whip the Dutch, unless they'll hold their peace.
+
+But Lewis was of memory but dull,
+
+And to St. Albans too undutifull:
+
+[[Page 66]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=39)Nor Word,
+nor near Relation did revere,
+
+But ask'd him bluntly for his Character.
+
+The gravell'd Count did with this answer faint,
+
+(His character was that which thou didst paint)
+
+And so enforc'd like Enemy or Spie,
+
+Trusses his Baggage, and the Camp does fly:
+
+Yet Lewis writes, and lest our heart should break,
+
+Condoles us morally out of Seneque.
+
+Two Letters next unto Breda are sent,
+
+In Cypher one to Harry excellent:
+
+The first entrusts (our Verse that Name abhors)
+
+Plenipotentiary Embassadors;
+
+To prove by Scripture, Treaty does imply
+
+Cessation, as the Look Adultery;
+
+And that by Law of Arms, in Martial strife,
+
+Who yields his Sword, has title to his Life.
+
+Presbyter Hollis the first point should clear,
+
+The second Coventry the Cavalier:
+
+But would they not be argu'd back from Sea,
+
+Then to return home strait infectâ re.
+
+But Harry's order'd, if they won't recall
+
+Their Fleet, to threaten — we will give them all.
+
+The Dutch are then in Proclamation shent,
+
+For sin against the eleventh Commandment.
+
+Hyde's flippant style there pleasantly curvets,
+
+Still his sharp wit on States and Princes whets:
+
+So Spain could not escape his laughter's spleen,
+
+None but himself must chuse the King a Queen.
+
+But when he came the odious Clause to pen,
+
+That summons up the Parliament agen,
+
+His Writing-master many times he bann'd,
+
+And wisht himself the Gout to seize his hand;
+
+Never old Lecher more repugnance felt,
+
+Consenting for his Rupture to be gelt.
+
+But still in hope he solac'd e're they come
+
+To work the Peace, and so to send them home;
+
+Or in their hasty Call to find a flaw,
+
+Their Acts to vitiate, and them over-aw:
+
+[[Page 67]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=39)But more
+rely'd upon this Dutch pretence,
+
+To raise a two-edg'd Army for's defence.
+
+First then he march'd our whole Militia's force,
+
+(As if alas we Ships, or Dutch had Horse,)
+
+Then from the usual common place he blames
+
+These, and in standing Armies praise declaims:
+
+And the wise Court, that alway lov'd it dear,
+
+Now thinks all but too little for their fear.
+
+Hide stamps, and strait upon the ground the swarms
+
+Of currant Myrmidons appear in Arms;
+
+And for their Pay he writes as from the King,
+
+With that curs'd Quill pluckt from a Vultures wing,
+
+Of the whole Nation now to ask a Loan;
+
+(The Eighteen hundred thousand pounds are gone.)
+
+This done, he pens a Proclamation stout
+
+In rescue of the Bankers Banquerout.
+
+His Minion-Imps that in his secret part
+
+Lie nuzzling at the Sacramental Wart;
+
+Horse-leeches sucking at the Haem'royd Vein,
+
+He sucks the King, they him, he them again.
+
+The Kingdoms Farm he letts to them bids least;
+
+(Greater the Bribe) and cheats at Interest.
+
+Here Men induc'd by safety, gain, and ease,
+
+Their Money lodge, confiscate when he please:
+
+These can at need, at instant with a Scrip
+
+[...]This lik'd him best) his Cash beyond Sea whip;
+
+When Dutch invade, and Parliament prepare;
+
+How can he Engines so convenient spare?
+
+Let no man touch them, or demand his own,
+
+Pain of displeasure of great Clarendon.
+
+The State affairs thus marshall'd, for the rest,
+
+Monk in his Shirt against the Dutch is prest.
+
+Often (dear Painter) have I sate and mus'd
+
+Why he should still b' on all Adventures us'd:
+
+Do they for nothing ill, like Ashen-wood,
+
+Or think him like Herb-John for nothing good?
+
+Whether his Valour they so much admire,
+
+Or that for Cowardise they all retire.
+
+[[Page 68]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=40)As, Heaven
+in Storms they call, in gusts of State
+
+On Monk and Parliament, yet both do hate.
+
+All Causes sure concurr, but must they think
+
+Under Herculian labours he may sink▪
+
+Soon then the Independent Troops would close,
+
+And Hyde's last project of his place dispose.
+
+Ruyter the while that had our Ocean curb'd,
+
+Sail'd now amongst our Rivers undisturb'd;
+
+Survey'd their Chrystal Streams and Banks so green,
+
+And beauties e'er this never naked seen:
+
+Through the vain Sedge the bashfull Nymphs he ey'd,
+
+Bosoms, and all which from themselves they hide.
+
+The Sun much brighter, and the Sky more clear
+
+He finds, the Air and all things sweeter here:
+
+The sudden change, and such a tempting sight
+
+Swells his old veins with fresh blood, fresh delight.
+
+Like am'rous Victors he begins to shave,
+
+And his new face looks in the English Wave.
+
+His sporting Navy all about him swim,
+
+And witness their complacence in their trim.
+
+Their streaming Silks play through the weather fair,
+
+And with inveigling Colours court the Air▪
+
+While the Red Flags breath on their Top-masts high
+
+Terror and War, but want an Enemy.
+
+Among the Shrouds the Seamen sit and sing,
+
+And wanton Boys on every Rope do cling:
+
+Old Neptune springs the Tydes, and Waters lent,
+
+(The Gods themselves do help the provident)
+
+And where the deep Keel on the shallow cleaves
+
+With Trident's Leaver and great Shoulder heaves.
+
+Aeolus their Sails inspires with Eastern Wind,
+
+Puffs them along, and breaths upon them kind.
+
+With pearly Shell, the Tritons all the while
+
+Sound the Sea-march, and guide to Sheppy Isle.
+
+So have I seen in April's bud arise,
+
+A Fleet of Clouds sailing along the Skies.
+
+The liquid Region with their Squadrons fill'd,
+
+Their airy  [...] Sun behind does guild,
+
+[[Page 69]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=40)And gentle
+Gales them steer, and Heaven drives,
+
+When all on sudden their calm bosom rives
+
+With Thunder and Lightning from each armed Cloud,
+
+Shepherds themselves in vain in Bushes shroud.
+
+So up the Stream the Belgick Navy glides,
+
+And at Sheerness unloads its stormy Sides.
+
+Sprag there, though practis'd in the Sea command,
+
+With panting heart, lay like a fish on land,
+
+And quickly judg'd the Fort was not tenable;
+
+Which if a House, yet were not tenantable.
+
+No man can sit there safe, the Cannon pours
+
+Through the Walls untight, and Bullets showers.
+
+The neighbourhood ill, and an unwholsome seat,
+
+So at the first salute resolves retreat;
+
+And swore that he would never more dwell there,
+
+Untill the City put it in repair.
+
+So he in Front, his Garrison in rear,
+
+March'd streight to Chatham to increase the fear:
+
+There our sick Ships unrigg'd in Summer lay,
+
+Like moulting Fowl, a weak and easie Prey:
+
+For whose strong bulk Earth scarce could Timber find,
+
+The Ocean water, or the Heaven's wind.
+
+Those Oaken Gyants of the ancient Race,
+
+That rul'd all Seas, and did our Channel grace.
+
+The conscious Stag, tho' once the Forest's dread,
+
+Flies to the Wood, and hides his armless Head:
+
+Ruyter forthwith a Squadron does untack,
+
+They sail securely through the River's track.
+
+An English Pilot too (Oh shame! Oh sin!)
+
+Cheated of's Pay, was he that shew'd them in.
+
+Our wretched Ships within their Fate attend,
+
+And all our hopes now on frail Chain depend:
+
+(Engine so slight to guard us from the Sea,
+
+It fitter seem'd to captivate a Flea,)
+
+A Skipper rude shocks it without respect,
+
+Filling his Sails more force to recollect.
+
+Th' English from shore the Iron deaf invoke
+
+For its last aid, Hold Chain, or we are broke!
+
+[[Page 70]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=41)But with
+her sailing weight the Holland Keel,
+
+Snapping the brittle Links, does thorough reel,
+
+And to the rest the opened passage shew:
+
+Monk from the Bank that dismal sight does view.
+
+Our feather'd Gallants which came down that day
+
+To be Spectators safe of the New Play,
+
+Leave him alone when first they hear the Gun,
+
+(Cornb'ry the fleetest) and to London run.
+
+Our Seamen, whom no dangers shape could fright,
+
+Unpaid, refuse to mount our Ships for spight:
+
+Or to their Fellows swim on board the Dutch,
+
+Who shew the tempting Metal in their clutch.
+
+Oft had he sent, of Duncomb and of Legg
+
+Cannon and Powder, but in vain, to beg;
+
+And Vpnor Castle's ill deserted Wall,
+
+Now needfull does for Ammunition call.
+
+He finds, wheres'ere he succour might expect,
+
+Confusion, Folly, Treachery, Fear, Neglect.
+
+But when the Royal Charles (what rage! what grief!)
+
+He saw seiz'd, and could give her no relief;
+
+That Sacred Keel that had, as he, restor'd
+
+It's exil'd Sov'raign on its happy board,
+
+And thence the British Admiral became,
+
+Crown'd for that merit with his Master's Name:
+
+That pleasure-boat of War, in whose dear side
+
+Secure, so oft he had this Foe defy'd,
+
+Now a cheap Spoil, and the mean Victors slave,
+
+Taught the Dutch Colours from its top to wave;
+
+Of former glories the reproachfull thought
+
+With present shame compar'd, his mind distraught.
+
+Such from Euphrates bank a Tigress fell
+
+After her Robbers for her Whelps does yell;
+
+But sees enrag'd the River flow between,
+
+Frustrate Revenge, and Love by loss more keen;
+
+At her own Breast her useless Claws does arm,
+
+She  [...]ears her self▪ 'cause him she cannot harm.
+
+The Guards plac'd for the Chain's and Fleet's defenc [...]
+
+Long since were fled on many a feign'd pretence.
+
+[[Page 71]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=41) Daniel
+had there adventur'd, man of might,
+
+Sweet Painter, draw his Picture while I write.
+
+Paint him of Person tall, and big of Bone,
+
+Large Limbs like Ox, not to be kill'd but shewn;
+
+Scarce can burnt Iv'ry feign a hair so black,
+
+Or Face so red, thine Oker and thy Lack,
+
+Mix a vain terror in his Martial look,
+
+And all those lines by which men are mistook;
+
+But when by shame constrain'd to go on Board,
+
+He heard how the wild Cannon nearer roar'd,
+
+And saw himself confin'd like Sheep in Pen,
+
+Daniel then thought he was in Lions Den:
+
+But when the frightfull Fire-Ships he saw,
+
+Pregnant with Sulphur nearer to him draw,
+
+Captain, Lieutenant, Ensign, all make hast,
+
+E'er in the fiery Furnace they be cast;
+
+Three Children tall unsing'd, away they row,
+
+Like Shadrack, Mesheck and Abednego.
+
+Each dolefull day still with fresh loss returns,
+
+The Loyal London now a third time burns.
+
+And the true Royal Oak and Royal Iames,
+
+Ally'd in Fate, encrease with theirs her flames.
+
+Of all our Navy none should now survive,
+
+But that the Ships themselves were taught to dive;
+
+And the kind River in its Creek them hides,
+
+Fraughting their pierced Keels with Ouzy sides;
+
+Up to the Bridge contagious Terror struck,
+
+The Tow'r it self with the near danger shook,
+
+And were not Ruyter's Maw with ravage cloy'd,
+
+Ev'n London's ashes had been then destroy'd.
+
+Officious fear, however to prevent
+
+Our loss, does so much more our loss augment▪
+
+The Dutch had robb'd those Jewels of the Crown,
+
+Our Merchant-men, lest they should burn, we drown:
+
+So when the Fire did not enough devour,
+
+The Houses were demolish'd near the Tow'r.
+
+Those Ships that yearly from their teeming hole
+
+Unloaded here the Birth of either Pole,
+
+[[Page 72]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=42)Fir from
+the North, and Silver from the West,
+
+From the South Perfumes, Spices from the East;
+
+From Gambo Gold, and from the Ganges Jems,
+
+Take a short Voyage underneath the Thames:
+
+Once a deep River, now with Timber floor'd,
+
+And shrunk, less navigable, to a Ford.
+
+Now nothing more at Chatham's left to burn,
+
+The Holland Squadron leisurely return,
+
+And spight of Ruperts and of Albermarles,
+
+To Ruyter's Triumph led the Captive Charles.
+
+The pleasing sight he often does prolong,
+
+Her Mast erect, tough Cordage, Timber strong,
+
+Her moving shape, all these he doth survey,
+
+And all admires, but most his easie Prey▪
+
+The Seamen search her all within, without,
+
+Viewing her strength, they yet their Conquest doubt;
+
+Then with rude shouts secure, the Air they vex,
+
+With gamesom joy insulting on her Decks;
+
+Such the fear'd Hebrew Captive, blinded, shorn,
+
+Was led about in sport, the publick scorn.
+
+Black day accurst! on thee let no man hale
+
+Out of the Port, or dare to hoyse a Sail,
+
+Or row a Boat in thy unlucky hour,
+
+Thee, the Years Monster, let thy Dam devour;
+
+And constant time to keep his course yet right,
+
+Fill up thy space with a redoubled Night.
+
+When aged Thames was bound with Fetters base,
+
+And Medway chaste ravisht before his face,
+
+And their dear Offspring murder'd in their sight,
+
+Thou and thy fellows held'st the odious light.
+
+Sad chance since first that happy Pair was wed,
+
+When all the Rivers grac'd their Nuptial bed,
+
+And Father Neptune promis'd to resign
+
+His Empire old to their Immortal line;
+
+Now with vain grief their vainer hopes they rue,
+
+Themselves dishonour'd, and the Gods untrue;
+
+And to each other helpless couple mourn,
+
+As the sad Tortoise for the Sea does groan:
+
+[[Page 73]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=42)But most
+they for their darling Charles complain,
+
+And were it burnt, yet less would be their pain.
+
+To see that fatal pledge of Sea command,
+
+Now in the Ravisher de Ruyter's hand,
+
+The Thames roar'd, swooning Medway turn'd her tyde,
+
+And were they mortal, both for grief had dy'd.
+
+The Court in Farthing yet it self does please,
+
+(And female Steward there rules the four Seas,)
+
+But fate does still accumulate our woes,
+
+And Richmond her commands as Ruyter those.
+
+After this loss, to relish discontent,
+
+Some one must be accus'd by punishment;
+
+All our miscarriages on Pett must fall,
+
+His Name alone seems fit to answer all.
+
+Whose counsel first did this mad War beget?
+
+Who all Commands sold through the Navy? Pett.
+
+Who would not follow when the Dutch were beat?
+
+Who treated out the Time at Bergen? Pett.
+
+Who the Dutch Fleet with Storms disabled met?
+
+And rifling Prizes them neglected? Pett.
+
+Who with false News prevented the Gazette,
+
+The Fleet divided, writ for Rupert? Pett.
+
+Who all our Seamen cheated of their debt,
+
+And all our Prizes who did swallow? Pett.
+
+Who did advise no Navy out to set?
+
+And who the Forts left unprepared? Pett.
+
+Who to supply with Powder did forget
+
+Languard, Sheerness, Gravesend and Upnor? Pett.
+
+Who all our Ships expos'd in Chattham Nett?
+
+Who should it be but the Fanatick Pett?
+
+Pett, the Sea-architect in making Ships,
+
+Was the first cause of all these Naval slips.
+
+Had he not built, none of these faults had been;
+
+If no Creation, there had been no sin▪
+
+But his great Crime, one Boat away he sent,
+
+That lost our Fleet, and did our flight prevent.
+
+Then that reward might in its turn take place,
+
+And march with punishment in equal pace:
+
+[[Page 74]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=43)
+Southampton dead, much of the Treasure's care
+
+And place in Council fell to Duncomb's share.
+
+All men admir'd, he to that pitch could fly,
+
+Powder ne'er blew man up so soon, so high;
+
+But sure his late good husbandry in Peeter,
+
+Shew'd him to manage the Exchequer meeter;
+
+And who the Forts would not vouchsafe a Corn,
+
+To lavish the King's Monoy more would scorn.
+
+Who hath no Chimneys, to give all, is best,
+
+And a blest Speaker, who of Law hath least.
+
+Who less Estate for Treasurer most fit,
+
+And for a Chanc'lour he that has least wit.
+
+But the true Cause was that in's Brother May,
+
+Th' Exchequer might the Privy Purse obey.
+
+And now draws near the Parliaments return,
+
+Hide and the Court again begin to mourn;
+
+Frequent in Council, earnest in debate,
+
+All Arts they try how to prolong its date.
+
+Grave Primate Shelden (much in preaching there)
+
+Blames the last Session, and this more does fear;
+
+With Boynton or with Middleton 'twere sweet,
+
+But with a Parliament abhorrs to meet;
+
+And thinks 'twill ne'er be well within this Nation,
+
+Till it be govern'd by a Convocation.
+
+But in the Thames-mouth still de Ruyter lay'd,
+
+The Peace not sure, new Army must be paid;
+
+Hide saith he hourly waits for a Dispatch,
+
+Harry came Post just as he shew'd his Watch;
+
+All to agree the Articles were clear,
+
+The Holland Fleet and Parliament so near:
+
+Yet Harry must jobb back and all mature,
+
+Binding e're th' Houses meet the Treaty sure,
+
+And 'twixt necessity and spight, till then
+
+Let them come up so to go down agen▪
+
+Up ambles Country Justice on his Pad,
+
+And Vest bespeaks to be more seemly clad:
+
+Plain Gentlemen are in Stage-Coach o'rethrown,
+
+And Deputy Lieutenants in their own;
+
+[[Page 75]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=43)The portly
+Burgess through the weather hot
+
+Does for his Corporation sweat and trot;
+
+And all with Sun and Choller come adust,
+
+And threaten Hide to raise a greater dust.
+
+But fresh, as from the Mint, the Courtiers fine
+
+Salute them, smiling at their vain design;
+
+And Turner gay up to his Perch doth march▪
+
+With Face new bleacht, smoothed and stiff with Starch,
+
+Tells them he at Whitehall had took a turn,
+
+And for three days thence moves them to adjourn.
+
+Not so, quoth Tomkins, and straight drew his Tongue,
+
+Trusty as Steel that always ready hung,
+
+And so proceeding in his motion warm,
+
+Th' Army soon rais'd he doth as soon disarm.
+
+True Trojan! whilst this Town can Girls afford,
+
+And long as Cyder lasts in Hereford,
+
+The Girls shall always kiss thee, though grown old,
+
+And in eternal Healths thy Name be troul'd.
+
+Meanwhile the certain News of Peace arrives
+
+At Court, and so reprieves their guilty Lives.
+
+Hyde orders Turner that he should come late,
+
+Lest some new Tomkins spring a fresh Debate:
+
+The King that early rais'd was from his rest,
+
+Expects, as at a Play, till Turner's drest.
+
+At last together Eaton came and he,
+
+No Dial more could with the Sun agree:
+
+The Speaker summond to the Lords repairs,
+
+Nor gave the Commons leave to say their Pray'rs,
+
+But like his Pris'ners to the Bar them led,
+
+Where mute, they stand to hear their Sentence read;
+
+Trembling with joy and fear, Hide them prorogues,
+
+And had almost mistook, and call'd them Rogues.
+
+Dear Painter, draw this Speaker to the Foot,
+
+Where Pencil cannot, there my Pen shall do't.
+
+That may his Body, this his Mind explain;
+
+Paint him in golden Gown with Maces train;
+
+Bright Hair, fair Face, obscure, and dull of Head,
+
+Like Knife with Iv'ry Haft, and edge of Lead:
+
+[[Page 76]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=44)At Prayers
+his eyes turn up the pious white,
+
+But all the while his private Bill's in sight:
+
+In Chair he smoaking sits like Master Cook,
+
+And a Poll-bill does like his Apron look.
+
+Well was he skill'd to season any Question,
+
+And make a Sawce fit for Whitehall's digestion:
+
+Whence every day the Palate more to tickle,
+
+Court-Mushroms ready are sent in to pickle.
+
+When Grievances urg'd he swells like squatted Toad,
+
+Frisks like a Frog to croak a Taxes load:
+
+His patient Piss he could hold longer than
+
+An Urinal, and sit like any Hen;
+
+At Table jolly as a Country Host,
+
+And soaks his Sack with Norfolk like a Toast;
+
+At Night than Chanticlere more brisk and hot,
+
+And Serjeants Wife serves him for Portelott.
+
+Paint last the King, and a dead shade of Night,
+
+Only disperst by a weak Tapers light:
+
+And those bright gleams that dart along and glare
+
+From his clear Eyes (yet these too dart with care)
+
+There, as in the calm horror all alone,
+
+He wakes and muses of th' uneasie Throne:
+
+Raise up a sudden shape with Virgins face,
+
+Though ill agree her posture, hour or place;
+
+Naked as born, and her round Arms behind,
+
+With her own Tresses interwove and twin'd:
+
+Her Mouth lockt up, a blind before her Eyes,
+
+Yet from beneath her Veil her blushes rise,
+
+And silent tears her secret anguish speak;
+
+Her Heart throbs, and with very shame would break·
+
+The object strange in him no terror mov'd,
+
+He wondred first, then pitied, then he lov'd;
+
+And with kind hand does the coy Vision press,
+
+Whose beauty greater seem'd by her distress:
+
+But soon shrunk back, chill'd with a touch so cold,
+
+And th' airy Picture vanisht from his hold.
+
+In his deep thoughts the wonder did increase,
+
+And he divin'd 'twas England, or the Peace.
+
+[[Page 77]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=44)Express
+him startling next, with list'ning Ear,
+
+As one that some unusual noise doth hear;
+
+With Cannons, Trumpets, Drums, his Door surround,
+
+But let some other Painter draw the sound:
+
+Thrice he did rise, thrice the vain tumult fled,
+
+But again thunders when he lies in bed.
+
+His mind secure does the vain stroke repeat,
+
+And finds the Drums Lewis's March did beat.
+
+Shake then the Room, and all his Curtains tear,
+
+And with blue streaks infect the Taper clear,
+
+While the pale Ghost his Eye doth fixt admire
+
+Of Grandsire Harry, and of Charles his Sire.
+
+Harry sits down, and in his open Side
+
+The grisly Wound reveals of which he dy'd:
+
+And Ghostly Charles, turning his Coller low,
+
+The purple Thred about his Neck doth shew:
+
+Then whisp'ring to his Son in words unheard,
+
+Through the lockt Door, both of them disappear'd:
+
+The wondrous Night the pensive King revolves,
+
+And rising straight on Hide's disgrace resolves.
+
+At his first step he Castlemain does find,
+
+Bennet and Coventry as 'twere design'd;
+
+And they not knowing the same thing propose,
+
+Which his hid Mind did in his depths inclose:
+
+Through their feign'd speech their secret Hearts he knew,
+
+To her own Husband Castlemain untrue;
+
+False to his Master Bristol, Arlington
+
+And Coventry falser than any one,
+
+Who to his Brother, Brother would betray;
+
+Nor therefore trusts himself to such as they.
+
+His Father's Ghost too whisper'd him one Note,
+
+That who does cut his Purse will cut his Throat:
+
+But in wise anger he their Crimes forbear,
+
+As Thieves repriev'd from Executioner:
+
+While Hide provok't his foaming Tusk does whet,
+
+To prove them Traytors, and himself the Pett.
+
+Painter, adieu: How well our Arts agree!
+
+Poetick Picture, Painted Poetry!
+
+[[Page 78]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=45)But this
+great Work is for our Monarch fit,
+
+And henceforth Charles only to Charles shall sit.
+
+His Master-hand the Ancients shall out-do,
+
+Himself, the Painter, and the Poet too.
+
+### 1.10. To the KING.
+
+SO his bold Tube Man to the Sun apply'd,
+
+And Spots unknown in the bright Star descry'd,
+
+Shew'd they obscure him, while too near they please,
+
+And seem his Courtiers are but his Disease.
+
+Through Optick Trunk the Planet seem'd to hear,
+
+And hurls them off e'er since in his career.
+
+And you (Great Sir) that with him Empire share,
+
+Seen of our World, as he the Charles is there;
+
+Blame not the Muse that brought those Spots to sight,
+
+Which in your Splendor hid, corrode your Light:
+
+(Kings in the Country oft have gone astray,
+
+Nor of a Peasant scorn'd to learn the way,)
+
+Would she the unattended Throne reduce,
+
+Banishing Love, Trust, Ornament and Use;
+
+Better it were to live in Cloyster's lock,
+
+Or in fair Fields to rule the easy Flock;
+
+She blames them only who the Court restrain,
+
+And where all England serves themselves would reign.
+
+Bold and accurst are they that all this while
+
+Have strove to Isle this Monarch from this Isle;
+
+And to improve themselves by false Pretence,
+
+About the common Prince have rais'd a Fence:
+
+The Kingdom from the Crown distinct would see,
+
+And peel the Bark to burn at last the Tree.
+
+But Ceres Corn, and Flora is the Spring,
+
+Bacchus is Wine, the Country is the King.
+
+Not so does Rust insinuating wear,
+
+Nor Powder so the vaulted Bastion tear:
+
+Nor Earthquakes so an hollow Isle o'erwhelm,
+
+As scratching Courtiers undermine a Realm.
+
+[[Page 79]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=45)And
+through the Palaces Foundations bore,
+
+Burrowing themselves to hoard their guilty Store.
+
+The smallest Vermin make the greatest waste,
+
+And a poor Warren once a City rac't.
+
+But they whom born to Vertue and to Wealth,
+
+Nor Guilt to Flatt'ry binds, nor Want to Stealth;
+
+Whose gen'rous Conscience, and whose Courage high,
+
+Does with clear Councils their large Souls supply;
+
+That serve the King with their Estates and Care,
+
+And as in Love on Parliaments can stare;
+
+Where Few the number, Choice is there less hard;
+
+Give us this Court, and rule without a Guard.
+
+By A. M.
+
+### 1.11. The Loyal Scot.
+
+By Cleaveland's Ghost, upon the Death of Captain Douglas, burnt on his Ship at
+Chatham.
+
+OF the old Heroes, when the Warlike Shades
+
+Saw Douglas marching on the Elysium Glades,
+
+They all consulting gather'd in a Ring,
+
+Which of their Poets should his Welcome sing:
+
+And as a favourable Penance chose
+
+Cleaveland, on whom they would that task impose.
+
+He understood but willingly addrest
+
+His ready Muse to court that noble Guest.
+
+Much had he cur'd the tumour of his Vein,
+
+He judg'd more clearly now, and saw more plain;
+
+For those soft Airs had temper'd every Thought,
+
+And of wise Lethe he had drunk a Draught.
+
+Abruptly he began, disguising Art,
+
+As of his Satyr this had been a part.
+
+[[Page 80]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=46)Not so,
+brave Douglas, on whose lovely Chin,
+
+The early Down but newly did begin:
+
+And modest Beauty yet his Sex did veil,
+
+While envious Virgins hopes he is a Male.
+
+His yellow Locks curles back themselves to seek,
+
+Nor other Courtship knew but to his Cheek.
+
+Oft as he in chill Esk or Seyn by Night,
+
+Hardned and cool'd, his Limbs so soft, so white;
+
+Among the Reeds to be espy'd by him
+
+The Nymphs would rustle, he would forwards swim;
+
+They sigh'd, and said, Fond Boy, why so untame,
+
+That fly'st Loves fires, reserv'd for other flame?
+
+First on his Ship he fac't that horrid Day,
+
+And wondered much at those that run away:
+
+No other fear himself could comprehend,
+
+Than least Heaven fall e'er thither he ascend;
+
+But entertains the while his time too short,
+
+With birding at the Dutch, as if in sport;
+
+Or waves his Sword, and could he them conjure
+
+Within his Circle, knows himself secure.
+
+The fatal Bark him boards with grappling Fire,
+
+And safely through its Port the Dutch retire.
+
+That precious Life he yet disdains to save,
+
+Or with known Art to try the gentle Wave;
+
+Much him the honour of his ancient Race
+
+Inspir'd, nor would he his own Deeds deface;
+
+And secret Joy in his calm Soul does rise,
+
+That Monk looks on to see how Dowglas dies.
+
+Like a glad Lover the fierce flames he meets,
+
+And tries his first Embraces in their Sheets:
+
+His Shape exact, which the bright flames infold,
+
+Like the Suns Statue stands of burnisht Gold.
+
+Round the transparent Fire about him glows,
+
+As the clear Amber on the Bees does close;
+
+And as on Angels heads their Glories shine,
+
+His burning Locks adorn his Face divine.
+
+But when in his immortal Mind he felt
+
+His alt'ring Form, and soder'd Limbs to melt;
+
+[[Page 81]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=46)Down on
+the Deck he laid himself, and dy'd,
+
+With his dear Sword reposing by his Side:
+
+And on the flaming Plank so rests his Head,
+
+As one that warm'd himself, and went to Bed.
+
+His Ship burns down, and with his Reliques sinks,
+
+And the sad Stream beneath his Ashes drinks.
+
+Fortunate Boy! If either Pencils Fame,
+
+Or if my Verse can propagate thy Name;
+
+When Aeta and Alcides are forgot,
+
+Our English Youth shall sing the valiant Scot.
+
+Skip Saddles Pegasus, thou needst not brag,
+
+Sometimes the Galloway proves the better Nag.
+
+Shall not a Death so generous, when told,
+
+Unite our distance, fill our Breaches old?
+
+Such in the Roman Forum, Curtius brave
+
+Galloping down, clos'd up the gaping Cave.
+
+Nor more discourse of Scotch and English Race,
+
+No chaunt the fabulous hunt of Chevy Chase.
+
+Mixt in Corinthian Metal at thy Flame
+
+Our Nations melting, thy Colossus frame;
+
+Prick down the Point, whoever has the Art,
+
+Where Nature Scotland does from England part.
+
+Anatomists may sooner fix the Cells
+
+Where Life resides, and Understanding dwells:
+
+But this we know, though that exceeds our Skill,
+
+That whosoever separates them does ill.
+
+Will you the Tweed that sullen Bounder call
+
+Of Soyl, of VVit, of Manners, and of all?
+
+VVhy draw you not as well the thrifty Line
+
+From Thames, from Humber, or at least the Tine?
+
+So may we the State Corpulence redress,
+
+And little England, when we please make less.
+
+VVhat Ethic River is this wond'rous Tweed,
+
+VVhose one Bank Vertue, t'other Vice does breed?
+
+Or what new Perpendicular does rise
+
+Up from her Streams, continu'd to the Skies,
+
+That between us the common Air should bar,
+
+And split the Influence of every Star?
+
+[[Page 82]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=47)But who
+considers right, will find, indeed,
+
+'Tis Holy Island parts us, not the Tweed.
+
+Nothing but Clergy could us two seclude,
+
+No Scotch was ever like a Bishop's Feud.
+
+All Litanies in this have wanted Faith;
+
+There's no Deliver us, from a Bishop's Wrath.
+
+Never shall Calvin pardon'd be for Sales,
+
+Never, for Burnet's sake, the Lauderdales;
+
+For Becket's sake Kent always shall have Tails.
+
+Who Sermons e'er can pacifie and Prayers?
+
+Or to the Joynt-stools reconcile the Chairs?
+
+Though Kingdoms joyn, yet Church will Kirk oppose,
+
+The Mitre still divides, the Crown does close;
+
+As in Rogation Week they whip us round,
+
+To keep in mind the Scotch and English Bound.
+
+What the Ocean binds, is by the Bishops rent,
+
+Then Sees make Islands in our Continent.
+
+Nature in vain us in one Land compiles,
+
+If the Cathedral still shall have its Isles.
+
+Nothing, not Bogs, nor Sands, nor Seas, nor Alps,
+
+Separate the World so as the Bishops Scalps.
+
+Scretch for the Line, their Circingle alone
+
+'I will make a more unhabitable Zone.
+
+The friendly Load-stone has not more combin'd,
+
+Than Bishops crampt the Commerce of Mankind.
+
+Had it not been for such a Biass strong,
+
+Two Nations had ne'er miss'd the Mark so long.
+
+The VVorld in all doth but two Nations bear,
+
+The Good, the Bad, and these mixt every where:
+
+Und [...] each Pole place either of these two;
+
+The Bad will basely, Good will bravely do.
+
+And few, indeed, can parallel our Climes,
+
+For VVorth Heroick, or Heroick Crimes.
+
+The tryal would, however, be too nice,
+
+Which stronger were, a Scotch or English Vice:
+
+Or whether the same Virtue would reflect
+
+From Scotch or English Heart the same effect.
+
+[[Page 83]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=47)Nation is
+all but Name, a Shiboleth,
+
+Where a mistaken Accent causes Death.
+
+In Paradise Names only Nature show'd,
+
+At Babel Names from Pride and Discord flow'd;
+
+And ever since Men with a Female Spight,
+
+First call each other Names, and then they fight.
+
+Scotland and England, cause of just uproar,
+
+Do Man and Wife signifie, Rogue and Whore.
+
+Say but a Scot, and straight we fall to Sides,
+
+That Syllable like a Picts's VVall divides.
+
+Rational Mens Words, Pledges are of Peace,
+
+Perverted, serve Dissention to increase.
+
+For shame extirpate from each Loyal Breast,
+
+That senceless Rancour against Interest.
+
+One King, one Faith, one Language, and one Isle,
+
+English and Scotch, 'tis all but Cross and Pile.
+
+Charles, our Great Soul, this only understands,
+
+He our Affections both, and VVills commands.
+
+And where twin-Sympathies cannot attone,
+
+Knows the last Secret, how to make us one.
+
+Just so the prudent Husbandman that sees
+
+The idle Tumult of his factious Bees;
+
+The Morning Dews, and Flowers neglected grown,
+
+The Hive a Comb-Case, every Bee a Drone;
+
+Powders them o'er, till none discerns his Foes,
+
+And all themselves in Meal and Friendship lose:
+
+The Insect Kingdom straight begins to thrive,
+
+And all work Honey for the common Hive.
+
+Pardon, young Hero, this so long Transport,
+
+Thy Death more noble did the same extort.
+
+My former Satyr for this Verse forget;
+
+My Fault against my Recantation set.
+
+[...] single did against a Nation write,
+
+Against a Nation thou didst single fight.
+
+My differing Crimes does more thy Virtue raise,
+
+And such my Rashness best thy Valour praise.
+
+Here Douglas smiling said, He did intend,
+
+After suck Frankness shewn, to be his Friend
+
+[[Page 84]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=48)Forewarn'd
+him therefore, lest in time he were
+
+Metempsycos'd to some Scotch Presbyter.
+
+By A. M.
+
+### 1.12. Britannia and Raleigh.
+
+By A. Marvel, Esq
+
+Brit.
+
+AH Raleigh, when thou didst thy Breath resign
+
+To trembling James, would I h'd quitted mine▪
+
+Cubs didst thou call them? Hadst thou seen this Brood
+
+Of Earls, Dukes, and Princes of the Blood;
+
+No more of Scottish Race thou wouldst complain,
+
+These would be Blessings in this spurious Reign.
+
+Awake, arise from thy long blest repose,
+
+Once more with me partake of mortal VVoes.
+
+Ra.
+
+What mighty Pow'r hath forc'd me from my rest?
+
+Oh mighty Queen, why so untimely drest?
+
+Brit.
+
+Favour'd by Night, conceal'd in this Disguise,
+
+VVhilst the lewd Court in drunken slumber lies,
+
+I stole away; and never will return,
+
+Till England knows who did her City burn:
+
+Till Cavaliers shall Favourites be deem'd,
+
+And Loyal Sufferers by the Court esteem'd:
+
+Till Leigh and Galloway shall Bribes reject;
+
+Thus O—ns Golden Cheat I shall detect:
+
+Till Atheist Lauderdale shall leave this Land,
+
+And Commons Votes shall Cut-Nose Guards disband:
+
+Till Kate a happy Mother shall become,
+
+Till Charles loves Parliaments, and James hates Rome.
+
+Ral.
+
+VVhat fatal Crimes make you for ever fly
+
+Your once lov'd Court, and Martyr's Progeny?
+
+Brit.
+
+A Colony of French possess the Court;
+
+Pimps, Priests, Buffoons, in Privy-Chamber sport.
+
+Such slimy Monsters ne'er approacht a Throne
+
+Since Pharaoh's Days, nor so defil'd a Crown.
+
+[[Page 85]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=48)In sacred
+Ear Tyrannick Arts they croak,
+
+Pervert his Mind, and good Intention choak:
+
+Tell him of Golden Indies, Fairy Lands,
+
+Leviathan, and absolute Commands.
+
+Thus Fairy-like the King they steal away,
+
+And in his room a Changling Lewis lay.
+
+How oft have I him to himself restor'd,
+
+In's Left the Scale, in's Right-hand plac'd the Sword?
+
+Taught him their use, what Dangers would ensue,
+
+To them who strive to separate these two?
+
+The bloody Scotish Chronicle read o'er,
+
+Shew'd him how many Kings in purple Gore
+
+Were hurl'd to Hell by cruel Tyrant Lore.
+
+The other day fam'd Spencer I did bring,
+
+In lofty Notes, Tudor's blest Race to sing;
+
+How Spain's proud Powers her Virgin Arms controul'd,
+
+And golden Days in peaceful Order roul'd:
+
+How like ripe Fruit she dropt from off her Throne,
+
+Full of grey Hairs, good Deeds and great Renown.
+
+As the Jessean Hero did appease
+
+Saul's stormy Rage, and stopt his black Disease;
+
+So the learn'd Bard, with artful Song supprest
+
+The swelling Passion of his canker'd Breast:
+
+And in his Heart kind Influences shed
+
+Of Countrys Love, by Truth and Justice bred:
+
+Then to perform the Cure so well begun,
+
+To him I shew'd this glorious setting Sun.
+
+How by her Peoples Looks pursu'd from far,
+
+So mounted on a bright Celestial Car
+
+Out-shining Virgo or the Julian Star.
+
+Whilst in Truth's Mirrour this good Scene he spy'd,
+
+Enter'd a Dame bedeck'd with spotted Pride,
+
+Fair Flower-de-Luce within an Azure Field,
+
+Her left-hand bears the antient Gallick Shield,
+
+By her usurp'd; her Right a bloody Sword,
+
+Inscrib'd Leviathan, our Sovereign Lord;
+
+Her tow'ry Front a fiery Meteor bears,
+
+An Exhalation bred of Blood and Tears;
+
+[[Page 86]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=49)Around her
+Jove's lewd rav'nous Curs complain,
+
+Pale Death, Lust, Tortures, fill her pompous Train:
+
+She from the easie King Truth's Mirrour took,
+
+And on the ground in spiteful Fall it broke;
+
+Then frowning, thus, with proud Disdain, she spoke:
+
+Are thred-bare Virtues Ornaments for Kings?
+
+Such poor pedantick Toys teach Underlings!
+
+Do Monarchs rise by Virtue, or by Sword?
+
+Who e'er grew Great by keeping of his Word?
+
+Virtue's a faint Green-sickness to brave Souls,
+
+Dastards their Hearts, their active Heat controuls:
+
+The Rival God, Monarchs of t'other VVorld,
+
+This mortal Poyson among Princes hurl'd;
+
+Fearing the mighty Projects of the Great,
+
+Shall drive them from their proud Celestial Seat,
+
+If not o'er-aw'd: This new found holy Cheat,
+
+Those pious Frauds too slight t'insnare the brave,
+
+Are proper Arts the long [...]ear'd Rout t'inslave.
+
+Bribe hungry Priests to deifie your Might,
+
+To teach your Will's your only Rule to Right,
+
+And sound Damnation to all that dare deny't.
+
+Thus Heavens designs 'gainst Heaven you shall turn,
+
+And make them feel those Powers they once did scorn,
+
+When all the gobling Interest of Mankind,
+
+By Hirelings sold to you, shall be resign'd;
+
+And by Impostures God and Man betray'd,
+
+The Church and State you safely may invade:
+
+So boundless Lewis in full Glory shines,
+
+Whilst your starv'd Power in Legal Fetters pines.
+
+Shake off those Baby-Bands from your strong Arms,
+
+Henceforth be deaf to that old Witches Charms:
+
+Tast the delicious Sweets of Sovereign Power,
+
+'Tis Royal Game whole Kingdoms to deflower.
+
+Three spotless Virgins to your Bed I'll bring,
+
+A Sacrifice to you their God and King:
+
+As these grow stale we'll harrass Human kind,
+
+Rack Nature, till new Pleasures you shall find,
+
+Strong as your Reign, and beauteous as your Mind.
+
+[[Page 87]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=49)When she
+had spoke a confus'd Murmur rose,
+
+Of French, Scotch, Irish, all my mortal Foes:
+
+Some English too, O shame! disguis'd I spy'd,
+
+Led all by the wise Son in Law of Hide:
+
+With Fury drunk, like Bachanals, they roar,
+
+Down with that common Magna Charta Whore.
+
+With joynt Consent, on helpless me they flew,
+
+And from my Charles to a base Goal me drew:
+
+My reverend Age expos'd to Scorn and Shame,
+
+To Prigs, Bawds, Whores, was made the publick Game.
+
+Frequent Addresses to my Charles I send,
+
+And my sad State did to his Care commend:
+
+But his fair Soul transform'd by that French Dame,
+
+Had lost a Sense of Honour, Justice, Fame.
+
+Like a tame Spinster in's Seraigl' he sits,
+
+Besieg'd by Whores, Buffoons, and Bastards Chits;
+
+Lull'd in Security, rowling in Lust,
+
+Resigns his Crown to Angel Carwell's Trust.
+
+Her Creature O— the Revenue steals,
+
+False F—h, Knave Ang—esy, misguide the Seals:
+
+Mac-James the Irish Biggots does adore;
+
+His French and Teague commands on Sea and Shore:
+
+The Scotch-Scalado of our Court two Isles,
+
+False Lauderdale with Ordure all defiles.
+
+Thus the States Night marr'd by this hellish Rout,
+
+And no one left these Furies to cast out.
+
+Ah! Vindex come, and purge the poyson'd State;
+
+Descend, descend, e'er the Cure's desperate.
+
+Ral.
+
+Once more great Queen thy Darling strive to save,
+
+Snatch him again from Scandal and the Grave:
+
+Present to's Thoughts his long scorn'd Parliament,
+
+The Basis of his Throne and Government.
+
+In his deaf Ears sound his dead Father's Name;
+
+Perhaps that Spell may's erring Soul reclaim.
+
+Who knows what good Effects from thence may spring?
+
+'Tis God-like good to save a falling King.
+
+Brit.
+
+Rawleigh, no more; for long in vain I've try'd,
+
+The Stewart from the Tyrant to divide;
+
+[[Page 88]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=50)As easily
+learn'd Vertuoso's may
+
+With the Dog's Blood his gentle Kind convey
+
+Into the Wolf, and make him Guardian turn,
+
+To the bleating Flock, by him so lately torn.
+
+If this Imperial Juice once taint his Blood,
+
+'Tis by no potent Antidote withstood.
+
+Tyrants, like Lep'rous Kings, for publick Weal
+
+Should be immur'd, lest the Contagion steal
+
+Over the whole. Th' Elect of the Jessean Line,
+
+To this firm Law their Scepter did resign.
+
+And shall this base Tyrannick Brood evade
+
+Eternal Laws, by God for Mankind made.
+
+To the serene Venetian State I'll go,
+
+From her sage Mouth fam'd Principles to know:
+
+With her the Prudence of the Ancients read,
+
+To teach my People in their steps to tread.
+
+By their great Pattern such a State I'll frame,
+
+Shall eternize a glorious lasting Name.
+
+Till then, my Raleigh, teach our noble Youth
+
+To love Sobriety, and holy Truth.
+
+Watch and preside over their tender Age,
+
+Lest Court-Corruption should their Soul engage.
+
+Teach them how Arts and Arms in thy young Days
+
+Employ'd our Youth, not Taverns, Stews and Plays.
+
+Tell them the generous Scorn their rise does owe
+
+To Flattery, Pimping, and a Gawdy Show.
+
+Teach them to scorn the Carwells, Portsmouths, Nells,
+
+The Clevelands, O—Berties, Lauderdales,
+
+Poppea, Tegoline, and Arteria's Name,
+
+Who yield to these in Lewdness, Lust and Fame.
+
+Make 'em admire the Talbots, Sidneys, Veres,
+
+Drake, Cav'ndish, Blake; Men void of slavish Fears,
+
+True Sons of Glory, Pillars of the State,
+
+On whose fam'd Deeds all Tongues and Writers wait:
+
+When with fierce Ardour their bright Souls do burn,
+
+Back to my dearest Country I'll return.
+
+Tarquin's just Judg, and Caesar's equals Peers,
+
+With them I'll bring to dry my Peoples Tears.
+
+[[Page 89]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=50) Publicola
+with healing Hands shall pour
+
+Balm in their Wounds, and shall their Life restore:
+
+Greek Arts, and Roman Arms, in her conjoyn'd
+
+Shall England raise, relieve opprest Mankind.
+
+As Jove's great Son th' infested Globe did free
+
+From noxious Monsters, hell-born Tyranny:
+
+So shall my England, in a Holy War,
+
+In Triumph lead chain'd Tyrants from a far:
+
+Her true Crusado shall at last pull down
+
+The Turkish Crescent, and the Persian Sun.
+
+Freed by thy Labours, Fortunate, Blest Isle,
+
+The Earth shall rest, the Heaven shall on thee smile;
+
+And this kind Secret for Reward shall give,
+
+No poyson'd Tyrants on thy Earth shall live.
+
+### 1.13. Advice to a Painter.
+
+By A. Marvell, Esq
+
+SPread a lage Canvass, Painter, to contain
+
+The great Assembly, and the num'rous Train;
+
+Where all about him shall in Triumph sit
+
+Abhorring Wisdom, and despising Wit;
+
+Hating all Justice, and resolv'd to Fight,
+
+To rob their native Country of their Right.
+
+First draw his Highness prostrate to the South,
+
+Adoring Rome, this Label in his Mouth.
+
+Most holy Father, being joyn'd in League
+
+With Father Patrick, D—, and with Teague;
+
+Thrown at your Sacred Feet I humbly bow,
+
+I, and the wise Associates of my Vow:
+
+A Vow, nor Fire nor Sword shall ever end,
+
+Till all this Nation to your Foot-stool bend:
+
+Thus arm'd with Zeal and Blessings from your Hands,
+
+I'll raise my Papists, and my Irish Bands;
+
+And by a noble well-contrived Plot,
+
+Manag'd by wise Fitz-Gerald, and by Scot,
+
+[[Page 90]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=51)Prove to
+the World, I'll make old England know,
+
+That common Sence is my eternal Foe.
+
+I ne'er can fight in a more glorious Cause,
+
+Than to destroy their Liberty and Laws;
+
+Their House of Commons and their House of Lords;
+
+Their Parchment Presidents, and dull Records,
+
+Shall these e'er dare to contradict my Will,
+
+And think a Prince o' th' Blood can e'er do ill?
+
+It is our Birth-right to have Power to kill.
+
+Shall they e'er dare to think they shall decide
+
+The way to Heaven? And who shall be my Guide?
+
+Shall they pretend to say, That Bread is Bread,
+
+If we affirm it is a God indeed?
+
+Or that there's no Purgatory for the Dead?
+
+That Extreme Unction its but common Oyl,
+
+And not infallible the Roman Soil.
+
+I'll have those Villains in our Notions rest;
+
+And I do say it, therefore it's the best.
+
+Next, Painter, draw his Mordant by his Side,
+
+Conveying his Religion, and his Bride:
+
+He who long since abjur'd the Royal Line,
+
+Does now in Popery with his Master joyn.
+
+Then draw the Princess with her golden Locks,
+
+Hastning to be envenom'd with the P—
+
+And in her youthful Veins receive a Wound,
+
+VVhich sent N.H. before her under Ground;
+
+The Wound of which the tainted C—t fades,
+
+Laid up in store for a new Set of Maids.
+
+Poor Princess, born under a sullen Star,
+
+To find such VVelcome when you came so far!
+
+Better some jealous Neighbour of your own
+
+Had call'd you to a sound though petty Throne:
+
+VVhere 'twixt a wholsom Husband and a Page,
+
+You might have linger'd out out a lazy Age,
+
+Than on dull Hopes of being here a Q—
+
+E'er Twenty dye, and rot before Fifteen.
+
+Now, Painter, shew us in the blackest Dye,
+
+The Counsellors of all this Villany.
+
+[[Page 91]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=51) Clifford,
+who first appear'd in humble Guise,
+
+VVas always thought too gentle, meek, and wise:
+
+But when he came to act upon the Stage,
+
+He prov'd the mad Cathegus of our Age.
+
+He, and his Duke, had both too great a Mind,
+
+To be by Justice or by Law confin'd:
+
+Their boiling Heads can bear no other Sounds,
+
+Than Fleets and Armies, Battles, Blood and VVounds;
+
+And to destroy our Liberty, they hope
+
+By Irish Fools, and an old doting Pope.
+
+Next, Talbot, must by his great Master stand,
+
+Laden with Folly, Flesh, and ill got Land:
+
+He's of a size indeed to fill a Porch,
+
+But ne'er can make a Pillar of the Church;
+
+His Sword is all his Argument, not his Book,
+
+Although no Scholar, he can act the Cook;
+
+And will cut Throats again, if he be paid;
+
+In th' Irish Shambles he first learn'd the Trade.
+
+Then Painter shew thy Skill, and in fit place
+
+Let's see the Nuncio Arundel's sweet Face;
+
+Let the Beholders by thy Art espy
+
+His Sense and Soul, as squinting as his Eye.
+
+Let Bellasis autumnal Face be seen,
+
+Rich with the Spoils of a poor Algerine;
+
+VVho trusting in him, was by him betray'd,
+
+And so shall we when his Advice's obey'd:
+
+The Heroe once got Honour by the Sword,
+
+He got his VVealth by breaking of his VVord;
+
+And now his Daughter he hath got with Child,
+
+And Pimps to have his Family defil'd,
+
+Next Painter draw the Rabble of the Plot.
+
+German, Fitz-Gerald, Loftus, Porter, Scot:
+
+These are fit Heads indeed, to turn a State,
+
+And change the Order of a Nation's Fate;
+
+Ten thousand such as these shall ne'er controul
+
+The smallest Atome of an Enlish Soul.
+
+Old England on its strong Foundation stands,
+
+Defying all their Heads and all their Hands ▪
+
+[[Page 92]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=52)Its steady
+Basis never could be shook,
+
+When wiser Men her Ruin undertook:
+
+And can her Guardian-Angel let her stoop
+
+At last, to Mad-men, Fools and to the Pope?
+
+No Painter, no; close up this Piece, and see
+
+This Crowd of Traytors hang'd in Effigie.
+
+### 1.14. To the KING.
+
+GReat Charles, who full of Mercy would'st command
+
+In Peace and Pleasure this thy Native Land;
+
+At last take pity of thy tottering Throne,
+
+Shook by the Faults of others, not thine own.
+
+Let not thy Life and Crown together end.
+
+Destroy'd by a false Brother and a Friend.
+
+Observe the Danger that appears so near,
+
+That all your Subjects do each Minute fear:
+
+One drop of Poison, or a Popish Knife,
+
+Ends all the Joys of England with thy Life.
+
+Brothers, 'tis true, by Nature, should be kind;
+
+But a too zealous and ambitious Mind,
+
+Brib'd with a Crown on Earth, and one above,
+
+Harbours no Friendship, Tenderness, or Love:
+
+See in all Ages what Examples are
+
+Of Monarchs murther'd by their impatient Heir.
+
+Hard Fate of Princes, who will ne'er believe,
+
+Till the Stroke's struck which they can ne'er retrieve.
+
+### 1.15. Nostradamus's Prophecy.
+
+By A. Marvell, Esq
+
+FOR Faults and Follies London's Doom shall fix,
+
+And she must sink in Flames in Sixty six;
+
+Fire-Balls shall fly, but few shall see the Train,
+
+As far as from White-Hall to Pudding-Lane;
+
+To burn the City which again shall rise,
+
+Beyond all hopes, aspiring to the Skies,
+
+[[Page 93]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=52)Where
+Vengeance dwells. But there is one thing more
+
+(Tho its Walls stand) shall bring the City low'r:
+
+When Legislators shall their Trust betray,
+
+Saving their own, shall give the rest away;
+
+And those false Men by th' easie People sent,
+
+Give Taxes to the King by Parliament;
+
+When bare-fac'd Villains shall not blush to cheat,
+
+And Chequer Doors shall shut up Lombard-street:
+
+When Players come to Act the part of Queens,
+
+Within the Curtains, and behind the Scenes:
+
+When Sodomy shall be prime Min'sters Sport,
+
+And Whoring shall be the least Crime at Court:
+
+When Boys shall take their Sisters for their Mate,
+
+And practice Incest between Seven and Eight:
+
+When no Man knows in whom to put his trust,
+
+And e'en to rob the Chequer shall be just:
+
+When Declarations, Lies, and every Oath
+
+Shall be in use at Court, but Faith and Troth,
+
+When two good Kings shall be at Brentford Town,
+
+And when in London there shall be not one;
+
+When the Seat's given to a talking Fool,
+
+Whom wise Men laugh at, and whom Women rule;
+
+A Min'ster able only in his Tongue,
+
+To make harsh empty Speeches two hours long:
+
+When an old Scotch Covenanter shall be
+
+The Champion for th' English Hierarchy:
+
+When Bishops shall lay all Religion by,
+
+And strive by Law t'establish Tyranny:
+
+When a lean Treasurer shall in one Year
+
+Make himself fat, his King and People bare:
+
+When th' English Prince shall English men despise,
+
+And think French only Loyal, Irish Wise:
+
+Whon Wooden Shoon shall be the English wear,
+
+And Magna Charta shall no more appear;
+
+Then th' English shall a greater Tyrant know,
+
+Than either Greek or Latin Story shew;
+
+Their VVives to's Lust expos'd, their VVealth to's Spoil,
+
+VVith Groans to fill his Treasury they toil;
+
+[[Page 94]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=53)But like
+the Bellides, must sigh in vain;
+
+For that still fill'd, flows out as fast again:
+
+Then they with envious Eyes shall Belgium see,
+
+And wish in vain Venetian Liberty.
+
+The Frogs too late grown weary of their Pain,
+
+Shall pray to Jove to take him back again.
+
+### 1.16. Sir Edmundbury Godfrey's Ghost.
+
+IT happen'd in the twy-light of the Day,
+
+As England's Monarch in his Closet lay,
+
+And Chiffinch step'd to fetch the Female-Prey.
+
+The bloody shape of Godfrey did appear,
+
+And in sad Vocal sounds these things declare:
+
+"Behold, Great Sir, I from the Shades am sent,
+
+"To shew these VVounds that did your Fall prevent.
+
+"My panting Ghost, as Envoy, comes to call,
+
+"And warn you, lest, like me, y' untimely fall;
+
+"VVho against Law your Subjects Lives pursue,
+
+"By the same Rule may dare to murder you.
+
+"I, for Religion, Laws, and Liberties,
+
+"Am mangled thus, and made a Sacrifice.
+
+"Think what befel Great Egypt's hardned King,
+
+"VVho scorn'd the Prophet's oft admonishing.
+
+"Shake off your Brandy-slumbers; for my VVords
+
+"More Truth than all your close Cabal affords:
+
+"A Court you have with Luxury o'er-grown,
+
+"And all the Vices e'er in Nature known;
+
+"VVhere Pimps and Pandors in their Coaches ride,
+
+"And in Lampoons and Songs your Lust deride.
+
+"Old Bawds and slighted Whores, there tell with shame,
+
+"The dull Romance of your Lascivious Flame.
+
+"Players and Scaramoches are your Joy;
+
+"Priests and French Apes do all your Land annoy:
+
+"Still so profuse, you are insolvent grown▪
+
+"A mighty Bankrupt on a Golden  [...]
+
+[[Page 95]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=53)"Your
+nauseous Palate the worst Food doth crave;
+
+"No wholsom Viands can an entrance have:
+
+"Each Night you lodge in that French Syren's Arms,
+
+"She strait betrays you with her wanton Charms;
+
+"VVorks on your Heart, softned with Love and VVine,
+
+"And then betrays you to some Philistine.
+
+"Imperial Lust does o'er your Sceptre sway;
+
+"And though a Sovereign, makes you to obey.
+
+"She that from Lisbon came with such Renown,
+
+"And to inrich you with the Afric Town.
+
+"In nature mild, and gentle as a Dove;
+
+"Yet for Religion can a Serpent prove:
+
+"Priest-rid with Zeal, she plots, and did design
+
+"To cut your Thread of Life, as well as mine:
+
+"Yet Thoughts so stupid have your Soul possest,
+
+"As if inchanted by some Magick Priest:
+
+"There's no Example urge you to relent,
+
+"You pardon guilty, punish innocent.
+
+"Next he who 'gainst the Senate's Vote did wed,
+
+"Took defil'd H. and Este to his Bed.
+
+"Fiend in his Face, Apostate in his Name,
+
+"Contriv'd to VVars to your eternal shame.
+
+"He antient Laws and Liberties defies;
+
+"On standing Guards and new-rais'd Force relies.
+
+"The Teagues he courts, and doth the French admire,
+
+"And fain he would be mounted one step higher.
+
+"All this by you must needs be plainly seen,
+
+"And yet he awes you with his daring Spleen.
+
+"Th' unhappy Kingdom suffer'd much of old,
+
+"VVhen Spencer and loose Gaveston controul'd;
+
+"Yet they by just Decrees were timely sent,
+
+"To suffer a perpetual Banishment.
+
+"But your bold States men nothing can restrain,
+
+"Their most enormous Courses you maintain.
+
+"They like those head strong Horses in the Sun,
+
+"Guided by the unskilful Phaeton:
+
+"Your tott'ring Chariot bears through uncouth ways,
+
+"Till the next VVorld's inflamed with your Rays.
+
+[[Page 96]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=54)"VVitness
+that Man, who had for divers Years
+
+"Pay'd the brib'd Commons, Pensions, and Arrears;
+
+"Though your Exchequer was at his Command,
+
+"Durst not before his just Accusers stand:
+
+"His Crimes and Treasons of so black a hue,
+
+"None dare to prove his Advocate but you.
+
+"VVho e'er within your Palace VValls remain,
+
+"Abhor your Actions, serve you but for Gain.
+
+"The Assyrians (as Histories relate)
+
+"Had once a King grown so effeminate;
+
+"All State Affairs seem'd irksom in his sight,
+
+"In Spinning-VVheels he plac'd his whole delight:
+
+"VVith his lewd Strumpet-Crew he did retire,
+
+"Condemn'd and loath'd, he set himself on fire,
+
+"And only in this Act the VVorld did own,
+
+"The greatest Man-hood of his Life was shewn.
+
+"Rome ne'er to such a glorious State had grown,
+
+"Had no luxurious Tarquin there been known,
+
+"A single Rape was deem'd such a Disgrace,
+
+"They extirpate his odious Name and Race:
+
+"Though he from Tuscan Kings did succour crave,
+
+"Yet they with Arms pursu'd him to the Grave:
+
+"Ingenious People always have withstood,
+
+"VVhat stains their Honour or the publick good:
+
+"Trust not in Prelates false Divinity,
+
+"VVho wrong their Prince, and shame their Deity,
+
+"Making their God so partial in their Cause,
+
+"Exempting Kings alone from humane Laws,
+
+"These lying Oracles they did infuse
+
+"Of old, and did your Martyr'd Sire abuse.
+
+"Their strong Delusions did him so enthral,
+
+"No Cautions would anticipate his Fall.
+
+"Repent in time, and banish from your sight
+
+"The Pimp, the VVhore, Buffoon, Church-Parasite▪
+
+"Let Innocence deck your remaining Days,
+
+"That after-Ages may unfold your Praise:
+
+"So may Historians in new methods write,
+
+"And draw a Curtain 'twixt your black and white.
+
+[[Page 97]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=54)"The Ghost
+spake thus, groan'd thrice and said no more;
+
+"Straight in came Chiffinch, Hand in Hand, with Whore;
+
+"The King tho' much concern'd 'twixt Joy and Fear,
+
+"Starts from the Couch, and bids the Dame draw near.
+
+### 1.17. An Historical Poem.
+
+By A. Marvel, Esq.
+
+OF a Tall Stature, and of Sable Hue;
+
+Much like the Son of Kish, that lofty Jew:
+
+Twelve years compleat he suffered in Exile,
+
+And kept is F—thers Asses all the while.
+
+At length by wonderful impulse of Fate,
+
+The People call him home to help the State;
+
+And what is more, they send him Mony too,
+
+And Cloath him all, from Head to Foot, a new.
+
+Nor did he such small Favours then disdain,
+
+But in his Thirtieth year began his Reign:
+
+In a slasht Doublet then he came ashore,
+
+And dubb'd poor P—mer's Wife his Royal Wh—
+
+Bishops and Deans, Peers, Pimps, and Knights he made,
+
+Things highly fitting for a Monarch's trade;
+
+With Women, Wine and Viands of Delight,
+
+His Jolly Vassals feast him Day and Night:
+
+But the best Times have ever some allay,
+
+His younger Brother dy'd by Treachery.
+
+Bold James survives, no dangers make him flinch,
+
+He Marries Seignior Fal—h's pregnate Wench:
+
+The Pious Mother Queen hearing her Son
+
+Was thus Enamour'd on a Butter'd Bun;
+
+And that the Fleet was gone in Pomp and State
+
+To fetch, for Charles, the Flow'ry Lisbon Kate,
+
+She Chaunts Te Deum, and so comes away,
+
+To wish her hopeful Issue timely Joy;
+
+Her most Uxorious Mate she rull'd of old,
+
+VVhy not with easie youngsters make as Bold?
+
+From the French Court she haughty Topicks brings,
+
+Deludes their Plyant Nature with vain things;
+
+[[Page 98]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=55)Her
+Mischief-breeding Breast did so prevail,
+
+The new got Flemish Town was set to sale;
+
+For these and Germains Sins she Founds a Church,
+
+So slips away, and leaves us in the Lurch.
+
+Now the Court-Sins did every Place defile,
+
+And Plagues and VVar fell heavy on the Isle.
+
+Pride nourisht Folly, Folly a Delight
+
+VVith the Batavian Common-wealth to fight:
+
+But the Dutch Fleet fled suddainly with Fear,
+
+Death and the Duke so dreadful did appear.
+
+The dreadful Victor took his soft Repose,
+
+Scorning pursuit of such Mechannick Foes.
+
+But now Y—k's Genitals grew over hot,
+
+VVith D—ham and Carneige's infected Plot;
+
+VVhich, with Religions so inflam'd his Ire.
+
+He left the City when 'twas got on Fire:
+
+So Philip's Son, inflam'd with a Miss,
+
+Burnt down the Palace of Presepolis.
+
+Foild thus by Venus, he Bellona woe's,
+
+And with the Dutch a second VVar renews.
+
+But here his French bred Prowess prov'd in vain,
+
+De Ruyter claps him in Sole Bay again.
+
+This Isle was well reform'd, and gain'd Renown,
+
+VVhilst the brave Tudor's wore th' Imperial Crown;
+
+But since the Royal Race of St—s came,
+
+It has recoyl'd to Popery, and Shame.
+
+Misguided Monarchs, rarely VVise and Just;
+
+Tainted with Pride, and with impetuous Lust.
+
+Should we the Blac [...]-Heath Project here relate,
+
+Or count the various Blemishes of State,
+
+My Muse would on the Reader's Patience grate.
+
+The poor Priapus King led by the Nose,
+
+Looks as a thing set up to scare the Crows;
+
+Yet in the Mimicks of the Spinstrian sport,
+
+Out-does Tiberius, and his Goatish Court.
+
+In Love's Delights none did 'em e're excel.
+
+Not Tereus with his Sister Philomel.
+
+[[Page 99]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=55)As they at
+Athens, we at Dover meet,
+
+And Gentlier far the Orleans Dutchess treat.
+
+What sad Event attended on the same,
+
+We'll leave to the Report of Common Fame.
+
+The Senate, which should head-strong Princes stay,
+
+Let loose the Reins, and give the Realm away,
+
+With lavish Hands they constant Tributes give,
+
+And Annual Stipends for their Guilt receive;
+
+Corrupt with Gold, they Wives and Daughters bring
+
+To the Black Idol for an Offering.
+
+All but Religious Cheats might justly swear,
+
+He true Vice-gerent to old Molock were.
+
+Priests were the first Deluders of Mankind.
+
+Who with vain Faith made all their Reason blind;
+
+Not Lucifer himself more proud than they,
+
+And yet perswade the World they must obey;
+
+'Gainst Avarice and Luxury complain,
+
+And practise all the Vices they arraign.
+
+Riches and Honour they from Lay-men reap,
+
+And with dull Crambo feed the silly Sheep.
+
+As Killigrew Buffoons his Master, they
+
+Droll on their God, but a much duller way;
+
+With Hocus Pocus, and their Heavenly slight
+
+They gain on tender Consciences at Night.
+
+Who ever has an over zealous Wife,
+
+Becomes the Priest's Amphitrio, during life.
+
+Who would such Men Heavens Messengers believe,
+
+Who from the Sacred Pulpit dare deceive;
+
+Baal's wretched Curates Legerdemain'd it so,
+
+And never durst their Tricks above-board shew,
+
+When our first Parents Paradise did grace,
+
+The Serpent was the Prelate of the place.
+
+Fond Eve did for this subtil Tempter's sake,
+
+From the Forbidden Tree the Pippin take.
+
+His God and Lord this Preacher did betray,
+
+To have the weaker Vessel made his Prey.
+
+Since Death and Sin did humane Nature blot,
+
+The chiefest Blessings Adam's Chaplain got.
+
+[[Page 100]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=56)Thrice
+wretched they, who Nature's Laws detest.
+
+And trace the ways fantastick of a Priest;
+
+Till native Reasons basely forc'd to yeild,
+
+And Hosts of upstart Errors gains the Field.
+
+My Muse presum'd a little to digress,
+
+And touch their holy Function with my Verse.
+
+Now to the State again she tends direct,
+
+And does on Giant L—dale reflect.
+
+This haughty Monster, with his ugly Claws,
+
+First temper'd Poyson to destroy our Laws;
+
+Declares the Councils Edicts are beyond
+
+The most Authentick Statutes of the Land:
+
+Sets up in Scotland A-la-mode de France;
+
+Taxes, Excise, and Armies does advance.
+
+This Saracen his Country's Freedom broke,
+
+To bring upon our Necks the heavier Yoke:
+
+This is the Savage Pimp without dispute,
+
+First brought his Mother for a Prostitute.
+
+Of all the Mescreants that e'er went to Hell,
+
+This Villain Rampant bears away the Bell.
+
+Now must my Muse deplore the Nation's Fate,
+
+Like a true Lover, for her dying Mate.
+
+The Royal Evil so malignant grows,
+
+Nothing the dire Contagion can oppose.
+
+In our Weal-publick scarce one thing succeeds,
+
+For one Man's weakness a whole Nation bleeds,
+
+Ill-luck starts up, and thrives like evil Weeds.
+
+Let Cromwell's Ghost smile with contempt to see
+
+Old England strugling under Slavery.
+
+His Meager Highness now has got a stride,
+
+Does on Britannia, as on Churchil ride.
+
+White-liver'd D— for his swift Jack-call.
+
+To hunt down's Prey, and hopes to Master all.
+
+Clifford and Hide before had lost the Day;
+
+One hang'd himself, and the other ran away;
+
+'Twas want of Wit and Courage made them fail.
+
+But O—ne and the D—ke must need, prevail.
+
+[[Page 101]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=56)The D—ke
+now vaunts with Popish Mermydons,
+
+Our Fleets, our Ports, our Cities, and our Towns,
+
+Are Man'd by him, or by his Holiness,
+
+Bold Irish Ruffians to his Court Address:
+
+This is the Collony to plant his Knaves,
+
+From hence he picks and culls his Murthering Braves.
+
+Here for an Ensign, or Lieutenant's place,
+
+They'll kill a Judge or Justice of the Peace.
+
+At his Command Mac will do any thing;
+
+He'll burn a City; or destroy a King.
+
+From Tiber came th' Advice-Boat monthly home,
+
+And brought new Lessons to the Duke from Rome.
+
+Here with curs'd Precepts, and with Councils dire,
+
+The godly Cheat-King (would be) did inspire;
+
+Heaven had him Chieftain of Great Britain made;
+
+Tells him the Holy Church demands his Aid,
+
+Bad him be bold, all Dangers to defy,
+
+His Brother, sneaking Heretick, should dye:
+
+A Priest should do it, from whose sacred stroke,
+
+All England strait should fall beneath his Yoke.
+
+God did Renounce him, and his Cause disown,
+
+And in his stead had plac'd him on his Throne.
+
+From Saul the Land of Promise thus was rent,
+
+And Jess's Son plac'd in the Government:
+
+The Holy Scripture vindicates his Cause,
+
+And Monarchs are above all humane Laws.
+
+Thus said the Scarlet Whore to her Gallant,
+
+Who streight design'd his Brother to supplant:
+
+Fiends of Ambition here his Soul possest,
+
+And thirst of Empire Calentur'd his Breast.
+
+Hence Ruine and Destruction had ensu'd,
+
+And all the People been in Blood imbru'd,
+
+Had not Almighty Providence drawn near,
+
+And stopt his Malice in its full career.
+
+Be wise you Sons of Men, tempt God  [...]o more,
+
+To give you Kings in's wrath to vex you sore:
+
+If a King's Brother can such Mischiefs bring,
+
+Then how much greater Mischiefs such a King?
+
+[[Page 102]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=57)
+
+### 1.18. Hodges's Vision from the Monument, December, 1675.
+
+By A. Marvell Esq
+
+A Country Clown call'd Hodge, went up to view
+
+The Pyramid; pray mark what did ensue.
+
+WHen Hodge had numbered up how many score
+
+The Airy Pyramid contain'd, he swore,
+
+No Mortal Wight e're Climb'd so high before:
+
+To the best best vantage plac'd he views around
+
+The Imperial Town, with lofty Turrets Crown'd;
+
+That wealthy Store-house of the bounteous Flood,
+
+Whose Peaceful Tides o' [...]eflow our Land with good:
+
+Confused forms flit by his wondring Eyes,
+
+And his rapt  [...]ouls o'erwhelm'd with Extasies:
+
+Some God it seems had encer'd his plain Brest,
+
+And with's abode the rustick Mansion blest;
+
+Almighty change he feels in every part,
+
+Light shines in's Eyes, and Wisdom rules his Heart:
+
+So when her Pious Son, fair Venus shew'd
+
+His flaming Troy, with Slaughter'd Dardans strew'd;
+
+She Purg'd his Opticks, fill'd with mortal Night,
+
+And Troy's sad Doom he read, by Heaven's light.
+
+Such light Divine broke on the Clouded Eyes
+
+Of humble Hodge.
+
+Regions remote, Courts, Councils, Polices,
+
+The circling wills of Tyrants treacheries:
+
+He Views, Discerns, Unc [...]phers, Penetrates,
+
+From Charle's Dukes, to Europes armed States;
+
+First he beholds Proud Rome and France Combin'd,
+
+By double Vassallage to enslave Man-kind;
+
+That wou'd the Soul, this wou'd the Body sway,
+
+Their Bulls and Edicts, none must disobey.
+
+For these with War sad Europe they inflame,
+
+Rome says for God, and France declares for Fame:
+
+See Sons of Satan know Religions force,
+
+[[Page 103]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=57)Is
+Gentleness, Fame bought with Blood a Curse,
+
+He whom all stil'd Delight of humane kind,
+
+Justice and Mercy, Truth with Honour joyn'd:
+
+His kindly Rays cherish the teeming Earth,
+
+And struggling Virtue blest with prosperous Birth;
+
+Like Chaos you the tott'ring Globe Invade,
+
+Religion cheat, and War ye make a Trade.
+
+Next the lewd Palace of the Plotting King,
+
+To's Eyes new Scenes of Frantick Folly bring;
+
+Behold (says he) the Fountain of our Woe,
+
+From whence our Vices and our Ruin flow:
+
+Here Parents their own Off-spring prostitute,
+
+By such vile Arts t' obtain some viler Suit;
+
+Here blooming Youth adore Priapus's shrine,
+
+And Priests pronounce him Sacred and Divine.
+
+The Goatish God behold in his Alcove,
+
+(The secret Scene of Damn'd incestuous Love.)
+
+Melting in Lust, and Drunk like Lot he lies
+
+Betwixt two bright Daughter Divinities:
+
+Oh! that like Satura he had eat his Brood,
+
+And had been thus stain'd with their impious Blood,
+
+He had in that less ill, more Man-hood shew'd.
+
+Cease, cease, (O C—) thus to pollute our Isle,
+
+Return, return to thy long wish'd Exile;
+
+There with thy Court defile thy Neighbour States,
+
+And with thy Crimes precipitate their fates.
+
+See where the Duke in damn'd Divan does sit,
+
+To's vast designs wracking his Pigmy Wit;
+
+Whilst a choice Senate of the Ignation Crew,
+
+The waies to Murder, Treason, Conquest shew.
+
+Dissenters they oppress with Laws severe,
+
+That whilst to Wound those Innocents, we fear,
+
+Their cursed Sect we may be forc'd to spare.
+
+Twice the Reform'd must fight a Bloody Prize,
+
+That Rome and France may on their ruine rise:
+
+Old Bonner, single Hereticks did burn,
+
+These Reform'd Cities into Ashes turn,
+
+[...]nd every year new Fires make us Mourn:
+
+[[Page 104]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=58) Ireland
+stands ready for his Cruel Reign,
+
+Well fatned once, she gapes for Blood again,
+
+For Blood of English Martyrs basely Slain.
+
+Our Valiant Youth abroad must learn the Trade
+
+Of unjust War, their Country to Invade,
+
+Whilst others here do guard us to prepare
+
+Our Gauled Necks, his Iron Yoke to bear.
+
+Lo how the Wight already is betray'd,
+
+And Bashaw Holms, does the poor Isle invade:
+
+T' ensure the Plot, France must her Legions lend
+
+Rome to restore, and to Enthrone Rome's Friend:
+
+'Tis in return, James does our Fleet betray;
+
+(That Fleet whose Thunder made the World obey;)
+
+Ships once our safety, and our glorious might,
+
+Are doom'd with Worms and Rottenness to Fight;
+
+Whilest France rides Soveraign o're the British Main,
+
+Our Merchants robb'd, and our brave Seamen ta'ne:
+
+Thus this rash Phaeton with fury hurl'd,
+
+And rapid rage consumes our British World;
+
+Blast him, Oh Heavens! in his mad Career,
+
+And let this Isle no more his Frenzy fear.
+
+C— J—, 'tis he that all good Men abhor,
+
+False to thy self, but to thy Friend much more;
+
+To him who did thy promis'd Pardon hope,
+
+Coleman.
+
+Whilst with pretended Joy he kiss'd the Rope:
+
+O'rewhelm'd with Guilt, and gasping out a Lye,
+
+Deceiv'd and unprepar'd, thou lets him Dye.
+
+With equal Gratitude and Charity.
+
+In spight of Jermin, and of Black-mouth'd Fame;
+
+This St—s trick Legitimates thy Name.
+
+With one consent we all her Death desire,
+
+Who durst her Husbands and her Kings Conspire;
+
+And now just Heavens prepar'd to set us free,
+
+Heaven and our hopes, are both oppos'd by thee.
+
+Thus fondly thou do'st Hides old Treason own,
+
+Thus makes thy new suspected Treason known.
+
+Bless me! What's that at Westminster I see?
+
+That piece of Legislative Pagentry?
+
+[[Page 105]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=58)To our
+dear James, has Rome her Conclave lent?
+
+Or has Charles bought the Paris Parliament:
+
+None else would promote James with so much Zeal,
+
+Who by Proviso hopes the Crown to steal:
+
+See how in humble guise the Slaves advance,
+
+To tell a tale of Army, and of France;
+
+Whilst proud Prerogative in scornful Guise,
+
+Their Fear, Love, Duty, Danger does despise;
+
+There in a brib'd Committee they contrive,
+
+To give our Birth-right's to Prerogative:
+
+Give, did I say? They sell, and sell so dear,
+
+That half each Tax D— distributes there
+
+D—, 'tis fit the price so great should be,
+
+They sell Religion, sell their Liberty;
+
+These Vipers have their Mothers Entrals torn;
+
+And wou'd by force a second time be born;
+
+They haunt the place to which you once were sent,
+
+This Ghost of a departed Parliament.
+
+Octob. the 15th, 76.
+
+Gibbets and Halters Country men prepare,
+
+Let none, let none, their Renegadoes spare:
+
+When that Day comes we'll part the Sheep and Goats,
+
+The spruce brib'd Monsieurs from the true Grey Coats.
+
+New Parliaments, like Manna, all Tastes please,
+
+But kept too long, our Food turns our Disease;
+
+From that loath'd sight, Hodge turn'd his weeping Eyes,
+
+And London thus Alarms with Loyal Cries.
+
+Tho' common Danger does approach so nigh,
+
+This stupid Town sleeps in Security:
+
+Out of your Golden Dream awake, awake,
+
+Your All, your All, tho' you see't not at's Stake;
+
+More dreadful Fires approach your falling Town,
+
+Then those which burnt your stately Structures down,
+
+Such fatal Fires, as once in Smithfield shone.
+
+If then ye stay till Edward's Orders give,
+
+Major.
+
+No mortal Arm your safety can retrieve;
+
+See how with Golden Baits the crafty Gaul,
+
+Has brib'd our Geese to yield the Capital;
+
+[[Page 106]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=59)And will
+ye tamely see your selves betray'd?
+
+Will none stand up in our dear Country's aid?
+
+Self-preservation, Natures first great Law,
+
+All the Creation, except Man, does awe,
+
+'Twas in him six'd, till lying Priests defac'd
+
+His Heav'n-born Mind, and Natures Tablets raz'd.
+
+Tell me (ye forging Crew) what Law reveal'd
+
+By God, to Kings the Jus Divinum seal'd ?
+
+If to do good, ye Jus Divinum call,
+
+It is the grand Prerogative of all:
+
+If to do lll unpunish'd be their Right,
+
+Such Power's not granted that great King of night;
+
+Man's Life moves on the Poles of hope and fear,
+
+Reward and Pain all Orders do revere.
+
+But if your dear Lord Sov'raign you would spare,
+
+Admonish him in his Blood-thirsty Heir:
+
+So when the Royal Lyon does offend,
+
+The beaten Currs example makes him mend:
+
+This said poor Hodge, then in a broken tone,
+
+Cry'd out, Oh Charles! thy Life, thy Life, thy Crown;
+
+Ambitious James, and Bloody Priests Conspire,
+
+Plots, Papists, Murders, Massacres, and Fire;
+
+Poor Protestants! With that his Eyes did rowl,
+
+His Body fell, out fled his frighted Soul.
+
+### 1.19. A Dialogue between two Horses.
+
+By Andrew Mar­vell, Esq 1674.
+
+#### 1.19.1. The Introduction.
+
+WE read in profane and sacred Records
+
+Of Beasts, that have utter'd Articulate VVords;
+
+When Magpies and Parrots cry, VValk Knaves walk,
+
+It is a clear Proof that Birds too may talk.
+
+And Statues without either Wind-pipes or Lungs,
+
+Have spoken as plainly as Men do with Tongues:
+
+[[Page 107]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=59) Livy
+tells a strange Story, can hardly be fellow'd,
+
+That a Sacrific'd Ox when his Guts were out, bellow'd.
+
+Phalaris had a Bull, which as grave Authors tell you,
+
+Would roar like a Devil with a Man in his Belly.
+
+Friar Bacon had a Head that speak, made of Brass;
+
+And Balaam the Prophet was reprov'd by his Ass.
+
+At Delphos and Rome, Stocks and Stones now and then Sirs,
+
+Have to Questions return'd Articulate Answers.
+
+All Popish Believers think something divine,
+
+When Images speak, possesseth the Shrine:
+
+But they that Faith Catholick ne'er understood,
+
+When Shrines give Answer, a Knaves on the Road.
+
+Those Idols ne're spoke, but are Miracles done
+
+By the Devil, a Priest, a Frier or a Nun.
+
+If the Roman Church, good Christians, oblige ye
+
+To believe Man and Beast have spoke in Effigie.
+
+Why should we not credit the publick Discourses
+
+In a Dialogue between two Inanimate Horses ?
+
+The Horses, I mean of VVool-Church and Charing —
+
+Who told many Truths worth any Man's hearing.
+
+Since Viner and Osborn did buy, and provide 'em▪
+
+For the two mighty Monarchs that now do bestride 'em
+
+The stately brass Stallion, and the white marble Steed,
+
+One Night came together by all 'tis agreed:
+
+When both Kings being weary of sitting all Day,
+
+Were stollen off Incognito each his own way.
+
+And then the two Jades, after mutual Salutes,
+
+Not only discours'd, but fell to Disputes.
+
+#### 1.19.2. The Dialogue.
+
+W.
+
+Quoth the marble Horse, it would make a Stone speak,
+
+To see a Lord Mayor and a Lombard-street break:
+
+Thy Founder and mine to cheat one another,
+
+When both Knaves agreed to be each others Brother.
+
+C.
+
+Here Charing broke forth, and thus he went on,
+
+My Brass is provoked as much as thy Stone,
+
+[[Page 108]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=60)To see
+Church and State bow down to a Whore,
+
+And the Kings chief Minister holding the Door.
+
+The Mony of Widows and Orphans imploy'd,
+
+And the Bankers quite broke to maintain the Whores Pride.
+
+VV.
+
+To see Dei Gratia writ on the Throne,
+
+And the K—'s wicked Life say, God there is none.
+
+C.
+
+That he should be stil'd Defender of the Faith,
+
+Who believes not a Word, what the Word of God saith.
+
+VV.
+
+That the D.- should turn Papist, and that Church defy,
+
+For which his own Father a Martyr did die.
+
+C.
+
+Tho' he changed his Religion, I hope he's so civil
+
+Not to think his own Father is gone to the Devil.
+
+VV.
+
+That bondage and beggary should be in a Nation,
+
+By a curst House of Commons, and a blest Restoration.
+
+C.
+
+To see a white Staff make a Beggar a Lord,
+
+And scarce a wise Man at a long Council-board.
+
+VV.
+
+That the Bank should be seized, yet the Cheq. so poor,
+
+Lord have Mercy, and a Cross might be set on the door.
+
+C.
+
+That a Million and half should be the Revenue,
+
+Yet the King of his Debts pay no Man a Penny.
+
+VV.
+
+That a K— should consume three Kingdom's Estates,
+
+And yet all the Court be as poor as Church-Rats.
+
+C.
+
+That of four Seas Dominion and of their guarding,
+
+No token should appear, but a poor Copper Farthing.
+
+VV.
+
+Our Worm-eaten Ships to be laid up at Chatham,
+
+(Not our Trade to secure) but for Fools to come at 'em.
+
+C.
+
+And our few Ships abroad become Tripoli's scorn,
+
+By pawning for Victuals their Guns at Leghorn.
+
+VV.
+
+That making us Slaves by Horse and Foot-Guard,
+
+For restoring the King shall be all our reward.
+
+C.
+
+The basest Ingratitude ever was heard,
+
+But Tyrants ungrateful are always afraid.
+
+VV.
+
+On Harry the VII's Head, he that placed the Crown,
+
+Was after Rewarded by losing his own.
+
+C.
+
+That Parliament-men should rail at the Court,
+
+And get good Preferments immediately for't.
+
+To see them that suffer both for Father and Son,
+
+And helped to bring the latter to his Throne:
+
+[[Page 109]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=60)That with
+their Lives and Estates did loyally serve,
+
+And yet for all this, can nothing deserve;
+
+The King looks not on 'em, Preferments deni'd 'em,
+
+The Round-heads insult, and the Courtiers deride them.
+
+And none gets Preferments, but who will betray
+
+Their Country to Ruin, 'tis that ope's the way
+
+Of the bold talking Members.—
+
+VV.
+
+—If the Bastards you add,
+
+What a number of Rascally Lords have been made.
+
+C.
+
+That Traitors to their Country in a brib'd House of C.
+
+Should give away Millions at every Summons.
+
+VV.
+
+Yet some of those Givers, such beggarly Villains,
+
+As not to be trusted for twice fifty Shillings.
+
+C.
+
+No wonder that Beggars should still be for giving,
+
+Who out of what's given, do get a good living.
+
+VV.
+
+Four Knights and a Knave, who were Burgesses made,
+
+For selling their Consciences were liberally paid.
+
+C.
+
+How base are the Souls of such low prized Sinners,
+
+Who Vote with the Country for Drink and for Dinners,
+
+VV.
+
+'Tis they that brought on us this Scandalous Yoke.
+
+Of Excising our Cups, and Taxing our Smoak.
+
+C.
+
+But thanks to the Whores who made the K— dogged,
+
+For giving no more the R— are Prorogued.
+
+VV.
+
+That a King should endeavour to make a War cease,
+
+Which augments and secures his own profit and peace.
+
+C.
+
+And Plenipotentiaries send into France.
+
+With an addle-headed Knight, & a Lord without Brains
+
+VV.
+
+That the King should send for another French Whore,
+
+When one already had made him so Poor.
+
+C.
+
+The Misses take place, and advanc'd to be Dutchess,
+
+With Pomp great as Queens in their Coach and six Horses:
+
+Their Bastards made Dukes, Earls, Viscounts & Lords,
+
+And all the High Titles that Honour affords.
+
+W.
+
+While these Brats and their Mothers, do live in such Plenty
+
+The Nation's empoverisht, and the Chequor quite empty:
+
+[[Page 110]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=61)And tho'
+War was pretended when the Mony was lent,
+
+More on Whores, than in Ships, or in War, hath been spent.
+
+C.
+
+Enough, dear Brother, although we speak Reason;
+
+Yet truth many times being punish'd for Treason,
+
+We ought to be wary, and bridle our Tongues.
+
+Bold speaking hath done both Men and Beasts wrong:
+
+When the Ass so boldly rebuked the Prophet,
+
+Thou knowest what danger was like to come of it;
+
+Though the Beast gave his Master ne'er an ill Word,
+
+Instead of a Cudgel Balaam wish'd for a Sword.
+
+W.
+
+Truth's as bold as a Lion, I am not afraid,
+
+I'll prove every tittle of what I have said:
+
+Our Riders are absent, who is't that can hear;
+
+Lets be true to our selves, who then need we fear?
+
+Where is thy K— gone, (Chair.) to see Bishop Laud?
+
+W.
+
+To Cuckold a Scrivener, mines in Masquerade?
+
+On such Occasions he oft strays away,
+
+And returns to remount about break of Day.
+
+In very dark Nights sometimes you may find him
+
+With a Harlot, got up on my Crupper behind him.
+
+C.
+
+Pause Brother a while, and calmly consider
+
+What thou hast to say against my Royal Rider.
+
+VV.
+
+Thy Priest-ridden King turn'd desperate fighter
+
+For the Surplice, Lawn-sleeves, the Cross and the Miter;
+
+Till at last on the Scaffold he was left in the lurch
+
+By Knaves, that cry'd up themselves for the Church.
+
+Arch-Bishops and Bishops, Arch-Deacons and Deans;
+
+C.
+
+Thy King will ne'er fight unless't be for Queans.
+
+VV.
+
+He that dies for Ceremonies, dies like a Fool.
+
+C.
+
+The K— on thy back is a lamentable Tool.
+
+VV.
+
+The Goat and the Lion, I equally hate,
+
+And Freeman alike value Life and Estate:
+
+Though the Father and Son be different rods,
+
+Between the two Scourges we find little odds;
+
+Both Infamous stand in three Kingdoms Votes,
+
+This for Picking our Pockets, that for cutting our Throats:
+
+C.
+
+[[Page 111]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=61)
+
+More tolerable are the Lion Kings Slaughters,
+
+Then the Goat making Whores of our Wives and Daughters.
+
+The Debauched and Cruel since they equally gall us,
+
+I had rather bear Nero than Sardanapalus.
+
+VV.
+
+One of the two Tyrants must still be our Case,
+
+Under all that shall Reign of the false S— Race.
+
+De Wit and Cromwell had each a brave Soul,
+
+I freely declare it, I am for old Nol;
+
+Though his Government did a Tyrant resemble,
+
+He made England great and his Enemies tremble.
+
+C.
+
+Thy Rider puts no Man to Death in his Wrath,
+
+But is bury'd alive in Lust and in Sloth.
+
+VV.
+
+What is thy Opinion of James Duke of York?
+
+C.
+
+The same that the Frogs had of Jupiter's Stork.
+
+With the Turk in his Head, and the Pope in his Heart,
+
+Father Patrick's Disciples will make England smart.
+
+If e'er he be King, I know Britain's Doom,
+
+We must all to a Stake, or be Converts to Rome.
+
+Ah! Tudor, ah! Tudor, we have had Stu—s enough;
+
+None ever Reign'd like old Bess in the Ruff.
+
+Her VValsingham could dark Counsels unriddle,
+
+And our Sir J—pk write New-Books, and Fiddle.
+
+VV.
+
+Truth Brother, well said, but that's somewhat bitter,
+
+His perfum'd Predecessor was never more fitter:
+
+Yet we have one Secretary Honest and Wise;
+
+For that very Reason, he's never to rise.
+
+But can'st thou devise when things will be mended?
+
+C.
+
+When the Reign of the Line of the S—ts, are ended.
+
+#### 1.19.3. Conclusion.
+
+If Speeches from Animals in Romes first Age,
+
+[...]rodigious Events did surely presage,
+
+That should come to pass, all Mankind may swear,
+
+That which two Inanimate Horses declare.
+
+But I should have told you before the Jades parted,
+
+[...]oth gallop'd to Whitehall, and there humbly farted;
+
+[[Page 112]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=62)Which
+Tyranny's downfal portended much more
+
+Than all that the Beasts had spoken before.
+
+If the Delphick Sybil's Oracular Speeches,
+
+(As learned Men say) came out of their Breeches,
+
+Why might not our Horses, since Words are but Wind,
+
+Have the Spirit of Prophecy likewise behind?
+
+Tho' Tyrants make Laws, which they strictly proclaim,
+
+To conceal their own Faults, and cover their own Shame;
+
+Yet the Beasts in the Field, and the Stones in the Wall,
+
+Will publish their Faults and prophesy their Fall;
+
+When they take from the People the Freedom of words,
+
+They teach them the sooner to fall to their Swords.
+
+Let the City drink Coffee, and quietly groan,
+
+(They that conquer'd the Father won't be Slaves to the Son,
+
+For Wine and strong Drink make Tumults encrease,
+
+Chocolate, Tea and Coffee, are Liquors of Peace;
+
+No Quarrels or Oaths among those that drink them,
+
+'Tis Bacchus and the Brewer, swear damn 'em and sink 'em,
+
+Then C—s thy late Edict against Coffee recal,
+
+There's ten times more Treason in Brandy and Ale.
+
+### 1.20. On the Lord Mayor and Court of Alderman, pre­senting the late King
+and Duke of York each with a Copy of their Freedoms, Anno Dom. 1674.
+
+By A. Marvell, Esq
+
+I.
+
+THE Londoners Gent. to the King do present
+
+In a Box the City Maggot;
+
+'Tis a thing full of Weight, that requires the Might
+
+Of whole Guild-Hall Team to drag it.
+
+[[Page 113]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=62)
+
+II.
+
+Whilst their Church's unbuilt and their Houses undwelt,
+
+And their Orphants want  [...]read to fe [...]d 'em;
+
+Themselves they've bereft of the little Wealth they had left.
+
+To make an Offering of their Freedom.
+
+III.
+
+O ye Addle-brain'd Cits! who henceforth in their Wits
+
+Would intrust their Youth to your heading;
+
+When in Diamonds and Gold you have him thus en­roll'd,
+
+You know both his Friends and his Breeding?
+
+IV.
+
+Beyond Sea he began, where such a Riot he ran,
+
+That every one there did leave him;
+
+And now he [...]s come o'er ten times worse than before,
+
+When none but such Fools would receive him.
+
+V.
+
+He ne'er knew, not he, how to serve or be free,
+
+Though he has past through so many Adventures;
+
+But e'er since he was bound, (that is he was crown'd)
+
+He has every Day broke his Indentures.
+
+VI.
+
+He spends all his Days in running to Plays,
+
+When he should in the Shop be poring:
+
+And he wasts all his Nights in his constant Delights,
+
+Of Revelling, Drinking and Whoring.
+
+VII.
+
+Thro'out Lumbard-street each Man he did meet,
+
+He would run on the Score and borrow,
+
+When they'd ask'd for their own, he was broke and gone,
+
+And his Creditors left to Sorrow.
+
+VIII.
+
+Though oft bound to the Peace, yet he never would cease,
+
+To vex his poor Neighbours with Quarrels,
+
+And when he was beat, he still made his Retreat,
+
+To his Cleavlands, his Nels, and his Carwels.
+
+IX.
+
+Nay, his Company lewd, were twice grown so rude,
+
+That had not Fear taught him Sobriety,
+
+[[Page 114]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=63)And the
+House being well barr'd with Guard upon Guard,
+
+They'd robb [...]d us of all our Propriety.
+
+X.
+
+Such a Plot was laid, had not Ashley betray'd,
+
+As had cancell'd all former Disasters;
+
+And your wives had been Strumpets to his Hignesses Trumpets,
+
+And Foot-Boys had all been your Masters.
+
+XI.
+
+So many are the Debts, and the Bastards he gets,
+
+Which must all be defray'd by London,
+
+That notwithstanding the Care of Sir Thomas Player,
+
+The Chamber must needs be undone,
+
+XII.
+
+His Words nor his Oath cannot bind him to Troth,
+
+And he values not Credit or History;
+
+And though he has serv'd through two Prentiships now,
+
+He knows not his Trade nor his Mystery.
+
+XIII.
+
+Then London Rejoyce in thy fortunate Choice,
+
+To have made him free of thy Spices;
+
+And do not mistrust he may once grow more just,
+
+When he's worn of his Follies and Vices.
+
+XIV.
+
+And what little thing is that which you bring
+
+To the Duke, the Kingdom's Darling;
+
+Ye hug it and draw like Ants at a Straw,
+
+Tho too small for the Gristle of Starling.
+
+XV.
+
+Is it a Box of Pills to cure the Kings Ills?
+
+(He is too far gone to begin it)
+
+Or that your fine Show in Processioning go,
+
+With the Pix and the Host within It.
+
+XVI.
+
+The very first Head of the Oath you him read,
+
+Shew you all how fit he's to Govern,
+
+When in Heart (you all knew) he ne'er was nor will be true.
+
+To his Country or to his Soveraign.
+
+[[Page 115]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=63)
+
+XVII.
+
+And who could swear, that he would forbear
+
+To cull out the good of an Alien,
+
+Who still doth advance the Government of France,
+
+With a Wife and Religion Italian?
+
+XVIII.
+
+And now, Worshipful Sirs, go fold up your Furrs,
+
+And Vyners turn again, turn again;
+
+I see who e'ers freed, you for Slaves are decreed
+
+Until you burn again, burn again.
+
+### 1.21. On Blood's Stealing the Crown.
+
+By A. Marvell, Esq
+
+WHen daring Blood, his Rent to have regain'd
+
+Upon the English Diadem distrain'd:
+
+He chose the Cassock, Sursingle and Gown,
+
+The fittest Mask for one that robs the Crown;
+
+But his lay-pitty underneath prevail'd,
+
+And whilst he sav'd the Keepers Life he fail'd,
+
+With the Priests Vestment had he but put on,
+
+The Prelates Cruelty, the Crown had gone.
+
+A. Marvell.
+
+### 1.22. Farther Instructions to a Painter, 1670.
+
+By A. Marvell Esq
+
+PAinter once more thy Pencil re-assume,
+
+And draw me in one Scene London and Rome:
+
+Here holy Charles, there good Aurelius sat,
+
+Weeping to see their Sons Degenerate:
+
+His Romans taking up the Teemers Trade,
+
+The Britains Jigging it in Masquerade;
+
+[[Page 116]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=64)Whilst
+the brave Youths tired with the Toil of State,
+
+Their wearied Minds, and Limbs to recreate;
+
+Do to their more belov'd Delights repair,
+
+One to his —, the other to his Player,
+
+Then change the Scene, and let the next present
+
+A Landskip of our Motley Parliament;
+
+And Place hard by the Bar, on the Left-hand,
+
+Circean Clifford with his Charming Wand:
+
+Our Pig-ey'd on his Fashion,
+
+Set by the worst Attorney of our Nation:
+
+This great Triumvirate that can divide
+
+The spoils of England, and along that side
+
+Place Falstefs Regiment of thred bare Coats,
+
+All looking this way, how to give their Votes,
+
+And of his dear Reward let none Despair.
+
+For Mony comes when Sey—r leaves the Chair:
+
+Change once again, and let the next affoard
+
+The Figure of a Motley Council Board.
+
+At Arlingtons, and round about it sat,
+
+Our mighty Masters in a warm debate:
+
+Full Bowls, and lusty Wine repeat,
+
+To make them t'other Council-board forget:
+
+That while the King of France with powerful Arms,
+
+Gives all his fearful Neighbours strange Allarms;
+
+We in our glorious Bachanals dispose
+
+The humbled Fate of a Plebean Nose.
+
+Which to effect, when thus it was Decreed;
+
+Draw me a Champion mounted on a Steed,
+
+And after him a brave Briggade of Horse,
+
+Arm'd at all Points, ready to reinforce,
+
+His, this Assault upon a single Man.
+
+'Tis this must make Obryon great in Story,
+
+And add more beams to Sandy's former Glory.
+
+Draw our Olimpia, next in Council set,
+
+With Cupid, S—r, and the tool of State.
+
+Two of the first recanters of the House.
+
+That Aim at Mountains, and bring forth a Mouse;
+
+[[Page 117]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=64)Who make
+it by their mean retreat appear,
+
+Five Members need not be demanded here:
+
+These must assist her in her Countermines,
+
+To overthrow the Darby House Designs.
+
+Whilst positive Walks, like Woodcock in the Park,
+
+Contriving Projects with a Brewer's Clark;
+
+Thus all Employ themselves, and without Pity,
+
+Leave Temple singly to be beat i'th' City.
+
+A. Marvell.
+
+### 1.23. Oceana. & Britannia.  
+Non ego sum vates, sed prisci Conscius aevi.
+
+By A. Marvell. Esq
+
+Oceana.
+
+WHither, O whither wander I forlorn?
+
+Fatal to Friends, and to my Foes a scorn.
+
+My pregnant Womb is labouring to bring forth
+
+Thy off-spring Archon, Heir to thy just worth.
+
+Archon, O Archon, hear my groaning Cries;
+
+Lucina, help, asswage my Miseries.
+
+Saturnian spight pursues me thro' the Earth,
+
+No corner's left to hide my long wisht Birth.
+
+Great Queen of the Isles, yield me a safe retreat
+
+From the crown'd Gods, that would my Infants eat.
+
+To me O Delos on my Child-Bed smile,
+
+My happy Seed shall fix thy floating Isle.
+
+I feel fierce pangs assault my Teeming Womb,
+
+Lucina, O Britannia, Mother, come.
+
+Britan.
+
+What doleful shrieks pierce my affrighted Ear!
+
+Shall I ne'er rest for this lewd Ravisher?
+
+Rapes, Burnings, Murthers are his Royal Sport,
+
+These Modish Monsters haunt his perjur'd Court.
+
+No tumbling Player so oft e'er chang'd his shape,
+
+As this Goat, Fox, Wolf, timerous French Ape.
+
+[[Page 118]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=65)True
+Protestants in Roman Habits drest,
+
+With Scrogs he baits that Ravenous Butchers Beast.
+
+Tresilian Iones, that fair fac'd Crocodile,
+
+Tearing their Hearts, at once doth weep and smile,
+
+Neronian Flames at London do him please,
+
+At Oxford Plots to Act Agathocles.
+
+His Plot's reveal'd, his Mirth is at an end,
+
+And's fatal hour shall know no Foe nor Friend,
+
+Last Martyr's day I saw a Cherub stand
+
+A cross my Seas, one Foot upon the Land,
+
+The' other on the enthralled Gallick Shore,
+
+Aloud Proclaim their Time shall be no more.
+
+This mighty Power Heav'ns equal Ballance sway'd,
+
+And in one Scale Crowns, Cros [...]ers, Scepters laid.
+
+I'th' other a sweet Smiling Babe did lye,
+
+Circled with Glories, deck'd with Majesty.
+
+With steady Hand he pois'd the Golden pair,
+
+The gilded Gew-gaws mounted in the Air,
+
+The ponderous Babe descending in its Scale,
+
+Leapt on my Shore—
+
+Nature triumph'd, Joy eccho'd throw the Earth,
+
+The Heav'ns bow [...]d down to see the blessed Birth,
+
+What [...]s that I hear? A new born Babe's soft Cries,
+
+And joyful Mother's tender Lullabies!
+
+'Tis so, behold my Daughter's past all harms.
+
+Cradeling an Infant in her fruitful Arms.
+
+The very same th' Angelick Vision shew'd
+
+In mein, in Majesty how like a God.
+
+What a firm Health does on her Visage dwell?
+
+Her sparkling Eyes Immortal Youth fore-tell.
+
+Rome, Sparta, Venice, could bring forth
+
+So strong, so temperate, such lasting worth.
+
+Marp [...]sia from the North with speed advance,
+
+Thy Sisters Birth brings thy Deliverance.
+
+Fergusian Founders this just Babe exceeds,
+
+I'th' Arts of Peace and mighty Martial Deeds.
+
+Ye Panopeians kneel unto your equal Queen,
+
+Safe from the Foreign Sword, and Barbarous Skeen.
+
+[[Page
+119]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=65)Transports of
+Joy divert my yearning Heart
+
+From my dear Child, my Soul, my better part.
+
+Heav'n show'r her choicest Blessings on thy Womb,
+
+Our present help, our stay in time to come.
+
+Thou best of Daughters, Mothers, Matrons say,
+
+What forc'd thy Birth, and got this glorious Day?
+
+Ocea.
+
+Scap'd the slow Jaws o'th' grinding Pensioners,
+
+I fell i'th' Traps of Rome's dire Murtherers;
+
+Twice rescu'd by my Loyal Senate's Power,
+
+Twice I expected my Babes happy Hour.
+
+Malignant force twice check'd their Pious aid,
+
+And to my foes as oft my State betray'd.
+
+Great, full of pain, in a dark Winters-night,
+
+Threatned, pursu'd, escap'd by suddain flight.
+
+Pale fear gave speed to my weak trembling Feet,
+
+And far I fled e'er Day our World could greet.
+
+That dear lov'd Light which the whole Globe doth cheer,
+
+Spur'd on my flight, and added to my fear,
+
+Whilst black Conspiracy, that Child of Night,
+
+In Royal Purple clad, out dares the Light.
+
+By Day her self the Faith's Defender stiles,
+
+By Night dig Pits, and spreads her Papal Toils.
+
+By Day he to the Pompous Chappel goes,
+
+By Night with York adores Rome's Idol shews:
+
+Witness ye Stars and silent Powers of Night,
+
+Her Treacheries forc'd my Innocent flight.
+
+With the broad Day my danger too drew near,
+
+Of help, of Council void, how shall I steer?
+
+I'th' Pulpit of damn'd, Strumpet at Court proclaim'd,
+
+Where should I hide, where should I rest defam'd:
+
+Tortur'd in Thought, I rais'd my weeping Eyes,
+
+And sobbing Voice to th' all helping Skies;
+
+As by Heav'n sent a Reverend Sire appears,
+
+Charming my Grief, and stopping my flood of Tears:
+
+His busie circling Orbs (two restless Spies)
+
+Glanc'd to and fro, out-ranging Argos Eyes.
+
+Like fleeting Time, on's Front one lock did grow,
+
+From his glib Tongue Torrents of Words did flow.
+
+[[Page 120]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=66)Propose,
+Resolve, Agrarian Forty one,
+
+Lycurgus, Brutus, Solon, Harington.
+
+He said, he knew me in my Swadling bands,
+
+Had often danc'd me in his careful hands.
+
+He knew Lord Archon too, then wept and Swore,
+
+Enshrin'd in me, his Fame he did adore.
+
+His Name I ask'd, he said, Politico,
+
+Descended from the Divine Nicholo.
+
+My state he knew, my danger seem'd to dread,
+
+And to my safety vow'd, Hand, Heart, and Head.
+
+Grateful Returns I up to Heaven send,
+
+That in Distress had sent me such a Friend.
+
+I ask'd him where I was? Pointing he shew'd
+
+Oxford's Old Towers, once the Learned Arts aboad.
+
+(Once great in Fame, now a Pyratick Port,
+
+Where Romish Priests and Elvish Monks resort)
+
+He added near a new-built Colledge stood,
+
+Endow'd by Plato for the Publick good.
+
+Thither allur'd by Learned Honest Men,
+
+Plato vouchsaf'd once more to live again.
+
+Securely there I might my self repose,
+
+From my fierce Griefs and my more cruel Foes.
+
+Tyr'd with long flights, e'en hunted down with fear,
+
+The welcome news my drooping Soul did chear.
+
+His pleasing words shortned the time and way,
+
+And me beguil'd at Plato's house to stay.
+
+When we came in, he told me (after rest,)
+
+He'd shew me Plato and's Venetian Guest,
+
+I scarce reply'd, with weariness opprest,
+
+To my desir'd Apartment I repair'd,
+
+Invoking Sleep and Heaven's Almighty Guard.
+
+My waking Cares and stabbing frights recede,
+
+And nodding Sleep dropt on my drowsie Head.
+
+At last the summons of a busie Bell,
+
+And glimmering Lights did Sleeps kind Mists dispel.
+
+From Bed I stole, and creeping by the Wall,
+
+Thro' a small Chink I spy'd a Spacious Hall.
+
+[[Page 121]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=66)Tapers as
+Thick as Stars did shed their Light
+
+Around the place, and made a Day of Night.
+
+The curious Art of some great Master's hand,
+
+Adorn'd the Room —Hide, Clifford, D.— stand
+
+In one large piece, next them the two Dutch Wars,
+
+In bloody Colours paint our fatal Jars.
+
+Here London Flames in Clouds of smoke aspire,
+
+Done to the life, I'd almost cry'd out Fire.
+
+But living Figures did my Eyes divert
+
+From those, and many more of wondrous Art.
+
+There entred in three Mercenary Bands.
+
+(The different Captains had distinct Commands)
+
+The Begger's desperate Troop did first appear,
+
+L—ton led, proud S—re had the Rear.
+
+The disguis'd Papists under Garroway,
+
+Talbot Lieutenant (none had better pay)
+
+Next greedy Lee led Party-colour'd Slaves,
+
+Deaf Fools i'th' right, i'th' wrong sagacious Knaves.
+
+Brought up by M—, then a Nobler Train,
+
+(In Malice mighty, impotent in Brain)
+
+The Pope's Solicitor brought into th' Hall,
+
+Not guilty Lay much guilty Spiritual.
+
+I also spy'd behind a private Skreen,
+
+Colebert and Portsmouth, York and Mazarine.
+
+Immediately in close Cabal they joyn,
+
+And all applaud the Glorious Design.
+
+'Gainst me and my lov'd Senates Free born Breath,
+
+Dire threats I hear'd, the Hall did Eccho Death.
+
+A Curtain drawn, another Scene appear'd,
+
+A tinckling Bell, a mumbling Priest I heard.
+
+At Elevation every Knee ador'd
+
+The Baker's Craft, Infallible's vain Lord.
+
+When Cataline with Vipers did conspire,
+
+To Murther Rome and bury it in Fire,
+
+A Sacramental Bowl of Humane Goar,
+
+Each Villain took, and as he drank he swore.
+
+The Cup deny'd, to make their Plot compleat,
+
+These Catalines their conjur'd Gods did eat.
+
+[[Page 122]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=67)Whilst to
+their Breaden Whimseys they did kneel,
+
+I crept away, and to the door did steal.
+
+As I got out, by Providence I flew,
+
+To this close Wood, too late they did pursue.
+
+That dreadful night, my Child-Bed Throws brought on,
+
+My Crys mov'd yours and Heaven's Compassion.
+
+Britania.
+
+Oh happy day! A Jubilee Proclaim,
+
+Daughter adore the unutterable name.
+
+With grateful Heart breath out thy self in Prayer.
+
+In the mean time thy Babe shall be my care.
+
+There is a man my Island's Hope and Grace,
+
+The chief Delight and Joy of humane Race.
+
+Expos'd himself to War, in tender Age,
+
+To free his Country from the Gallick Rage,
+
+With all the Graces blest his riper Years,
+
+And full blown Vertue wak'd the Tyrant's fears.
+
+By's Sire rejected, but by Heaven call'd,
+
+To break my Yoake, and rescue the Enthrall'd.
+
+This, this is he who with a stretch'd out Hand,
+
+And matchless might shall free my groaning Land.
+
+On Earth's proud Basilisks he'll justly fall,
+
+Like Moses Rod, and Prey upon them all.
+
+He'll guide my People through the Raging Seas,
+
+To Holy-Wars and certain Victories.
+
+His spotless Fame, and his Immense Desert,
+
+Shall plead Loves cause, and storm this Virgins Heart.
+
+She like Aegeria shall his Breast inspire,
+
+With Justice, Wisdom, and Celestial Fire.
+
+Like Numa he her Dictates shall obey,
+
+And by her Oracles the World shall sway.
+
+### 1.24. On his Excellent Friend Mr. Anth. Marvell, 1677
+
+WHile lazy Prelates lean'd their Mitred-Heads
+
+On downy Pillows, lull'd with Wealth and Pride,
+
+[[Page
+123]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=67)(Pretending
+Prophesie, yet naught forsee.)
+
+Marvell, this Islands watchful Centinel
+
+Stood in the gap, and bravely kept his Post,
+
+When Courtiers too in Wine and Riot slept:
+
+Twas he th' approach of Rome did first explore,
+
+And the grim Monster, Arbitrary Power.
+
+The ugliest Giant ever trod the Earth,
+
+Who like Goliah marcht before the Host:
+
+Truth, Wit and Eloquence, his Constant Friends,
+
+With swift dispatch he to the Main-Guard sends,
+
+Th' Alarm strait their Courage did Excite,
+
+Which check'd the Haughty Foes bold Enterprize.
+
+And left them halting between Hope and Fear;
+
+He like the Sacred Hebrew Leader stood,
+
+The Peoples surest Guide, and Prophet too.
+
+Athens may boast of Virtuous Socrates,
+
+The Chief among the Greeks for Moral good.
+
+Rome of her Orator, whose fam'd Harangues,
+
+Foyl'd the Debauch'd Antony's designs.
+
+We him, and with deep Sorrows 'wail his loss;
+
+But whether Fate or Art unwind'd his thread,
+
+Remains in doubt, Fames lasting Register,
+
+Shall leave his Name enroll'd as great as theirs,
+
+Who in Phillippi for their Country fell.
+
+### 1.25. An Epitaph on the Lord Fairfax.
+
+By the D. of Buckingham.
+
+I.
+
+UNder this Stone does lye
+
+One, born for Victory,
+
+Fairfax the Valliant, and the only He,
+
+Who e'r, for that alone a Conqueror wou'd be,
+
+Both Sexes Virtues were in him combin'd:
+
+He had the Fierceness of the Manliest Mind,
+
+And eke the Meekness too of Woman kind.
+
+[[Page 124]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=68)He never
+knew what Envy was, or Hate:
+
+His Soul was fill'd with Worth and Honesty;
+
+And with another thing quite out, of date,
+
+Call'd Modesty.
+
+II.
+
+He ne'er seem'd Impudent, but in the Field; a Place
+
+Where Impudence it self dares seldom shew her Face:
+
+Had any stranger spy'd him in the Room
+
+With some of those whom he had overcome,
+
+And had not heard their Talk, but only seen,
+
+Their gesture and their meen,
+
+They wou'd have sworn he had the Vanquish'd been;
+
+For as they brag'd, and dreadful wou'd appear,
+
+While they their own ill lucks in War repeated,
+
+His Modesty still made him blush, to hear
+
+How often he had them Defeated.
+
+III.
+
+Through his whole Life, the Part he bore
+
+Was Wonderful, and Great,
+
+And yet, it so appear'd in nothing more,
+
+Than in his private last retreat:
+
+For it's a stranger thing, to find
+
+One Man of such a Glorious mind,
+
+As can dismiss the Pow'r h' has got,
+
+Than Millions of the Pools, and Braves;
+
+Those despicable Fools and Knaves,
+
+Who such a Pother make,
+
+Through dulness and mistake;
+
+In seeking after Pow'r, but get it not.
+
+IV.
+
+When all the Nation he had won,
+
+And with expence of Blood had bought,
+
+Store great enough he thought,
+
+Of Fame and of Renown;
+
+He then his Arms laid down,
+
+[[Page 125]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=68)With full
+as little Pride
+
+As if he had been of his Enemies side,
+
+Or one of them cou'd do that were undone:
+
+He neither Wealth, nor Places sought;
+
+For others, not himself he Fought.
+
+He was content to know,
+
+For he had found it so,
+
+That, when he pleas'd, to Conquer, he was able
+
+And left the Spoil and plunder to the Rabble:
+
+He might have been a King,
+
+But that he understood
+
+How much it is a meaner thing
+
+To be unjustly Great, than honourably Good.
+
+V.
+
+This from the World did admiration draw;
+
+And from his Friends, both Love and Awe,
+
+Remembring what in Fight he did before:
+
+And his Foes lov'd him too,
+
+As they were bound to do,
+
+Because he was resolv'd to fight no more.
+
+So bless'd of all, he Dy'd; but far more bless'd were we,
+
+If we were sure to live, till we could see
+
+A Man as great in War, in Peace as just as He.
+
+### 1.26. An Essay upon the Earl of Shaftsbury's Death.
+
+WHen ever Tyrants fall, the Air
+
+And other Elements prepare
+
+To Combat in a Civil-War,
+
+Large Oaks up by the Roots are torn,
+
+The Savage Train
+
+Upon the Forest or the Plain
+
+To a Procession through the Sky are born,
+
+Sulphureous Fire displays
+
+Its baneful Rays.
+
+[[Page 126]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=69)Then from
+the hollow Womb
+
+Of some rent Cloud does comes
+
+The Blazing Meteor or Destructive Stone;
+
+Distant below the Grumbling Wind
+
+Pent up in Earth a vent would find;
+
+But failing, roars
+
+Like broken Waves upon the Rocky Shores.
+
+The Earth with Motion rowls,
+
+Those Buildings which did brave the Sky,
+
+Now in an humble posture lye,
+
+While here and there
+
+A subtile Priest and Sooth sayer
+
+The Fatal Dirges howl.
+
+Thus when the first twelve Caesars fell,
+
+A Jubilee was kept in Hell;
+
+But when that Heaven designs the Brave
+
+Shall quit a Life to fill a Grave,
+
+The Sun turns pale and Courts a Cloud,
+
+From Mortals sight his Grief to shroud,
+
+Shakes from his Face a shower of Rain,
+
+And faintly views the World again.
+
+The Tombs of Ancient Heroes weep,
+
+Hard Marble Tears let fall:
+
+The Genii, who possess the Deep,
+
+And seems the Islands Fate to keep,
+
+Lament the Funeral.
+
+Silence denotes the greatest Woe,
+
+So Calms precede a Storm,
+
+Deep Waters smoothest are we know,
+
+And bear the evenest Form.
+
+So 'tis when Patriots cease to be,
+
+And hast to Immortality;
+
+Their Noble Souls blest Angels bear
+
+To the Ethereal Palace there,
+
+Mounting upon the ambient Air,
+
+While Wounded Atomes press the Ear
+
+Of Mortals who far distant are.
+
+[[Page 127]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=69)Hence
+sudden Grief does seize the Mind,
+
+For good and brave agree;
+
+Each being moves unto his Kind
+
+By Native Sympathy.
+
+So 'twas when mighty Cooper dy'd
+
+The Fabius of the Isle,
+
+A sullen look the Great o'er-spread,
+
+The Common People look as dead,
+
+And Nature droopt the while.
+
+Living; Religion, Liberty,
+
+A mighty Fence he stood,
+
+Peers Rights and Subjects Property
+
+None stronglier did maintain than he,
+
+For which Rome sought his Blood.
+
+Deep Politician, English Peer,
+
+That quash't the power of Rome,
+
+The change of State they brought so near,
+
+In bringing Romish Worship here,
+
+Was by thy skill o'er-thrown:
+
+'Less Heav'n a Miracle design'd
+
+Sure it could never be
+
+One so Gyantick in his Mind,
+
+That soar'd a pitch 'bove humane kind,
+
+So small a Corps should be.
+
+Time was, the Court admir'd thy shrine,
+
+And did the homage pay:
+
+But wisely thou didst Countermine,
+
+And having found the black design,
+
+Scorn'd the Ignoble way.
+
+Having thus strongly stem'd the Tide,
+
+And set thy Country free:
+
+Thou, Cato like, an Exile prid'st,
+
+'Mongst Enemies belov'd resid'st,
+
+Whilst Good men Envy thee.
+
+And as the Sacred Hebrew Seer
+
+Canaan to view desir'd;
+
+So Heav'n did shew this Noble Peer
+
+The end of Popish Malice here,
+
+Which done, his soul expir'd.
+
+[[Page 128]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=70)
+
+### 1.27. A Satyr in Answer to a Friend. 1682.
+
+'TIs strange that you, to whom I've long been known,
+
+Should ask me why I always rail at th' Town▪
+
+As a good Hound when he runs near his Prey,
+
+With double Eagerness is hard to Bay.
+
+So when a Coxcomb dot [...] offend my sight,
+
+To ease my Spleen, I straight go home and write:
+
+I love to bring Vice ill conceal'd to light.
+
+And I have found that they that Satyr write,
+
+Alone can season the useful with the sweet.
+
+Should I write Songs, and to cool Shades confin'd,
+
+Expire with Love, who hate all Women kind!
+
+Then in my Closet, like some fighting Sparks,
+
+Thinking on Phillis Love upon my works!
+
+I grant I might with bolder Muse inspir'd,
+
+Some Hero Sing worthy to be admir'd,
+
+Our King hath Qualities might entertain,
+
+With Noblest Subjects Waller's lofty Pen.
+
+But then you'll own no Man is thought his Friend,
+
+That doth not love the Pope and York commend.
+
+He who his Evil Counsellours dislikes,
+
+Say what he will, still like a Traytor speaks.
+
+Now I Dissimulation cannot bear,
+
+Truth and good Sense, my Lines alike must share.
+
+I love to call each Creature by his Name,
+
+H— a Knave, S— an Honest Man.
+
+With equal scorn I always did abhor,
+
+The Effeminate Fops and bustling Men of War.
+
+The careful Face of Ministers of State,
+
+I always judg'd to be a down-right Cheat.
+
+The smiling Courtier, and the Counsellour Grave,
+
+I always thought two different Marks of Knave.
+
+They that talk loud, and they that draw i'th' Pit,
+
+These want of Courage shew, those want of Wit.
+
+Thus all the World endeavours to appear,
+
+What they'd be thought to be, not what they are.
+
+[[Page 129]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=70)If any
+then by most unhappy choice,
+
+Seek for content in London's crow'd and noise.
+
+Must form his words and manners to the place,
+
+If he'll see Ladies must like Villers dress.
+
+In a soft tone without one word of Sense,
+
+Must talk of Dancing and the Court of France.
+
+Must praise alike the ugly and the fair,
+
+Buckly's good Nature, Feltons shape and Hair,
+
+Exalt my Lady Portsmouth's Birth and Wit,
+
+And vow she's only for a Monarch fit.
+
+Although the fawning Coxcombs all do know,
+
+She's lain with Beaufort and the Count de Leau.
+
+This method with some ends of Plays,
+
+Basely apply'd, and drest in a French Phrase
+
+To Ladies favour, can e'en Hewit raise.
+
+He that from Business would Preferment get,
+
+Plung'd in the Toyls and Infamies of State,
+
+All Sense of Honour from his Breast must drive,
+
+And in a course of Villanies resolve to live.
+
+Must cringe and flatter the King's Owls and Curs,
+
+Nay worse, must be obsequious to his Whores.
+
+Must always seem to approve what they commend,
+
+What they dislike, by him must be contemn'd.
+
+And when at last by a thousand different Crimes,
+
+The Monster to his wisht-for Greatness climbs,
+
+He must in his continu'd greatness wait,
+
+With Guilt and Fears, the Imprison'd D—y's Fate
+
+This Road has H—r and S—r gone,
+
+And thus must answer for the Ills they've done.
+
+Who then would live in so deprav'd a Town,
+
+Where pleasure is but Folly, power alone
+
+By Infamy obtain'd?—
+
+Wise Heraclitus, all his life-time griev'd,
+
+Democritus in endless Laughter Liv'd;
+
+Yet to the first no fears of Plots were known,
+
+Nor Parliaments remov'd to Popish Town.
+
+Murthers not favour'd, Virtues not supprest,
+
+Laws not derided, Commons not opprest
+
+[[Page 130]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=71)Nor King,
+who Claudius like, expels his Son,
+
+To make th' Imperious Nero Prince of Rome;
+
+Nor yet to move the others merry vane,
+
+Did C [...]ckolds (who each Boy i'th' street could name)
+
+Most learned proof in publick daily give,
+
+That they themselves do their own shame contrive;
+
+While their Lewd Wives scouring from place to place,
+
+T' expose their secret Members, hide their Face.
+
+But Lo! how would this Sage have burst his spleen,
+
+Had he seen Whore and Fool with merry King,
+
+And Ministers of State at Supper sit,
+
+Mistaking Bawdy Ribaldry for wit;
+
+Whilst C—s with tottering Crown and empty purse,
+
+(Derided by his Foes, to's Friends a Curse)
+
+Abandon'd now by every Man of Wit,
+
+Delights himself with any he can get.
+
+Pimps, Fools, and Parasites, make up the Rout,
+
+For want of Wedding Garments, none's left out.
+
+But I shall weary both my self and you,
+
+To tell you all the Follies that I know.
+
+How a great Lord, in numbers soft, thought fit,
+
+(Though void of Sense, to set up for a Wit.)
+
+And how with wondrous Spirit, he and's Friend
+
+An Epitaph to Cruel Cloris pen'd;
+
+His Name (I think) I hardly need to tell,
+
+For who should be, but the Lord Ar—l.
+
+But should I here waste Paper to declare,
+
+The senseless Tricks of every silly Peer,
+
+I'd as good tell how many several ways,
+
+The trusty Duke his Country still betrays.
+
+How full the World is stuft with Knave and Fool,
+
+How to be very Honest is counted dull.
+
+How to speak plain, and greatness to dispise,
+
+Is thought a Madness, but Flattery is Wise,
+
+Dissimulation excellent, to cheat a Friend
+
+A very Trifle, provided still our end
+
+Be but the Snare We call our Interest,
+
+Then nothing is so bad, but that is best;
+
+[[Page 131]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=71)I'll
+therefore end this vain Satyrick rage,
+
+And leave the Bishops to reform the Age.
+
+### 1.28. A Character of the English. In All [...]sion to Tacit. de Vit.
+Agric.
+
+THE Free-born English, Generous and Wise,
+
+Hate Chains, but do not Government despise:
+
+Rights of the Crown, Tribute and Taxes, they
+
+When Lawfully Exacted, freely pay.
+
+Force they abhor, and Wrong they scorn to bear,
+
+More guided by their Judgment than their Fear;
+
+Justice with them is never held severe.
+
+Here Power by Tyranny was never got;
+
+Laws may perhaps Ensnare them, Force cannot:
+
+Rash Councils here, have still the same Effect;
+
+The surest way to Reign is to protect.
+
+Kings are least safe in their unbounded Will,
+
+Joyn'd with the Wretch'd Power of doing ill.
+
+Forsaken most when they're most Absolute;
+
+Laws guard the Man, and only bind the Brute:
+
+To force that Guard, and with the worst to joyn,
+
+Can never be a prudent King's design;
+
+What King would chuse to be a Cataline?
+
+Break his own Laws, stake an unquestion'd Throne,
+
+Conspire with Vassals to Usurp his own;
+
+'Tis rather some base Favourites Vile pretence,
+
+To Tyrannize at the wrong'd King's expence.
+
+Let France grow Proud, beneath the Tyrants Lust,
+
+While the Rackt People crawl and lick the Dust:
+
+The mighty Genious of this Isle disdains
+
+Ambitious Slavery and Golden Chains.
+
+England to servile Yoke did ne [...]er bow,
+
+What Conquerours ne'er presum'd, who dares do now.
+
+Roman nor Norman ever could pretend
+
+To have Enslav'd, but made this Isle their Friend.
+
+[[Page 132]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=72)
+
+### 1.29. Cullen with his Flock of Misses, 1679.
+
+AS Cullen drove his Sheep along,
+
+By Whitehall there was such a throng
+
+Of Earls Coaches at the Gate,
+
+The silly Swain was forc'd to wait.
+
+Chance threw him on Sir Edward S—
+
+The silly Knight that Rhimes to Mutton:
+
+Cullen, (said he,) this is the Day,
+
+For which poor England once did pray;
+
+The day that sets our Monarch free,
+
+From butter'd Buns and Slavery.
+
+This hour from French Intreagues, ('tis said,)
+
+He'll clear his Council and his Bed.
+
+Portsmouth he vouchsafes to know,
+
+Was the cast Whore of Count de Loe.
+
+She must return and sell her place;
+
+Buyers (you see) flock in a pace;
+
+Silence i th' Court being once Proclam'd,
+
+In steps fair Ri—d once so fam'd:
+
+She offers much but was refus'd,
+
+And of miscarriages accus'd.
+
+Nor would his Majesty accept her:
+
+At thirty, who at fifteen left her:
+
+She blusht and Modestly withdrew:
+
+Next M—ton appear'd in View,
+
+Who straight was told of M—ue.
+
+Of Cates from Hide; of Cloaths from France,
+
+Of Arm-pits, Toes of Nauseance;
+
+At which the Court set up a Laughter,
+
+She never pleads but for her Daughter;
+
+A Buxom lass sit for the place,
+
+Were not her Father in Disgrace:
+
+Besides some strange incestuous Stories
+
+Of Harvey and her long C—ies:
+
+[[Page 133]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=72)With
+these exceptions she's dismist,
+
+And M—nd Fair enters the List:
+
+Husband in Hand most decently,
+
+And begs at any rate to Buy:
+
+She offered Jewels of great price,
+
+And dear Sir Samuels next Device.
+
+Whether it be a Pump or Table,
+
+Glass House or any other Bauble.
+
+But she was told she had been try'd,
+
+And for good Reason lay'd aside.
+
+Next in steps pretty Lady G—y,
+
+Offers her Lord should nothing say;
+
+'Gainst the next Treasurer accused,
+
+So her pretence was not refus'd:
+
+R— in rage bid her be gone,
+
+And play her game out with her Son;
+
+Or if she lik'd an aged Carcass,
+
+For L— get a Noble Marquess.
+
+Sh—ry offered for the place,
+
+All she had gotten from his Grace;
+
+D— of Buck.
+
+She knew his wants and could comply
+
+With all his wants of Leachery.
+
+She was dismist with Scorn and told
+
+Where a Tall P— was to be Sold.
+
+Then in came Dowdy M—ine,
+
+That Foreign Antiquated Quean;
+
+Who soon was told the King no more
+
+Would deal with an Intrigueing Whore:
+
+That she already had about her
+
+To good an Equipage de Foutre;
+
+Her Grace at these Rebukes lookt Blank,
+
+And sneakt away to Villain Frank.
+
+Fair L— too her claim put in,
+
+'Twas urg'd she was to much a Kin:
+
+She modestly reply'd no more
+
+A Kin than S—x was before:
+
+Besides she had often heard her Mother
+
+Call her the Daughter of another:
+
+[[Page 134]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=73)She did
+not drivel and had Sence,
+
+To which all his had no pretence;
+
+Yet for the present she's put off,
+
+And told she was not Whore enough.
+
+L—s Smil'd at that Exception,
+
+And doubted not of good Reception.
+
+Put in her claim, Vowing she'd Steal
+
+All that her Husband got of Neale:
+
+To by the place all she could get,
+
+By his long Suit with Mr. Pitt:
+
+But from Goliah's sieze of Gath,
+
+Down to the Pitch of little Wroth;
+
+The Court was told she lay with all,
+
+The roaring Roysters of White-hall:
+
+For which old R— lest she'd grudge,
+
+Gave her the making of a Judge:
+
+She bow'd and straight went her way,
+
+To Haunt the Court, Park, and Play.
+
+In stept stately Carry F—er,
+
+Straight the whole Court began to Praise her:
+
+As fine as Chains and Point could make her,
+
+She vow'd the King or Goal must take her.
+
+R— reply'd, he was Retrenching,
+
+And Vow'd no more of costly Wenching:
+
+That she was Proud and went too Gaudy,
+
+Nor could she Swear, Drink or talk Bawdy,
+
+Virtues requisite for that place
+
+More than Youth, Wit, or a good Face.
+
+C— and offered down a Million,
+
+But she was soon told of Castillion;
+
+At that name she fell a weeping
+
+And swore she was undone with Keeping:
+
+That C—, G—, had so drain'd her,
+
+She could not live on the Remainder:
+
+The Court said, there was no Record,
+
+Of any to that place Restor'd,
+
+Nor might the King at these Years venture,
+
+Who in his Prime could not content her.
+
+[[Page 135]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=73)Young
+Lady J—s stept up and urg'd,
+
+She'd give the Deed her Father Forg'd:
+
+But she was told her Family
+
+Was tainted with Presbytery:
+
+She said her Mother with clean Heart
+
+And Hand, had lately done her part,
+
+In bringing M—ne to Bed,
+
+Nor was't her fault the Babe was Dead:
+
+For her R—y own'd his Passion,
+
+But said, he staid for Declaration.
+
+Ingaged, no matter of great weight,
+
+To pass till after some debate
+
+In his great Council so they Adjourn'd,
+
+And Cullen with his Flocks return'd.
+
+Swearing there was at every Fair
+
+Blither Girls than any there.
+
+### 1.30. Sir Tho. Amstrong's. Ghost.
+
+THE groans, dear Armstrong, which the world employ,
+
+Would please thy Ghost, to see transform'd to joy:
+
+Had'st thou abroad found safety in thy flight,
+
+Thy immortal honour had not shin'd so bright;
+
+Thou still hadst been a worthy Patriot thought:
+
+But now thy glory's to perfection brought,
+
+In Exile and in Death to England true,
+
+What more could Brutus or just Cato do?
+
+What can the Villains spread to blast thy fame,
+
+Unless thy former Loyalty they blame?
+
+To be concern'd the Stuarts to restore,
+
+Is a reproach that hardly can be bore.
+
+The utmost Plague a Nation could befall,
+
+Like the forbidden Fruit, it curst us all.
+
+Yet thou in season a brave Convert grew,
+
+Abhorr'd their counsels and their int'rest too:
+
+And death at last before their smiles preferr'd;
+
+So holy Cranmer burnt the hand that err'd.
+
+[[Page 136]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=74)Let 'em
+now place thy Quarters in the Air,
+
+'Twill please thy soul to think they flourish there:
+
+Thou scorn'st to hope for freedome in the Grave;
+
+And slumbring lie, whilst England was a Slave:
+
+Thy Carcass stands a Monument to all,
+
+Till the whole Progeny a Victim fall;
+
+And like their Father, tread that Stage, which some,
+
+In a blasphemous strain, call Martyrdom;
+
+For they in guilt transcendently excell,
+
+All that e'er Poets or Historians tell.
+
+To act fresh Murders, and by Flames devour,
+
+Is but the recreation of their power:
+
+For they alone are for destruction chose,
+
+Who either Rome or Tyranny oppose:
+
+Tarquin and Nero were but Types of these,
+
+In whom all crimes are in their last degrees▪
+
+Swelling like Nile in a prodigious Flood
+
+Of execrable Villanies and Blood:
+
+Yet how the age their Lives and Peace betray,
+
+And those whom th' ought to sacrifice th' obey.
+
+They lick up Poyson and to Tortures run,
+
+And madly hugg all Egypt's Plagues in one.
+
+Degenerous Slaves! such Monsters to adore,
+
+Was ever Sodom so caress'd before?
+
+Quick vengeance put a period to their breath,
+
+By their destruction ease the groaning earth:
+
+For Mortals attempt the righteous work in vain;
+
+Heaven it self does th' immediate glory claim,
+
+For they're reserv'd by Thunder to be slain.
+
+### 1.31. The Royal Game: or, A Princely new Play found in a Dream, &c. 1672.
+
+#### 1.31.1. PROLOGVE.
+
+WHoever looks about and minds things well,
+
+And on Affairs abroad doth take a view,
+
+[[Page 137]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=74)May think
+the Story which I here do tell
+
+Was never dream't it falleth out so true.
+
+I do confess it's something hard to find
+
+A crooked Path directly in the dark;
+
+And while a Man's asleep, you know he's blind,
+
+And can't easily hit on a Mark.
+
+Well, be it so, yet this you know is right,
+
+What's seen i'th' Day is dreamt again at Night.
+
+A Dream I hope will no Wise man offend,
+
+Nor will it Treason be (I trow) to lend
+
+A Copy of my Dream unto my Friend.
+
+Cabal, beware your Shins,
+
+For thus my Tale begins.
+
+#### 1.31.2. The Dream of the Cabal: A Prophetick Satyr. Anno 1672.
+
+AS 'tother Night in Bed I thinking lay,
+
+How I my Rent shou'd to my Landlord Pay,
+
+Since Corn, nor Wool, nor Beast would Money make;
+
+Tumbling perplex'd, these Thoughts kept me awake.
+
+What will become of this mad World, quoth I?
+
+What [...]s its Disease? what is its Remedy?
+
+Where will it issue? whereto does it tend?
+
+Some ease to Misery 'tis to know its end.
+
+Till Servants Dreaming, as they us'd to doe
+
+Snor'd me asleep, I fell a Dreaming too.
+
+Methought there met the Grand Cabal of Seven,
+
+(Odd numbers some Men say do best please Heaven)
+
+When sate they were, and Doors were all fast shut,
+
+I secret was behind the Hangings put:
+
+Both hear and see I could; but he that there
+
+Had placed me, bad me have as great a care
+
+Of stirring, as my life: and ere that out
+
+From thence I came, resolv'd shou'd be my Doubt.
+
+What would become of this mad World, unless
+
+Present Designs were cross'd with ill success?
+
+[[Page 138]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=75)An awful
+Silence there was held some space,
+
+Till trembling, thus began one call'd his Grace.
+
+Great Sir, your Goverment for first twelve years
+
+Has spoil'd the Monarchy,
+
+Buck.
+
+and made our Fears
+
+So potent on us, that we must change quite
+
+Th' old Foundations, and make new, wrong or right.
+
+For too great mixture of Democracy
+
+Within this Goverment allay'd must be;
+
+And no allay like nulling Parliaments
+
+O'th' Peoples Pride and Arrogance, the vents
+
+Factious and Saucy, disputing Royal Pleasure,
+
+Who your Commands by their own humours measure.
+
+For King in Barnacles (and to th' Rack-Staves ty'd)
+
+You must remain, if these you will abide.
+
+So spake the Long blue-Ribbon: then a Second,
+
+Though not so tall, yet quite as wise is reckon'd,
+
+Orm.
+
+Did thus begin: Great Sir, you are now on
+
+A tender Point much to be thought upon,
+
+And thought on only; for by Ancient Law,
+
+'Twas Death to mention what my Lord fore-saw;
+
+His trembling shew'd it, wherefore I am so bold
+
+To advise its standing, lest it shou'd be told
+
+We did attempt to change it; for so much
+
+Our Ancestors secur [...]d it, that to touch,
+
+Like Sacred Mount, 'tis Death; and such a Trick,
+
+I no-ways like my Tongue shou'd break my Neck.
+
+Thus said, he sate. Then Lord of Northern Tone,
+
+In Gall and Guile a second unto none,
+
+Lauder [...] .
+
+Inraged rose, and Col'rick, thus began.
+
+Dread Majesty, Male beam of Fame, a Son
+
+Of th' hundred and tenth Monarch of the Nore;
+
+De'l split the Weam of th' Loon that spoke afore,
+
+Shame faw the Crag of that ill-manner'd Lord,
+
+That nent his King durst speak so faw a word;
+
+And aw my Saul, right weell the first man meant,
+
+De'l hoop his Luggs that loves a Parliament.
+
+Twa Houses aw my Saul are too too mickle,
+
+They'll gar the Leard shall ne'er have a more prickle;
+
+[[Page 139]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=75)No money
+get to gee the bonny Lass,
+
+But full as good be Born without a—
+
+Ten thousand Plagues light on his Cragg (that gang)
+
+To make you be but third part of a King.
+
+De'l take my Saul, I'll ne'er the matter mince,
+
+I'd rather subject be then sike a Prince.
+
+To Hang, and Burn, and Slay, and Draw, and Kill,
+
+And measure aw things by my awn gude will,
+
+Is gay Dominion; a Checkmate I hate,
+
+Of Men, or Laws, it looks so like a State.
+
+This eager well-meant Zeal some Laughter stirr'd;
+
+Till Nose half Plush, half Flesh, the Inkhorn Lord
+
+Crav'd Audience thus. Grave Majesty Divine,
+
+Arling.
+
+(Pardon that Cambridge Title, I make mine)
+
+We now are enter'd on the great'st Debate
+
+That can concern your Throne and Royal State.
+
+His grace hath so spoke all, that we who next
+
+Speak after, can but comment on his Text:
+
+Only 'tis wonder at this sacred Board,
+
+Shou'd sit 'mongst us a Magna Charta Lord,
+
+A Peer of old Rebellious Barons breed,
+
+Worst, and great'st Enemies to Royal Seed.
+
+But to proceed; well was it urg'd by s Grace,
+
+Such Liberty was given for twelve years space,
+
+That are by past, there's no necessity
+
+Of new Foundations, if safe you'll be.
+
+What Travel, Charge and Art before was set
+
+This Parliament, we had, you can't forget;
+
+Now force, cajole, and court, and bribe for fear
+
+They wrong should run, e'er since they have been here.
+
+What diligence, what study, day and night
+
+Was on us, and what care to keep them right?
+
+Wherefore (if good) you can't make Parliament,
+
+On whom such costs, such art and pains were spent,
+
+And Moneys, all we had for them to do;
+
+Since we miss that, 'tis best dismiss them too.
+
+[...]Tis true, this House the best is you can call,
+
+But in my Judgment, best is none at all:
+
+[[Page 140]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=76)Well
+mov'd, the whole Cabal cry'd, Parliaments
+
+Are cloggs to Princes, and their brave intents.
+
+One did object, 'twas against Majesty
+
+To obey the Peoples pleasure. Another he
+
+Their Inconvenience argues, and that neither
+
+Close their Designs were, nor yet speedy either.
+
+Whilst thus confused chatter'd the Cabal,
+
+And many mov'd, none heard, but speak did all;
+
+A little bobtail'd Lord, Urchin of State,
+
+Chancel Shafts.
+
+A Praise-God-bare-bone Peer whom all men hate,
+
+Amphibious Animal, half Fool, half Knave;
+
+Begg'd silence, and this purblind Counsel gave:
+
+Blest and best Monarch that e'er Scepter bore,
+
+Renown'd for Vertue, but for Honour more;
+
+That Lord spake last, has well and wisely shown,
+
+That Parliaments, nor new, nor old, nor none
+
+Can well be trusted longer; for the State
+
+And Glory of the Crown, hate all Checkmate.
+
+That Monarchy may from its Childhood grow
+
+To man's Estate; France has taught us how
+
+Monarchy's Divine: Divinity it shows,
+
+That he goes backward that not forward goes.
+
+Therefore go on, let other Kingdoms see
+
+Your Will's your Law, that's absolute Monarchy;
+
+A mixt hodge-podge will now no longer do,
+
+Caesar or nothing you are brought unto:
+
+Strike then, Great Sir, 'fore these Debates take wind,
+
+Remember that Occasion's bald behind.
+
+Our Game is sure in this, if wisely play'd,
+
+And sacred Votes to th' Vulgar not betray'd;
+
+But if the Rumour shou'd once get on wing,
+
+That we consult to make you abs'lute King,
+
+The Plebeians head, the Gentry forsooth,
+
+They strait would snort and have an aking Tooth;
+
+Lest they, I say, should your great Secrets scent,
+
+And you oppose in nulling Parliament.
+
+I think it safer, and a greater skill
+
+To obviate, than to o'ercome an ill:
+
+[[Page 141]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=76)For those
+that head the Head are full as rude,
+
+When th' humor takes, as th' following Multitude;
+
+Therefore be quick in your Resolves, and when
+
+Resolv'd you have, execute quicker then.
+
+Remember your great Father lost the Game
+
+by slow Proceedings, mayn't you do the same?
+
+An unexpected, unregarded blow
+
+Wounds more than ten made by an open Foe.
+
+Delays do Dangers breed; the Sword is yours,
+
+By Law declar'd, what need of other Powers?
+
+We may unpolitick be judg'd, or worse,
+
+If we can't make the Sword command the Purse;
+
+No Art, or Courtship can the rule so shape
+
+Without a Force, it must be done by Rape:
+
+And when 'tis done, to say you cannot help,
+
+Will satisfie enough the gentle Whelp.
+
+Phanaticks they'll to Providence impute
+
+Their Thraldom, and immediately grow mute;
+
+For they, poor pious Fools, think the Decree
+
+Of Heaven falls on them, though from Hell it be;
+
+And when their reason is abas'd to it,
+
+They forthwith think t' Religion to submit,
+
+And vainly glorying in a passive Shame,
+
+They'll put of Man to wear the Christian Name:
+
+Wherefore to lull 'em, do their Hopes fulfill
+
+With Liberty, they're halter'd at your Will;
+
+Give them but Conventicle-room, and they
+
+Will let you steal the Englishman away,
+
+And heedless be, till you your Nets have spread,
+
+And pull'd down Conventicles on their Head.
+
+Militia therefore and Parliaments cashier,
+
+A formidable standing Army rear,
+
+They'll mount you up, and up you soon will be,
+
+They'll fear who ne'er did love your Monarchy:
+
+And if they fear, no matter for their hate;
+
+To rule by Law becomes a sneaking State.
+
+Lay by all Fear, care not what People say,
+
+Regard to them will your Designs betray:
+
+[[Page 142]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=77)When bite
+they cannot, what hurt can barking do?
+
+And, Sir, in time we'll spoil their barking too,
+
+Make Coffee-Clubs talk of more humble things
+
+Than State Affairs, and Interest of Kings.
+
+Thus spake the Rigling Peer, when one more grave,
+
+That had much less of Fool, but more of Knave,
+
+Began: Great Sir, it gives no small content,
+
+Cliff.
+
+To hear such Zeal (for you) 'gainst Parliament;
+
+Wherefore, though I an Enemy no less
+
+To Parliaments than you your selves profess;
+
+Yet I must also enter my protest
+
+'Gainst these rude rumbling Counsels indigest.
+
+And, Great Sir, tell you, 'tis an harder thing
+
+Than they suggest, to make you abs'lute King;
+
+Old Buildings to pull down, believe it true,
+
+More danger in it hath, than building New.
+
+And what shall prop your Superstructure till
+
+Another you have built that suits your Will?
+
+An Army shall, say they (content) but stay,
+
+From whence shall this new Army have its pay?
+
+For easie gentle Government a while
+
+Must first appear this Kingdom to beguile
+
+The Peoples minds, and make them cry up you,
+
+For raising Old, and making better New.
+
+For Taxes with new Government all will blame,
+
+And put the Kingdom soon into a flame:
+
+For Tyranny has no such lovely Look
+
+To catch Men with, unless you hide the Hook;
+
+And no Bait hides it more than present Ease;
+
+Ease but their Taxes, then do what you please.
+
+Wherefore, all wild Debates laid by, from whence
+
+Shall Money rise to bear this vast expence?
+
+For our first thoughts thus well resolved, we
+
+in other things much sooner shall agree:
+
+Join then with Mother-Church, whose bosom stands
+
+Ope to receive us, stretching forth her Hands:
+
+Close but this breach, and she will let you see
+
+Her Purse as open as her Arms shall be.
+
+[[Page 143]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=77)For
+sacred Sir, (by guess I do not speak)
+
+Of poor she'll make you rich, and strong of weak.
+
+At home, abroad, no Money, no nor Men,
+
+She'll let you lack, turn but to her agen.
+
+The Scot cou'd here no longer hold, but cry'd,
+
+Laud.
+
+Del' take the Pape, and all that's on his side;
+
+The Whore of Rome, that mickle Man of Sin,
+
+Plague take the Mother, Bearns, and aw the Kin.
+
+What racks my Saul! must we the holy Rood
+
+Place in God's Kirk again? troth 'tis not gude,
+
+I defy the Loon, the De'l and all his Works,
+
+The Pape shall lig no mare in God's gude Kirk,
+
+The Scot with Laughter check'd, they all agreed,
+
+The Lord spoke last shou'd in his Speech proceed,
+
+Cliff.
+
+Which thus he did; Great Sir, You know 'tis Season
+
+Salts all the motions that we make with Reason;
+
+And now a season is afforded us,
+
+The best e'er came, and most propitious.
+
+Besides the Summ the Cath'licks will advance,
+
+You know the Offers we are made from France;
+
+And to have Money and no Parliament,
+
+Must fully answer your design'd intent.
+
+And thus without tumultuous noise, or huff
+
+Of Parliaments, you may have Money enough;
+
+Which, if neglected now, there's none knows when
+
+Like Opportunities may be had again,
+
+For all to extirpate, now combined be,
+
+Both civil and religious Liberty.
+
+Thus Money you'll have to exalt the Crown,
+
+Without stooping Majesty to Country Clown.
+
+The triple League, I know, will be objected;
+
+As if that ought by us to be respected;
+
+But who to Hereticks, or Rebel pay'th
+
+The truth ingag'd to by solemn Faith,
+
+Debauched Vertue, by those very things,
+
+The Church profaneth and debaseth Kings,
+
+As you your self have admirably shown
+
+By burning solemn Cov'nant, though your own;
+
+[[Page 144]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=78)Faith,
+Justice, Truth, Plebeian Vertues be,
+
+Look well in them, and not in Majesty.
+
+For publick Faith is but a publick Thief,
+
+The greatest Cheat in Nature's vain Belief.
+
+The second Lord though check'd, yet did not fear,
+
+Impatient grew and could no longer bear,
+
+But rose in heat, and that a little rude
+
+The Lord's voice interrupts, and for Audience su'd:
+
+Great Majesty, authentick Authors say,
+
+When hands was lifted up, Craesus to slay,
+
+The Fathers's danger on th' Dumb Son did make
+
+Such deep Impressions that he forthwith spake.
+
+Pardon, Great Sir, If I, in imitation,
+
+Seeing the danger to your Land and Nation,
+
+Do my resolv'd-on Silence also break,
+
+Although I see the matter I shall speak,
+
+Under such disadvantages will fall,
+
+That it, as well as I, exploded shall;
+
+But vainly do they boast they Loyal are,
+
+That can't for Princes good, Reflections bear;
+
+Nor will I call Compurgators to prove,
+
+What honour to the Crown Iv'e born, with Love,
+
+My Acts have spoken, and sufficient are,
+
+Above what e'er Detractors did or dare.
+
+Wherefore, Great Sir, 'tis Ignorance, or Hate,
+
+Dictates these Counsels, you to precipitate.
+
+For say't again I will, not eat my word,
+
+No Council's Power, no, nor yet the Sword
+
+Can old Foundations alter or make new:
+
+Let time interpret who hath spoken true.
+
+Those Country Gentry with their Beef and Bacon,
+
+Will shew how much you Courtiers are mistaken;
+
+For Parliaments are not of that cheap rate,
+
+That they will down without a broken Pate;
+
+And then I doubt you'll find those worthy Lords
+
+More Brave and Champions with their Tongue tha [...] Sword
+
+Wherefore, Dread Sir, encline not Royal Ear
+
+To their Advice, but safer Counsels hear;
+
+[[Page 145]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=78)Stay till
+these Lords have got a Crown to lose,
+
+And then consult with them which way they'll chuse,
+
+Will you all hazard for their humours sake,
+
+Who nothing have to loose, nothing at stake;
+
+And at one Game your Royal Crown expose,
+
+To gratifie the foolish Lusts of those,
+
+Who hardly have subsistence how to live,
+
+But what your Crown and Grace to them does give?
+
+And one of those (Bagg-pudding) Gentleman,
+
+(Except their Places) would buy nine or ten:
+
+Then, why they should thus slight the Gentleman,
+
+I see no reason, nor think how they can;
+
+For had not Gentleman done more than Lord,
+
+I'll boldly say't, you ne'er had been restor'd.
+
+But why, of Armies now, Great Sir, must we
+
+(So fond just now) all on the sudden be?
+
+What faithfull Guardians have they been to Pow'rs
+
+That have employ'd 'em, that you'd make 'em yours?
+
+Enough our Age, we need not seek the glory
+
+Of Armies Faith, in old, or doubtfull Story:
+
+Your Father 'gainst the Scots an Army rear [...]d,
+
+But soon, that Army more than Scot he fear'd:
+
+He was in hast to raise them, as we are,
+
+But to disband them was far more his care;
+
+How Scottish Army after did betray
+
+His Trust and Person both, I need not say.
+
+Rump-Parliament an Army rear'd, and they
+
+The Parliament that rais'd them, did betray;
+
+The Lord Protector they set up one hour,
+
+The next pull'd down the Protectorian pow'r.
+
+Your Father's Block and Judges the same Troops
+
+Did guard, some Tongues at Death of both made hoops:
+
+And will you suffer Armies to beguile,
+
+And give your Crown and them to Cross and Pile?
+
+What if as Monk shou [...]d both swear, lie and feign,
+
+Till he does both your Trust and Army gain,
+
+And you believe his Oath and Faith is true,
+
+But serves himself instead of serving you.
+
+[[Page 146]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=79)Pardon,
+Great Sir, if Zeal transports my Tongue,
+
+T [...] express what your Greatness don't become.
+
+Expose I can't your Crown and sacred Throat
+
+To the false Faith of a common Red-coat.
+
+Your Law, your All does sence secure from Fears;
+
+That kept, what trouble needs of Bandileers?
+
+Consider, Sir, 'tis Law that makes you King,
+
+The Sword another to the Crown may bring;
+
+For Force knows no distinction, longest Sword
+
+Makes Peasant Prince, Lackquey above his Lord.
+
+If that be all that we must have for Laws,
+
+Your Will inferiour may be to Jack Straw's.
+
+If greater Force him follow; there's no Right
+
+Where Law is failing, and for Will men fight.
+
+Best Man is he alone whose Steel's most strong;
+
+Where no Law is, there's neither right nor wrong.
+
+That Fence broke down, and all in common laid,
+
+Subjects may Prince, and Prince may them invade.
+
+See, greatest Sir, how these your Throne lay down,
+
+Instead of making great your Royal Crown,
+
+How they divest you of your Majesty:
+
+For Law destroy'd, you are no more than we.
+
+And very vain would be the Plea of Crown,
+
+When Statute-Laws, and Parliaments are down.
+
+This Peer proceeded on to shew how vain
+
+An Holy League would be with Rome again,
+
+And what dishonour 'twould be to our Crowns,
+
+If unto France give cautionary Towns.
+
+He's interrupted, and bid speak no more,
+
+By's enraged Majesty, who deeply swore,
+
+His Tongue had so run o'er, that he'd take
+
+Such Vengeance on him, and example make
+
+To after Ages, all which heard shou'd fear,
+
+To speak what wou'd displease the Royal Ear;
+
+And bid the Lord that spoke before go on,
+
+And silence all should keep till he had done;
+
+Who thus his Speech re'ssum'd. If Lord spake last,
+
+To interrupt me had not made such hast,
+
+[[Page 147]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=79)I soon
+had done; for I was come, Great Sir,
+
+T' advise your sending Dutch Embassador;
+
+But much it does concern you whom to trust,
+
+With this Embassy: for none true, nor just,
+
+Wise, Stout, or Honourable, nor a Friend,
+
+Should you in any wise resolve to send,
+
+Lest any unseen, or unlucky Chance
+
+Shou'd in this War befall to us or France.
+
+We may that loathed wretch give to the hate
+
+Of th' Peoples fury, them to satiate.
+
+And when all's done that can be done by man,
+
+Much must be left to chance, do what we can.
+
+And if you'll make all Christendom your Friend,
+
+And put to Dutch-land-League an utter end;
+
+Then surely you may have of Men and Treasure
+
+Enough of both to execute your Pleasure.
+
+This Speech being ended, five or six agree,
+
+France shall be lov'd, and Holland hated be.
+
+All gone, I wak'd, and wondred what should mean
+
+All I had heard, methought 'twas more than Dream.
+
+And if Cabal thus serve us Englishmen,
+
+'Tis ten to one but I shall dream again.
+
+### 1.32. On the Three Dukes killing the Beadle on Sunday Morning, Febr. the
+26th, 1670/1.
+
+NEar Holborne lies a Park of great Renown,
+
+The place, I do suppose, is not unknown.
+
+For brevity's sake the Name I shall not tell,
+
+Because most genteel Readers know it well,
+
+Since middle Park near Chairing-Cross was made,
+
+They say there is a great decay of Trade,
+
+'Twas there Gleek of Dukes by Fury brought
+
+With bloody mind a sickly Damsel sought,
+
+And against Law her Castle did invade,
+
+To take from her her instrument of Trade,
+
+[[Page 148]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=80)'Tis
+strange (but sure they thought not on't before)
+
+Three Bastard Dukes should come t'undoe one Whore.
+
+Murder was cry'd (truth is, her case was sad)
+
+When she was like to lose ev'n all she had:
+
+In came the Watch, disturb'd with Sleep and Ale,
+
+By shrill Noises, but they could not prevail,
+
+T' appease their Graces; straight rose Mortal Jarrs
+
+Betwixt the Night black Guard and Silver Stars;
+
+Then fell the Beadle by a Ducal Hand,
+
+For daring to pronounce the sawcy Stand.
+
+The way in Blood certain Renown to win,
+
+Is first with Bloody Noses to begin.
+
+The high-born Youths their hasty Errand tell,
+
+Dam ye you Rogue, we'll send your Soul to Hell.
+
+They need not send a Messenger before,
+
+They're too well known there to stay long at Door.
+
+See what mishaps dare ev'n invade Whitehall;
+
+This silly Fellow's death puts off the Ball,
+
+And disappoints the Queen, poor little Chuck,
+
+I warrant 'twould have danc'd it like a Duck.
+
+The Fidlers, Voices, Entries, all the sport,
+
+And the gay Show put off, where the brisk Court
+
+Anticipates in rich Subsidy-Coats
+
+All that is got by Mercenary Votes:
+
+Yet shall Whitehall the Innocent, the Good,
+
+See these men dance all daub'd with Lace and Blood.
+
+Near t'other Park there stands an aged Tree,
+
+As sit as if 'twere made o'th nonce for Three;
+
+Where that no Ceremony may be lost,
+
+Each Duke for State may have a several Post.
+
+What Storms may rise out of so black a Cause,
+
+If such Turd-Flies shall break through Cobweb Laws
+
+[[Page 149]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=80)
+
+### 1.33. The History of Insipids; A Lampoon, 1676.
+
+By the Lord Roch—r.
+
+1.
+
+CHast, pious, prudent, C— the Second,
+
+The Miracle of thy Restoration,
+
+May like to that of Quails be reckon'd
+
+Rain'd on the Israelitish Nation;
+
+The wish'd for Blessing from Heav'n sent,
+
+Became their Curse and Punishment.
+
+2.
+
+The Vertues in thee, C— inherent,
+
+Although thy Countenance be an odd-piece,
+
+Prove thee as true a God's Vicegerent
+
+As e'er was Harry with the Codpiece:
+
+For Chastity and pious Deeds,
+
+His Grandsire Harry, C— exceeds.
+
+3.
+
+Our Romish Bondage-breaker Harry,
+
+Espoused half a dozen Wives;
+
+C— onely one resolv'd to marry,
+
+And other Mens he never—
+
+Yet hath he Sons and Daughters more,
+
+Than e'er had Harry by threescore.
+
+4.
+
+Never was such a Faith's Defender,
+
+He like a politick Prince, and pious,
+
+Gives liberty to conscience tender,
+
+And doth to no Religion tye us.
+
+Jews, Turks, Christians, Papists, he'll please us,
+
+With Moses, Mahomet, or J—
+
+5.
+
+In all affairs of Church or State,
+
+He very zealous is, and able,
+
+Devout at Prayers, and sits up late
+
+At the Cabal and Council-Table;
+
+[[Page 150]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=81)His very
+Dog at Council-Board,
+
+Sits grave and wise as any Lord.
+
+6.
+
+Let C— his Policy no man flout,
+
+The wisest Kings have all some Folly;
+
+Nor let his Piety any doubt;
+
+C— like a Sovereign wise and holy,
+
+Make young Men Judges of the Bench,
+
+and Bishops those that love a Wench,
+
+7.
+
+His Father's Foes he doth reward,
+
+Preserving those that cut off's Head:
+
+Old Cavaliers the Crown's best Guard,
+
+He let's them starve for want of Bread.
+
+Never was any King endow'd
+
+With so much Grace and Gratitude.
+
+8.
+
+Blood that wears Treason in his Face,
+
+Villain compleat, in Parson's Gown,
+
+How much is he at Court in Grace
+
+For stealing Ormond and the Crown?
+
+Since Loyalty does no man good,
+
+Let's steal the King and out-do Blood.
+
+9.
+
+A Parliament of Knaves and Sots,
+
+Members by name, you must not mention,
+
+He keeps in Pay, and buys their Votes;
+
+Here with a Place there with a Pension.
+
+When to give Money he can't cologue 'um,
+
+He doth with Scorn prorogue, prorogue 'um.
+
+10.
+
+But they long since, by too much giving,
+
+Undid, betray'd, and sold the Nation;
+
+Making their Memberships a Living,
+
+Better than e'er was Sequestration.
+
+God give thee C— a Resolution
+
+To damn the Knaves by Dissolution,
+
+[[Page 151]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=81)
+
+11.
+
+Fame is not grounded on Success,
+
+Though Victories were Caesar's Glory;
+
+Lost Battels make not Pompey less,
+
+But left them stiled great in Story,
+
+Malicious Fate doth oft devise
+
+To beat the Brave and fool the Wise.
+
+12.
+
+Charles in the first Dutch War stood fair
+
+To have been Sovereign of the Deep;
+
+When Opdam blew up in the Air,
+
+Had not his Highness gone to sleep.
+
+Our Fleet slack'd Sails, fearing his waking,
+
+The Dutch else had been in sad taking.
+
+13.
+
+The Bergen Business was well laid,
+
+Though we paid dear for that Design:
+
+Had we not three days parling staid,
+
+The Dutch Fleet there, Charles had been thine.
+
+Though the false Dane agreed to sell 'um,
+
+He cheated us, and saved Skellum.
+
+14.
+
+Had not Charles sweetly choos'd the States,
+
+By Bergen baffle grown more wise,
+
+And made them Shit as small as Rats,
+
+By their rich Smyrna Fleets surprize.
+
+Had haughty Holms but call'd in Spragg,
+
+Hans had been put into a Bag.
+
+15.
+
+Mists, Storms, short Victuals, adverse Winds,
+
+And once the Navies wise Division,
+
+Defeated Charles his best designs,
+
+Till he became his Foes Derision.
+
+But he had swing [...]d the Dutch at Chattam,
+
+Had he had ships but to come at 'um.
+
+16.
+
+Our Blackheath Host without dispute,
+
+Rais'd, (put on Board, why, no man knows)
+
+[[Page 152]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=82)Must
+Charles have rendered absolute,
+
+Over his Subjects or his Foes.
+
+Has not the French King made us Fools,
+
+By taking Maestricht with our Tools?
+
+17.
+
+But Charles what could thy Policy be,
+
+To run so many sad Disasters;
+
+To join thy Fleet with false D' Etrees,
+
+To make the French of Holland Masters?
+
+Was't Carewell, Brother James, or Teague,
+
+That made thee break the Triple League?
+
+18.
+
+Could Robin Viner have foreseen
+
+The glorious Triumphs of his Master,
+
+The Wool-Church Statue Gold had been,
+
+Which now is made of Alabaster:
+
+But wise Men think, had it been Wood,
+
+'Twere for a Bankrupt K— too good.
+
+19.
+
+Those that the Fabrick well consider,
+
+Do of it diversly discourse;
+
+Some pass their Censure of the Rider,
+
+Others their Judgment of the Horse:
+
+Most say the Steed's a goodly thing,
+
+But all agree 'tis a Lewd K—
+
+20.
+
+By the Lord Mayor and his grave Coxcombs,
+
+Free-man of London Charles is made;
+
+Then to Whitehall a Rich Gold Box comes,
+
+Which was bestow'd on the French Jade.
+
+But wonder not it should be so, Sirs,
+
+When Monarchs rank themselves with Grocers.
+
+21.
+
+Cringe, scrape no more, ye City Fops,
+
+Leave off your Feasting and fine Speeches,
+
+Beat up your Drums, shut up your Shops,
+
+The Courtiers then will kiss your Breeches,
+
+[[Page 153]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=82)Arm'd,
+tell the Popish Duke that rules,
+
+You're Free-born Subjects, not French Mules.
+
+22.
+
+New Upstarts, Pimps, Bastards, Whores,
+
+That Locust-like devour the Land,
+
+by shutting up th' Exchequer Doors,
+
+When thither our Money was trapann'd,
+
+Have rendred C— his Restauration,
+
+But a small Blessing to the Nation.
+
+23.
+
+Then C— beware of thy Brother York
+
+Who to thy Government gives Law;
+
+If once we fall to the old Sport,
+
+You must again both to Breda:
+
+Where 'spight of all that would restore you,
+
+Grown wise by wrongs, we shall abhor you,
+
+24.
+
+If of all Christian Blood the guilt
+
+Cry loud for Vengeance unto Heaven;
+
+That Sea by Treacherous Lewis spilt,
+
+Can never be by God forgiven.
+
+Worse Scourge unto his Subjects, Lord,
+
+Than Pestilence, Famine, Fire or Sword.
+
+25.
+
+That false repacious Wolf of France,
+
+The Scourge of Europe, and its Curse,
+
+Who at his Subjects cry, does dance,
+
+And studys how to make them worse.
+
+To say such Kings, Lord, rule by thee,
+
+Were most prodigious Blasphemy.
+
+26.
+
+Such know no Law but their own Lust,
+
+Their Subjects Substance, and their Blood,
+
+They count it Tribute due and just,
+
+Still spent and spilt for Subjects good.
+
+If such Kings are by God appointed,
+
+The Devil may be L— Anointed.
+
+[[Page 154]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=83)
+
+27.
+
+Such Kings cust be the Power and Name,
+
+Let all the World henceforth abhor 'em;
+
+Monsters which Knaves sacred proclaim,
+
+And then like Slaves fall down before 'em.
+
+What can there be in Kings Divine?
+
+The most are Wolves, Goats, Sheep, or Swine.
+
+28.
+
+Then farewell sacred Majesty,
+
+Let's pull all Brutish Tyrants down;
+
+When Men are born, and still live free,
+
+Here ev'ry Head doth wear a Crown,
+
+Mankind like miserable Frogs,
+
+Prove wretched, Kings by Storks and Logs.
+
+### 1.34. ROCHESTER's Farewell, 1680.
+
+TIr'd with the novsom Follies of the Age,
+
+And weary of my part, I quit the Stage;
+
+For who in Lif's dull Farce a part would bear,
+
+Where Rogues, Whores, Bawds, all the head Actors are?
+
+Long I with charitable Malice strove,
+
+Lashing the Court, those Vermin to remove,
+
+But thriving Vice under the Rod still grew,
+
+As aged Letchers whipp'd, their Lust renew;
+
+Yet though my Life hath unsuccessfull been,
+
+(For who can this Augaean Stable clean)
+
+My gen'rous end I will pursue in Death,
+
+And at Mankind rail with my parting breath.
+
+First then, the Tangier Bullies must appear,
+
+With open Bravery, and dissembled Fear:
+
+Mulg—e their Head; but Gen'ral have a care,
+
+Though skill'd in all those Arts that cheat the fair,
+
+The undiscerning and Impartial Moor,
+
+Spares not the Lover on the Ladies score.
+
+Think how many perish by one fatal shot,
+
+The Conquests all thy Ogling ever got.
+
+[[Page 155]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=83)Think
+then (as I presume you do) how all
+
+The English Beauties will lament your fall;
+
+Scarce will there greater Grief pierce ev'ry heart,
+
+Should Sir George Hewit of Sir Carr depart.
+
+Had it not better been, than thus to roam.
+
+To stay and tye the Cravat-string at home?
+
+To strut, look big, shake Pantaloon, and swear
+
+With Hewit, Dame, there's no Action there.
+
+Had'st thou no Friend that would to Rowly write,
+
+To hinder this thy eagerness to fight?
+
+That without danger thou a Brave might'st be,
+
+As sure to be deny'd as Shrews—y.
+
+This sure the Ladies had not fail'd to do,
+
+But who such Courage could suspect in you?
+
+For say, what reason could with you prevail,
+
+To change Embroider'd Goat for Coat of Mail?
+
+Let Plim—h, or let Mord—t go, whom Fate
+
+Has made not valiant but desperate.
+
+For who would not be weary of his Life,
+
+Who's lost his Money, or has got a Wife?
+
+To the more tolerable Alcaid of Alcazzer,
+
+One flies from's. Creditors, the other from Frazier;
+
+'Twere cruelty to make too sharp Remarks,
+
+On all the little, forward, fighting Sparks;
+
+Only poor Charles I can't but pity thee,
+
+When all the pert young Voluntiers I see.
+
+Those Chits in War, who as much Mirth create,
+
+As the Pair Royal of the Chits of State:
+
+Their Names shall equal or exceed in Story,
+
+Chit Sund—d, Chit Godo—n, and Chit L—y.
+
+When thou let'st Plim—h. go twas such a jest,
+
+As when the Brother made the same request;
+
+Had Rich—d but got leave as well as he,
+
+The Jest had been compleat and worthy thee.
+
+Well since be must, he [...]ll to Tangier advance
+
+It is resolv'd, but first let's have a Dance.
+
+First, at her Highness Ball he must appear,
+
+And in a parting Country Dance, learn there
+
+With Drum and Fife to make a Jigg of War;
+
+[[Page 156]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=84)What is
+of Soldier seen in all the heap,
+
+Besides the flutt'ring Feather in the Cap,
+
+The Scarf, and Yard or two of Scarlet Cloath,
+
+From Gen'ral Mulg—e down to little Wroth?
+
+But now they're all embark'd and curse their Fate,
+
+Curse Charles that gave them leave, and much more Kate,
+
+Who then Tangier to England and the King
+
+No greater Plague, besides her self could bring;
+
+And wish the Moors, since now their hand was in,
+
+As they have got her Portion, had the Queen.
+
+There leave we them, and back to England come,
+
+Where-by the wiser Sparks that stay at home,
+
+In safe Ideas by their fancy form'd,
+
+Tangier (like Mastrich) is at Windsor storm'd.
+
+But now we talk'd of Mastrich, where is he,
+
+Fam'd for that brutal piece of Bravery?
+
+He with his thick impenetrable Skull,
+
+The solid, hard'ned Armour of a Fool:
+
+Well might himself to all Wars ill expose,
+
+Who (come what will yet) had no Brains to lose:
+
+Yet this is he, the dull unthinking he,
+
+Who must (forsooth) our future Monarch be,
+
+This Fool by Fools (Armstrong and Ven—n) led,
+
+Dreams that a Crown will drop upon his head,
+
+By great example, he this Path doth tread,
+
+Following such sensless Asses up and down,
+
+(For Saul sought Asses when he found a Crown)
+
+But Rosse is risen as Samuel at his call,
+
+To tell that God hath left th' ambitious Saul.
+
+Never (says Heaven) shall the blushing Sun,
+
+See Proger's Bastard fill the Regal Throne.
+
+So Heaven says, but Bran—n says he shall,
+
+But who e'er he protects is sure to fall.
+
+Who can more certain of Destruction be,
+
+That he that trusts to such a Rogue as he?
+
+What good can come from him who York forsook,
+
+T' espouse the Interest of this booby Duke?
+
+[[Page 157]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=84)But who
+the best of Masters could desert,
+
+Is the most fit to take a Traytor's part.
+
+Ungrateful! This thy Master-piece of sin,
+
+Exceeds ev'n that with which thou didst begin.
+
+Thou great Proficient in the Trade of Hell,
+
+Whose latter Crimes still do thy first excell:
+
+The very top of Villainy we seize,
+
+By steps in order, and by just degrees.
+
+None e'er was perfect Villain in one day,
+
+The murder'd Boy to Treason led the way;
+
+But when degrees of Villainy we name,
+
+How can we chuse but think on Buck—m?
+
+He who through all of them hath boldly ran,
+
+Left ne'er a Law unbroke of God or Man.
+
+His treasured Sins of Supererogation,
+
+Swell to a summ enough to damn a Nation:
+
+But he must here, per force, be let alone,
+
+His acts require a Volume of their own:
+
+Where rank'd in dreadful order shall appear,
+
+All his Exploits from Shrews—y to Le Meer.
+
+But stay, methinks I on a sudden find,
+
+My Pen to treat of th' other Sex inclin'd:
+
+But where in all this choice shall I begin?
+
+Where, but with the renowned Mazarine?
+
+For all the Bawds the Courts rank Soil doth bear,
+
+And Bawds and Statesmen grow in plenty there.
+
+To thee submit and yield, should we be just,
+
+To thy experienc'd and well-travell'd Lust:
+
+Thy well-known Merits claim that thou should'st be,
+
+First in the Glorious Roll of Infamy.
+
+To thee they all give place, and Homage pay,
+
+Do all thy Letcherous Decrees obey;
+
+(Thou Queen of Lust, thy Bawdy Subjects they.)
+
+While Sussex, Brughill, Betty Felton come,
+
+Thy Whores of Honour, to attend thy Throne;
+
+For what proud Strumpet e'er could merit more,
+
+Than be Anointed the Imperial Whore?
+
+[[Page 158]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=85)For tell
+me in all Europe, where's the part,
+
+That is not conscious of thy Lewd desert.
+
+The great Pedalion Youth, whose Conquests run
+
+O'er all the World, and travell'd with the Sun,
+
+Made not his Valour in more Nations known,
+
+Than thou thy Lust, thy matchless Lust have shown.
+
+All Climes, all Countries do with Tribute come,
+
+(Thou World of Lewdness) to thy boundless Womb:
+
+Thou Sea of Lust, that never ebb dost know,
+
+Whither the Rivers of all Nations flow.
+
+Lewd Messaline was but a Tipe of thee,
+
+Thou highest, last degree of Letchery:
+
+For in all Ages, except her and you,
+
+Who ever sinn'd so high and stoop'd so low?
+
+She to the Imperial Bed each Night did use,
+
+To bring the stink of the exhausted Stews;
+
+Tir'd (but not satify'd) with Man did come,
+
+Drunk with abundant Lust, and reeling home.
+
+But thou to our admiring Age dost show
+
+More sin than innocent Rome did ever know;
+
+And having all her Lewdnesses out-ran,
+
+Takes up with Devil, having tir'd Man:
+
+For what is else that loathsome ugly Black,
+
+Which you and Sussex in your Arms do take?
+
+Nor does Old Age, which now rides on so fast,
+
+Makes thee come short of all thy Lewdness past:
+
+Though on thy Head, Grey Hairs, like Etna's Snow
+
+Are shed, thour't Fire and Brimstone all below.
+
+Thou monstrous thing, in whom at once does rage
+
+The Flames of Youth, and Impotence of Age.
+
+My Lady Dutchess takes the second place,
+
+Proud with thy favour and peculiar grace;
+
+Ev'n she with all her Piety and Zeal,
+
+The hotter flames that burn in thee does feel.
+
+Thou dost into her kindling Breast inspire,
+
+The lustful Seeds of thy contagious fire;
+
+So well the Spirit and the Flesh agree,
+
+Lust and Devotion, Zeal and Letchery.
+
+[[Page 159]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=85)Of what
+Important use Religion's made,
+
+By those who wisely drive the cheating Trade;
+
+As Wines prohibited securely pass,
+
+Changing the Name of their own native Place.
+
+So Vice grows safe, dress'd in Devotion's Name,
+
+Unquestion'd by the Custom-house of Fame:
+
+Where ever too much Sanctity you see,
+
+Be more suspicious of hid Villany?
+
+Whose' ever's Zeal is than his Neighbours more,
+
+If Man suspect him Rogue, if Woman Whore:
+
+And such a thing art thou religious Pride,
+
+So very Lew'd, and yet so sanctify'd.
+
+Let now the Dutchess take no further care,
+
+Of numorous Stallions let her not despair,
+
+Since her indulgent Stars so kind have been,
+
+To send her Bromley H— and Mazarine;
+
+This last doth banish'd Monmouth's place supply,
+
+And Wit supplanted is by Letchery.
+
+For Monmouth's he had Parts, and Wit, and Sense,
+
+To all which Mazrine had no pretence;
+
+A proof that since such things as she prevail,
+
+Her Highness Head is lighter than her Tail.
+
+But stay, I Portsmouth almost had forgot,
+
+The common Theam of ev'ry rhiming Sot;
+
+She'll after railing make us laugh a while,
+
+For at her Folly who can chuse but smile?
+
+While them who always slight her, great she makes,
+
+And so much pains to be despis'd she takes.
+
+Goes sauntring with her Highness up to Town,
+
+To an old Play, and in the dark come down;
+
+Still makes her Court to her as to the Queen,
+
+But still is Justled out by Mazarine.
+
+So much more Worthy a kind Bawd is thought,
+
+Than even she who her from Exile brought.
+
+O Portsmouth, foolish Portsmouth! Not to take
+
+The offer the great Sun—d did make.
+
+When cringing at thy Feet; e'en Monmouth bow'd,
+
+The Golden Calf, that's worshipp'd by the Crowd.
+
+[[Page 160]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=86)But thou
+for Y—k, who now despises thee,
+
+To leave both him and pow'rful Shaftsbury.
+
+If this is all the Policy you know,
+
+This all the skill in States you boast of so,
+
+How wisely did thy Countreys Laws ordain,
+
+Never to let the foolish Women reign,
+
+But what must we expect, who daily see
+
+Unthinking Charles rul'd by Unthinking thee?
+
+### 1.35. Marvil's Ghost.
+
+By Mr. Jo. Ayloffe.
+
+FRom the dark Stygian Lake I come,
+
+To acquaint poor England with her doom;
+
+Which by the infernal Sisters late,
+
+I copied from the Book of Fate:
+
+And though the sense may seem disguis'd,
+
+'Tis in these following Lines compriz'd.
+
+When England shall forsake the Broom,
+
+And take the Thistle in the room;
+
+A wanton Fidler shall be led
+
+By Fate to shame his Master's Bed;
+
+From whence a spurious Race shall grow,
+
+Design'd for Britain's overthrow.
+
+These, whilst they do possess her Throne,
+
+Shall serve all interests but their own;
+
+And shall be both in Peace and War,
+
+Scourges unto themselves and her.
+
+A brace of Excil'd Youths, whose Fates
+
+Shall pull down Vengeance on those States
+
+That harbour'd them abroad, must come
+
+Well skill'd in foreign Vices home,
+
+And shall their dark designs to hide,
+
+With two contesting Churches side;
+
+Till with cross persecuting Zeal,
+
+They have destroy'd the Common-weal:
+
+[[Page 161]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=86)Then
+Incest, Murder, Perjury,
+
+Shall fashionable Vertues be;
+
+And Villainies infest this Isle,
+
+Shall make the Son of Claudius smile.
+
+No Oaths or Sacraments hold good,
+
+But what are seal'd with Lust and Blood:
+
+Lust, which cold Exile could not tame,
+
+Nor Plague nor Fire at home reclaim:
+
+For this she shall in Ashes mourn,
+
+From Europe's envy turn her scorn,
+
+And curse the day that e'er gave Birth
+
+To Caecil, or to Monk on Earth.
+
+But as I onwards strove to look,
+
+The angry Sister shut the Book,
+
+And said, No more, that fickle State
+
+Shall know no further of her Fate;
+
+Her future Fortunes must be hid,
+
+Till her known Ills be remedied;
+
+And she to those Resentments come,
+
+That drove the Tarquins out of Rome;
+
+Or such as did in fury turn
+
+The Assyran's Palace to his Urn.
+
+### 1.36. The True Englishman, 1686.
+
+CUrs'd be the tim'rous Fool, whose feeble Mind
+
+Is turn'd about with every blast of Wind;
+
+Who to self-interest basely does give ear,
+
+And suffers Reason to be led by Fear:
+
+He only merits a true English Name,
+
+Who always says, and does, and is the same;
+
+Who dares be honest, though at any rate,
+
+And stands prepar'd to meet the worst of Fate:
+
+He laughs at Threats, and Flatt'ries does despise,
+
+And won't be knavish to be counted wise:
+
+No publick storm can his clear Reason blind,
+
+Or bad example influence his mind.
+
+[[Page 162]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=87)Let M—
+like a Cur kick'd out of doors,
+
+For his aspiring Projects and Amours,
+
+Unman himself to sneak, fawn, cringe and whine,
+
+And play the Spaniel, till they let him in;
+
+Then, with a grinning and affected Leer,
+
+Run his red Snout in every Lady's ear.
+
+Let a lewd Judge come reeking from a Wench,
+
+To vent a wilder Lust upon the Bench;
+
+Bawl out the Venom of his rotten Heart,
+
+Swell'd up with envy, over-act his part;
+
+Condemn the Innocent by Laws ne'er fram'd;
+
+And study to be more than doubly damn'd.
+
+Let a mean scoundrel Lord (for equal fear
+
+Of hanging, or of starving) falsely swear;
+
+Let him, whose Knavery and Impudence
+
+Is known to every Man's experience,
+
+With scraps of broken evidence, contrive
+
+To feed, and keep a fainting Plot alive:
+
+Nay, though he swears by the same Deities,
+
+Whom he has mock'd by Mimmic Sacrifice.
+
+Let Rumsey, with his ill-look'd treacherous Face,
+
+That swarthy off-spring of a Hellish Race,
+
+Whose Mother, big with an intriguing Devil,
+
+Brought an Epitome of all that's evil:
+
+Let him be perjur'd, and as rashly damn
+
+T' eternal Infamy his odious Name.
+
+Let Knaves and Fools confound the tott'ring State,
+
+And plunge the Subjects in their Monarch's hate;
+
+Blinding by false accounts of Men and Things,
+
+The most indulgent and the best of Kings.
+
+Let an unthinking hair-brain'd Bigot's zeal,
+
+(Not out of any thought of doing well,
+
+But in a pure defiance of the Law)
+
+In bloody Lines his true Idea draw;
+
+That Men may be inform'd, and early see,
+
+What such a Man (if once in pow'r) wou'd be:
+
+Of Royal Mercy: let him stop the sourse,
+
+That Death may have a free and boundless course;
+
+[[Page 163]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=87)Till
+shivering Ghosts come from their gloomy Cell,
+
+And in dumb Forms a fatal story tell.
+
+Let the Court swarm with Pimps, Rogues, Bawds and Whores,
+
+And honest men be all turn'd out of doors;
+
+Let Atheism and prophaneness there abound,
+
+And not an upright Man (God save the King) befound.
+
+Let men of Principles be in disgrace,
+
+And mercenary Villains in their place;
+
+Let free born Cities be by Treach'ry won,
+
+Lose their just Liberties, and be undone:
+
+Let States-men sudden Changes undertake,
+
+And make the Government's foundation shake;
+
+Till strange tempestuous Murmers do arise,
+
+And show a storm that's gath'ring in the Skies.
+
+Let all this happen. Nay, let certain Fate
+
+Upon the issue of their Actions wait;
+
+If you've a true, a brave undaunted Mind
+
+Of English Principles, as well as kind;
+
+You'll on the bottom of true Honour stand,
+
+Firm as a Rock, unshaken as the Land:
+
+So when vast Seas of Trouble 'gainst you beat,
+
+They'll break, and force themselves to a Retreat;
+
+No Fate, no flattery can e [...]er controul
+
+A steady, resolute, Heroick Soul.
+
+### 1.37. On the Young Statesmen.
+
+By J. Dryden, 1680.
+
+CLarenden had Law and Sense,
+
+Clifford was Fierce and Brave,
+
+Bennet's grave look was a pretence,
+
+And D—y's matchless impudence
+
+Help'd to support the Knave.
+
+2.
+
+But Sund—d, God—n, L—y,
+
+These will appear such Chits in story,
+
+'Twill turn all Politicks to Jests,
+
+[[Page 164]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=88)To be
+repeated like John Dory,
+
+When Fidlers sing at Feasts.
+
+3.
+
+Protect us, mighty Providence,
+
+What wou'd these Mad-men have?
+
+First, they would bribe us without Pence,
+
+Deceive us without common Sense,
+
+And without Power enslave.
+
+4.
+
+Shall free-born Men in humble awe,
+
+Submit to servile shame;
+
+Who from consent and custom, draw
+
+The same Right to be rul'd by Law
+
+Which Kings pretend to reign?
+
+5.
+
+The Duke shall wield his conq'ring Sword,
+
+The Chancellor make a Speech,
+
+The King shall pass his honest word,
+
+The pawn'd Revenue Summs afford;
+
+And then come kiss my Breech.
+
+6.
+
+So have I seen a King on Chess,
+
+(His Rooks and Knights withdrawn,
+
+His Queen and Bishops in distress)
+
+Shifting about, grow less and less,
+
+With here and there a Pawn.
+
+### 1.38. Portsmouth's Looking-Glass.
+
+By the Lord Roch—r.
+
+MEthinks I see you newly risen,
+
+From your Embroidered Bed and pissing;
+
+With studied Mein and much Grimace,
+
+Present your self before your Glass,
+
+To varnish and rub o'er those Graces,
+
+You rub'd off in your Night Embraces:
+
+To set your Hair, your Eyes, your Teeth,
+
+And all those Powers you Conquer with;
+
+[[Page 165]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=88)Lay
+trains of Love and State-Intrigues,
+
+In Powders, Trimmings, and curl'd Wigs:
+
+And nicely chuse, and neatly spread,
+
+Upon your Cheeks the best French Red.
+
+Indeed for Whites none can compare,
+
+With those you naturally wear;
+
+And though her Highness much delights
+
+To laugh and talk about your Whites;
+
+I never could perceive your Grace
+
+Made use of any for your Face.
+
+Here 'tis you practice all your Art,
+
+To triumph o'er a Monarch's Heart;
+
+Tattle and smile, and wink and twink on't,
+
+It almost makes me sp— to think on't.
+
+These are your master-strokes of Beauty,
+
+That keeps poor Rowley to hard Duty:
+
+And how can all these be withstood,
+
+By frail amorous Flesh and Blood?
+
+These are the Charms that have bewitcht him,
+
+As if a Conjurer's Rod had switcht him:
+
+Made him he knows not what to do,
+
+But loll and fumble here with you.
+
+Amongst your Ladies, and his Chitts,
+
+At Cards and Council here he sits:
+
+Yet minds not how they play at either,
+
+Nor cares not when 'tis walking weather:
+
+Business and Power he has resign'd,
+
+And all things to your mighty Mind.
+
+Is there a Minister of State,
+
+Or any Treasurer of late,
+
+That's fawning and imperious too?
+
+He owes his Greatness all to you:
+
+And as you see just cause to do it,
+
+You keep him in, or turn him out.
+
+Hence 'tis you give us War and Peace,
+
+Raise Men, disband them as you please:
+
+Take any Pensions, retrench Wages,
+
+For Petticoats, and lusty Pages:
+
+[[Page 166]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=89)Contrive
+and Execute all Laws,
+
+Suiting the Judges to the Cause.
+
+Learn'd Scroggs and honest Jeffreys,
+
+A Faithfull Friend to you who e're is;
+
+He made the Jury come in booty,
+
+And for your service wou'd hang Doughty.
+
+You govern every Council meeting,
+
+Making th [...] Fools do as you think fitting:
+
+Your Royal Cully has command,
+
+Onely from you at second hand;
+
+He does but at the Helm appear,
+
+Sits there and sleeps while your Slaves steer:
+
+And you are the bright Northern Star,
+
+By which they guide this Man of War;
+
+Yet without doubt they might conduct
+
+Him better, were you better f—
+
+Many begin to think of late,
+
+His Crown and C—ds have both one date;
+
+For as they fall, so falls the State.
+
+And as his Reins prove loose and weak,
+
+The Reigns of Government must break.
+
+### 1.39. The Impartial Trimmer. 1682.
+
+SInce there are some that with me see the state
+
+Of this declining Isle, and mourn its fate;
+
+French Councellors and Whores, French Education,
+
+Have chang'd our Natures, and enslav'd our Nation:
+
+There was a time when Barons boldly stood,
+
+And spent their Lives for their dear Countries good;
+
+Confim'd our Charter, with a Curse to light
+
+On those that shou'd destroy that sacred Right,
+
+Which Power with Freedom can so well unite,
+
+The hated name of Rebel is not due
+
+To him that is to Law and Justice true.
+
+[[Page 167]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=89) Brutus
+bold part may justly claim Renown,
+
+Preferring Right to Friendship and a Crown;
+
+For 'twas not Treason then to keep our own.
+
+But now the Nation with unusual need
+
+Cries help, where is our bold, our English Breed?
+
+Popery and Slavery are just at hand,
+
+And every Patriot is a S—d.
+
+Shaftsbury's gone, another Change to try;
+
+He hates his Word, yet more the Monarchy.
+
+No Head remains our Loyal Cause to grace,
+
+For Monmouth is too weak for that high Place:
+
+More proper for the Court where he was rais'd,
+
+His Dancing envy'd, and his Dressing prais'd,
+
+Where still such Folly is so well protected,
+
+Those few that han't it are oblig [...]d t' affect it;
+
+For Statesmen, King, and Whore, and all have sworn
+
+T'advance such Wit and Virtue as their own:
+
+Degenerate Rome and Spain deserves to out-brave us,
+
+If Hide or Hallifax can e'er enslave us;
+
+Or he that kneels 'twixt his Dogs and Whore,
+
+Rul'd by a Woman, he can use no more;
+
+Whispers with Knaves, and Jests all day with Fools,
+
+Is chid to Counsel like a Boy to School.
+
+False to Mankind, and true to him alone.
+
+Whose Treason still attempts his Life and Crown.
+
+Rouse up and cry, No Slavery, no York
+
+And free your King from that devouring  [...]ork;
+
+Tho' lull'd with Ease and Safety he appear,
+
+And trusts the Reins to him he ought to fear.
+
+'Tis Loyalty indeed to keep the Crown
+
+Upon a Head that would it self dethrone.
+
+This is the case of our unthinking Prince,
+
+Wheedled by Knaves, to rule 'gainst common Sense;
+
+That we provok'd our Wrongs to justi [...]e,
+
+Might in his Reign his Brother's Title try.
+
+Live long then Charles, secure of those you dread,
+
+There's not five Whiggs that ever wish'd you dead,
+
+[[Page 168]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=90)For as
+old Men rarely of Gout complain,
+
+That Life prolongs, but sooths its wholsome pain.
+
+So we with as small cause (God knows) to boast,
+
+Bear much with you, rather than with him roast:
+
+For if a subject he such Terror bring,
+
+What may we hope from a revengefull King?
+
+Both lew'd and zealous, stubborn in his Nonsense,
+
+He'll sacrifice Mankind to ease his Conscience.
+
+O happy Venice, whose good Laws are such,
+
+No private Crime the publick Peace can touch.
+
+But we most wretched, while two Fools dispute,
+
+If Leg or Armstrong shall be absolute.
+
+### 1.40. Bajazet to Gloriana, 1683/4;.
+
+FAir Royal Maid, permit a Youth undone,
+
+To tell you how he drew his ruin on;
+
+By what degrees he took that Passion in,
+
+That made him guilty of Promethean Sin,
+
+Who from the Gods durst steal Celestial Fire;
+
+And tho' with less success I did as high aspire:
+
+Ah! why (you Gods) was she of mortal Race,
+
+And why 'twix her and me was there so vast a space?
+
+Why was she not above my Passion made?
+
+Some Star in Heaven or Goddess of the Shade.
+
+And yet my haughty Sold could ne'er have bow'd
+
+To any Beauty of the common Crowd.
+
+None but the Brow that did expect a Crown
+
+Could charm or awe me with a Smile or Frown.
+
+I liv'd the Envy of the Arcadian Plains,
+
+Sought by the Nymphs, and bow'd to by the Swains.
+
+Where e'er I pass'd, I swept the Street along,
+
+And gather'd round me all the gazing Throng.
+
+In numerous Flocks and Herds I did abound,
+
+And when I vainly spread my Wishes round,
+
+They wanted nothing but my being crown'd;
+
+[[Page 169]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=90)Yet
+witness all you spightfull Pow'rs above,
+
+If my Ambition did not spring from Love:
+
+Had you, bright Gloriana, been less fair,
+
+Less excellent, less charming than you are,
+
+I had my honest Loyalty retain'd,
+
+My noble Blood untainted had remain'd;
+
+Witness your Graces, witness your sacred Bowers,
+
+You shaded River, Banks, and Beds of Flowers,
+
+Where the expecting Nymphs have past their Hours;
+
+Witness how oft (all careless of their fame)
+
+They Languish'd for the Author of their Flame:
+
+And when I came reproach'd, my old reserve
+
+Ask'd for what Nymph I did my Joys preserve?
+
+What sighing Maid was next to be undone,
+
+For whom I drest and put my Graces on?
+
+And never thought (tho' I feign'd ev'ry proof
+
+Of tender Passion) that I lov'd enough.
+
+While I with Love's Variety was cloy'd,
+
+Or the faint Pleasure like a Dream enjoy'd;
+
+'Twas Gloriana's Eyes, my Soul alone,
+
+With everlasting Gust could feed upon.
+
+From her first Bloom my fate I did pursue,
+
+And from the tender fragrant Bud I knew,
+
+The charming Sweet it promis'd when it blew.
+
+They gave me hope, and 'twas in vain I try'd
+
+The Beauty from the Princess to divide:
+
+For he at once must feel whom you inspire
+
+A soft Ambition and a haughty Fire,
+
+And hopes the natural Aid of young Desire.
+
+My unconsidering Passion had not yet
+
+Thought your Illustrious Birth for mine too great
+
+'Twas Love that I pursu'd, that God that leads
+
+Sometimes the equall'd Slave to Princes Beds.
+
+But oh! I had forgot that Flame must rest
+
+In your bright Soul that makes th' Adorer blest;
+
+Your sacred Fire alone must you subdue,
+
+'Tis that, not mine, can raise me up to you;
+
+[[Page 170]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=91)Yet if by
+chance m' ambition meet a stop,
+
+With any thought that check'd m' advancing hope:
+
+This new one straight wou'd all the rest confound,
+
+How every Coxcomb aim'd at being crown'd:
+
+The vain young Fool with all his Mother's parts,
+
+Who wanted Sense enough for little arts;
+
+Whose composition was like Cheder Cheese,
+
+( [...] Production all the Town agrees.)
+
+To whom from Prince to Priest was added Suff,
+
+From great King Charles e'en down to Father Goff;
+
+Yet he with vain Pretension lays a claim,
+
+To th [...] glorious  [...] of a Sovereign:
+
+And when for Gods such wretched things set up,
+
+Was it so great a Crime for me to hope?
+
+No Laws of God or Man my Vows reprove,
+
+There is no Treason in ambitious Love:
+
+That sacred Antidote i'th' poyson'd Cup,
+
+Quells the Contagion of each little drop.
+
+I bring no forces but my Sighs and Tears,
+
+My Languishments, my soft Complaints and Prayers.
+
+Artillery which was never sent in vain,
+
+Nor fails, where-e'er it lights, to wound or pain.
+
+Here only, here rebated they return,
+
+Meeting the solid Armour of your Scorn;
+
+Scorn by the Gods, I any thing could bear,
+
+The rough Fatigues and Storms of dangerous War;
+
+Long Winter Marches or the Summer's Heat,
+
+Nay e'en in Battle from the Foe defeat;
+
+Scars on this Face, Scars, whose dull recompence
+
+Wou'd ne'er attone for what they rob from thence;
+
+Scandal of Coward, nay half witted too,
+
+Or siding with the pardon'd rebel Crew:
+
+Or ought but Scorn, and yet you must frown on,
+
+Your Slave was destin'd thus to be undone;
+
+You the avenging Deity appear,
+
+And I a Victim fall to all the injur'd fair.
+
+[[Page 171]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=91)
+
+### 1.41. On King CHARLES, by the Earl of Rochester, For which he was banish'd
+the Court and turn'd Mountebank.
+
+IN the Isle of Great Britain long since famous known,
+
+For breeding the best C— in Christendom;
+
+There reigns, and long may he reign and thrive,
+
+The easiest Prince and best bread Man alive:
+
+Him no ambition moves to seek Renown,
+
+Like the French Fool, to wander up and down,
+
+Starving his Subjects, hazarding his Crown.
+
+Nor are his high desires above his strength,
+
+His scepter and his P— are of a length,
+
+And she that plays with one may sway the other,
+
+And make him little wiser than his Brother.
+
+I hate all Monarchs and the Thrones that they sit on,
+
+From the Hector of France to the Cully of Britain.
+
+Poor Prince, thy P— like the Boffoons at Court,
+
+It governs thee, because it makes thee sport;
+
+Tho' Safety, Law, Religion, Life lay out,
+
+'Twill break through all to make it's way to C—.
+
+Restless he rolls about from Whore to Whore,
+
+A merry Monarch, scandalous and poor.
+
+To Carewell the most Dear of all thy Dears,
+
+The sure relief of thy declining Years;
+
+Oft he bewails his fortune and her fate,
+
+To love so well, and to be lov'd so late;
+
+For when in her he settles well his T—,
+
+Yet his dull graceless Buttocks hang an Arse.
+
+This you'd believe, had I but time to tell you,
+
+The pain it costs to poor laborious Nelly,
+
+While she employs Hands, Fingers, Lips and Thighs,
+
+E'er she can raise the Member she enjoys.
+
+[[Page 172]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=92)
+
+### 1.42. Cato's Answer to Libanius, when he advis'd him to go and consult the
+Oracle of Jupiter Hamon; translated out of the 9th. Book of Lucan, begin­ning
+at quid quin. Labiene jubes, &c.
+
+By Mr. John Ayloffe.
+
+WHat should I ask my Friends which best wou'd be,
+
+To live enslav'd or thus in Arms dye free;
+
+If any force can honours price abate,
+
+Or Vertue bow beneath the Blows of Fate:
+
+If Fortune's Threats a steady Soul disdains;
+
+Or if the Joys of life be worth the pains:
+
+If it our Happiness at all import,
+
+Whether the foolish Scene be long or short:
+
+If when we do but aim at noble ends,
+
+The attempt alone immortal Fame attends:
+
+If for bad accidents which thickest press,
+
+On Merit we should like a good cause less,
+
+Or be the fonder of it for success.
+
+All this is clear, words in our Minds it strikes,
+
+Nor Hamon nor his Priest can deeper fix,
+
+Without the Clergies venial Cant and Pains,
+
+Gods never frustrate Will holds ours in Chains,
+
+Nor can we act, but what th' All-wise ordains,
+
+Who need no Voice nor perishing Word to awe
+
+Our wild Desires and give his Creatures Law;
+
+Whate'er to know, or needfull was or fit,
+
+In the wise Frame of humane Souls is writ,
+
+Both what we ought to do and what forbear,
+
+He once for all did at our Birth declare;
+
+But never did he seek out desert Lands,
+
+To bury Truth in unfrequented Sands;
+
+Or to a corner of the World withdrew
+
+Head of a Sect, or partial to a few.
+
+[[Page 173]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=92)Nature's
+vast Fabrick is his House alone,
+
+This Globe his Footstool, and high Heaven his Throne.
+
+In Earth, Air, Sea, and in who e'er excells
+
+In knowing Heads and honest Hearts he dwells.
+
+Why seek we then among these barren Sands,
+
+In narrow Shrines and Temples built with hands;
+
+Him whose dread Presence does all Places fill,
+
+Or look but in our Reason for his Will?
+
+And we e'er saw is God, in all we find
+
+Apparent print of the eternal Mind.
+
+Let flatt'ring Fools their course by Prophets steer,
+
+And always of the future live in fear:
+
+No Oracle or Dream the Crowd is told,
+
+Can make me more or less resolv'd or bold;
+
+But certain Death which equally on all
+
+Both on the Coward and the Brave must fall;
+
+This said, and turning with disdain about,
+
+He left scorn'd and Hamon to the vulgar Rout.
+
+### 1.43. The Lord Lucas's Ghost, 1687.
+
+FRom the blest Regions of eternal day,
+
+Where Heaven-born Souls imbibe th' immortal Ray,
+
+Where Liberty and Innocence reside
+
+Free from the Gripes of Tyranny and Pride,
+
+Where pious Patriots that have shed their Blood
+
+For sacred Truths and for the publick Good,
+
+Now rest secure from thence (poor Isle) I come
+
+To see thy Sorrows and bewail thy Doom,
+
+Thy sore Oppressions and thy piercing Cry,
+
+Disturbs our Rest and drowns our Harmony.
+
+When stiff-neck'd Israel did their God reject,
+
+And in his stead an Idol-King erect:
+
+Heav'ns flaming Sword he brandish'd in his hand,
+
+And dreadfull Thunder struck their sinfull Land▪
+
+[[Page 174]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=93)Till
+Penitence atton'd his sinful Ire,
+
+And quench'd the rage of his consuming fire.
+
+But this poor Land still feels the dire Effect
+
+Of his just Wrath, who his mild Reign reject.
+
+Unhappy Isle, how oft hast thou been curst
+
+With f—lish Kings; but this of all's the worst.
+
+The Fire, the Plague, the Sword, are dreadful fiends,
+
+This R—l Plague all other far transcends.
+
+From him the Fountain of all our Mischifs flows,
+
+From him the Fire, from him the War arose.
+
+With Rome he plots, Religion to o'erthrow,
+
+With France combines to enslave the People too.
+
+No Man must near his sacred Person come,
+
+Unless he be for Tyranny and Rome.
+
+With hardned Face he assaults the frail and fair,
+
+Uses his Power the Vertuous to ensnare.
+
+With Troops of Vice he conquers Liberty;
+
+Depresses Virtue, enthrones Tyranny;
+
+Threatens the Coward, fawns upon the Bold,
+
+Debauches all with Power or with Gold.
+
+Lift up thy Head, afflicted Isle, and hear,
+
+The time of thy Deliverance draws near;
+
+His full-blown Crimes will certainly pull down
+
+A slow, but sure Destruction of his Crown.
+
+His loathed Acts thy freedom's Birth shall cause,
+
+Secure Religion, produce wholesome Laws.
+
+No more the Poor, the Rich one shall devour;
+
+No more shall Right yield to oppressive Power:
+
+No more shall Rapine make the Country groan,
+
+Nor Civil Wars shall Reign within the Town:
+
+The Iron Scepter, and the Tyrant's Hand,
+
+Shall cease henceforth to bruise thy happy Land.
+
+Rome's Hocus Pocus Ministers no more
+
+Shall cause Mankind their jugling Priests t' adore:
+
+Thy Learned Clergy shall confound them all,
+
+And they, like Ely's Sons, unpitied fall.
+
+Dark Mists of Errors then must fly away,
+
+And Hell's Delusions shrink from the bright day
+
+[[Page 175]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=93)Truth's
+sacred Light in full abundance shall
+
+Upon thy Teachers and thy People fall.
+
+So when th' eternal Son was born to die
+
+For all the World, the lesser Gods did fly;
+
+His bright appearance struck their Prophets dumb,
+
+And Death, like Silence, did their Gods intomb.
+
+The tunefull Spheres with Hallelujahs rung,
+
+Heaven's mighty Host with Man one Chorus sung▪
+
+Ne'er fading Glory unto God above,
+
+Peace upon Earth, to Men eternal Love.
+
+Thus the Creation shouted with one Voice;
+
+Thus Heaven and Earth did at his Birth rejoice:
+
+And thus shall all repeat this Song again,
+
+When upon Earth he shall begin to reign.
+
+But this lov [...]d Isle shall be the chosen place,
+
+Here shall the King of Kings begin his race:
+
+Judea was his Cradle and the Tomb,
+
+Britain shall be his Throne in time to come.
+
+### 1.44. An EPITAPH.
+
+ALgernoon Sidney fills this Tomb:
+
+An Atheist, by declaiming Rome:
+
+A Rebel bold, by striving still
+
+To keep the Laws above the Will;
+
+And hindring those would pull them down,
+
+To leave no limits to a Crown:
+
+Crimes damn'd by Church and Government,
+
+Oh! whither must his Soul be sent?
+
+Of Heaven it must needs despair,
+
+[...]f that the Pope be Turn-key there;
+
+And Hell can ne'er it entertain,
+
+For there is all Tyrannick Reign;
+
+And Purgatory's such a Pretence,
+
+As ne'er deceiv'd a Man of Sense.
+
+Where goes it then? Where't ought to go,
+
+Where Pope and Devil have nought to do.
+
+[[Page 176]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=94)
+
+### 1.45. The Brazen-Head, 1688
+
+WHat strepitantious Noise is it that sounds
+
+From raised Banks, or from the lower Grounds▪
+
+From hollow Caverns, Labyrinths from far,
+
+Threatning Confusions of a dreadfull War?
+
+What dismal Cries of People in Despair,
+
+Fill the vast Region of the troubled Air?
+
+The Tune of Horror, or of what's as strange,
+
+That strikes uneven like a World of Change?
+
+With such a bold Surprize attacks my Sense,
+
+Beyond the Power of Counsel or Defence?
+
+But tho' blind Fortune rools her turning Wheel
+
+With a perpetual Motion, who can feel
+
+This Surge of Fate, push'd on with Fire and Steel?
+
+You precious Moments of serener Days!
+
+When many Victories enlarg'd my Praise,
+
+And all things ran in a most easie Stream,
+
+Back unto me their Ocean and Supreme.
+
+Are you all vanish'd by the sudden Fright,
+
+And left m' encompass'd with a dismal Night?
+
+By my own Subjects in suspicion held,
+
+Murmurings as bad, as if they had Rebell'd?
+
+You all controling Powers of things above!
+
+Whose easier Dictates guide the World by Love!
+
+Avert th' impendent Miseries, and show
+
+Us Earthly Gods to govern here below.
+
+#### 1.45.1. The Answer.
+
+'TIS well you've thought upon the chiefest Cause,
+
+Change nothing of Religion nor the Laws.
+
+Let the great Monarch this good Motto wear,
+
+Not only in his Arms but every-where.
+
+Integer Vitae, is my whole Defence;
+
+Scelerisque purus, a most strong Defence;
+
+[[Page 177]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=94) Non eget
+Mauri, that no Forces need,
+
+Jaculis nec Arcu, which contentions breed:
+
+Nec venenatis gravida Sagittis
+
+Pharetra, to make Loyal his own Cities.
+
+### 1.46. Vpon the Execrable Murder of the Ho­nourable Arthur Earl of Essex.
+
+MOrtality wou'd be too frail to hear,
+
+How ESSEX fell, and not dissolve with fear▪
+
+Did not more generous Rage take off the Blow,
+
+And by his Blood the steps to vengeance show.
+
+The Tow'r was for the Tragedy design'd,
+
+And to be slaughter'd he is first confin'd:
+
+As fetter'd Victims to the Altar go.
+
+But why must noble ESSEX perish so?
+
+Why with such fury dragg'd into his Tomb,
+
+Murther'd by Slaves, and sacrific'd to Rome?
+
+By Stealth they kill, and with a secret Stroke
+
+Silence that Voice, which charm'd when'er it spoke.
+
+The bleeding Orifice o'erflow'd the Ground,
+
+More like some mighty Deluge than a Wound.
+
+Through the large space his Blood and Vitals glide,
+
+And his whole Body might have past beside.
+
+The reeking Crimson swell'd into a Flood,
+
+And stream'd a second time in Capel's Blood.
+
+He's in his Son again to death pursu'd,
+
+An instance of the high'st Ingratitude.
+
+They then malitious Stratagems employ,
+
+With Life, his dearer. Honour to destroy;
+
+And make his Fame extinguish with his Breath,
+
+And act beyond the Cruelties of Death
+
+Here Murther is in all its shapes complete,
+
+As Lines united in their Centre meet;
+
+[[Page 178]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=95)Form'd by
+the blackest Politicks of Hell:
+
+Was Cain so dev'lish when his Brother fell?
+
+He that contrives, or his own Fate desires.
+
+Wants Courage, and for fear of Death expires;
+
+But mighty ESSEX was in all things brave,
+
+Neither to Hope, nor to Despair, a Slave.
+
+He had a Soul too Innocent and Great,
+
+To fear, or to anticipate his Fate:
+
+Yet their exalted Impudence and Guilt,
+
+Charge on himself the precious Blood they spilt.
+
+So were the Protestants some Years ago,
+
+destroy'd in Ireland without a Foe.
+
+By their own barbarous Hands the Mad men dye,
+
+And massacre themselves, they know not why:
+
+Whilst the kind Irish howl to see the Gore,
+
+And pious Catholicks their Fate deplore.
+
+If you refuse to trust erroneous Fame,
+
+Royal Mac-Ninny will confirm the same.
+
+We have lost more in injur'd Capel's Heir,
+
+Than the poor Bankrupt Age can e'er repair,
+
+Nature indulg'd him so, that there we saw
+
+All the choice Stroakes her steady Hand cou'd draw.
+
+He the Old English Glory did revive,
+
+In him we had Plantagenets alive.
+
+Grandeur and Fortune, and a vast Renown,
+
+Fit to support the Lustre of a Crown.
+
+All these in him were potently conjoyn'd,
+
+But all was too ignoble for his Mind:
+
+Wisdom and Vertue, properties Divine,
+
+Those, God-like ESSEX, were entirely thine.
+
+In this great Name he's still preserv'd alive,
+
+And will to all succeeding Times survive.
+
+With just Progression, as the constant Sun
+
+Doth move, and through its bright Ecliptick run.
+
+[[Page 179]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=95)For
+whilst his Dust does unextinguish'd lye,
+
+And his blest Soul is soar'd above the Sky,
+
+Fame shall below his parted Breath supply.
+
+### 1.47. An Essay upon Satyr:
+
+By J. Dr—en, Esquire.
+
+HOW dull, and how insensible a Beast
+
+Is Man, who yet would Lord it o'er the rest?
+
+Philosophers and Poets vainly strove
+
+In every Age the lumpish Mass to move:
+
+But those were Pedants when compar'd with these,
+
+Who know not only to instruct, but please.
+
+Poets alone found the delightful way,
+
+Mysterious Morals gently to convey
+
+In charming Numbers; so that as men grew
+
+Pleas'd with their Poems, they grew wiser too.
+
+Satyr has always shone among the rest,
+
+And is the boldest way if not the best,
+
+To tell men freely of their foulest Faults,
+
+To laugh at their vain Deeds, and vainer Thoughts.
+
+In Satyr too the Wise took different ways,
+
+To each deserving its peculiar praise.
+
+Some did all Folly with just sharpness blame,
+
+Whilst others laugh'd and scorn'd them into shame.
+
+But of these two, the last succeeded best,
+
+(As men aim rightest when they shoot in jest:)
+
+Yet if we may presume to blame our Guides,
+
+And censure those who censure all besides;
+
+In other things they justly are preferr'd,
+
+In this alone methinks the Ancients err'd;
+
+Against the grossest Follies they disclaim,
+
+Hard they pursue, but hunt ignoble Game.
+
+Nothing is easier than such blots to hit,
+
+And 'tis the Talent of each vulgar Wit;
+
+Besides, tis labour lost; for who would preach
+
+Morals to Armstrong, or dull Aston teach?
+
+'Tis being devout at Play, wise at a Ball,
+
+Or bringing Wit and Friendship to Whitehall;
+
+[[Page 180]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=96)But with
+sharp Eyes those nicer faults to find,
+
+Which lie obscurely in the wisest Mind;
+
+That little speck, which all the rest does spoil,
+
+To wash off that would be a noble Toil,
+
+Beyond the loose-writ Libels of this Age,
+
+Or the forc'd Scenes of our declining Stage;
+
+Above all Censure too, each little Wit
+
+Will be so glad to see the greater hit:
+
+Who judging better, though concern'd the most,
+
+Of such Correction will have cause to boast.
+
+In such a Satyr all wou'd seek a share,
+
+And every Fool will fancy he is there.
+
+Old Story-tellers too must pine and dye,
+
+To see their antiquated Wit laid by;
+
+Like her who miss'd her Name in a Lampoon,
+
+And grieved to find her self decay'd so soon;
+
+No common Coxcomb must be mention'd here,
+
+Not the dull train of dancing Sparks appear;
+
+Not fluttering Officers, who never fight?
+
+Of such a wretched Rabble who would write?
+
+Much less half Wits, that's more against our Rules;
+
+For they are Fops, the other are but Fools.
+
+Who would not be as silly as Dunbarr?
+
+As dull as Monmouth, rather than Sir Carr?
+
+The cunning Courtier should be slighted too,
+
+Who with dull Knavery makes so much adoe;
+
+Till the shrew'd Fool, by thriving too too fast,
+
+Like Aesop's Fox, becomes a Prey at last:
+
+Nor shall the Royal Mistresses be nam'd,
+
+Too ugly, or too easie to be blam'd;
+
+With whom each rhyming Fool keeps such a pother,
+
+They are as common that way as the other:
+
+Yet santering Charles between his beastly Brace,
+
+Mee [...]s with dissembling still in either place,
+
+Affected Humour or a painted Face.
+
+In Loyal Libels we have often told him,
+
+How one has Jilted him, the other sold him.
+
+[[Page 181]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=96)How that
+affects to laugh, how this too weep;
+
+But who can rail so long as he can sleep?
+
+Was ever Prince by two at once mis-led,
+
+False, foolish, old, ill-natur'd, and ill-bred?
+
+Earnely and Aylesbury, with all that Race
+
+Of busie Block-heads shall have here no place;
+
+At Council set as foils on D—'s score,
+
+To make that great false Jewel shine the more;
+
+Who all that while was thought exceeding wise,
+
+Only for taking pains and telling lies.
+
+But there's no medling with such nausceous Men,
+
+Their very Names have tyr'd my lazy Pen;
+
+'Tis time to quit their company, and chuse
+
+Some fitter Subject for a sharper Muse.
+
+First, let's behold the merriest Man alive,
+
+Against his careless Genius vainly strive;
+
+Quit his dear Ease, some deep design to lay,
+
+'Gainst a set time, and then forget the day:
+
+Yet he will laugh at his best Friends, and be
+
+Just as good Company as Nokes and Lee.
+
+But when he aims at Reason or at Rule,
+
+He turns himself the best in ridicule.
+
+Let him at business ne'er so earnest sit,
+
+Shew him but Mirth, and bait that Mirth with Wit;
+
+That shadow of a Jest shall be enjoy'd,
+
+Though he left all Mankind to be destroy'd:
+
+So Cat transform'd sat gravely and demure,
+
+Till Mouse appear'd and thought himself secure;
+
+But soon the Lady had him in her Eye.
+
+And from her Friend did just as odly fly;
+
+Reaching above our Nature does no good,
+
+We must fall back to our old flesh and blood.
+
+As by our little Matchi avel we find
+
+(That nimblest Creature of busie kind)
+
+His Limbs are crippled, and his Body shakes,
+
+Yet his hard Mind, which all this bustle makes,
+
+No pity of its poor Companion takes.
+
+[[Page 182]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=97)What
+Gravity can hold from laughing out,
+
+To see that drag his feeble Legs about;
+
+Like Hounds ill coupled, Jowler lugs him still
+
+Through Hedges, Ditches, and through all that's ill!
+
+'Twere Crime in any Man but him alone,
+
+To use a Body so, though 'tis one's own:
+
+Yet this false Comfort never gives' him 'o're,
+
+That whilst he creeps his vigorous thoughts can soar:
+
+Alas, that soaring to those few that know,
+
+Is but a busie groveling here below.
+
+So Men in Rapture think they mount the Sky,
+
+Whilst on the Ground th'intransed Wretches lye;
+
+So modern Fops have fancied they could fly:
+
+Whilst 'tis their Heads alone are in the Air,
+
+And for the most part building Castles there;
+
+As the new Earl with Parts deserving praise,
+
+And wit enough to laugh at his own ways;
+
+Yet loses all soft days and sensual nights,
+
+Kind Nature checks, and kinder Fortune slights;
+
+Striving against his quiet all he can,
+
+For the fine Notion of a busie Man;
+
+And what is that at best but one whose Mind,
+
+Is made to tire himself and all Mankind:
+
+For Ireland he would go, faith let him reign,
+
+For if some odd fantastick Lord would fain
+
+Carry in Trunks, and all my drudgery do,
+
+I'll not only pay him but admire him too;
+
+But is there any other Beast that lives,
+
+Who his own harm so wittily contrives?
+
+Will any Dog that has his Teeth and Stones,
+
+Refin'dly leave his Bitches and his Bones
+
+To turn a Wheel? and bark to be employ'd,
+
+While Venus is by rival Dogs enjoy'd;
+
+Yet this fond Man to get a Statesman's Name,
+
+Forfeits his Friends, his Freedom and his Fame.
+
+Though Satyr nicely writ, no humour stings
+
+But those who merit Praise in other things;
+
+[[Page 183]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=97)Yet we
+must needs this one exception make,
+
+And break our rules for folly Tropos sake;
+
+Who was too much despis'd to be accus'd;
+
+And therefore scarce deserves to be abus'd;
+
+Rais'd only by his mercenary Tongue,
+
+From railing smoothly, and from reasoning wrong:
+
+As Boys on Holy-days let loose to play,
+
+Lay waggish Traps for Girls that pass that way;
+
+Then shout to see in dirt and deep distress,
+
+Some silly Cit in flowr'd foolish Dress;
+
+So have I mighty satisfaction found,
+
+To see his tinsel reason on the Ground.
+
+To see the florid Fool despis'd (and know it)
+
+By some who scarce have words enough to show it;
+
+(For sense sits silent, and condemns for weaker
+
+The finer; nay, sometimes the wittiest Speaker)
+
+But 'tis prodigious so much Eloquence
+
+Should be acquired by such a little Sense;
+
+For words and wit did anciently agree,
+
+And Tully was no Fool though this may be:
+
+At Bar abusive, on the Bench unable,
+
+Knave on the Woolsack, Fop at Council-Table▪
+
+These are the Grievances of such Fools as wou'd,
+
+Be rather wise than honest, great than good.
+
+Some other kind of Wits must be made known,
+
+Whose harmless Errours hurt themselves alone;
+
+Excess of Luxury they think can please,
+
+And laziness call loving of their ease;
+
+To live dissolv'd in pleasures still they feign,
+
+Though their whole Life's but intermitting pain:
+
+So much of Surfeits, Head-aches, Claps are seen,
+
+We scarce perceive the little time between:
+
+Well-meaning men who makes this gross mistake,
+
+And pleasure lose only for pleasures sake;
+
+Each pleasure has its price, and when we pay
+
+Too much of pain we squander Life away.
+
+Thus D—et purring like a thoughtfull Cat,
+
+Married but wiser, Puss ne're thought of that:
+
+[[Page 184]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=98)And first
+he worried her with railing rhime,
+
+Like Pembrook's Mastives at his kindest time;
+
+Then for one night sold all his slavish Life,
+
+A teeming Widow but a barren Wife;
+
+Suckl'd by contract of such a fulsome toad,
+
+He lugg'd about the matrimonial load;
+
+Till Fortune blindly kind as well as he,
+
+Has ill restor'd him to his liberty;
+
+Which he would use in all his sneaking way,
+
+Drinking all night, and dozing all the day;
+
+Dull as Ned Howard, whom his brisker Times,
+
+Had fam'd for dulness in malicious Rhimes.
+
+Mul—ve had much adoe to scape the snare,
+
+Though learn'd in those ill Arts that cheat the Fair:
+
+For after all his vulgar Marriage-mocks,
+
+With Beauty dazled Numps was in the Stocks:
+
+Deluded Parents dry'd their weeping Eyes,
+
+To see him catch his Tartar for his Prize:
+
+Th' impatient Town waited the wisht for change,
+
+And Cuckolds smil'd in hopes of sweet revenge;
+
+Till Petworth Plot made us with sorrow see,
+
+As his Estate his Person too was free:
+
+Him no soft thoughts, no gratitude could move,
+
+To Gold he fled from Beauty and from Love;
+
+Yet failing there he keeps his freedom still,
+
+Forc'd to live happily against his will:
+
+'Tis not his fault if too much wealth and power,
+
+Break not his boasted quiet every hour.
+
+And little Sid—y for Simile renown'd,
+
+Pleasures has always sought but never found:
+
+Though all his Thoughts on Wine and Women fall,
+
+His are so bad sure he ne'er thinks at all.
+
+The Flesh he lives upon his rank and strong,
+
+His Meat and Mistresses are kept too long;
+
+But sure we all mistake this pious Man,
+
+Who mortifies his Person all he can:
+
+What we uncharitably take for Sin,
+
+Are only Rules of this old Capuchin;
+
+[[Page 185]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=98)For never
+Hermit under grave pretence,
+
+Has liv'd more contrary to common sense;
+
+And 'tis a miracle we may suppose,
+
+No Nastiness offends his skilfull Nose:
+
+Which from all stink can with peculiar art
+
+Extract Perfume, and Essence, from a F—t;
+
+Expecting Supper is his great delight,
+
+He toils all day but to be drunk at night:
+
+Then o'er his Cups this Night-bird chirping sits,
+
+Till he takes Hewet, and Jack Hall for Wits.
+
+Roch—r I despise for his meer want of wit,
+
+Though thought to have a Tail and Cloven Feet;
+
+For while he mischief means to all Mankind,
+
+Himself alone the ill effects does find;
+
+And so like Witches justly suffers shame,
+
+Whose harmless malice is so much the same.
+
+False are his words, affected is his wit,
+
+So often he does aim, so seldom hit;
+
+To every face he cringes while he speaks,
+
+But when the back is turn'd the head he breaks.
+
+Mean in each Action, lew'd in every Limb,
+
+Manners themselves are mischievous in him:
+
+A proof that chance alone makes every Creature,
+
+A very Killigrew without good Nature.
+
+For what a Bessus has he always liv'd,
+
+And his own Kickings notably contriv'd:
+
+For (there's the folly that still mixt with fear)
+
+Cowards more blows than any Hero bear;
+
+Of fighting Sparks some may her pleasures say,
+
+But 'tis a bolder thing to run away:
+
+The World may well forgive him all his ill,
+
+For every Fault does prove his penance still:
+
+Falsly he falls into some dangerous noose,
+
+And then as meanly labours to get loose;
+
+A Life so infamous is better quitting,
+
+Spent in base injury and low submitting.
+
+I'd like to have left out his Poetry;
+
+Forgot by all almost as well as me.
+
+[[Page 186]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=99)Sometimes
+he has some humour, never wit,
+
+And if it rarely, very rarely hit,
+
+'Tis under so much nasty rubbish laid,
+
+To find it out's the Cinder-woman's trade;
+
+Who for the wretched remnants of a fire,
+
+Must toil all day in ashes and in mire:
+
+So lewdly dull his idle Works appear,
+
+The wretched Texts deserve no Comments here;
+
+Where one poor Thought sometimes left all alone,
+
+For a whole Page of dulness to attone:
+
+'Mongst forty bad, one tolerable line,
+
+Without expression, fancy, or design.
+
+How vain a thing is Man, and how unwise,
+
+Even he would himself the most despise;
+
+I who so wise and humble seem to be,
+
+Now my own Vanity and Pride can't see.
+
+While the World's nonsense is so sharply shewn,
+
+We pull down others but to raise our own;
+
+That we may Angels seem, we paint them Elves,
+
+And are but Satyrs to set up our selves.
+
+I who have all this while been finding fault,
+
+Even with my Master, who first Satyr taught;
+
+And did by that describe the Task so hard,
+
+It seems stupendious and above reward.
+
+Now labour with unequal force to climb
+
+That lofty Hill, unreacht by former time;
+
+'Tis just that I should to the bottom fall,
+
+Learn to write well, or not to write at all.
+
+### 1.48. Vpon an undeserving and ungratefull Mistress, whom he could not help
+loving.  
+Being a Paraphrastical Translation of Ovid's Tenth Elegy. Lib. 3\. Amorum.
+
+I Have to long endur'd her guilty Scorn,
+
+Too long her falseness my fond Love has born;
+
+[[Page 187]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=99)My
+freedom and my wits at length I claim;
+
+Be gone base Passion, dye unworthy Flame;
+
+My Life's sole torment and my Honour's stain,
+
+Quit this tir'd Heart, and end the lingring pain.
+
+I have resolv'd I'le be my self once more
+
+Long banish'd Reason to her right restore,
+
+And throw off Love's tyrannick sway, that still en­croaching power.
+
+My growing shame I see at last, tho' late,
+
+And my past Follies both despise and hate:
+
+Hold out my Heart, nor let her Beauty move,
+
+Be constant in thy Anger as thy Love:
+
+My present pains shall give thee future ease,
+
+As bitter Potions cure, tho' they displease.
+
+'Tis for this end, for freedom more assur'd,
+
+I have so long such shamefull Chains endur'd.
+
+Like a scorn'd Slave before her door I lay,
+
+And proud repulses suffer'd every day;
+
+Without complaining, banish'd from her sight,
+
+On the cold ground I spent the tedious Night;
+
+While some glad Rival in her Ams did lye,
+
+Glutted with Love and surfeited with Joy.
+
+Thence have I seen the tir'd Adulterer come,
+
+Dragging a weak exhausted Carkass home.
+
+And yet this Curse a Blessing I esteem,
+
+Compar'd with that of being seen by him;
+
+By him descry'd attending in the Street,
+
+May my foes only such Disgraces meet.
+
+What toyl and time has this false Woman cost?
+
+How much of unreturning Youth has for her sake been lost?
+
+How long did I, where fancy led or fate;
+
+Unthank'd unminded, on her Rambles wait?
+
+Her Steps, her Looks were still by mine pursu'd,
+
+And watch'd by me she charm'd the gazing Crowd.
+
+My diligent Love and over-fond Desire,
+
+Has been the means to kindle others Fire.
+
+What need I mention every little Wrong,
+
+Or curse the softness of her soothing Tongue.
+
+[[Page 188]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=100)The
+private Love-signs that in publick pass,
+
+Between her and some common staring Ass.
+
+The Coquet Art her faithless Heart allows,
+
+Or tax her with a thousand broken Vows:
+
+I hear she's sick, and with wild hast I run,
+
+Officious Hast, and Visit importune.
+
+Entring, my Rival on her Bed I see,
+
+The politick Sickness only was to me.
+
+With this and more oft has my Love been try'd,
+
+Some other Coxcomb let her now provide,
+
+To bear her Jilting and maintain her Pride;
+
+My batter'd Bark has reach'd the Port at last,
+
+Nor fears again the Billows it has past.
+
+Cease your soft Oaths and that still ready show'r,
+
+Those once dear words have lost their charming pow'r.
+
+In vain you flatter, I am now no more,
+
+That easie Fool you found me heretofore.
+
+Anger and Love a doubtfull fight maintain,
+
+Each strives by turns my staggering heart to gain:
+
+But what can long against Lov's force contend,
+
+My love I fear will conquer in the end;
+
+I'll do what e'er I can to hate you still,
+
+And if I Love, know 'tis against my Will.
+
+So the Bull hates the Ploughman's Yoke to wear,
+
+Yet what he hates, his stubborn Neck must bear.
+
+Her manners oft my Indignation raise,
+
+But straight her Beauty the short storm allays.
+
+Her Life I loath, her Person I adore;
+
+Much I contemn her, but I love her more.
+
+Both with her and without her I'm in pain,
+
+And rage to lose what I should blush to gain:
+
+Uncertain, yet at what my wishes aim;
+
+Loath to abandon Love or part with Fame:
+
+That Angel-form ill suits a form all sin;
+
+Ah! be less fair without, or more within.
+
+When these soft Smiles my yielding Powers invade,
+
+In vain I call her Vices to my aid;
+
+[[Page 189]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=100)Tho' now
+disdaining the disguise of Art,
+
+In my esteem her Conduct claims no part,
+
+Her Face a natural right has to my Heart.
+
+No Crime's so black as to deform her Eyes,
+
+Those Clouds must scatter when these Suns shall rise.
+
+Enough, fair Conqueror, the day's your own,
+
+See at your Feet, Love's vanquish'd Rebel thrown;
+
+By these dear Joys, (Joys dear tho' they are past)
+
+When in the kindest Links of Love we held each other fast;
+
+By th'injur'd Gods your false Oaths did prophane
+
+By all those Beauties that support and feed your proud disdain;
+
+By that lov'd Face from the whole Sex Elect,
+
+To which I all my Vows and Pray'rs direct,
+
+And equal with a Power divine respect:
+
+By every feature of a turn so fine,
+
+And by those Arms that charm and dazle mine.
+
+Spare from new triumphs, cherish without art,
+
+This over-faithfull, this too tender Heart:
+
+A Heart that was respectfull while it strove,
+
+But yielding is all blind impetuous Love:
+
+Live as you please, torment me as you will,
+
+Still are you fair, and I must love you still.
+
+Think only, if with just and clement Reign,
+
+A willing Subject you wou'd chuse to gain,
+
+Or drag a conquer'd Vassal in a Chain;
+
+But to what ever Conduct you incline,
+
+Do suffer, be what my worse fears divine,
+
+You are, you ought, you must, you shall be mine,
+
+Reason for ever, the vain strife give o'er,
+
+Thy cruel Wisdom I can bear no more;
+
+Let me indulge this one soft Passion's rule,
+
+Curb vexing Sense and be a happy Fool;
+
+With full spread Sails the tempting Gale obey,
+
+That down Love's Current drives me fast away.
+
+[[Page 190]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=101)
+
+### 1.49. The Town Life.
+
+ONce how I doated on this Jilting Town,
+
+Thinking no Heaven was out of London known;
+
+Till I her Beauties artificial found,
+
+Her pleasure's but a short and giddy round;
+
+Like one who has his Phillis long enjoy'd
+
+Grown with the fulsom repetition cloy'd:
+
+Love's Mists then vanish from before his Eyes,
+
+And all the Ladies Frailties he descries:
+
+Quite surfeited with Joy, I now retreat
+
+To the fresh Air, a homely Country Seat,
+
+Good Hours, Books, harmless Sports, & wholsom Meat.
+
+And now at last I have chose my proper Sphere,
+
+Where Men are plain and rustick, but sincere.
+
+I never was for Lies not Fawning made,
+
+But call a Wafer Bread, and Spade a Spade.
+
+I tell what merits got Lord — his place,
+
+And laugh at marry'd M—ve to his Face.
+
+I cannot vere with ev'ry change of State,
+
+Nor flatter Villains, tho' at Court they're great:
+
+Nor will I prostitute my Pen for Hire,
+
+Praise Cromwell, damn him, write the Spanish Fryar:
+
+A Papist now, if next the Turk should reign,
+
+Then piously transverse the Alcoran.
+
+Methinks I hear one of the Nation cry,
+
+Be Christ, this is a Whiggish Calumny,
+
+All Virtues are compriz'd in Loyalty.
+
+Might I dispute with him, I'd change his Note,
+
+I'de silence him, that is, he'd cut my Throat.
+
+This powerfull way of reasoning never mist,
+
+None are so possitive but then desist,
+
+As I will, e'er it come to that extreme;
+
+Our Folly, not our Misery is our Theam.
+
+Well may we wonder what strange Charm, what Spell,
+
+What mighty Pleasures in this London dwell,
+
+[[Page 191]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=101)That Men
+renounce their Ease, Estates and Fame,
+
+And drudge it here to get a Fopling's Name.
+
+That one of seeming sense advanc'd in years,
+
+Like a Sir Courtly Nice in Town appears:
+
+Others exchange their Land for tawdry Cloaths,
+
+And will in spight of Nature pass for Beauxs.
+
+Indulgent Heaven, who ne'er made ought in vain,
+
+Each Man for something proper did ordain;
+
+Yet most against their Genius blindly run,
+
+The wrong they chuse, and what they're made for shun.
+
+Thus Ar—n thinks for State affairs he's fit;
+
+Hewit for Ogling, Chomly for a Wit:
+
+But 'tis in vain, so wise, these Men to teach,
+
+Besides the King's learn'd Priests should only preach.
+
+We'll see how Sparks the tedious day employ,
+
+And trace them in their warm pursuit of Joy;
+
+If they get drest (with much ado) by Noon,
+
+In quest of Beauty to the Mall they run,
+
+Where (like young Boys) with Hat in hand they try
+
+To catch some flutt'ring gawdy Butterfly.
+
+Thus Gray pursues the Lady with a Face,
+
+Like forty more, and with the same success,
+
+Whose Jilting Conduct in her Beauty's spite,
+
+Loses her fame, and gets no pleasure by't.
+
+The secret Joys of an Intrigue she slights,
+
+And in an Equipage of Fools delights:
+
+So some vain Heroes for a vain command,
+
+Forfeit their Conscience, Liberty and Land.
+
+But see high Mass is done, in Crowds they go,
+
+What, all these Irish and Mall Howard too?
+
+'Tis very late, to Lockets let's away,
+
+The Lady Frances comes, I will not stay.
+
+Expecting Dinner, to discourse they fall,
+
+Without respect of Morals censuring all:
+
+The Nymph they lov'd, the Friend they hug'd before▪
+
+He's a vain Coxcomb, she's a common Whore:
+
+No obligation can their Jests prevent;
+
+Wit, like unruly Wind in Bowels pent,
+
+Torments the bearer till he gives it vent;
+
+[[Page 192]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=102)Tho'
+this offends the Ear as that the Nose,,
+
+No matter, 'tis for Ease and out it goes.
+
+But what they talk (too nauseous to rehearse)
+
+I leave for the late Ballad-writers Verse.
+
+After a dear bought Meal they hast away,
+
+To a desert of Ogling at the Play:
+
+What's here which in the Box's front I see,
+
+Deform'd old Age, diseases Infamy.
+
+Warwick, North, Poget, Hinton, Martin, Willis,
+
+And that Epitome of Lewdness, Elly's:
+
+I'll not turn that way, but observe the Play,
+
+Pox▪ 'tis a tragick Farce of Banks to day:
+
+Besides some Irish Wits the Pit invade
+
+With a worse Din than Cat-call Serenade:
+
+I must be gone, let's to Hide-Park repair,
+
+If not good Company, we'll find good Air:
+
+Here with effected Bow and Side-Glass look,
+
+The self-conceited Fool is easily took.
+
+There comes a Spark with six in Tarsels drest,
+
+Charming the Ladies Hearts with dint of Beast:
+
+Like Scullers on the Thames with frequent bow,
+
+They labour, tugg, and in their Coaches row,
+
+To meet some fair one, still they wheel about,
+
+Till she retires, and then they hurry out.
+
+But next we'll visit where the Beauxs in order come,
+
+('Tis yet too early for the drawing-room)
+
+Here Nowels and Olivio's abound;
+
+But one plain Manly is not to be found:
+
+Flattring the present, the absent they abuse,
+
+And vent their Spleen and Lies, pretending News:
+
+Why, such a Lady's pale and wou'd not dance;
+
+This to the Country gone, and that to France:
+
+Whose marry'd, slipp'd away, or mist at Court,
+
+Others Misfortunes thus offord them sport:
+
+A new Song is produc'd, the Author guest,
+
+The Verses and the Poet made a Jest.
+
+[[Page 193]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=102)Live
+Laureat E—er, in whom we see,
+
+The English can excell Antiquity.
+
+Dryden writes Epick, Wosley Odes in vain,
+
+Virgil and Horace still the chief maintain:
+
+He with his matchless Poems has alone,
+
+Bavius and Mevius in their way out-done.
+
+But now for Cards, and play they all propose,
+
+While I who never in good breeding lose,
+
+Who cannot civilly sit still and see
+
+The Ladies pick my Purse and laugh at me,
+
+Pretending earnest business drive to Court,
+
+Where those who can do nothing else resort.
+
+The English must not seek preferment there,
+
+For Mack's and O's all places destin'd are.
+
+No more we'll send our Youth to Paris now,
+
+French Principles and Breeding once wou'd do:
+
+They for improvement must to Ireland sail,
+
+The Irish Wit and Language now prevail.
+
+But soft my Pen, with care this Subject touch,
+
+Stop where you are, you soon may write too much.
+
+Quite weary with the hurry of the day,
+
+I to my peacefull home direct my way;
+
+While some in Hack and Habit of Fatigue,
+
+May have (but oft pretend) a close Intrigue;
+
+Others more open to the Tavern scower,
+
+Calling for Wine, and every Man his Whore,
+
+As safe as those with quality perhaps,
+
+For N—rgh says great Ladies can give Claps:
+
+Somewhere they're kept, and many where they keep;
+
+Most see an easie Mistress e'er they Sleep.
+
+Thus Sparks may dress, dance, play, write, fight, get drunk,
+
+But all the mighty Pother ends in Punk.
+
+[[Page 194]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=103)
+
+### 1.50. A Satyr on the modern Translators. Odi imitatores servum pecus, &c.
+
+By Mr. P—r.
+
+SInce the united cunning of the Stage,
+
+Has balk'd the hireling Drudges of the Age:
+
+Since Betterton of late so thrifty's grown,
+
+Revives old Plays, or wisely acts his own:
+
+Thumb'd Rider with a Catalogue of Rhimes,
+
+Makes the compleatest Poet of our times:
+
+Those who with nine months toil had spol'd a Play,
+
+In hopes of eating at a full Third day,
+
+Justly despairing longer to sustain
+
+A craving Stomach from an empty Brain,
+
+Have left Stage-practice, chang'd their old Vocations,
+
+Attoning for bad Plays, with worse Translations,
+
+And like old Sternhold with laborious spite,
+
+Burlesque what nobler Muses better write:
+
+Thus while they for their causes only seem
+
+To change the Channel, they corrupt the Stream.
+
+So breaking Vintners to increase their Wine,
+
+With nauseous Drugs debauch the generous Vine:
+
+So barren Gipsies for recruit are said,
+
+With Strangers Issue to maintain the Trade;
+
+But lest the fair Bantling should be known,
+
+A daubing Walnut makes him all their own.
+
+In the head of this Gang too John Dryden appears,
+
+But to save the Town-censure and lessen his Fears,
+
+Joyn'd with a Spark whose title makes me civil,
+
+For Scandalum Magnatum is the Devil;
+
+Such mighty thoughts from Ovid's Letters flow,
+
+That the Translation is a work for two;
+
+Who in one Copy joyn'd their shame have shewn,
+
+Since T—e could spoil so many tho' alone:
+
+My Lord I thought so generous would prove,
+
+To scorn a Rival in affairs of Love:
+
+[[Page 195]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=103)But well
+he knew his teeming pangs were vain,
+
+Till Midwife Dryden eas'd his labouring Brain;
+
+And that when part of Hudibras's Horse
+
+Jogg'd on, the other would not hang an Arse;
+
+So when fleet Jowler hears the joyfull hallow,
+
+He drags his sluggish Mate, and Tray must follow.
+
+But how could this learn'd brace employ their time?
+
+One construed sure, while th' other pump'd for Rhime:
+
+Or it with these, as once at Rome, succeeds,
+
+The Bibulus subscribes to Caesar's Deeds:
+
+This, from his Partners acts ensures his Name,
+
+Oh sacred thirst of everlasting Fame!
+
+That could defile those well-cut Nails with Ink,
+
+And make his Honour condescend to think:
+
+But what Excuse, what Preface can attone,
+
+For crimes which guilty Bayes has singly done?
+
+Bayes, whose Rose Alley Ambuscade injoyn'd,
+
+To be to Vices which he practic'd kind,
+
+And brought the venom of a spitefull Satyr,
+
+To the safe innocence of a dull Translator.
+
+Bayes, who by all the Club was thought most fit
+
+To violate the Mantuan Prophet's wit,
+
+And more debauch what loose Lucretius writ.
+
+When I behold the rovings of his Muse,
+
+How soon Assyrian Ointments she would lose
+
+For Diamond Buckles sparkling at their Shoes.
+
+When Virgil's height is lost, when Ovid soars,
+
+And in Heroics Canace deplores
+
+Her Follies louder than her Father roars,
+
+I'd let him take Almanzor for his Theme;
+
+In lofty Verses make Maximin blaspheme,
+
+Or sing in softer Airs St. Katharine's Dream.
+
+Nay, I could hear him damn last Ages Wit,
+
+And rail at Excellence he ne'er can hit;
+
+His Envy shou'd at powerfull Cowley rage,
+
+And banish Sense with Johnson from the Stage:
+
+His Sacrilege should plunder Shakespear's Urn,
+
+With a dull Prologue make the Ghost return
+
+[[Page 196]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=104)To bear
+a second Death, and greater pain,
+
+While the Fiend's words the Oracle prophane;
+
+But when not satisfied with Spoils at home,
+
+The Pyrate wou'd to foreign Borders roam;
+
+May he still split on some unlucky Coast,
+
+And have his Works or Dictionary lost;
+
+That he may know what Roman Authors mean,
+
+No more than does our blind Translatress Behn.
+
+The Female VVit; who next convicted stands,
+
+Nor for abusing Ovid's Verse but Sand's:
+
+She might have learn'd from the ill borrow'd Grace,
+
+(VVhich little helps the ruin of her Face)
+
+T [...]at VVit, like Beauty, triumphs o'er the Heart,
+
+VVhen more of Nature's seen and less of Art:
+
+Nor strive in Ovid's Letters to have shown,
+
+As much of Skill, as Lewdness in her own:
+
+Then let her from the next inconstant Lover,
+
+Take a new Copy for a second Rover:
+
+Describe the cunning of a jilting VVhore,
+
+From the ill Arts her self has us'd before;
+
+Thus let her write, but Paraphrase no more.
+
+R—mer to Crambo privilege does claim,
+
+Not from the Poet's Genius, but his Name;
+
+VVhich Providence in contradiction meant,
+
+Though he Predestination coul'd prevent,
+
+And with bold dulness translate Heavens intent.
+
+Rash Man! we paid thee Adoration due,
+
+That ancient Criticks were excell'd by you:
+
+Each little VVit to your Tribunal came
+
+To hear their doom, and to secure their Fame:
+
+But for respect you servilely sought praise,
+
+Slighted the Umpire's Palm to court the Poet's Bays;
+
+VVhile wise Reflections and a grave Discourse,
+
+Declin'd to Zoons a River for a Horse.
+
+So discontented Pemberton withdrew,
+
+From sleeping Judges to the noisie Crew;
+
+Chang'd awefull Ermin for a servile Gown,
+
+And to an humble fawning smooth'd his frown:
+
+[[Page 197]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=104)The
+Simile will differ here indeed;
+
+You cannot versify, though he can plead.
+
+To painfull Creech my last advice descends,
+
+That he and Learning would at length be Friends;
+
+That he'd command his dreadfull forces home,
+
+Not be a second Hannibal to Rome.
+
+But since no Counsel his Resolves can bow;
+
+Nor may thy fate, O Rome, resist his Vow;
+
+Debarr'd from Pens as Lunaticks from Swords,
+
+He should be kept from waging VVar with words.
+
+VVords which at first like Atoms did advance,
+
+To the just measure of a tunefull Dance,
+
+And jumpt to form, as did his worlds, by chance.
+
+This pleas'd the Genius of the vicious Town;
+
+The VVits confirm'd his Labours with renown,
+
+And swear the early Atheist for their own.
+
+Had he stopt here—but ruin'd by success,
+
+VVith a new Spawn he fill'd the burthen'd Press,
+
+Till, as his Volumes swell'd, his fame grew less.
+
+So Merchants flattered with increasing gain,
+
+Still tempt the falshood of the doubtfull Main;
+
+So the first running of the lucky Dice,
+
+Does eager Bully to new Bets intice;
+
+Till Fortune urges him to be undone,
+
+And Ames-Ace loses what kind Sixes won.
+
+VVitness this truth Lucretia's wretched Fate,
+
+VVhich better have I heard my Nurse relate;
+
+The Matron suffers Violence again,
+
+Not Tarquin's Lust so vile as Creech's Pen;
+
+Witness those heaps his Mid-night Studies raise,
+
+Hoping to Rival Ogilby in Praise:
+
+Both writ so much, so ill, a doubt might rise,
+
+Which with most Justice might deserve the Prize;
+
+Had not the first the Town with Cutts appeas'd,
+
+And where the Poem fail'd, the Picture pleas'd.
+
+Wits of a meaner Rank I wou'd rehearse,
+
+But will not plague your Patience nor my Verse:
+
+[[Page 198]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=105)In long
+Oblivion may they happy lie,
+
+And with their Writings may their Folly die.
+
+Now why should we poor Ovid yet pursue,
+
+And make his very Book an Exile too,
+
+In words more barbarous than the place he knew?
+
+If Virgil labour'd not to be translated,
+
+Why suffers he the only thing he hated?
+
+Had he foreseen some ill officious Tongue,
+
+Wou'd in unequal Strains blaspheme his Song;
+
+Nor Prayers, nor Force, nor Fame shou'd e'er prevent
+
+The just Performance of his wise Intent:
+
+Smiling h'had seen his Martyr'd Work expire,
+
+Nor live to feel more cruel Foes than Fire.
+
+Some Fop in Preface may those Thefts excuse,
+
+That Virgil was the draught of Homer's Muse:
+
+That Horace's by Pindar's Lyre was strung,
+
+By the great Image of whose Voice he sung;
+
+They found the Mass, 'tis true, but in their Mould
+
+They purg'd the drossy Oar to current Gold:
+
+Mending their Pattern, they escap'd the Curse;
+
+Yet had they not writ better, they'd writ worse.
+
+But when we bind the Lyric up to rhime,
+
+And lose the Sense to make the Poem chime:
+
+When from their Flocks we force Sicilian Swains,
+
+To ravish Milk-maids in our English Plains;
+
+And wandring Authors, e'er they touch our shore,
+
+Must, like our Locust Hugonots, be poor;
+
+I'de bid th' importing Club their pains forbear,
+
+And traffick in our own, tho' homely Ware,
+
+Whilst from themselves the honest Vermin spin,
+
+I'de like the Texture, tho' the Web be thin;
+
+Nay, take Crown's Plays, because his own, for wit;
+
+And praise what D'urfey, not translating, writ.
+
+[[Page 199]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=105)
+
+### 1.51. The Parliament-House to be Lett, 1678.
+
+1.
+
+HEre's a House to be lett,
+
+For C—s S—d swore,
+
+On Portsmouth's bare Arse,
+
+He wou'd shut up the Door.
+
+2.
+
+Inquire at the Lodgings
+
+Next Door to the Pope,
+
+At Duke Lauderdale's Head,
+
+With a Cravat of Rope.
+
+3.
+
+And there you will hear
+
+How next he will let it,
+
+If you pay the old Price
+
+You may certainly get it.
+
+4.
+
+He holds it in Tail,
+
+From his Father, who fast
+
+Did keep it long shut,
+
+But paid for't at last.
+
+### 1.52. Advice to Apollo, 1678.
+
+I'VE heard the Muses were still soft and kind,
+
+To Malice Foes, to gentle Love inclin'd;
+
+And that Parnassus Hill was fresh and gay,
+
+Crown'd still with Flowers, as in the fairest May;
+
+That Helicon with pleasures charm'd the Soul,
+
+Could Anger tame and restless care controul:
+
+That bright Apollo still delights in Mirth,
+
+Chearing (each welcome day) the drowsie Earth;
+
+Then whence comes Satyr, is it Poetry?
+
+O great Apollo, God of Harmony!
+
+[[Page 200]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=106)Far be't
+from thee, this cruel Art t'inspire,
+
+Then strike these VVretches who thus dare aspire,
+
+To tax thy gentleness, making thee seem
+
+Malicious as their Thought, harsh as their Theme.
+
+First, strike Sir Carr, that Knight o'th' wither'd Face,
+
+VVho (for th' reversion of a Poet's place)
+
+VVaits on Melpomene, and sooths her Grace;
+
+That angry miss alone he strives to please,
+
+For fear the rest should teach him wit and ease,
+
+And make him quit his lov'd laborious walks,
+
+VVhen sad or silent o'er the room he stalks,
+
+And strives to write as wisely as he talks.
+
+Next with a gentle Dart strike Dryden down,
+
+VVho but begins to aim at the Renown
+
+Bestow'd on Satyrists, and quits the Stage,
+
+To lash the witty Follies of the Age.
+
+Strike him but gently that he may return,
+
+VVrite Plays again, and his past Follies mourn.
+
+He had better make Almanzor give offence
+
+In fifty Lines without one word of Sense,
+
+Than thus offend and wittily deserve,
+
+VVhat will ensue with his lov'd Muse to starve.
+
+D—set writes Satyr too, but writes so well,
+
+O great Apollo! let him still rebell,
+
+Pardon a Muse which does so far excell:
+
+Pardon a Muse which does with Art support,
+
+Some drowsie VVit in our unthinking Court.
+
+But M—ve strike with many angry Dart,
+
+He who profanes thy Name offends thy Art,
+
+Ne'er saw thy Light, yet would usurp thy power,
+
+And govern VVit, and be its Emperour.
+
+In see with Dryden to be counted wise,
+
+VVho tells the VVorld he has both VVit and Eyes.
+
+Rochester's easie Muse does still improve,
+
+Each hour thy little wealthy VVorld of Love,
+
+(That VVorld in which each Muse is thought a Queen)
+
+That he must be forgiven in Charity then;
+
+[[Page 201]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=106)Though
+his sharp Satyrs have offended thee;
+
+In charity to Love who will decay,
+
+When his delightfull Muse (its only stay)
+
+Is by thy power severely ta'en away.
+
+Forbear (then) civil Wars, and strike not down
+
+Love, who alone supports thy tottering Crown.
+
+But sawcy Sh—ard with the affected train,
+
+Who Satyrs write, yet scarce can spell their Name,
+
+Blast, great Apollo, with perpetual shame.
+
+### 1.53. The Duel of the Crabs:
+
+By the Lord B—st.
+
+IN Milford-lane near to St. Clement's Steeple,
+
+There liv'd a Nymph kind to all Christian People.
+
+A Nymph she was, whose comely Mien and Stature,
+
+Whose height of Eloquence and every Feature,
+
+Struck through the heart of City and of Whitehall,
+
+And when they pleas'd to court her, did 'em right all▪
+
+Under her beauteous Bosom their did lie
+
+A Belly smooth as Ivory.
+
+Yet Nature to declare her various Art,
+
+Had plac'd a Tuft in one convenient part,
+
+No Park with smoothest Lawn or highest Wood,
+
+Cou'd e'er compare with this admir'd abode.
+
+Here all the Youth of England did repair,
+
+To take their pleasure and unease their care.
+
+Here the distressed Lover that had born
+
+His haughty Mistress Anger or her Scorn
+
+Came for Relief; and in this pleasant Shade,
+
+Forgot the former, and this Nymph obey'd.
+
+And yet what corner of the World is found,
+
+Where pain or pleasure does not still surround?
+
+One wou'd have thought that in this shady Grove,
+
+Nought cou'd have dwelt but Quiet, Peace and Love.
+
+But Heaven directed otherwise; for here,
+
+I'th' midst of plenty bloody Wars appear:
+
+The Gods will frown where ever they do smile;
+
+The Crocodile infests the fertil Soil:
+
+[[Page 202]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=107)Lyons
+and Tygers on the Lybian Plains,
+
+Forbid all pleasures to the fearfull Swains:
+
+Wild Beasts in Forests do the Hunters fright,
+
+They fear their ruin 'midst of their delight.
+
+Thus in the shade of this dark silent Bower,
+
+Strength strives with strength, & power vies with power.
+
+Two mighty Monsters did this Wood infest,
+
+And struck such awe and terror in the rest,
+
+That no Sicilian Tyrant e'er could boast
+
+He e'er with greater rigour rul'd the roast.
+
+Each had his Empire, which he kept in awe,
+
+Was by his will obey'd, allow'd no Law:
+
+Nature so well divided had their states,
+
+Nought but Ambition cou'd have chang'd their fates:
+
+For 'twixt their Empire, stood a briny Lake,
+
+Deep as the Poets do the Centre make;
+
+But dire Ambition does admit no bounds,
+
+There are no limits to aspiring Crowns.
+
+The Spaniard by his Europe Conquests bold,
+
+Sail'd o'er the Ocean for the Indian's Gold:
+
+The Carthaginian Hero did not stay,
+
+Because he met vast Mountains in his way:
+
+He pass'd the Alps like Mole-hills; such a Mind
+
+As thinks on Conquest will be unconfin'd.
+
+Both with these haughty thoughts one course to tend,
+
+To try if this vast Lake had any end:
+
+Where finding Countries yet without a Name,
+
+They might by Conquests get eternal Fame.
+
+After long Marches both their Armies tired,
+
+At length they find the place so much desired:
+
+Where in a little time each does descry,
+
+The glymps of an approaching Enemy.
+
+They in this sight do equal pleasure prove,
+
+As we should do in well rewarded Love:
+
+Blood-thirsty Souls, whose only perfect Joy,
+
+Consists in what their fury can destroy.
+
+And now both Armies do prepare to fight,
+
+And each of th'other unto War incite;
+
+[[Page 203]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=107)In vain,
+alas, for all their force and strength
+
+Was quite consumed by their Marches length;
+
+But the great Chiefs, impatient of delay,
+
+Resolve by single fight to try the day.
+
+Each does the other with Contempt defie,
+
+Resolv'd to conquer, or resolv'd to die;
+
+Both Armies are commanded to withdraw,
+
+In expectation who should give 'em Law;
+
+While the amaz'd Spectators full of care,
+
+Hope for a better or worse Tyrant fear:
+
+And now these Princes meet, now they engage
+
+With all their chiefest Strength and highest Rage:
+
+Now with their Instruments of Wrath they push,
+
+As Hills in Earthquakes on each other rush;
+
+Where their Militia lies is still in doubt,
+
+Whether like Elephants upon their Snout;
+
+Or if upon their Heads vast Horns they wore,
+
+Or if they fought with Tusks like the wild Boar.
+
+Some Greshamites perhaps, with help of Glass,
+
+And poring long upon't, may chance to guess;
+
+But no Tradition has inform'd our Age,
+
+What were their chiefest instruments of Rage.
+
+With small or no advantage they proceed,
+
+Both are much bruised, and their Wounds do bleed:
+
+Both keep their Anger, both do lose their force,
+
+Both get the better, neither get the worse;
+
+Justice her self might put into each Scale
+
+One of these Princes, and see neither fall:
+
+Spurr'd on by Fury, now they both provide,
+
+To let one grapple, this great cause decide;
+
+Joyning, they strive, and such resistance make,
+
+Both fall together in the Briny Lake,
+
+Where from the trouble of a tottering Crown,
+
+Each mighty Monarch is laid gently down:
+
+Both Armies at this sight amazed stand,
+
+In doubt, who shall obey, who shall command:
+
+In this extremity they both agree,
+
+A Common-wealth their Government shall be.
+
+[[Page 204]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=108)
+
+### 1.54. Instructions to his Mistress how to behave her self at Supper with
+her Husband, 1682.
+
+SInce to restrain our Joys, that ill, but rude
+
+Familiar thing, your Husband, will intrude;
+
+For a just judgment, may th' unwelcome Guest,
+
+At this Night's lucky Supper eat his last;
+
+O how shall I with Patience e'er stand by,
+
+While my Corinna gives another Joy;
+
+His wanton hands in her soft Bosom warms,
+
+And folds about her Neck his clasping Arms.
+
+O tortering Sight; but since it must be so,
+
+Be kind, and learn what 'tis I'de have you do.
+
+Come first be sure; for though the place may prove,
+
+Unfit for all we wish, you'll show me Love:
+
+When call'd to Table, you demurely go,
+
+Gently in passing, touch my hand or so:
+
+Mark all my Actions, well observe my Eye,
+
+My speaking Signs, and to each Sign reply.
+
+If I do ought of which you would complain,
+
+Upon your Elbow languishingly lean:
+
+But if you're pleas'd with what I do or say,
+
+Steal me a Smile, and snatch your Eyes away:
+
+When you reflect on our past secret Joys,
+
+Hold modestly your Fan before your Eyes;
+
+And when the nauseous Husband tedious grows,
+
+Your lifted Hands with scornfull Anger close,
+
+As if you call'd for vengeance from above,
+
+Upon that dull impediment to Love:
+
+A thousand skilfull ways we'll find to show
+
+Our mutual Love, which none but we shall know.
+
+I'll watch the parting Glass where-e'er you drink,
+
+And where your Lips have touch'd it, kiss the Brink:
+
+Like still the dish that in your reach does stand,
+
+Taking the Plate, I so may feel your hand.
+
+But what he recommends to you to eat,
+
+Coyly refuse, as if you loath'd the Meat;
+
+[[Page 205]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=108)Nor let
+his Matrimonial Right appear,
+
+By any ill-tim'd Houshold freedom there:
+
+Let not his fulsom Arms embrace your Wast,
+
+Nor lolling Head upon your Bosom rest.
+
+One Kiss would straight make all my Passion known,
+
+And my fierce Eyes with rage would claim their own;
+
+Yet what thus passes will be done i'th' Light,
+
+But oh! the Joys that may be kept from Sight;
+
+Legs lock't in Legs, Thighs pressing Thighs, and all
+
+The wanton Spells that up Love's Fury call:
+
+Those cunning Arts that I so oft have us'd,
+
+Makes me now fear to be my self abus'd;
+
+To clear my doubts, so far your Chair remove,
+
+As may prevent th' intelligence of Love
+
+Put him in mind of pledging ev'ry Health,
+
+And let the tutor'd Page add Wine by stealth;
+
+The Sot grown drunk, we easier may retire,
+
+And do as the occasion will require:
+
+But after all, (alas) how small the gains
+
+Will be, for which we take such mighty pains:
+
+Torn from my Arms, you must go home to bed,
+
+And leave your poor forsaken Lover dead:
+
+Cruel Divorce, enough to break my Heart,
+
+Without you promise this before we part;
+
+When my blest Rival goes to reap his Joy,
+
+Receive him so as may the Bliss destroy:
+
+Let not the least kind mark of Love escape,
+
+But all be Duty and a lawfull Rape;
+
+So deadly cold and void of all desire,
+
+That like a Charm it may put out the Fire;
+
+But if compell'd you should at last comply,
+
+When we meet next be sure you all deny.
+
+[[Page 206]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=109)
+
+### 1.55. The Session of the Poets,
+
+to the Tune of Cook Lawrel
+
+1.
+
+APollo concern'd to see the Transgressions
+
+Our paultry Poets do daily commit,
+
+Gave order once more to summon a Sessions,
+
+Severely to punish the abuses of Wit.
+
+2.
+
+Will D'Avenant wou'd fain have been Steward o'th Court
+
+To have fin'd and amer'd each Man at his will;
+
+But Apollo, it seems, had heard a report,
+
+That his choice of new Plays did show h'had no skill.
+
+3.
+
+Besides some Criticks had ow'd him a spite,
+
+And a little before had made the God fret,
+
+By letting him know the Laureat did write,
+
+That damnable Farce, The House to be Lett.
+
+4.
+
+Intelligence was brought, the Court being set,
+
+That a Play Tripartite was very near made;
+
+Where malicious Matt Clifford and spiritual S—t
+
+Were joyn'd with their Duke, a Peer of the Trade.
+
+5.
+
+Apollo rejoyc'd, and did hope for amends,
+
+Because he knew it was the first case,
+
+The Duke e'er did ask the advice of his Friends,
+
+And so wish his Play as well clapt as his Grace.
+
+6.
+
+O yes being made, and silence proclaim'd,
+
+Apollo began to read the Court Roul,
+
+When as soon as he saw Frank Berkley was nam'd,
+
+He scarce cou'd forbear from tearing the Scroul.
+
+7.
+
+But Berkley, to make his interest the greater,
+
+Suspecting before what would come to pass,
+
+Procur'd him his Cozen Fitz harding's Letter,
+
+With which Apollo wiped his Arse.
+
+[[Page 207]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=109)
+
+8.
+
+Guy with his Pastoral next went to Pot,
+
+At first in a dolefull Study he stood,
+
+Then shew'd a Certificate which he had got
+
+From the Maids of Honour, but it did him no good.
+
+9.
+
+Humorous Weeden came in in a pet,
+
+And for the Laurel began to splutter;
+
+But Apollo chid him, and bid him first get
+
+A Muse not so common as Mrs. Rutter.
+
+10.
+
+A number of other small Poets appear'd,
+
+With whom for a time Apollo made sport;
+
+Clifford and Flecknoe were very well jear'd,
+
+And in conclusion whipp'd out of the Court.
+
+11.
+
+Tom Killegrew boldly came up to the Bar,
+
+Thinking his jibing would get him the Bays,
+
+But Apollo was angry and bid him beware
+
+That he caught him no more a printing his Plays.
+
+12.
+
+With ill luck in Battle but worse in Wit,
+
+George Porter began for the Laurel to bawl,
+
+But Apollo did think such impudence fit
+
+To be thrust out of Court, as he's out of Whitehall.
+
+13.
+
+Savage missing Cowley came into the Court,
+
+Making Apologies for his bad Play,
+
+Ev'ry one gave him so bad a report,
+
+That Apollo gave heed to all he could say:
+
+14.
+
+Nor wou'd he have had, 'tis thought, a rebuke,
+
+Unless he had done some notable Folly;
+
+Writ Verses unjustly in praise of Sam Tuke,
+
+Or printed his pitifull Melancholy.
+
+15.
+
+Cotton did next to the Bays pretend,
+
+But Apollo told him it was not fit,
+
+[[Page 208]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=110)Though
+his Virgil was well, it made but amends
+
+For the worst Panegyrick that ever was writ.
+
+16.
+
+Old Shirley stood up and made an excuse,
+
+Because many young Men before him were got;
+
+He vow'd he had switch'd and spur-gall'd his Muse,
+
+But still the dull Jade kept to her old Trot.
+
+17.
+
+Sir R—t H—d call'd for over and over,
+
+At length sent in Teague with a Pacquet of News,
+
+Wherein the sad Knight, to his grief, did discover,
+
+How Dryden had lately robb'd him of his Muse.
+
+18.
+
+Each man in the Court was pleas'd with the Theft,
+
+Which made the whole Family swear and rant,
+
+Desiring their Obin i'th' lurch being left,
+
+The Thief might be fin'd for the wild Gallant.
+
+19.
+
+Dryden, whom one wou'd have thought had more Wit,
+
+The censure of ev'ry man did disdain,
+
+Pleading some pitifull Rhimes he had writ,
+
+In praise of the Countess of Castlemaine.
+
+20.
+
+Ned Howard, in whom great Nature is found,
+
+Tho' never took notice of till that day,
+
+Impatiently sat till it came to his round,
+
+Then rose and commended the Plot of his Play.
+
+21.
+
+Such Arrogance made Apollo stark mad,
+
+But Sherly endeavour'd to appease his Chollar,
+
+By owning the Play, and swearing the Lad
+
+In Poetry was a very pert Scholar.
+
+22.
+
+James Howard being call'd for out of the Throng,
+
+Booted and spurr'd to the Bar did advance,
+
+VVhere singing a damn'd nonsensical Song,
+
+The Youth and his Muse were sent into France.
+
+[[Page 209]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=110)
+
+23.
+
+Newcastle and's Horse for entrance next strives,
+
+Well stuff'd was his Cloakbag and so was his Breeches.
+
+And unbutt'ning the place where Nature's Posset-maker lives,
+
+Pull'd out his Wife's Poems, Plays, Essays & Speeches.
+
+24.
+
+Whoop, quoth Apollo, what a Devil have we here,
+
+Put up thy Wife's Trumpery good noble Marquiss,
+
+And home again, home again take thy Carreer,
+
+To provide her fresh Staw, and a Chamber that dark is.
+
+25.
+
+Sam Tuke sat and formally smil'd at the rest,
+
+But Apollo, who well did his Vanity know,
+
+Call'd him to the Bar to put him to th' Test,
+
+But his Muse was so stiff she scarely could go.
+
+26.
+
+She pleaded her Age desir'd a Reward▪
+
+It seems in her Age she doated on praise,
+
+But Apollo resolv'd that such a bold Bard
+
+Sou'd never be grac'd with a Per'wig of Bays.
+
+27.
+
+Stapleton stood up and had nothing to say,
+
+But Apollo forbid the old Knight to despair,
+
+Commanding him once more to write a new Play,
+
+To be danc'd by the Poppets at Barthol'mew Fair.
+
+28.
+
+Sir William Killegrew doubting his Plays,
+
+Before he was call'd crept up to the Bench,
+
+And whisper'd Apollo, in case he wou'd praise
+
+Selyndra, he shou'd have a Bout with the VVench.
+
+29
+
+B—st and Sydley, with two or three more
+
+Translators of Pompey dispute in their claim,
+
+But Apollo made them be turn'd out of door,
+
+And bid them be gone like Fools as they came.
+
+[[Page 210]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=111)
+
+30.
+
+Old Waller heard this, and was sneaking away,
+
+But somebody spy'd him out of the Crowd;
+
+Apollo though h' had not seen him many a day,
+
+Knew him full well, and call'd to him aloud;
+
+31.
+
+My old Friend Mr. Waller, what make you there,
+
+Among those young Fellows that spoil the French Plays;
+
+Then beck'ning to him, whisper'd in his Ear,
+
+And gave him good counsel instead of the Bays.
+
+32.
+
+Then in came Denham, that limping old Bard,
+
+Whose fame on the Sophy and Cooper's Hill stands;
+
+And brought many Stationers who swore very hard,
+
+That nothing sold better, except 'twere his Lands.
+
+33.
+
+But Apollo advis'd him to write something more,
+
+To clear a suspicion which possess'd the Court,
+
+That Cooper's Hill, so much bragg'd on before,
+
+Was writ by a Vicar, who had forty pound for't.
+
+34.
+
+Then Hudibras boldly demanded the Bays,
+
+But Apollo bad him not be so fierce;
+
+And advis'd him to lay aside making his Plays,
+
+Since he already began to write worse and worse.
+
+35.
+
+Tom Porter came into the Court in a huff,
+
+Swearing damn him he had writ the best Plays;
+
+But Apollo, it seems, knew his way well enough,
+
+And would not be hector'd out of his Bays.
+
+36.
+
+Ellis in great discontent went away,
+
+Whilst D'Avenant against Apollo did rage;
+
+Because he declar'd the Secrets a Play,
+
+Fitting for none but a Mountebank Stage.
+
+37.
+
+John Wilson stood up and wildly did stare,
+
+When on the sudden stept in a bold Scot;
+
+[[Page 211]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=111)And
+offer'd Apollo he freely would swear,
+
+The said Maister Wilson mought pass for a Sot.
+
+38.
+
+But all was in vain, for Apollo, 'tis said,
+
+Would in no wise allow of any Scotch wit;
+
+Then Wilson in spite made his Plays to be read,
+
+Swearing he'd answer for all he had writ.
+
+39.
+
+Clarges stood up, and laid claim to the Bays,
+
+But Apollo rebuk'd that arrogant Fool;
+
+Swearing if e're he translated more Plays,
+
+He'd Crown him Sir-Reverence with a Close-stool.
+
+40.
+
+Damn'd Holden with's dull German Princess appear'd,
+
+Whom if Davenant he got as some do suppose,
+
+Apollo said the Pillory should crop off his Ears,
+
+And make them more suitable unto his Nose.
+
+41.
+
+Rhodes stood and play'd at bo-peep in the door,
+
+But Apollo instead of a Spanish Plot;
+
+On condition the Varlet would never write more,
+
+Gave him three pence to pay for a Pipe and a Pot.
+
+42.
+
+Ethridge and Shadwell and the Rabble appeal'd
+
+To Apollo himself in a very great rage;
+
+Because their best Friends so freely had deal'd,
+
+As to tell them their Plays were not fit for the Stage.
+
+43.
+
+Then seeing a Crowd in a Tumult resort,
+
+Well furnish'd with Verses, but loaded with Plays;
+
+It forc'd poor Apollo to adjourn the new Court,
+
+And left them together by th' Ears for the Bays.
+
+[[Page 212]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=112)
+
+### 1.56. DESIRE. A Pindaric.
+
+WHat art thou, O thou new fond pain?
+
+From what Infection dost thou spring?
+
+Tell me, O tell me, thou inchanting thing,
+
+Thy Nature and thy Name.
+
+Inform me by what subtil art,
+
+What pow'rfull influence,
+
+You got such vast Dominion in a part,
+
+Of my unheeded and unguarded Heart,
+
+That Fame and Honour cannot drive you thence?
+
+Oh mischievous Usurper of my Peace!
+
+Oh soft Intruder on my Solitude!
+
+Charming disturber of my Ease,
+
+That hast my nobler Fate pursu'd;
+
+And all the Glories of my Life subdu'd.
+
+Thou haunt'st my inconvenient Hours,
+
+The business of the day, nor silence of the night,
+
+That shou'd to cares and sleep invite,
+
+Can bid defiance to thy conquering pow'ers.
+
+Where hast thou been this live-long Age,
+
+That from my Birth till now,
+
+Thou never didst one thought ingage,
+
+Or charm my Soul with the uneasie Rage,
+
+That made it all its humbler Feebles know?
+
+Where wer't thou, O malicious Sprite,
+
+When shining glory did invite?
+
+When int'rest call'd, then thou wer't shy,
+
+Nor one kind aid to my assistance brought;
+
+Nor would'st inspire one tender thought,
+
+When Princes at my feet did lie
+
+When thou could'st mix Ambition with my Joy,
+
+Then, peevish Phantom, thou wer't nice and coy.
+
+Not beauty would invade thee then,
+
+Nor all the arts of lavish Men;
+
+[[Page 213]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=112)Not all
+the powerfull Rhet'rick of the Tongue,
+
+Nor sacred Wit cou'd charm thee on;
+
+Not the soft play that Lovers make,
+
+Nor Sighs cou'd fan thee to a Fire;
+
+No pleading Tears or Vows cou'd thee awake,
+
+Nor charm the unform'd — Something— to Desire.
+
+Oft I've conjur'd thee to appear,
+
+By Youth, by Love, by all their pow'rs,
+
+Have search'd and sought thee every-where,
+
+In silent Groves, in lonely Bowers,
+
+On flow'ry Beds, where Lovers wishing lie,
+
+In sheltring Woods, where sighing Maids
+
+To their assinging Shepherds hie,
+
+And hide their Blushes in the gloom of Shades.
+
+Yet there, ev'n there, though Youth assail'd,
+
+Where Beauty prostrate lay, aad Fortune woo'd,
+
+My Heart (insensible) to neither bow'd;
+
+Thy lucky Aid was wanting to prevail.
+
+In Courts I sought thee then, thy proper Sphere,
+
+But thou in Crowds wer't stifled there;
+
+Interest did all the loving bus'ness do,
+
+Invites the Youths, and wins the Virgins too;
+
+Or if by chance some Heart thy Empire own,
+
+Ah, pow'r ingrate! the Slave must be undone.
+
+Tell me thou nimble Fire, that dost dilate
+
+Thy mighty force through every part
+
+What God or human Power did thee create,
+
+In my (till now) unfacil Heart?
+
+Art thou some welcome Plague sent from above,
+
+In this dear Form, this kind Disguise?
+
+Or the false Off-spring of mistaken Love,
+
+Begot by some soft thought that feebly strove
+
+With the bright piercing Beauties of Lysander's Eyes.
+
+Yes, yes, Tormenter, I have found thee now,
+
+And found to whom thou dost thy Being owe;
+
+'Tis thou the blushes dost impart,
+
+'Tis thou that tremblest in my Heart.
+
+[[Page 214]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=113)When the
+dear Shepherd does appear,
+
+I faint and dye with pleasing pain;
+
+My words intruding, sighings break,
+
+Whene'er I touch the charming Swain;
+
+Whene'er I gaze, whene'er I speak,
+
+Thy conscious fire is mingled with my Love.
+
+As in the sanctify'd Abodes
+
+Misguided Worshippers approve
+
+The mixing Idols with their Gods.
+
+In vain (alas) in vain I strive,
+
+With Errors which my Soul do please and vex;
+
+For Superstition will survive,
+
+Purer Religion to perplex.
+
+Oh tell me, you Philosophers in Love,
+
+That can these burning fev'rish Fits controul,
+
+By what strange Arts you cure the Soul,
+
+And the fiery Calenture remove?
+
+Tell me, ye Fair ones, you that give Desire,
+
+How 'tis you hide the kindling Fire?
+
+Oh wou'd you but confess the truth,
+
+It is not real Vertue makes you nice:
+
+But when you do resist the pressing Youth,
+
+'Tis want of dear Desire to thaw the Virgin-Ice.
+
+And while your young Adorers lie,
+
+All languishing and hopeless at your Feet;
+
+Raising new Trophies to your Chastity,
+
+Oh, tell me how you do remain discreet?
+
+And not the Passion to the throng make known,
+
+Which Cupid in revenge has now confin'd to one.
+
+How you suppress the rising Sighs,
+
+And the soft yielding Soul that wishes in your Eyes,
+
+While to the admiring Crowd you nice are found,
+
+Some dear, some secret Youth, who gives the wound,
+
+Informs you all your Vertue's but a Cheat,
+
+And Honour but a false disguise,
+
+Your Modesty a necessary slight.
+
+[[Page 215]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=113)To gain
+the dull repute of being wise?
+
+Deceive the foolish world, deceive it on,
+
+And veil your Passion and your Pride;
+
+But now I've found your weakness by my own,
+
+From me the needfull fraud you cannon hide;
+
+For, though with Vertue I the world perplex,
+
+Lysander finds the feeble of my Sex:
+
+So Helen, tho' from Theseus's Arms she fled,
+
+To charming Paris yields her Heart and Bed.
+
+### 1.57. On the Prince's going to England, with an Army to restore the
+Government, 1688.
+
+Hunc saltem everso Juvenem succurrere Saeclo
+
+Ne prohibite—
+
+Virg. Georg. Lib. 1.
+
+ONce more a FATHER and a SON falls out;
+
+The World involving in their high dispute;
+
+Remotest India's Fate on theirs depends,
+
+And Europe, trembling, the Event attends.
+
+Their motions ruling every other State,
+
+As on the Sun the lesser Planets wait.
+
+Power warms the Father, Liberty the Son,
+
+A Prize well worth th' uncommon venture run.
+
+Him a false pride to govern unrestrain'd,
+
+And by mad means, bad ends to be attaind;
+
+All bars of property drives headlong through,
+
+Millions oppressing to enrich a few.
+
+Him Justice urges and a noble Aim
+
+To equal his Progenitors in Fame,
+
+And make his life as glorious as his Name.
+
+For Law and Reason's power he does engage,
+
+Against the reign of appetite and rage.
+
+There all the license of unbounded might:
+
+Here conscious Honour and deep sense of Right,
+
+Immortal enmity to arms incite.
+
+[[Page
+216]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=114)Greatness the
+one, Glory the other fires,
+
+This only can deserve what that desires.
+
+This strives for all that e'er to Men was dear,
+
+And he for what the most abhor and fear.
+
+Caesar and Pompey's cause by Cato thought
+
+So ill adjudg'd, to a new Tryal's brought,
+
+Again at last Pharsalia must be fought.
+
+Ye fatal Sisters! now to Right be Friends,
+
+And make Mankind for Pompey's Fate amends.
+
+In Orange's great Line, 'tis no new thing,
+
+To free a Nation, and uncrown a King.
+
+### 1.58. On his Royal Highness's Voyage beyond Sea. March 30. 1678.
+
+R. H. they say is gone to Sea,
+
+Designed for the Hague;
+
+But Portsmouth's left behind to be
+
+The Nations Whorish Plague.
+
+Some think he went unwillingly,
+
+Say others he was sent there;
+
+But most conclude for certainty,
+
+He's gone to keep his Lent there.
+
+What need I to apologize?
+
+'Tis said, nothing more true is,
+
+The chiefest part of's Errand lies,
+
+To fetch in Cosen Lewis.
+
+That both together, as they say,
+
+If one may dare to speak on't;
+
+Thro' Hereticks Throats may cut their way,
+
+To bring in James the Second.
+
+By Yea and Nay the Quaker cries,
+
+How can we hope for better?
+
+[[Page 217]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=114)Truth's
+not in him that this denies;
+
+Read Edward Coleman's Letter.
+
+Gar, gar, the Jockey swears faw things,
+
+Man here is mickle work;
+
+Dee'l split his Wem, he's ne'er be King,
+
+Whose Name does rhime to Pork.
+
+Cot's splutter a Nails, the Welshman cries,
+
+Got shield her frow her Foes;
+
+He near shall be a Prince of Wales,
+
+That wears a Roman Nose.
+
+### 1.59. The RABBLE. 1680.
+
+THE Rabble hates, the Gentry fear,
+
+And wise Men want support:
+
+A rising Country threatens, There,
+
+And Here a starving Court.
+
+Not for the Nation, but the Fair,
+
+Our Treasury provides:
+
+Buckly's, Go—n's only care,
+
+As Middleton is Hyde's.
+
+Rowly too late will understand,
+
+What now he shuns to find;
+
+That nothing's quiet in the Land,
+
+Except his careless Mind.
+
+England is now 'twixt Thee and York,
+
+The Fable of the Frog:
+
+He is the fierce devouring Stork,
+
+And Thou the lumpish Log.
+
+[[Page 218]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=115)
+
+### 1.60. A New Song of the Times, 1683.
+
+1.
+
+'TWere folly for ever,
+
+The Whigs to endeavour
+
+Disowning their Plots, when all the world knows 'um;
+
+Did they not fix
+
+On a Council of Six,
+
+Appointed to govern though no body chose 'um?
+
+They that bore sway,
+
+Knew not one would obey,
+
+Did Trincalo make such a ridiculous pother:
+
+Monmouth's the Head,
+
+To strike Monarchy dead,
+
+They chose themselves Vice-Roys all o'er one another.
+
+2.
+
+Was't not a damn'd thing
+
+For Russel and Hambden,
+
+To serve all the Projects of hot-headed Tony?
+
+But much more untoward,
+
+To appoint my Lord Howard
+
+Of his own Purse and Credit to raise Men and Money?
+
+That at Knightsbridge did hide
+
+Those brisk Boys unspy'd,
+
+Who at Shaftsbury's Whistle were ready to follow;
+
+And when Aid he should bring,
+
+Like a true Brandford King,
+
+Was here with a whoop, and gone with a hollow.
+
+3.
+
+Algernoon Sidney,
+
+Of Common-wealth Kidney,
+
+Compos'd a damn'd Libel (ay marry was it)
+
+Writ to occasion
+
+Ill Blood in the Nation,
+
+And therefore dispers'd it all over his Closet.
+
+It was not the Writing
+
+Was prov'd, or indicting;
+
+[[Page 219]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=115)Tho' he
+urg'd Statutes, what was it but fooling,
+
+Since a new trust is
+
+Plac'd in the Chief Justice,
+
+To damn Law and Reason too by over-ruling.
+
+4.
+
+What if a Traytor,
+
+In spite of the State, Sir,
+
+Should cut his own Throat from one Ear to the other?
+
+Shall then a new freak
+
+Make Braddon and Speak
+
+To be more concern'd than his Wife or his Brother?
+
+A Razor all bloody,
+
+Thrown out of a Study,
+
+Is Evidence strong of his desperate Guilt, Sir;
+
+So Godfrey, when dead,
+
+Full of horrour and dread,
+
+Run his Sword through his Body, up to the Hilt, Sir.
+
+5.
+
+Who can think the case hard
+
+Of Sir Patience Ward,
+
+That lov'd his just Rights more than those of his High­ness?
+
+Oh disloyal Ears,
+
+As on Record appears,
+
+Not to hear when to do the Papists a kindness.
+
+An old doting Citt,
+
+With his Elizabeth Wit,
+
+Against the French mode for Freedom to hope on;
+
+His Ears that told Lies,
+
+VVere less dull than his Eyes,
+
+For both them were shut when all others were open.
+
+6.
+
+All Europe together
+
+Can't shew such a Father,
+
+So tenderly nice of his Son's Reputation,
+
+As our good King is,
+
+To labour to bring his
+
+By tricks to subscribe to a sham Declaration.
+
+'Twas very good reason
+
+To pardon his Treason,
+
+[[Page 220]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=116)To obey
+(not his own, but) his Brother's Command, Sir;
+
+To merit whose Grace,
+
+He must in the first place
+
+Confess he's dishonest under his hand, Sir.
+
+7.
+
+Since fate the Court blesses,
+
+With daily Successes,
+
+And giving up Charters go round for a frolick,
+
+Whilst our Duke Nero,
+
+The Churches blind Hero
+
+By Murder is planting his Faith Apostolick.
+
+Our modern Sages,
+
+More wise than past Ages,
+
+Think ours to establish by Popish Successors;
+
+Queen Bess never thought it,
+
+And Cecil forgot it,
+
+But 'tis lately found out by our prudent Addressors.
+
+### 1.61. The Battle-Royal: A Dream, 1687.
+
+AS restless on my Bed one Night I lay,
+
+Hoping with Sleep to ease the toils of Day,
+
+I thought, as graver Coxcombs us'd to doe,
+
+On all the mischiefs we had late run through,
+
+And those which are now likely to ensue:
+
+What 'tis that thus the frantick Nation dreads?
+
+And from what cause their jealousie proceeds?
+
+Whither at last to what event and end,
+
+These sad Presages probably might tend?
+
+For as Physicians always chuse to know
+
+Th'original cause from whence Distempers flow;
+
+And by their early Symptoms boldly guess,
+
+Whether or no their art shall have success:
+
+So I, like a young bold State Emp'rick too,
+
+Did the same methods, and same course pursue;
+
+Till with variety of thoughts opprest,
+
+I turn'd about to sleep and take my rest:
+
+[[Page 221]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=116)VVhile
+fancy like a Quean alone bore sway,
+
+And did this Vision in a Dream convey.
+
+Unknown, and unperceiv'd, I was me-thought,
+
+Into a close retiring Chamber brought,
+
+And by my Guide behind the Hangings plac'd,
+
+VVhere I cou'd hear and see whatever pass'd:
+
+VVhen in a corner of the room there sat
+
+Three fierce contenders in a hot debate;
+
+And on a Table lay before them there
+
+The Directory, Mass, and Common-Pray'r.
+
+This in a Cloak, That had a shaven Crown,
+
+The other in a Surcingle and Gown;
+
+VVho by his Garb, Demeaner, and grave Look,
+
+I for a Church of England Preacher took;
+
+For howsoe'er they're drest they may be known
+
+By a peculiar Carriage of their own.
+
+At first I heard a strange confused Sound,
+
+Nor could the meaning, nor the sense expound:
+
+Till he I mention'd last in rage up rose,
+
+And partly thro' the Mouth, and thro' the Nose,
+
+Did thus his whining Sentiments disclose.
+
+And is this all the great reward we must
+
+Enjoy for being faithfull to our trust?
+
+VVill all the Services we've done the King,
+
+No better recompence and profit bring?
+
+And can our boasted Loyalty return
+
+No other payment but Contempt and Scorn?
+
+Must we thus basely from our hopes fall down,
+
+And grow the publick scandal of the Town?
+
+As our insulting Pride and Government
+
+Has been the publick Grievance and Complaint;
+
+Our Prebends, and our Bishops too, turn'd out,
+
+Depriv'd, and scorn'd, in Querpo walk about;
+
+And must a transubstantiating Priest,
+
+Be with their goodly Lands and Lordships blest?
+
+Did we for this the Popish Plot deride,
+
+And all our Sense, and Nonsense too apply'd
+
+[[Page 222]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=117)To blind
+the people's Reason and their Eyes,
+
+To take it for a Sham and meer Device:
+
+Our best and learned'st of Divines employ
+
+To foil the Scent, and to divert the Cry;
+
+Set bawling P—ing up to talk it down,
+
+And fill with canting Raillery the Town?
+
+Did we for this young Levites send about,
+
+To charm the Rabble and possess the Rout,
+
+With feign'd Chymera's of a strange design,
+
+Against the Church, and State, and Royal Line?
+
+And vilely Russel and the rest remov'd,
+
+When neither Crime or Plot was ever prov'd?
+
+Nay did we all for this the Church disown,
+
+And coin a New Religion of our own,
+
+Of a more spruce and fashionable make,
+
+Than was the Old; and boldly undertake
+
+By Scripture for to prove the Common Prayer,
+
+When we well knew there's no such matter there:
+
+Yet like the Calves at Bethel set it up,
+
+And made them all before the Idol stoop;
+
+And whosoe'ere the business would dispute,
+
+We did by Fines and Pillory confute.
+
+O precious Book! the dearest thing that's ours,
+
+Except our Livings and our Sine-cures;
+
+For which, might they but still with us abide,
+
+We'd part with thee, or any thing beside:
+
+As heretofore without reluctance we,
+
+Have truckt our forfeit Consciences for thee:
+
+But those are going too—no more he cou'd,
+
+Prevented by an overflowing Flood
+
+Of Tears, which his lawn Band and Gown besmear'd,
+
+As th' Ointment drench'd his Predecessor's Beard.
+
+The subtle Priest who had resolv'd to stay,
+
+Till he had spoken all he had to say;
+
+Seeing the wretch with too much Grief o'relaid,
+
+Stood up, and thus the following Answer made.
+
+'Tis true, you've done all this and ten times more,
+
+As bad or worse than we have done before;
+
+[[Page 223]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=117)And if
+ye think ye have oblig'd the King,
+
+Who were but under-Actors in the thing;
+
+Then what do we deserve, whose wit and brain
+
+Contriv'd the Plot and every private Scene?
+
+For though a Conquest always is obtain'd,
+
+And by each Souldier's single valour gain'd;
+
+Yet those who did command and lead them on,
+
+Share all the open Honour and Renown.
+
+Ye were our Instruments, and Drudges too;
+
+As Rumney, Keeling, Howard, were to you;
+
+Who when they brought about your own design,
+
+You left them to themselves to starve and pine:
+
+So we the grand projectors of the Plot,
+
+Who did to you your several parts allot,
+
+Having no farther Service to employ,
+
+Think fit, as useless Tools, to lay you by.
+
+Besides, what title or pretence have you,
+
+To any thing ye hold as right and due,
+
+Since they were setled first on us alone,
+
+And could no other Lords and Masters own;
+
+Till ye by Rapine, Sacrilege and Force,
+
+Discas'd us of our Rights and made them yours?
+
+Nor can a Case more Legal e're appear,
+
+At Court of Conscience, or at Chanc'ry Barr,
+
+Than what ye did by violence obtain,
+
+Should to their ancient Lords return again.
+
+But that which you so much insist upon,
+
+Your boasted Loyalty and Service done,
+
+From whence ye most erroneously inferr'd,
+
+The Justice of your Claim to a Reward,
+
+Is a meer trifle and a weak defence,
+
+With no validity of Consequence;
+
+For there's no reason he should be repaid,
+
+Who undesignedly a Kindness did;
+
+When all the while his thoughts were fix'd upon
+
+His own advancement and increase alone;
+
+And all the profit that to me he brings,
+
+Is by the bye and natural course of things.
+
+[[Page 224]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=118)'Twas
+rancour, envy, meer revenge and spite,
+
+That made ye thus against Fanaticks fight;
+
+And the dear dread of losing all ye had,
+
+That first engag'd your malice on our side,
+
+To plead the Royal Cause, and to promote
+
+The King's Concern, and for Succession vote;
+
+When could ye any other way have kept
+
+The Saddle, and in ease and safety slept,
+
+The King might have been banish'd, hang'd or drown'd,
+
+E're Succour or Relief from you have found.
+
+But matters and affairs as yet are not
+
+To such a difficult Conjuncture brought,
+
+But that an handsome fetch may bring ye off
+
+With Honour and Security enough:
+
+One gentle turn will all the business do,
+
+Advance your Livings and secure them too;
+
+Safe ye shall lie from all Fanatick harms,
+
+Encircled in your Mother-Churches Arms,
+
+From which ye've stray'd so long, and now to whom
+
+Ye ought in duty and respect to come.
+
+The mournfull Levite straight prick'd up his Ears,
+
+As glad that things were better than his fears,
+
+And joyfull heard what means the Priest had found,
+
+That might for his dear Benefice compound,
+
+Compos'd his Band, and wip'd his blubber'd Cheeks,
+
+Stood up again, and thus demurely speaks.
+
+The Proverb to my case I may apply,
+
+Winners may justly laugh, and losers cry:
+
+For when I thought my Livelihood was gone,
+
+It was no wonder that I so took on;
+
+As 'tis none now, Smiles should my gladness shew,
+
+For these good tydings I receive from you;
+
+Therefore, dear Sir, let us our Hearts combine,
+
+And both in league against Dissenters joyn.
+
+My self I under your tuition place,
+
+For Management and Method in the case,
+
+How to proceed — The Cloak, who all this while,
+
+Had unprovok'd and unconcern'd sate still,
+
+[[Page 245]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=118)And
+wisely what they'd both be at he guest,
+
+Stood up to speak and to compleat the Jest:
+
+But glowing Anger had so now prevail'd,
+
+That in the first attempt he stopp'd and fail'd;
+
+And when he found his Tongue to be confin'd,
+
+He made his active Hands declare his Mind.
+
+The one engag'd the Levite on the place,
+
+And with the Directory smote his Face.
+
+Confounded with the Stroke he stagger'd round,
+
+And falling in his wrath tore up the Ground.
+
+T'other he laid directly o'er the Chest,
+
+Sent Ecchoes from the hollow Breast of Priest,
+
+Who stumbling as he went to take his flight,
+
+Fell prostrate o'er his new made Proselyte.
+
+On both their bodies mounts the nimble Cloke,
+
+And this his Epicinium manly spoke:
+
+Dejected Wretches, there together lie,
+
+Unpitied, unbewail'd by every Eye;
+
+May after-Ages your curst Names deride,
+
+As we your damn'd Hypocrisies and Pride;
+
+No mark remain to know what ye have been,
+
+But the remembrance of your Curse and Sin;
+
+Which shall down time's continual Tide descend,
+
+To propagate your fatal shame and end.
+
+So may they fall, and all they that design,
+
+Whoe'er in league against the truth combine,
+
+By an unarm'd defenceless hand like mine.
+
+Pleas'd with the Conquest of victorious Cloke,
+
+I laugh'd aloud methought, and so awoke.
+
+### 1.62. An Epitaph upon Felton, who was hang'd in Chains for Murdering the
+Old Duke of Buckingham:
+
+Written by the late Duke of Buckingham.
+
+HEre uninterr'd suspends, though not to save
+
+Surviving Friends th' Expences of a Grave,
+
+[[Page 246]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=119)
+Felton's dead Earth; which to the World will be
+
+Its own sad Monument, his Elogy:
+
+As large as Fame, which whether Bad or Good
+
+I say not; by himself 'twas wrote in Blood;
+
+For which his Body is intomb'd in Air,
+
+Arch'd o'er with Heaven, set with a thousand fair,
+
+And glorious Stars; a noble Sepulchre,
+
+Which time it self can't ruinate; and where
+
+Th' impartial Worm (that is not brib'd to spare
+
+Princes corrupt in Marble) cannot share
+
+His Flesh; which oft the charitable Skies
+
+Imbalm with Tears; daining those Obsequies
+
+Belong to Men shall last, till pitying Fowl
+
+Contend to reach his Body to his Soul.
+
+### 1.63. An Answer to Mr. Waller's Poem on Oliver's Death, called the Storm:
+
+Written by Sir W— G—n.
+
+'TIS well he's gone (O had he never been)
+
+Hurried in Storms loud as his crying Sin;
+
+The Pines and Oaks fell prostrate at his Urn;
+
+That with his Soul his Body too might burn:
+
+Winds pluck up Roots, and fixed Cedars move,
+
+Roring for Vengeance to the Heavens above.
+
+From Theft, like his, Great Romulus did grow,
+
+And such a Wind did at his Ruin blow,
+
+Strange that the lofty Trees themselves should fell
+
+Without the Axe; so Orpheus went to Hell:
+
+At whose descent the stoutest Rocks were cleft,
+
+And the whole Wood its wonted station left.
+
+In Battle Hercules wore the Lyon's Skin;
+
+But our fierce Nero wore the Beast within:
+
+Whose Heart was brutish more than Face or Eyes,
+
+And in the shape of Man was in Disguise:
+
+Where-ever Men, where-ever Pillage lies,
+
+Like ravenous Vultures our wing'd Navy flies:
+
+[[Page 247]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=119)Under
+the Tropick we are understood,
+
+And bring home Rapine through a purple Flood:
+
+New Circulations found our Blood is hurl'd,
+
+As round the lesser to the greater World.
+
+In civil Broils he did us first engage,
+
+And made Three Kingdoms subject to his Rage.
+
+One fatal Stroke slew Justice and the Cause
+
+Of Truth, Religion, and our Sacred Laws.
+
+So fell Achilles by the Trojan Band,
+
+Though he still fought with Heaven its self in's hand:
+
+Nor would Domestick Spoil confine his Mind,
+
+No Limits to his Fury but Mankind.
+
+The British Youths in Foreign Courts are sent,
+
+Towns to destroy, but more to Banishment;
+
+Who since they cannot in this Isle abide,
+
+Are confin'd Prisoners to the World beside.
+
+No wonder then if we no Tears allow
+
+To him that gave us Wars and Ruin too:
+
+Tyrants that lov'd him, griev'd, concern'd to see,
+
+There must be Punishment for Cruelty.
+
+Nature her self rejoyced at his Death,
+
+And on the Waters sung with such a Breath,
+
+As made the Sea dance higher than before,
+
+While here glad Waves came dancing to the Shore.
+
+### 1.64. Clarindon's House-Warming: Printed formerly with the Directions to a
+Painter. Writ by an unknown hand.
+
+WHen Clarindon had discern'd before hand
+
+(As the Cause can eas'ly foretell the Effect)
+
+At once three Deluges threatning our Land;
+
+'Twas the season he thought to turn Architect.
+
+Us Mars, and Apollo, and Vulcan consume;
+
+While he the Betrayer of England and Flander,
+
+Like the Kings-fisher chuseth to build in the Broom,
+
+And nestles in flames like the Salamander.
+
+[[Page 248]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=120)
+
+But observing that Mortals run often behind,
+
+(So unreasonable are the rates they buy-at)
+
+His Omnipotence therefore much rather design'd
+
+How he might create a house with a Fiat.
+
+He had read of Rhodope, a Lady of Thrace,
+
+Who was digg'd up so often e'er she did marry;
+
+And wish'd that his Daughter had had as much grace
+
+To erect him a Pyramid out of her Quarry.
+
+But then recollecting how the Harper Amphyon
+
+Made Thebes dance aloft while he fidled and sung,
+
+He thought (as an Instrument he was most free on)
+
+To build with the Jews-Trump of his own Tongue.
+
+Yet a President fitter in Virgil he found,
+
+Of African Poultney, and Tyrian Dide,
+
+That he begg'd for a Palace so much of his ground,
+
+As might carry the measure and name of an Hide.
+
+Thus daily his Gouty Inventions he pain'd,
+
+And all for to save the expences of Brickbat,
+
+That Engine so fatal, which Denham had brain'd,
+
+And too much resembled his Wife's Chocolat.
+
+But while these devices he all doth compare,
+
+None solid enough seem'd for his strong Castor;
+
+He himself would not dwell in a Castle of Air,
+
+Though he had built full many a one for his Master.
+
+Already he had got all our Money and Cattle,
+
+To buy us for Slaves, and purchase our Lands,
+
+What Joseph by Famine, he wrought by Sea Battle,
+
+Nay scarce the Priest's Portion could scape from his hands.
+
+And hence like Pharaoh that Israel prest
+
+To make Mortar and Brick, yet allow'd them no straw,
+
+He car'd not though Egypt's ten Plagues us distrest,
+
+So he could to build but make Policy Law.
+
+The Scotch Forts and Dunkirk, but that they were sold,
+
+He would have demolish'd to raise up his Walls;
+
+Nay ev'n from Tangier have sent back for the mould,
+
+But that he had nearer the Stones of St. Paul's.
+
+[[Page 249]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=120)
+
+His Wood would come in at the easier rate,
+
+So long as the Yards had a Deal or a Spar:
+
+His Friend in the Navy would not be ingrate,
+
+To grudge him some Timber who fram'd him the War.
+
+To proceed in the Model he call'd in his Allons,
+
+The two Allons when jovial, who ply him with gallons.
+
+The two Allons who serve his blind Justice for ballance,
+
+The two Allons who serve his Injustice for Tallons.
+
+They approve it thus far, and said it was fine;
+
+Yet his Lordship to finish it would be unable;
+
+Unless all abroad he divulg'd the design,
+
+For his house then would grow like a Vegetable.
+
+His Rent would no more in arrear run to Worster;
+
+He should dwell more noble, and cheap too at home,
+
+While into a Fabrick the Presents would muster;
+
+As by hook and by crook the World cluster'd of A­tom.
+
+He lik'd the advice, and then soon it assay'd,
+
+And Presents croud headlong, to give good example:
+
+So the Bribes overlaid her that Rome once betray'd;
+
+The Tribes ne'er contributed so to the Temple.
+
+Straight Judges, Priest, Bishops, true Sons of the Seal,
+
+Sinners, Governours, Farmers, Banquers, Patentees,
+
+Bring in the whole Mite of a year at a meal,
+
+As the Chedder Clubs Dairy to the incorporate Cheese.
+
+Bulteales, Beak'ns, Morley, Wrens fingers with telling
+
+Were shrivelled, and Clutterbuck, Eagers and Kips;
+
+Since the Act of Oblivion was never such selling,
+
+As at this Benevolence out of the Snips.
+
+'Twas then that the Chimney-Contractors he smoak'd,
+
+Nor would take his beloved Canary in kind:
+
+But he swore that the Patent shou'd ne'er be revok'd,
+
+No, would the whole Parliament kiss him behind.
+
+Like Jove under Aetna o'erwhelming the Gyant,
+
+For foundation the Bristol sunk in the Earth's bowel;
+
+And St. John must now for the Leads be compliant,
+
+Or his right hand shall also be cut off with a Trowel.
+
+[[Page 250]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=121)
+
+For surveying the building, Prat did the seat;
+
+But for the expence he rely'd upon Worstenholm,
+
+Who sat heretofore at the King's Receipt;
+
+But receiv'd now and paid the Chancellor's custom.
+
+By Subsidies thus both Clerick and Laick,
+
+And with matter profane, cemented with holy:
+
+He finish'd at last his Palace Mosaick,
+
+By a Model more excellent than Lesly's Folly.
+
+And upon the Tarrus to consummate all,
+
+A Lanthorn, like Faux's surveys the burnt Town,
+
+And shews on the top by the Regal guilt Ball,
+
+Where you are to expect the Scepter and Crown.
+
+Fond City, its Rubbish and Ruins that builds,
+
+Like vain Chymists, a flower from its ashes returning,
+
+Your Metropolis House is in St. James's Fields,
+
+And till there you remove, you shall never leave burn­ing.
+
+This Temple, of War and of Peace is the Shrine;
+
+Where this Idol of State sits ador'd and accurst,
+
+And to hansel his Altar and Nostrils Divine,
+
+Great Buckingham's Sacrifice must be the first.
+
+Now some (as all Builders must censure abide)
+
+Throw dust in its Front, and blame situation:
+
+And others as much reprehend his Back-side,
+
+As too narrow by far for his expatiation.
+
+But do not consider how in process of times,
+
+That for Name sake he may with Hyde-Park it en­large,
+
+And with that convenience he soon for his Crimes,
+
+At Tyburn may land, and spare the Tower-Barge.
+
+Or rather how wisely his Stall was built near,
+
+Lest with driving too far his Tallow impair:
+
+When like the good Ox, for publick good chear,
+
+He comes to be roasted next St. James's Fair.
+
+[[Page 251]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=121)
+
+### 1.65. Upon his House.
+
+HEre lies the sacred Bones,
+
+Of Paul beguiled of his Stones:
+
+Here lie Golden Briberies,
+
+The price of ruin'd Families:
+
+The Cavaliers Debenter Wall,
+
+Fix'd on an Eccentrick Basis;
+
+Here's Dunkirk-Town and Tangier-Hall,
+
+The Queen's Marriage and all;
+
+The Dutch-man's Templum Pacis.
+
+### 1.66. Royal Resolutions:
+
+By A. Marvell, Esq.
+
+1.
+
+WHen Plate was at Pawn, and Fob at an Ebb,
+
+And Spider might weave in Bowels its Web,
+
+And Stomach as empty as Brain:
+
+2.
+
+Then C— without Acre,
+
+Did swear by his Maker,
+
+If e'er I see England again,
+
+3.
+
+I'll have a Religion all of my own,
+
+Whether Popish or Protestant it shall not be known;
+
+And if it prove troublesome I will have none.
+
+4.
+
+I'll have a long Parliament always to Friend,
+
+And furnish my Treasure as fast as I spend,
+
+And if they will not, they shall have an end.
+
+5.
+
+I'll have a Council shall sit always still,
+
+And give me a licence to do what I will;
+
+And two Secretaries shall piss thro' a Quill.
+
+6.
+
+My insolent Brother shall bear all the Sway,
+
+[[Page 252]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=122)If
+Parliaments murmur, I'll send him away,
+
+And call him again as soon as I may.
+
+7.
+
+I'll have a rare Son in marrying tho' marr'd,
+
+Shall govern (if not my Kingdom) my Guard,
+
+And shall be Successor to me or Gerrard.
+
+8.
+
+I'll have a new London instead of the old,
+
+With wide Streets and uniform to my own Mould,
+
+But if they build too fast, I'll bid 'em hold.
+
+9.
+
+The ancient Nobility I will lay by,
+
+And new ones create their Rooms to supply,
+
+And they shall raise Fortunes for my own Fry.
+
+10.
+
+Some one I'll advance from a common Descent
+
+So high, that he shall hector the Parliament,
+
+And all wholsom Laws for the Publick prevent.
+
+11.
+
+And I will assert him to such a Degree,
+
+That all his foul Treasons tho' daring and high,
+
+Under my Hand and Seal shall have Indempnity.
+
+12.
+
+And what-e'er it cost me, I'll have a French Whore,
+
+As bold as Alice Pierce, and as fair as Jane Shore.
+
+And when I'm weary of her, I will have more,
+
+13.
+
+Which if any bold Commoner dare to oppose,
+
+I'll order my Bravo's to cut off his Nose,
+
+Tho' for't I a branch of Prerogative lose.
+
+14.
+
+My Pimp shall be my Minister Primier,
+
+My Bawds shall Ambassadors far and near,
+
+And my Wench shall dispose of Conge d'lire.
+
+15.
+
+I'll wholly abandon all publick Affairs,
+
+And pass all my time with Buffoons and Players,
+
+And santer to Nelly when I should be at Prayers,
+
+[[Page 253]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=122)
+
+16.
+
+I'll have a fine Pond with a pretty Decoy,
+
+Where many strange Fowl shall feed and enjoy,
+
+And still in their Language, quake Vive le Roy.
+
+### 1.67. On the Lord Chancellor H—e's Disgrace and Banishment,
+
+by King Charles II.
+
+PRide, Lust, Ambition, and the Peoples Hate,
+
+The Kingdom's Broker, ruin of the State;
+
+Dunkirk's sad Loss, Divider of the Fleet,
+
+Tangier's Compounder for a barren Sheet:
+
+This Shrub of Gentry, marry'd to the Crown,
+
+His Daughter to the Heir, is tumbled down;
+
+The grand Impostor of the Nobles lies
+
+Grov'ling in Dust, as a just sacrifice;
+
+To appease the injur'd King and abus'd Nation,
+
+Who wou'd believe this sudden Alteration:
+
+God will revenge too for the Stones he took
+
+From aged Paul's to make a nest for Rooks;
+
+All Cormorants of State as well as he,
+
+We now may hope in the same plight to see.
+
+Go on, great Prince, thy People do rejoyce,
+
+Methinks I hear the Nation's total Voice,
+
+Applauding this day's action to be such,
+
+As roasting of the Rump, or beating of the Dutch:
+
+Now look upon the valiant Cavaliers,
+
+Who for rewards have nothing had but Tears;
+
+Thanks to this Wiltshire Hog, Son of the Spittle,
+
+Had they been look'd on he had had but little.
+
+Break up the Coffers of this hoarded Thief,
+
+There Millions will be found to make him Chief.
+
+Of Sacrilege, Ambition, Lust and Pride,
+
+All comprehended in the Name of Hyde;
+
+For which his due rewards I'd almost said,
+
+The Nation may most justly claim his Head.
+
+[[Page 254]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=123)
+
+### 1.68. The Parallel, 1682.
+
+AS when proud Lucifer aim'd at a Throne,
+
+To have usurp'd it and made Heaven his own;
+
+Blasphemous damn'd Design: but soon he fell,
+
+Guarded with dreadfull Lightnings down to Hell:
+
+Or as when Nimrod lofty Babel built,
+
+A Structure as eternal as his guilt:
+
+Let us, said he, raise the pround Tower so high,
+
+As may amaze the Gods and kiss their Sky:
+
+He spoke, but the success was different found,
+
+Heaven's angry Thunder crush'd it to the ground;
+
+So Lucifer and so proud Babel fell,
+
+And 'tis a cursed fall from Heaven to Hell:
+
+So fall's our Courtier now to pride a Prey,
+
+And falls too with as much Reproach as they,
+
+And justly—
+
+That with his nauseous Courtship durst defile,
+
+The sweetest choicest Beauty of our Isle;
+
+That he was proud, we knew, but now we see,
+
+(Like Janus looking at Eternity)
+
+Both what he was and what he meant to be.
+
+Stern was his Look, and sturdy was his Gate,
+
+He walk'd and talk'd, and would have in State;
+
+Disdain and Scorn sate Pearching on his Brow;
+
+But (Presto) where is all that greatness now?
+
+Why vanish'd, fled, dissolv'd to empty Air,
+
+Fine Ornaments indeed to cheat the Fair;
+
+And which is yet the strangest thing of all,
+
+He has not got a Friend to mourn his fall;
+
+But 'tis but just that he who still maintain'd,
+
+Disdain to all should be by all disdain'd:
+
+Had not the lazy Drone been quite as blind,
+
+Equally dim both in his Eye and Mind:
+
+He might have plainly seen—
+
+For the Example's visible to all,
+
+How strangely low, ingratefull Pride may fall.
+
+[[Page
+255]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=123)Presumptuous
+Wretch! but that's too kind a Name,
+
+For one so careless of his Master's fame;
+
+For as the Serpent did by Fraud deceive,
+
+Th' unwary Soul of our first Parent Eve;
+
+So he as impudently strove to inspire
+
+The Royal Maid with his delusive Fire;
+
+But Heaven be prais'd not with the same Success,
+
+For though his Pride's as great, his Cunning's less.
+
+### 1.69. The Perfect Enjoyment:
+
+By the E— of R—.
+
+SInce now my Sylvia is as kind as fair,
+
+Let endless Joy succeed a long Despair.
+
+Oh what a Night of Pleasure was the last!
+
+A full Reward for all my Troubles past:
+
+And on my Head if future mischiefs fall,
+
+This happy Night will make amends for all.
+
+Nay tho' my Sylvia's love should turn to hate,
+
+I'de think on this, and dying kiss my fate.
+
+Twelve was the lucky minute when we met,
+
+And on her Bed we're close together set:
+
+Tho' listning Spies might be perhaps too near.
+
+Love fill'd our Hearts there was no room for fear.
+
+And whilst I strove her melting heart to move,
+
+With all the powerfull Eloquence of Love,
+
+In her fair Face I saw the colour rise,
+
+And an unusual softness in her Eyes:
+
+Gently they look, and I with joy adore
+
+That only Charm they never had before.
+
+What she forbids Love doth by signs command,
+
+Languishing Looks and squeezing of the Hand,
+
+Love's Cypher is not hard to understand:
+
+Whilst I transported too with amorous rage,
+
+And fierce with expectation to engage:
+
+But fas [...] she holds her Hands, and close her Thighs▪
+
+And what she longs to do, with Frowns denies.
+
+[[Page 256]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=124)A
+strange Effect in foolish Woman wrought,
+
+Bred in Disguises, and by Custom taught:
+
+Custom, which often Wisdom over-rules,
+
+And onely serves for Reason to the Fools.
+
+Taught by this method of her foolish Sex,
+
+She's forc'd a while me and her self to vex:
+
+But when at length we had been striving long,
+
+Her Limbs grown weak, and her desires strong,
+
+Who then can hold to let the Hero inn,
+
+When he assaults and Love betrays within?
+
+At last her hand to hide her blushes leave
+
+The Fort ungarded, willing to receive
+
+My fierce assault, mad with a Lovers hast,
+
+Like Lightning piercing and as quickly past:
+
+Some little pain might check her kind desire,
+
+But not enough to make her once retire:
+
+Maids wounds for pleasure bear as Men for praise,
+
+Here Honour heals, there Love the smart allays.
+
+Now she her well contented thoughts employs,
+
+On her past Fears and on her present Joys,
+
+Whose Harbinger did freely all remove
+
+To make fit room for great luxurious Love:
+
+Fond of the welcome Guest, her Arms embrace
+
+My Body, and her hand a better place:
+
+Which with one touch so pleasing proud did grow,
+
+It swell'd beyond the grasp that made it so.
+
+Confinement scorns in any closer walls
+
+Than those of Love, where it contented falls.
+
+Tho' twice o'rethrown it more enflam'd does rise,
+
+And will to the last drop fight out Loves prize.
+
+She like some Amazon in Story proves,
+
+That overcomes the Hero who she loves.
+
+In the close strifes he took so much delight,
+
+She then would think on nothing but the fight.
+
+With joy she laid me panting at her feet,
+
+But with more joy does his recovery meet:
+
+Her trembling hand first gently rais'd his head,
+
+She almost dies for fear lest he is dead:
+
+[[Page 257]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=124)Then
+does support him with a busie hand,
+
+And with that Balm enables him to stand:
+
+Till by her Charms she conquers him once more,
+
+And wounds him deeper than she did before:
+
+Now faln from the top of pleasure's hill,
+
+With longing Eyes we look up thither still;
+
+Still thither our unwearied wishes tend,
+
+Till we that height of happiness ascend;
+
+By gentle steps th' ascent it self exceeds
+
+All Joys but that alone to which it leads.
+
+First then so long and lovingly we kiss,
+
+As if like Doves we knew no other bliss:
+
+Still in one mouth our Tongues together play,
+
+Whilst groping hands are pleas'd no less than they.
+
+Thus cling'd together now awhile we rest,
+
+Breathing our Souls into each others Breast:
+
+Then give a general kiss of all our parts,
+
+Whilst this blest way we make exchange of hearts▪
+
+Here would my praise as well as pleasure dwell,
+
+Injoyments self I scarcely like so well:
+
+What little this comes short of rage and strength
+
+Is largely recompenc't with endless length.
+
+This is a Joy if we could last and stay,
+
+But Love's too eager to admit delay,
+
+And hurries us along so smooth a way.
+
+Now wanton with Delight we nimbly move
+
+Our pliant Limbs in all the shapes of Love:
+
+Our motion's not like those of idle fools,
+
+Whose active Bodies shew their heavy Souls,
+
+But sports of Love in which the willing mind
+
+Makes us as able as our Souls are kind:
+
+At length all languishing and out of breath,
+
+Panting as in the agonies of Death
+
+We lie entranc't, till one provoking kiss
+
+Transports our ravisht Souls to Paradise.
+
+Oh heaven of Love! thou moment of Delight!
+
+Wrong'd by my words, my fancy does the right.
+
+[[Page 258]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=125)Methinks
+I lie all melting in her Charms,
+
+And fast lockt up within her Legs and Arms.
+
+Bent are our minds and all our thoughts on fire,
+
+Still striving in the pangs of hot desire;
+
+At once like Misers wallowing in their store
+
+Of full possession yet desiring more.
+
+Thus with repeated pleasures do we wast
+
+Our happy hours, which like short minutes past.
+
+To such a summ of Bliss our Joys amount,
+
+The number now becomes too great to count;
+
+And Nature now denying farther force,
+
+From Deeds (alas) we fall into Discourse:
+
+A fall which each of us in vain bemoans,
+
+A greater fall than that of Kings from Thrones.
+
+The tyde of pleasure flowing now no more,
+
+We lie like Fishes gasping on the shore.
+
+And now as after fighting wounds appear,
+
+Which we in heat did neither feel nor fear,
+
+She for my sake intreats me to give o're,
+
+And yet confest she'd gladly suffer more.
+
+Her words are coy, while all her motions wooe;
+
+And when she askt if that it pleas'd me too,
+
+I rag'd to shew how well, but could not doe.
+
+Thus does fond Man run himself out of breath,
+
+And seeking rest would find it soon in death,
+
+Did not kind Nature with a double force,
+
+Restrain its strength and stop its headlong course.
+
+Indulgently severe she well does spare,
+
+This Child for hers that most deserves her care.
+
+### 1.70. A Satyr against Marriage, by the same.
+
+HUsband, thou dull unpitied Miscreant,
+
+Wedded to noise, to misery and want:
+
+Sold an eternal Vassal for thy Life,
+
+Oblig'd to cherish and to hate thy Wife.
+
+[[Page 259]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=125)Drudge
+on till Fifty at thy own expence,
+
+Breathe out thy Life in one Impertinence.
+
+Repeat thy loath'd Embraces every night,
+
+Prompted to act by duty not delight.
+
+Christen thy forward Bantling once a year,
+
+And carefully thy spurious Issue rear.
+
+Go once a week to see the Brat at nurse,
+
+And let the young Impostor drain thy Purse.
+
+Hedge-Sparrow like what Cuckows have begot,
+
+Do thou maintain, incorrigible Sot.
+
+Oh I could curse the Pimp, (who could do less?)
+
+He's beneath pity, and beyond redress.
+
+Pox on him let him go, what can I say?
+
+Anathema's on him are but thrown away:
+
+The wretch is married, and hath known the worst;
+
+And his great'st Blessing is, he can't be curst.
+
+Marriage! Oh hell and furies name it not!
+
+Hence, hence ye holy Cheats, a Plot, a Plot:
+
+Marriage, 'tis but a licens'd way to Sin,
+
+A Noose to catch Religious Woodcocks in:
+
+Or the Nick-name of Love's malicious Fiend,
+
+Begot in Hell to persecute Mankind.
+
+'Tis the destroyer of our peace and health,
+
+Mispender of our time, our strength and wealth.
+
+The Enemy of Valour, Wit, Mirth, all
+
+That we can vertuous, good, or pleasant call.
+
+By Day 'tis nothing but a needless noise,
+
+By Night the eccho of forgotten Joys:
+
+Abroad the sport and wonder of the crowd,
+
+At home the hourly breach of what they vow'd.
+
+In Youth 'tis Opium to our lustfull rage,
+
+Which sleeps awhile, but wakes again in Age.
+
+It heaps on all men much, but useless care,
+
+For with more trouble they less happy are.
+
+Ye Gods! that Man by his own slavish Law
+
+Should on himself such inconvenience draw.
+
+If he would wiser Nature's Laws obey,
+
+Those chalk him out a far more pleasant way.
+
+[[Page 260]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=126)When
+lusty Youth and flagrant Wine conspire,
+
+To fan the blood into a generous fire,
+
+We must not think the Gallant will endure
+
+The puissant Issue of his Calenture:
+
+Nor always in his single pleasures burn,
+
+Tho' Nature's handmaid sometimes serves the turn.
+
+No, he must have a sprightfull, youthfull Wench,
+
+In equal floods of Love his flames to quench:
+
+One that will hold him in her clasping Arms,
+
+And in that circle all his Spirits charms,
+
+That with new motion and unpractis'd art,
+
+Can raise his Soul and re-insnare his Heart.
+
+Hence spring the noble, fortunate and great,
+
+Always begot in passion and in heat:
+
+But the dull Off-spring of the Marriage-bed,
+
+What is it but a humane lump of lead?
+
+A sottish lump, ingender'd of all ills,
+
+Begot like Ca [...]s against their Fathers wills.
+
+If it be basterdiz'd, 'tis doubly spoil'd,
+
+The Mother's fears entail'd upon the Child.
+
+Thus whether illegitimate or not,
+
+Cowards and Fools in Wedlock are begot.
+
+Let no ennobled Soul himself debase
+
+By lawfull means to basterdize his race:
+
+But if he must pay Nature's debt in kind,
+
+To check his eager Passion let him find
+
+Some willing Female out; what though she be
+
+The very dregs and scum of infamy?
+
+Though she be Linsey-woolsey Bawd and Whore,
+
+Close-stool to Venus, Nature's common shore,
+
+Impudent, foolish, bawdy, and disease,
+
+The Sunday Crack of Suburb Prentices,
+
+What then she's better than a Wife by half,
+
+And if thour't still unmarried thou art safe.
+
+With Whores thou canst but venture: what thou'st lost,
+
+May be redeem'd again with care and cost;
+
+But a damn'd Wife by inevitable fate,
+
+Destroys Soul, Body, Credit and Estate.
+
+FINIS.
+
+[[Page 261]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=126)
+
+## Appendix A ADDENDA.
+
+### Appendix A.1 In Opposition to Mr. Dryden's Essay on Satyr. 1680.
+
+NOW the Reformer of the Court and Stage,
+
+The common Beadle of this wilfull Age,
+
+Has with impartial Hand whipt Soverain Sin,
+
+In me it is but manners to begin.
+
+To correct Vice keen Satyr may prevail
+
+Beyond the Law, when preaching Blockheads fail:
+
+For Law and Satyr from one Fountain flow:
+
+Were not men vicious there would be no Law.
+
+But to cry up his sawcy Cant and Rule,
+
+For lawfull Satyr, proves the Witt or Fool.
+
+To rail at States, and Monarchs ill entreat,
+
+Then cry 'tis Good because the Subject's Great:
+
+As Man were onely plac'd in Paradice,
+
+To nibble on the Fruit on which he dies.
+
+Can Owls and VVoodcocks with the Eagle play,
+
+And not in danger to become a Prey?
+
+VVhat is't to lash the King and Council-Table,
+
+VVhen I my self am kickt by the Town Rabble?
+
+For me to labour in a lower sphere
+
+I think too much, yet it is safest there:
+
+Nor do I covet matter to my Rhymes
+
+The greatest Person, but the greatest Crimes.
+
+VVhat is't to me, who keeps a Mis, who's VVed,
+
+Or who got Carwell's costly Maidenhead:
+
+VVho got the better on't, the Peer or Knight;
+
+VVhat Lord was drunk, or Lady — last night.
+
+These are the crying Crimes; yet one may do
+
+All this, and be an honest Subject too.
+
+[[Page 262]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=127)But to
+supplant the Government, to cry
+
+A [...]legiance down, and raze out Monarchy;
+
+To make Caballs, and by a bold Petition
+
+Imbrue the Nation in a new Sedition;
+
+To sowce Rebellion, lay up Plots in pickle,
+
+And make each Tavern-bar a Conventicle;
+
+This would become a Muses Excellence,
+
+To whi [...] the Club into Allegiance.
+
+Who'd not be as affected as Sir Carr?
+
+As proud as M—ve, as dull as D —ar?
+
+drunk as Fish, who lost himself and Prince
+
+[...] Debauch, and ne'er was sober since;
+
+[...] than that insatiate Beast of prey,
+
+[...] Flock, to make himself away.
+
+[...] cloy'd with Blood of Lambs and Ews,
+
+[...] the Shepherd's Noose.
+
+[...] Men find a more safe abode,
+
+[...] Paths to keep the Road.
+
+[...] humane wisdome ever shou'd
+
+[...] pretence of doing good:
+
+[...] Men, that wou'd prescribe us Rules
+
+[...], prove either Knaves or Fools.
+
+[...] the  [...]ataline that left Whitehall,
+
+To be made President of the Cabal:
+
+So h [...]'s in play, (provided there's no blows)
+
+It matters not the New, or the Old Cause.
+
+Has on all points of Government ran his rounds,
+
+As Gore the Compass did with Blood and Zounds.
+
+But sooner may you fix the Northern wind,
+
+Than hope the Weathercock will be confin'd.
+
+Nature made him a perverse Wight, whose Nose
+
+Extracts the Essence of his Gouty Toes.
+
+Double with head to tail he crawls apart;
+
+His Bodies Emblem of his double Heart.
+
+In the Courts Sun he riggles like a Snail;
+
+Touch but his Horns he shrinks into his Shell.
+
+Rowl'd like a Hedgehog up, he shews his Snout,
+
+And at the Council-table makes a rout.
+
+[[Page 263]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=127)Gainst
+King and the Succession domineers;
+
+If ought oppose him, he has Forks and Spears.
+
+Like a vile Skuller he abjures the Realm,
+
+And sinks the Barge 'cause he's not chief at Helm.
+
+Then cries all hands to pump a leak i'th' Keel,
+
+And stops it up with Julian's Conger-Eel.
+
+And when a shot pierc'd the broad-side, e'en then
+
+Clapt in the hole, and sav'd Sir Edward's Men.
+
+The way's to keep him there, if he get through,
+
+Secures himself, he drowns the Ship and Crew.
+
+If to the Ocean back again he's bent,
+
+With Rabble, he's in his own Element.
+
+There let him plot and ne'er behold the Sun,
+
+Till he has through all scenes of Folly run,
+
+Under pretext of Wit to be undone.
+
+As the late Duke who for a glorious Bully,
+
+Retir'd from Court to be the City's Cully;
+
+The City's Minion, now their scorn and sport,
+
+There more despis'd than once ador'd at Court:
+
+Who did his Fall so cunningly contrive,
+
+In quaint Disguise, to Ryot, Rant, and S—ve,
+
+And when he lifts himself in Infamy,
+
+Reviles the State, and rails at Monarchy.
+
+The only means true Glory to pursue;
+
+And must the best way be because 'tis new.
+
+Would any Hewson from the Throne retreat
+
+To th' Stall under disguise of being Great:
+
+And only for to merit vulgar praise,
+
+Rather than not be popular, be base.
+
+So once an Emperour, as Stories say,
+
+Exchang'd his Sceptre for a Ferula;
+
+And only proud to prove himself a Fool,
+
+Did quit the Throne to keep a Petty School.
+
+Yet this was great; while only for the noise
+
+Of Sovereign sway he lords it over Boys.
+
+Look to it York, the Nation first shall bleed,
+
+Or the two Kings of Brandford shall succeed.
+
+[[Page 262]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=128)
+
+[...]
+
+[[Page 263]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=128)
+
+[...]
+
+[[Page 264]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=129) H— for
+an Empire has as great an itch,
+
+As ever Dog had for his salt swoln Bitch.
+
+High on ambitious plumes aloft he flies,
+
+And to be something melts them in the Skies;
+
+VVhile th' humble wretch at home lies prostrate down
+
+To all the barking Beagles in the Town.
+
+Young D— too does in the Club intrude,
+
+To be applauded by the multitude:
+
+VVith zeal to King and Countrey he abounds;
+
+Keeps with the Hare, and opens with the Hounds:
+
+Now of the Court, now of the Countrey free,
+
+Mistakes Prerogative for Liberty.
+
+How well a Regiment would him become,
+
+If the loud Commons did but beat the Drum.
+
+My Masters vote it (Sir) a Prohibition;
+
+I can't in Conscience brook with your Commission.
+
+To levy Forces, and assign Commanders,
+
+Is Treason in the King to France, or Flanders.
+
+But if the House command me though I starve,
+
+I'le quit VVine, VVhores, Allegiance too, to serve.
+
+G— better far might slight his Sovereigns bounty;
+
+He had a Regiment within his County:
+
+And poor enough to back his tatter'd Cause,
+
+VVou'd R— venture but a broken Nose.
+
+Appease this mouthing Cerberus with a bone;
+
+Honour's a dainty Crust to pick upon;
+
+VVhile his dear Doxy makes a shift to rub
+
+The business out with M— at the Club.
+
+And Rolleston leads the Van while they combine,
+
+And humbly beg their Sovereign to resign.
+
+How Faction and the quenchless thirst of Rule
+
+Hurries to ruine the ambitious Fool,
+
+VVhose haughty Soul pufft up with Sovereign sway,
+
+VVill never scarce be humbled to obey.
+
+The pious Earl had such a spacious poop,
+
+As swallow'd up N— B—n and his Troop:
+
+VVho lately Lord Lieutenant of a Realm,
+
+Seem'd a good Pilot while he sat at Helm;
+
+[[Page 265]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=129)But when
+he was depos'd, he overthrew
+
+His Master's Cause and sided with the Crew.
+
+Now B—d he had much the worst o'th' lay,
+
+Having more Wit or honesty than they,
+
+Sneakt off and left the Club, his Game to play.
+
+Who after he had led them to the Porch,
+
+Like Buckingham, he left them in the lurch:
+
+At such a juncture of a time as odly,
+
+As Peyton for his Highness left the Godly;
+
+Or Escrick Howard to become a bawler,
+
+Withdrew from Court to cry up active Waller.
+
+These are the Men who all the bustle make,
+
+And Empire check meerly for Empire sake.
+
+They lay their stamp on the revolting Darling,
+
+And in the Club make Treason pass for Sterling.
+
+There are some other Beagles in this pack,
+
+That make a noise the Royal Chase to back;
+
+But when a Mastiff opens in the dark,
+
+The little Dogs will shake their tails and bark:
+
+And though the foremost Hound but start the Hare,
+
+The rest will mouth it as they claim'd a share:
+
+Who follow by the scent, and scarce have sense
+
+To judge 'twixt Treason and Allegiance;
+
+As Fops meet in a Pit to damn a Play,
+
+Not as they know, but by what others say.
+
+Unmeaning Fools, who something to be at,
+
+Follow the leading Cuckow, like the Batt;
+
+And justly merit as they are despis'd,
+
+Rather to be rejected than chastis'd.
+
+So bawling H—n and K— the mute,
+
+With Noise and Nonsense fill up the Dispute;
+
+And while the Club proclaims the lawless strife,
+
+One is the Drum, and t'other is the Fife.
+
+What shall we say of Fa—ge, Br—er,
+
+Or C—ry, or dull D—gh shall I flatter;
+
+Who in the Synod drudge like Gally-slaves,
+
+And buy the Stock to make a Gleek of Knaves.
+
+[[Page 266]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=130)Like
+Beasts insensible of wrong they stray,
+
+And find a Pound quitting the King's Highway.
+
+And now behold in triumph to their Follies,
+
+In Noll's old Coach of State comes sneaking H—s.
+
+Who sold the Father by an old Commission,
+
+And purchases the Son with a Petition.
+
+Now whether has the better on't, the Club,
+
+Or the Five Members in the Royal Job?
+
+This is the Bakers Dozen makes the Rump,
+
+And little Wa—r's leaven to the lump;
+
+When B—rd civilly had made his legg,
+
+The Club engender'd and brought forth an Egg;
+
+Which like Grand Cairo for a quick dispatch,
+
+Hot Monsieur Parliament must sett and Hatch.
+
+R—ly began to puff and shake his Noddle,
+
+And told them in plain terms the Brood was addle;
+
+That to a Rump he never more would give
+
+Away his Birthright, or Prerogative.
+
+Then like a God, which from his breath did leap,
+
+Dissolv'd the Chaos of confused heap.
+
+Bravely he spake, and wisely he perform'd,
+
+While still the Club against the Council storm'd:
+
+Who rather than from Faction wou'd be free,
+
+Or touch no more of the forbidden Tree,
+
+Would damn themselves and their posterity.
+
+How vile a thing is Man! how sudden Fate
+
+Attends his frailty in the best Estate!
+
+When arm'd with Innocence and Vertue, all
+
+That makes him blest is subject then to fall:
+
+The great first bold Offender oft I chid,
+
+When I my self agreed to what he did:
+
+Had I been there, perhaps I had done worse,
+
+And on my Rase entail'd a double curse:
+
+Ev'n I who all this while exclaim'd at Vice,
+
+And made to Loyalty a Sacrifice,
+
+May be deem'd sawcy, insolent and rude,
+
+And thought as guilty by the multitude.
+
+[[Page 267]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=130)This
+Balm I'le save against the deepest Wounds,
+
+To keep my sharper Pen within its bounds;
+
+And lest my soaring Muse too meanly fall,
+
+Learn to write mannerly, or not at all.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=131)
+
+## Appendix B ADVERTISEMENT.
+
+STate Poems continued, from the Time of Oliver Crom­well, to this year, 1697,
+by the greatest Wits of the Age, viz. Lord Rochester, Lord D—t, Lord V—n, the
+Honourable Mr. M—ue, Sir F. Sh—d, Mr. Mil­ton, Mr, Prior, Mr. Stepney, Mr.
+Ayloffe, &c. Among which, are several Poems in English and Latin, in Praise of
+Oliver Cromwell, by Dr. South, Mr. Lock, Sir W. G—n, Dr. Crew, Mr. Busby, &c.
+On King Charles II'ds Return, by my Lord Rochester; Three Satyrs by the same,
+written between 1670 and 1680. A Charge to the Grand Inquest of England,
+1674\. The Royal Buss and Windsor, by the Lord Rochester. An Epitaph on Card.
+Mazarine; Satyr Unmusled; the Hind and Panther transverst to the story of the
+City-Mouse and Country-Mouse; the Man of Honour, by the Honourable Mr. M—ue.
+The Vision; the Con­verts; the Lawreat; the Poets Address; the Audience; the
+Dream; Caesar's Ghost. On the University of Cambridge, burning the Duke of
+Monmouth's Picture, 1685, by Mr. Stepney; on the Commencement there, by Mr.
+Ayloffe; to Mr. F. Shepherd, by Mr. Prior; an Answer to King James's
+Declaration, by several Hands; on the Death of the Late Queen, by the Lord
+Cutts; on Tunbridge-Wells, by Mr. Causton; an Essay on Wri­ting and Printing;
+a Prologue, by the Earl of Roche­ster; on melting down the Plate, 1697. On Tun
+­bridge-Wells by the Lord Rochester. A Satyr against Brandy. On the Infanta of
+Portual. On the Return of King Charles, by Dr. South. With many other
+ex­cellent Poems, never before Printed. Price 3 s. Sold by the Booksellers of
+London and Westminster.
+
+This First Part, with the Continuation above, makes a compleat Collection of
+all that is valuable in this Nature, for these Forty Years.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=36411&page=131)
+
+[Home](/)
+
+Date: 1697  
+

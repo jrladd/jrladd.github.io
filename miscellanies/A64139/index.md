@@ -1,0 +1,13597 @@
+---
+layout: default
+---
+## (unknown project)
+
+# XXV sermons preached at Golden-Grove being for the vvinter half-year,
+beginning on Advent-Sunday, untill Whit-Sunday / by Jeremy Taylor ... —
+Sermons. Selections
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=1)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=1)
+
+XXV SERMONS PREACHED AT GOLDEN-GROVE: Being for the VVinter half-year,
+BEGINNING ON ADVENT-SUNDAY, UNTILL WHIT-SUNDAY.
+
+By JEREMY TAYLOR, D. D.
+
+Vae mihi si non Evangelizavero.
+
+_[figure]_
+
+LONDON, Printed by E. Cotes, for Richard Royston at the Angel in Ivie-Lane. M.
+D C. LIII.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=2)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=2)
+
+## To the right Honourable and truely Noble, RICHARD Lord VAUHAN, Earle of
+Carbery, &c.
+
+MY LORD,
+
+I Have now by the assistance of God, and the advantages of your many favours,
+finished a Year of Sermons; which if, like the first year of our Savi­ours
+preaching, it may be annus acceptabilis, an acceptable year to God, and his
+afflicted hand-maid the Church of England, a reliefe to some of her new
+necessities, and an in­stitution or assistance to any soule; I shall esteem it
+among those honors and blessings, with which God uses to reward those good
+intentions which himselfe first puts into our hearts, and then recompenses
+upon our heads. My Lord, They were first pre­sented to God in the ministeries
+of your family: For this is a blessing for which your Lordship is to blesse
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=3) God, that
+your Family is like Gideons Fleece, irriguous with a dew from heaven, when
+much of the voicinage is dry; for we have cause to remember that Isaac
+complain'd of the Philistims, who fill'd up his wells with stones, and
+rubbish, and left no beauvrage for the Flocks; and therefore they could give
+no milke to them that waited upon the Flocks, and the flocks could not be
+gathered, nor fed, nor defended. It was a designe of ruine, and had in it the
+greatest hostility; and so it hath been lately;
+
+—undi (que) totis
+
+Vsque adeo turbatur agris. En! ipse capellas
+
+Protenus aeger ago; hanc etiam vix Tityre duco.
+
+But, My Lord, this is not all: I would faine also complaine that men feele not
+their greatest evill, and are not sensible of their danger, nor covetous of
+what they want, nor strive for that which is forbidden them; but that this
+complaint would suppose an unnaturall evill to rule in the hearts of men; For
+who would have in him so little of a Man, as not to be greedy of the Word of
+God, and of holy Ordinances, even therefore because they are so hard to have?
+and this evill, although it can have no excuse, yet it hath a great and a
+certain cause;
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=3) for the Word
+of God still creates new appe­tites, as it satisfies the old; and enlarges the
+capacity, as it fils the first propensities of the Spirit. For all Spirituall
+blessings are seeds of Immortality, and of infinite felicities, they swell up
+to the comprehensions of Eternity; and the desires of the soule can never be
+wea­ried, but when they are decayed; as the sto­mach will be craving every
+day, unlesse it be sick and abused. But every mans experience tels him now,
+that because men have not Prea­ching, they lesse desire it; their long fasting
+makes them not to love their meat; and so wee have cause to feare, the people
+will fall to an Atrophy, then to a loathing of holy food, and then Gods anger
+will follow the method of our sinne, and send a famine of the Word and
+Sacraments. This we have the greatest reason to feare, and this feare can be
+relieved by nothing but by notices and experi­ence of the greatnesse of the
+Divine mercies and goodnesse.
+
+Against this danger in future, and evill in present, as you and all good men
+interpose their prayers, so have I added this little instance of my care and
+services; being willing to mi­nister in all offices and varieties of
+imploy­ment; that so I may by all meanes save some, and confirme others; or at
+least, that my selfe may be accepted of God in my desiring it.
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=4) And I thinke
+I have some reasons to expect a speciall mercy in this, because I finde by the
+con­stitution of the Divine providence, and Ecclesi­asticall affaires, that
+all the great necessities of the Church have been served by the zeale of
+preaching in publick, and other holy ministeries in publick or private, as
+they could be had. By this the Apostles planted the Church, and the primitive
+Bishops supported the faith of Mar­tyrs, and the hardinesse of Confessors, and
+the austerity of the Retired. By this they confoun­ded Hereticks, and evill
+livers, and taught them the wayes of the Spirit, and left them without
+pertinacy, or without excuse. It was Preaching that restored the splendour of
+the Church, when Barbarisme, and Warres, and Ignorance either sate in, or
+broke the Doctors Chaire in pieces: For then it was that divers Orders of
+religious, and especially of Preachers were erected; God inspiring into whole
+companies of men a zeal of Preaching: And by the same instrument God restored
+the beauty of the Church, when it was necessary shee should be reformed; it
+was the assiduous and learned preaching of those whom God chose for his
+Ministers in that work, that wrought the Advantages and persuaded those
+Truths, which are the enamel and beautie of our Churches. And because by the
+same meanes all things are preserved, by which they are pro­duc'd, it cannot
+but be certaine, that the pre­sent
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=4) state of the
+Church requires a greater care and prudence in this Ministerie then ever;
+espe­cially since by Preaching some endevour to supplant Preacbing, and by
+intercepting the fruits of the flocks to dishearten the Shepheards from their
+attendances.
+
+My Lord, your great noblenesse and religious charitie hath taken from mee some
+portions of that glory which I designed to my selfe in imi­tation of St. Paul
+towards the Corinthian Church; who esteemed it his honour to preach to them
+without a revenue; and though also like him I have a trade, by which as I can
+be more usefull to others, and lesse burthensome to you, yet to you also under
+God, I owe the quiet and the opportunities and circumstances of that, as if
+God had so interweaved the support of my affaires with your charitie, that he
+would have no advantages passe upon mee, but by your interest; and that I
+should expect no re­ward of the issues of my Calling, unlesse your Lordship
+have a share in the blessing.
+
+My Lord, I give God thanks that my lot is fallen so fairely, and that I can
+serve your Lordship in that ministerie, by which I am bound to serve God, and
+that my gratitude and my duty are bound up in the same bundle; but now, that
+which was yours by a right of propriety, I have made publick, that it may
+still be more yours, and you derive to your
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=5) selfe a
+comfort, if you shall see the necessitie of others serv'd by that which you
+heard so dili­gently, and accepted with so much pietie, and I am persuaded
+have entertain'd with that re­ligion and obedience, which is the dutie of all
+those who know, that Sermons are arguments a­gainst us, unlesse they make us
+better; and that no Sermon is received as it ought, un­lesse it makes us quit
+a vice, or bee in love with vertue; unlesse we suffer it in some in­stance or
+degree to doe the work of God upon our soules.
+
+My Lord, in these Sermons I have medled with no mans interest, that onely
+excepted, which is Eternall; but if any mans vice was to be re­proved, I have
+done it with as much severitie as I ought; some cases of Conscience I have
+here determined; but the speciall designe of the whole, is to describe the
+greater lines of Dutie, by speciall arguments: and if any witty Censu­rer
+shall say, that I tell him nothing but what he knew before; I shall be
+contented with it, and rejoyce that he was so well instructed, and wish also
+that he needed not a Remembrancer: but if either in the first, or in the
+second; in the institution of some, or the reminding of others, I can doe God
+any service; no man ought to be offended, that Sermons are not like curious
+inquiries after New-nothings, but pursuances of Old truths. However, I have
+already [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=5) many
+faire earnests that your Lordship will bee pleased with this tender of my
+service, and expression of my great and dearest ob­ligations, which you daily
+renew or continue upon,
+
+My noblest Lord,
+
+Your Lordships most affectionate and most obliged Servant JEREMY TAYLOR.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=6)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=6)
+
+Titles of the Sermons, their Order, Number, and Texts.
+
+  * SErmon 1. 2. 3. Dooms-day Book; or, Christs Advent to Judgement. Folio 1\. 15. 30. 
+
+2 Cor. 5. 10.
+
+For we must all appear before the Judgement seat of Christ, that every one may
+receive the things done in his body, according to that he hath done, whether
+it be good or bad.
+
+  * Sermon 4. 5. 6. The Return of Prayers; or, The conditions of a Prevailing Prayer. fol. 44\. 57. 69. 
+
+Joh. 9. 31.
+
+Now we know that God heareth not sinners, but if any man be a worshipper of
+God and doth his will, him he heareth.
+
+  * Sermon 7. 8. 9. Of Godly Fear, &c. fol. 83\. 95. 114. 
+
+Heb. 12. part of the 28th. & 29th. vers.
+
+Let us have grace whereby we may serve God with reverence and godly fear. For
+our God is a consuming Fire.
+
+  * Sermon 10. 11. The Flesh and the Spirit. fol. 125\. 139. 
+
+Matt. 26. 41. latter part.
+
+The Spirit indeed is willing, but the Flesh is weak.
+
+  * Sermon 12. 13. 14. Of Lukewarmnesse and Zeal; or, Spiritual Terrour. fol. 152\. 164. 179. 
+
+Jer. 48. 10. first part.
+
+Cursed be he that doth the work of the Lord deceitfully.
+
+  * Sermon 15. 16. The House of Feasting; or, The Epicures Mea­sures. fol. 191\. 204. 
+
+1 Cor. 15. 32. last part.
+
+Let us eat and drink, for to morrow we die.
+
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=7) Sermon 17. 18. The Marriage Ring; or, The Mysteriousnesse and Duties of Marriage. fol. 219\. 232. 
+
+Ephes. 5. 32, 33.
+
+This is a great mysterie; But I speak concerning Christ and the Church.
+Neverthelesse, let every one of you in particular so love his Wife even as
+himselfe, and the Wife see that she reve­rence her Husband.
+
+  * Sermon 19. 20. 21. Apples of Sodome; or, The Fruits of Sin. fol. 245\. 260. 273. 
+
+Rom. 6. 21.
+
+What fruit had ye then in those things whereof ye are now asha­med? For the
+end of those things is death.
+
+  * Sermon 22. 23. 24. 25. The good and evill Tongue. Of Slan­der and Flattery. The Duties of the Tongue. fol. 286\. 298. 311. 323. 
+
+Ephes. 4. 25.
+
+Let no corrupt communication proceed out of your mouth, but that which is good
+to the use of edifying, that it may minister grace unto the hearers.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=7)
+
+Titles of the 28 Sermons, their Order, Num­bers and Texts. Being the second
+Volume.
+
+  * SErmon 1, 2. Of the Spirit of Grace. Fol. 1\. 12. 
+
+Rom. 8. ver. 9, 10.
+
+But ye are not in the flesh, but in the Spirit, if so be that the Spirit of
+God dwell in you. Now if any man have not the Spirit of Christ, he is none of
+his. * And if Christ be in you, the body is dead because of sin, but the
+Spirit is life, because of righteousness.
+
+  * Sermon 3, 4. The descending and entailed curse cut off, fol. 24\. 40. 
+
+Exodus 20 part of the 5. verse.
+
+I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon
+the children, unto the third and fourth generation of them that hate me.
+
+6\. And shewing mercy unto thousands of them that love me, and keep my
+commandments.
+
+  * Sermon 5, 6. The invalidity of a late, or death-bed repentance, fol. 52\. 66. 
+
+Jerem. 13. 16.
+
+Give glory to the Lord your God, before he cause darkness, and before your
+feet stumble upon the dark mountains: and while ye look for light (or, lest
+while ye look for light) he shall turn it into the shadow of death and make it
+grosse darknesse.
+
+  * Sermon 7, 8. The deceitfulness of the heart, fol. 80\. 92. 
+
+Jeremiah 17. 9.
+
+The heat is deceitful above all things, and desperately wicked; who can know
+it?
+
+  * Sermon 9, 10, 11. The faith and patience of the Saints; Or, the righteous cause oppressed. fol. 104\. 119. 133. 
+
+1 Pet. 4. 17.
+
+For the time is come that judgement must begin at the house of God: and if it
+first begin at us, what shall the end be of them that obey not the Gospel of
+God?
+
+18\. And if the righteous scarcely be saved, where shall the ungodly and the
+sinner appear?
+
+  * Sermon 12, 13. The mercy of the Divine judgements; or, Gods method in curing sinners, fol. 146\. 159. 
+
+Romans 2. 4.
+
+Despisest thou the riches of his goodnesse, and forbearance and long-
+suffer­ing, not knowing that the goodnesse of God leadeth thee to repentance?
+
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=8) Sermon 14, 15. Of growth in grace, with its proper instruments and signs. fol. 172\. 173. 
+
+2 Pet. 3. 18.
+
+But grow in grace, and in the knowledge of the Lord Jesus Christ, to whom be
+glory both now and for ever. Amen.
+
+  * Sermon 16, 17. Of growth in sin, or the several states and de­grees of sinners, with the manner how they are to be treated. fol. 197\. 210. 
+
+Jude Epist. ver. 22, 23.
+
+And of some have compassion, making a difference: * And others save with fear,
+pulling them out of the fire.
+
+  * Sermon 18, 19. The foolish exchange. fol. 224\. 237. 
+
+Matth. 16. ver. 26.
+
+For what is a man profited, if he shall gain the whole world, and lose his own
+soul? or what shall a man give in exchange for his soul?
+
+  * Sermon 20, 21, 22. The Serpent and the Dove; or, a discourse of Christian Prudence. fol. 251\. 263. 274. 
+
+Matth. 10. latter part of ver. 16.
+
+Be ye therefore wise as serpents and harmlesse as doves.
+
+  * Sermon 23, 24. Of Christian simplicity. 289. 301. 
+
+Matth 10. latter part of verse 16.
+
+And harmless as Doves.
+
+  * Sermon 25, 26, 27. The miracles of the Divine Mercy. fol. 313\. 327. 340. 
+
+Psal. 86. 5.
+
+For thou Lord art good and ready to forgive, and plenteous in mercy to all
+them that call upon thee.
+
+  * A Funeral Sermon preached at the Obsequies of the Right Hono­rable the Countess of Carbery. fol. 357\. 
+
+2 Sam. 14. 14.
+
+For we must needs dye, and are as water spilt on the ground which cannot be
+gathered up again: neither doth God respect any person: yet doth he devise
+means that his banished be not expelled from him.
+
+  * A Discourse of the Divine Institution, necessity, sacredness, and separation of the Office Ministerial.
+
+## Table of contents
+
+  * To the right Honourable and truely Noble, RICHARD Lord VAUHAN, Earle of Carbery, &c.
+  * 1\. Sermon, I. ADVENT SUNDAY. DOOMS-DAY BOOK: OR, CHRIST'S Advent to Judgement.
+  * 2\. SERMON, II. Part II. 
+  * 3\. SERMON, III. Part, III.
+  * 4\. SERMON, IV. The Returne of PRAYERS. Or, The Conditions of a PREVAILING PRAYER.
+  * 5\. SERMON, V. Part II. 
+  * 6\. SERMON, VI. Part, III. 
+  * 7\. Sermon, VII. Of godly Fear, &c. Part I.
+  * 8\. SERMON, VIII. Part II. 
+  * 9\. SERMON, IX. Part III. 
+  * 10\. Sermon, X. The Flesh and the Spirit: Part I.
+  * 11\. SERMON, XI. Part II. 
+  * 12\. Sermon, XII. Of Lukewarmnesse, and Zeal: OR SPIRITVALL TERROVR. Part I.
+  * 13\. SERMON, XIII. Part II. 
+  * 14\. SERMON, XIV. Part III. 
+  * 15\. Sermon, XV. The House of Feasting: OR THE EPICVRES MEASVRES. Part I.
+  * 16\. SERMON, XVI. Part II. 
+  * 17\. Sermon, XVII. THE MARRIAGE RING: OR THE Mysteriousnesse and Duties of Marriage. Part I.
+  * 18\. SERMON, XVIII. Part II. 
+  * 19\. Sermon, XIX. APPLES of SODOM: OR The Fruits of Sinne. Part. I.
+  * 20\. SERMON, XX. Part II. 
+  * 21\. SERMON, XXI. Part III. 
+  * 22\. Sermon, XXII. THE GOOD and EVILL TONGUE.
+  * 23\. SERMON, XXIII. Part II. 
+  * 24\. SERMON, XXIV. Part III. Of Slander and Flattery. 
+  * 25\. SERMON, XXV. Part IV. The Duties of the Tongue.
+  * Appendix A ERRATA.
+
+[[Page 1]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=8)
+
+## 1\. Sermon, I. ADVENT SUNDAY. DOOMS-DAY BOOK: OR, CHRIST'S Advent to
+Judgement.
+
+2 Cor. 5. 10.‘For we must all appear before the Judgment seat of CHRIST, that
+every one may receive the things done in his body, according to that he hath
+done, whe­ther it be good or bad.’
+
+VErtue and Vice are so essentially distinguished, and the distinction is so
+necessary to be ob­served A in order to the well being of men, in private, and
+in societies, that to divide them in themselves, and to separate them by
+suffi­cient notices, and to distinguish them by re­wards, hath been designed
+by all Laws, by the sayings of wise men, by the order of things, by their
+proportions to good or evill; and the expectations of men have been fram'd
+accordingly; that Vertue may have a proper seat in the will and in the
+affections, and may become amiable by its own excellency and its appendant
+blessing; and B that Vice may be as naturall an enemy to a man as a Wolf to
+the Lamb, and as darknesse to light; destructive of its being, and a
+contradiction of its nature. But it is not enough that all the world hath
+armed it self against Vice, and by all that is wise and sober amongst men,
+hath taken the part of Vertue, adorning it [[Page
+2]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=9) with glorious
+appellatives, encouraging it by rewards, entertaining A it with sweetnesses,
+and commanding it by edicts, fortifying it with defensatives, and twining with
+it in all artificiall compliances; all this is short of mans necessity; for
+this will in all modest men secure their actions in Theatres, and High-wayes,
+in Markets, and Churches, before the eye of Judges, and in the society of
+Witnesses. But the actions of closets and chambers, the designs and thoughts
+of men, their discourses in dark places, and the actions of retirements and of
+the night, are left indifferent to Vertue or to Vice; and of these, as man can
+take no cognisance, so he can make no coercitive; and therefore above one half
+of B humane actions is by the Laws of man left unregarded, and un­provided
+for: and besides this, there are some men who are big­ger then Lawes, and some
+are bigger then Judges, and some Judges have lessened themselves by fear and
+cowardize, by bridery and flattery, by iniquity and complyance; and where they
+have not, yet they have notices but of few causes; and there are some sins so
+popular and universall, that to punish them is either impossible or
+intolerable; and to question such, would betray the weaknesse of the publick
+rods and axes, and represent the sinner to be stron­ger then the power that is
+appointed to be his bridle; and after C all this, we finde sinners so
+prosperous, that they escape, so po­tent, that they fear not, and sin is made
+safe when it growes great,
+
+—Facere omnia saevè
+
+Non impunè licet, nisi dum facis—
+
+and innocence is oppressed, and the poor cry, and he hath no helper; and he is
+oppressed, and he wants a Patron: and for these and many other concurrent
+causes, if you reckon all the causes that come before all the Judicatories of
+the world, though the litigious are too many, and the matters of instance are
+intricate D and numerous, yet the personall and criminall are so few, that of
+20000 sins that cry aloud to God for vengeance, scarce two are noted by the
+publick eye and chastis'd by the hand of Justice; it must follow from hence,
+that it is but reasonable for the inte­rest of vertue and the necessities of
+the world, that the private should be judg'd, and vertue should be tyed upon
+the spirit, and the poor should be relieved, and the oppressed should appeal,
+and the noise of Widows should be heard, and the Saints should stand upright,
+and the Cause that was ill judged should be judged over E again, and Tyrants
+should be call'd to account, and our thoughts should be examined, and our
+secret actions view'd on all sides, and the infinite number of sins which
+escape here should not escape finally; and therefore God hath so ordained it,
+that there shall be a day of doom wherein all that are let alone by men shall
+be [[Page 3]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=9)
+question'd by God, and every word and every action shall receive A its just
+recompence of reward. For we must all appear before the Judgement seat of
+Christ, that every one may receive the things done in his body according to
+that he hath done, whether it be good or bad.
+
+[...], so it is in the best copies, not  [...], The things done in the body,
+so we commonly read it; the things proper or due to the body; so the
+expression is more apt and pro­per; for not only what is done  [...] by the
+body, but even the acts of abstracted understanding and volition, the acts of
+reflexion and choice, acts of self-love and admiration, and what ever else can
+be supposed the proper and peculiar act of the soul or of the B spirit, is to
+be accounted for at the day of Judgement: and even these may be called  [...],
+because these are the acts of the man in the state of conjunction with the
+body. The words have in them no other difficulty or variety, but contain a
+great truth of the biggest interest; and one of the most materiall
+con­stitutive Articles of the whole Religion, and the greatest endear­ment of
+our duty in the whole world. Things are so ordered by the great Lord of all
+the creatures, that whatsoever we do or suffer shall be call'd to account, and
+this account shall be exact, and the sentence shall be just, and the reward
+shall be great; all C the evils of the world shall be amended, and the
+injustices shall be repaid, and the divine Providence shall be vindicated, and
+Ver­tue and Vice shall for ever be remark'd by their separate dwellings and
+rewards.
+
+This is that which the Apostle in the next verse cals the terror of the Lord;
+it is his terror, because himself shall appear in his dresse of Majesty and
+robes of Justice, and it is his terror, because it is of all the things in the
+World the most formidable in it self, and it is most fearfull to us: where
+shall be acted the interest and finall sentence of eternity; and because it is
+so intended, I shall all the way represent it as the Lords terror, that we may
+be afraid of sin, for the destructi­on D of which this terror is intended. 1.
+Therefore we will consider the persons that are to be judged, with the
+circumstances of our advantages or our sorrowes: [We must all appear.] 2\. The
+Judge and his Judgement seat: [before the Judgment seat of Christ.] 3\. The
+sentence that they are to receive; the things due to the bo­dy, good or bad;
+according as we now please, but then cannot al­ter. Every one of these are
+dressed with circumstances of affli­ction and afrightment to those to whom
+such terrors shall apper­tain as a portion of their inheritance. E
+
+1\. The persons who are to be judged: even you, and I, and all the world:
+Kings and Priests, Nobles and Learned, the Craf­ty and the Easie, the Wise and
+the Foolish, the Rich and the Poor, the prevailing Tyrant and the oppressed
+Party shall all appear to receive ther Symbol; and this is so farre from
+abating any thing [[Page
+4]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=10) of its terror and
+our dear concernment, that it much increases it: A for although concerning
+Precepts and Discourses we are apt to neglect in particular what is
+recommended in generall, and in in­cidencies of Mortality and sad events the
+singularity of the chance heightens the apprehension of the evill; yet it is
+so by accident and only in regard of our imperfection; it being an effect of
+self-love or some little creeping envie which adheres too often to the
+infortunate and miserable; or else because the sorrow is apt to increase by
+being apprehended to be a rare case and a sin­gular unworthinesse in him who
+is afflicted, otherwise then is com­mon to the sons of men, companions of his
+sin, and brethren of B his nature, and partners of his usuall accidents; yet
+in finall and extreme events the multitude of sufferers does not lessen but
+increase the sufferings; and when the first day of Judgement hap­pen'd, that
+(I mean) of the universall deluge of waters upon the old World, the calamity
+swell'd like the floud, and every man saw his friend perish, and the
+neighbours of his dwelling, and the relatives of his house, and the sharers of
+his joyes, and yester­daies bride, and the new born heir, the Priest of the
+Family, and the honour of the Kindred, all dying or dead, drench'd in water
+and the divine vengeance; and then they had no place to flee un­to, C no man
+cared for their souls; they had none to goe unto for counsell, no sanctuary
+high enough to keep them from the ven­geance that raip'd down from heaven: and
+so it shall be at the day of Judgement, when that world and this and all that
+shall be born hereafter, shall passe through the same Red sea, and be all
+baptized with the same fire, and be involv'd in the same cloud, in which shall
+be thundrings and terrors infinite; every Mans fear shall be increased by his
+neighbours shriekes, and the amazement that all the world shall be in, shall
+unite as the sparks of a raging furnace into a globe of fire, and roul upon
+its own principle, and D increase by direct appearances, and intolerable
+reflexions. He that stands in a Church-yard in the time of a great plague, and
+hears the Passing-bell perpetually telling the sad stories of death, and sees
+crowds of infected bodies pressing to their Graves, and others sick and
+tremulous, and Death dress'd up in all the ima­ges of sorrow round about him,
+is not supported in his spirit by the variety of his sorrow: and at Dooms-day,
+when the terrors are universall, besides that it is in it self so much greater
+because it can affright the whole world, it is also made greater by
+com­munication and a sorrowfull influence; Grief being then strong­ly
+infections: when there is no variety of state but an intire E Kingdome of
+fear; and amazement is the King of all our passi­ons, and all the world its
+subjects: and that shrieke must needs be terrible, when millions of Men and
+Women at the same in­stant shall fearfully cry out, and the noise shall mingle
+with the [[Page 5]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=10)
+Trumpet of the Archangell, with the thunders of the dying and A groaning
+heavens, and the crack of the dissolving world, when the whole fabrick of
+nature shall shake into dissolution and eternall ashes. But this generall
+consideration may be hightned with four or five circumstances.
+
+1\. Consider what an infinite multitude of Angels and Men and Women shall then
+appear; it is a huge assembly when the Men of one Kingdome, the Men of one Age
+in a single Province are gathered togother into heaps and confusion of
+disorder; But then all Kingdomes of all ages, all the Armies that ever
+mustered, all that World that Augustus Caesar taxed, all those B hundreds of
+Millions that were slain in all the Roman Wars from Numa's time till Italy was
+broken into Principalities and small Exarchats, all these, and all that can
+come into numbers, and that did descend from the loins of Adam, shall at once
+be repre­sented; to which account if we adde the Armies of Heaven, the nine
+orders of blessed Spirits, and the infinite numbers in every order, we may
+suppose the numbers fit to expresse the Majesty of that God, and the terror of
+that Judge, who is the Lord and Fa­ther of all that unimaginable multitude.
+Erit terror ingens tot simul tantorúmque populorum. C Florus.
+
+2\. In this great multitude we shall meet all those who by their example and
+their holy precepts have like tapers enkindled with a beam of the Sun of
+righteousnesse enlightned us, and taught us to walk in the paths of justice.
+There we shall see all those good men whom God sent to preach to us, and
+recall us from humane follies and inhumane practises: and when we espie the
+good man that chid us for our last drunkennesse or adulteries, it shall then
+also be remembred how we mocked at counsell, and were civilly modest at the
+reproof, but laugh'd when the man was gone, and accepted it for a religious
+complement, and took our leaves and D went and did the same again. But then
+things shall put on ano­ther face, and what we smil'd at here, and slighted
+fondly, shall then be the greatest terror in the world; Men shall feel that
+they once laugh'd at their own destruction, and rejected health when it was
+offered by a man of God upon no other condition, but that they would be wise,
+and not be in love with death. Then they shall perceive, that if they had
+obeyed an easie and a sober counsell, they had been partners of the same
+felicity which they see so illustrious upon the heads of those Preachers whose
+work is with the Lord, and who by their life and Doctrine endea­voured to
+snatch the Soul of their friend or relatives from an in­tolerable E misery.
+But he that sees a crown put upon their heads that give good counsell, and
+preach holy and severe Sermons with de­signs of charity and piety, will also
+then perceive that God did not send Preachers for nothing, on trifling errands
+and without [[Page
+6]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=11) regard: but that
+work which he crowns in them he purposed A should be effective to us,
+perswasive to the understanding, and active upon our consciences. Good
+Preachers by their Doctrine, and all good men by their lives are the accusers
+of the disobe­dient, and they shall rise up from their seats, and judge and
+con­demn the follies of those who thought their piety to be want of courage,
+and their discourses pedanticall, and their reproofs the Priests trade, but of
+no signification, because they prefer'd moments before eternity.
+
+3\. There in that great assembly shall be seen all those Converts who upon
+easier terms, and fewer miracles, and a lesse experi­ence, B and a younger
+grace, and a seldomer Preaching, and more unlikely circumstances have suffered
+the work of God to prosper upon their spirits, and have been obedient to the
+heavenly calling. There shall stand the men of Ninevch, and they shall stand
+up­right in Judgement, for they at the preaching of one man in a lesse space
+then forty dayes returned unto the Lord their God; but we have heard him call
+all our lives, and like the deaf Ad­der stopt our ears against the voice of
+Gods servants, charme they never so wisely. There shall appear the men of
+Capernaum, and the Queen of the South, and the Men of Berea, and the first
+fruits C of the Christian Church, and the holy Martyrs, and shall pro­claim to
+all the world that it was not impossible to do the work of Grace in the midst
+of all our weaknesses, and accidentall disad­vantages: and that the obedience
+of Faith, and the labour of Love, and the contentions of chastity, and the
+severities of temperance and self-deniall, are not such insuperable mountains,
+but that an honest and a sober person may perform them in acceptable de­grees,
+if he have but a ready ear, and a willing minde, and an honest heart: and this
+seen of honest persons shall make the Di­vine Judgement upon sinners more
+reasonable and apparently just; D in passing upon them the horrible sentence;
+for why cannot we as well serve God in peace as others served him in war? why
+cannot we love him as well when he treats us sweetly and gives us health and
+plenty, honours or fair fortunes, reputation or con­tentednesse, quietnesse
+and peace, as others did upon gibbets and under axes, in the hands of
+tormentors, and in hard wildernesses, in nakednesse and poverty, in the midst
+of all evill things and all sad discomforts? Concerning this no answer can be
+made.
+
+4\. But there is a worse sight then this yet, which in that great assembly
+shall distract our sight and amaze our spirits. There E men shall meet the
+partners of their sins, and them that drank the round when they crown'd their
+heads with folly and forget­fulnesse, and their cups with wine and noises.
+There shall ye see that poor perishing soul whom thou didst tempt to adultery
+and wantonnesse, to drunkennesse or perjury, to rebellion or an [[Page
+7]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=11) evill interest,
+by power or craft, by witty discourses or deep A dissembling, by scandall or a
+snare, by evill example or perni­cious counsell, by malice or unwarinesse; and
+when all this is summ'd up, and from the variety of its particulars is drawn
+in­to an uneasie load and a formidable summe, possibly we may finde sights
+enough to scare all our confidences, and arguments enough to presse our evill
+souls into the sorrowes of a most intolerable death. For however we make now
+but light accounts and evill proportions concerning it, yet it will be a
+fearfull circumstance of appearing, to see one, or two, or ten, or twenty
+accursed souls despairing, miserable, infinitely miserable, roaring and
+blasphe­ming, B and fearfully cursing thee as the cause of its eternall
+sor­rowes. Thy lust betray'd and rifled her weak unguarded inno­cence; thy
+example made thy servant confident to lye, or to be perjur'd; thy society
+brought a third into intemperance and the disguises of a beast; and when thou
+feest that soul with whom thou didst sin drag'd into hell, well maist thou
+fear to drink the dregs of thy intolerable potion; And most certainly it is
+the grea­test of evils to destroy a soul for whom the Lord Jesus dyed, and to
+undoe that grace which our Lord purchased with so much sweat and bloud, pains
+and a mighty charity. And because very ma­ny C sins, are sins of society and
+confederation; such are fornica­tion, drunkennesse, bribery, simony,
+rebellion, schisme, and many others, it is a hard and a weighty consideration
+what shall become of any one of us who have tempted our Brother or Sister to
+sin and death: for though God hath spar'd our life, and they are dead and
+their debt-books are sealed up till the day of account, yet the mischief of
+our sin is gone before us, and it is like a mur­ther, but more execrable, the
+soul is dead in trespasses and sins, and sealed up to an eternall sorrow, and
+thou shalt see at Dooms-day what damnable uncharitablenesse thou hast done.
+That soul D that cryes to those rocks to cover her, if it had not been for thy
+perpetuall temptations, might have followed the Lamb in a white robe; and that
+poor man that is cloathed with shame and flames of fire, would have shin'd in
+glory, but that thou didst force him to be partner of thy basenesse. And who
+shall pay for this losse? a soul is lost by thy means; thou hast defeated the
+holy pur­poses of the Lord's bitter passion by thy impurities; and what shall
+happen to thee by whom thy Brother dies eternally? Of all the considerations
+that concern this part of the horrors of Dooms-day nothing can be more
+formidable then this, to such E whom it does concern: and truly it concerns so
+many, and amongst so many, perhaps some persons are so tender, that it might
+af­fright their hopes and discompose their industries and spritefull labours
+of repentance; but that our most mercifull Lord hath in the midst of all the
+fearfull circumstances of his second com­ing [[Page
+8]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=12) interwoven this
+one comfort relating to this, which to my A sense seems the most fearfull and
+killing circumstance: Two shall be grinding at one mill; the one shall be
+taken, and the other left. Two shall be in a bed; the one shall be taken, and
+the other left; that is, those who are confederate in the same fortunes, and
+in­terests, and actions, may yet have a different sentence: for an ear­ly and
+an active repentance will wash off this account, and put it upon the tables of
+the Crosse; and though it ought to make us diligent and carefull, charitable
+and penitent, hugely penitent, even so long as we live, yet when we shall
+appear together, there is a mercy that shall there separate us, who sometimes
+had blen­ded B each other in a common crime. Blessed be the mercies of of God,
+who hath so carefully provided a fruitfull shower of grace to refresh the
+miseries and dangers of the greatest part of man­kind. Thomas Aquinas was used
+to beg of God that he might never be tempted from his low fortune to Prelacies
+and dignities Ecclesiasticall; and that his minde might never be discomposed
+or polluted with the love of any creature; and that he might by some
+instrument or other understand the state of his deceased Brother; and the
+story sayes, that he was heard in all: In him it was a great curiosity, or the
+passion and impertinencies of a C uselesse charity to search after him,
+unlesse he had some other personall concernment, then his relation of kindred.
+But truly, it would concern very many to be solicitous concerning the event of
+those souls with whom we have mingled death and sin; for many of those
+sentences which have passed and decreed concer­ning our departed relatives,
+will concern us dearly, and we are bound in the same bundles, and shall be
+thrown into the same fires, unlesse we repent for our own sins, and double our
+sorrows for their damnation.
+
+5\. We may consider that this infinite multitude of men and D women, Angels
+and Devils, is not ineffective as a number in Pythagoras Tables, but must
+needs have influence upon every spi­rit that shall there appear. For the
+transactions of that court are not like Orations spoken by a Grecian Orator in
+the circles of his people, heard by them that croud nearest him, or that sound
+li­mited by the circles of aire, or the inclosure of a wall; but eve­ry thing
+is represented to every person, and then let it be con­sidered, when thy shame
+and secret turpitude, thy midnight re­vels and secret hypocrisies, thy
+lustfull thoughts, and treache­rous designes, thy falshood to God and
+startings from thy holy promises, thy follies and impieties shall be laid open
+before all the E world, and that then shall be spoken by the trumpet of an
+Arch­angell upon the house top, the highest battlements of Heaven, all those
+filthy words and lewd circumstances which thou didst act secretly, thou wilt
+find that thou wilt have reason strangely to [[Page
+9]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=12) be ashamed. All
+the wise men in the world shall know how vile thou hast been: and then
+consider; with what confusion of face wouldst A thou stand in the presence of
+a good man and a severe, if per­adventure he should suddenly draw thy curtain,
+and finde thee in the sins of shame and lust; it must be infinitely more, when
+God and all the Angels of heaven and earth, all his holy my­riads, and all his
+redeemed Saints shall stare and wonder at thy impurities and follies. I have
+read a story that a young Gentle­man being passionately by his mother
+disswaded from entring in­to the severe courses of a religious and single
+life, broke from her importunity by saying, Volo servare animam meam, I am
+re­solved by all means to save my soul. But when he had under­taken B a rule
+with passion, he performed it carelesly and remisly, and was but lukewarm in
+his Religion, and quickly proceeded to a melancholy and wearied spirit, and
+from thence to a sick­nesse and the neighbourhood of death; but falling into
+an ago­ny and a phantastick vision, dream'd that he saw himself sum­mon'd
+before Gods angry throne, and from thence hurryed into a place of torments,
+where espying his Mother, full of scorn she upbraided him with his former
+answer, and asked him, Why he did not save his soul, by all means, according
+as he undertook. But when the sick man awaked and recovered, he made his words
+C good indeed, and prayed frequently, and fasted severely, and la­boured
+humbly, and conversed charitably, and mortified himself severely, and refused
+such secular solaces which other good men received to refresh and sustain
+their infirmities, and gave no other account to them that asked him but this:
+If I could not in my extasie or dream endure my Mothers upbraiding my follies
+and weak Religion, how shall I be able to suffer, that God should re­dargue me
+at Dooms-day, and the Angels reproach my luke­warmnesse, and the Devlls
+aggravate my sins, and all the Saints D of God deride my follies and
+hypocrisies? The effect of that mans consideration may serve to actuate a
+meditation in every one of us: for we shall all be at that passe, that unlesse
+our shame and sorrowes be cleansed by a timely repentance, and cover'd by the
+Robe of Christ, we shall suffer the anger of God, the scorn of Saints and
+Angels, and our own shame in the generall assembly of all mankind. This
+argument is most considerable to them who are tender of their precious name
+and sensible of honour; if they rather would chuse death then a disgrace,
+poverty rather then shame, let them remember that a sinfull life will bring
+them to an intolerable shame at that day, when all that is ex­cellent E in
+heaven and earth shall be summon'd as witnesses and parties in a fearfull
+scrutiny. The summe is this; All that are born of Adam shall appear before God
+and his Christ, and all the innumerable companies of Angels and Devils shall
+be there: [[Page 10]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=13)
+and the wicked shall be afrighted with every thing they see; A and there they
+shall see those good men that taught them the waies of life, and all those
+evill persons whom them­selves have tempted into the waies of death, and those
+who were converted upon easier termes, and some of these shall shame the
+wicked, and some shall curse them, and some shall upbraid them, and all shall
+amaze them, and yet this is but the  [...], the beginning of those evils which
+shall never end till eternity hath a period; but concerning this they must
+first be judged; and that's the second generall consideration, We must appear
+before the Judgement seat of Christ, and that's a new state of terrors and B
+afrightments. Christ who is our Saviour, and is our Advocate, shall then be
+our Judge, and that will strangely change our confi­dences and all the face of
+things.
+
+2\. That's then the place and state of our appearance, Before the Judgement
+seat of Christ:] For Christ shall rise from the right hand of his Father, he
+shall descend towards us and ride upon a cloud, and shall make himself
+illustrious by a glorious Majesty, and an innumerable retinue and
+circumstances of terror and a migh­ty power: and this is that which Origen
+affirms to be the sign of the Son of Man. Remalcus de Vaux in Harpocrate
+divino affirms C that all the Greek and Latine Fathers consentientibus animis
+asseve­rant, hoc signo Crucem Christi significari, do unanimously affirm that
+the representment of the Crosse, is the sign of the Son of Man spoken of Mat.
+24\. 30. And indeed they affirm it very ge­nerally, but Origen after his
+manner is singular, hoc signum Cru­cis erit, cum Dominus ad judicandum
+venerit, so the Church used to sing, and so it is in the Sibyls verses;
+
+O lignum felix in quo Deus ipse pependit,
+
+Nec te terra capit, sed coeli tecta videbis D
+
+Cum renovata Dei facies ignita micabit.
+
+The sign of the Crosse is that sign of the Son of Man, when the Lord shall
+come to Judgement: and from those words of Scrip­ture [They shall look on him
+whom they have pierced] it hath been freely entertain'd at the day of
+Judgement, Christ shall sig­nifie his person by something that related to his
+passion, his crosse, or his wounds, or both. I list not to spin this curious
+cobweb; but Origen's opinion seems to me more reasonable; and it is more
+agreeable to the Majesty and Power of Christ to signifie himself E with
+proportions of his glory rather then of his humility, with effects of his
+being exalted into Heaven, rather then of his po­verty and sorrowes upon
+Earth; and this is countenanced better by some Greek copies;  [...], so it is
+commonly read, the sign of the Son of man in Heaven, [[Page
+11]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=13) that is (say
+they) the signe of the Son of man imprinted upon a A cloud; but it is in
+others  [...], the signe of the Son of man who is in the heavens; not that the
+signe shall bee imprinted on a cloud, or in any part of the heavens, but that
+hee who is now in the heavens, shall when he comes down, have a signe and
+signification of his own, that is, proper to him, who is there glorified, and
+shall return in glory; and he disparages the beauty of the Sun, who inquires
+for a Rule to know when the Sun shines, or the light breaks forth from its
+chambers of the East; and the Son of man shall need no other signification,
+but his infinite retinue, and all the Angels of God worshipping him, and B
+sitting upon a cloud, and leading the heavenly Host, and bring­ing his Elect
+with him, and being clothed with the robes of Majesty, and trampling upon
+Devils, and confounding the wicked, and destroying Death: but all these great
+things shall be invested with such strange circumstances, and annexes of
+Mightynesse, and Divinity, that all the world shall confesse the glories of
+the Lord; and this is sufficiently signified by St. Paul, We shall all be Rom.
+4. 10. set before the throne or place of Christ's judicature; For it is
+written, As I live, saith the Lord, every knee shall bow to me, and every
+tongue shall cenfesse to God: that is, at the day of Judgment, when wee C are
+placed ready to receive our Sentence, all knees shall bow to the holy Jesus,
+and confesse him to be God the Lord; meaning, that our Lords presence shall be
+such, as to force obeysance from Angels, and Men, and Devils; and his addresse
+to Judgement shall sufficiently declare his Person, and his Office, and his
+pro­per glories. This is the greatest Scene of Majesty that shall be in that
+day, till the Sentence bee pronounced; But there goes much before this which
+prepares all the world to the expecta­tion and consequent reception of this
+mighty Judge of Men and Angels. D
+
+The Majesty of the Judge, and the terrors of the Judgement shall bee spoken
+aloud by the immediate forerunning accidents, which shall bee so great
+violences to the old constitutions of Nature, that it shall break her very
+bones, and disorder her till shee be destroyed. St. Hierom relates out of the
+Jews books, that their Doctors use to account 15 days of prodigie immediately
+before Christ's coming, and to every day assigne a wonder, any one of which,
+if wee should chance to see in the days of our flesh, it would affright us
+into the like thoughts, which the old world had when they saw the countreys
+round about them E cover'd with water, and the Divine vengeance; or as those
+poor people neer Adria, and the Mediterranean sea, when their houses and
+Cities are entring into graves, and the bowells of the earth rent with
+convulsions and horrid tremblings. The sea (say they) shall rise 15 cubits
+above the highest Mountaines, and thence [[Page
+12]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=14) descend into
+hollownesse, and a prodigious drought, and when they A are reduc'd again to
+their usuall proportions, then all the beasts and creeping things, the
+monsters, and the usuall inhabitants of the sea shall be gathered together,
+and make fearfull noyses to distract Mankind: The birds shall mourne and
+change their song into threnes and sad accents, rivers of fire shall rise from
+East to West, and the stars shall be rent into threds of light, and scatter
+like the beards of comets; Then shall bee fearfull earthquakes, and the rocks
+shall rend in pieces, the trees shall distill bloud, and the mountains and
+fairest structures shall returne unto their primitive dust; the wild beasts
+shall leave their dens and come into B the companies of men, so that you shall
+hardly tell how to call them, herds of Men or congregations of Beasts; Then
+shall the Graves open, and give up their dead, and those which are alive in
+nature, and dead in fear, shall be forc'd from the rocks, whither they went to
+hide them, and from caverns of the earth, where they would fain have been
+concealed; because their retirements are dismantled, and their rocks are
+broken into wider ruptures, and admit a strange light into their secret
+bowels; and the men being forc'd abroad into the theatre of mighty horrors
+shall run up and downe distracted and at their wits end; and then some shall C
+die, and some shall bee changed, and by this time the Elect shall bee gathered
+together from the foure quarters of the world, and Christ shall come along
+with them to judgment.
+
+These signes, although the Jewish Doctors reckon them by order and a method,
+concerning which they had no revelation (that appeares) nor sufficiently
+credible tradition, yet for the main parts of the things themselves, the holy
+Scripture records Christs own words, and concerning the most terrible of them;
+the summe of which, as Christ related them, and his Apostles recorded and
+explicated, is this: The earth shall tremble, and the D powers of the heavens
+shall bee shaken, the sun shall bee turned into darknesse, and the moon into
+bloud; that is, there shall bee strange eclipses of the Sun, and fearfull
+aspects in the Moon, who when she is troubled looks red like bloud; The rocks
+shall rend, and the elements shall melt with fervent heat. The heavens shall
+bee rolled up like a parchment, the earth shall bee burned with fire, the hils
+shall be like wax, for there shall goe a fire before him, and a mighty tempest
+shall be stirred round about him:
+
+Dies irae, Dies illa E
+
+Solvet sêclum in faviliâ,
+
+Teste David cum Sibyllâ.
+
+The Trumpet of God shall sound, and the voice of the Arch­angell, that is, of
+him who is the Prince of all that great army [[Page
+13]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=14) of Spirits,
+which shall then attend their Lord, and wait upon A and illustrate his glory;
+and this also is part of that which is called the signe of the Son of Man; for
+the fulfilling off all these praedictions, and the preaching the Gospel to all
+Nations, and the Conversion of the Jews, and these prodigies, and the
+Ad­dresse of Majesty make up that signe. The notice of which things some way
+or other came to the very Heathen themselves, who were alarum'd into caution
+and sobriety by these dreadfull re­membrances:
+
+—Sic cum compage solutâ B
+
+Saecula tot mundt suprema coëgerit hora
+
+Antiquum repetens, iterum chaos, omnia mistis
+
+Sidera sideribus concurrent: ignea pontum
+
+Astra petent, tellus extendere littora nolet,
+
+Excutiet (que) fretum; fratri contraria Phoebe
+
+Ibit—Tota (que) discors
+
+Machina divulsi turbabit foedera Mundi.
+
+Lucan. l. 1.
+
+Which things when they are come to passe, it will be no wonder if mens hearts
+shall faile them for feare, and their wits bee lost with guilt, and their fond
+hopes destroyed by prodigie and a­mazement; C but it will bee an extreme
+wonder, if the conside­ration and certain expectation of these things shall
+not awake our sleeping spirits, and raise us from the death of Sin, and the
+basenesse of vice and dishonorable actions, to live soberly and temperately,
+chastly and justly, humbly and obediently, that is, like persons that believe
+all this, and such who are not mad men or fools, but will order their actions
+according to these notices. For if they doe not believe these things, where is
+their Faith? If they doe believe them, and sin on, and doe as if there were no
+such thing D to come to passe, where is their Prudence, and what is their
+hopes, and where their Charity? how doe they differ from beasts, save that
+they are more foolish? for beasts goe on and consider not, because they
+cannot; but we can consider, and will not; we know that strange terrors shall
+affright us all, and strange deaths and torments shall seise upon the wicked,
+and that we cannot escape, and the rocks themselves will not bee able to hide
+us from the fears of those prodigies which shall come before the day of
+Judgement; and that the mountains (though when they are broken in pieces we
+call upon them to fall upon us) shall not be able to secure us one minute from
+the present vengeance; and E yet we proceed with confidence or carelesnesse,
+and consider not that there is no greater folly in the world, then for a man
+to neglect his greatest interest, and to die for trifles and little re­gards,
+and to become miserable for such interests which are not [[Page
+14]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=15) excusable in a
+Childe. He that is youngest hath not long to A live: Hee that is thirty,
+forty, or fifty yeares old, hath spent most of his life, and his dream is
+almost done, and in a very few moneths hee must be cast into his eternall
+portion; that is, hee must be in an unalterable condition, his finall Sentence
+shall passe according as hee shall then bee found: and that will be an
+intolerable condition, when he shall have reason to cry out in the bitternesse
+of his soule, Eternall woe is to mee, who re­fus'd to consider when I might
+have been saved and secured from this intolerable calamity. But I must descend
+to consider the particulars and circumstances of the great consideration, B
+Christ shall be our Judge at Doomes-day.
+
+[[Page 15]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=15)
+
+## 2\. SERMON, II. A Part II. B
+
+1\. IF we consider the person of the Judge, we first perceive that he is
+interested in the injury of the crimes he is to sentence. Videbunt quem
+crucifixerunt, and they shal look on him whom they have pierced. It was for
+thy sins that the Judge did suffer such unspeakable pains as were enough to
+reconcile all the world to God: The summe and spirit of which pains could not
+be better understood then by the consequence of his own words, My God, my God,
+why hast thou forsaken me? meaning, that he felt such hor­rible, pure,
+unmingled sorrowes, that although his humane nature C was personally united to
+the Godhead, yet at that instant he felt no comfortable emanations by sensible
+perception from the Divi­nity, but he was so drenched in sorrow, that the
+Godhead see­med to have forsaken him. Beyond this, nothing can be added: but
+then, that thou hast for thy own particular made all this in vain and
+ineffective, that Christ thy Lord and Judge should be tormented for nothing,
+that thou wouldst not accept felicity and pardon when he purchased them at so
+dear a price, must needs be an infinite condemnation to such persons. How
+shalt thou look upon him that fainted and dyed for love of thee, and thou
+didst scorn his miraculous mercies? How shall we dare to behold that D holy
+face that brought salvation to us, and we turned away and fell in love with
+death, and kissed deformity and sins? and yet in the beholding that face
+consists much of the glories of eternity. All the pains and passions, the
+sorrowes and the groans, the humili­ty and poverty, the labours and the
+watchings, the Prayers and the Sermons, the miracles and the prophecies, the
+whip and the nails, the death and the buriall, the shame and the smart, the
+Crosse and the grave of Jesus shall be laid upon thy score, if thou hast
+refused the mercies and design of all their holy ends and purposes. E And if
+we remember what a calamity that was which broke the Jewish Nation in pieces,
+when Christ came to judge them for their murdering him who was their King and
+the Prince of life, and consider that this was but a dark image of the terrors
+of the day of Judgement, we may then apprehend that there is some [[Page
+16]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=16) strange
+unspeakable evill that attends them that are guilty of this A death, and of so
+much evill to their Lord. Now it is certain if thou wilt not be saved by his
+death; you are guilty of his death; if thoa wilt not suffer him to save thee,
+thou art guilty of destroying him; and then let it be considered what is to be
+expected from that Judge before whom you stand as his murtherer and betrayer.
+* But this is but half of this consideration.
+
+2\. Christ may be crucified again, and upon a new account put to an open
+shame. For after that Christ had done all this by the direct acti­ons of his
+Priestly Office, of sacrificing himself for us, he hath also done very many
+things for us which are also the fruits of his first love B and prosecutions
+of our redemption. I will not instance in the strange arts of mercy that our
+Lord uses to bring us to live holy lives; But I consider, that things are so
+ordered, and so great a value set upon our souls since they are the images of
+God, and redeemed by the Bloud of the holy Lamb, that the salvation of our
+souls is reckoned as a part of Christs reward, a part of the glorification of
+his humanity. Every sinner that repents causes joy to Christ, and the joy is
+so great that it runs over and wets the fair brows and beauteous locks of
+Cherubims and Seraphims, and all the Angels have a part of that banquet; Then
+it is that our blessed Lord feels the fruits of his C holy death, the
+acceptation of his holy sacrifice, the graciousnesse of his person, the return
+of his prayers. For all that Christ did or suffer'd, and all that he now does
+as a Priest in heaven, is to glorifie his Father by bringing souls to God: For
+this it was that he was born and dyed, that he descended from heaven to earth,
+from life to death, from the crosse to the grave; this was the purpose of his
+resurrection and ascension, of the end and design of all the miracles and
+graces of God manifested to all the world by him; and now what man is so vile,
+such a malicious fool, that will refuse to bring joy to his Lord by doing
+himself the greatest good in the world? They who refuse to do this, are said
+to cru­cifie D the Lord of life again, and put him to an open shame: that is,
+they, as much as in them lies, bring Christ from his glorious joyes to the
+labours of his life, and the shame of his death; they ad­vance his enemies,
+and refuse to advance the Kingdome of their Lord; they put themselves in that
+state in which they were when Christ came to dye for them; and now that he is
+in a state that he may rejoyce over them, (for he hath done all his share
+towards it) every wicked man takes his head from the blessing, and rather
+chuses that the Devill should rejoyce in his destruction, then that E his Lord
+should triumph in his felicity. And now upon the sup­position of these
+premises, we may imagine that it will be an in­finite amazement to meet that
+Lord to be our Judge whose per­son we have murdered, whose honour we have
+disparaged, whose purposes we have destroyed, whose joyes we have lessened,
+whose [[Page 17]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=16)
+passion we have made ineffectuall, and whose love we have tram­pled under our
+profane and impious feet. A
+
+3\. But there is yet a third part of this consideration. As it will be
+inquir'd at the day of Judgement concerning the dishonours to the person of
+Christ, so also concerning the profession and insti­tution of Christ, and
+concerning his poor Members; for by these also we make sad reflexions upon our
+Lord. Every man that lives wickedly disgraces the religion and institution of
+Jesus, he discou­rages strangers from entring into it, he weakens the hands of
+them that are in already, and makes that the adversaries speak reproachfully
+of the Name of Christ; but although it is certain B our Lord and Judge will
+deeply resent all these things, yet there is one thing which he takes more
+tenderly, and that is, the uncha­ritablenesse of men towards his poor: It
+shall then be upbraided to them by the Judge, that himself was hungry and they
+refu­sed to give meat to him that gave them his body and heart-bloud, to feed
+them and quench their thirst; that they denyed a robe to cover his nakednesse,
+and yet he would have cloathed their souls with the robe of his
+righteousnesse, lest their souls should be found naked in the day of the Lords
+visitation; and all this unkindnesse is nothing but that evill men were
+uncharitable to their Brethren, they would not feed the hungry, nor give drink
+to the thirsty, nor C cloath the naked, nor relieve their Brothers needs, nor
+forgive his follies, nor cover their shame, nor turn their eyes from
+deligh­ting in their affronts and evill accidents; this is it which our Lord
+will take so tenderly, that his Brethren for whom he died, who suck'd the paps
+of his Mother, that fed on his Body and are nourished with his Bloud, whom he
+hath lodg'd in his heart and entertains in his bosome, the partners of his
+Spirit and co-heirs of his inhe­ritance, that these should be deny'd relief
+and suffered to go away ashamed, and unpitied; this our blessed Lord will take
+so ill, that D all those who are guilty of this unkindnesse, have no reason to
+ex­pect the favour of the Court.
+
+4\. To this if we adde the almightinesse of the Judge, his infinite wisdome
+and knowledge of all causes, and all persons, and all cir­cumstances, that he
+is infinitely just, inflexibly angry, and impar­tiall in his sentence, there
+can be nothing added either to thè greatness or the requisites of a terrible
+and an Almighty Judge. For who can resist him who is Almighty? Who can evade
+his scrutiny that knows all things? Who can hope for pity of him that is
+inflexible? Who can think to be exempted when the Judge is righteous and
+impartial? But in all these annexes of the great Judge, that which I shall now
+remark, E is that indeed which hath terror in it, and that is, the severity of
+our Lord. For then is the day of vengeance and recompenses, and no mer­cy at
+all shall be shewed, but to them that are the sons of mercy; for the other,
+their portion is such as can be expected from these premises.
+
+[[Page 18]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=17) 1\. If we
+remember the instances of Gods severity in this life, A in the daies of mercy
+and repentance, in those dayes when Judge­ment waits upon Mercy, and receives
+lawes by the rules and mea­sures of pardon, and that for all the rare streams
+of loving kind­nesse issuing out of Paradise and refreshing all our fields
+with a moisture more fruitfull then the flouds of Nilus, still there are
+mingled some stormes and violences, some fearfull instances of the Divine
+Justice, we may more readily expect it will be worse, in­finitely worse at
+that day, when Judgement shall ride in triumph, and Mercy shall be the accuser
+of the wicked. But so we read, and are commanded to remember, because they are
+written for our ex­ample, B that God destroyed at once five cities of the
+plain, and all the country; and Sodome and her sisters are set forth for an
+exam­ple, suffering the vengeance of eternall fire. Fearfull it was when God
+destroyed at once 23000 for fornication, and an extermina­ting Angell in one
+night killed 185000 of the Assyrians, and the first born of all the families
+of Egypt, and for the sin of David in numbring the people threescore and ten
+thousand of the people dyed, and God sent ten tribes into captivity and
+eternall oblivion and indistinction from a common people for their idolatry.
+Did not God strike Corah and his company with fire from Heaven? and C the
+earth open'd and swallowed up the congregation of Abiram? And is not evill
+come upon all the world for one sin of Adam? Did not the anger of God break
+the nation of the Jewes all in pieces with judgements so great, that no nation
+ever suffered the like, be­cause none ever sin'd so? And at once it was done,
+that God in anger destroyed all the world, and eight persons only escaped the
+angry Baptisme of water, and yet this world is the time of mercy; God hath
+open'd here his Magazines, and sent his holy Son as the great channell and
+fountain of it too: here he delights in mercy, and in judgement loves to
+remember it, and it triumphs over all D his works, and God contrives
+instruments and accidents, chances and designs, occasions and opportunities
+for mercy: if therefore now the anger of God makes such terrible eruptions
+upon the wicked people that delight in sin, how great may we suppose that
+anger to be, how severe that Judgement, how terrible that ven­geance, how
+intolerable those inflictions which God reserves for the full effusion of
+indignation on the great day of vengeance?
+
+2\. We may also guesse at it by this; if God upon all single in­stances, and
+in the midst of our sins, before they are come to the full, and sometimes in
+the beginning of an evill habit be so fierce in E his anger, what can we
+imagine it to be, in that day when the wicked are to drink the dregs of that
+horrid potion, and count over all the particulars of their whole treasure of
+wrath? This is the Rom. 2. 5. day of wrath, and God shall reveal, or, bring
+forth his righteous Judgements. The expression is taken from Deut. 32\. 34. Is
+not this [[Page 19]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=17)
+laid up in store with me, and sealed up among my treasures? [...], A I will
+restore it in the day of vengeance, for the Lord shall judge his people, and
+repent himself for his servants. For so did the Lybian Lion that was brought
+up under discipline, and taught to endure blowes, and eat the meat of order
+and regular provision, and to suffer gentle usages, and the familiarities of
+socie­ties; but once he brake out into his own wildnesse, Dedidicit pacem
+subitò feritate reversâ, and kil'd two Roman boyes; but those that sorrage in
+the Lybian mountains tread down and devour all that they meet or master; and
+when they have fasted two dayes, lay up an anger great as is their appetite,
+and bring certain death to B all that can be overcome: God is pleased to
+compare himself to a Lion; and though in this life he hath confin'd himself
+with promises and gracious emanations of an infinite goodnesse, and li­mits
+himself by conditions and covenants, and suffers himself to be overcome by
+prayers, and himself hath invented wayes of atone­ment and expiation, yet when
+he is provoked by our unhandsome and unworthy actions, he makes sudden
+breaches, and tears some of us in pieces, and of others he breaks their bones
+or affrights their hopes and secular sayeties, and fils their house with
+mourning and Cypresse, and groans and death: But when C this Lion of the tribe
+of Judah shall appear upon his own moun­tain, the mountain of the Lord, in his
+naturall dresse of Majesty, and that Justice shall have her chain and golden
+fetters taken off, then Justice shall strike, and Mercy shall not hold her
+hands; she shall strike sore strokes, and pity shall not break the blow; and
+God shall account with us by minutes, and for words, and for thoughts, and
+then he shall be severe to mark what is done amisse; and that Justice may
+reign intirely, God shall open the wicked mans trea­sure, and tell the sums,
+and weigh grains and scruples:  [...], said Philo upon the place of
+Deutero­nomy D before quoted: As there are treasures of good things; and God
+hath Crowns and Scepters in store for his Saints and servants, and Coronets
+for Martyrs, and Rosaries for Virgins, and Phials full of Prayers, and bottles
+full of tears, and a register of sighs and penitentiall groans: so God hath a
+treasure of wrath and fury, of scourges and scorpions, and then shall be
+produced the shame of lust, and the malice of envie, and the groans of the
+oppressed, and the persecutions of the Saints, and the cares of covetousnesse,
+and the troubles of ambition, and the insolencies of traitors, and the E
+violences of rebels, and the rage of anger, and the uneasinesse of impatience,
+and the restlesnesse of unlawfull desires; and by this time the monsters and
+diseases will be numerous, and intolerable, when Gods heavie hand shall presse
+the sanies and the intolerable­nesse, the obliquity and the unreasonablenesse,
+the amazement [[Page
+20]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=18) and the
+disorder, the smart and the sorrow, the guilt and the pu­nishment A out from
+all our sins, and pour them into one chalice, and mingle them with an infinite
+wrath, and make the wicked drink off all the vengeance, and force it down
+their unwilling throats with the violence of Devils and accursed Spirits.
+
+3\. We may guesse at the severity of the Judge by the lesser strokes of that
+Judgement which he is pleased to send upon sinners in this world, to make them
+afraid of the horrible pains of Dooms­day: I mean the torments of an unquiet
+conscience, the amaze­ment and confusions of some sins and some persons. For I
+have sometimes seen persons surpriz'd in a base action, and taken in the B
+circumstances of crafty theft, and secret unjustices before their ex­cuse was
+ready; They have changed their colour, their speech hath faltered, their
+tongue stammer'd, their eyes did wander and fix no where, till shame made them
+sink into their hollow eye-pits to retreat from the images and circumstances
+of discovery; their wits are lost, their reason uselesse, the whole order of
+their soul is discomposed, and they neither see, nor feel, nor think as they
+use to do, but they are broken into disorder by a stroke of damna­tion and a
+lesser stripe of hell; but then if you come to observe a guilty and a base
+murtherer, a condemned traytor, and see him C harrassed first by an evill
+conscience, and then pull'd in pieces by the hangmans hooks, or broken upon
+sorrows and the wheel, we may then guesse (as well as we can in this life)
+what the pains of that day shall be to accursed souls: But those we shall
+consider afterwards in their proper scene; now only we are to estimate the
+severity of our Judge by the intolerablenesse of an evill conscience; if guilt
+will make a man despair, and despair will make a man mad, confounded and
+dissolved in all the regions of his senses and more noble faculties, that he
+shall neither feel, nor hear, nor see any thing but spectres and illusions,
+devils and frightfull dreams, D and hear noises, and shriek fearfully, and
+look pale and distracted like a hopelesse man from the horrors and confusions
+of a lost battell upon which all his hopes did stand, then the wicked must at
+the day of Judgement expect strange things and fearfull, and such which now no
+language can expresse, and then no patience can endure.
+
+[...]
+
+[...].
+
+Then only it can truly be said that he is inflexible and inexora­ble. No
+prayers then can move him, no groans can cause him to E pity thee: therefore
+pity thy self in time, that when the Judge comes thou mayest be one of the
+sons of everlasting mercy, to whom pity belongs as part of thine inheritance;
+for all else shall without any remorse (except his own) be condemned by the
+hor­rible sentence.
+
+[[Page 21]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=18) 4\. That
+all may think themselves concerned in this considera­tion, A let us remember
+that even the righteous and most innocent shall passe through a severe triall.
+Many of the Ancients expli­cated this severity by the fire of conflagration,
+which say they shall purifie those souls at the day of Judgement, which in
+this life have built upon the foundation hay and stubble, works of folly and
+false opinions, and states of imperfection. So S. Austins Do­ctrine was, Hoc
+aget caminus, alios in sinistrâ separabit, alios in In Psal. 103. dextrâ
+quodam modo eliquabit, The great fire at Dooms-day shall throw some into the
+portion of the left hand, and others shall be purified and represented on the
+right: and the same is affirmed B by Origen In Ierem. hom. 13\. & in Luk. hom.
+14\. & Lactantius lib. 7\. instit. c. 21\. Hilarius in Psal. 118\. octer. 3\.
+& in Mat. can. 2. and Lactantius; and S. Hilary thus expostulates, Since we
+are to give account for every idle word, shall we long for the day of
+Judgement, in quo est nobis indefessus ille ignis ebeundus in quo subeunda
+sunt gravia illa expiandae à peccatis animae supplicia, ‘Wherein we must every
+one of us passe that unwearied fire in which those grievous punishments for
+expiating the soul from sins must be endured; for to such as have been
+baptized with the Holy Ghost it remaineth that they be consummated with the
+fire of Judgement.’ And S. Ambrose addes, That if any be as Peter or as John,
+they are baptiz'd with this fire, and he that is purged here had need to be C
+purged there again: Illic quoque nos purificet quando dicat domi­nus, Intrate
+in requiem meam, Let him also purifie us, that every one of us being burned
+with that flaming sword, not burned up or con­sumed, we may enter into
+Paradise and give thanks unto the Lord In Psal. 118\. serm. 3. who hath
+brought us into a place of refreshment. This opinion of theirs is, in the main
+of it, very uncertain, relying upon the sense of some obscure places of
+Scripture, is only apt to represent the great severity of the Judge at that
+day, and it hath in it this only certainty, that even the most innocent person
+hath great need of mercy, and he that hath the greatest cause of confidence,
+although D he runs to no rocks to hide him, yet he runs to the protection of
+the Crosse, and hides himself under the shadow of the Divine mercies: and he
+that shall receive the absolution of the blessed sen­tence, shall also suffer
+the terrors of the day, and the fearfull cir­cumstances of Christs coming. The
+effect of this considerati­on is this: That if the righteous scarcely be
+saved, where shall the wicked and the sinner appear? Quid faciet virgula
+deserti, ubi con­cutietur cedrus Paradisi? Quid faciet agnus, cum tremit
+aries? Si coelum fugiat, ubi manebit terra? said S. Gregory. And if S. Paul
+whose conscience accus'd him not, yet durst not be too confident, E because he
+was not hereby justified, but might be found faulty by the severer Judgement
+of his Lord; how shall we appear with all our crimes and evill habits round
+about us? If there be need of much mercy to the servants and friends of the
+Judge, then his ene­mies shall not be able to stand upright in Judgement.
+
+[[Page 22]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=19) 5\. But
+the matter is still of more concernment. The Pharisees A beleeved that they
+were innocent if they abstained from criminall actions, such as were
+punishable by the Judge; and many Chri­stians think all is well with them, if
+they abstain from such sins as have a name in the Tables of their Lawes: But
+because some sins are secret and not discernible by man; others are publick,
+but not punished, because they are frequent and perpetuall, and without
+ex­ternall mischiefs in some instances, and only provocations against God; men
+think that in their concernments they have no place: and such are jeering and
+many instances of wantonnesse, and revel­ling, doing petty spites, and
+doggednesse, and churlishnesse, lying B and pride: and beyond this, some are
+very like vertues; as too much gentlenesse and slacknesse in government, or
+too great severity and rigor of animadversions, bitternesse in reproof of
+sinners, un­civill circumstances, imprudent handlings of some criminals, and
+zeal; Nay there are some vile things, which through the evill dis­coursings
+and worse manners of men are passed into an artificiall and false reputation,
+and men are accounted wits for talking Atheistically, and valiant for being
+murderers, and wise for decei­ving and circumventing our Brothers; and many
+irregularities more, for all which we are safe enough here. But when the day C
+of Judgement comes, these shall be called to a severe account, for the Judge
+is omniscient and knows all things, and his tribunall takes cognisance of all
+causes, and hath a coërcitive for all, all things are naked and open to his
+eyes (saith S. Paul) therefore nothing shall Heb. 4. escape for being secret:
+
+[...]
+
+[...]—
+
+And all prejudices being laid aside it shall be considered concerning D our
+evill rules, and false principles; Cum cepero tempus, ego justitias Psal. 74.
+judicabo; when I shall receive the people, I shall judge according unto right:
+so we read; [When we shall receive time, I will judge justices and judgements]
+so the vulgar Latin reads it; that is, in the day of the Lord, when time is
+put into his hand and time shall be no more, he shall judge concerning those
+judgements when men here make of things below; and the fighting man shall
+perceive the noises of drunkards and fools that cryed him up for daring to
+kill his Brother, to have been evill principles; and then it will be declared
+by strange effects, that wealth is not the greatest fortune; E and ambition
+was not but an ill counsellor; and to lye for a good cause was no piety; and
+to do evill for the glory of God was but an ill worshipping him; and that good
+nature was not well imploy'd when it spent it self in vicious company, and
+evill compliances; and that piety was not softnesse and want of courage; and
+that po­verty [[Page
+23]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=19) ought not to
+have been contemptible; and that cause that is A unsuccessefull, is not
+therefore evill; and what is folly here, shall be wisdome there; then shall
+men curse their evill guides and their ac­cursed superinduced necessities, and
+the evill guises of the world; and then when silence shall be found innocence,
+and eloquence in many instances condemned as criminall; when the poor shall
+reign, and Generals and Tyrants shall lye low in horrible regions; when he
+that lost all shall finde a treasure, and he that spoil'd him shall be found
+naked and spoil'd by the destroyer, then we shall finde it true, that we ought
+here to have done what our Judge, our blessed Lord shall do there, that is,
+take our measures of good and evill B by the severities of the word of God, by
+the Sermons of Christ, and the four Gospels, and by the Epistles of S. Paul,
+by Justice and charity, by the Lawes of God and the lawes of wise Princes and
+Republicks, by the rules of Nature and the just proportions of Reason, by the
+examples of good men and the proverbs of wise men, by severity and the rules
+of Discipline: for then it shall be, that truth shall ride in triumph, and the
+holinesse of Christs Ser­mons shall be manifest to all the world; that the
+Word of God shall be advanced over all the discourses of men, and Wisdome
+shall be justified by all her children. Then shall be heard those words of C
+an evill and trady repentance, and the just rewards of folly; [We fools
+thought their life madnesse; but behold they are justified be­fore the throne
+of God, and we are miserable for ever.] Here men think it strange if others
+will not run into the same excesse of riot; but there they will wonder how
+themselves should be so mad and infinitely unsafe by being strangely and
+inexcusably unreasonable. The summe is this; The Judge shall appear cloathed
+with wisdome, and power, and justice, and knowledge, and an impartiall Spirit,
+ma­king no separations by the proportions of this world, but by the measures
+of God, not giving sentence by the principles of our D folly and evill
+customes, but by the severity of his own Laws and measures of the Spirit. Non
+est judicium Dei sicut hominum, God does not judge as Man judges.
+
+6\. Now that the Judge is come thus arrayed, thus prepared, so instructed, let
+us next consider the circumstances of our appearing and his sentence; and
+first I consider that men at the day of Judge­ment that belong not to the
+portion of life, shall have three sorts of accusers, 1. Christ himself, who is
+their Judge. 2. Their own conscience, whom they have injured and blotted with
+characters of death and foul dishonour. 3. The Devill, their enemy, whom E
+they served.
+
+1\. Christ shall be their accuser, not only upon the stock of those direct
+injuries (which I before reckoned) of crucifying the Lord of life, once and
+again, &c. But upon the titles of contempt and unworthinesse, of unkindnesse
+and ingratitude; and the accusation [[Page
+24]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=20) will be nothing
+else but a plain representation of those artifices and A assistances, those
+bonds and invitations, those constrainings and im­portunities which our dear
+Lord used to us to make it almost im­possible to lye in sin, and necessary to
+be sav'd. For it will, it must needs be a fearfull exprobration of our
+unworthinesse, when the Judge himself shall bear witnesse against us, that the
+wisdome of God himself was strangely imployed in bringing us safely to
+felicity. I shall draw a short Scheme, which although it must needs be
+infinite­ly short of what God hath done for us, yet it will be enough to shame
+us. * God did not only give his Son for an example, and 1. the Son gave
+himself for a price for us, but both gave the holy B Spirit to assist us in
+mighty graces, for the verifications of Faith, and the entertainments of Hope,
+and the increase and perseverance of Charity. * God gave to us a new nature,
+he put another prin­ciple 2. into us, a third part of a perfective
+constitution: we have the Spirit put into us, to be a part of us, as properly
+to produce acti­ons of a holy life, as the soul of man in the body does
+produce the naturall. * God hath exalted humane nature, and made it in 3. the
+person of Jesus Christ, to sit above the highest seat of An­gels, and the
+Angels are made ministring spirits, ever since their Lord became our Brother.
+* Christ hath by a miraculous Sacra­ment 4. C given us his body to eat, and
+his bloud to drink, he made waies that we may become all one with him. * He
+hath given us 5. an easie religion, and hath established our future felicity
+upon na­turall and pleasant conditions, and we are to be happy hereafter if we
+suffer God to make us happy here; and things are so ordered, that a man must
+take more pains to perish, then to be happy. * God hath found out rare wayes
+to make our prayers acceptable, our 6. weak petitions, the desires of our
+imperfect souls to prevail migh­tily with God; and to lay a holy violence, and
+an undeniable ne­cessity upon himself; and God will deny us nothing but when
+we D aske of him to do us ill offices, to give us poisons and dangers, and
+evill nourishment, and temptations; and he that hath given such mighty power
+to the prayers of his servants, yet will not be moved by those potent and
+mighty prayers to do any good man an evill turn, or to grant him one mischief;
+in that only God can deny us. * But in all things else God hath made all the
+excellent 7. things in heaven and earth to joyn towards holy and fortunate
+ef­fects; for he hath appointed an Angell to present the prayers of Revel. 8.
+3. Saints, and Christ makes intercession for us, and the holy Spirit makes
+intercession for us with groans unutterable; and all the ho­ly Rom. 8. 26. men
+in the world pray for all and for every one; and God hath E instructed us with
+Scriptures, and precedents, and collaterall and direct assistances to pray;
+and he incouraged us with divers excel­lent promises, and parables, and
+examples, and teaches us what to pray and how, and gives one promise to
+publique prayer, and [[Page
+25]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=20) another to
+private prayer, and to both the blessing of being heard. A
+
+* Adde to this account that God did heap blessings upon us 8. without order, infinitely, perpetually and in all instances, when we needed, and when we needed not. * He heard us when we pray'd, 9. giving us all and giving us more then we desired; * He desired 10. that we should aske, and yet he hath also prevented our desires; * He watch'd for us, and at his own charge sent a whole order of men whose imployment is to minister to our souls: and if all this 11. had not been enough, he had given us more also. * He promi­sed 12. heaven to our obedience, a Province for a dish of water, a B Kingdome for a prayer, satisfaction for desiring it, grace for re­ceiving, and more grace for accepting and using the first. * He 13. invited us with gracious words and perfect entertainments; * He 14. threatned horrible things to us if we would not be happy; * He 15. hath made strange necessities for us, making our very repentance to be a conjugation of holy actions, and holy times, and a long suc­cession; * He hath taken away all excuses from us, he hath called 16. us off from temptation, he bears our charges, he is alwaies before­hand with us in every act of favour, and perpetually slow in stri­king, and his arrowes are unfeathered, and he is so long, first in C drawing his sword, and another long while in whetting it, and yet longer in lifting his hand to strike, that before the blow comes the man hath repented long, unlesse he be a fool and impudent; and then God is so glad of an excuse to lay his anger aside, that cer­tainly if after all this we refuse life and glory, there is no more to be said; this plain story will condemn us: but the story is very much longer, and as our conscience will represent all our sins to us, so the Judge will represent all his Fathers kindnesses, as Na­than did to David, when he was to make the justice of the Di­vine Sentence appear against him. * Then it shall be remembred D that the joyes of every daies piety would have been a greater plea­sure 17. every night, then the remembrance of every nights sin could have been in the morning; * That every night, the trouble and labour of the daies vertue would have been as much passed and tur­ned 18. to as very a nothing, as the pleasure of that daies sin; but that they would be infinitely distinguished by the remanent effects.  [...], So Musonius expres­sed the sense of this inducement; and that this argument would have grown so great by that time we come to dye, that the cer­tain E pleasures, and rare confidences, and holy hopes of a death-bed would be a strange felicity to the man when he remembers he did obey, if they were compared to the fearfull expectations of a dy­ing sinner, who feels by a formidable and afrighting remembrance that of all his sins nothing remains but the gains of a miserable [[Page 26]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=21) eternity. * The offering our selves to God every morning, and the A thanksgiving to God every night, hope and fear, shame and de­sire, the honour of leaving a fair name behinde us, and the shame 19. of dying like a fool, every thing indeed in the world is made to be an argument and an inducement to us to invite us to come to God and be sav'd; and therefore when this, and infinitely more shall by the Judge be exhibited in sad remembrances, there needs no other sentence, we shall condemn our selves with a hasty shame, and a fearfull confusion, to see how good God hath been to us, and how base we have been to our selves. Thus Moses is said to accuse the Jewes; and thus also he that does accuse, is said to con­demn, B as Verres was by Cicero, and Claudia by Domitius her accu­ser, and the world of impenitent persons by the men of Nineveh, and all, by Christ their Judge. I represent the horror of this cir­cumstance to consist in this, besides the reasonablenesse of the Judge­ment, and the certainty of the condemnation, it cannot but be an argument of an intolerable despair to perishing souls, when he that was our Advocate all our life, shall in the day of that appearing be our Accuser and our Judge, a party against us, an injur'd per­son in the day of his power, and of his wrath, doing execution upon all his own foolish and malicious enemies. * C
+
+2\. Our conscience shall be our accuser,] but this signifies but these two
+things; 1. that we shall be condemned for the evils that we have done, and
+shall then remember; God by his power wiping away the dust from the tables of
+our memory, and taking off the consi­deration and the voluntary neglect and
+rude shufflings of our cases of conscience. For then we shall see things as
+they are, the evill circumstances and the crooked intentions, the adherent
+unhandsome­nesse and the direct crimes: for all things are laid up safely, and
+though we draw a curtain of cobweb over them, and few figleaves before our
+shame, yet God shall draw away the curtain, and for­getfulnesse D shall be no
+more, because with a taper in the hand of God all the corners of our
+nastinesse shall be discovered. And se­condly it signifies this also, that not
+only the Justice of God shall be confessed by us in our own shame and
+condemnation, but the evill of the sentence shall be received into us, to melt
+our bowels and to break our heart in pieces within us, because we are the
+au­thors of our own death, and our own inhumane hands have torn our souls in
+pieces. Thus farre the horrors are great, and when evill men consider it, it
+is certain they must be afraid to dye. Even they that have liv'd well, have
+some sad considerations, and the tremblings of humility, and suspicion of
+themselves. I remember E S. Cyprian tels of a good man who in his agony of
+death saw a phantasme of a noble and angelicall shape, who frowning and an­gry
+said to him, Pati timetis, exire non vultis, Quid faciam vobis? Ye cannot
+endure sicknesse, ye are troubled at the evils of the [[Page
+27]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=21) world, and yet
+you are loth to dye and to be quit of them, what shall I do to you? Although
+this is apt to represent every mans A condition more of lesse, yet concerning
+persons of wicked lives, it hath in it too many sad degrees of truth; they are
+impatient of sor­row, and justly fearfull of death, because they know not how
+to comfort themselves in the evill accidents of their lives; and their
+conscience is too polluted to take death for sanctuary, and to hope to have
+amends made to their condition by the sentence of the day of Judgement. Evill
+and sad is their condition who cannot be contented here, nor blessed
+hereafter; whose life is their misery, and their conscience is their enemy,
+whose grave is their prison, B and death their undoing, and the sentence of
+Dooms-day, the be­ginning of an intolerable condition.
+
+3\. The third sort of accusers, are the Devils; and they will do it with
+malicious and evill purposes; The Prince of the Devils hath  [...] for one of
+his chiefest appellatives: The accuser of the Brethren he is by his professed
+malice, and imployment; and therefore God who delights that his mercy should
+triumph, and his goodnesse prevail over all the malice of men and Devils, hath
+appointed one whose office is  [...] to reprove the ac­cuser, and to resist
+the enemy, and to be a defender of their cause C who belong to God. The holy
+Spirit is  [...] a defender, the evill spirit is  [...] the accuser, and they
+that in this life belong to one or the other, shall in the same proportion be
+treated at the day of Judgement. The Devill shall accuse the Brethren, that
+is, the Saints and servants of God, and shall tell concerning their follies
+and infirmities, the sins of their youth, and the weak­nesse of their age, the
+imperfect grace, and the long schedule of omissions of duty, their scruples
+and their fears, their diffidences and pusillanimity, and all those things
+which themselves by strict examination finde themselves guilty of, and have
+confessed, all D their shame and the matter of their sorrowes, their evill
+intenti­ons and their little plots, their carnall confidences, and too fond
+adherences to the things of this world, their indulgence and easi­nesse of
+government, their wilder joyes and freer meals, their losse of time and their
+too forward and apt compliances, their trifling arrests and little
+peevishnesses, the mixtures of the world with the things of the Spirit, and
+all the incidences of humanity he will bring forth and aggravate them by the
+circumstance of ingrati­tude, and the breach of promise, and the evacuating
+all their ho­ly purposes, and breaking their resolutions, and rifling their
+vowes; E and all these things being drawn into an intire representment, and
+the bils clog'd by numbers, will make the best man in the world  [...]em foul
+and unhandsome, and stained with the characters of death and evill dishonour.
+But for these there is appointed a de­fender; The holy Spirit that maketh
+intercession for us, shall then [[Page
+28]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=22) also interpose,
+and against all these things shall oppose the passion A of our blessed Lord,
+and upon all their defects shall cast the robe of his righteousnesse; and the
+sins of their youth shall not pre­vail so much as the repentance of their age;
+and their omissions be excused by probable intervening causes, and their
+little escapes shall appear single, and in disunion, because they were alwaies
+kept asunder by penitentiall prayers and sighings, and their seldome re­turns
+of sin by their daily watchfulnesse, and their often infirmi­ties by the
+sincerity of their souls, and their scruples by their zeal, and their possions
+by their love, and all by the mercies of God and the sacrifice which their
+Judge offer'd, and the holy B Spirit made effective by daily graces and
+assistances. These there­fore infallibly go to the portion of the right hand,
+because the Lord our God shall answer for them. But as for the wicked, it is
+not so with them; for although the plain story of their life be to them a sad
+condemnation, yet what will be answered when it shall be told concerning them,
+that they despised Gods mercies, and feared not his angry judgements; that
+they regarded not his word, and loved not his excellencies; that they were not
+perswa­ded by the promises, nor afrighted by his threatnings; that they
+neither would accept his government, nor his blessings; that all the C sad
+stories that ever hapned in both the worlds, (in all which him­self did escape
+till the day of his death, and was not concerned in them save only that he was
+called upon by every one of them, which he ever heard or saw or was told of,
+to repentance, that all these) were sent to him in vain? But cannot the
+Accuser truly say to the Judge concerning such persons, They were thine by
+creation, but mine by their own choice: Thou didst redeem them indeed, but
+they sold themselves to me for a trifle, or for an un­satisfying interest:
+Thou diedst for them, but they obeyed my com­mandements: I gave them nothing,
+I promised them nothing but D the filthy pleasures of a night, or the joyes of
+madnesse, or the delights of a disease: I never hanged upon the Crosse three
+long hours for them, nor endured the labours of a poor life 33 years together
+for their interest; only when they were thine by the me­rit of thy death, they
+quickly became mine by the demerit of their ingratitude, and when thou hadst
+cloathed their soul with thy robe, and adorned them by thy graces, we strip'd
+them naked as their shame, and only put on a robe of darknesse, and they
+thought themselves secure and went dancing to their grave like a drunkard to a
+sight, or a flie unto a candle; and therefore they that did par­take E with us
+in our faults, must divide with us in our portion and fearfull interest? This
+is a sad story because it ends in death, and there is nothing to abate or
+lessen the calamity. It concerns us therefore to consider in time, that he
+that tempts us will accuse us, and what he cals pleasant now he shall then say
+was nothing, and [[Page
+29]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=22) all the gains
+that now invite earthly souls and mean persons to va­nity, A was nothing but
+the seeds of folly, and the harvest is pain and sorrow, and shame eternall. *
+But then since this horror pro­ceeds upon the account of so many accusers, God
+hath put it in­to our power by a timely accusation of our selves in the
+tribunall of the court Christian to prevent all the arts of aggravation which
+at Dooms-day shall load foolish and undiscerning souls. He that accuses
+himself of his crimes here, means to forsake them, and looks upon them on all
+sides, and spies out his deformity, and is taught to hate them, he is
+instructed and prayed for, he prevents the anger of God and defeats the Devils
+malice, and by making B shame the instrument of repentance, he takes away the
+sting, and makes that to be his medicine which otherwise would be his death:
+and concerning this exercise, I shall only adde what the Patriarch of
+Alexandria told an old religious person in his hermitage; ha­ving asked him
+what he found in that desert; he was answered, only this, Indesinenter culpare
+& judicare meipsum; to judge and con­demn my self perpetually, that is the
+imployment of my solitude. The Patriarch answered, Non est alia via, There is
+no other way. By accusing our selves we shall make the Devils malice uselesse,
+and our own consciences dear, and be reconciled to the Judge by the severities
+of an early repentance, and then we need to fear no ac­cusers. C
+
+[[Page 30]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=23)
+
+## 3\. SERMON, III. Part, III.
+
+3\. IT remaines that we consider the Sentence it self, We must receive
+according to what we have done in the body, whe­ther it be good or bad.
+Judicaturo Domino lugubre mundus immugiet, & tribus adtribum pectora ferient.
+Potentissimi quondam neges nudo latere palpitabunt: So St. Hierom meditates
+concerning the terror of this consideration. ‘The whole world shall groan when
+the Judge comes to give his Sentence, tribe and tribe shall knock their sides
+together; and through the naked breasts of the most mighty Kings you shall see
+their hearts beat with C fearfull tremblings.’ Tunc Aristotelis argumenta
+parum proderunt, cum venerit filius pauperculae quaestuariae judicare orbem
+terrae. Nothing shall then be worth owning, or the means of obtaining mercy,
+but a holy conscience; all the humane craft and trifling subtilties shall be
+uselesse, when the Son of a poor Maid shall sit Judge over all the world. When
+the Prophet Joel was descri­bing the formidable accidents in the day of the
+Lords Judge­ment, and the fearfull Sentence of an angry Judge, he was not able
+to expresse it, but stammered like a Childe, or an amazed imperfect person, A.
+A. A. diei, quia propè est Dies Domini; it Ioel 1. is not sense at first; he
+was so amazed, he knew not what to say, D and the Spirit of God was pleased to
+let that signe remain like Agamemnon's sorrow for the death of Iphigenia,
+nothing could describe it but a vail; it must be hidden and supposed; and the
+stammering tongue that is full of fear, can best speak that terror which will
+make all the world to cry, and shriek, and speak fear­full accents, and
+significations of an infinite sorrow and amaze­ment.
+
+But so it is, there are two great days in which the fate of all the world is
+transacted. This life is mans day, in which man E does what he please, and God
+holds his peace. Man destroys his Brother, and destroyes himselfe, and
+confounds Governments, and raises Armies, and tempts to sin, and delights in
+it, and drinks drunk, and forgets his sorrow, and heaps up great estates, and
+raises a family and a name in the Annals, and makes others fear [[Page
+31]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=23) him, and
+introduces new Religions, and confounds the old, and changeth Articles as his
+interest requires, and all this while A God is silent, save that he is loud
+and clamorous with his holy precepts, and over-rules the event; but leaves the
+desires of men to their owne choice, and their course of life such as they
+generally choose. But then, God shall have his day too; the day of the Lord
+shall come, in which he shall speak, and no man shall answer, he shall speak
+in the voyce of thunder and fearfull noyses, and man shall doe no more as he
+please, but must suffer as he hath deserved. When Zedekiah reigned in
+Jerusalem, and persecuted the Prophets, and destroyed the interests of
+Religion, B and put Jeremy into the Dungeon, God held his peace; save onely
+that he warned him of the danger, and told him of the disorder; but it was
+Zedekiah's day, and he was permitted to his pleasure. But when he was led in
+chains to Babylon, and his eyes were put out with burning Basons and horrible
+circles of reflected fires, then was Gods day, and his voyce was the accent of
+a fearfull anger, that broke him all in pieces. It will be all our cases,
+unlesse we hear God speak now, and doe his work, and serve his interest, and
+bear our selves in our just proporti­ons, that is, as such, the very end of
+whose being, and all our faculties is to serve God, and doe justice, and
+charities to our C Brother. For if we doe the work of God in our own day, wee
+shall receive an infinite mercy in the day of the Lord. But what that is, is
+now to be inquired.
+
+What wee have done in the body] But certainly this is the grea­test terror of
+all. The thunders and the fires, the earthquakes and the trumpets, the
+brightnesse of holy Angels, and the horror of accursed Spirits, the voyce of
+the Archangel (who is the Prince of the heavenly host) and the Majesty of the
+Judge, in whose service all that Army stands girt with holinesse and
+obedience, D all those strange circumstances which have been already reckoned,
+and all those others which wee cannot understand, are but little
+praeparatories and umbrages of this fearfull circumstance. All this amazing
+Majesty and formidable praeparatories are for the passing of an eternall
+Sentence upon us according to what we have done in the body. Woe and alas! and
+God help us all. All man­kind is an enemy to God, his nature is accursed, and
+his man­ners are depraved. It is with the nature of man, and with all his
+manners, as Philemon said of the nature of foxes.
+
+— [...] E
+
+[...]
+
+[...]
+
+[...].
+
+[[Page 32]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=24) Every fox
+is crafty and mischievous, and if you gather a whole A herd of them there is
+not a good natur'd beast amongst them all; so it is with man; by nature he is
+the child of wrath, and by his manners he is the child of the Devill; wee call
+Christian, and wee dishonour our Lord, and we are Brethren, but we op­presse
+and murther one another; it is a great degree of sanctity now a-days not to be
+so wicked as the worst of men; and wee live at the rate as if the best of men
+did design to themselves an easier condemnation; and as if the generality of
+men consider'd not concerning the degrees of death, but did beleeve that in
+hell no man shall perceive any ease or refreshment in being tormented B with a
+slower fire. For consider what we doe in the body; 12 or 14 years passe before
+we choose good or bad; and of that which remaines above halfe is spent in
+sleep and the needs of Nature; for the other halfe it is divided as the Stag
+was when the beasts went a hunting, the Lyon hath five parts of sixe: The
+businesse of the world takes so much of our remaining portion, that Religion
+and the service of God have not much time left that can be spar'd; and of that
+which can, if we consider how much is allowed to crasty arts of cousenage, to
+oppression and ambition, to greedy desires, and avaritious prosecutions, to
+the vanities of C our youth, and the proper sins of every age, to the meer
+idle­nesse of man and doing nothing, to his fantastick imaginations of
+greatnesse, and pleasures, of great and little devices, of imper­tinent law-
+suites and uncharitable treatings of our Brother; it will be intolerable when
+we consider that we are to stand or fall eter­nally, according to what we have
+done in the body. Gather it all together, and set it before thy eyes; Almes
+and Prayers are the summe of all thy good. Were thy prayers made in feare and
+holinesse, with passion and desire? Were they not made un­willingly, weakly,
+and wandringly, and abated with sins in the D greatest part of thy life? Didst
+thou pray with the same affecti­on and labour as thou didst purchase thy
+estate? Have thy alms been more then thy oppressions, and according to thy
+power? and by what means didst thou judge concerning it? How much of our time
+was spent in that? and how much of our estate was spent in this? But let us
+goe one step further: How many of us love our enemies? or pray for, and doe
+good to them that per­secute and affront us? or overcome evill with good, or
+turn the face again to them that strike us, rather then be reveng'd? or suffer
+our selves to be spoil'd or robbed without contention and uncharitable
+courses? or lose our interest rather then lose our E charity? And yet by these
+precepts we shall be judged. I instance but once more. Our blessed Saviour
+spake a hard saying: Every Mat. 12. 36. idle word that men shall speak, they
+shall give account thereof at the day of Judgement. For by thy words thou
+shalt be justified, and [[Page
+33]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=24) by thy words
+thou shalt be condemned; and upon this account may A every one weeping and
+trembling say with Jcb, Quid faciam cum Iob 31. 14. resurrexerit ad judicandum
+Deus? What shall I doe when the Lord shall come to judgement? Of every idle
+word] O blessed God! what shall become of them who love to prate continually,
+to tell tales, to detract, to slander, to back-bite, to praise them­selves, to
+undervalue others, to compare, to raise divisions, to boast?  [...]; Who shall
+be able to stand upright, not bowing the knee with the intolerable load of the
+sins of his tongue? If of every idle word we must give account, what shall we
+doe for those malicious words that disho­nor B God, or doe despite to our
+Brother? Remember how often we have tempted our Brother, or a silly woman to
+sin and death? How often we have pleaded for unjust interests, or by our wit
+have cousened an easie, and a beleeving person, or given evill sen­tences, or
+disputed others into false perswasions? Did we never call good evill, or evill
+good? Did we never say to others, thy cause is right, when nothing made it
+right, but favour and money, a false advocate or a covetous Judge?  [...], so
+said Christ, every idle word, that is,  [...], so St. Paul uses it, every
+false Eph. 5. 6. word, every lie shall be called to judgement; or as some
+Copies C read it,  [...], every wicked word shall be called to judg­ment. For
+by [ [...]] Idle words, are not meant words that are unprofitable or unwise,
+for fooles and silly persons speak most of those, and have the least accounts
+to make; but by vaine the Jewes usually understood false; and to give their
+mind to va­nity, or to speak vanity, is all one as to mind or speak falshoods
+with malicious and evill purposes. But if every idle word, that is, every vain
+and lying word shall be called to judgment, what shall become of men that
+blaspheme God, or their Rulers, or Princes of the people, or their Parents?
+that dishonour the Re­ligion, D and disgrace the Ministers? that corrupt
+Justice and per­vert Judgment? that preach evill doctrines, or declare
+perverse sentences? that take Gods holy Name in vain, or dishonour the Name of
+God by trifling and frequent swearings; that holy Name by which wee hope to
+bee saved, and which all the Angels of God fall down and worship? These things
+are to be considered, for by our own words we stand or fall, that is, as in
+humane Judge­ments the confession of the party, and the contradiction of
+him­selfe, or the failing in the circumstances of his story, are the
+confidences or presumptions of law, by which Judges give sen­tence; E so shall
+our words be, not onely the means of declaring a secret sentence, but a
+certain instrument of being absolved or con­demned. But upon these premises,
+we see what reason we have to fear the sentence of that day, who have sinned
+with our tongues so often, so continually, that if there were no other actions
+[[Page 34]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=25) to be
+accounted for, we have enough in this account to make us die, and yet have
+committed so many evill actions that if our A words were wholly forgotten, wee
+have infinite reason to seare concerning the event of that horrible sentence.
+The effect of which consideration is this, that we set a guard before our
+lips, and watch over our actions with a care, equall to that fear which shall
+be at Doomes-day, when we are to passe our sad accounts. But I have some
+considerations to interpose.
+
+1\. But (that the sadnesse of this may a little be relieved, and our 1.
+endevours be encouraged to a timely care and repentance) con­sider, that this
+great sentence, although it shall passe concerning B little things, yet it
+shall not passe by little portions, but by ge­nerall measures; not by the
+little errors of one day, but by the great proportions of our life; for God
+takes not notice of the infir­mities of honest persons that alwayes endevour
+to avoid every sin, but in little intervening instances are surprized; but he
+judges us by single actions, if they are great, and of evill effect; and by
+little small instances, if they be habituall. No man can take care concerning
+every minute; and therefore concerning it Christ will not passe sentence but
+by the discernible portions of our time, by humane actions, by things of
+choice and deliberation, and by C generall precepts of care and watchfulnesse,
+this sentence shall be exacted. 2ly. The sentence of that day shall be passed,
+not by 2. the proportions of an Angell, but by the measures of a Man; the
+first follies are not unpardonable, but may bee recovered; and the second are
+dangerous, and the third are more fatall; but nothing is unpardonable but
+perseverance in evill cour­ses. 3ly. The last Judgement shall bee transacted
+by the same 3. Principles by which we are guided here: not by strange and
+secret propositions, or by the fancies of men, or by the subtilties of
+uselesse distinctions, or evill perswasions; not by the scruples of D the
+credulous, or the interest of sects, nor the proverbs of pre­judice, nor the
+uncertain definitions of them that give laws to subjects by expounding the
+decrees of Princes; but by the plain rules of Justice, by the ten
+Commandements, by the first apprehensi­ons of conscience, by the plain rules
+of Scripture, and the rules of an honest mind, and a certain Justice. So that
+by this restraint and limit of the finall sentence, we are secur'd we shall
+not fall by scruple or by ignorance, by interest or by faction, by false
+per­swasions of others, or invincible prejudice of our own, but we shall stand
+or fall by plain and easie propositions, by chastity or E uncleannesse, by
+justice or unjustice, by robbery or restitution: and of this wee have a great
+testimony by our Judge and Lord himselfe; Whatsoever yee shall bind in earth
+shall be bound in hea­ven, and whatsoever yee loose shall be loosed there;
+that is, you shall stand or fall according to the Sermons of the Gospel, as
+the [[Page 35]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=25)
+Ministers of the Word are commanded to preach, so yee must A live here, and so
+yee must be judged hereafter; yee must not look for that sentence by secret
+decrees or obscure doctrines, but by plain precepts and certain rules. But
+there are yet some more degrees of mercy. 4. That sentence shall passe upon us
+not after 4. the measures of Nature, and possibilities, and utmost extents,
+but by the mercies of the Covenant; we shall be judged as Chri­stians rather
+then as men, that is, as persons to whom much is pardoned, and much is pityed,
+and many things are (not acci­dentally, but consequently) indulged, and great
+helps are mini­stred, and many remedies supplyed, and some mercies
+extra­regularly B conveyed, and their hopes enlarged upon the stock of an
+infinite mercy, that hath no bounds but our needs, our capaci­ties, and our
+proportions to glory. 5. The sentence is to be given 5. by him that once dyed
+for us, and does now pray for us, and perpe­tually intercedes; and upon soules
+that he loves, and in the sal­vation of which himself hath a great interest,
+and increase of joy. And now upon these premises we may dare to consider what
+the sen­tence it self shall be, that shall never be reversed, but shall last
+for ever and ever.
+
+Whether it be good or bad.] I cannot discourse now the great­nesse C of the
+good or bad, so farre (I mean) as is revealed to us; the considerations are
+too long to be crouded into the end of a Sermon; onely in generall: 1. If it
+be good, it is greater then 1. all the good of this world, and every mans
+share then, in every instant of his blessed eternity is greater then all the
+pleasures of Mankind in one heap.
+
+[...],
+
+[...]. D
+
+A man can never wish for any thing greater then this immorta­lity, said
+Posidippus. 2\. To which I adde this one consideration, 2. that the portion of
+the good at the day of sentence shall be so great, that after all the labours
+of our life, and suffering persecu­tions, and enduring affronts, and the
+labour of love, and the con­tinuall feares and cares of the whole duration and
+abode, it re­wards it all, and gives infinitely more; Non sunt condignae
+passio­nes hujus saeculi; all the torments and evills of this world are not to
+be estimated with the joyes of the Blessed: It is the gift of God; a donative
+beyond the  [...], the military stipend, it is E beyond our work, and beyond
+our wages, and beyond the pro­mise, and beyond our thoughts, and above our
+understandings, and above the highest heavens, it is a participation of the
+joyes of God, and of the inheritance of the Judge himselfe.
+
+[[Page 36]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=26) [...]
+
+A
+
+[...]
+
+Xenoph.
+
+[...]
+
+It is a day of recompenses, in which all our sorrowes shall be turn'd into
+joyes, our persecutions into a crown, the Crosse into a Throne, poverty to the
+riches of God, losse, and affronts, and inconveniences, and death, into
+scepters, and hymnes, and rejoy­cings, and Hallellujahs, and such great things
+which are fit for us to hope, but too great for us to discourse of, while we
+see as in B a glasse darkly and imperfectly. And he that chooses to do an
+evill, rather then suffer one, shall finde it but an ill exchange, that he
+deferred his little to change for a great one. I remember that a servant in
+the old Comedy did chuse to venture the lash ra­ther then to feel a present
+inconvenience, Quia illud aderat malum, istud aberat longiùs: illud erat
+praesens, huic erant dieculae: but this will be but an ill account, when the
+rods shall for the delay be turned into Scorpions, and from easie shall become
+intolerable. Better it is to suffer here, and to stay till the day of
+restitution for the good and the holy portion; for it will recompense both C
+for the suffering and the stay.
+
+But how if the portion be bad? It shall be bad to the greatest part of
+mankinde; that's a fearfull consideration; the greatest part of men and women
+shall dwell in the portion of Devils to eternall ages. So that these portions
+are like the Prophets figs in the vision; the good are the best that ever
+were, and the worst are so bad that worse cannot be imagined. For though in
+hell the accursed souls shall have no worse then they have deserved, and there
+are not there overrunning measures as there are in hea­ven, and therefore that
+the joyes of heaven are infinitely greater joyes then the pains of hell are
+great pains, yet even these are a D full measure to a full iniquity, pain
+above patience, sorrowes without ease, amazement without consideration,
+despair without the intervals of a little hope, indignation without the
+possession of any good, there dwels envie and confusion, disorder and sad
+remembrances, perpetuall woes and continuall shriekings, uneasi­nesse and all
+the evils of the soul. But if we will represent it in some orderly
+circumstances, we may consider,
+
+1\. That here, all the troubles of our spirits are little participa­tions 1.
+of a disorderly passion; A man desires earnestly, but he hath E not, or he
+envies because another hath something besides him, and he is troubled at the
+want of one, when at the same time he hath a hundred good things; and yet
+ambition and envie, impatience and confusion, covetousnesse and lust are all
+of them very great torments; but there these shall be in essence and
+abstracted beings; [[Page
+37]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=26) the spirit of
+envie, and the spirit of sorrow; Devils, that shall in­flict all the whole
+nature of the evill and pour it into the minds of A accursed men; where it
+shall sit without abatement: for he that envies there, envies not for the
+eminence of another that sits a lit­tle above him, and excels him in some one
+good; but he shall envie for all; because the Saints have all, and they have
+none; therefore all their passions are integral, abstracted, perfect passions;
+and all the sorrow in the world at this time, is but a portion of sorrow;
+every man hath his share, and yet besides that which all sad men have, there
+is a great deal of sorrow which they have not, and all the Devils portion
+besides that; but in hell, they shall have the B whole passion of sorrow in
+every one, just as the whole body of the Sun is seen by every one in the same
+Horizon; and he that is in darknesse enjoyes it not by parts, but the whole
+darknesse is the portion of one as well as of another. If this consideration
+be not too Metaphysicall, I am sure it is very sad, and it relies upon this;
+that as in heaven there are some holy Spirits whose crown is all love; and
+some in which the brightest jewell is understanding; some are purity, and some
+are holinesse to the Lord: so in the re­gions of sorrow, evill and sorrow have
+an essence and proper being, and are set there to be suffer'd intirely by
+every undone man that dies there for ever. C
+
+2\. The evils of this world are materiall and bodily; the pres­sing of a
+shoulder, or the straining of a joynt; the dislocation of a bone, or the
+extending of an artery; a bruise in the flesh, or the pinching of the skin; a
+hot liver, or a sickly stomach; and then the minde is troubled because its
+instrument is ill at ease; but all the proper troubles of this life are
+nothing but the effects of an uneasie body, or an abused fancy, and therefore
+can be no big­ger then a blow or a cousenage, then a wound or a dream; only
+the trouble increases as the soul works it; and if it makes reflex D acts and
+begins the evill upon its own account, then it multiplies and doubles, because
+the proper scene of grief is open'd, and sor­row peeps through the corners of
+the soul. But in those regi­ons and daies of sorrow when the soul shall be no
+more depen­ding upon the body, but the perfect principle of all its actions,
+the actions are quick, and the perceptions brisk, the passions are extreme and
+the motions are spirituall; the pains are like the hor­rors of a Devill, and
+the groans of an evill spirit; not slow like the motions of a heavie foot, or
+a loaden arme, but quick as an Angels wing, active as lightning; and a grief
+then, is nothing like E a grief now, and the words of mans tongue which are
+fitted to the uses of this world, are as unfit to signifie the evils of the
+next, as person, and nature, and hand, and motion, and passion are to
+represent the effects of the Divine attributes, actions and sub­sistence.
+
+[[Page 38]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=27) 3\. The
+evill portions of the next world is so great, that God A did not create or
+design it in the first intention of things, and production of essences; he
+made the Kingdome of Heaven, [...], from the foundation of the world; for so
+it is observable, that Christ shall say to the Sheep at his right hand, Mat.
+25. 34. Receive the Kingdome prepared for you from the beginning of the world;
+but to the Goats and accursed spirits, he speaks of no such primitive and
+originall design; it was accidentall and a consequent to horrid crimes, that
+God was forced to invent and to after create that place of torments.
+
+4\. And when God did create and prepare that place, he did not at all intend
+it for man, it was prepared for the Divill and his B Angels, so saith the
+Judge himself, Go ye cursed into everlasting fire, 41. prepared for the Devill
+and his Angels, [...] which my Father prepared for the Devill, so some copies
+read it: God intended it not for man, but man would imitate the De­vils pride,
+and listen to the whispers of an evill spirit, and follow his temptations, and
+rebell against his Maker; and then God al­so against his first design resolved
+to throw such persons into that place that was prepared for the Devill: for so
+great was the love of God to mankind, that he prepared joyes infinite and
+never C ceasing for man before he had created him; but he did not
+pre­determine him to any evill; but when he was forced to it by mans malice,
+he doing what God forbad him, God cast him thi­ther where he never intended
+him; but it was not mans portion: he designed it not at first, and at last
+also he invited him to re­pentance, and when nothing could do it, he threw man
+into ano­thers portion, because he would not accept of what was designed to be
+his own.
+
+5\. The evill portion shall be continuall without intermission of evill; no
+dayes of rest, no nights of sleep, no ease from labour, no periods of the
+stroke, nor taking off the hand, no intervals be­tween D blow and blow; but a
+continued stroke, which neither shor­tens the life, nor introduces a brawny
+patience, or the toleration of an oxe, but it is the same in every instant,
+and great as the first stroke of lightning; the smart is great for ever as at
+the first change, from the rest of the grave to the flames of that horrible
+burning. The Church of Rome amongst some other strange opinions hath inserted
+this one into her publick Offices; that the perishing souls in hell may have
+sometimes remission and refreshment like the fits of an intermitting feaver:
+for so it is in the Roman Missal printed E at Paris, 1626\. in the Masse for
+the dead; Ut quia de ejus vitae qualitate diffidimus, & si plenam veniam
+animaipsius obtinere non potest, saltem vel inter ipsa tormenta quae forsan
+patitur, refrige­rium de abundantia miserationum tuarum sentiat: and something
+like this is that of Prudentius, Sunt & Spiritibus saepè nocentibus, Hymn. 5\.
+lib. Cathemer. [[Page
+39]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=27) Poenarum
+celebres sub Styge feriae, &c. The evill spirits have ease of their pain, and
+he names their holiday, then when the Resurrection A of our Lord from the
+grave is celebrated:
+
+Marcent suppliciis Tartara mitibus,
+
+Exultát (que) sui carceris otio
+
+Umbrarum populus liber ab ignibus:
+
+Nec fervent solito flumina sulphure.
+
+They then thought that when the Paschall taper burn'd, the flames of hell
+could not burn, till the holy wax was spent: but because B this is a fancy
+without ground or revelation, and is against the Analogie of all those
+expressions of our Lord, Where the worm dyeth not, and the fire is never
+quenched, and divers others, it is sufficient to have noted it without further
+consideration; the pains of hell have no rest, no drop of water is allowed to
+cool the tongue, there is no advocate to plead for them, no mercy belongs to
+their portion, but fearfull wrath and continuall burnings.
+
+6\. And yet this is not the worst of it; for as it is continuall during its
+abode: so its abode is for ever, it is continuall and eternall. Tertullian
+speaks something otherwise, Pro magnitudine cruciatus non diuturni, verùm
+sempiterni; not continuall, or the pains of C every day, but such which shall
+last for ever. But Lactantius is more plain in this affair; The same divine
+fire by the same power and force shall burn the wicked, and shall repair
+instantly whatsoever of the body it does consume: Ac sibi ipsi aeternum
+pabulum submi­nistrabit, and shall make for it self an eternall fuell.
+
+Vermibus & flammis & discruciatibus aevum
+
+Immortale dedit, senio ne poena periret
+
+Non pereunte animâ— D
+
+So Prudentius eternall wormes, and unextinguished flames, and im­mortall
+punishment is prepared for the ever-never dying souls of wicked men. Origen is
+charged by the ancient Churches for say­ing that after a long time the Devils
+and the accursed souls shall be restored to the Kingdome of God; and that
+after a long time again they shall be restored to their state; and so it was
+from their fall and shall be forever; and it may be that might be the meaning
+of Tertullians expression, of cruciatus non diuturni sed sempiterni.
+Epiphanius charges not the opinion upon Origen, and E yet he was free enough
+in his animadversion and reproof of him; but S. Austin did, and confuted the
+opinion in his books De civi­tate Dei. However, Origen was not the first that
+said the pains of the damned should cease; Justin Martyr in his Dialogue with
+Try­phon expresses it thus. Neither do I say that all the souls do dye, [[Page
+40]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=28) for that indeed
+would be to the wicked a gain unlooked for: What A then? the souls of the
+godly in a better place, of the wicked in a worse, do tarry the time of
+Judgement; then they that are worthy shall never dye again; but those that are
+designed to punishment shall abide so long as God please to have them to live
+and to be punished: But I observe, that the primitive Doctors were very
+willing to believe that the mercy of God would finde out a period to the
+tor­ment of accursed fouls; but such a period, which should be no­thing but
+eternall destruction, called by the Scripture the second death: only Origen
+(as I observed) is charg'd by S. Austin to have said they shall return into
+joyes; and back again to hell by an eternall revolution. But concerning the
+death of wicked souls, B and its being broke into pieces with fearfull
+torments and con­sumed with the wrath of God, they had entertain'd some
+diffe­rent fancies very early in the Church, as their sentences are col­lected
+by S. Hierome at the end of his Commentaries upon Isay; ‘and Ireneus disputes
+it largely, that they that are unthankfull to God in this short life and obey
+him not, shall never have an Lib. 2\. cap. 65. eternall duration of life in
+the ages to come, sed ipse se privat in saeculum saeculi perseverantiâ, he
+deprives his soul of living to eter­nall ages;’ for he supposes an immortall
+duration not to be na­turall C to the soul, but a gift of God, which he can
+take away, and did take away from Adam, and restored it again in Christ to
+them that beleeve in him and obey him: for the other, they shall be raised
+again to suffer shame, and fearfull torments, and accor­ding to the degree of
+their sins, so shall be continued in their sor­rowes, and some shall dye and
+some shall not dye; the Devill and the Beast, and and they that worshipped the
+Beast, and they that were marked with his Character, these S. John saith shall
+be tormented for ever and ever; he does not say so of all; but of some certain
+great criminals;  [...], all, so long as God please, some for ever and ever,
+and some not so severely; And whereas the D generall sentence is given to all
+wicked persons, to all on the left hand, to go into everlasting fire: it is
+answered, that the fire indeed is everlasting, but not all that enters into it
+is everlasting; but only the Devils for whom it was prepared and others more
+migh­ty criminals (according as S. John intimates) though also ever­lasting
+signifies only to the end of its proper period.
+
+Concerning this Doctrine of theirs so severe, and yet so mode­rated, there is
+lesse to be objected then against the supposed fan­cy of Origen: for it is a
+strange consideration to suppose an eter­nall E torment to those to whom it
+was never threatned; to those who never heard of Christ; to those that liv'd
+probably well, to heathens of good lives; to ignorants and untaught people; to
+people surprised in a single crime; to men that dye young in their naturall
+follies and foolish lusts; to them that fall in a sudden [[Page
+41]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=28) gaiety and
+excessive joy; to all alike; to all infinite and eternall, A even to unwarned
+people; and that this should be inflicted by God who infinitely loves his
+creature, who dyed for them, who pardons easily, and pities readily, and
+excuses much, and delights in our being saved, and would not have us dye, and
+takes little things in exchange for great: it is certain that Gods mercies are
+infinite, and it is also certain that the matter of eternall torments cannot
+truly be understood; and when the School-men go about to reconcile the Divine
+justice to that severity, and consider why God punishes eternally a temporall
+sin or a state of evill, they speak variously, and uncertainly, and
+unsatisfyingly. But that in this que­stion B we may separate the certain from
+the uncertain;
+
+1\. It is certain that the torments of hell shall certainly last as long as 1.
+the soul lasts; for eternall and everlasting can signifie no lesse but to the
+end of that duration, to the perfect end of the period in which it signifies.
+So Sodom and Gomorrah, when God rained down hell from heaven upon the earth
+(as Salvian's expression is) they are said to suffer the vengeance of eternall
+fire: that is, of a fire that con­sumed them finally, and they never were
+restored: and so the ac­cursed souls shall suffer torments till they be
+consumed; who be­cause they are immortall either naturally or by gift, shall
+be tor­mented C for ever, or till God shall take from them the life that he
+restored to them on purpose to give them a capacity of being miserable; and
+the best that they can expect is to despair of all good, to suffer the wrath
+of God, never to come to any minute of felicity, or of a tolerable state, and
+to be held in pain till God be weary of striking. This is the gentlest
+sentence of some of the old Doctors.
+
+But 2. the generality of Christians have been taught to beleeve 2. worse
+things yet concerning them; and the words of our blessed Lord, are  [...],
+eternall affliction or smiting; D
+
+Nec mortis poenas mors altora finiet hujus,
+
+Hora (que) erit tantis ultima nulla malis.
+
+And S. John, who well knew the minde of his Lord, saith; The Rev. 14. 11.
+smoke of their torment ascendeth up for ever and ever, and they have no rest
+day nor night: that is, their torment is continuall, and it is eternall. Their
+second death shall be but a dying to all felicity, for so death is taken in
+Scripture; Adam dyed when he eat the forbidden fruit; that is, he was lyable
+to sicknesse and E sorrowes, and pain and dissolution of soul and body: and to
+be miserable, is the worse death of the two; they shall see the eter­nall
+felicity of the Saints, but they shall never taste of the holy Chalice. Those
+joyes shall indeed be for ever and ever; for im­mortality is part of their
+reward, and on them the second death [[Page
+42]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=29) shall have no
+power; but the wicked shall be tormented horridly and insufferably till death
+and hell be thrown into the lake of fire, and A shall be no more, which is the
+second death. But that they may not Rev. 20. 14. imagine that this second
+death shall be the end of their pains, S. Iohn speaks expresly what that is;
+Rev. 21\. 8. The fearfull and unbe­leeving, the abominable and the murderers,
+the whoremongers and sorcerers, the idolaters and all lyars shall have their
+part in the lake wich burneth with fire and brimstone, which is the second
+death; no dying there, but a being tormented, burning in a lake of fire, that
+is the second death. For if life be reckoned a blessing, then to be destitute
+of all blessing is to have no life, and therefore to be in­tolerably B
+miserable is this second death, that is, death eternall.
+
+3\. And yet if God should deal with man hereafter more merci­fully and
+proportionably to his weak nature, then he does to An­gels, and as he admits
+him to repentance here, so in hell also to a period of his smart, even when he
+keeps the Angels in pain for ever; yet he will never admit him to favour, he
+shall be tormen­ted beyond all the measure of humane ages, and be destroyed
+for ever and ever.
+
+It concerns us all who hear and beleeve these things, to do as our blessed
+Lord will do before the day of his coming; he will call C and convert the Jews
+and strangers: Conversion to God is the best preparatory to Dooms-day: and it
+concerns all them who are in the neighbourhood and fringes of the flames of
+hell, that is, in the state of sin, quickly to arise from the danger, and
+shake the burning coals off our flesh, lest it consume the marrow and the
+bones: Exuen­da est velociter de incendio sarcina, priusquam flammis
+supervenien­tibus concremetur. Nemo diu tutus est periculo proximus, saith S.
+Cy­prian, No man is safe long, that is so neer to danger; for sudden­ly the
+change will come, in which the Judge shall be called to Judgement, and no man
+to plead for him, unlesse a good con­science D be his Advocate; and the rich
+shall be naked as a condem­ned criminall to execution; and there shall be no
+regard of Prin­ces or of Nobles, and the differences of mens account shall be
+for­gotten, and no distinction remaining but of good or bad, sheep and goats,
+blessed and accursed souls. Among the wonders of the day of Judgement our
+blessed Saviour reckons it, that men shall be marry­ing and giving in
+marriage,  [...] marrying and crosse marrying, that is, raising families and
+lasting greatnesse and huge estates; when the world is to end so quickly, and
+the gains of a rich purchase so very a trifle, but no trifling danger; a thing
+that can give no security to our souls, but much hazards and a great E charge.
+More reasonable it is, that we despise the world and lay up for heaven, that
+we heap up treasures by giving almes, and make friends of unrighteous Mammon;
+but at no hand to enter into a state of life, that is all the way a hazard to
+the main inte­rest, [[Page
+43]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=29) and at the best,
+an increase of the particular charge. Every degree of riches, every degree of
+greatnesse, every ambitious im­ployment, A every great fortune, every eminency
+above our brother, is a charge to the accounts of the last day. He that lives
+tempe­rately and charitably, whose imployment is religion, whose af­fections
+are fear and love, whose desires are after heaven and do not dwell below; that
+man can long and pray for the hastning of the coming of the day of the Lord.
+He that does not really de­sire and long for that day, either is in a very ill
+condition, or does not understand that he is in a good. *I will not be so
+severe in this meditation as to forbid any man to laugh, that beleeves
+him­self B shall be called to so severe a Judgement; yet S. Hierom said it,
+Coram coelo & terrâ rationem reddemus totius nostrae vitae; & tu rides? Heaven
+and earth shall see all the follies and basenesse of thy life; and doest thou
+laugh? That we may, but we have not reason to laugh loudly and frequently, if
+we consider things wise­ly, and as we are concerned: but if we do, yet
+praesentis temporis ita est agenda laetitia, ut sequentis judicii amaritudo
+nunquam recedat à memoriâ: so laugh here that you may not forget your danger,
+lest you weep for ever. He that thinks most seriously and most frequently of
+this fearfull appearance, will finde that it is better staying for his joyes
+till this sentence be past; for then he shall C perceive whether he hath
+reason or no. In the mean time won­der not that God who loves mankinde so
+well, should punish him so severely: for therefore the evill fall into an
+accursed portion, because they despised that which God most loves, his Son and
+his mercies, his graces and his holy Spirit; and they that do all this, have
+cause to complain of nothing but their own follies; and they shall feel the
+accursed consequents then when they shall see the Judge sit above them angry
+and severe, inexorable and terrible; under them an intolerable hell; within
+them, their consciences cla­morous D and diseased; without them, all the world
+on fire; on the right hand, those men glorified whom they persecuted or
+despised; on the left hand, the Devils accusing; for this is the day of the
+Lords terror, and who is able to abide it?
+
+Seu vigilo intentus studiis, seu dormio, semper
+
+Iudicis extremi nostras tuba personet aures.
+
+[[Page 44]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=30)
+
+## 4\. SERMON, IV. The Returne of PRAYERS. Or, The Conditions of a PREVAILING
+PRAYER.
+
+John 9. 31.‘Now wee know that God heareth not sinners, but if any man be a
+worshipper of God and doth his will, him he heareth.’
+
+I Know not which is the greater wonder, C either that prayer, which is a duty
+so easie and facile, so ready and apted to the powers, and skill, and
+opportunities of every man, should have so great effects, and be pro­ductive
+of such mighty blessings; or that we should be so unwilling to use so easie an
+instrument of procuring so much good. The first declares Gods goodnesse, but
+this publishes mans folly and weaknesse, who finds in himself so much
+difficulty to perform a condition so easie and full of advan­tage. D But the
+order of this infelicity is knotted like the foldings of a Serpent; all those
+parts of easinesse which invite us to doe the duty, are become like the joynts
+of a bulrush, not bendings, but consolidations and stiffenings; the very
+facility becomes its objection, and in every of its stages, wee make or finde
+a huge uneasiresse. At first wee doe not know what we ask, and when we doe,
+then we finde difficulty to bring our wils to desire it; and when that is
+instructed and kept in awe, it mingles interest, and confounds the purposes;
+and when it is forc'd to ask honestly and severely, then it wills so coldly,
+that God hates the prayer; E and if it desires fervently, it sometimes turns
+that into passion, and that passion breaks into murmurs or unquietnesse; or if
+that be avoyded, the indifferency cooles into death, or the fire burns
+violently, and is quickly spent; our desires are dull as a rock, or fugitive
+as lightening; either wee aske ill things earnestly, or [[Page
+45]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=30) good things
+remissely; we either court our owne danger, or are A not zealous for our reall
+safety; or if we be right in our matter, or earnest in our affections, and
+lasting in our abode, yet we misse in the manner; and either we aske for evill
+ends, or without religion and awefull apprehensions; or we rest in the words
+and signification of the prayer; and never take care to passe on to action; or
+else we sacrifice in the company of Corah being part­ners of a schisme, or a
+rebellion in religion; or we bring unhul­lowed censers; our hearts send up to
+God an unholy smoak, a cloud from the fires of lust, and either the flames of
+lust or rage, of wine or revenge kindle the beast that is laid upon the altar;
+B or we bring swines flesh, or a dogs neck; whereas God never accepts, or
+delights in a prayer, unlesse it be for a holy thing, to a lawfull end,
+presented unto him upon the wings of Zeal and love, of religious sorrow or
+religious joy; by sanctified lips, and pure hands, and a sincere heart. It
+must be the prayer of a gracious man; and he is onely gracious before God, and
+acceptable, and effective in his prayer, whose life is holy, and whose prayer
+is holy; For both these are necessary ingredients to the constitution of a
+prevailing prayer; there is a holinesse peculiar to the man, and a holinesse
+peculiar to the prayer, that must adorn the prayer be­fore C it can be united
+to the intercession of the Holy Jesus, in which union alone our prayers can be
+prevailing.
+
+God heareth not sinners:] so the blind man in the text, and confidently [this
+we know:] he had reason indeed for his confi­dence; it was a proverbiall
+saying, and every where recorded in their Scriptures, which were read in the
+synagogues every Salbath day. For what is the hope of the hypocrite? (saith
+Job) will God Job 27. 9. hear his cry when trouble cometh upon him? No, he
+will not. For if I regard iniquity in my heart, the Lord will not hear mee,
+said Ps. 6. 6. 18. David; and so said the Spirit of the Lord by the Son of
+David. Prov. 1. 28. D When distresse and anguish cometh upon you, Then shall
+they oall upon mee, but I will not answer; they shall seek mee early, but they
+shall not find mee; and Isaiah, When you spread forth your Isa. 1. 15. hands I
+will hide mine eyes from you, yea when you make many prayers I will not hear;
+your hands are full of bloud: and again, Ier. 14. 12. When they fast I will
+not hear their cry, and when they will offer burnt offerings and oblations, I
+will not accept them. For they have 10. loved to wander, they have not
+refrained their feet, therefore the Lord will not accept them; hee will now
+remember their iniquity, and visit their sins: Upon these and many other
+authorities it E grew into a proverb; Deus non exaudit peccatores: it was a
+known Vide etiam Ps. 34. 6 Micah 3 4. 1 Pet. 3. 12. case and an established
+rule in the religion; Wicked persons are nei­ther fit to pray for themselves,
+nor for others.
+
+Which proposition let us first consider in the sense of that pur­pose which
+the blind man spoke it in, and then in the utmost [[Page
+46]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=31) extent of it, as
+its analogie and equall reason goes forth upon us and our necessities. The man
+was cured of his blindnesse, and A being examined concerning him that did it,
+named and gloryed in his Physician: but the spitefull Pharisees b [...]d him
+give glory to God, and defie the Minister; for God indeed was good, but he
+wrought that cure by a wicked hand. No (says he) this is im­possible. If this
+man were a sinner and a false Prophet (for in that instance the accusation was
+intended) God would not hear his prayers, and work miracles by him in
+verification of a lye. A false Prophet could not work true miracles; this hath
+received its diminution when the case was changed; for at that time when B
+Christ preached, Miracles was the onely, or the great verifica­tion of any new
+revelation; and therefore it proceeding from an Almighty God, must needs be
+the testimony of a Divine truth; and if it could have been brought for a lye,
+there could not then have been sufficient instruction given to mankind, to
+prevent their beleef of false Prophets, and lying doctrines. But when Christ
+proved his doctrine by miracles, that no enemy of his did ever doe so great
+before or after him; then he also told, that after him his friends should doe
+greater; and his enemies should do some, (but they were fewer, and very
+inconsiderable) and therefore C could have in them no unavoydable cause of
+deception; because they were discovered by a Prophesie; and caution was given
+against them by him that did greater miracles; and yet ought to have been
+beleeved if he had done but one; because against him there had been no
+caution, but many prophesies creating such expecta­tions concerning him, which
+he verified by his great works. So that in this sense of working miracles,
+though it was infinitely true that the blind man said, then when he said it,
+yet after that the case was alter'd: and Sinners, Magicians, Astrologers,
+Witches, Hereticks, Simoniacks and wicked persons of other instances, have D
+done miracles, and God hath heard sinners, and wrought his own works by their
+hands, or suffered the Devill to doe his works under their pretences; and many
+at the day of Judgment shall plead that they have done miracles in Christs
+name, and yet they shall be rejected; Christ knows them not, and their portion
+shall bee with dogs, and goats, and unbeleevers.
+
+There is in this case onely this difference, that they who doe miracles in
+opposition to Christ, doe them by the power of the Devill, to whom it is
+permitted to doe such things which wee think miracles; and that is all one as
+though they were: but the E danger of them is none at all, but to them that
+will not beleeve him that did greater miracles, and prophesied of these lesse,
+and gave warning of their attending danger, and was confirmed to be a true
+teacher by voices from heaven, and by the resurrection of his body after a
+three days buriall: So that to these the pro­position [[Page
+47]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=31) still remains
+true, God hears not sinners, God does not A work those miracles; but
+concerning sinning Christians, God in this sense and towards the purposes of
+miracles does hear them, and hath wrought miracles by them, for they doe them
+in the name of Christ, and therefore Christ said, cannot easily speak ill of
+him; and although they either prevaricate in their lives, or in superinduced
+doctrines, yet because the miracles are a verification of the Religion, not of
+the opinion, of the power or truth of Christ, not of the veracity of the man,
+God hath heard such persons many times whom men have long since, and to this
+day call Hereticks, such were the Novatians and Arrians; For to the B Heathens
+they could onely prove their Religion by which they stood distinguished from
+them; but we find not that they wrought miracles among the Christians, or to
+verifie their superstructures and private opinions. But besides this yet, we
+may also by such means arrest the forwardnesse of our judgments and
+condemnations of persons disagreeing in their opinions from us; for those
+persons whose faith God confirmed by miracles was an intire faith, and
+although they might have false opinions, or mistaken explicati­ons of true
+opinions, either inartificiall or misunderstood, yet we have reason to beleeve
+their faith to be intire, for that which God C would have the Heathen to
+beleeve, and to that purpose prov'd it by a miracle, himselfe intended to
+accept first to a holy life, and then to glory. The false opinion should burn,
+and themselves escape. One thing more is here very considerable, that in this
+very instance of working miracles, God was so very carefull not to hear
+sinners or permit sinners, till he had prevented all dangers to good and
+innocent persons, that the case of Christ and his Apostles working miracles
+was so clearly separated and remarked by the finger of God, and distinguished
+from the impostures and preten­ces of all the many Antichrists that appeared
+in Palestine, Cyprus, D Crete, Syria, and the voicinage, that there were but
+very few Christians that with hearty perswasions fell away from Christ,
+[...], said Galen, It is not easie to teach anew him that hath been taught by
+Christ: And St. Austin tels a story of an unbeleeving man, that being troubled
+that his wife was a Christian, went to the Oracle to aske by what means hee
+should alter her perswasion; but he was answered, it could never be done, he
+might as well imprint characters upon the face of a torrent or a rapid river,
+or himself fly in the air, as alter the per­swasion of a hearty and an honest
+Christian; I would to God it E were so now in all instances, and that it were
+so hard to draw men from the severities of a holy life, as of old they could
+be cousened, disputed, or forced out of their faith. Some men are vexed with
+hypocrisie, and then their hypocrisie was punished with infidelity and a
+wretchlesse spirit. Demas, and Simon Magus, [[Page
+48]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=32) and Ecebolius,
+and the lapsed Confessors are instances of humane craft A or humane weaknesse;
+but they are scarce a number that are remarked in Ancient story to have fallen
+from Christianity by direct persuasi­ons, or the efficacy of abusing arguments
+and discourses. The reason of it is the truth in the text; God did so avoyd
+hearing sinners in this affair, that he never permitted them to doe any
+miracles so as to doe any mischief to the souls of good men; and there­fore it
+is said, the enemies of Christ came in the power of signes and wonders able to
+deceive (if it were possible) even the very elect; but that was not possible;
+without their faults it could not be; the elect were sufficiently
+strengthened, and the evidence of B Christs being heard of God, and that none
+of his enemies were heard of God to any dangerous effect, was so great, that
+if any Christian had apostatized or fallen away by direct perswasion, it was
+like the sin of a falling Angell, of so direct a malice that he never could
+repent, and God never would pardon him, as St. Paul twice remarks in his
+Epistle to the Hebrews. The result of this discourse is the first sense and
+explication of the words, God hea­reth not sinners, viz. in that in which they
+are sinners: a sinner in his manners may be heard in his prayer in order to
+the confir­mation of his faith, but if he be a sinner in his faith God hears C
+him not at all in that wherein he sins; for God is truth and can­not confirm a
+lye, and when ever he permitted the Devill to doe it, he secur'd the interest
+of his Elect, that is, of all that beleeve in him and love him, lifting up
+holy hands without wrath and doubting.
+
+2\. That which yet concerns us more neerly is, that God heareth not sinners,
+that is, if wee be not good men, our prayers will doe us no good: wee shall be
+in the condition of them that never pray at all. The prayers of a wicked man
+are like the breath of corrupted lungs, God turns away from such unwholsome
+brea­things. D But that I may reduce this necessary doctrine to a me­thod; I
+shall consider that there are some persons whose prayers are sins; and some
+others whose prayers are ineffectuall: some are such who doe not pray
+lawfully; they sin when they pray while they remain in that state and evill
+condition; others are such who doe not obtain what they pray for, and yet
+their prayer is not a di­rect sin: the prayer of the first is a direct
+abomination, the prayer of the second is hindred; the first is corrupted by a
+direct state of sin, the latter by some intervening imperfection and
+unhandsome circumstance of action; and in proportion to these, it is required,
+E 1\. that he be in a state and possibility of acceptation; and 2. that the
+prayer it selfe be in a proper disposition. 1. Therefore wee shall consider
+what are those conditions which are required in every person that prays, the
+want of which makes the prayer to be a sin? 2ly. What are the conditions of a
+good mans prayer, the [[Page
+49]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=32) absence of which
+makes that even his prayer returns empty? A 3ly. What degrees and
+circumstances of piety are required to make a man fit to be an intercessor for
+others, both with holinesse in himself and effect to them he prays for? And
+4ly. as an appendix to these considerations, I shall adde the proper indices
+and signifi­cations by which we may make a judgment whether God hath heard our
+prayers or no.
+
+1\. Whosoever prays to God while he is in a state, or in the affection to sin,
+his prayer is an abomination to God. This was a truth so beleeved by all
+Nations of the world, that in all Re­ligions they ever appointed baptismes and
+ceremoniall expiations to B cleanse the persons before they presented
+themselves in their holy offices. Deorum Templa cum adire disponitis ab, omni
+vos labe puros, lautos, castissimósque praestatis, said Arnobius to the
+Gentiles: When you addresse your selves to the Temples of your Gods, you keep
+your selves chast, and clean, and spotlesse. They washed their hands, and wore
+white garments, they refused to touch a dead boyd, they avoyded a spot upon
+their clothes as they avoyded a wound upon their head,  [...]. That was the
+religious ground they went upon; an impure thing ought not to touch that which
+is holy, much lesse to approach the Prince of C purities; and this was the
+sense of the old world in their lustra­tions, and of the Jews in their
+preparatory baptismes; they wash'd their hands to signifie that they should
+cleanse them from all iniquity, and keep them pure from bloud and rapine; they
+washed their garments, but that intended they should not be spot­ted with the
+flesh; and their follies consisted in this, that they did not looke to the
+bottome of their lavatories; they did not see through the vail of their
+ceremonies. Flagitiis omnibus inqui­nati veniunt ad precandum, & se piè
+sacrificasse opinantur, si cu­tem laverint, tanquam libidines intra pectus
+inclusas ulla amnis ab­luat, D aut ulla Maria purificent, said Lactantius;
+they come to their prayers dressed round about with wickednesse, ut quercus
+hederâ, and think God will accept their offering if their skin be wash'd; as
+if a river could purifie their lustfull souls, or a sea take off their guilt.
+But David reconciles the ceremony with the mysterie, I will wash my hands, I
+will wash them in innocency, and so will I goe to thine altar. Hae sunt verae
+munditiae (saies Tertullian) non quas plerique superstitione curant ad omnem
+orationem, etiam cum lavacro totius corporis aquam sumentes. ‘This is the true
+purifica­tion, not that which most men doe, superstitiously cleansing E their
+hands and washing when they go to prayers, but cleansing the soul from all
+impiety, and leaving every affection to sin; then they come pure to God:’ And
+this is it which the Apo­stle also signifies, having translated the Gentile
+and Jewish cere­mony into the spirituality of the Gospell, I will therefore
+that men [[Page 50]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=33)
+pray every where, levantes puras manus, lifting up cleane hands, A so it is in
+the Vulgar Latine, [...], so it is in the Greek, holy hands: That's the purity
+that God looks for upon them that lift up their hands to him in prayer: and
+this very thing is founded upon the Naturall constitution of things, and their
+essentiall pro­portion to each other.
+
+1\. It is an act of profanation for any unholy person to handle holy things,
+and holy offices. For if God was ever carefull to put all holy things into
+cancels, and immure them with acts and laws and cautions of separation; and
+the very sanctisication of them was nothing else but the solemn separating
+them from com­mon usages, that himself might bee distinguished from men by B
+actions of propriety; it is naturally certain, he that would be dif­ferenc'd
+from common things, would be infinitely divided from things that are wicked:
+If things that are lawfull may yet be un­holy in this sense; much more are
+unlawfull things most unholy in all senses. If God will not admit of that
+which is beside Reli­gion, he will lesse endure that which is against
+Religion. And therefore if a common man must not serve at the altar, how shall
+he abide a wicked man to stand there? No: he will not indure him, but he will
+cast him and his prayer into the separation of an C infinite and eternall
+distance. Sic profanatis sacris peritura Troja perdidit primùm Deos, So Troy
+entred into ruine when their prayers became unholy, and they profan'd the
+rites of their Re­ligion.
+
+2\. A wicked person while he remains in that condition is not the naturall
+object of pity:  [...], said Zeno; Mercy is a sorrow or a trouble at that
+misery which falls upon a person which deserv'd it not. And so Aristotle
+desines it, it is  [...], When we see the person deserves a better fortune, or
+is dispos'd to a fairer intreaty, then wee naturally pity him, and Sinon
+pleaded for pity to the Tro­jans, D saying,
+
+—Miserere animi non digna serentis.
+
+For who pityeth the tears of a base man who hath treacherously murthered his
+friend? or who will lend a friendly sigh when he sees a traitor to his country
+passe forth through the execrable gates of cities? and when any circumstance
+of basenesse, that is, any thing that takes off the excuse of infirmity, does
+accompany a sin (such as are ingratitude, perjury, perseverance, delight,
+ma­lice, E treachery) then every man scorns the criminall, and God de­lights
+and rejoyces in, and laughs at the calamity of such a per­son. When Vitellius
+with his hands bound behind him, his Imperiall robe rent, and with a dejected
+countenance and an ill name was led to execution, every man cursed him, but no
+man [[Page 51]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=33) wept.
+Deformitas exitus misericordiam abstulerat, saith Tacitus, The filthinesse of
+his life and death took away pity. So it is with A us in our prayers; while we
+love our sin we must nurse all its children; and when we roare in our lustfull
+beds, and groane with the whips of an exterminating Angell, chastising those
+[...] (as Aretas calls them) the lusts of the lower belly, wantonnesse, and
+its mother intemperance, we feel the price of our sin, that which God foretold
+to be their issues, that which he threatned us withall, and that which is the
+naturall consequent, and its certaine expectation, that which we delighted in,
+and chose, even then when we refused God, and threw away felicity, B and hated
+vertue. For punishment is but the latter part of sin; it is not a new thing
+and distinct from it: or if we will kisse the Hyaena, or clip the Lamia about
+the neck, we have as certainly cho­sen the taile, and its venemous embraces,
+as the face and lip. Every man that sins against God, and loves it, or, which
+is all one, continues in it, for by interpretation that is love, hath all the
+circumstances of unworthinesse towards God; hee is unthank­full, and a breaker
+of his vowes, and a despiser of his mercies, and impudent against his
+judgments, he is false to his profession, false to his faith, hee is an
+unfriendly person, and useth him bar­barously who hath treated him with an
+affection not lesse then C infinite; and if any man does half so much evill,
+and so unhand­somely to a man, we stone him with stones and curses, with
+re­proach, and an unrelenting scorn. And how then shall such a person hope
+that God should pity him? for God better under­stands, and deeper resents, and
+more essentially hates, and more severely exacts the circumstances and degrees
+of basenesse then we can doe; and therefore proportionably scorns the person
+and de­rides the calamity. Is not unthankfulnesse to God a greater base­nesse
+and unworthinesse then unthanfulnesse to our Patron? And D is not hee as
+sensible of it and more then wee? These things are more then words; and
+therefore if no man pities a base person, let us remember that no man is so
+base in any thing as in his un­handsome demeanour towards God. Doe wee not
+professe our selves his servants, and yet serve the Devill? Doe we not live
+upon Gods provision, and yet stand or work at the command of lust, or avarice,
+humane regards and little interests of the world? We call him Father when we
+desire our portion, and yet spend it in the society of all his enemies. In
+short: Let our actions to God and their circumstances be supposed to be done
+towards men, and E we should scorn our selves; and how then can we expect God
+should not scorne us, and reject our prayer when we have done all the
+dishonour to him, and with all the unhandsomnesse in the world? Take heed lest
+we fall into a condition of evill, in which it shall be said, You may thank
+your selves; and be infinitely afraid lest at [[Page
+52]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=34) the same time we
+be in a condition of person in which God will upbraid our unworthinesse, and
+scorne our persons, and rejoyce A in our calamity. The first is intolerable,
+the second is irremedia­dle; the first proclaims our folly, and the second
+declares Gods finall justice; in the first there is no comfort, in the latter
+there is no remedy; that therefore makes us miserable, and this renders us
+desperate.
+
+3\. This great truth is further manifested by the necessary and convenient
+appendages of prayer requir'd, or advis'd, or recom­mended in holy Scripture.
+For why is Fasting prescribed toge­ther with prayer? For neither if we eat are
+we the better, neither B if we eat not are we the worse; and God does not
+delight in that service, the first, second, and third part of which is nothing
+but pain and self-affliction. But therefore fasting is usefull with prayer,
+because it is a penall duty, and an action of repentance; for then onely God
+hears sinners, when they enter first into the gates of repentance, and proceed
+in all the regions of sorrow, and care­fulnesse; and therefore we are
+commanded to fast, that we may pray with more spirituality, and with
+repentance, that is, without the loads of meat, and without the loads of sin.
+Of the same consi­deration it is that almes are prescribed, together with
+prayer, be­cause C it is a part of that charity without which our soules are
+ene­mies to all that which ought to be equally valued with our owne lives. But
+besides this, we may easily observe what speciall unde­cencies there are,
+which besides the generall malignity and demerit, are speciall deleteries and
+hinderances to our prayers, by irreconci­ling the person of him that prays.
+
+1\. The first is unmercyfulnesse.  [...], said one in Stobaeus, and they were
+well joy­ned together. He that takes Mercy from a Man is like him that takes
+an Altar from the Temple; the Temple is of no use without D an Altar, and the
+Man cannot pray without mercy; and there are infinite of prayers sent forth by
+men which God never attends to, but as to so many sins; because the men live
+in a course of rapine, or tyranny, or oppression, or uncharitablenesse, or
+something that is most contrary to God, because it is unmercifull. Remember,
+that God sometimes puts thee into some images of his own relation. We beg of
+God for mercy, and our Brother begs of us for pity: and therefore let us deal
+equally with God and all the world. I see my selfe fall by a too frequent
+infirmity, and still I beg for pardon, and hope for pity; thy brother that
+offends thee, E he hopes so too, and would fain have the same measure, and
+would be as glad thou wouldst pardon him, as thou wouldest rejoyce in thy own
+forgivenesse. I am troubled when God rejects my prayer, or in stead of hearing
+my petition, sends a judgement: Is not thy Tenant, or thy Servant, or thy
+Client so to thee? does [[Page
+53]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=34) not he tremble
+at thy frown, and is of an uncertaine soule till thou speakest kindly unto
+him, and observes thy lookes as hee A watches the colour of the bean coming
+from thy box of Sentence, life or death depending on it? when he begs of thee
+for mercy, his passion is greater, his necessities more pungent, his
+apprehension more brisk, and sensitive, his case dressed with the
+circumstances of pity, and thou thy selfe canst better feel his condition then
+thou doest usually perceive the earnestnesse of thy own prayers to God; and if
+thou regardest not thy brother whom thou seest, whose case thou feelest, whose
+circumstances can afflict thee, whose passion is dressed to thy fancy, and
+proportioned to thy capacity, how B shall God regard thy distant prayer, or be
+melted with thy cold desire, or softned with thy dry story, or moved by thy
+unre­penting soul? If I be sad, I seek for comfort, and goe to God and to the
+ministry of his creatures for it; and is it not just in God to stop his own
+fountaines, and seal the cisterns and little emanations of the creatures from
+thee, who shuttest thy hand, and shuttest thy eye, and twistest thy bowells
+against thy brother, who would as fain be comforted as thou? It is a strange
+Iliacall passion that so hardens a mans bowells, that nothing proceeds from
+him but the name of his own disease, a Miserere mei Deus, C a prayer to God
+for pity upon him that will not shew pity to others. We are troubled when God
+through severity breaks our bones, and hardens his face against us; but we
+think our poor brother is made of iron, and not of flesh and bloud, as we are.
+God hath bound mercy upon us by the iron bands of necessity; and though Gods
+mercy is the measure of his justice, yet justice is the measure of our mercy,
+and as we doe to others it shall be done to us, even in the matter of pardon
+and of bounty, of gen­tlenesse and remission, of bearing each others burdens,
+and faire interpretation; Forgive us our trespasses as wee forgive them that D
+trespasse against us, so we pray. The finall sentence in this affair is
+recorded by St. James, Hee that shews no mercy shall have Iam. 2. 13. justice
+with out mercy: as thy poor brother hath groan'd under thy cruelty and
+ungentle nature without remedy, so shalt thou before the throne of God; thou
+shalt pray, and plead, and call, and cry, and beg again, and in the midst of
+thy despairing noyses be car­ryed in the regions of sorrow, which never did,
+and never shall feel a mercy. God never can heare the prayers of an
+unmerci­full man.
+
+2\. Lust and uncleannesse is a direct enemy to the Praying man, E and an
+obstruction to his prayers; for this is not onely a propha­nation, but a
+direct sacriledge; it defiles a Temple to the ground; it takes from a man all
+affection to spirituall things, and mingles his very soul with the things of
+the world; it makes his under­standing low, and his reasonings cheap and
+foolish, and it destroys [[Page
+54]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=35) his confidence,
+and all his manly hopes; it makes his spirit light, A effeminate, and
+fantastick, and dissolves his attention, and makes his mind so to disaffect
+all the objects of his desires, that when he prays he is as uneasy as an
+impaled person, or a condemned criminall upon the hook or wheel; and it hath
+in it this evill quality, that a lustfull person cannot pray heartily against
+his sin; he cannot desire his cure, for his will is contradictory to his
+Collect, and he would not that God should hear the words of his prayer, which
+he poor man never intended. For no crime so seises upon the will as that; some
+sins steale an affection, or obey a temptation, or secure an interest, or work
+by the way of understanding, but lust seises directly upon the will, for the
+Devil B knows well that the lusts of the body are soon cured; the un­easynesse
+that dwels there is a disease very tolerable, and every degree of patience can
+passe under it. But therefore the Devill seises upon the will, and that's it
+that makes adulteries and all the species of uncleannesse; and lust growes so
+hard a cure, because the formality of it is, that it will not be cured; the
+will loves it, and so long as it does, God cannot love the Man; for God is the
+Prince of purities, and the Son of God is the King of Virgins, and the holy
+Spirit is all love, and that is all purity C and all spirituality: And
+therefore the prayer of an Adulterer, or an uncleane person, is like the
+sacrifices to Moloch, or the rites of Flora, ubi Cato spectator esse non
+potuit, a good man will not endure them, much lesse will God entertaine such
+reekings of the Dead sea and clouds of Sodome. For so an impure vapor
+begot­ten of the slime of the earth, by the feavers and adulterous heats of an
+intemperate Summer sun, striving by the ladder of a mountaine to climbe up to
+heaven, and rolling into various figures by an uneasy, unfixed revolution, and
+stop'd at the middle re­gion of the aire, being thrown from his pride and
+attempt of passing towards the seat of the stars, turnes into an unwholsome D
+flame, and like the breath of hell is confin'd into a prison of darknesse, and
+a cloud, till it breaks into diseases, plagues and mildews, stink and
+blastings: so is the prayer of an unchast per­son, it strives to climbe the
+battlements of heaven, but because it is a flame of sulphur, salt and bitumen,
+and was kindled in the dishonorable regions below, deriv'd from hell, and
+contrary to God, it cannot passe forth to the element of love, but ends in
+barrennesse and murmur, fantastick expectations, and trifling imaginative
+confidences, and they at last end in sorrows and de­spaire. E * Every state of
+sin is against the possibility of a mans being accepted; but these have a
+proper venome against the graciousnesse of the person, and the power of the
+prayer. God can never accept an unholy prayer, and a wicked man can never send
+forth any other; the waters passe thorough impure aquaeducts [[Page
+55]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=35) and channels of
+brimstone, and therefore may end in brimstone A and fire, but never in
+forgivenesse, and the blessings of an eter­nall charity.
+
+Henceforth therefore, never any more wonder that men pray so seldome; there
+are few that feel the relish, and are enticed with the deliciousnesse, and
+refreshed with the comforts, and in­structed with the sanctity, and acquainted
+with the secrets of a holy prayer: But cease also to wonder, that of those few
+that say many prayers, so few find any return of any at all. To make up a good
+and a lawfull prayer there must be charity, with all its daughters, almes,
+forgivenesse, not judging uncharitably; B there must be purity of spirit, that
+is, purity of intention; and there must be purity of the body and soule, that
+is, the clean­nesse of chastity; and there must be no vice remaining, no
+af­fection to sin: for he that brings his body to God, and hath left his will
+in the power of any sin, offers to God the calves of his lips, but not a whole
+burnt-offering; a lame oblation, but not a reasonable sacrifice; and therefore
+their portion shall be amongst them whose prayers were never recorded in the
+book of life, whose tears God never put into his bottle, whose desires shall
+remaine ineffectuall to eternall ages. Take heed C you doe not lose your
+prayers; for by them you hope to have eternall life; and let any of you whose
+conscience is most religi­ous and tender, consider what condition that man is
+in, that hath not said his prayers in thirty or forty years together; and that
+is the true state of him who hath lived so long in the course of an
+unsanctified life; in all that while he never said one prayer that did him any
+good; but they ought to be reckoned to him upon the account of his sins. Hee
+that is in the affection, or in the habit, or in the state of any one sin
+whatsoever, is at such distance from and contrariety to God, that he provokes
+D God to anger in every prayer hee makes: And then adde but this
+consideration; that prayer is the great summe of our Reli­gion, it is the
+effect, and the exercise, and the beginning, and the promoter of all graces,
+and the consummation and perfection of many; and all those persons who pretend
+towards heaven, and yet are not experienced in the secrets of Religion, they
+reckon their piety, and account their hopes, onely upon the stock of a few
+prayers; it may be they pray twice every day, it may be thrice, and blessed be
+God for it; so farre is very well; but if it shall be remembred and
+considered, that this E course of piety is so farre from warranting any one
+course of sin, that any one habituall and cherished sin destroyes the effect
+of all that piety, wee shall see there is reason to account this to be one of
+those great arguments with which God hath so bound the duty of holy living
+upon us, that without a holy [[Page
+56]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=36) life we cannot
+in any sense be happy, or have the effect of one A prayer. But if we be
+returning and repenting sinners, God de­lights to hear, because he delights to
+save us:
+
+—Si precibus, dixerunt, numina justis
+
+Victa remollescunt—
+
+When a man is holy, then God is gracious, and a holy life is the best, and it
+is a continuall prayer; and repentance is the best argument to move God to
+mercy, because it is the instru­ment to unite our prayers to the intercession
+of the Holy B Jesus.
+
+[[Page 57]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=36)
+
+## 5\. SERMON, V. Part II. B
+
+AFter these evidences of Scripture, and reason deriv'd from its analogy, there
+will be lesse necessity to take any par­ticular notices of those little
+objections which are usually made from the experience of the successe and
+prosperities of evill persons. For true it is, there is in the world a
+generation of men that pray long and loud, and aske for vile things, such
+which they ought to fear, and pray against, and yet they are heard; The fat
+up­on Psal, 22. 29. earth eat and worship: But if these men aske things
+hurtfull and sinfull, it is certain God hears them not in mercy: They pray to
+C God as despairing Saul did to his Armour-bearer, Sta super me & interfice
+me, stand upon me and kill me; and he that obey'd his voice did him dishonour
+and sinn'd against the head of his King, and his own life. And the vicious
+persons of old pray'd to Laverna,
+
+—Pulchra Laverna,
+
+Da mihi fallere, da justum sanctúm (que) videri,
+
+Noctem peccatis & fraudibus objice nubem.
+
+Give me a prosperous robbery, a rich prey, and secret escape, let D me become
+rich with theeving and still be accounted holy. For every sort of man hath
+some religion or other, by the measures of which they proportion their lives
+and their prayers; Now as the holy Spirit of God teaching us to pray, makes us
+like himself in order to a holy and an effective prayer; and no man prayes
+well, but he that prays by the Spirit of God, the Spirit of holinesse, and he
+that prayes with the Spirit must be made like to the Spirit, he is first
+sanctified and made holy, and then made fervent, and then his prayer ascends
+beyond the cloud; first he is renewed in the spirit of his minde, and then he
+is inflamed with holy fires, and guided by E a bright starre; first purified
+and then lightned, then burning and shining: so is every man in every of his
+prayers. He is alwayes like the spirit by which he prayes: If he be a lustfull
+person, he prayes with a lustfull spirit; if he does not pray for it, he
+cannot heartily pray against it. If he be a Tyrant or an usurper, a robber or
+a [[Page 58]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=37)
+murtherer, he hath his Laverna too, by which all his desires are gui­ded, A
+and his prayers directed, and his petitions furnished. He can­not pray against
+that spirit that possesses him, and hath seised upon his will and affections:
+If he be fill'd with a lying spirit, and be con­formed to it in the image of
+his minde, he will be so also in the ex­pressions of his prayer, and the sense
+of his soul. Since therefore no prayer can be good but that which is taught by
+the Spirit of grace, none holy but the man whom Gods Spirit hath sanctified,
+and therefore none heard to any purposes of blessing which the ho­ly Ghost
+does not make for us (for he makes intercession for the Saints, the Spirit of
+Christ is the praecentor or the rector chori the B Master of the Quire) it
+followes that all other prayers being made with an evill Spirit must have an
+evill portion; and though the Devils by their Oracles have given some answers,
+and by their significations have foretold some future contingencies, and in
+their government and subordinate rule have assisted some armies, and
+dis­covered some treasures, and prevented some snares of chance, and accidents
+of men, yet no man that reckons by the measures of rea­son or religion,
+reckons witches and conjurors amongst blessed and prosperous persons: these
+and all other evill persons have an evill spi­rit, by the measures of which
+their desires begin and proceed on C to issue; but this successe of theirs
+neither comes from God, nor brings felicity: but if it comes from God, it is
+anger, if it descends upon good men, it is a curse, if upon evill men, it is a
+sin, and then it is a present curse, and leads on to an eternall infelicity.
+Plutarch reports that the Tyrians tyed their gods with chains, because certain
+persons did dream that Apollo said he would leave their City, and go to the
+party of Alexander, who then besieged the town: and Apollodorus tels of some
+that tied the image of Saturne with bands of wooll upon his feet. So are some
+Christians; they think God is tyed to their sect, and bound to be of their
+side and the inte­rest D of their opinion; and they think he can never go to
+the ene­mies party so long as they charme him with certain formes of words or
+disguises of their own; and then all the successe they have, and all the evils
+that are prosperous, all the mischiefs they do, and all the ambitious designs
+that do succeed, they reckon upon the ac­count of their prayers; and well they
+may; for their prayers are sins, and their desires are evill, they wish
+mischief, and they act ini­quity, and they enjoy their sin: and if this be a
+blessing or a cur­sing, themselves shall then judge, and all the world shall
+perceive, when the accounts of all the world are truly stated; then when
+prosperity shall be called to accounts, and adversity shall receive E its
+comforts, when vertue shall have a crown, and the satisfaction of all sinfull
+desires shall be recompensed with an intolerable sor­row, and the despair of a
+perishing soul. Nero's Mother prayed pas­sionately that her son might be
+Emperor; and many persons of [[Page
+59]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=37) whom S. Iames
+speaks, pray to spend upon their lusts, and they are A heard too: some were
+not; and very many are: and some that sight against a just possessor of a
+country pray that their wars may be pro­sperous, and sometimes they have been
+heard too: and Julian the Apostate prayed, and sacrificed, and inquired of
+Daemons, and bur­ned mans flesh, and operated with secret rites, and all that
+he might craftily and powerfully oppose the religion of Christ, and he was
+heard too, and did mischief beyond the malice and effect of his predecessors,
+that did swim in Christian bloud: but when we sum up the accounts at the foot
+of their lives, or so soon as the thing was understood, and finde that the
+effect of Agrippina's prayer was, B that her son murdered her; and of those
+lustfull petitioners, in St. Iames, that they were given over to the tyranny
+and posses­sion of their passions, and baser appetites; and the effect of
+Iulian the Apostate's prayer was, that he liv'd and died a professed ene­my of
+Christ; and the effect of the prayers of usurpers is, that they do mischief,
+and reap curses, and undoe mankinde, and provoke God, and live hated, and die
+miserable, and shall possesse the fruit of their sin to eternall ages; these
+will be no objections to the truth of the former discourse, but greater
+instances, that if by hearing our prayers we mean, or intend a blessing, we
+must also by making prayers C mean, that the man first be holy and his desires
+just and charitable, be­fore he can be admitted to the throne of grace, or
+converse with God by the entercourses of a prosperous prayer.
+
+That's the first generall. 2. Many times good men pray, and their prayer is
+not a sin, but yet it returns empty; because although the man be, yet the
+prayer is not in proper disposition; and here I am to account to you
+concerning the collaterall and accidentall hin­derances of the prayer of a
+good man.
+
+The first thing that hinders the prayers of a good man from ob­taining its
+effect is a violent anger, a violent storm in the spirit of D him that prayes.
+For anger sets the house on fire, and all the spi­rits are busie upon trouble,
+and intend propulsion, defence, displea­sure or revenge; it is a short
+madnesse, and an eternall enemy to to discourse, and sober counsels, and fair
+conversation; it intends its own object with all the earnestnesse of
+perception, or activity of de­signe, and a quicker motion of a too warm and
+distempered bloud; it is a feaver in the heart, and a calenture in the head,
+and a fire in the face, and a sword in the hand, and a fury all over; and
+there­fore can never suffer a man to be in a disposition to pray. For prayer
+is an action and a state of entercourse, and desire, exactly E contrary to
+this character of anger. Prayer is an action of likenesse to the holy Ghost,
+the Spirit of gentlenesse and dove-like simplicity; an imitation of the holy
+Jesus, whose Spirit is meek up to the great­nesse of the biggest example, and
+a conformity to God whose an­ger is alwaies just, and marches slowly, and is
+without transporta­tion, [[Page
+60]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=38) and often
+hindred, and never hasty, and is full of mercy; pray­er A is the peace of our
+spirit, the stilnesse of our thoughts, the evennesse of recollection, the seat
+of meditation, the rest of our cares, and the calme of our tempest; prayer is
+the issue of a quiet minde, of untroubled thoughts, it is the daughter of
+charity, and the sister of meeknesse; and he that prayes to God with an angry,
+that is, with a troubled and discomposed spirit, is like him that retires into
+a battle to meditate, and sets up his closet in the out quarters of an army,
+and chooses a frontier garrison to be wise in. Anger is a perfect alienation
+of the minde from prayer, and there­fore is contrary to that attention which
+presents our prayers in a B right line to God. For so have I seen a lark
+rising from his bed of grasse and soaring upwards singing as he rises, and
+hopes to get to heaven, and climbe above the clouds; but the poor bird was
+beaten back with the loud sighings of an eastern winde, and his motion made
+irregular and unconstant, descending more at eve­ry breath of the tempest,
+then it could recover by the libration and frequent weighing of his wings;
+till the little creature was forc'd to sit down and pant, and stay till the
+storm was over, and then it made a prosperous slight, and did rise and sing as
+if it had learned musick and motion from an Angell as he passed sometimes
+through C the aire about his ministeries here below: so is the prayers of a
+good man; when his affairs have required businesse, and his busi­nesse was
+matter of discipline, and his discipline was to passe upon a sinning person,
+or had a design of charity, his duty met with the infirmities of a man, and
+anger was its instrument, and the instru­ment became stronger then the prime
+agent, and raised a tempest, and overrul'd the man; and then his prayer was
+broken, and his thoughts were troubled, and his words went up towards a cloud,
+and his thoughts pull'd them back again, and made them without in­tention; and
+the good man sighs for his infirmity, but must be content to lose that prayer,
+and he must recover it when his anger D is removed and his spirit is becalmed,
+made even as the brow of Jesus, and smooth like the heart of God; and then it
+ascends to heaven upon the wings of the holy dove, and dwels with God till it
+returnes like the usefull Bee, loaden with a blessing and the dew of heaven.
+
+But besides this; anger is a combination of many other things every one of
+which is an enemy to prayer; it is  [...], and  [...] and  [...], and it is
+[...], and it is  [...], and it is  [...], and  [...], so it is in the
+severall definitions of it, and in its naturall constitution. It hath E in it
+the trouble of sorrow, and the heats of lust, and the disease of re­venge, and
+the boylings of a feaver, and the rashnesse of praecipitancy, and the
+disturbance of persecution; and therefore is a certain effe­ctive enemy
+against prayer which ought to be a spirituall joy, and an act of
+mortification; and to have in it no hears but of charity [[Page
+61]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=38) and zeal; and
+they are to be guided by prudence and consideration, A and allayed with the
+deliciousnesse of mercy, and the serenity of a meek and a quiet spirit; and
+therefore S. Paul gave caution, that the sun should not go down upon our
+anger, meaning, that it should not stay upon us till evening prayer; for it
+would hinder our evening sa­crifice; but the stopping of the first egressions
+of anger, is a certain artifice of the Spirit of God to prevent
+unmercifulnesse, which turns not only our desires into vanity, but our prayers
+into sin; and re­member that Elijah's anger, though it was also zeal, had so
+discompo­sed his spirit when the two Kings came to inquire of the Lord, that
+though he was a good man and a Prophet, yet he could not pray, B he could not
+inquire of the Lord, till by rest and musick he had ga­thered himself into the
+evennesse of a dispassionate and recollected minde; therefore let your prayers
+be without wrath.  [...], for God by many significations hath taught us, that
+when men go to the altars to pray, or to give thanks, they must bring no sin,
+or violent passion along with them to the sacrifice, said Philo.
+
+2\. Indifferency and easinesse of desire is a great enemy to the suc­cesse of
+a good mans prayer; When Plato gave Diogenes a great C vessell of Wine who
+ask'd but a little, and a few Carrawaies, the Cynic thank'd him with his rude
+expression; Cum interrogaris quot sint duo & duo, respondes viginti; ita non
+secundum ea quae rogaris das, nec ad ea quae interrogaris respondes: ‘Thou
+neither answerest to the question thou art asked, nor givest according as thou
+art desired; but being inquired of, how many are two and two, thou answerest
+twenty.’ So it is with God and us in the intercourse of our prayers: we pray
+for health, and he gives it us, it may be, a sicknesse that carries us to
+eternall life; we pray for necessary support for our persons and families, and
+he gives us more then D we need; we beg for a removall of a present sadnesse,
+and he gives us that which makes us able to bear twenty sadnesses, a cheerfull
+spirit, a peacefull conscience, and a joy in God, as an antepast of eternall
+rejoycings in the Kingdome of God; But then although God doth very frequently
+give us beyond the matter of our desires, yet he does not so often give us
+great things beyond the spirit of our desires, beyond the quicknesse,
+vivacity, and fervor of our minds; for there is but one thing in the world
+that God hates besides sin, that is, indifferency and lukewarmnesse; which
+although it hath not in See 2. Sermon of lukewarm­nesse and zeal. it the
+direct nature of sin, yet it hath this testimony from God, E that it is
+loathsome and abominable, and excepting this thing alone, God never said so of
+any thing in the New Testament, but what was a direct breach of a
+commandement. The reason of it is, be­cause lukewarmnesse or an indifferent
+spirit is an undervaluing of God and of Religion, it is a separation of reason
+from affections, [[Page
+62]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=39) and a perfect
+conviction of the understanding to the goodnesse of a duty, but a refusing to
+follow what we understand. For he that A is lukewarm alwaies understands the
+better way, and seldome pur­sues it; he hath so much reason as is sufficient,
+but he will not obey it; his will does not follow the dictate of his
+understanding, and therefore it is unnaturall. It is like the phantastick
+fires of the night, where there is light and no heat, and therefore may passe
+on to the reall fires of hell, where there is heat and no light; and therefore
+although an act of lukewarmnesse is only an undecency, and no sin; yet a state
+of lukewarmnesse is criminall, and sinfull state of imperfecti­on and
+undecency; an act of indifferency hinders a single prayer from being accepted;
+but a state of it makes the person ungracious B and despised in the Court of
+heaven: and therefore S. Iames in his accounts concerning an effective prayer,
+not only requires that he be a just man who prayes, but his prayer must be
+fervent; [...], an effectuall fervent prayer, so our English reads it; it must
+be an intent, zealous, busie, operative prayer; for consider what a huge
+undeceney it is, that a man should speak to God for a thing that he values
+not; or that he should not value a thing, with­out which he cannot be happy;
+or that he should spend his reli­gion upon a trifle; and if it be not a
+trifle, that he should not spend his affections upon it. If our prayers be for
+temporall things, I C shall not need to stirre up your affections to be
+passionate for their purchase; we desire them greedily, we run after them
+intemperately, we are kept from them with huge impatience, we are delayed with
+in­finite regret, we preferre them before our duty, we aske them
+unseaso­nably, we receive them with our own prejudice, and we care not, we
+choose them to our hurt and hinderance, and yet delight in the pur­chase; and
+when we do pray for them, we can hardly bring our selves to it, to submit to
+Gods will, but will have them (if we can) whether he be pleased or no; like
+the Parasite in the Comedy, Qui comedit quod fuit & quod non fuit, he eat all
+and more then all, what was set D before him, and what was kept from him. But
+then for spirituall things, for the interest of our souls, and the affairs of
+the Kingdome, we pray to God with just such a zeal as a man begs of the
+Chirur­geon to cut him of the stone; or a condemned man desires his
+exe­cutioner quickly to put him out of his pain, by taking away his life; when
+things are come to that passe, it must be done, but God knows with what little
+complacency and desire, the man makes his request: And yet the things of
+religion and the spirit, are the on­ly things that ought to be desired
+vehemently, and pursued passio­nately, because God hath set such a value upon
+them that they are E the effects of his greatest loving kindnesse; they are
+the purcha­ses of Christs bloud, and the effect of his continuall
+intercession, the fruits of his bloudy sacrifice, and the gifts of his healing
+and saving mercy, the graces of Gods Spirit, and the only instruments [[Page
+63]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=39) of felicity; and
+if we can have fondnesses for things indifferent, or dangerous, our prayers
+upbraid our spirits when we beg coldly and A tamely for those things for which
+we ought to dye, which are more precious then the globes of Kings, and
+weightier then Imperiall Scepters, richer then the spoils of the Sea, or the
+treasures of the In­dian hils.
+
+He that is cold and tame in his prayers, hath not tasted of the deliciousnesse
+of Religion, and the goodnesse of God; he is a stran­ger to the secrets of the
+Kingdome, and therefore he does not know what it is either to have hunger or
+satiety; and therefore neither are they hungry for God, nor satisfied with the
+world, but remain B stupid and inapprehensive, without resolution and
+determination, never choosing clearly, nor pursuing earnestly; and therefore
+never enter into possession, but alwaies stand at the gate of wearinesse,
+unnecessary caution, and perpetuall irresolution. But so it is too often in
+our prayers; we come to God because it is civill so to do, and a generall
+custome, but neither drawn thither by love, nor pinch'd by spirituall
+necessities, and pungent apprehensions; we say so many prayers because we are
+resolved so to do, and we passe through them sometimes with a little
+attention, some­times with none at all, and can we think that the grace of
+Chastity can be obtain'd at such a purchase, that grace that C hath cost more
+labours then all the persecutions of faith, and all the disputes of hope, and
+all the expence of charity be­sides, amounts to? Can we expect that our sinnes
+should be washed by a lazie prayer? Can an indifferent prayer quench the
+flames of hell, or rescue us from an eternall sorrow? Is lust so soon
+overcome, that the very naming it can master it? Is the De­vill so slight and
+easie an enemy, that he will fly away from us at the first word, spoken
+without power, and without vehemence? Read and attend to the accents of the
+prayers of Saints. I cryed D day and night before thee, O Lord; my soul
+refused comfort; my throat is dry with calling upon my God, my knees are weak
+through fasting; and, Let me alone, sayes God to Moses; and, I will not let
+thee go till thou hast blessed me, said Jacob to the Angell. And I shall tell
+you a short character of a fervent prayer out of the practise of S. Hierome,
+in his Epistle to Eustochium de custodiâ virginitatis. ‘Being destitute of all
+help I threw my self down at the feet of Jesus; I water'd his feet with tears,
+and wiped them with my hair, and mortified the lust of my flesh with the
+abstinence and hungry diet of many weeks; I remember that in my crying to E
+God, I did frequently joyn the night and the day, and never did intermit to
+call, nor cease from beating my brest, till the mercy of the Lord brought to
+me peace and freedome from temptation. After many tears, and my eyes fixed in
+heaven, I thought my self sometimes encircled with troops of Angels, and then
+at last I [[Page 64]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=40)
+sang to God, We will run after thee into the smell and delicious­nesse of thy
+precious ointments; such a prayer as this will never A return without its
+errand.’ But though your person be as gracious as David or Job, and your
+desire as holy as the love of Angels, and your necessities great as a new
+penitent, yet it pierces not the clouds, unlesse it be also as loud as
+thunder, passionate as the cries of women, and clamorous as necessity. And we
+may guesse at the degrees of importunity by the insinuation of the Apostle:
+Let the marryed abstain for a time, ut vacent orationi & jejunio, that they
+may attend to Prayer; it is a great attendance, and a long diligence that is
+promoted by such a separation; and supposes a devotion that spends more then
+many hours; for ordinary prayers, and many B hours of every day might well
+enough consist with an ordinary coha­bitation; but that which requires such a
+separation cals for a longer time and a greater attendance then we usually
+consider. For eve­ry prayer we make is considered by God, and recorded in
+heaven; but cold prayers are not put into the account in order to effect and
+acceptation; but are laid aside like the buds of roses which a cold wind hath
+nip'd into death, and the discoloured tawny face of an In­dian slave: and when
+in order to your hopes of obtaining a great blessing, you reckon up your
+prayers with which you have soli­cited C your suit in the court of heaven, you
+must reckon, not by the number of the collects, but by your sighs and
+passions, by the vehemence of your desires, and the fervour of your spirit,
+the apprehension of your need, and the consequent prosecution of your supply.
+Christ pray'd  [...] with loud cryings, and S. Paul made mention of his
+scholars in his prayers night and day. Fall upon your knees and grow there,
+and let not your desires cool, nor your zeal remit, but renew it again and
+again, and let not your offices and the custome of praying put thee in mind of
+thy need, but let thy need draw thee to thy holy offices; and remem­ber D how
+great a God, how glorious a Majesty you speak to, there­fore let not your
+devotions and addresses be little. Remember how great a need thou hast; let
+not your desires be lesse. Re­member how great the thing is you pray for; do
+not undervalue it with thy indifferency. Remember that prayer is an act of
+Religion; let it therefore be made thy businesse: and lastly, Remember that
+God hates a cold prayer, and therefore will never blesse it, but it shall be
+alwaies ineffectuall.
+
+3\. Under this title of lukewarmnesse and tepidity may be com­prised also
+these Cautions: that a good mans prayers are some­times E hindred by
+inadvertency, sometimes by want of perseverance. For inadvertency or want of
+attendance to the sense and intention of our prayers, it is certainly an
+effect of lukewarmnesse, and a cer­tain companion and appendage to humane
+infirmity; and is only so remedyed as our prayers are made zealous, and our
+infirmities [[Page
+65]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=40) passe into the
+strengths of the Spirit. But if we were quick in our perceptions, either
+concerning our danger, or our need, or the ex­cellency A of the object, or the
+glories of God, or the niceties and perfections of Religion, we should not
+dare to throw away our prayers so like fools, or come to God and say a prayer
+with our minde standing at distance, trissing like untaught boyes at their
+books, with a truantly spirit. I shall say no more to this, but that in reason
+we can never hope that God in heaven will hear our prayers, which we our
+selves speak and yet hear not at the same time when we our selves speak them
+with instruments joy­ned to our ears; even with those organs which are parts
+of our B hearing faculties. If they be not worth our own attending to, they
+are not worth Gods hearing; If they are worth Gods at­tending to, we must make
+them so by our own zeal, and passion, and industry, and observation, and a
+present and a holy spirit.
+
+But concerning perseverance, the consideration is something distinct. For when
+our prayer is for a great matter, and a great necessity, strictly attended to,
+yet we pursue it only by chance or humour, by the strengths of fancy, and
+naturall disposition; or else our choice is cool as soon as hot, like the
+emissions of light­ning, or like a sun-beam often interrupted with a cloud, or
+cool'd with intervening showers: and our prayer is without fruit because C the
+desire lasts not, and the prayer lives like the repentance of Simon Magus, or
+the trembling of Felix, or the Jewes devotion for seven dayes of unleavened
+bread, during the Passeover or the feast of Tabernacles; but if we would
+secure the blessing of our prayers, and the effect of our prayers, we must
+never leave till we have obtain'd what we need.
+
+There are many that pray against a temptation for a moneth to­gether, and so
+long as the prayer is servent, so long the man hath a nolition, and a direct
+enmity against the lust; he consents not D all that while; but when the moneth
+is gone, and the prayer is removed, or becomes lesse active, then the
+temptation returnes, and forrages, and prevails, and seises upon all our
+unguarded strengths. There are some desires which have a period, and Gods
+visitations expire in mercy at the revolution of a certain number of dayes;
+and our prayer must dwell so long as Gods anger abides; and in all the storm
+we must out cry the noyse of the tempest, and the voices of that thunder. But
+if we become hardned, and by custome and cohabitation with the danger lose our
+fears, and abate of our desires and devotions, many times we shall finde, E
+that God by a sudden breach upon us will chastise us for let­ting our hands go
+down. Israel prevailed no longer then Moses held up his hands in prayer; and
+he was forced to continue his prayer, till the going down of the Sun; that is,
+till the danger was over, till the battell was done. But when our desires, and
+[[Page 66]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=41) prayers
+are in the matter of spirituall danger, they must never be remitted, because
+our danger continues for ever, and therefore so must A our watchfulnesse, and
+our guards. Vult n. Deus rogari, vult cogi, vult quâdam importunitate vinci
+(sayes S. Gregory) God loves to be in­vited, intreated, importun'd with an
+unquiet, restlesse desire and a persevering prayer.  [...], said Proclus.
+That's a holy and a religious prayer, that never gives over, but renewes the
+prayer, and dwels upon the desire; for this on­ly is effectuall.  [...], God
+hears the persevering man, and the unwearied prayer. For it is very
+conside­rable, that we be very curious to observe; that many times a lust is
+sopita, non mortua, it is asleep; the enemy is at truce, and at quiet for B a
+while, but not conquered, not dead; and if we put off our armour too soon, we
+lose all the benefit of our former war, and are surprised by indiligence and a
+carelesse guard. For God sometimes binds the Devill in a short chain, and
+gives his servants respite, that they may feel the short pleasures of a peace,
+and the rest of innocence, and per­ceive what are the eternall felicities of
+heaven, where it shall be so for ever; But then we must return to our warfare
+again; and every se­cond assault is more troublesome, because it finds our
+spirits at ease, and without watchfulnesse, and delighted with a spirituall
+rest, and C keeping holiday. But let us take heed; for whatsoever temptation
+we can be troubled withall by our naturall temper, or by the condition of our
+life, or the evill circumstances of our condition, so long as we have capacity
+to feel it, so long we are in danger, and must watch thereun­to with prayer
+and continuall diligence. And when your temptati­ons let you alone, let not
+you God alone; but lay up prayers and the blessings of a constant devotion
+against the day of tryall. Well may your temptation sleep, but if your prayers
+do so, you may chance to be awakened with an assault that may ruine you.
+However, the rule is easie: Whatsoever you need, aske it of God so long as you
+D want it, even till you have it. For God therefore many times defers to
+grant, that thou mayst persevere to aske; and because every holy prayer is a
+glorification of God by the confessing many of his attri­butes, a lasting and
+a persevering prayer is a little image of the Allel­lujahs and services of
+eternity; it is a continuation to do that accor­ding to our measures which we
+shall be doing to eternall ages: there­fore think not that five or six hearty
+prayers can secure to thee a great blessing, and a supply of a mighty
+necessity. He that prays so, and then leaves off, hath said some prayers, and
+done the ordinary offices of his Religion, but hath not secured the blessing,
+nor used E means reasonably proportionable to a mighty interest.
+
+4\. The prayers of a good man are oftentimes hindered, and desti­ture of their
+effect for want of praying in good company; for some­times an evill or an
+obnoxious person hath so secured and ascertained a mischief to himself, that
+he that stayes in his company or his crat­fick [[Page
+67]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=41) must also share
+in his punishment: and the Tyrian sailers with all their vows and prayers
+could not obtain a prosperous voyage so long A as Jonas was within the Bark;
+for in this case the interest is divi­ded, and the publick sin prevails above
+the private piety. When the Philosopher asked a penny of Antigonus, he told
+him it was too little for a King to give; when he asked a talent, he told him
+it was too much for a Philosopher to receive; for he did purpose to cousen his
+own charity, and elude the others necessity, upon pre­tence of a double
+inequality. So it is in the case of a good man mingled in evill company: if a
+curse be too severe for a good man, a mercy is not to be expected by evill
+company; and his prayer, when it is made in common, must partake of that event
+of things B which is appropriate to that society. The purpose of this caution
+is, that every good man be carefull that he do not mingle his devoti­on in the
+communions of hereticall persons, and in schismaticall conventicles; for
+although he be like them that follow Absalom in the simplicity of their heart,
+yet his intermediall fortune, and the event of his present affairs may be the
+same with Absaloms; and it is not a light thing, that we curiously choose the
+parties of our Com­munion. I do not say it is necessary to avoid all the
+society of evill persons; for then we must go out of the world; and when we
+have thrown out a drunkard, possibly we have entertain'd an hypocrite; C or
+when a swearer is gone, an oppressor may stay still; or if that be remedied,
+yet pride is soon discernible, but not easily judicable: but that which is of
+caution in this question is, that we never min­gle with those, whose very
+combination is a sin; such as were Corah and his company that rebelled against
+Moses their Prince; and Dathan and Abiram that made a schisme in Religion
+against Aa­ron the Priest: for so said the Spirit of the Lord, Come out from
+the congregation of these men, lest ye perish in their company; and all those
+that were abused in their communion, did perish in the gain▪ saying D of
+Corah. It is a sad thing to see a good man cousened by fair pretences, and
+allured into an evill snare; for besides, that he dwels in danger, and
+cohabits with a dragon, and his vertue may change by evill perswasion, into an
+evill disposition, from sweetnesse to bitternesse, from thence to evill
+speaking, from thence to beleeve a lye, and from beleeving to practise it;
+besides this, it is a very great sadnesse, that such a man should lose all his
+prayers to very ma­ny purposes: God will not respect the offering of those men
+who assemble by a peevish spirit; and therefore although God in pity re­gards
+the desires of a good man if innocently abused, yet as it unites E in that
+assembly, God will not hear it to any purposes of blessing, and holinesse;
+unlesse we keep the unity of the spirit in the bond of peace, we cannot have
+the blessing of the Spirit in the returns of a ho­ly prayer; and all those
+assemblies which meet together against God or Gods Ordinances, may pray and
+call, and cry loudly, and fre­quently, [[Page
+68]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=42) and still they
+provoke God to anger; and many times he A will not have so much mercy for them
+as to deny them; but lets them prosper in their sin, till it swels to
+intolerable and impardona­ble. * But when good men pray with one heart, and in
+a holy assem­bly, that is, holy in their desires, lawfull in their authority,
+though the persons be of different complexion, then the prayer flies up to God
+like the hymns of a Quire of Angels; for God that made body and soul to be one
+man, and God and man to be one Christ, and three persons are one God, and his
+praises are sung to him by Quires, and the persons are joyned in orders, and
+the orders into hierarchies, and all, that God may be served by unions and
+communities, loves that his Church should imitate the Concords of heaven, and
+the B unions of God, and that every good man should promote the in­terests of
+his prayers by joyning in the communion of Saints in the unions of obedience
+and charity, with the powers that God and the Lawes have ordained.
+
+The sum is this, If the man that makes the prayer be an unholy person, his
+prayer is not the instrument of a blessing, but a curse; but when the sinner
+begins to repent truly, then his desires begin to be holy. But if they be
+holy, and just, and good, yet they are without profit and effect, if the
+prayer be made in schisme, or an C evill communion, or if it be made without
+attention, or if the man soon gives over, or if the prayer be not zealous, or
+if the man be angry. There are very many waies for a good man to become
+un­blessed and unthriving in his prayers, and he cannot be secure unlesse he
+be in the state of grace, and his spirit be quiet, and his minde be attentive,
+and his society be lawfull, and his desires carnest, and pas­sionate, and his
+devotions persevering, lasting till his needs be served, or exchanged for
+another blessing: so that, what Laelius (apud Cicer. de senectute) said
+concerning old age, neque in summâ inopiâ levis esse senectus potest, ne
+sapienti quidem, nec insipienti etiam in summâ D coptâ non gravis; that a wise
+man could not bear old age if it were extremely poor; and yet if it were very
+rich, it were intolerable to a fool; we may say concerning our prayers; they
+are sins and unholy, if a wicked man makes them, and yet if they be made by a
+good man they are ineffective, unlesse they be improved by their proper
+dis­positions. A good man cannot prevail in his prayers, if his desires be
+cold, and his affections trifling, and his industry soon weary, and his
+society criminall; and if all these appendages of prayer be ob­served, yet
+they will do no good to an evill man, for his prayer that begins in sin, shall
+end in sorrow. E
+
+[[Page 69]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=42)
+
+## 6\. SERMON, VI. Part, III. B
+
+3\. NExt I am to inquire and consider; what degrees and circumstances of piety
+are requir'd to make us fit to be intercessors for others, and to pray for
+them with probable effect? I say with probable effect; for when the event
+principally depends upon that which is not within our own election, such as
+are the lives and actions of others, all that we can consi­der in this affair
+is, whether wee be persons fit to pray in the behalf of others that hinder
+not, but are persons within the limit and possibilities of the presentmercy.
+When the Emperour Maxi­minus C was smitten with the wrath of God, and a sore
+disease for his cruell persecuting the Christian cause, and putting so many
+thousand innocent and holy persons to death, and he understood the voice of
+God and the accents of thunder, and discerned that cruelty was the cause, he
+revoked their decrees made against the Christians, recall'd them from their
+caves and deserts, their sanctu­aries, and retirements, and enjoyned them to
+pray for the life and health of their Prince. They did so, and they who could
+com­mand mountaines to remove, and were obeyed, they who could doe miracles,
+they who with the key of prayer could open Gods D four closets, of the wombe
+and the grave, of providence and rain, could not obtain for their bloudy
+Emperour one drop of mercy, but he must die miserable for over. God would not
+be intreated for him, and though he loved the prayer because he loved the
+Advocates, yet Maximinus was not worthy to receive the blessing. And it was
+threatned to the rebellious people of Israel, and by them to all people that
+should sin grievously against the Lord, God would break their staffe of bread,
+and even the righteous should not be prevailing intercessors; Though Noah,
+Job, or Daniel Ezek. 14. 14. were there, they should deliver but their own
+souls by their righte­ousnesse, E saith the Lord God: and when Abraham
+prevailed very far with God in the behalf of Sodome, and the five Cities of
+the Plain; it had its period; If there had been ten righteous in Sodom it
+should have been spared for their sakes, but four onely were found, and they
+onely delivered their own souls too; but neither their [[Page
+70]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=43) righteousnesse,
+nor Abrahams prayer prevailed any further; and we A have this case also
+mentioned in the New Testament: If any man see his brother sin a sin which is
+not unto death, he shall aske and 1 Ioh. 5. 16. he shall give him life for
+them that sin not unto death. At his prayer the sinner shall receive pardon;
+God shall give him life for them, to him that prays in their behalf that sin;
+provided it be not a sin unto death. For there is a sin unto death, but I doe
+not say that he shall pray for it. There his Commission expires, and his power
+is confin'd. For there are some sins of that state and greatnesse that God
+will not pardon. S. Austin in his books de sermone Domini in monte affirms it,
+concerning some one single sin of a perfect ma­lice. B It was also the opinion
+of Origen and Athanasius, and is fol­lowed by venerable Bede; and whether the
+Apostle means a pecu­liar state of sin, or some one single great crime which
+also supposes a precedent and a present state of criminall condition; it is
+such a thing as will hinder our prayers from prevailing in their behalf; we
+are therefore not encouraged to pray, because they cannot receive the benefit
+of Christs intercession, and therefore much lesse of our Ad­vocation, which
+onely can prevail by vertue and participation of his mediation. For whomsoever
+Christ prays, for them wee pray, that is, for all them that are, within the
+covenant of repentance, C for all whose actions have not destroyed the very
+being of Religion, who have not renounc'd their faith, nor voluntarily quit
+their hopes, nor openly opposed the Spirit of grace, nor grown by a long
+pro­gresse to a resolute and finall impiety, nor done injustices greater then
+sorrow, or restitution, or recompense, or acknowledgment. How­ever, though it
+may be uncertain and disputed concerning the num­ber of sins unto death, and
+therefore to pray, or not to pray, is not mat­ter of duty; yet it is all one,
+as to the effect, whether we know them or no; for though we intend charity
+when we pray for the worst of men, yet concerning the event God will take
+care, and will cer­tainly D return thy prayer upon thy own head, though thou
+didst de­sire it should water and refresh thy neighbors drynesse; and St. John
+so expresses it as if he had left the matter of duty undetermin'd; because the
+instances are uncertain; yet the event is certainly none at all, therefore
+because we are not encouraged to pray, and because it is a sin unto death,
+that is, such a sin that hath no portion in the promi­ses of life, and the
+state of repentance. But now, suppose the man for whom wee pray to be capable
+of mercy, within the covenant of repentance, and not farre from the Kingdome
+of hea­ven; yet, E
+
+2ly. No prayers of others can further prevail then to remove this person to
+the next stage in order to felicity. When S. Monica prayed for her son, she
+did not pray to God to save him, but to cōvert him; and when God intended to
+reward the prayers and almes of Cornelius, he did not do it by giving him a
+Crown, but by sending an [[Page
+71]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=43) Apostle to him
+to make him a Christian; the meaning of A which observation is, that we may
+understand, that as in the person prayed for, there ought to be the great
+disposition of being in a save­able condition; so there ought also to be all
+the intermediall aptnesses: for just as he is disposed, so can we prevail, and
+the prayers of a good man first prevail in behalf of a sinner, that he shall
+be invited, that he shall be reproved, and then that he shall attend to it,
+then that he shall have his heart open'd, and then that he shall repent: And
+still a good mans prayers follow him thorough the severall stages of pardon,
+of sanctification, of restraining graces, of a mighty providence, of great
+assistance, of perseverance, and a holy B death. No prayers can prevaile upon
+an undisposed person. For the Sun himself cannot enlighten a blind eye, nor
+the soule move a body whose silver cord is loosed, and whose joints are untyed
+by the rudenesse and dissolutions of a pertinacious sicknesse. But then,
+suppose an eye quick, and healthfull, or apt to be refreshed with light and a
+friendly prospect, yet a glow-worm or a diamond, the shels of pearl, or a dead
+mans candle, are not enough to make him discern the beauties of the world, and
+to admire the glories of crea­tion. Therefore,
+
+2\. As the persons must be capable for whom we pray, so they that pray for
+others must be persons extraordinary in something: C 1\. If persons be of an
+extraordinary piety, they are apt to be inter­cessors for others. This
+appeares in the case of Job: When the wrath of God was kindled against
+Eliphaz, and his two friends, Chap. 42. 7, 8. God commanded them to offer a
+sacrifice; but my servant Job shall pray for you, for him will I accept: and
+it was so in the case of the prevaricating Israelites; God was full of
+indignation against them, and smote them, Then stood up Phinehas and prayed,
+and the plague ceased. For this man was a good man, and the spirit of an
+extraor­dinary zeal filled him, and he did glory to God in the execution D
+upon Zimri and his fair Madianite. And it was a huge blessing that was
+intail'd upon the posterity of Abraham, Isaac, and Jacob; be­cause they had a
+great Religion, a great power with God, and their extraordinary did consist
+especially in the matter of prayers and devotion; for that was eminent in them
+besides their obedience: for so Maimonides tells concerning them, that Abraham
+first instituted Morning prayer. The affairs of Religion had not the same
+constitu­tion then as now. They worshipped God never but at their Memo­rials,
+and in places, and seldome times of separation. The bowed their head when they
+came to a hallowed stone, and upon the top E of their staffe, and worshipped
+when they came to a consecrated pillar, but this was seldome; and they knew
+not the secrets and the priviledges of a frequent prayer, of intercourses with
+God by ejaculations, and the advantages of importunity: and the Doctors of the
+Jews that record the prayer of Noah, who in all reason knew [[Page
+72]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=44) the secret best,
+because he was to teach it to all the world, yet have A transmitted to us but
+a short prayer of some seaven lines long; and this he onely said within the
+Ark, in that great danger, once on a day, provoked by his fear, and stirred up
+by a Religion then made actuall, in those days of sorrow and penance. But in
+the descen­ding ages, when God began to reckon a Church in Abraham's family,
+there began to be a new institution of offices, and Abraham appoin­ted that
+God should be prayed to every morning. Isaac being taught by Abraham, made a
+law, or at least commended the practise, and adopted it into the Religion,
+that God should be worshipped by decimation or tithing of our goods; and he
+added B an order of prayer to be said in the afternoon; and Jacob to make up
+the office compleat added evening prayer; and God was their God, and they
+became fit persons to blesse, that is, of procuring blessings to their
+relatives; as appears in the instances of their own families; of the King of
+Egypt, and the Cities of the Plain. For a man of an ordinary piety is like
+Gideons fleece, wet in its own locks; but it could not water a poor mans
+Garden. But so does a thirsty land drink all the dew of heaven that wets its
+face, and a great shower makes no torrent, nor digs so much as a little furrow
+that the drils of the water might passe into rivers, or refresh their
+neigh­bours C wearinesse; but when the earth is full, and hath no strange
+consumptive needs, then at the next time when God blesses it with a gracious
+shower, it divides into portions, and sends it abroad in free and equall
+communications, that all that stand round about may feel the shower. So is a
+good mans prayer; his own cup is full, it is crowned with health, and
+overflowes with bles­sings, and all that drink of his cup, and eat at his
+table are re­freshed with his joys, and divide with him in his holy portions.
+And indeed he hath need of a great stock of piety, who is first to provide for
+his own necessities, and then to give portions to a nu­merous relation. It is
+a great matter that every man needs for D himself; the daily expences of his
+own infirmities, the unthri­ving state of his omission of duties, and
+recessions from perfection, and sometimes the great losses and shipwracks, the
+plundrings and burning of his house by a fall into a deadly sin; and most good
+men are in this condition, that they have enough to doe to live, and keep
+themselves above water; but how few men are able to pay their own debts, and
+lend great portions to others? The number of those who can effectually
+intercede for others to great purposes of grace and pardon, are as soon told
+as the num­ber E of wise men, as the gates of a City, or the entries of the
+river Nilus.
+
+But then doe but consider what a great ingagement this is to a very strict and
+holy life. If we chance to live in times of an extraordinary trouble, or if
+our relatives can be capable of great [[Page
+73]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=44) dangers, or
+great sorrows, or if we our selves would doe the A noblest friendship in the
+world, and oblige others by acts of grea­test benefit; if we would assist
+their souls, and work towards their salvation; if we would be publick
+ministers of the greatest usefulness to our countrey; if we would support
+Kings, and relieve the great necessities of Kingdoms; if we would be effective
+in the stopping of a plague, or in the successe of armies; a great and an
+exemplar piety, and a zealous and holy prayer can do all this. Semper tu hoc
+facito ut cogites, Id optimum esse, tute ut sis optimus; si id nequeas, saltem
+ut optimis sis proximus. He that is the best man towards God, is certainely
+the best Minister to his Prince or Countrey, and there­fore B doe thou
+endevour to be so; and if thou canst not be so, be at least next to the best.
+For in that degree in which our Religion is great, and our piety exemplar, in
+the same we can contribute towards the fortune of a Kingdome: and when Elijah
+was taken into heaven, Elisha mourn'd for him because it was a losse to
+Israel: My Father, my father, the chariots of Israel and horsemen thereof: But
+consider how uselesse thou art, when thou canst not by thy prayers obtain so
+much mercy as to prevaile for the life of a single Trooper, or in a plague beg
+of God for the life of a poor Maid­servant; but the ordinary emanations of
+providence shall proceed C to issue without any arrest, and the sword of the
+Angel shall not be turn'd aside in one single infliction. Remember, although
+he is a great and excellent person that can prevaile of God for the interest
+of others, yet thou that hast no stock of grace and favour, no interest in the
+Court of heaven, art but a mean person; extra­ordinary in nothing; thou art
+unregarded by God, cheap in the sight of Angels, uselesse to thy Prince or
+Countrey; thou maist hold thy peace in a time of publick danger. For, Kings
+never pardon Murtherers at the intercession of Theeves; and if a mean
+Mechanick should beg a Reprieve for a condemned Traitor, he is D ridiculous
+and impudent; so is a vicious Advocate or an ordi­nary person with God. It is
+well if God will hear him beg­ging for his owne pardon; hee is not yet
+disposed to plead for others.
+
+And yet every man that is in the state of grace, every man that can pray
+without a sinfull prayer, may also intercede for others; and it is a duty for
+all men to doe it; all men I say who can pray at all acceptably; I will
+therefore that prayers, and supplications, and intercessions, and giving of
+thanks be made for all men; and this is a duty that is prescrib'd to all them
+that are concern'd in the E duty and in the blessings of Prayer; but this is
+it which I say; if their piety be but ordinary, their prayer can be effectuall
+but in easy purposes, and to smaller degrees; but he that would work
+effectively towards a great deliverance, or in great degrees towards the
+benefit or ease of any of his relatives, can be confident of his successe but
+[[Page 74]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=45) in the
+same degree in which his person is gracious. There are strange A things in
+heaven; judgments there are made of things and persons by the measures of
+Religion; and a plain promise produces effects of wonder and miracle; and the
+changes that are there made are not effected by passions, and interests, and
+corporall changes, and the love that is there is not the same thing that it is
+here, it is more beneficiall, more reasonable, more holy, of other designes,
+and strange productions; and upon that stock it is that a holy poor man that
+possesses no more (it may be) then an Ewe-lambe, that eats of his bread, and
+drinks of his cup, and is a daughter to him, and is all his temporall portion,
+this poor man is ministred to by Angels, and attended to by God, and the Holy
+Spirit makes in­tercession B for him, and Christ joyns the mans prayer to his
+own advocation, and the man by prayer shall save the City, and de­stroy the
+fortune of a Tyrant army, even then when God sees it good it should be so; for
+he will no longer deny him any thing, but when it is no blessing; and when it
+is otherwise, his prayer is most heard when it is most denyed.
+
+2ly. That we should prevaile in intercessions for others, we are to regard and
+to take care, that as our piety, so also must our offices be extraordinary. He
+that prays to recover a family from C an hereditary curse, or to reverse a
+Sentence of God, to cancell a Decree of heaven gone out against his friend,
+hee that would heale the sick with his prayer, or with his devotion prevaile
+against an army, must not expect such great effects upon a Mor­ning or Evening
+Collect, or an honest wish put into the recol­lections of a prayer, or a
+period put in on purpose. Mamercus Bishop of Vienna, seeing his City and all
+the Diocese in great danger of perishing by an earthquake, instituted great
+Letanies, and solemn supplications, besides the ordinary devotions of his
+usuall hours of prayer; and the Church from his example took up D the
+practise, and translated it into an anniversary solemnity, and upon St. Mark's
+day did solemnly intercede with God to divert or prevent his judgments falling
+upon the people, majoribus Litaniis, so they are called; with the more solemn
+supplications they did pray unto God in behalf of their people. And this hath
+in it the same consideration that is in every great necessity; for it is a
+great thing for a man to be so gracious with God, as to be able to prevaile
+for himself and his friend, for himself and his rela­tives; and therefore in
+these cases, as in all great needs, it is the way of prudence and security,
+that we use all those greater E offices which God hath appointed as
+instruments of importunity, and arguments of hope, and acts of prevailing, and
+means of great effect and advocation: such as are, separating days for so­lemn
+prayer, all the degrees of violence, and earnest addresse, fasting and prayer,
+almes and prayer, acts of repentance and prayer, [[Page
+75]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=45) praying together
+in publick with united hearts, and above all, praying in the susception and
+communication of the holy Sacra­ment; A the effects and admirable issues of
+which we know not, and perceive not; we lo [...]e because we desire not, and
+choose to lose many great blessings rather then purchase them with the
+frequent commemoration of that sacrifice which was offered up for all the
+needs of Mankind, and for obtaining all favours and graces to the Catholick
+Church.  [...], God never refuses to hear a holy prayer, and our prayers can
+never be so holy, as when they are offered up in the union of Christs
+sacrifice: For Christ by that sacrifice reconcil'd God and the world. And
+be­cause B our needs continue, therefore we are commanded to conti­nue the
+memory, and to represent to God that which was done to satisfie all our needs:
+Then we receive Christ; we are after a secret and mysterious, but most reall
+and admirable manner made all one with Christ; and if God giving us his Son
+could not but with him give us all things else, how shall he refuse our
+persons when we are united to his person, when our souls are joined to his
+soul, our body nourished by his body, and our souls sanctified by his bloud,
+and cloth'd with his robes, and marked with his cha­racter, and sealed with
+his Spirit, and renewed with holy vows, and consign'd to all his glories, and
+adopted to his inheritance? C when we represent his death, and pray in vertue
+of his passion, and imitate his intercession, and doe that which God commands,
+and offer him in our manner that which he essentially loves? can it be that
+either any thing should be more prevalent, or that God can possibly deny such
+addresses, and such importunities? Try it often, and let all things else be
+answerable, and you cannot have greater reason for your confidence. Doe not
+all the Christians in the world that understand Religion, desire to have the
+holy Sa­crament when they die; when they are to make their great ap­pearance D
+before God, and to receive their great consignation to their eternall
+sentence, good or bad? And if then be their greatest needs, that is their
+greatest advantage, and instrument of acceptation. There­fore if you have a
+great need to be serv'd, or a great charity to serve, and a great pity to
+minister, and a dear friend in a sorrow, take Christ along in thy prayers, in
+all thy ways thou canst take him; take him in affection, and take him in a
+solemnity, take him by obedience and receive him in the Sacrament; and if thou
+then offerest up thy prayers and makest thy needs known, if thou nor thy
+friend be not relieved, if thy party be not prevalent, and the war be not
+appeased, or the E plague be not cured, or the enemy taken off, there is
+something else in it; but thy prayer is good and pleasing to God, and dressed
+with cir­cumstances of advantage, and thy person is apt to be an inter­cessor,
+and thou hast done all that thou canst; the event must be left to God; and the
+secret reasons of the deniall either thou shalt find [[Page
+76]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=46) in time, or thou
+maist trust with God, who certainly does it with A the greatest wisdome, and
+the greatest charity. I have in this thing onely one caution to insert, viz.
+
+That in our importunity and extraordinary offices for others, we must nor make
+our accounts by multitude of words, and long prayers, but by the measures of
+the Spirit, by the holynesse of the soul, and the just nesse of the desire,
+and the usefulnesse of the re­quest, and its order to Gods glory, and its
+place in the order of providence, and the sincerity of our heart, and the
+charity of our wishes, and the perseverance of our advocation. There are some
+(as Tertullian observes) qui loquacitatem facundiam existimant, at impudentiam
+constantiam deputant; They are praters, and they are B impudent, and they call
+that constancy and importunity: concerning which, the advice is easy: Many
+words or few are extrinsecall to the nature, and not at all considered in the
+effects of prayer; but much desire and much holinesse, are essentiall to its
+constitution; but we must be very curious that our importunity do not
+degenerate into impudence and a rude boldnesse. Capitolinus said of Antonius
+the Emperour and Philosopher, sanè quamvis esset constans, erat etiam
+verecundus; he was modest even when he was most perti­nacious in his desires.
+So must wee; though wee must not be C ashamed to aske for whatsoever we need,
+Rebus semper pudor absit in arctis, and in this sense it is true that Stasimus
+in the Comedy said concerning Mear, Verecundari neminem apud mensam decet, Nam
+ibi de divinis & humanis cernitur: Men must not be bash­full so as to lose
+their meat; for that is a necessity that cannot bee dispensed withall: so it
+is in our prayers, whatsoever our necessity calls to us for, we must call to
+God for; and he is not pleased with that rusticity or fond modesty of being
+ashamed to ask of God any thing that is honest and necessary; yet our
+importunity hath also bounds of modesty, but such as are to be expressed with
+other significations; and he is rightly modest towards God, who D without
+confidence in himself, but not without confidence in Gods mercy, nor without
+great humility of person, and reverence of addresse, presents his prayers to
+God as earnestly as he can; Pro­vided alwayes, that in the greatest of our
+desires, and holy vio­lence, we submit to Gods will, and desire him to choose
+for us. Our modesty to God in prayers hath no other measures but these: 1.
+Distrust of our selves: 2\. Confidence in God: 3\. Humility of person: 4\.
+Reverence of addresse: and 5. Submission to Gods will: These are all, unlesse
+also you will adde that of Solomon: E Be not rash with thy mouth, and let not
+thy heart be hasty to Eccles. 5. 2. utter a thing before God, for God is in
+heaven, and thou upon earth, therefore let thy words be few. These things
+being ob­served, let your importunity be as great as it can, it is still the
+more likely to prevaile, by how much it is the more earnest, [[Page
+77]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=46) and signified
+and represented by the most offices extraordinary. A
+
+3ly. The last great advantage towards a prevailing intercession for others,
+is, that the person that prayes for his relatives, be a person of an
+extraordinary dignity, imployment or designation. For God hath appointed some
+persons and callings of men to pray for others, such are Fathers for their
+Children, Bishops for their Dioceses, Kings for their Subjects, and the whole
+Order Eccle­siasticall for all the men and women in the Christian Church. And
+it is well it is so; for as things are now, and have been too long, how few
+are there that understand it to be their duty, or part of their necessary
+imployment, that some of their time, and much of their prayers, and an equall
+portion of their desires be spent B upon the necessities of others? All men
+doe not think it necessary, and fewer practise it frequently; and they but
+coldly, without interest, and deep resentment: it is like the compassion we
+have in other mens miseries, we are not concerned in it, and it is not our
+case, and our hearts ake not when another mans children are made fatherlesse,
+or his wife a sad widow: and just so are our prayers for their relief: If we
+thought their evils to be ours, if wee and they as members of the same body
+had sensible and reall commu­nications of good and evill; if we understood
+what is really meant by being members one of another, or if we did not think
+it C a spirituall word of art, instrumentall onely to a science, but no part
+of duty, or reall relation, sure we should pray more earnestly one for another
+then we usually doe. How few of us are trou­bled when he sees his brother
+wicked, or dishonorably vicious? Who is sad and melancholy when his neighbour
+is almost in hell? when he sees him grow old in iniquity? How many days have
+we set apart for the publick relief and interests of the Kingdome? How
+earnestly have we fasted, if our Prince be sick or afflicted? What almes have
+we given for our brothers conversion? or if D this be great, how importunate
+and passionate have we been with God by prayer in his behalf, by prayer and
+secret petition? But however, though it were well, very well, that all of us
+would think of this duty a little more; because besides the excellency of the
+duty it self, it would have this blessed consequent, that for whose
+necessities we pray, if we doe desire earnestly they should be relieved, we
+would, when ever we can, and in all we can, set our hands to it; and if we
+pity the Orphan children, and pray for them heartily, we would also, when we
+could, relieve them charitably: but though it were therefore very well that
+things were E thus with all men, yet God who takes care for us all, makes
+pro­vision for us in speciall manner; and the whole Order of the Clergy are
+appointed by God to pray for others, to be Ministers of Christs Priesthood, to
+be followers of his Advocation, to stand between God and the people, and
+present to God all their needs, [[Page
+78]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=47) and all their
+desires. That this God hath ordained and appointed, A and that this rather he
+will blesse and accept, appears by the testi­mony of God himself, for he onely
+can be witnesse in this particu­lar; for it depends wholly upon his gracious
+favour and accepta­tion. It was the case of Abraham and Abimelech: Now
+therefore Gen. 20. 7. restore the man his wife, for he is a Prophet, and he
+will pray for thee, and thou shalt live; and this caused confidence in Micah:
+Now know I that the Lord will doe me good, seeing I have a Le­vite Iudg. 17.
+13. to my Priest: meaning, that in his Ministery, in the Mini­stery of
+Priests, God hath established the alternate returns of blessing and prayers,
+the entercouses between God and his people; And thorough the descending ages
+of the synagogue it came to B be transmitted also to the Christian Church,
+that the Ministers of Religion are advocates for us under Christ, by the
+Ministery of Reconciliation, by their dispensing the holy Sacraments, by the
+Keyes of the Kingdome of heaven, by Baptisme, and the Lords Supper, by binding
+and loosing, by the Word of God and Prayer; and therefore saith St. James, If
+any man be sick among you, let Iames 5. 14. him send for the Elders of the
+Church, and let them pray over him: meaning that God hath appointed them
+especially, and will accept them in ordinary, and extraordinary; and this is
+that which is meant by blessing. A Father blesses his childe, and Solomon
+blessed his C people, and Melchisedec the Priest blessed Abraham, and Moses
+blessed the Sons of Israel, and God appointed the Leviticall Priests to blesse
+the congregation; and this is more then can be done by the people; for though
+they can say the same prayer, and the People pray for their Kings, and
+Children for their Pa­rents, and the Flock for the Pastor, yet they cannot
+blesse him as he blesses them; for the lesse is blessed of the greater, and
+not the greater of the lesse; and this is without all contradiction, said S.
+Paul: Heb. 7. 7. the meaning of the mysterie is this, That God hath appointed
+the Priest to pray for the People, and because he hath made it to D be his
+ordinary office and imployment, he also intends to be seen in that way which
+he hath appointed, and chalked out for us; his prayer, if it be found in the
+way of righteousnesse, is the surer way to prevaile in his intercessions for
+the people.
+
+But upon this stock comes in the greatest difficulty of the text: for if God
+heareth not sinners, there is an infinite necessity that the Ministers of
+Religion should be very holy: For all their ministeries consist in preaching
+and praying; to these two are reducible, all the ministeries Ecclesiasticall
+which are of divine institution: so the Apostles summ'd up their imployment;
+But we will give our selves E Act. 6. 4. continually to prayer, and to the
+ministery of the Word; to exhort, to reprove, to comfort, to cast down, to
+determine cases of con­science, and to rule in the Church by the word of their
+proper Mi­nistery; and the very making lawes Ecclesiasticall, is the ministery
+[[Page 79]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=47) of the
+word; for so their dictates passe into lawes by being du­ties injoyn'd by God,
+or the acts, or exercises, or instruments A of some injoyn'd graces. To prayer
+is reduced administration of the Sacraments: but binding and loosing, and
+visitation of the sick are mixt offices, partly relating to one, partly to the
+other. Now al­though the Word of God preached, will have a great effect, even
+though it be preached by an evill Minister, a vicious person; yet it is not so
+well there, as from a pious man; because by prayer also his preaching is made
+effectuall, and by his good example his Homi­lies and Sermons are made active;
+and therefore it is very necessary in respect of this half of the Ministers
+office, [The preaching of B Word] he be a good man; unlesse he be, much
+perishes to the people, most of the advantages are lost. But then for the
+other half; all those ministeries which are by way of prayer are rendred
+extremely invalid, and ineffectuall, if they be ministred by an evill person.
+For upon this very stock it was that St. Cyprian af­firmed that none were to
+be chosen to the Ministery but immacu­lati & integri antistites, holy and
+upright men, who offering their sacrifices worthily to God, and holily, may be
+heard in their prayers which they make for the safety of the Lords people. But
+he presses Lib. 1\. ep. 4. this caution to a further issue: that it is not
+only necessary to choose holy persons to these holy Ministeries for fear of
+losing the ad­vantages C of a sanctified Ministery; but also that the people
+may not be guilty of an evill communion, and a criminall state of society. Nec
+enim sibi plebs blandiatur quasi immunis à contagione delicti esse possit cum
+sacerdote peccatore communicans, the people cannot be innocent if they
+communicate with a vitious priest: for so said the Lord by the Prophet Hosea,
+Sacrificia eorum panis luctus; their sacri­fices are like bread of sorrow,
+whosoever eat thereof shall be defiled. The same also he sayes often and more
+vehemently, ibid. & lib. 4\. ep. 2\. But there is yet a further degree of this
+evill. It is not only D a losse, and also criminall to the people to
+communicate with a Minister of a notorious evill life and scandalous, but it
+is affir­med by the Doctors of the Church to be wholly without effect: their
+prayers are sins, their Sacraments are null and ineffective, their communions
+are without consecration, their hand is  [...] a dead hand, the blessings
+vain, their sacrifices rejected, their ordinations imperfect, their order is
+vanished, their character is extinguished, and the holy Ghost will not descend
+upon the mysteries when he is invocated by unholy hands and unsanctified lips.
+This is a sad sto­ry, but it is expresly affirmed by Dionysius, by St. Hierom
+upon the Ad Demo. E 2\. chapter of Zephaniah, affirming that they do wickedly
+who af­firm eucharistiam imprecantis facere verba, non vitam, & necessariam
+esse tantum solennem orationem & non sacerdotum merita: that the Eucharist is
+consecrated by the Word and solemn prayer, and not by the life and holinesse
+of the Priest; and by St. Gelasius 1\. q. 1\. c. sacro­sancta. by the [[Page
+80]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=48) Author of the
+imperfect work attributed to St. Chrysostome Homil. 53. who quotes the 8th.
+book of the Apostolicall Constitutions for the same Do­ctrine; A the words of
+which in the first chapter are so plain that Bovius In scholiis ad hunc locum.
+and Sixtus Senensis Lib. 6, A. D. 108\. Biblioth. accuse both the Author of
+the Aposto­licall Constitutions, and St. Hierom and the Author of these
+Homi­lies to be guilty of the Doctrine of Iohn Hus, who for the crude delivery
+of this truth was sentenced by the councell of Constance. To the same sense
+and signification of Doctrine is that which is generally agreed upon by almost
+all persons; that he that enters into his Ministery by Simony receives nothing
+but a curse, which is expresly affirmed by Petrus Damiani Ep. 16\. Bibli­oth.
+pp. tom. 3\. n. 19. and Tarasius Decret. 1\. q. 1\. ad c. eos qui. the
+Patri­arch of Constantinople, by St. Gregory Lib. 6\. regist. 5\. in decretis
+& l. 7\. c. 120., and St. Ambrose De dignit. sacerd. c. 5.. B
+
+For if the holy Ghost leaves polluted Temples and unchast bo­dies, if he takes
+away his grace from them that abuse it, if the holy Ghost would not have
+descended upon Simon Magus at the prayer of St. Peter, if St. Peter had taken
+money for him: it is but rea­sonable to beleeve the holy Ghost will not
+descend upon the simo­niacall, unchast Concubinaries, Schismaticks and
+scandalous Priests, and excommunicate. And beside the reasonablenesse of the
+Do­ctrine, it is also further affirmed by the councell of Neocaesarea, by St.
+Can. 9\. orat. 4\. de sacerd. Chrysostome, 1\. in ep. 20\. hom. 1\. part. 2\.
+ep. 27. Innocentius, Ep. 9\. tom. 3 ad Michael. im­perater. d. in 4 dist. 13.
+Nicolaus the first, and by the Ma­ster of the Sentences upon the saying of God
+by the Prophet Ma­lachic. C 1\. Maledicam benedictionibus vestris, I will
+curse your blessings; upon the stock of these Scriptures, reasons, and
+authorities, we may see how we are to understand this advantage of
+intercession. The prayer and offices of holy Ministers are of great advantages
+for the interest of the people; but if they be ministred to by evill men, by
+vicious, and scandalous Ministers, this extraordinary advantage is lost, they
+are left to stand alone, or to fall by their own crimes; so much as is the
+action of God, and so much as is the piety of the man that attends and prayes
+in the holy place with the Priest, so far he shall prevail, but no further;
+and therefore the Church D hath taught her Ministers to pray thus in her
+preparatory prayer to consecration, Quoniam me peccatorem inter te & eundem
+populum Medium esse voluisti, licet in me boni operis testimonium non
+agnoscas, officium dispensationiis creditae non recuses, nec per me indignum
+fa­mulum tuum eorum salutis pereat pretium, pro quibus victima factus
+salutaris, dignatus es fieri redemptio. For we must know that God hath not put
+the salvation of any man into the power of another. And although the Church of
+Rome by calling the Priests actuall intention simply necessary, and the
+Sacraments also indispensably necessary, hath left it in the power of every
+Curate to damn very E many of his Parish; yet it is otherwise with the
+accounts of truth, and the Divine mercy; and therefore he will never exact the
+Sa­craments of us by the measures and proportions of an evill Priest, but by
+the piety of the communicant, by the prayers of Christ, [[Page
+81]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=48) and the mercies
+of God. But although the greatest interest of sal­vation A depends not upon
+this Ministery, yet as by this we receive many advantages, if the Minister be
+holy: so if he be vicious, we lose all that which could be conveyed to us by
+his part of the holy Ministration; every man and woman in the assembly prays
+and joynes in the effect, and for the obtaining the blessing; but the more
+vain persons are assembled, the lesse benefits are received even by good men
+there present: and therefore much is the losse, if a wicked Priest ministers,
+though the summe of affairs is not in­tirely turned upon his office or
+default; yet many advantages are. For we must not think that the effect of the
+Sacraments is indivi­sibly B done, at once, or by one ministery; but they
+operate by parts, and by morall operation, by the length of time, and a whole
+order of piety, and holy ministeries; every man is  [...], a fellow­worker
+with God in the work of his salvation; and as in our devo­tion, no one prayer
+of our own alone prevails upon God for grace and salvation, but all the
+devotions of our life are upon Gods account for them; so is the blessing of
+God brought upon the people by all the parts of their religion, and by all
+assistances of holy people, and by the ministeries not of one, but of all Gods
+Ministers, and relies finally upon our own faith, and obedience, C and the
+mercies of God in Jesus Christ; but yet for want of ho­ly persons to minister,
+much diminution of blessing, and a losse of advantages is unavoidable;
+therefore if they have great necessities, they can best hope that God will be
+moved to mercy on their behalf, if their necessities be recommended to God by
+persons of a great piety, of a holy calling, and by the most solomn offices.
+
+Lastly, I promised to consider concerning the signs of having our prayers
+heard; concerning which, there is not much of par­ticular observation; but if
+our prayers be according to the war­rant of Gods Word, if we aske according to
+Gods will, things D honest and profitable, we are to relye upon the promises,
+and we are sure that they are heard; and besides this, we can have no sign but
+the thing signified; when we feel the effect, then we are sure God hath heard
+us; but till then we are to leave it with God, and not to aske a sign of that,
+for which he hath made us a pro­mise. And yet Cassian hath named one sign,
+which if you give me leave I will name unto you. It is a sign we shall prevail
+in our Collat. 9\. cap. 32. prayers, when the Spirit of God moves us to pray,
+cum fiduciâ & quasi securitate impetrandi, with a confidence and a holy
+security of re­ceiving what we aske. But this is no otherwise a sign, but
+be­cause E it is a part of the duty; and trusting in God is an endearing him,
+and doubting is a dishonour to him; and he that doubts hath no faith; for all
+good prayers relye upon Gods Word; and we must judge of the effect by
+prudence: for he that askes what is not lawfull, hath made an unholy prayer;
+if it be lawfull and not pro­fitable, [[Page
+82]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=49) we are then
+heard when God denies us; and if both these A be in the prayer, he that doubts
+is a sinner, and then God will not hear him; but beyond this I know no
+confidence is warrantable; and if this be a signe of prevailing, then all the
+prudent prayers of all holy men shall certainely be heard, and because that is
+certain, we need no further inquiry into signes.
+
+I summe up all in the words of God by the Prophet: Run Ierem. 5. 1. to and fro
+thorow the streets of Jerusalem, and see, and know, and seek in the broad
+places thereof, if you can finde a man, if there be any that executeth
+judgment, that seeketh truth, virum quaerentem fidem, a man that seeketh for
+faith, & propitius ero ei, and I will pardon it. God would pardon all
+Jerusalem for one B good mans sake; there are such dayes and opportunities of
+mercy when God at the prayer of one holy person will save a people; and
+Ruffinus spake a great thing, but it was hugely true: Quis dubitet mun­dum
+stare precibus sanctorum? the world it self is established and kept from
+dissolution by the prayers of Saints; and the prayers of Saints shall hasten
+the day of Judgement; and we cannot easily find two effects greater. But there
+are many other very great ones; for the pray­ers of holy men appease Gods
+wrath, drive away temptations, resist and overcome the Devill: Holy prayer
+procures the ministery and C service of Angels, it rescinds the Decrees of
+God, it cures sick­nesses, and obtains pardon, it arrests the Sun in its
+course, and staies the wheels of the Charet of the Moon; it rules over all
+Gods creatures, and opens and shuts the storehouses of rain; it unlocks the
+cabinet of the womb, and quenches the violence of fire, it stops the mouthes
+of Lions, and reconciles our sufferance and weak faculties, with the violence
+of torment, and sharpnesse of per­secution; it pleases God and supplies all
+our needs. But Prayer that can do thus much for us, can do nothing at all
+without holi­nesse; for God heareth not sinners, but if any man be a
+worshipper of D God and doth his will, him he heareth.
+
+[[Page 83]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=49)
+
+## 7\. Sermon, VII. Of godly Fear, &c. Part I.
+
+Heb. 12. part of the 28th. and the 29th. verses.‘Let us have Grace whereby we
+may serve God with reverence and godly fear. For our God is a con­suming
+fire.’
+
+[...], so our Testaments usually read it from the authority of Theophylact;
+Let us have grace: But some copies read it in the indica­tive mood  [...], we
+have grace, by which we do serve; and it is something better consonant to the
+discourse of the Apostle. For having enu­merated the great advantages which
+the Gospell hath above those of the Law, he makes an argument à majori; and D
+answers a tacite objection. The Law was delivered by Angels, but the Gospell
+by the Son of God: The Law was delivered from Mount Sinai, the Gospell from
+Mount Sion, from the heavenly Jerusalem: The Law was given with terrors and
+noises, with amazements of the standers by, and Moses himself the Minister did
+exceedingly quake and fear, and gave demonstration how infinite­ly dangerous
+it was by breaking that Law to provoke so mighty a God, who with his voice did
+shake the earth; but the Gospell was given by a meek Prince, a gentle Saviour,
+with a still voice, scarce heard in the streets. But that this may be no
+objection, E he proceeds and declares the terror of the Lord; Deceive not your
+selves, our Law-giver appeared so upon earth, and was so truly, but now he is
+ascended into heaven, and from thence he speaks to us. See that ye refuse not
+him that speaketh, for if they escaped not Vers. 25. who refused him that
+spake on earth, much more shall not we escape [[Page
+84]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=50) if we turn away
+from him that speaketh from heaven: for as God A once shaked the earth, and
+that was full of terror, so our Lawgiver shall do, and much more, and be farre
+more terrible,  [...], said the Prophet Haggai, which the Apostle quotes here,
+he once shook the earth. But, once 2\. 7. more I shake, [...], it is in the
+Prophesie; I will shake not the earth only, but also heaven with a greater
+terror then was upon Mount Sinai, with the voice of an Archangell, with the
+trump of God, with a concussion so great, that heaven and earth shall be
+shaken in pieces, and new ones come in their room. This is an unspeakable and
+an unima­ginable terror: Mount Sinai was shaken, but it stands to this day,
+but B when that shaking shall be, the things that are shaken shall be no more;
+that those things that cannot be shaken may remain, that is, not only that the
+clestiall Jerusalem may remain for ever, but that you who do not turn away
+from the faith and obedience of the Lord Jesus, you who cannot be shaken nor
+removed from your duty, you may remain for ever; that when the rocks rend, and
+the moun­tains flie in pieces like the drops of a broken cloud, and the
+hea­vens shall melt, and the Sun shall be a globe of consuming fire, and the
+Moon shall be dark like an extinguish'd candle, then you poor men who could be
+made to tremble with an ague, or shake by C the violence of a Northern winde,
+or be remov'd from your dwel­lings by the unjust decree of a persecutor, or be
+thrown from your estates by the violence of an unjust man, yet could not be
+removed from your duty, and though you went trembling, yet would go to death
+for the testimony of a holy cause, and you that would dye for your faith would
+also live according to it; you shall be established by the power of God, and
+supported by the arme of your Lord, and shall in all this great shaking be
+unmovable as the corner stone of the gates of the new Jerusalem, you shall
+remain and abide for ever. This is your case. And to summe up the D whole
+force of the argument, the Apostle addes the words of Moses: as it was then,
+so it is true now, Our God is a consuming fire: He Deut. 4. 24. was so to them
+that brake the Law, but he will be much more to them that disobey his Son, he
+made great changes then, but those which remain are farre greater, and his
+terrors are infinitely more intolerable; and therefore although he came not in
+the spirit of Elias, but with meeknesse and gentle insinuations, soft as the
+breath of heaven, not willing to disturb the softest stalk of a violet, yet
+his second coming shall be with terrors, such as shall amaze all the world,
+and dissolve it into ruine, and a Chaos. This truth is of so E great efficacy
+to make us do our duty, that now we are sufficiently enabled with this
+consideration. This is the grace which we have to enable us, this terror will
+produce fear, and fear will produce obedience, and we therefore have grace,
+that is, we have such a motive to make us reverence God and fear to offend
+him, that he [[Page
+85]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=50) that dares
+continue in sin and refuses to hear him that speaks to us A from heaven, and
+from thence shall come with terrors, this man despises the grace of God, he is
+a gracelesse, fearlesse, impudent man, and he shall finde that true in
+hypothesi, and in his own ruine, which the Apostle declares in thesi, and by
+way of caution, and provisionary terror, Our God is a consuming fire; this is
+the sense and design of the text.
+
+Reverence and godly fear, they are the effects of this considera­tion, they
+are the duties of every Christian, they are the grace of God. I shall not
+presse them only to purposes of awfulnesse and modesty of opinion, and prayers
+against those strange doctrines B which some have introduc'd into Religion, to
+the destruction of all manners and prudent apprehensions of the distances of
+God and man; such as are the Doctrine of necessity of familiarity with God,
+and a civill friendship, and a parity of estate, and an unevennesse of
+adoption; from whence proceed rudenesse in prayers, flat and undecent
+expressions, affected rudenesse, superstitious sitting at the holy Sacrament,
+making it to be a part of Religion to be with­out fear and reverence; the
+stating of the Question is a sufficient reproof of this folly; whatsoever
+actions are brought into Religi­on without reverence and godly fear, are
+therefore to be avoided be­cause C they are condemned in this advice of the
+Apostle, and are destructive of those effects which are to be imprinted upon
+our spirits by the terrors of the day of Judgement. But this fear and
+reverence the Apostle intends should be a deletery to all sin what­soever:
+[...], sayes the Etymologicum, whatso­ever is terrible is destructive of that
+thing for which it is so; and if we fear the evill effects of sin, let us flie
+from it, we ought to fear its alluring face too; let us be so afraid, that we
+may not dare to refuse to hear him whose Throne is heaven, whose Voice is
+thunder, whose Tribunall is clouds, whose Seat is the right hand D of God,
+whose Word is with power, whose Law is given with mighty demonstration of the
+Spirit, who shall reward with heaven and joyes eternall, and who punishes his
+rebels that will not have him to reign over them, with brimstone and fire,
+with a worm that never dies, and a fire that never is quenched; let us fear
+him who is terrible in his Judgements, just in his his dispensation, se­cret
+in his providence, severe in his demands, gracious in his assi­stances,
+bountifull in his gifts, and is never wanting to us in what we need; and if
+all this be not argument strong enough to pro­duce fear, and that fear great
+enough to secure obedience, all ar­guments E are uselesse, all discourses are
+vain, the grace of God is in­effective, and we are dull as the Dead sea,
+unactive as a rock, and we shall never dwell with God in any sense, but as he
+is a consu­ming fire, that is, dwell in the everlasting burnings.
+
+[...], Reverence and caution, modesty and fear, [[Page
+86]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=51) [...], so it is
+in some copies, with caution and fear; or if we ren­der A [...] to be fear of
+punishment, as it is generally understood by interpreters of this place, and
+is in Hesychius [...], then the expression is the same in both words, and it
+is all one with the other places of Scripture, Work out your salvation with
+fear and trembling, degrees of the same duty, and they sig­nifie all those
+actions and graces which are the proper effluxes of fear; such as are
+reverence, prudence, caution, and diligence, chastity and a sober spirit:
+[...], so also say the Gram­marians; and it means plainly this; since our God
+will appear so terrible at his second comming, let us passe the time of our
+so­journing 1 Pet. 1. 17. here in fear, that is, modestly without too great
+confidence B of our selves; soberly without bold crimes, which when a man acts
+he must put on shamelesnesse; reverently towards God, as fearing to offend
+him; diligently observing his commandements, inquiring after his will,
+trembling at his voice, attending to his Word, re­vering his judgements,
+fearing to provoke him to anger, for it is a fearfull thing to fall into the
+hands of the living God. Thus far it is a duty.
+
+Concerning which, that I may proceed orderly, I shall first consider how far
+fear is a duty of Christian Religion. 2. Who C and what states of men ought to
+fear, and upon what reasons. 3. What is the excesse of fear, or the obliquity
+and irregularity whereby it becomes dangerous, penall, and criminall, a state
+of evill and not a state of duty.
+
+1\. Fear is taken sometimes in holy Scripture for the whole du­ty of man, for
+his whole Religion towards God. And now Israel what doth the Lord thy God
+require of thee, but to fear the Lord thy Deut. 10. 12. God, &c. fear is
+obedience, and fear is love, and fear is humility, be­cause it is the parent
+of all these, and is taken for the whole duty to which it is an introduction.
+The fear of the Lord is the begin­ning Psal. 111. 10. of wisdome, a good
+understanding have all they that do there­after, Eccles. 12. 13. D the praise
+of it endureth for ever; and, Fear God and keep his 2 Cor. 7. 1.
+Commandements, for this is the whole duty of man: and thus it is also used in
+the New Testament: Let us cleanse our selves from all filthinesse of the flesh
+and spirit, perfecting holinesse in the fear of God. 2\. Fear is sometimes
+taken for worship: for so our blessed Saviour expounds the words of Moses in
+Mar. 4\. 10. taken from Deut. 10\. 20. Thou shalt fear the Lord thy God, so
+Moses; Thou shalt worship the Lord thy God, and him only shalt thou serve,
+said our blessed Saviour: and so it was used by the Prophet Jonah, I am an
+Hebrew, and I fear the Ionah 1. 9. Lord the God of Heaven, that is, I worship
+him; he is the Deity E that I adore, that is my worship and my Religion; and
+because the new Colony of Assyrians did not do so, at the beginning of King.
+17. 25. their dwelling there, they feared not the Lord, that is, they
+wor­shipped other Gods, and not the God of Israel, therefore God [[Page
+87]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=51) sent Lions among
+them which slew many of them. Thus far fear A is not a distinct duty, but a
+word signifying something besides it self; and therefore cannot come into the
+consideration of this text. Therefore 3. Fear as it is a religious passion is
+divided as the two Testaments are; and relates to the old and new Covenant,
+and ac­cordingly hath its distinction. In the Law, God used his people like
+servants; in the Gospell, he hath made us to be sons. In the Law he enjoyn'd
+many things, hard, intricate, various, painfull, and expen­sive; in the
+Gospell he gave commandements, not hard, but full of pleasure, necessary and
+profitable to our life, and well being of single persons and communities of
+men. In the Law, he hath exacted those B many precepts by the covenant of
+exact measures, grains and scruples; in the Gospel, he makes abatement for
+humane infirmities, temptations, morall necessities, mistakes, errors, for
+every thing that is pitiable, for every thing that is not malicious, and
+voluntary. In the Law, there are many threatnings, and but few promises, the
+promise of temporal pro­sperities branch'd into single instances; in the
+Gospell, there are but few threatnings, and many promises: And when God by
+Moses gave the 10 Commandements, only one of them was sent out with a promise,
+the precept of obedience to all our parents and superiors; but when Christ in
+his first Sermon recommended 8 duties, Chri­stian duties to the College of
+Disciples, every one of them begins C with a blessing and ends with a promise,
+and therefore grace is op­posed to the Law. So that upon these differing
+interests, the world Mat. 5. ad v. 10. put on the affections of Servants, and
+Sons: They of old feared God Ioh. 1. 17. as a severe Lord, much in his
+commands, abundant in threatnings, Rom. 6. 14, 15. angry in his executions,
+terrible in his name, in his Majesty, and appearance, dreadfull unto death;
+and this the Apostle cals  [...], The spirit of bondage, or of a servant. But
+we have not Rom. 6. 15. received that Spirit, [...], unto fear, not a servile
+fear, but the Spi­rit of adoption and a filiall fear we must have; God treats
+us like D sons, he keeps us under discipline, but designs us to the
+inheritance: and his government is paternall, his disciplines are mercifull,
+his conduct gentle, his Son is our Brother, and our Brother is our Lord, and
+our Judge is our Advocate, and our Priest hath felt our infir­mities, and
+therefore knows to pity them, and he is our Lord, and therefore he can relieve
+them: and from hence we have affections of sons; so that a fear we must not
+have, and yet a fear we must have; and by these proportions we understand the
+difference. Ma­lo vereri quàm timeri me à meis, said one in the Comedy, I had
+ra­ther be reverend then fear'd by my children. The English doth E not well
+expresse the difference, but the Apostle doth it rarely well. For that which
+he cals  [...] in Rom. 8\. 15. he cals  [...], 2 Tim. 1\. 7. The spirit of
+bondage is the spirit rather of timorous­nesse, of fearfulnesse rather then
+fear; when we are fearfull that God will use us harshly; or when we think of
+the accidents that [[Page
+88]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=52) happen, worse
+then the things are, when they are proportion'd by A measures of eternity: and
+from this opinion conceive forc'd reso­lutions and unwilling obedience.
+[...], said Aristotle, Good men are guided by reverence, not by fear, and they
+avoid not that which is afflictive, but that which is dishonest: they are not
+so good whose rule is otherwise. But that we may take more exact measures, I
+shall describe the proportions of Christian or godly fear by the following
+propositions.
+
+1\. Godly fear is ever without despair; because Christian fear is an
+instrument of duty, and that duty without hope can never go for­ward. For what
+should that man do who like Nausiclides [...]; B hath neither spring nor
+harvest, friends nor children, re­wards nor hopes? A man will very hardly be
+brought to deny his own pleasing appetite, when for so doing he cannot hope to
+have a recompense; when the mind of a man is between hope and fear, it is
+intent upon its work; at post quam adempta spes est, lassus, curâ confectus
+stupet, if you take away the hope the minde is weary, spent with care, hindred
+by amazements; aut aliquem sumpserimus teme­rariâ in Deos desperatione, saith
+Arnobius; a despair of mercy makes men to despise God; and the damned in hell
+when they shall for ever be without hope, are also without fear; their hope is
+turned in­to C despair, and their fear into blasphemy, and they curse the
+foun­tain of blessing, and revile God to eternall ages. When Dionysius the
+Tyrant imposed intolerable tributes upon his Sicilian subjects, it amazed
+them, and they petitioned and cryed for help, and flatter'd him, and fear'd
+and obey'd him carefully, but he impos'd still new ones, and greater, and at
+last left them poor as the valleys of Ve­suvius, or the top of Aetna; but then
+all being gone, the people grew idle, and carelesse, and walked in the
+markets, and publick places, cursing the Tyrant, and bitterly scoffing his
+person and vices; which when Dionysius heard, he caused his Publicans and
+Commit­tees D to withdraw their impost; for now, sayes he, they are dangerous,
+because they are desperate,  [...] when men have nothing left they will
+despise their Rulers: and so it is in Religion; audaces cogimur esse metu. If
+our fears be unreasona­ble, our diligence is none at all, and from whom we
+hope for no­thing, neither benefit nor indemnity, we despise his command and
+break his yoke, and trample it under our most miserable feet. And therefore
+Aeschylus cals these people  [...], hot, mad, and furious, carelesse of what
+they do, and he opposes them to pious and holy people. Let your confidence be
+allayed with fear, and your fear E be sharpned with the intertextures of a
+holy hope, and the active powers of our souls are furnished with feet and
+wings, with eyes and hands, with consideration and diligence, with reason and
+incourage­ments. But despair is part of the punishment that is in hell, and
+[[Page 89]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=52) the
+Devils still do evill things because they never hope to receive a A good, nor
+finde a pardon.
+
+2\. Godly fear must alwaies be with honourable opinion of God, without
+disparagements of his mercies, without quarrellings at the intrigues of his
+providence, or the rough wayes of his Justice, and therefore it must be ever
+relative to our selves and our own fai­lings and imperfections.  [...], God
+never walks perversely towards us, unlesse we walk crookedly towards him. And
+therefore persons that only consider the greatnesse and power of God, and
+dwell for ever in the meditations of those severe executions which are
+transmitted to us by story, or we observe by B accident, and conversation, are
+apt to be jealous concerning God, and fear him as an enemy, or as children
+fear fire, or women thunder, only because it can hurt them; Saepius illud
+cogitant quid possit is cu­jus in ditione sunt, quàm quid debeat facere
+(Cicero pro Quinctio) they remember oftner what God can do then what he will;
+being more afrighted at his Judgements, then delighted with his mercy. Such as
+were the Lacedaemonians, when ever they saw a man grow popular, or wise, or
+beloved, and by consequence powerfull, they turned him out of the countrey:
+and because they were afraid of the power of Ismenias, and knew that Pelopidas
+and Pherenicus and C Androclydes could hurt them, if they listed, they
+banished them from Sparta, but they let Epaminondas alone,  [...], as being
+studious and therefore unactive, and poor and therefore harmlesse; It is
+harder when men use God thus, and fear him as the great Justiciar of the
+world, who sits in heaven, and observes all we do, and cannot want excuse to
+punish all man­kinde. But this caution I have now inserted for their sakes
+whose Schooles and Pulpits raise doctrinall fears concerning God, which if
+they were true, the greatest part of mankinde would be tempted to think they
+have reason not to love God, and all the other part D that have not
+apprehended a reason to hate him, would have very much reason to suspect his
+severitie, and their own condition. Such are they which say that God hath
+decreed the greatest part of man­kinde to eternall damnation, and that only to
+declare his severity and to manifest his glory by a triumph in our torments,
+and rejoy­cings in the gnashing of our teeth. And they also fear God
+unrea­sonably, and speak no good things concerning his Name, who say that God
+commands us to observe Lawes which are impossible; that think he will condemn
+innocent persons for errors of Judge­ment which they cannot avoid, that
+condemn whole Nations for E different opinions, which they are pleased to call
+Heresie; that think God will exact the duties of a man by the measures of an
+Angell, or will not make abatement for all our pitiable infirmities. The
+precepts of this caution are, that we remember Gods mercy to be over all his
+works, that is, that he shewes mercy to all his creatures [[Page
+90]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=53) that need it;
+that God delights to have his mercy magnified in all A things, and by all
+persons, and at all times, and will not suffer his greatest honour to be most
+of all undervalued; and therefore as he that would accuse God of injustice
+were a blasphemer, so he that suspects his mercy, dishonours God as much, and
+produces in himself that fear which is the parent of trouble, but no
+instrument of duty.
+
+3ly, Godly fear is operative, diligent, and instrumentall to cau­tion and
+strict walking: for so fear is the mother of holy living; and the Apostle
+urges it by way of upbraiding: What! doe wee 1 Cor. 10. 22. proveke God to
+anger? are we stronger then he? meaning, that if we be not strong enough to
+struggle with a feaver, if our voy­ces B cannot out-roar thunder, if we cannot
+check the ebbing and flowing of the sea, if we cannot adde one cubit to our
+stature, how shall we escape the mighty hand of God? And here heighten your
+apprehensions of the Divine power, of his justice, and seve­rity, of the
+fiercenesse of his anger, and the sharpnesse of his sword, the heavynesse of
+his hand, and the swiftnesse of his arrows, as much as ever you can; provided
+the effect passe on no further, but to make us reverent and obedient: but that
+fear is unreasonable, servile, and unchristian, that ends in bondage and
+servile affecti­ons, scruple and trouble, vanity and incredulity, superstition
+and C desperation: Its proper bounds are humble and devout prayers, and a
+strict and a holy piety, (according to his laws) and glorifications of God, or
+speaking good things of his holy Name; and then it cannot be amisse: wee must
+be full of confidence towards God, we must with cheerfulnesse relye upon Gods
+goodnesse for the issue of our souls, and our finall interest, but this
+expectation of the Divine mercy must be in the ways of piety. Commit your
+selves 1 Pet. 4. 19. to God in well-doing as unto a faithfull Creator.
+Alcibiades was too timorous, who being called from banishment refused to
+return, and being asked if he durst not trust his country, answered, D [...]:
+In every thing else, but in the question of his life he would not trust his
+Mother, lest ignorantly she should mistake the black bean for the white, and
+intending a favour should doe him a mischief. We must, we may most safely
+trust God with our souls; the stake is great, but the venture is none at all.
+For he is our Creator, and he is faithfull; he is our Redeemer, and he bought
+them at a dear rate; he is our Lord, and they are his own; he prays for them
+to his heavenly Father, E and therefore he is an interested person. So that he
+is a Party, and an Advocate, and a Judge too; and therefore there can be no
+grea­ter security in the world on Gods part: and this is our hope, and our
+confidence: but because we are but earthen vessels, under a law, and assaulted
+by enemies, and endangered by temptations, therefore [[Page
+91]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=53) it concerns us
+to fear, lest we make God our enemy, and a party A against us: And this brings
+me to the next part of the consi­deration; Who and what states of men ought to
+feare, and for what reasons? for as the former cautions did limit, so this
+will encourage; those did direct, but this will exercise our godly Feare.
+
+1\. I shall not here insist upon the generall reasons of feare, which concern
+every man, though it be most certain, that every one hath cause to fear, even
+the most confident, and holy, because his way is dangerous and narrow,
+troublesome and uneven, full of ambushes and pitfalls; and I remember what
+Polynices said in Apud Eurip. in Phoenissis. the Tragedy when he was unjustly
+throwne from his Fathers King­dome, B and refused to treat of peace but with a
+sword in his hand,  [...]. every step is a danger for a valiant man when he
+walkes in his enemies countrey; and so it is with us; we are espyed by God,
+and observed by Angels, we are betrayed within, and assaulted without, the
+Devill is our enemy, and we are fond of his mischiefs; he is crafty, and we
+love to be abused; hee is malicious, and wee are credulous; hee is powerfull,
+and wee are weak; hee is too ready of himself, and yet wee desire to be
+tempted; the world is C alluring, and wee consider not its vanity; sin puts on
+all pleasures, and yet wee take it though it puts us to pain: In short, wee
+are vain, and credulous, and sensuall, and trifling; wee are tempted, and
+tempt our selves, and we sin frequently, and contract evill habits, and they
+become second natures, and bring in a second death miserable and eternall:
+Every man hath need to feare, because every man hath weaknesses, and enemies,
+and temptations, and dan­gers, and causes of his own. But I shall onely
+instance in some pecu­liar sorts of men, who it may be, least think of it, and
+therefore have most cause to fear. D
+
+1t. Are those of whom the Apostle speaks, Let him that thinketh he standeth
+take heed lest he fall. [...]) 1 Cor. 10. 12. said the Greek proverb; In
+ordinary fish we shall ne­ver meet with thornes, and spiny prickles: and in
+persons of an ordinary even course of life we finde it too often, that they
+have no checks of conscience, or sharp reflexions upon their conditi­ons; they
+fall into no horrid crimes, and they think all is peace round about them: But
+you must know, that as Grace is the im­provement and bettering of Nature, and
+Christian graces are the persections of Morall habits, and are but new
+circumstances, for­malities, E and degrees; so it grows in naturall measures
+by super­naturall aides, and it hath its degrees, its strengths and
+weaknesses, its promotions and arrests, its stations and declensions, its
+direct sicknesses and indispositions; and there is a state of grace that is
+next to sin; it inclines to evill and dwels with a temptation, its [[Page
+92]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=54) acts are
+imperfect, and the man is within the Kingdome, but he A lives in its borders,
+and is dubiae jurisdictionis. These men have cause to fear; These men seem to
+stand, but they reel indeed, and decline toward danger and death. Let these
+men (saith the Apostle) take heed lest they fall, for they shake already; such
+are persons whom the Scriptures call weak in faith. I doe not mean new
+beginners in Religion, but such who have dwelt long in its confines, and yet
+never enter into the heart of the countrey; such whose faith is tempted, whose
+piety does not grow, such who yeeld a little, people that doe all that they
+can lawfully doe, and study how much is lawfull, that they may lose nothing of
+a tem­porall interest: people that will not be Martyrs in any degree, and B
+yet have good affections, and love the cause of Religion, and yet will suffer
+nothing for it: these are such which the Apostle speaks,  [...], They think
+they stand, and so they doe, upon one leg, that is, so long as they are
+untempted; but when the Tempter comes, then they fall and bemoan themselves,
+that by losing peace they lost their inheritance. There are a great many sorts
+of such persons: some when they are full, are content, and rejoyce in Gods
+providence, but murmur and are amazed when they fall into po­verty. They are
+chaste so long as they are within the protection of marriage, but when they
+return to liberty they fall into bon­dage, C and complain they cannot help it;
+They are temperate and sober, if you let them alone at home, but call them
+abroad and they will lose their sober thoughts, as Dinah did her honour, by
+going into new company. These men in these estates think they stand, but God
+knows they are soon weary, and stand stiffe as a Cane, which the heat of the
+Sirian star or the flames of the Sun cannot bend; but one sigh of a Northern
+wind shakes them into the tremblings of a palsey: In this the best advice is,
+that such persons should watch their own infirmities, and see on which side
+they are most open, D and by what enemies they use to fall, and to fly from
+such parties as they would avoid death. But certainly they have great cause to
+fear, who are sure to be sick when the weather changes; or can no longer
+retain their possession but till an enemy please to take it away, or will
+preserve their honour but till some smiling temptation aske them to forgoe it.
+
+2ly, They also have great reason to fear whose repentance is broken into
+fragments, and is never a whole or entire change of life: I mean those that
+resolve against a sin, and pray against it, and hate it in all the resolutions
+of their understanding, till that unlucky period comes in which they use to
+act it, but then they sin as certainly as they will E infallibly repent it,
+when they have done: these are a very great many Christians who are esteemed
+of the better sort of penitents, yet feel this feaverish repentance to be
+their best state of health; they fall cer­tainly in the returns of the same
+circumstances, or at a certain distance [[Page
+93]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=54) of time, but God
+knows they doe not get the victory over their sin, but are within its power.
+For this is certain, they who sin and re­pent, A and sin again in the same or
+the like circumstances, are in some degree under the power and dominion of
+sin; when their actions can be reduc'd to an order or a method, to a rule or a
+certainty, that oftner hits then fails, that sin is habituall; though it be
+the least habit, yet a habit it is; every course, or order, or method of sin;
+every constant or periodicall return, every return that can be regularly
+observed, or which a man can foresee, or probably foretell, even then when he
+does not intend it, but prays against it, every such sin is to be reckoned not
+for a single action, or upon the accounts B of a pardonable infirmity, but it
+is a combination, an evill state, such a thing as the man ought to feare
+concerning himselfe, lest he be surpriz'd and call'd from this world before
+this evill state be altered: for if he be, his securities are but slender, and
+his hopes will deceive him. It was a severe doctrine that was maintain'd by
+some great Clerks and holy men in the Primi­tive Church, ‘That Repentance was
+to be but once after Baptism: One Faith, one Lord, one Baptisme; one
+Repentance;’ Heb 6. 6. Heb. 10 26. 2 Pet. 2. 22. all these the Scripture
+saith; and it is true, if by repentance we mean the en­tire change of our
+condition; for he that returns willingly to the state of an unbeleeving, or a
+heathen profane person, intirely, and choo­singly, C in defiance of, and
+apostasie from his Religion, cannot be renew'd againe (as the Apostle twice
+affirms in his Epistle to the Hebrews). But then, concerning this state of
+Apostasie, when it hap­ned in the case, not of Faith, but of Charity and
+obedience, there were many fears and jealousies: they were therefore very
+severe in their doctrines, lest men should fall into so evill a condition,
+they enlarged their fear that they might be stricter in their duty; and
+ge­nerally this they did beleeve, that every second repentance was worse then
+the first, and the third worse then the second, and still as D the sin
+returned, the Spirit of God did the lesse love to inhabit; and if he were
+provoked too often, would so withdraw his aides and com­fortable cohabitation,
+that the Church had little comfort in such children; so said Clemens Alexandr.
+stromat. 2\.  [...], ‘Those frequent and alternate repentances, that is,
+repentances and sinnings interchangeably, differ not from the conditions of
+men that are not within the covenant of grace, from them that are not
+beleevers, [...], save onely (says he) that these men perceive that they sin,
+they doe it more against E their conscience then infidels and unbeleevers;’
+and therefore they doe it with lesse honesty and excuse,  [...], ‘I know not
+which is worse, either to sin knowingly or wilfully, or to repent of our sin,
+and sin it over again.’ And the same severe [[Page
+94]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=55) doctrine is
+delivered by Theodoret in his 12 book against the Greeks, A and is hugely
+agreeable to the discipline of the Primitive Church: And it is a truth of so
+great severity, that it ought to quicken the repentance and sowre the gayeties
+of easy people, and make them fear, whose repentance is therefore
+ineffectuall, because it is not inte­grall or united, but broken in pieces by
+the intervention of new crimes; so that the repentance is every time to begin
+anew; and then let it be considered what growth that repentance can make that
+is ne­ver above a week old, that is for ever in its infancy, that is still in
+its birth, that never gets the dominion over sin. These men, I say, ought to
+fear, lest God reject their persons, and deride the folly of B their new begun
+repentances, and at last be weary of giving them more opportunities, since
+they approve all, and make use of none, their understanding is right and their
+will a slave, their reason is for God and their affections for sin; these men
+(as the Apostles ex­pression is) walk not as wise but as fools: for we deride
+the folly of those men that resolve upon the same thing a thousand times, and
+never keep one of those resolutions. These men are vaine and light, easy and
+effeminate, childish and abused; these are they of whom our blessed Saviour
+said those sad decretory words, Many shall strive to enter in, and shall not
+be able. C
+
+[[Page 95]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=55)
+
+## 8\. SERMON, VIII. Part II. B
+
+3\. THey have great reason to feare, whose sins are not yet remitted; for they
+are within the dominion of sin, within the Kingdome of darknesse, and the
+regions of feare: Light makes us confident, and Sin checks the spirit of a man
+into the pusillanimity and cowardize of a girle or a conscious boy: and they
+doe their work in the days of peace and a wealthy fortune, and come to pay
+their symbole in a warre or in a plague; then they spend of their treasure of
+wrath, which they laid up in their vessels of dishonour! And indeed, want of
+feare brought C them to it; for if they had known how to have accounted
+con­cerning the changes of mortality, if they could have reckoned right
+concerning Gods judgements falling upon sinners, and re­membred that
+themselves are no more to God then that Brother of theirs that died in a
+drunken surfeit, or was kill'd in a Rebell warre, or was before his grave
+corrupted by the shames of lust; if they could have told the minutes of their
+life, and passed on towards their grave at least in religious and sober
+thoughts, and consider'd that there must come a time for them to die, and
+after death comes judgement, a fearfull and an intolerable judgement, it D
+would not have come to this passe, in which their present condi­tion of
+affairs doe amaze them, and their sin hath made them lya­ble unto death, and
+that death is the beginning of an eternall evill. In this case it is naturall
+to fear; and if men consider their con­dition, and know that all the felicity,
+and all the security they can have, depends upon Gods mercy pardoning their
+sins, they can­not choose but fear infinitely, if they have not reason to hope
+that their sins are pardoned. * Now concerning this, men indeed have generally
+taken a course to put this affair to a very speedy issue. God is mercifull,
+and God forgive mee, and all is done: or it may E be a few sighs, like the
+deep sobbings of a man that is almost dead with laughter, that is, a trifling
+sorrow returning upon a man after he is full of sin, and hath pleased himselfe
+with violence, and revolving onely by a naturall change from sin to sorrow,
+from laughter to a groan, from sunshine to a cloudy day; or it may [[Page
+96]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=56) be the good man
+hath left some one sin quite, or some degrees of A all sin, and then the
+conclusion is firm, he is rectus in Cur [...]â, his sins are pardoned, he was
+indeed in an evill condition, but now he is purged, he is sanctified and
+clean. These things are very bad, but it is much worse that men should
+continue in their sin, and grow old in it, and arrive at confirmation, and the
+strength of ha­bituall wickednesse, and grow fond of it, and yet think if they
+die, their account stands as fair in the eyes of Gods mercy, as St. Peter's
+after his tears and sorrow. Our sins are not pardoned easily and quickly; and
+the longer and the greater hath been the iniquity, the harder and more
+difficult and uncertain is the pardon; it is a great progresse to return from
+all the degrees of death to life, to motion, B to quicknesse, to purity, to
+acceptation, to grace, to contention, and growth in grace, to perseverance,
+and so to pardon. For pardon stands no where but at the gates of heaven. It is
+a great mercy that signifies a finall and universall acquittance. God sends it
+out in little scroles, and excuses you from falling by the sword of the enemy,
+or the secret stroke of an Angell in the days of the plague; but these are but
+little entertainments and inticings of our hopes to work on towards the great
+pardon which is regi­stred in the leaves of the Book of Life. And it is a
+mighty folly to think, that every little line of mercy signifies glory and
+abso­lution C from the eternall wrath of God; and therefore it is not to be
+wondred at, that wicked men are unwilling to dye; it is a greater wonder that
+many of them dye with so little resentment of their danger and their evill.
+There is reason for them to tremble when the Judge summons them to appear.
+When his messenger is clothed with horror, and speaks in thunder; when their
+consci­ence is their accuser, and their accusation is great, and their bills
+uncancell'd, and they have no title to the crosse of Christ, no advocate, no
+excuse; when God is their enemy, and Christ is the D injur'd person, and the
+Spirit is grieved, and sicknesse and death come to plead Gods cause against
+the man; then there is reason that the naturall fears of death should be high
+and pungent, and those naturall fears encreased by the reasonable and certain
+expecta­tions of that anger which God hath laid up in heaven for ever, to
+consume and destroy his enemies.
+
+And indeed if we consider upon how trifling and inconsiderable grounds most
+men hope for pardon (if at least that may be call'd hope, which is nothing but
+a carelesse boldnesse, and an unreaso­nable wilfull confidence) we shall see
+much cause to pity very E many who are going merrily to a sad and intolerable
+death. Par­don of sins is a mercy which Christ purchased with his dearest
+blood, which he ministers to us upon conditions of an infinite kindnesse, but
+yet of great holinesse and obedience, and an active living faith; it is a
+grace, that the most holy persons beg of God [[Page
+97]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=56) with mighty
+passion, and labour for with a great diligence, and ex­pect A with trembling
+fears, and concerning it many times suffer sadnesses with uncertain soules,
+and receive it by degrees, and it enters upon them by little portions, and it
+is broken as their sighs and sleeps. But so have I seen the returning sea
+enter upon the strand, and the waters rolling towards the shore, throw up
+little portions of the tide, and retire as if nature meant to play, and not to
+change the abode of waters; but still the floud crept by little steppings, and
+invaded more by his progressions then he lost by his retreat, and having told
+the number of its steps, it possesses its new portion till the Angell calls it
+back, B that it may leave its unfaithfull dwelling of the sand: so is the
+pardon of our sins, it comes by slow motions, and first quits a present death,
+and turnes, it may be, into a sharp sicknesse; and if that sicknesse prove not
+health to the soul, it washes off, and it may be will dash against the rock
+again, and proceed to take off the severall instances of anger, and the
+periods of wrath; but all this while it is uncertain concerning our finall
+interest, whether it be ebbe or floud; and every hearty prayer, and every
+bounti­full almes still enlarges the pardon, or addes a degree of probabi­lity
+and hope; and then a drunken meeting, or a covetous desire, C or an act of
+lust, or looser swearing, idle talk, or neglect of Re­ligion, makes the pardon
+retire; and while it is disputed between Christ and Christs enemy who shall be
+Lord, the pardon fluctu­ates like the wave, striving to climbe the rock, and
+is wash'd off like its own retinue, and it gets possession by time and
+uncertainty, by difficulty, and the degrees of a hard progression. When David
+had sinned but in one instance, interrupting the course of a holy life by one
+sad calamity, it pleased God to pardon him; but see upon what hard terms: He
+prayed long, and violently, he wept sorely, he was humbled in sackcloth and
+ashes, he eat the bread of D affliction, and drank of his bottle of tears; he
+lost his Princely spirit, and had an amazing conscience; he suffer'd the wrath
+of God, and the sword never did depart from his house, his Son rebell'd, and
+his Kingdome revolted; he fled on foot, and main­tained Spies against his
+childe, hee was forc'd to send an army against him that was dearer then his
+owne eyes, and to fight against him whom he would not hurt for all the riches
+of Syria and Egypt; his concubines were desir'd by an incestuous mixture, in
+the face of the sun before all Israel, and his childe that was the fruit of
+his sin, after a 7 days feaver dyed, and left him no­thing E of his sin to
+show, but sorrow, and the scourges of the Divine vengeance; and after all
+this, God pardoned him finally, be­cause he was for ever sorrowfull, and never
+did the sin againe. He that hath sinned a thousand times for David's once, is
+too confident, if he thinks that all his shall be pardoned at a lesse [[Page
+98]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=57) rate then was
+used to expiate that one mischief of the religious King: A The son of David
+died for his father David, as well as he did for us; he was the Lambe slain
+from the beginning of the world; and yet that death, and that relation, and
+all the heap of the Di­vine favours which crown'd David with a circle richer
+then the royall diadem, could not exempt him from the portion of sinners, when
+he descended into their pollutions. I pray God we may find the sure mercies of
+David, and may have our portion in the redem­ption wrought by the Son of
+David; but we are to expect it upon such terms as are revealed, such which
+include time, and labour, and uncertainty, and watchfulnesse, and fear, and
+holy living. But B it is a sad observation that the case of pardon of sins is
+so admi­nistred, that they that are most sure of it have the greatest fears
+con­cerning it, and they to whom it doth not belong at all are as confi­dent
+as children and fooles, who believe every thing they have a mind to, not
+because they have reason so to doe, but because without it they are presently
+miserable. The godly and holy per­sons of the Church, work out their salvation
+with fear and trem­bling; and the wicked goe to destruction with gayety and
+confi­dence: these men think all is well, while they are in the gall of
+bitternesse, and good men are tossed in a tempest, crying and pray­ing C for a
+safe conduct, and the sighs of their feares, and the wind of their prayers
+waft them safely to their port. Pardon of sins is not easily obtain'd; because
+they who onely certainly can receive it, find difficulty, and danger, and
+fears in the obtaining it; and therefore their case is pityable and
+deplorable, who when they have least reason to expect pardon, yet are most
+confident and carelesse.
+
+But because there are sorrows on one side and dangers on the other, and
+temptations on both sides, it will concern all sorts of men to know when their
+sins are pardoned. For then when they D can perceive their signes certain and
+evident, they may rest in their expectations of the Divine mercies; when they
+cannot see the signes, they may leave their confidence, and change it into
+re­pentance, and watchfulnesse, and stricter observation; and in or­der to
+this, I shall tell you that which shall never faile you; a cer­taine signe
+that you may know whether or no, and when, and in what degree your persons are
+pardoned.
+
+1\. I shall not consider the evils of sin by any Metaphysicall and abstracted
+effects, but by sensible, reall, and materiall. Hee that revenges himself of
+another, does something that will make his enemy grieve, something that shall
+displease the offender as much E as sin did the offended; and therefore all
+the evills of sin are such as relate to us, and are to bee estimated by our
+apprehensions. Sin makes God angry, and Gods anger if it be turned aside will
+make us miscrable and accursed, and therefore in proportion to [[Page
+99]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=57) this we are to
+reckon the proportions of Gods mercy in forgive­nesse, A or his anger in
+retaining.
+
+2\. Sin hath obliged us to suffer many evills, even whatsoever the anger of
+God is pleased to inflict; sicknesse and dishonour, poverty and shame, a
+caytive spirit, and a guilty conscience, famine and war, plague and
+pestilence, sudden death and a short life tem­porall death or death eternall,
+according as God in the severall cove­nants of the Law and Gospel hath
+expressed.
+
+3\. For in the law of Moses sin bound them to nothing but tempo­rall evills,
+but they were sore, and heavy, and many; but these only there were threatned;
+in the Gospel Christ added the menaces of B evills, spirituall and eternall.
+
+4\. The great evill of the Jews was their abscission and cutting off from
+being Gods people, to which eternall damnation answers a­mongst us; and as
+sicknesse, and war, and other intermediall evills were lesser strokes in order
+to the finall anger of God against their Nation, so are these and spirituall
+evills intermediall, in order to the Eternall destruction of sinning and
+unrepenting Christians.
+
+5\. When God had visited any of the sinners of Israel with a grie­vous
+sicknesse, then they lay under the evil of their sin, and were C not pardoned
+till God took away the sicknesse; but the taking the evill away, the evill of
+the punishment, was the pardon of the sin; to pardon the sin is to spare the
+sinner: and this appears; For when Christ had said to the man sick of the
+palsey, Son thy sins are for­given Mat. 9. 2. thee, the Pharisees accused him
+of blasohemy, because none had power to forgive sins but God onely; Christ to
+vindicate him­selfe gives them an ocular demonstration, and proves his words:
+that yee may know the Son of Man hath power on earth to forgive sins, he saith
+to the man sick of the palsey, Arise and walk; then he pardoned the sin, when
+he took away the sicknesse, and proved D the power by reducing it to act; for
+if pardon of sins be any thing else, it must be easier or harder: if it be
+easier, then sin hath not so much evill in it as a sicknesse, which no
+Religion as yet ever taught. If it be harder, then Christs power to doe that
+which was harder, could not be proved by doing that which was easier. It
+remaines therefore, that it is the same thing to take the punishment away, as
+to procure or give the pardon; because as the retaining the sin was an
+obligation to the evill of punishment, so the remitting the sin is the
+disobliging to its penalty. So farre then the case is manifest. E
+
+6\. The next step is this, that although in the Gospel God pu­nishes sinners
+with temporall judgements, and sicknesses, and deaths, with sad accidents, and
+evill Angels, and messengers of wrath; yet besides these lesser strokes, he
+hath scorpions to chastise, and loads of worse evils to oppresse the
+disobedient; he punishes one sin with [[Page
+100]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=58) another, vile
+acts with evill habits, these with a hard heart, and this A with obstinacy,
+and obstinacy with impenitence, and impenitence with damnation. Now because
+the worst of evills which are threat­ned to us are such which consign to hell
+by persevering in sin, as God takes off our love and our affections, our
+relations and bondage under sin, just in the same degree he pardons us;
+because the pu­nishment of sin being taken off and pardoned, there can remaine
+no guilt. Guiltinesse is an unsignificant word, if there be no obligation to
+punishment. Since therefore spirituall evils, and progressions in sin, and the
+spirit of reprobation, and impenitence, and accursed ha­bits, and perseverance
+in iniquity are the worst of evils, when these B are taken off, the sin hath
+lost its venome, and appendant curse; for▪ sin passes on to eternall death
+onely by the line of impenitence, and it can never carry us to hell, if we
+repent timely and effectually; in the same degree therefore that any man
+leaves his sin, just in the same de­gree he is pardoned, and he is sure of it.
+For although curing the tem­porall evill was the pardon of sins among the
+Jews, yet wee must reckon our pardon by curing the spirituall. If I have
+sinned against God in the shamefull crime of Lust, then God hath pardoned my
+sins, when upon my repentance and prayers he hath given me the grace of
+Chastity. My Drunkennesse is forgiven, when I have C acquir'd the grace of
+Temperance, and a sober spirit. My Cove­tousnesse shall no more be a damning
+sin, when I have a loving and charitable spirit; loving to do good, and
+despising the world: for every further degree of sin being a neerer step to
+hell, and by con­sequence the worst punishment of sin, it follows inevitably,
+that according as we are put into a contrary state, so are our degrees of
+pardon, and the worst punishment is already taken off. And there­fore we shall
+find that the great blessing, and pardon, and redemption which Christ wrought
+for us, is called sanctification, holinesse, and turning us away from our
+sins: So St. Peter, Yee know that you D were not redeemed with corruptible
+things, as silver and gold, from 1 Pet. 1. 18. your vain conversation; that's
+your redemption, that's your deli­verance: you were taken from your sinfull
+state, that was the state of death, this of life and pardon; and therefore
+they are made Synonyma by the same Apostle, According as his divine power hath
+given us all things that pertain to life and godlinesse: to live and 2 Ep. 1.
+3. to be godly, is all one; to remain in sin and abide in death, is all one;
+to redeem us from sin, is to snatch us from hell; he that gives us godlinesse,
+gives us life, and that supposes pardon, or the aboli­tion of the rites of
+eternall death: and this was the conclusion of St. Peter's Sermon, and the
+summe totall of our redemption and of E Act. 3. 26. our pardon; God having
+raised up his Son, sent him to blesse us in turning away every one of you from
+your iniquity; this is the end of Christs passion and bitter death, the
+purpose of all his and all our preaching, the effect of baptisme, purging,
+washing, sanctifying; [[Page
+109]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=58) the work of the
+Sacrament of the Lords Supper, the same body A that was broken, and the same
+blood that was shed for our redem­ption, is to conform us into his image and
+likenesse of living and dying, of doing and suffering; The case is plain, just
+as we leave our sins, so Gods wrath shall be taken from us; as we get the
+graces contrary to our former vices, so infallibly we are consign'd to
+par­don. If therefore you are in contestation against sin; while you dwell in
+difficulty, and sometimes yeeld to sin, and sometimes over­come it, your
+pardon is uncertain, and is not discernible in its pro­gresse; but when sin is
+mortified and your lusts are dead, and under the power of grace, and you are
+led by the Spirit, all your B fears concerning your state of pardon are
+causelesse, and afflictive without reason; but so long as you live at the old
+rate of lust or in­temperance, of covetousnesse or vanity, of tyranny or
+oppression, of carelesnesse or irreligion, flatter not your selves, you have
+no more reason to hope for pardon then a begger for a Crown, or a con­demned
+criminall to be made Heir apparent to that Prince whom he would traiterously
+have slain.
+
+4\. They have great reason to fear concerning their condition, who having been
+in the state of grace, who having begun to lead a good life, and give their
+names to God by solemne deliberate acts of will C and understanding, and made
+some progresse in the way of Godli­nesse, if they shall retire to folly, and
+unravell all their holy vows, and commit those evils from which they formerly
+run as from a fire or inundation, their case hath in it so many evills that
+they have great reason to fear the anger of God, and concerning the finall
+issue of their souls. For return to folly hath in it many evils beyond the
+common state of sin and death; and such evils which are most contrary to the
+hopes of pardon. 1. He that falls back into those sins he hath repented of,
+does grieve the holy Spirit of God by which 1. he was sealed to the day of
+redemption. For so the Antithesis is D plain and obvious; If at the conversion
+of a sinner there is joy before the beatified Spirits, the Angels of God, and
+that is the consumma­tion of our pardon and our consignation to felicity, then
+we may imagine how great an evill it is to grieve the Spirit of God, who is
+greater then the Angels. The Children of Israel were carefully warned that
+they should not offend the Angel: Behold, I send an An­gel Exod. 23. 20. 21.
+before thee, beware of him, and obey his voyce, provoke him not, for he will
+not pardon your transgressions, that is, he will not spare to punish you if
+you grieve him: Much greater is the evill if we grieve him who sits upon the
+throne of God, who is the Prince E of all the Spirits: and besides, grieving
+the Spirit of God is an affection that is as contrary to his felicity, as lust
+is to his holinesse; both which are essentiall to him. Tristitia enim omnium
+spirituum nequissima est, & pessima servis Dei, & omnium spiritus extermi­nat,
+& cruciat Spiritum sanctum, said Hennas: Sadnesse is the grea­test [[Page
+110]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=59) enemy to Gods
+servants; if you grieve Gods Spirit, you cast A him out; for he cannot dwell
+with sorrow and grieving; unlesse it be such a sorrow which by the way of
+vertue passes on to joy and never ceasing felicity. Now by grieving the holy
+Spirit, is meant, those things which displease him, doing unkindnesse to him,
+and then the grief which cannot in proper sense seise upon him will in certain
+effects return upon us: Ita enim dica (said Seneca) sacer intra nos Spiritus
+sedet, bonorum, malorúmque nostrorum observator & custos, hic prout à nobis
+tractatus est, ita nos ipse tractat. There is a holy spirit dwels in every
+good man, who is the observer and guardian of all our actions, and as we treat
+him, so will he treat us. Now we ought to treat him sweetly and tenderly,
+thankfully and with obser­vation. B Deus praecepit Spiritum sanctum, utpote
+pro naturae suae bono tenerum & delicatum, tranquillitate, & lenitate, &
+quiete, & pace tractare, said Tertullian de Spectaculis. The Spirit of God is
+a lo­ving and a kind Spirit, gentle and easy, chast and pure, righteous and
+peaceable, and when he hath done so much for us as to wash us from our
+impurities, and to cleanse us from our stains, and streighten our obliquities,
+and to instruct our ignorances, and to snatch us from an intolerable death,
+and to consign us to the day of redemption, that is, to the resurrection of
+our bodies from death, corruption, and the dishonors of the grave, and to
+appease all the storms and C uneasynesse, and to make us free as the Sons of
+God, and furnished with the riches of the Kingdome, and all this with
+innumerable arts, with difficulty, and in despite of our lusts and
+reluctancies, with parts and interrupted steps, with waitings and
+expectations, with watchfulnesse and stratagems, with inspirations and
+collaterall assi­stances, after all this grace, and bounty, and diligence,
+that we should despite this grace, and trample upon the blessings, and scorn
+to receive life at so great an expence, and love of God, this is so great a
+basenesse and unworthynesse, that by troubling the tenderest passions, it
+turns into the most bitter hostilities; by abusing Gods D love it turns into
+jealousie, and rage, and indignation. Goe and sin no more, lest a worse thing
+happen to thee.
+
+2\. Falling away after we have begun to live well is a great cause of fear,
+because there is added to it the circumstance of inexcuseable­nesse. The man
+hath been taught the secrets of the Kingdome, and therefore his understanding
+hath been instructed; he hath tasted the pleasures of the Kingdome, and
+therefore his will hath been suffi­ciently entertain'd. He was entred into the
+state of life, and renoun­ced the ways of death, his sin began to be pardoned,
+and his lusts to be crucified, he felt the pleasures of victory, and the
+blessings of peace, E and therefore fell away, not onely against his reason,
+but also against his interest; and to such a person the Questions of his soul
+have been so perfectly stated, and his prejudices and inevitable abuses so
+cleerly taken off, and he was so made to view the paths of life and death,
+[[Page 111]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=59) that if
+he chooses the way of sin again, it must be, not by weaknesse A or the
+infelicity of his breeding, or the weaknesse of his under­standing, but a
+direct preference or prelation, a preferring sin be­fore grace, the spirit of
+lust before the purities of the soul, the mad­nesse of drunkennesse before the
+fulnesse of the Spirit, money before our friend, and above our Religion, and
+Heaven, and God himself. This man is not to be pityed upon pretence, that he
+is betrayed, or to be relieved because he is oppressed with potent enemies, or
+to be pardoned because he could not help it, for he once did help it, he did
+overcome his temptation, and choose God, and delight in ver­tue, and was an
+heir of heaven, and was a conqueror over sin and B delivered from death; and
+he may do so still, and Gods grace is upon him more plentifully, and the lust
+does not tempt so strongly: and if it did, he hath more power to resist it;
+and therefore if this man fals, it is because he wilfully chooses death, it is
+the portion that he loves, and descends into with willing and unpityed steps.
+Quàm vilis facta es nimis iterans vias tuas! said God to Judah. Ier. 2. 36.
+
+3\. He that returns from vertue to his old vices, is forced to doe violence to
+his own reason, to make his conscience quiet: he does it so unreasonably, so
+against all his fair inducements, so against his reputation, and the
+principles of his society, so against his honour, C and his promises, and his
+former discourses and his doctrines, his cen­suring of men for the same
+crimes, and the bitter invectives and re­proofs which in the dayes of his
+health and reason he used against his erring Brethren, that he is now
+constrained to answer his own ar­guments, he is intangled in his own
+discourses, he is shamed with his former conversation; and it will be
+remembred against him, how severely he reproved, and how reasonably he
+chastised the lust which now he runs to in despite of himself and all his
+friends. And because this is his condition, he hath no way left him, but
+either to be impudent, which is hard for him at first; it being too big a
+na­turall D change to passe suddenly from grace to immodest circumstan­ces and
+hardnesses of face and heart: or else, therefore he must entertain new
+principles and apply his minde to beleeve a lye; and then begins to argue,
+There is no necessity of being so severe in my life; greater sinners then I
+have been saved; Gods mercies are greater then all the sins of man; Christ
+dyed for us, and if I may not be allowed to sin this sin, what ease have I by
+his death? or, this sin is necessary, and I cannot avoid it; or, it is
+questionable, whether this sin is of so deep a die as is pretended; or, flesh
+and bloud is alwaies with me, and I cannot shake it off; or, there are E some
+Sects of Christians that do allow it, or if they do not, yet they declare it
+easily pardonable, upon no hard terms, and very reconcileable with the hopes
+of heaven; or, the Scriptures are not rightly understood in their pretended
+condemnations; or else, other men do as bad as this, and there is not one in
+ten thousand but hath [[Page
+112]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=60) his private
+retirements from vertue; or else, when I am old, this A sin will leave me, and
+God is very pityfull to mankinde. But while the man like an intangled bird
+flutters in the net, and wildly discom­poses that which should support him,
+and that which holds him, the net and his own wings, that is, the Lawes of God
+and his own conscience and perswasion, he is resolved to do the thing, and
+seeks excuses afterwards; and when he hath found out a fig-leav'd apron that
+he could put on, or a cover for his eyes, that he may not see his own
+deformity, then he fortifies his error with irresolution and inconsideration;
+and he beleeves it, because he will; and he will, because it serves his turn:
+then he is entred upon his state of fear; and if he does not fear concerning
+himself, yet his condition is B fearfull, and the man haih  [...], a reprobate
+minde, that is, a judgement corrupted by lust: vice hath abused his reasoning,
+and if God proceeds in the mans method, and lets him alone in his course, and
+gives him over to beleeve a lye, so that he shall call good evill, and evill
+good, and come to be heartily perswaded that his excuses are reasonable and
+his pretences fair, then the man is desperately undone through the ignorance
+that is in him, as St. Paul describes his condition; his heart is blinde, he
+is past fee­ling, Ephes. 4. 17, 18. his understanding is darkned, then he may
+walk in the vanity of his minde, and give himself over to lasciviousnesse, and
+shall work C all uncleannesse with greedinesse; then he needs no greater
+misery: this is the state of evill which his fear ought to have prevented, but
+now it is past fear, and is to be recovered with sorrow, or else to be run
+through till death and hell are become his portion; siunt no­vissima illus
+pejora pejoribus, his latter end is worse then his begin­ning. Mat. 12. 45.
+vide 2 Pet. 2. 10.
+
+4\. Besides all this it might easily be added, that he that fals from vertue
+to vice again, addes the circumstance of ingratitude to his load of sins; he
+sins against Gods mercy, and puts out his own eyes; he strives to unlearn,
+what with labour he hath purchased, D and despises the trabell of his holy
+daies, and throws away the re­ward of vertue for an interest which himself
+despised the first day in which he began to take sober counsels; he throws
+himself back in the accounts of eternity, and slides to the bottome of the
+hill, from whence with sweat and labour of his hands and knees he had long
+been creeping; he descends from the spirit to the flesh, from honour to
+dishonour, from wise principles to unthrifty practises, like one of the vainer
+fellowes, who grows a fool, and a prodigall, and a begger, because he delights
+in inconsideration, in the madnesse of drunkennesse, and the quiet of a lazy
+and unprofitable life. So that E this man hath great cause to fear, and if he
+does, his fear is as the fear of enemies and not sons; I do not say that it is
+a fear that is displeasing to God, but it is such a one as may arrive at
+good­nesse, and the fear of sons, if it be rightly manag'd.
+
+[[Page 113]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=60) For we
+must know that no fear is displeasing to God; no fear of it self, whether it
+be fear of punishment, or fear to offend; the fear A of servants, or the fear
+of sons: But the effects of fear doe distinguish the man, and are to be
+entertain'd or rejected accordingly. If a servile fear makes us to remove our
+sins, and so passes us towards our pardon and the receiving such graces which
+may endear our duty and oblige our affection; that fear is imperfect, but not
+crimi­nall, it is the beginning of wisdome, and the first introduction to it;
+but if that fear sits still or rests in a servile minde, or a hatred of God,
+or speaking evill things concerning him, or unwillingnesse to do our duty,
+that which at first was indifferent, or at the worst im­perfect, B proves
+miserable and malicious; so we do our duty, it is no matter upon what
+principles we do it; it is no matter where we begin, so from that beginning we
+passe on to duties and perfection. If we fear God as an enemy, an enemy of our
+sins and of our persons for their sakes, as yet this fear is but a servile
+fear, it cannot be a filiall fear since we our selves are not sons; but if
+this servile fear makes us to desire to be reconcil'd to God, that he may no
+longer stay at enmity with us, from this fear we shall soon passe to
+carefulnesse, from carefulnesse to love, from love to diligence, from
+diligence to perfection; and the enemies shall become servants, and the
+servants shall become adopted sons, and passe into the socie­ty C and the
+participation of the inheritance of Jesus: for this fear is also reverence,
+and then our God in stead of being a consuming fire, shall become to us the
+circle of a glorious crown, and a globe of an eternall light.
+
+[[Page 114]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=61)
+
+## 9\. SERMON, IX. Part III. B
+
+IAm now to give account concerning the excesse of fear, not di­rectly and
+abstractedly as it is a passion, but as it is subjected in Religion, and
+degenerates into superstition▪ For so among the Greeks, fear is the ingredient
+and half of the constitution of that folly;  [...] said Hesychius, it is a
+fear of God,  [...] that's more; it is a timorousnesse: the superstitious man
+is afraid of the gods (said the Etymologist)  [...], fea­ring of God as if he
+were a tyrant, and an unreasonable exacter of duty upon unequall terms, and
+disproportionable, impossible degrees, and unreasonable, and great and little
+instances. C
+
+1\. But this fear some of the old Philosophers thought unreasona­ble in all
+cases, even towards God himself; and it was a branch of the Epicurean
+Doctrine, that God medled not any thing below, and was to be loved and
+admired, but not feared at all; and there­fore they taught men neither to fear
+death, nor to fear punishment after death, nor any displeasure of God: His
+terroribus ab Epicuro so­luti Lib. de nat. Deorum. non metuimus Deos, said
+Cicero; and thence came this accep­tation of the word, that superstition
+should signifie an unreasonable fear of God: It is true, he and all his
+scholars extended the case be­yond D the measure, and made all fear
+unreasonable; but then, if we upon grounds of reason and divine revelation
+shall better discern the measure, of the fear of God; whatsoever fear we find
+to be unrea­sonable, we may by the same reason call it superstition, and
+reckon it criminall, as they did all fear; that it may be call'd superstition,
+their authority is sufficient warrant for the grammar of the appella­tive; and
+that it is criminall, we shall derive from better prin­ciples.
+
+But besides this, there was another part of its definition,  [...], the
+superstitious man is also an Idola­ter, E [...], one that is afraid of
+something besides God. The Latines according to their custome, imitating the
+Greeks in all their learned notices of things, had also the same conception of
+this, and by their word [Superstitio] understood the worship of Daemons or
+separate spirits; by which they meant, either their minores Deos, or [[Page
+115]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=61) else their
+[...] their braver personages whose souls were A supposed to live after death;
+the fault of this was the object of their Religion; they gave a worship or a
+fear to whom it was not due; for when ever they worship'd the great God of
+heaven and earth, they never cal'd that superstition in an evill sense, except
+the  [...], the [...] that beleeved there was no God at all. Hence came the
+etymology of superstition: it was a worshipping or fearing the spi­rits of
+their dead Heroes, quos superstites credebant, whom they thought to be alive
+after their  [...] or Deification; or, quos su­perstantes credebant, standing
+in places and thrones above us; and it alludes to that admirable description
+of old age which Solomon made B beyond all the Rhetorick of the Greeks and
+Romans [Also they shall Eccles. 12 5. be afraid of that which is high, and
+fears shall be in the way] inti­mating the weaknesse of old persons, who if
+ever they have been religious, are apt to be abused into superstition; They
+are afraid of that which is high, that is, of spirit and separate souls, of
+those ex­cellent beings which dwell in the regions above; meaning, that then
+they are superstitious. However, fear is most commonly its prin­ciple, alwaies
+its ingredient. For if it enter first by credulity and a weak perswasion, yet
+it becomes incorporated into the spirit of the man, and thought necessary, and
+the action it perswades to dares not be omitted, for fear of an evill
+themselves dream of: upon this ac­count C the sin is reducible to two heads:
+the 1. is, Superstition of an undue object. 2. Superstition of an undue
+expression to a right object.
+
+1\. Superstition of an undue object, is that which the Etymologist cals  [...]
+the worshipping of idols; the Scripture addes  [...] a sacrificing to Daemons
+1 Cor. 10. 20. in St. Paul and in 4\. 7.  [...] Baruch; where although we
+usually read it sacrificing to Devils, yet it was but accidentall that they
+were such; for those indeed were evill spi­rits who had seduced them, and
+tempted them to such ungodly rites; D (and yet they who were of the
+Pythagorean sect, pretended a more holy worship, and did their devotion to
+Angels:) But whosoever shall worship Angels do the same thing; they worship
+them because they are good and powerfull, as the Gentiles did the Devils whom
+they thought so; and the error which the Apostle reproves, was not in matter
+of Judgement, in mistaking bad angels for good, but in matter of manners and
+choice; they mistook the creature for the Creator; and therefore it is more
+fully expressed by St. Paul in a Rom. 11. 25. generall signification, they
+worshipped the creature, [...] be­sides the Creator, so it should be read; if
+we worship any creature E besides God, worshipping so as the worship of him
+becomes a part of Religion, it is also a direct superstition; but concerning
+this part of superstition, I shall not trouble this discourse, because I know
+no Christians blamable in this particular but the Church of Rome, and they
+that communicate with her in the worshipping of Images, of An­gels, [[Page
+116]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=62) and Saints,
+burning lights and perfumes to them, making A offerings, confidences,
+advocations and vowes to them, and direct and solemn divine worshipping the
+Symbols of bread and wine, when they are consecrated in the holy Sacrament.
+These are direct superstition, as the word is used by all Authors profane and
+sacred, and are of such evill report, that where ever the word Superstition
+does signifie any thing criminall, these instances must come under the
+definition of it. They are  [...], a cul­tus superstitum, a cultus Daemonum,
+and therefore besides that they have  [...], a proper reproof in Christian
+Religion, are con­demned by all wise men, which call superstition criminall. B
+
+But as it is superstition to worship any thing  [...] besides the Creator, so
+it is superstition to worship God  [...], otherwise then is decent,
+proportionable or described. Every inordination of Religion that is not in
+defect, is properly cal­led superstition:  [...], said Maximus Tyrius, The
+true worshipper is a lover of God, the super­stitious man loves him not, but
+flatters: To which if we adde, that fear, unreasonable fear is also
+superstition, and an ingredient in its definition; we are taught by this word
+to signifie all irregularity and inordination in actions of Religion. The
+summe is this; the Atheist cal'd all worship of God superstition; the
+Epicurean cal'd all C fear of God superstition, but did not condemn his
+worship; the other part of wise men cal'd all unreasonable fear, and
+inordinate worship superstition, but did not condemn all fear: But the
+Christian, be­sides this, cals every error in worship in the manner, or
+excesse, by this name, and condemns it.
+
+Now because the three great actions of Religion are, to worship God, to fear
+God, and to trust in him, by the inordination of these three actions, we may
+reckon three sorts of this crime; the excesse of fear, and the obliquity in
+trust, and the errors in worship, are the D three sorts of superstition: the
+first of which is only pertinent to our present consideration.
+
+1\. Fear is the duty we owe to God as being the God of power and Justice, the
+great Judge of heaven and earth, the avenger of the cause of Widows, the
+Patron of the poor, and the Advocate of the op­pressed, a mighty God and
+terrible, and so essentiall an enemy to sin, that he spared not his own Son,
+but gave him over to death, and to become a sacrifice, when he took upon him
+our Nature, and became a person obliged for our guilt. Fear is the great
+bridle of intemperance, the modesty of the spirit, and the restraint of
+gaieties E and dissolutions; it is the girdle to the soul, and the handmaid to
+repentance, the arrest of sin, and the cure or antidote to the spirit of
+reprobation; it preserves our apprehensions of the divine Maje­sty, and
+hinders our single actions from combining to sinfull habits; it is the mother
+of consideration, and the nurse of sober counsels, and [[Page
+117]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=62) it puts the
+soul to fermentation and activity, making it to passe from A trembling to
+caution, from caution to carefulnesse, from carefulnesse to watchfulnesse,
+from thence to prudence, and by the gates and progresses of repentance, it
+leads the soul on to love, and to felici­ty, and to joyes in God that shall
+never cease again. Fear is the guard of a man in the dayes of prosperity, and
+it stands upon the watch-towers and spies the approaching danger, and gives
+war­ning to them that laugh loud, and feast in the chambers of rejoycing,
+where a man cannot consider by reason of the noises of wine, and jest, and
+musick: and if prudence takes it by the hand, and leads it on to duty, it is a
+state of grace, and an universall instrument to B infant Religion, and the
+only security of the lesse perfect persons; and in all senses is that homage
+we owe to God who sends often to demand it, even then when he speaks in
+thunder, or smites by a plague, or awakens us by threatning, or discomposes
+our easinesse by sad thoughts, and tender eyes, and fearfull hearts, and
+trembling considerations.
+
+But this so excellent grace is soon abused in the best and most tender
+spirits; in those who are softned by Nature and by Religion, by infelicities
+or ca [...]es, by sudden accidents or a sad soul; and the Devill observing,
+that fear like spare diet starves the fea­vers of lust, and quenches the
+flames of hell, endevours to high­ten C this abstinence so much as to starve
+the man, and break the spi­rit into timorousnesse and scruple, sadnesse and
+unreasonable trem­blings, credulity and trifling observation, suspicion and
+false accu­sations of God; and then vice being turned out at the gate,
+re­turns in at the postern, and does the work of hell and death by run­ning
+too inconsiderately in the paths which seem to lead to heaven. But so have I
+seen a harmlesse dove made dark with an artificiall night, and her eyes ceel'd
+and lock'd up with a little quill, soaring upward and flying with amazement,
+fear and an undiscerning wing, D she made toward heaven, but knew not that she
+was made a train and an instrument, to teach her enemy to prevail upon her and
+all her defencelesse kindred: so is a superstitious man, zealous and blinde,
+forward and mistaken, he runs towards heaven as he thinks, but he chooses
+foolish paths; and out of fear takes any thing that he is told or fancies; and
+guesses concerning God by measures ta­ken from his own diseases and
+imperfections. But fear when it is inordinate, is never a good counsellor, nor
+makes a good friend; and he that fears God as his enemy is the most compleatly
+mise­rable person in the world. For if he with reason beleeves God to E be his
+enemy, then the man needs no other argument to prove that he is undone then
+this, that the fountain of blessing (in this state in which the man is) will
+never issue any thing upon him but cur­sings. But if he fears this without
+reason, he makes his fears true by the very suspicion of God, doing him
+dishonour, and then do­ing [[Page
+118]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=63) those fond and
+trifling acts of jealousie which will make God to be what the man feared he
+already was; We do not know God, A if we can think any hard thing concerning
+him. If God be mer­cifull, let us only fear to offend him; but then let us
+never be fear­full, that he will destroy us when we are carefull not to
+displease him. There are some persons so miserable and scrupulous, such
+perpetuall tormentors of themselves with unnecessary fears, that their meat
+and drink is a snare to their consciences; if they eat, they fear they are
+gluttons, if they fast, they fear they are hypocrites, and if they would
+watch, they complain of sleep as of a deadly sin; and every temptation though
+resisted, makes them cry for pardon; and every return of such an accident,
+makes them think God is angry; B and every anger of God will break them in
+pieces.
+
+These persons do not beleeve noble things concerning God, they do not think
+that he is as ready to pardon them, as they are to par­don a sinning servant;
+they do not beleeve how much God de­lights in mercy, nor how wise he is to
+consider and to make abate­ment for our unavoidable infirmities; they make
+judgement of themselves by the measures of an Angell, and take the accounts of
+God by the proportions of a Tyrant. The best that can be said concerning such
+persons is, that they are hugely tempted, or huge­ly ignorant. For although
+ignorance is by some persons named the C mother of devotion; yet if it fals in
+a hard ground, it is the mother of Atheisme, if in a soft ground, it is the
+parent of superstition: but if it proceeds from evill or mean opinions of God,
+(as such scruples and unreasonable fears do many times) it is an evill of a
+great im­piety, and in some sense, and if it were in equall degrees, is as bad
+as Atheisme; for he that sayes there was no such man as Julius Caesar, does
+him lesse displeasure, then he that sayes there was, but that he was a Tyrant,
+and a bloudy parricide. And the Cimmerians were not esteemed impious for
+saying that there was no sun in the D heavens; But Anaxagoras was esteemed
+irreligious for saying the sun was a very stone: And though to deny there is a
+God is a high impiety and intolerable, yet: he sayes worse, who beleeving
+there is a God sayes, he delights in humane sacrifices, in miseries and death,
+in tormenting his servants, and punishing their very infelicities and
+unavoidable mischances. To be God, and to be essentially and infi­nitely good,
+is the same thing, and therefore to deny either is to be reckoned among the
+greatest crimes in the world.
+
+Adde to this, that he that is afraid of God, cannot in that disposi­tion love
+him at all; for what delight is there in that religion which E drawes me to
+the Altar as if I were going to be sacrificed, or to the Temples as to the
+Dens of Bears? Oderunt quos metuunt, sed colunt tamen: whom men fear they hate
+certainly, and flatter readily, and worship timorously; and he that saw
+Hermolaus converse with Alexander; and Pausanias follow Philip the Macedonian;
+or Chaereas [[Page
+119]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=63) kissing the
+feet of Cajus Caligula would have observed how sordid A men are made with
+fear, and how unhappy and how hated Tyrants are in the midst of those
+acclamations, which are loud, and forc'd, and unnaturall, and without love or
+fair opinion. And therefore although the Atheist sayes there is no God, the
+scrupulous, fearfull, and superstitious man does heartily wish what the other
+does be­leeve.
+
+But that the evill may be proportionable to the folly, and the punishment to
+the crime, there is no man more miserable in the world, then the man who fears
+God as his enemy, and Religion as a snare, and duty as intolerable, and the
+Commandements as im­possible, B and his Judge as implacable, and his anger as
+certain, un­sufferable, and unavoidable: whither shall this man goe? where
+shall he lay his burden? where shall he take sanctuary? for he fears the
+Altars as the places where his soul bleeds and dies; and God who is his
+Saviour he looks upon as his enemy; and because he is Lord of all, the
+miserable man cannot change his service un­lesse it be apparently for a worse.
+And therefore of all the evils of the minde, fear is certainly the worst and
+the most intolerable; levity and rashnesse have in it some spritefulnesse, and
+greatnesse of action; anger is valiant; desire is busie and apt to hope;
+creduli­ty is oftentimes entertain'd and pleased with images and appearances:
+C But fear is dull, and sluggish, and treacherous, and flattering, and
+dissembling, and miserable, and foolish. Every false opinion con­cerning God
+is pernicious and dangerous; but if it be joyned with trouble of spirit, as
+fear, scruple or superstition are, it is like a wound with an inflamation, or
+a strain of a sinew with a contusion, or con­trition of the part, painfull and
+unsafe; it puts on to actions when it self is driven; it urges reason▪ and
+circumscribes it, and makes it pityable, and ridiculous in its consequent
+follies; which if we consider it, will sufficiently reprove the folly, and
+declare the D danger.
+
+Almost all ages of the world have observed many instances of fond perswasions
+and foolish practises proceeding from violent fears and scruples in matter of
+Religion. Diomedon and many other Cap­tains were condemned to dye, because
+after a great Naval victory they pursued the flying enemies, and did not first
+bury their dead. But Chabrias in the same case first buryed the dead, and by
+that time the enemy rallyed, and returned and beat his Navy, and made his
+masters pay the price of their importune superstition; they fear'd where they
+should not, and where they did not, they should. From E hence proceeds
+observation of signs, and unlucky dayes; and the people did so when the
+Gregorian account began, continuing to call those unlucky dayes which were so
+signed in their tradition or Erra pater, although the day upon this account
+fell 10 dayes soo­ner; and men were transported with many other trifling
+contin­gencies [[Page
+120]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=64) and little
+accidents; which when they are one entertain'd A by weaknesse, prevail upon
+their own strength, and in sad natures and weak spirits have produced effects
+of great danger and sor­row. Aristodemas King of the Messenians in his warre
+against the Spartans, prevented the sword of the enemies by a violence done
+upon himself, only because his dogs howl'd like wolves, and the Soothsayers
+were afraid because the Briony grew up by the wals of his Fathers house: and
+Nicias Generall of the Athenian forces sate with his armes in his bosome, and
+suffered himself and 40000 men tamely to fall by the insolent enemy, only
+because he was afraid of the labouring and eclipsed Moon. When the Marble
+statues in Rome did sweat (as naturally they did against all rainy weather) B
+the Augures gave an alarum to the City; but if lightning struck the spire of
+the Capitoll, they thought the summe of affairs, and the Commonwealth it self
+was indanger'd. And this Heathen folly hath stuck so close to the Christian,
+that all the Sermons of the Church for 1600 years have not cured them all: But
+the practises of weaker people and the artifice of ruling Priests have
+superin­duced many new ones. When Pope Eugenius sang Masse at Rhemes, and some
+few drops from the Chalice were spilt upon the pave­ment, it was thought to
+foretell mischief, warres, and bloud, to all Christendome, though it was
+nothing but carelesnesse and mis­chance C of the Priest: and because Thomas
+Becket Archbishop of Canterbury sang the Masse of Requiem upon the day he was
+recon­cil'd to his Prince, it was thought to foretell his own death by that
+religious office: and if men can listen to such whispers, and have not reason
+and observation enough to confute such trifles, they shall still be afrighted
+with the noise of birds, and every night-ra­ven shall foretell evill as
+Micaiah to the King of Israel, and every old woman shall be a Prophetesse, and
+the events of humane af­fairs which should be managed by the conduct of
+counsell, of rea­son, D and religion, shall succeed by chance, by the slight
+of birds, and the meeting with an evill eye, by the falling of the salt, or
+the decay of reason, of wisdome, and the just religion of a man.
+
+To this may be reduc'd the observation of dreams, and fears commenced from the
+fancies of the night. For the superstitious man does not rest, even when he
+sleeps, neither is he safe because dreams usually are false, but he is
+afflicted for fear they should tell true. Living and waking men have one world
+in common, they use the same air and fire, and discourse by the same
+principles of Logick and reason; but men that are asleep have every one a
+world E to himself, and strange perceptions; and the superstitious hath none
+at all; his reason sleeps, and his fears are waking, and all his rest, and his
+very securities to the fearfull man turn into afrights and insecure
+expectation of evils, that never shall happen; they make their rest uneasie
+and chargeable, and they still vex their weary [[Page
+121]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=64) soul, not
+considering there is no other sleep, for sleep to rest in▪ A and therefore if
+the sleep be troublesome, the mans cares be without remedy till they be quite
+destroyed. Dreams follow the temper of the body, and commonly proceed from
+trouble or disease, businesse or care, an active head and a restlesse minde,
+from fear or hope, from wine or passion, from fulnesse or emptinesse, from
+phantastick remembrances or from som Daemon good or bad: they are with­out
+rule and without reason, they are as contingent as if a man should study to
+make a Prophesie, and by saying 10000 things may hit upon one true, which was
+therefore not foreknown though it was forespoken: and they have no certainty
+because they have no na­turall B causality nor proportion to those effects
+which many times they are said to foresignifie. The dream of the yolk of an
+egge importeth gold (saith Artemidorus) and they that use to remember such
+phantastick idols are afraid to lose a friend when they dream their teeth
+shake, when naturally it will rather signifie a scurvy; for a naturall
+indisposition and an imperfect sense of the beginning of a disease, may vex
+the fancy into a symbolicall representation; for so the man that dreamt he
+swam against a stream of bloud, had a Plurisie beginning in his side: and he
+that dreamt he dipt his foot in water, and that it was turn'd to a Marble, was
+intic'd into the C fancie by a beginning dropsie: and if the events do answer
+in one instance, we become credulous in twenty; for want of reason we
+discourse our selves into folly and weak observation, and give the Devill
+power over us in those circumstances in which we can least resist him.  [...],
+A theef is consident in the twi­light; Eurip. if you suffer impressions to be
+made upon you by dreams, the Devill hath the reins in his own hands, and can
+tempt you by that which will abuse you when you can make no resistance.
+Do­minica the wife of Valens the Emperor dreamt that God threatned to take
+away her only son for her despitefull usage of St. Basil: D the fear
+proceeding from this instance was safe and fortunate; but if she had dreamt in
+the behalf of a Heretick, she might have been cousened into a false
+proposition upon a ground weaker then the discourse of a waking childe. Let
+the grounds of our actions be no­ble, beginning upon reason, proceeding with
+prudence, measured by the common lines of men, and confident upon the
+expectation of an usuall providence. Let us proceed from causes to effects,
+from naturall means to ordinary events, and believe felicity not to be a
+chance but a choice, and evill to be the daughter of sin and the Di­vine
+anger, not of fortune and fancy; let us fear God when we E have made him
+angry; and not be afraid of him when we heartily and laboriously do our duty;
+our fears are to be measured by open revelation and certain experience, by the
+threatnings of God and the sayings of wise men, and their limit is reverence,
+and godlinesse is their end; and then fear shall be a duty, and a rare
+instrument of [[Page
+122]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=65) many: in all
+other cases it is superstition or folly, it is sin or punish­ment, A the Ivy
+of Religion, and the misery of an honest and a weak heart, and is to be cured
+only by reason and good company, a wise guide and a plain rule, a cheerfull
+spirit and a contented minde, by joy in God according to the commandements,
+that is, a rejoycing ever­more.
+
+2\. But besides this superstitious fear, there is another fear di­rectly
+criminall, and it is cald, worldly fear, of which the Spirit of God hath said,
+But the fearfull and incredulous shall have their part Revel. 21. 8. in the
+lake that burneth with fire and brimstone, which is the second death; that is,
+such fears which make men to fall in the time of persecution, those that dare
+not own their faith in the face of a Ty­rant, B or in despite of an accursed
+Law. For though it be lawfull to be afraid in a storm, yet it is not lawfull
+to leap into the sea; though we may be more carefull for our fears, yet we
+must be faithfull too; and we may flie from the persecution till it overtakes
+us, but when it does, we must not change our Religion for our safe­ty, or
+leave the robe of Baptisme in the hand of the tempter, and run away by all
+means. St. Athanasius for 46 years did run and fight, he disputed with the
+Arrians and fled from their Officers; and that flies, may be a man worth
+preserving, if he bears his faith along with him, and leaves nothing of his
+duty behinde; but C when duty and life cannot stand together, he that then
+flies a perse­cution by delivering up his soul, is one that hath no charity,
+no love to God, no trust in promises, no just estimation of the rewards of a
+noble contention. Perfect love casts out fear (saith the Apo­stle) that is, he
+that loves God will not fear to dye for him, or for his sake to be poor. In
+this sense no man can fear man and love God at the same time; and when St.
+Laurence triumph'd over Va­lerianus, St. Sebastian over Diocletian, St.
+Vincentius over Dacia­nus, and the armies of Martyrs over the Proconsuls,
+accusers, and executioners, they shew'd their love to God by triumphing over D
+fear, and leading captivity captive by the strength of their Captain, whose
+garments were red from Bozrah.
+
+3\. But this fear is also tremulous and criminall, if it be a trouble from the
+apprehension of the mountains and difficulties of duty, and is called
+pusillanimity. For some see themselves encompassed with temptations, they
+observe their frequent fals, their perpetuall re­turns from good purposes to
+weak performances, the daily morti­fications that are necessary, the resisting
+naturall appetites, and the laying violent hands upon the desires of flesh and
+bloud, the uneasi­nesse E of their spirits, and their hard labours, and
+therefore this makes them afraid; and because they despair to run through the
+whole duty in all its parts and periods, they think as good not begin at all,
+as after labour and expence to lose the Jewell and the charges of their
+venture. St. Austin compares such men to children and phanta­stick [[Page
+123]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=65) persons
+afrighted with phantasmes and specters; Terribiles A visu formae, the sight
+seems full of horror, but touch them and they are very nothing, the meer
+daughters of a sick brain, and a weak heart, an infant experience and a
+trifling judgement: so are the il­lusions of a weak piety▪ or an unskilfull
+unconsident soul; they fancy to see mountains of difficulty, but touch them
+and they seem like clouds riding upon the wings of the winde, and put on
+shapes as we please to dream. He that denies to give almes for fear of being
+poor, or to entertain a Disciple for fear of being suspected of the party, or
+to own a duty for fear of being put to venture for a crown, he that takes part
+of the intemperance because he dares not dis­please B the company, or in any
+sense fears the fears of the world, and not the fear of God, this man enters
+into his portion of fear betimes, but it will not be finished to eternall
+ages. To fear the censures of men when God is your Judge, to fear their evill
+when God is your defence, to fear death when he is the entrance to life and
+felicity, is unreasonable and pernicious; but if you will turn your passion
+into duty, and joy, and security, fear to offend God, to enter voluntari­ly
+into temptation, fear the alluring face of lust, and the smooth
+en­tertainments of intemperance, fear the anger of God when you have deserved
+it, and when you have recover'd from the share, then infi­nitely C fear to
+return into that condition, in which whosoever dwels is the heir of fear and
+eternall sorrow.
+
+Thus farre I have discoursed concerning good fear and bad, that is, filiall
+and servile: they are both good, if by servile we intend ini­tiall or the new
+beginning fear of penitents; a fear to offend God upon lesse perfect
+considerations: But servile fear is vitious when it still retains the
+affection of slaves, and when its effects are hatred, wearinesse, displeasure,
+and want of charity: and of the same cog­nations are those fears which are
+superstitious, and worldly.
+
+But to the former sort of vertuous fear, some also adde another D which they
+call Angelicall, that is, such a fear as the blessed Angels have, who before
+God hide their faces, and tremble at his pre­sence, and fall down before his
+footstool, and are ministers of his anger and messengers of his mercy, and
+night and day worship him with the profoundest adoration. This is the same
+that is spoken of in the Text: Let us serve God with reverence and godly fear;
+all holy fear partakes of the nature of this which Divines call Angeli­call,
+and it is expressed in acts of adoration, of vowes, and holy prayers, in
+hymnes, and psalmes, in the eucharist and reverentiall ad­dresses; and while
+it proceeds in the usuall measures of common E duty, it is but humane; but as
+it arises to great degrees, and to per­fection, it is Angelicall and Divine;
+and then it appertains to my­stick Theologie, and therefore is to be
+considered in another place; but for the present, that which will regularly
+concern all our duty, is this, that when the fear of God is the instrument of
+our duty, [[Page
+124]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=66) or Gods
+worship, the greater it is, it is so much the better. It was an A old
+proverbiall saying among the Romans, Religentem esse oportet, religiosum,
+nefas; Every excesse in the actions of religion is crimi­nall; they supposing
+that in the services of their gods, there might be too much. True it is, there
+may be too much of their unde­cent expressions, and in things indifferent, the
+very multitude is too much, and becomes an undecency: and if it be in its own
+nature undecent or disproportionable to the end, or the rules, or the ana­logy
+of the Religion, it will not stay for numbers to make it intole­rable; but in
+the direct actions of glorifying God, in doing any thing of his Commandements,
+or any thing which he commands, or counsels, or promises to reward, there can
+never be excesse or B superfluity: and therefore in these cases, do as much as
+you can; take care that your expressions be prudent, and safe, consisting with
+thy other duties; and for the passions or vertues themselves, let them passe
+from beginning to great progresses, from man to Angel, from the imperfection
+of man to the perfections of the sons of God; and when ever we go beyond the
+bounds of Nature, and grow up with all the extention, and in the very
+commensuration of a full grace, we shall never go beyond the excellencies of
+God: For ornament may be too much, and turn to curiosity; cleanlinesse may be
+changed into nicenesse; and civill compliance may become flattery; and
+mobili­ty C of tongue may rise into garrulity; and fame and honour may be
+great unto envie; and health it self, if it be athletick, may by its very
+excesse become dangerous: but wisdome, and duty, and comelinesse, and
+discipline, a good minde, and eloquence, and the fear of God, and doing honour
+to his holy Name, can never exceed: but if they swell to great proportions,
+they passe through the measures of grace, and are united to felicity in the
+comprehensions of God, in the joyes of an eternall glory.
+
+[[Page 125]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=66)
+
+## 10\. Sermon, X. The Flesh and the Spirit: Part I.
+
+Matt. 26. 41. latter part. C‘The Spirit indeed is willing, but the Flesh is
+weake.’
+
+FRom the beginning of days Man hath been so crosse to the Divine
+commandements, that in many cases there can be no reason given why a man
+should choose some ways, or doe some actions, but onely because they are
+forbidden; When God bade the Isaaelites rise and goe up against the
+Canaanites, and possesse the Land, D they would not stirre; the men were
+Anakims, and the Cities were impregnable, and there was a Lyon in the way; but
+presently after, when God forbad them to goe, they would and did goe, though
+they died for it. I shall not need to instance in particulars, when the whole
+life of man is a perpetuall contradiction; and the state of Disobedience is
+called the contradiction of Sinners; even the man in the Gospell that had two
+sons, they both crossed him, even he that obeyed him, and he that obeyed him
+not: for the one said, he would, and did not; the other said, he would not,
+and did: and so doe we; we promise faire, and doe nothing; and E they that doe
+best are such as come out of darknesse into light, such as said they would
+not, and at last have better bethought themselves; And who can guesse at any
+other reason why men should refuse to be temperate? for he that refuses the
+commandement, first does vio­lence to the commandement, and puts on a
+proeternaturall appetite, [[Page
+126]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=67) he spoils his
+health, and he spoils his understanding; he brings to A himself a world of
+diseases, and a healthlesse constitution, smart and sickly nights, a loathing
+stomach, and a staring eye, a giddy brain, and a swell'd belly, gouts and
+dropsies, catarrhes and oppila­tions. If God should enjoyne man to suffer all
+this, heaven and earth should have heard our complaints against unjust laws,
+and impossible commandements: for we complain already, even when God commands
+us to drink so long as it is good for us; this is one of his impossible laws:
+it is impossible for us to know when we are dry, or when we need drink; for if
+we doe know, I am sure it is possible enough, not to lift up the wine to our
+heads. And when B our blessed Saviour hath commanded us to love our enemies,
+we think we have so much reason against it, that God will easily excuse our
+disobedience in this case, and yet there are some enemies whom God hath
+commanded us not to love, and those we dote on, we cherish and feast them, and
+as S. Paul in another case, upon our un­comely parts we bestow more abundant
+comelinesse. For whereas our body it self is a servant to our soule, we make
+it the heir of all things, and treat it here already, as if it were in
+Majority; and make that which at the best was but a weak friend, to become a
+strong enemy; and hence proceed the vices of the worst, and the follies and
+imper­fections C of the best; the spirit is either in slavery, or in
+weaknesse, and when the flesh is not strong to mischief, it is weak to
+good­nesse; and even to the Apostles our blessed Lord said, the spirit is
+willing, but the flesh is weak.
+
+The spirit] that is,  [...], the inward man, or the reaso­nable part of man,
+especially as helped by the Spirit of Grace, that is willing: for it is the
+principle of all good actions, the  [...], the power of working is from the
+spirit; but the flesh is but a dull instrument, and a broken arme, in which
+there is a principle of life, but it moves uneasily; and the flesh is so weak,
+that in Scripture to D be in the flesh signifies a state of weaknesse, and
+infirmity; so the humiliation of Christ is expressed by being in the flesh,
+[...], God manifested in the flesh; and what S. Peter calls [put to death in
+the flesh] St. Paul calls [crucified through weaknesse;] and, yee know that
+through the infirmity of the flesh I preached unto you, said S. Paul: but
+here, flesh is not opposed to the spirit as a direct enemy, but as a weak
+servant: for if the flesh be powerfull and opposite, the spirit stays not
+there:
+
+—veniunt ad candida tecta columbae:
+
+The old man and the new cannot dwell together; and therefore here, E where the
+spirit inclining to good, well disposed, and apt to holy counsels, does
+inhabit in society with the flesh, it means onely a weak and unapt nature, or
+a state of infant-grace, for in both these, and in these onely the text is
+verified.
+
+[[Page 127]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=67) 1\.
+Therefore we are to consider the infirmities of the flesh natu­rally. 2. Its
+weaknesse in the first beginnings of the state of grace, A its daily
+pretensions and temptations, its excuses and lessenings of duty. 3. What
+remedies there are in the spirit to cure the evils of nature. 4. How far the
+weaknesses of the flesh can consist with the Spirit of grace in well grown
+Christians: This is the summe of what I intend upon these words.
+
+1\. Our nature is too weak in order to our duty and finall interest, that at
+first it cannot move one step towards God, unlesse God by his preventing grace
+puts into it a new possibility.
+
+[...] B
+
+[...].
+
+There is nothing that creeps upon the earth, nothing that ever God made,
+weaker then Man; for God fitted Horses and Mules with strength, Bees and
+Pismires with sagacity, Harts and Hares with swiftnesse, Birds with feathers
+and a light aëry body; and they all know their times, and are fitted for their
+work, and regularly ac­quire the proper end of their creation; but man that
+was designed to an immortall duration, and the fruition of God for ever▪ knows
+C not how to obtain it; he is made upright to look up to heaven, but he knows
+no more how to purchase it then to climbe it. Once, man went to make an
+ambitious tower to outreach the clouds, or the praeternaturall risings of the
+water, but could not do it; he cannot promise himself the daily bread of his
+necessity upon the stock of his own wit or industry; and for going to heaven,
+he was so far from doing that naturally, that as soon as ever he was made he
+became the son of death, and he knew not how to get a pardon for eating of an
+apple against the Divine commandement:  [...], said the Apostle, By nature we
+were the sons Eph. 2. 3. D of wrath, that is, we were born heirs of death,
+which death came upon us from Gods anger for the sin of our first Parents; or
+by nature, that is,  [...], really, not by the help of fancy, and fiction of
+law, for so Oecumenius and Theophylact expound it; but because it does not
+relate to the sin of Adam in its first intention, but to the evill state of
+sin, in which the Ephesians walked before their conversion; it signifies that
+our nature of it self is a state of opposition to the spirit of grace, it is
+privatively opposed, that is, that there is nothing in it that can bring us to
+felicity; nothing but an obedientiall capacity; our flesh can become
+sanctified, as the stones E can become children unto Abraham, or as dead seed
+can become living corn; and so it is with us, that it is necessary God should
+make us a new creation, if he means to save us; he must take our hearts of
+stone away, and give us hearts of flesh; he must purge the old leaven, and
+make us a new conspersion; he must destroy the flesh, and must [[Page
+128]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=68) breath into us
+Spiritum vitae, the celestiall breath of life, without A which we can neither
+live, nor move, nor have our being. No man can come unto mee (said Christ)
+unlesse my Father draw him, [...]. The Divine love must come upon us and
+snatch us from our imperfection, enlighten our understanding, move and stirre
+our affections, open the gates of heaven, turn our nature into grace, entirely
+forgive our former prevarications, take us by the hand, and lead us all along,
+and we onely contribute our assent unto it; just as a childe when he is
+tempted to learne to goe, and called upon, and guided, and upheld, and
+constrain'd to put his B feet to the ground, lest he feel the danger by the
+smart of a fall; just so is our nature and our state of flesh. God teaches us,
+and invites us, he makes us willing and then makes us able, he lends us helps,
+and guides our hands, and feet; and all the way con­strains us, but yet so as
+a reasonable creature can be constrained; that is, made willing with
+arguments, and new inducements, by a state of circumstances, and conditionall
+necessities: and as this is a great glorification of the free grace of God,
+and declares our manner of cooperation, so it represents our nature to be weak
+as a childe, ignorant as infancy, helplesse as an orphan, averse as an
+uninstructed C person, in so geat degrees that God is forced to bring us to a
+holy life by arts great and many as the power and principles of the Crea­tion;
+with this onely difference, that the subject matter and object of this new
+creation is a free agent; in the first it was purely obe­dientiall and
+passive; and as the passion of the first was an effect of the same power that
+reduced it to act; so the freedome of the second is given us in our nature by
+him that onely can reduce it to act; for it is a freedome that cannot
+therefore choose, because it does not understand, nor taste, nor perceive the
+things of God; and there­fore must by Gods grace be reduced to action, as at
+first the D whole matter of the world was by Gods Almightynesse; for so God
+worketh in us to will and to doe of his owne good pleasure.
+
+2\. But that I may instance in particulars, our naturall weaknesse appears
+best in two things, even in the two great instances of temp­tation, pleasure
+and pain; in both which the flesh is destroyed if it be not helped by a mighty
+grace, as certainly as the Canes doe bow their heads before the breath of a
+mighty wind. 1. In pleasure we see it by the publick miseries and follies of
+the world. An old Greek said well,  [...], There is amongst men nothing
+perfect, because E men carry themselves as persons that are lesse then money,
+ser­vants of gain and interest; we are like the follish Poet that Horace tells
+of:
+
+[[Page 129]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=68) Gestit
+enim nummum in loculos dimittere, posthàc. A
+
+Securus, cadat, an recto stet fabula talo.
+
+Let him but have money for rehearsing his Comedy, he cares not whether you
+like it or no; and if a temptation of money comes strong and violent, you may
+as well tye a wilde dog to quietuesse with the guts of a tender Kid, as
+suppose that most men can doe vertuously when they may sin at a great price.
+Men avoyd po­verty, not onely because it hath some inconveniencies; for they
+are few and little; but because it is the nurse of vertue; they run B from it
+as Children from strict Parents and Tutors, from those that would confine them
+to reason, and sober counsels, that would make them labour, that they may
+become pale and lean, that they may become wise: but because Riches is
+attended by pride and lust, tyranny and oppression, and hath in its hand all
+that it hath in its heart; and Sin waits upon Wealth ready dress'd and fit for
+action, therefore in some temptations they confesse how little their souls
+are, they cannot stand that assault; but because this passion is the daughter
+of Voluptuousnesse, and very often is but a servant sin, ministring to
+sensuall pleasures, the great weak­nesse of the flesh is more seen in the
+matter of carnall crimes, C Lust and Drunkennesse. Nemo enim se adsuefacit ad
+vitandum & Plutar. ex animo evellendum ea quae molesta ei non sunt. Men are so
+in love with pleasure, that they cannot think of mortifying or cruci­fying
+their lust; we doe violence to what we hate, not to what we love. But the
+weaknesse of the flesh, and the empire of lust is vi­sible in nothing so much,
+as in the captivity and folly of wise men. For you shall see some men fit to
+governe a Province, sober in their counsells, wise in the conduct of their
+affaires, men of dis­course and reason, fit to sit with Princes, or to treat
+concerning D peace and warre, the fate of Empires, and the changes of the
+world, yet these men shall fall at the beauty of a woman as a man dies at the
+blow of an Angell, or gives up his breath at the sen­tence and decree of God.
+Was not Solomon glorious in all things but when he bowed to Pharaoh's
+daughter, and then to Devils? and is it not published by the sentence and
+observation of all the world, that the bravest men have been softned into
+effeminacy by the lisping charms, and childish noyses of Women and imper­fect
+persons? A faire slave bowed the neck of stout Polydamas, which was stiffe and
+inflexible to the contentions of an enemy: E and suppose a man set like the
+brave boy of the King of Nico­media in the midst of temptation by a witty
+beauty, tyed upon a bed with silk and pretty violences, courted with musick
+and per­fumes, with promises and easie postures, invited by opportunity and
+importunity, by rewards and impunity, by privacy and a [[Page
+130]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=69) guard; what
+would his nature doe in this throng of evils and A vile circumstances? The
+grace of God secur'd the young Gentle­man, and the Spirit rode in triumph; but
+what can flesh do in such a day of danger? Is it not necessary that we take in
+auxiliaries from Reason and Religion, from heaven and earth, from observation
+and experience, from hope and fear, and cease to be what we are, lest we
+become what we ought not? It is certain that in the cases of temptations to
+voluptuousnesse, a man is naturally, as the Prophet said of Ephraim, like a
+Pigeon that hath no heart, no courage, no conduct, no resolution, no
+discourse, but falls as the water of Nilus when it comes to its cataracts, it
+falls infinitely and with­out restraint; And if we consider how many drunken
+meetings B the Sunne sees every day, how many▪ Markets and Faires and Clubs,
+that is, so many solemnities of drunkennesse, are at this in­stant under the
+eye of heaven; that many Nations are marked for intemperance, and that it is
+lesse noted because it is so popular, and universall, and that even in the
+midst of the glories of Chri­stianity there are so many persons drunk, or too
+full with meat, or greedy of lust, even now that the Spirit of God is given to
+us to make us sober, and temperate, and chaste, we may well imagine, since all
+men have flesh, and all men have not the C spirit, the flesh is the parent of
+sin, and death, and it can be no­thing else.
+
+And it is no otherwise when we are tempted with pain. We are so impatient of
+pain, that nothing can reconcile us to it; not the laws of God, not the
+necessities of nature, not the society of all our kindred, and of all the
+world, not the interest of vertue, not the hopes of heaven; we will submit to
+pain upon no terms, but the basest and most dishonorable; for if sin bring us
+to pain, or affront, or sicknesse, we choose that, so it be in the retinue of
+a lust, and a base desire▪ but we accuse Nature, and blaspheme God, we murmur
+and are impatient when pain is sent to us from him D that ought to send it,
+and intends it as a mercy when it comes. But in the matter of afflictions and
+bodily sicknesse we are so weak and broken, so uneasie and unapt to
+sufferance, that this alone is beyond the cure of the old Philosophy. Many can
+endure poverty, and many can retire from shame and laugh at home, and very
+many can endure to be slaves; but when pain and sharp­nesse are to be endured
+for the interests of vertue, we finde but few Martyrs; and they that are,
+suffer more within themselves by their fears and their temptations, by their
+uncertain purposes and E violences to Nature, then by the Hang-mans sword; the
+Martyr­dome is within; and then he hath won his Crown, not when he hath
+suffered the blow, but when he hath overcome his fears, and made his spirit
+conqueror. It was a sad instance of our infirmity, when of the 40 Martyrs of
+Cappadocia set in a freezing lake, al­most [[Page
+131]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=69) consummate, and
+an Angell was reaching the Crowne, and placing it upon their brows, the flesh
+fail'd one of them, and drew A the spirit after it; and the man was called off
+from his Scene of noble contention, and dyed in warm water:
+
+—Odi artus, fragilémque hunc corporis usum
+
+Desertorem animi—
+
+We carry about us the body of death, and we bring evils upon our selves by our
+follies, and then know not how to bear them; and the flesh forsakes the
+spirit. And indeed in sicknesse the in­firmity is so very great, that God in a
+manner at that time hath B reduced all Religion into one vertue, Patience with
+its appendages is the summe totall of almost all our duty that is proper to
+the days of sorrow: and we shall find it enough to entertain all our powers,
+and to imploy all our aids; the counsels of wise men, and the comforts of our
+friends, the advices of Scripture, and the results of experience, the graces
+of God, and the strength of our own resolutions are all then full of
+imployments, and find it work enough to secure that one grace. For then it is
+that a cloud is wrapped about our heads, and our reason stoops under sorrow,
+the soul is sad, and its instrument is out of tune, the auxiliaries C are
+disorder'd, and every thought sits heavily, then a comfort cannot make the
+body feel it, and the soule is not so abstracted to rejoyce much without its
+partner▪ so that the proper joyes of the soul, such as are hope, and wise
+discourses, and satisfactions of reason, and the offices of Religion, are
+felt, just as we now per­ceive the joyes of heaven, with so little relish,
+that it comes as news of a victory to a man upon the Rack, or the birth of an
+heir to one condemned to dye; he hears a story which was made to delight him,
+but it came when he was dead to joy and all its ca­pacities; D and therefore
+sicknesse, though it be a good Monitor, yet it is an ill stage to act some
+vertues in; and a good man cannot then doe much, and therefore he that is in
+the state of flesh and blood, can doe nothing at all.
+
+4\. But in these considerations we find our nature in disadvan­tages; and a
+strong man may be overcome when a stronger comes to disarme him; and pleasure
+and pain are the violences of choice and chance; but it is no better in any
+thing else: for nature is weak in all its strengths, and in its fights, at
+home, and abroad, in its actions and passions; we love some things violently,
+and E hate others unreasonably; any thing can fright us when we should be
+confident, and nothing can scare us when we ought to feare; the breaking of a
+glasse puts us into a supreme anger, and we are dull and indifferent as a
+Stoick when we see God dishonour'd; we passionately desire our preservation,
+and yet we violently destroy [[Page
+132]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=70) our selves, and
+will not be hindred; we cannot deny a friend A when he tempts us to sin and
+death, and yet we daily deny God when he passionately invites us to life and
+health; we are greedy after money, and yet spend it vainly upon our lusts; we
+hate to see any man flatter'd but our selves; and we can endure folly if it be
+on our side, and a sin for our interest; we desire health, and yet we exchange
+it for wine and madnesse; we sink when a persecution comes, and yet cease not
+daily to persecute our selves, doing mischiefs worse then the sword of
+Tyrants, and great as the ma­lice of a Devill.
+
+5\. But to summe up all the evills that can be spoken of the infirmities of
+the flesh; the proper nature and habitudes of men are B so foolish and
+impotent, so averse and peevish to all good, that a mans will is of it self
+onely free to choose evils. Neither is it a contradiction to say liberty, and
+yet suppose it determin'd to one object onely; because that one object is the
+thing we choose. For although God hath set life and death before us, fire and
+water, good and evill, and hath primarily put man into the hands of his owne
+counsell, that he might have chosen good as well as evill, yet be­cause he did
+not, but fell into an evill condition and corrupted manners, and grew in love
+with it, and infected all his children with vicious examples; and all nations
+of the world have contracted C some universall stains, and the thoughts of
+mans hearts are onely evill, and that continually, and there is not one that
+doth good, no not one that sinneth not: since (I say) all the world have
+sinned, we cannot suppose a liberty of indifferency to good and bad; it is
+impossible in such a liberty▪ that there should be no variety, that all should
+choose the same thing; but a liberty of complacency or delight we may suppose;
+that is so, that though naturally he might choose good, yet morally he is so
+determin'd with his love to evill, that good seldome comes into dispute; and a
+man D runs to evill as he runs to meat or sleep; for why else should it be,
+that every one can teach a childe to be proud, or to swear, to lie, or to doe
+little spites to his play-fellow, and can traine him up to infant follies? But
+the severity of Tutors and the care of Parents, discipline and watchfulnesse,
+arts and diligence, all is too little to make him love but to say his prayers,
+or to doe that which becomes persons design'd for honest purposes, and his
+malice shall out-run his yeares; he shall be a man in villany before he is by
+law capable of choice or inheritance; and this indisposition lasts upon us for
+ever, even as long as E we live, just in the same degrees as flesh and blood
+does rule us:  [...], Art of Physicians can cure the evills of the body, but
+this strange propensity to evill nothing can cure but death; the grace of God
+eases the malignity here, but it cannot be cured but by glory▪ [[Page
+133]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=70) that is, this
+freedome of delight or perfect unabated election of A evill, which is
+consequent to the evill manners of the world, al­though it be lessened by the
+intermediall state of grace, yet it is not cured untill it be changed into its
+quite contrary; but as it is in heaven, all that is happy, and glorious, and
+free, yet can choose nothing but the love of God, and excellent things,
+because God fills all the capacities of Saints, and there is nothing without
+him that hath any degrees of amability: so in the state of nature, of flesh
+and blood, there is so much ignorance of spirituall ex­cellencies, and so much
+proportion to sensuall objects, which in most instances and in many degrees
+are prohibited, that as men B naturally know no good, but to please a wilde,
+indetermin'd, in­finite appetite; so they will nothing else but what is good
+in their limit and proportion; and it is with us as it was with the shee-goat
+that suckled the wolves whelp; he grew up by his nurses milke, and at last
+having forgot his foster mothers kind­nesse, eat that udder which gave him
+drink and nourishment; Improbit as nullo flectitur obsequio; for no kindnesse
+will cure an ill nature and a base disposition: so are we in the first
+constitution of our nature; so perfectly given to naturall vices, that by
+de­grees we degenerate into unnaturall, and no education or power C of art can
+make us choose wisely or honestly:  [...], said Phalaris, There is no good
+nature but onely ver­tue; till we are new created, we are wolves and serpents,
+free and delighted in the choice of evill, but stones and iron to all
+ex­cellent things and purposes.
+
+2\. Next I am to consider the weaknesse of the flesh, even when the state is
+changed, in the beginning of the state of grace: For many persons, as soon as
+the grace of God rises in their hearts, are all on fire, and inflamed; it is
+with them as Homer said of the Syrian starre, D
+
+[...]
+
+[...]
+
+It shines finely, and brings feavers; splendor and zeal are the effects of the
+first grace, and sometimes the first turnes into pride, and the second unto
+uncharitablenesse; and either by too dull and slow motions, or by too violent
+and unequall, the flesh will make pretences, and too often prevail upon the
+spirit, even after the grace of God hath set up its banners in our hearts. E
+
+1\. In some dispositions that are forward and apt, busie and unquiet, when the
+grace of God hath taken possessions, and begins to give laws, it seems so
+pleasant and gay to their undiscerning spirits, to be deli­vered from the
+sottishnesse of lust, and the follies of drunkennesse, that reflecting upon
+the change, they begin to love themselves too [[Page
+134]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=71) well, and take
+delight in the wisdome of the change, and the reasonablenesse of the new life;
+and then they by hating their own A follies, begin to despise them that dwell
+below; It was the tricke of the old Philosophers whom Aristophanes thus
+describes,  [...]; pale, and barefoot, and proud; that is, persons singular in
+their habit, eminent in their institution, proud and pleased in their persons,
+and despisers of them that are lesse glorious in their vertue then themselves;
+and for this very thing our blessed Saviour remarks the Pharisees; they were
+severe and phantasticall advancers of themselves, and Judgers of their
+neighbors; and here, when they have mortified B corporall vices, such which
+are scandalous and punishable by men, they keep the spirituall, and those that
+are onely discernible by God: these men doe but change their sin from scandall
+to dan­ger, and that they may sin more safely they sin more spiri­tually.
+
+2\. Sometimes the passions of the flesh spoyle the changes of the Spirit, by
+naturall excesses, and disproportion of degrees; it mingles violence with
+industry, and fury with zeale, and unchari­tablenesse with reproofe, and
+censuring with discipline, and vio­lence with desires, and immortifications in
+all the appetites and C prosecutions of the soule. Some think it is enough in
+all instances, if they pray hugely and fervently; and that it is religion,
+impa­tiently to desire a victory over our enemies, or the life of a childe, or
+an heir to be born; they call it holy, so they desire it in prayer; that if
+they reprove a vicious person, they may say what they list, and be as angry as
+they please; that when they demand but reason, they may enforce it by all
+means; that when they exact duty of their children, they may be imperious and
+without limit; that if they designe a good end, they may prosecute it by all
+instru­ments; that when they give God thanks for blessings, they may value the
+thing as high as they list, though their persons come D into a share of the
+honour; here the spirit is willing and holy, but the flesh creeps too busily,
+and insinuates into the substance of good actions, and spoyles them by
+unhandsome circumstances; and then the prayer is spoil'd for want of prudence
+of conformity to Gods will, and discipline and government is imbittered by an
+angry spirit; and the Fathers authority turns into an uneasie load, by being
+thrust like an unequall burden to one side, without al­lowing equall measures
+to the other: And if we consider it wisely, we shall find that in many good
+actions the flesh is the bigger ingre­dient, and we betray our weak
+constitutions even when we do Justice E or Charity; and many men pray in the
+flesh, when they pretend they pray by the spirit.
+
+3\. In the first changes and weak progresses of our spirituall life, we find a
+long weaknesse upon us, because we are long before we [[Page
+135]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=71) begin, and the
+flesh was powerfull and its habits strong, and it will mingle indirect
+pretences with all the actions of the spirit; If we A mean to pray, the flesh
+thrusts in thoughts of the world; and our tongue speaks one thing and our
+heart means another; and we are hardly brought to say our prayers, or to
+undertake a fasting day, or to celebrate a Communion: and if we remember that
+all these are holy actions, and that we have many opportunities of doing them
+all, and yet doe them very seldome, and then very coldly, it will be found at
+the foot of the account, that our flesh and our naturall weaknesse prevailes
+oftner then our spirituall strengths:  [...], they B that are bound long in
+chains feel such a lamenesse in the first resti­tutions of their liberty,
+[...], by reason of the long accustomed chain and pressure, that they must
+stay till Nature hath set them free, and the disease be taken off as well as
+the chain; and when the soul is got free from her actuall pres­sure of sins,
+still the wound remaines, and a long habitude, and longing after it, a looking
+back, and upon the presenting the old object, the same company, or the
+remembrance of the delight, the fancy strikes, and the heart fails, and the
+temptations returne and stand dressed in form and circumstances, and ten to
+one but the man dies again. C
+
+4\. Some men are wise and know their weaknesses, and to prevent their
+startings back, will make fierce and strong resolutions, and bind up their
+gaps with thornes, and make a new hedge about their spirits; and what then?
+this shews indeed that the spirit is willing; but the storm arises, and windes
+blow, and rain descends, and presently the earth trembles, and the whole
+fabrick falls into ruine and disorder. A resolution (such as we usually make)
+is no­thing but a little trench which every childe can step over; and there is
+no civill man that commits a willing sin, but he does it D against his
+resolution; and what Christian lives, that will not say, and think, that he
+hath repented in some degree; and yet still they commit sin, that is, they
+break all their holy purposes as readily as they lose a dream; and so great is
+our weaknesse, that to most men the strength of a resolution is just such a
+restraint as he suffers who is imprisoned in a curtain, and secured with dores
+and bars of the finest linnen: for though the spirit be strong to resolve, the
+flesh is weak to keep it.
+
+5\. But when they have felt their follies, and see the linnen vail rent, some
+that are desirous to please God, back their resolutions E with vows, and then
+the spirit is fortified, and the flesh may tempt and call, but the soul cannot
+come forth, and therefore it triumphs and acts its interest easily and
+certainly; and then the flesh is mor­tified; It may be so. But doe not many of
+us inquire after a vow? And we consider it may be it was rash, or it was an
+im­possible [[Page
+136]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=72) matter, or
+without just consideration, and weighing of A circumstances, or the case is
+alter'd, and there is a new emergent ne­cessity, or a vow is no more then a
+resolution made in matter of duty; both are made for God, and in his eye and
+witnesse; or if nothing will doe it, men grow sad and weary, and despaire, and
+are impa­tient, and bite the knot in pieces, with their teeth, which they
+cannot by disputing, and the arts of the tongue. A vow will not secure our
+duty, because it is not stronger then our appetite; and the spirit of man is
+weaker then the habits and superinduced na­ture of the flesh; but by little
+and little it falls off, like the finest thread twisted upon the traces of a
+chariot; it cannot hold long. B
+
+6\. Beyond all this, some choose excellent guides, and stand within the
+restraints of modesty, and a severe Monitor; and the Spirit of God hath put a
+veile upon our spirits, and by modesty in women and young persons, by
+reputation in the more aged, and by honour in the more noble, and by
+conscience in all, have fortified the spirit of Man, that men dare not
+prevaricate their duty though they be tempted strongly, and invited
+perpetually; and this is a partition wall that separates the spirit from the
+flesh, and keeps it in its proper strengths and retirements. But here the
+spirit of C man, for all that it is assisted, strongly breaks from the
+inclosure, and runnes into societies of flesh, and sometimes despises
+repu­tation, and sometimes supplies it with little arts of flattery, and self-
+love, and is modest as long as it can be secret, and when it is discovered, it
+growes impudent; and a man shelters himselfe in crouds and heaps of sinners,
+and beleeves that it is no worse with him then with other mighty criminals,
+and publick persons, who bring sin into credit amongst fooles and vicious
+persons; or else men take false measures of fame or publick honesty, and the
+world being broken into so many parts of disunion, and agreeing in nothing but
+in confederate vices, and grown so remisse in governments, and se­vere D
+accounts, every thing is left so loose, that honour and pub­lick fame,
+modesty, and shame, are now so slender guards to the spirit, that the flesh
+breaks in and makes most men more bold against God then against men, and
+against the laws of Religion, then of the Common-wealth.
+
+7\. When the spirit is made willing by the grace of God, the flesh interposes
+in deceptions and false principles. If you tempt some man to a notorious sin,
+as to rebellion, to deceive his trust, or to be drunk, he will answer, he had
+rather die then doe it: But put the E sin civilly to him, and let it be
+disguised with little excuses, such things which indeed are trifles, but yet
+they are colours fair enough to make a weak pretence, and the spirit yeelds
+instantly. Most men choose the sin, if it be once disputable whether it be a
+sin or no? If they can but make an excuse, or a colour, so that it shall not
+rudely [[Page 137]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=72)
+dash against the conscience with an open professed name of Sin, A they suffer
+the temptation to doe its worst. If you tempt a man, you must tell him 'tis no
+sin, or it is excusable: this is not rebellion, but necessity, and selfe
+defence; it is not against my allegiance, but is a performing of my trust; I
+doe it for my friend, not against my Superiour; I doe it for a good end, and
+for his advantage; this is not drunkennesse, but free mirth, and fair society;
+it is refresh­ment, and entertainment of some supernumerary hours; but it is
+not a throwing away my time, or neglecting a day of salvation; and if there be
+any thing more to say for it, though it be no more then Adams fig-leaves, or
+the excuses of children and truants, it B shall be enough to make the flesh
+prevail, and the spirit not to be trou­bled; for so great is our folly, that
+the flesh always carries the cause, if the spirit can be cousen'd.
+
+8\. The flesh is so mingled with the spirit, that we are forced to make
+distinctions in our appetite, to reconcile our affections to God and Religion,
+lest it be impossible to doe our duty; we weep for our sins, but we weep more
+for the death of our dearest friends, or other temporall sadnesses; we say we
+had rather die then lose our faith, and yet we doe not live according to it;
+we lose our estates and are impatient, we lose our vertue and bear it well
+enough; and C what vertue is so great, as more to be troubled for having
+sin'd, then for being asham'd, and begger'd, and condemn'd to die? Here we are
+forced to a distinction: there is a valuation of price, and a valu­ation of
+sense: or the spirit hath one rate of things, and the flesh hath another; and
+what we beleeve the greatest evill, does not alwayes cause to us the greatest
+trouble; which shews plainly, that we are imperfect carnall persons, and the
+flesh will in some measure prevaile over the spirit; because we will suffer it
+in too many instances, and cannot help it in all.
+
+9\. The spirit is abated and interrupted by the flesh, because the flesh D
+pretends it is not able to doe those ministeries which are appointed in order
+to Religion; we are not able to fast, or if we watch, it breeds gouts and
+catarrhes; or charity is a grace too expensive, our necessi­ties are too big
+to do it; or we cannot suffer pain; and sorrow breeds death, and therefore our
+repentances must be more gentle, and we must support our selves in all our
+calamities: for we cannot beare our crosses without a freer refreshment, and
+this freedome passes on to licence, and many melancholy persons drowne their
+sorrows in sin and forgetfulnesse, as if sin were more tolerable then sorrow,
+and the anger of God an easier load then a temporall care: here the flesh E
+betrayes its weaknesse and its follies: For the flesh complains too soon, and
+the spirit of some men like Adam being too fond of his Eve, attends to all its
+murmurs and temptations; and yet the flesh is able to bear farre more then is
+required of it in usuall duties. Custome of suffering will make us endure
+much, and feare will make [[Page
+138]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=73) us suffer more,
+and necessity makes us suffer any thing; and lust and desire makes us to
+endure more then God is willing we should; A and yet we are nice, and tender,
+and indulgent to our weaknesses, till our weaknesses grow too strong for us.
+And what shall we doe to secure our duty, and to be delivered of our selves,
+that the body of death which we bear about us may not destroy the life of the
+spirit?
+
+I have all this while complain'd, and you see not without cause; I shall
+afterwards tell you the remedies for all this evill. In the mean time, let us
+have but mean opinions of our selves; let us watch every thing of our selves
+as of suspected persons, and magnifie the grace of God, and be humbled for our
+stock and spring of follies, and B let us look up to him who is the fountaine
+of grace and spirituall strengths.
+
+[...]
+
+[...].
+
+And pray that God would give us what we ask, and what we ask not; for we want
+more helps then we understand, and we are neerer to evill then we perceive,
+and we bear sin and death about us, and are in love with it; and nothing comes
+from us but false principles, C and silly propositions, and weak discourses,
+and startings from our holy purposes, and care of our bodies, and of our
+palates, and the lust of the lower belly; these are the imployment of our
+lives; but if wee design to live happily and in a better place, it must be
+otherwise with us; we must become new creatures, and have another defini­tion,
+and have new strengths, which we can onely derive from God, whose grace is
+sufficient for us, and strong enough to prevail over all our follies and
+infirmities.
+
+[[Page 139]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=73)
+
+## 11\. SERMON, XI. Part II. B
+
+IF it be possible to cure an evill nature, we must inquire after remedies for
+all this mischief. In order to which I shall consider; 1. That since it is our
+flesh and bloud that is the principle of mischief, we must not think to have
+it cured by washings and light medicaments; the Physitian that went to cure
+the Hectick with quick­silver and fasting spittle, did his Patient no good,
+but himself be­came a proverb; and he that by easie prayers and a seldome
+fast, by the scattering of a little almes, and the issues of some more
+na­turall vertue thinks to cure his evill nature, does fortifie his
+indis­position, C as a stick is hardened by a little fire, which by a great
+one is devoured. Quanto satius est mentem potius eluere quae malis
+cu­piditatibus Lactantius. sordidatur, & uno virtutis as sidei lavacro
+universa vitia depellere? Better it is by an intire body of vertue, by a
+living and active faith to cleanse the minde from every vice, and to take off
+all superinduced habits of sin; Quod qui fecerit, quamlibet inquinatum ac
+sordidum corpus gerat, satis purus est. If we take this course, al­though our
+body is foul, and our affections unquiet, and our rest discomposed, yet we
+shall be masters of our resolution, and clean from habituall sins, and so cure
+our evill nature. For our nature D was not made evill but by our selves; but
+yet we are naturally evill, that is, by a superinduced nature; just as
+drunkards and intem­perate persons have made it necessary to drink extremely,
+and their nature requires it, and it is health to them; they dye without it,
+because they have made to themselves a new constitution, and ano­ther nature,
+but much worse then that which God made; their sin made this new nature; and
+this new nature makes sin necessary and unavoidable: so it is in all other
+instances; Our nature is evill, be­cause we have spoil'd it; and therefore the
+removing the sin which we have brought in, is the way to cure our nature: for
+this evill E nature is not a thing which we cannot avoid; we made it, and
+there­fore we must help it; but as in the superinducing this evill nature, we
+were thrust forward by the world and the Devill, by all objects from without,
+and weaknesse from within; so in the curing it we are to be helped by God and
+his most holy Spirit.
+
+[[Page 140]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=74)
+
+[...] A
+
+[...].
+
+We must have a new nature put into us, which must be the princi­ple of new
+counsels, and better purposes, of holy actions and great devotion; and this
+nature is deriv'd from God, and is a grace and a favour of heaven. The same
+Spirit that caused the holy Jesus to be born after a new and strange manner,
+must also descend upon us and cause us to be born again, and to begin a new
+life upon the stock of a new nature.  [...], B said Origen, From him it first
+began that a divine and humane nature were weaved together, that the humane
+nature by communication with the celestiall may also become divine, [...], Not
+only in Jesus, but in all that first beleeve in him, and then obey him, living
+such a life as Jesus taught: and this is the summe totall of the whole design;
+As we have liv'd to the flesh, so we must hereafter live to the spirit: as our
+nature hath been flesh, not only in its originall, but in habits and
+affection; so our nature must be spirit in habit and choice, in design and
+effe­ctuall C prosecutions; for nothing can cure our old death, but this new
+birth; and this is the recovery of our nature, and the restituti­on of our
+hopes, and therefore the greatest joy of mankinde.
+
+— [...]
+
+[...],
+
+Euripides.
+
+[...]
+
+It is a fine thing to see the light of this sun, and it is pleasant to see the
+storm allayed and turned into a smooth sea and a fresh gale; our D eyes are
+pleased to see the earth begin to live, and to produce her little issues with
+particolour'd coats:
+
+— [...]
+
+[...]
+
+[...]
+
+Nothing is so beauteous as to see a new birth in a childlesse family; And it
+is excellent to hear a man discourse the hidden things of Nature, and unriddle
+the perplexities of humane notices and mis­takes; it is comely to see a wise
+man sit in the gates of the City, E and give right judgement in difficult
+causes: But all this is nothing to the excellencies of a new birth; to see the
+old man carryed forth to funerall with the solemn tears of repentance, and
+buryed in the grave of Jesus, and in his place a new creation to arise, a new
+heart, [[Page 141]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=74)
+and a new understanding, and new affections, and excellent appe­tites: A for
+nothing lesse then this can cure all the old distempers.
+
+2\. Our life, and all our discourses, and every observation, and a state of
+reason, and a union of sober counsels, are too little to cure a peevish
+spirit, and a weak reasoning, and silly principles, and ac­cursed habits, and
+evill examples, and perverse affections, and a whole body of sin and death. It
+was well said in the Comedy.
+
+Nunquam ita quisquam bene subductâ ratione ad vitam fuit,
+
+Quin aetas, usus semper aliquid apportet novi,
+
+Aliquid moneat; ut illa quae scire credas, nescias,
+
+Et quae tibi put as prima, in experiundo repudies. B
+
+Men at first think themselves wise, and are alwaies most confident when they
+have the least reason; and to morrow they begin to perceive yesterdayes folly,
+and yet they are not wise; But as the little Embryo in the naturall sheet and
+lap of its mother, first distin­guishes into a little knot, and that in time
+will be the heart, and then into a bigger bundle, which after some dayes abode
+grows in­to two little spots, and they if cherished by nature will become
+eyes, and each part by order commences into weak principles, and is pre­served
+with natures greatest curiosity; that it may assist first to distin­ction, C
+then to order, next to usefulnesse, and from thence to strength, till it
+arrive at beauty, and a perfect creature: so are the necessities, and so are
+the discourses of men; we first learn the principles of reason, which breaks
+obscurely through a cloud, and brings a little light, and then we discern a
+folly, and by little and little leave it, till that enligh­tens the next
+corner of the soul; and then there is a new discovery; but the soul is still
+in infancy and childish follies; and every day does but the work of one day;
+but therefore art, and use, experience, and reason, although they do
+something, yet they cannot do enough; there must be something else: But this
+is to be wrought by a new D principle, that is, by the Spirit of grace: Nature
+and reason alone cannot do it, and therefore the proper cure is to be wrought
+by those generall means of inviting and cherishing, of getting and
+enter­taining Gods Spirit, which when we have observed, we may ac­count our
+selves sufficiently instructed toward the repair of our brea­ches, and the
+reformation of our evill nature.
+
+1\. The first great instrument of changing our whole nature into the state of
+grace, flesh into the spirit, is a firm belief, and a perfect assent to, and
+hearty entertainment of the promises of the Gospell; for holy Scripture speaks
+great words concerning faith. It quenches E the fiery darts of the Devill,
+saith St. Paul, it overcomes the world, Ephes. 4. 16. saith St. John, it is
+the fruit of the Spirit, and the parent of love, it 1 Ioh. 5. 4. is obedience,
+and it is humility, and it is a shield, and it is a brestplate, and a work,
+and a mysterie, it is a fight and it is a victory, it is a pleasing God, and
+it is that whereby the just do live; by faith we are [[Page
+142]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=75) purified, and
+by faith we are sanctified, and by faith we are justified, A and by faith we
+are saved: by this we have accesse to the throne of grace, and by it our
+prayers shall prevail for the sick, by it we stand, and by it we walk, and by
+this Christ dwels in our hearts, and by it all the miracles of the Church have
+been done; it gives great patience to suffer, and great confidence to hope,
+and great strength to do, and infallible certainty to enjoy the end of all our
+faith, and satisfaction of all our hopes, and the reward of all our labours,
+even the most mighty price of our high calling: and if faith be such a
+magazine of spirituall excellencies, of such universall efficacy, no­thing can
+be a greater antidote against the venome of a corrupted nature. But then this
+is not a grace seated finally in the understan­ding, B but the principle that
+is designed to, and actually productive of a holy life; It is not only a
+beleeving the propositions of Scri­pture as we beleeve a proposition in the
+Metaphysicks, concerning which a man is never the honester whether it be true
+of false; but it is a beleef of things that concern us infinitely, things so
+great that if they be so true as great, no man that hath his reason and can
+discourse, that can think and choose, that can desire and work towards an end,
+can possibly neglect. The great object of our faith, to which all other
+articles do minister, is, resurrection of our bodies and souls to eternall
+life, and glories infinite. Now is it C possible that a man that beleeves
+this, and that he may obtain it for himself, and that it was prepared for him,
+and that God desires to give it him, that he can neglect and despise it, and
+not work for it, and perform such easie conditions upon which it may be
+ob­tained? Are not most men of the world made miserable at a lesse price then
+a thousand pound a year? Do not all the usurers and merchants, all tradesmen
+and labourers under the Sun toil and care, labour and contrive, venture and
+plot for a little money, and no man gets, and scarce any man desires so much
+of it as he can lay up­on three acres of ground; not so much as will fill a
+great house; D and is this sum, that is such a trifle, such a poor limited
+heap of dirt, the reward of all the labour, and the end of all the care, and
+the design of all the malice, and the recompence of all the wars of the world;
+and can it be imaginable, that life it self, and a long life, an eternall and
+a happy life, a kingdome, a perfect kingdome, and glorious, that shall never
+have ending, nor ever shall be abated with rebellion, or fears, or sorrow, or
+care, that such a kingdome should not be worth the praying for, and quitting
+of an idle company, and a foolish humour, or a little drink, or a vicious
+silly woman for it? E surely men beleeve no such thing. They do not relye upon
+those fine stories that are read in books, and published by Preachers, and
+al­low'd by the lawes of all the world. If they did, why do they choose
+intemperance and a feaver, lust and shame, rebellion and dan­ger, pride and a
+fall, sacriledge and a curse, gain and passion, be­fore [[Page
+143]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=75) humility and
+safety, religion and a constant joy, devotion and peace of conscience, justice
+and a quiet dwelling, charity and a A blessing, and at the end of all this, a
+Kingdome more glorious then all the beauties the Sun did ever see. Fides est
+velut quoddam aeternitatis exemplar, praeterita simul & praesentia & futura
+sinu quo­dam vastissimo comprehendit, ut nihil ei praetereat, nil pereat,
+praeeat nihil; Now, Faith is a certain image of eternity, all things are
+pre­sent to it, things past and things to come, are all so before the eyes of
+faith, that he in whose eye that candle is enkindled, beholds heaven as
+present, and sees how blessed thing it is to dye in Gods favour, and to be
+chim'd to our grave with the Musick of a good B conscience. Faith converses
+with the Angels, and antedates the hymnes of glory; every man that hath this
+grace is as certain that there are glories for him, if he perseveres in duty,
+as if he had heard and sung the thanksgiving Song for the blessed sentence of
+Dooms-day. And therefore it is no matter if these things are se­parate and
+distant objects; none but children and fools are taken with the present
+trifle, and neglect a distant blessing, of which they have credible and
+beleeved notices. Did the merchant see the pearls and the wealth he designs to
+get in the trade of 20 years? And is it possible that a childe should, when he
+learns the first ru­diments C of Grammar, know what excellent things there are
+in learning, whither he designs his labour, and his hopes? We labour for that
+which is uncertain, and distant, and beleeved, and hoped for with many
+allaies, and seen with diminution, and a troubled ray; and what excuse can
+there be that we do not labour for that which is told us by God, and preach'd
+by his holy Son, and confirmed by miracles, and which Christ himself dyed to
+purchase, and millions of Martyrs dyed to witnesse, and which we see good men,
+and wise beleeve with an assent stronger then their evidence, and which they
+do beleeve because they do love, and love because D they do beleeve? There is
+nothing to be said; but that faith which did enlighten the blind, and cleanse
+the Lepers, and wash'd the soul of the Aethiopian; that faith that cures the
+sick, and strengthens the Paralytick, and baptizes the Catechumens, and
+justifies the faithfull, and repairs the penitent, and confirms the just, and
+crowns the Martyrs; that faith if it be true and pro­per, Christian and alive,
+active and effective in us, is sufficient to appease the storm of our
+passions, and to instruct all our ignorances, and to make us wise unto
+salvation; it will, if we let it do its first in­tention, chastise our errors,
+and discover our follies, it will make E us ashamed of trifling interests, and
+violent prosecutions, of false principles, and the evill disguises of the
+world; and then our na­ture will return to the innocence and excellency in
+which God first estated it; that is, our flesh will be a servant of the soul,
+and the soul a servant to the spirit; and then, because faith makes hea­ven
+[[Page 144]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=76) to be
+the end of our desires, and God the object of our love and worshippings, and
+the Scripture the rule of our actions, and Christ A our Lord and Master, and
+the holy Spirit our mighty assistance and our Counsellour, all the little
+uglinesses of the world, and the follies of the flesh will be uneasie, and
+unsavory, unreasonable, and a load; and then that grace, the grace of faith,
+that layes hold upon the holy Trini­ty, although it cannot understand it, and
+beholds heaven before it can possesse it, shall also correct our weaknesses,
+and master all our aver­sations; and though we cannot in this world be perfect
+masters, and triumphant persons, yet we be conquerors and more; that is,
+conquerors of the direct hostility, & sure of a crown to be revealed in its
+due time.
+
+2\. The second great remedy of our evill Nature and of the loads B of the
+flesh, is devotion, or a state of prayer, and entercourse with God. For the
+gift of the Spirit of God, which is the great antidote of our evill natures,
+is properly and expresly promised to prayer; If you who are evill give good
+things to your children that aske you, how much Luk. 11. 13. more shall your
+Father from heaven give his holy Spirit to them that Mat. 7. 11. aske it? That
+which in S. Luke is called  [...], the holy Spirit, is called in St. Matthew,
+[...], good things; that is, the holy Spirit is all that good that we shall
+need towards our pardon, and our sanctification, and our glory, and this is
+promised to Prayer; to this purpose Christ taught us the Lords Prayer, by
+which we C are sufficiently instructed in obtaining this Magazine of holy and
+usefull things. But Prayer is but one part of devotion; and though of
+admirable efficacy towards the obtaining this excellent promise, yet it is to
+be assisted by the other parts of devotion, to make it a perfect remedy to our
+great evill. He that would secure his evill Nature, must be a devout person,
+and he that is devout, besides, that he prayes frequently, he delights in it
+as it is a conversation with God▪ he rejoyces in God, and esteems him the
+light of his eyes, and the support of his confidence, the object of his love,
+and the D desires of his heart; the man is uneasie but when he does God
+ser­vice; and his soul is at peace and rest when he does what may be accepted:
+and this is that which the Apostle counsels, and gives in precept; Rejoyce in
+the Lord alwaies, and again I say rejoyce; that Phil. 4. 4. is, as the Levites
+were appointed to rejoyce, because God was their portion in tithes and
+offerings, so now that in the spirituall sense God is our portion, we should
+rejoyce in him, and make him our in­heritance, and his service our imployment,
+and the peace of con­science to be our rest, and then it is impossible we
+should be any longer slaves to sin, and afflicted by the baser imployments of
+the E flesh, or carry burdens for the Devill; and therefore the Scho­liast
+upon Juvenal observed well, Nullum malum gaudium est, Notrue joy can be evill;
+and therefore it was improperly said of Virgil, Mala gaudia mentis, calling
+lust and wilde desires, the evill joyes of the minde; Gaudium enim nisi
+sapienti non contingere, said [[Page
+145]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=76) Seneca, none
+but a wise and a good man can truly rejoyce; The evill laugh loud, and sigh
+deeply, they drink drunk, and forget their sor­rowes, A and all the joyes of
+an evill man is only arts of forgetfulnesse, devices to cover their sorrow,
+and make them not see their death, and its affrighting circumstances; but the
+heart never can rejoyce, and be secure, be pleased and be at rest, but when it
+dwels with ho­linesse: the joyes that come from thence are safe and great,
+un­changeable and unabated, healthfull and holy; and this is true joy: and
+this is that which can cure all the little images of pleasure, and temptation
+which debauch our nature, and make it dwell with hospitals, in the region of
+diseases and evill sorrowes. St. Gre­gory B well observed the difference:
+‘saying, that Corporall pleasures when we have them not, inkindle a flame and
+a burning desire in the heart, and make a man very miserable, before he tasts
+them; the appetite to them is like thirst and the desires of a feaver, the
+pleasure of drinking will not pay for the pain of the desire; and when they
+are enjoyed, they instantly breed satiety and a loathing. But spirituall
+rejoycings, and delights are loathed by them that have them not, and despised
+by them that never felt them; but when they are once tasted they increase the
+appetite and swell it to bigger capacities; and the more they are eaten, the
+more they are desired, and cannot become a wearinesse because they satisfie C
+all the way, and only increase the desire, because themselves grow bigger and
+more amiable.’ And therefore when this new and stranger appetite, and
+consequent joy arises in the heart of man, it so fils all the faculties, that
+there is no gust, no desire left for toads and vipers, for hemlock and the
+deadly night-shade.
+
+Sirenas, hilarem navigantium poenam,
+
+Blandás (que) mortes, gandiúm (que) crudele,
+
+Quas nemo quondam deserebat auditas, D
+
+Prudens Ulysses dicitur reliquisse.
+
+Then a man can hear the musick of songs and dances, and think them to be
+heathenish noises; and if he be engaged in the society of a woman singer, he
+can be as unconcerned as a marble statue; he can be at a feast and not be
+defil'd, he can passe through theatres as though a street; then he can look on
+money as his servant, nec distant aera lupinis, he can use it as the Greeks
+did their sharp coins, to cast accounts withall, and not from thence take the
+ac­counts of his wealth or his felicity. If you can once obtain but E to
+delight in prayer, and to long for the day of a Communion, and to be pleased
+with holy meditation, and to desire Gods grace with great passion, and an
+appetite keen as a Wolf upon the cold plains of the North; If you can delight
+in Gods love, and consider concerning his providence, and busie your selves in
+the [[Page 146]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=77)
+pursuit of the affairs of his Kingdome, then you have the grace A of devotion,
+and your evill nature shall be cured.
+
+3\. Because this great cure is to be wrought by the Spirit of God, which is a
+new nature in us, we must endevour to abstain from those things which by a
+speciall malignity are directly opposite to the spirit of reason, and the
+spirit of grace; and those are drunken­nesse and lust. He that is full of wine
+cannot be full of the spirit of God; St. Paul noteth the hostility. Be not
+drunk with wine, Ephes. 5. 18. but be filled with the Spirit; a man that is a
+drunkard does perire cito, he perishes quickly, his temptations that come to
+him make but short work with him; a drunkard is  [...]; our English well
+expresses it, it is a sottishnesse, and the man is  [...], B an uselesse,
+senselesse person,  [...]; of all the evils of the world nothing is worse to a
+mans self, nothing is more harmfull then this;  [...], said Crobylus, it
+deprives a wise man of his counsell and his understanding: now, because it is
+the greatest good that nature hath, that which takes it away must needs be our
+greatest enemy. Nature is weak enough of it self, but drunkennesse takes from
+it all the little strengths that are left to it, and destroyes the spirit; and
+the man can neither have the strengths▪ of nature, nor the strengths of grace;
+and how C then can the man do wisely or vertuously? Spiritus sanctus amat
+sicca corda, the Spirit of Godloves dry hearts, said the Christian Pro­verb;
+and Josephus said of Samson, [...], it appears he was a Prophet, or a man full
+of the Spirit, by the temperance of his diet; and now that all the people are
+holy unto the Lord, they must  [...], as Plutarch said of their consecrated
+persons; they must have dry and sober purities: for by this means their reason
+is usefull, and their passions not violent, and their discourse united, and
+the precious things of their me­mory D at hand, and they can pray, and read,
+and they can meditate and practise, and then they can learn where their
+naturall weak­nesses are most urgent, and how they can be tempted, and can
+se­cure their aides accordingly; but how is it possible that such a man should
+cure all the evils of his Nature, and repair the breaches of Adams sin, and
+stop all the effect which is upon him from all the evils of the world, if he
+delights in seas of drink, and is pleased with the follies of distemper'd
+persons, and laughs loud at the chil­dish humours and weak discourses of the
+man that can do nothing but that for which Dionysius slew Antiphon, and
+Timagenes did fall E from Caesars friendship; that is, play the fool and abuse
+his friend; He cannot give good counsell or spend an hour in wise sayings; but
+half a day they can talk ut foret unde corona cachinnum tollere possit, to
+make the crowd laugh and consider not.
+
+And the same is the case of lust; because it is exactly contrary [[Page
+147]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=78) to Christ the
+King of Virgins, and his holy Spirit, who is the A Prince of purities and holy
+thoughts; it is a captivity of the rea­son, and an inraging of the passions,
+it wakens every night, and rages every day, it desires passionately and
+prosecutes violently, it hinders businesse and distracts counsell, it brings
+jealousies and enkindles wars, it sins against the body, and weakens the soul,
+it defiles a Temple, and drives the holy Spirit forth, and it is so intire a
+prosecution of the follies and weaknesses of nature, such a snare and a bait
+to weak and easie fools, that it prevails in­finitely, and rages horribly, and
+rules tyrannically; it is a very feaver in the reason, and a calenture in the
+passions; and therefore B either it must be quenched, or it will be impossible
+to cure our evill natures: The curing of this is not the remedy of a single
+evill, but it is a doing violence to our whole nature; and therefore hath in
+it the greatest courage and an equall conduct, and supposes spi­rituall
+strengths great enough to contest against every enemy.
+
+4\. Hither is to be reduced, that we avoid all flatterers and evill company;
+for it was impossible that Alexander should be wise and cure his pride and his
+drunkennesse, so long as he entertain'd Age­sius and Agnon, Bagoas and
+Demetrius, and slew Parmenio and Philotas, and murder'd wise. Calisthenes; for
+he that loves to be C flattered, loves not to change his pleasure; but had
+rather to hear himself cal'd wise, then to be so. Flattery does bribe an evill
+nature, and corrupt a good one; and make it love to give wrong judge­ment, and
+evill sentences; he that loves to be flatter'd can never want some to abuse
+him, but he shall alwaies want one to counsell him, and then he can never be
+wise.
+
+5\. But I must put these advices into a heap; he therefore that will cure his
+evill nature, must set himself against his chiefest lust, which when he hath
+overcome, the lesser enemies will come in of themselves. He must endevour to
+reduce his affections to an in­differency; D for all violence is an enemy to
+reason and counsell, and is that state of disease for which he is to enquire
+remedies.
+
+8\. It is necessary that in all actions of choice he deliberate and consider,
+that he may never do that for which he must aske a par­don, and he must suffer
+shame and smart: and therefore Cato did well reprove Aulus Albinus for writing
+the Roman story in the Greek tongue, of which he had but imperfect knowledge;
+and him­self was put to make his Apologie for so doing; Cato told him that he
+was mightily in love with a fault, that he had rather beg a par­don then be
+innocent; Who forc'd him to need the pardon? And E when beforehand we know we
+must change from what we are or do worse, it is a better compendium not to
+enter in from whence we must uneasily retire.
+
+9\. In all the contingencies of chance and variety of action, re­member that
+thou art the maker of thy own fortune, and of thy [[Page
+148]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=79) own sin; charge
+not God with it either before or after; A The violence of thy own passion is
+no superinduced necessity from him, and the events of providence in all its
+strange varie­ty can give no authority or patronage to a foul forbidden
+acti­on, though the next chance of war or fortune be prosperous and rich. An
+Egyptian robber sleeping under a rotten wall was awa­ken'd by Serapis, and
+sent away from the ruine; but being quit from the danger, and seeing the wall
+to slide, thought that the Daemon lov'd his crime, because he had so strangely
+preserved him from a sudden and a violent death. But Serapis told him,  [...],
+I saved you from the wall to reserve B you for the wheel; from a short and a
+private death, to a painfull and disgracefull; and so it is very frequently in
+the event of humane af­fairs: men are saved from one death, and reserved for
+another; or are preserved here to be destroyed hereafter; and they that would
+judge of actions by events, must stay till all events are pas­sed; that is,
+till all their posterity be dead, and the sentence is given at Dooms-day; in
+the mean time, the evils of our na­ture are to be look'd upon without all
+accidentall appendages; as they are in themselves, as they have an
+irregularity and disorder, an unreasonablenesse and a sting; and be sure to
+relye up­on C nothing, but the truth of lawes and promises; and take severe
+accounts by those lines which God gave us on purpose to reprove our evill
+habits and filthy inclinations. Men that are not willing to be cured are glad
+of any thing to cousen them; but the body of death cannot be taken off from
+us, unlesse we be honest in our purposes and severe in our counsels, and take
+just measures, and glorifie God, and set our selves against our selves, that
+we may be changed into the likenesse of the sons of God.
+
+9\. Avoid all delay in the counsels of Religion. Because the aver­sation and
+perversnesse of a childes nature may be corrected easily; D but every day of
+indulgence and excuse increases the evill, and makes it still more naturall,
+and still more necessary.
+
+10\. Learn to despise the world; or, which is a better compendi­um in the
+duty, learn but truly to understand it; for it is a couse­nage all the way;
+the head of it is a rainbow, and the face of it is flattery; its words are
+charmes, and all its stories are false; its body is a shadow, and its hands to
+knit spiders webs; it is an image and a noise, with a Hyaena's lip and a
+Serpents tail; it was given to serve the needs of our nature, and in stead of
+doing it, it creates strange appetites, and nourishes thirsts and feavers; it
+brings care E and debauches our nature, and brings shame and death as the
+re­ward of all our cares. Our nature is a disease, and the world does nourish
+it; but if you leave to feed upon such unwholesome diet, your nature reverts
+to its first purities, and to the entertainments of the grace of God.
+
+[[Page 149]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=77) 4\. I am
+now to consider, how farre the infirmities of the flesh A can be innocent, and
+consist with the spirit of grace. For all these counsels are to be entertain'd
+into a willing spirit, and not only so, but into an active: and so long as the
+spirit is only willing, the weaknesse of the flesh will in many instances
+become stronger then the strengths of the spirit. For he that hath a good
+will, and does not do good actions which are required of him, is hindred, but
+not by God that requires them, and therefore by himself, or his worst enemy.
+But the measures of this question are these.
+
+1\. If the flesh hinders us of our duty, it is our enemy; and then our misery
+is not, that the flesh is weak, but that it is too strong; B But 2. when it
+abates the degrees of duty and stops its growth, or its passing on to action
+and effect, then it is weak, but not direct­ly, nor alwaies criminall. But to
+speak particularly.
+
+If our flesh hinders us of any thing that is a direct duty, and prevails upon
+the spirit to make it do an evill action, or contract an evill habit, the man
+is in a state of bondage and sin: his flesh is the mother of corruption, and
+an enemy to God. It is not enough to say, I desire to serve God, and cannot as
+I would: I would fain love God above all the things in the world, but the
+flesh hath appetites of its own that must be served: I pray to be forgiven as
+C I forgive others; but flesh and bloud cannot put up such an in­jury: for
+know that no infirmity, no unavoidable accident, no ne­cessity, no poverty, no
+businesse can hinder us from the love of God, or forgiving injuries, or being
+of a religious and a devout spirit; Poverty and the intrigues of the world are
+things that can no more hinder the spirit in these duties, then a strong enemy
+can hinder the sun to shine, or the clouds to drop rain. These things which
+God requires of us, and exacts from us with mighty penal­ties, these he hath
+made us able to perform; for he knows that we have no strength but what he
+gives us; and therefore as he binds D burdens upon our shoulders, so he gives
+us strength to bear them; and therefore he that sayes he cannot forgive, sayes
+only that his lust is stronger then his religion; his flesh prevails upon his
+spirit. For what necessity can a man have to curse him whom he cals ene­my? or
+to sue him, or kill him, or do him any spite? A man may serve all his needs of
+nature, though he does nothing of all this; and if he be willing, what hinders
+him to love, to pardon to wish well, to desire? The willing is the doing in
+this case; and he that sayes he is willing to do his duty, but he cannot, does
+not under­stand what he sayes. For all the duty of the inner man consists E in
+the actions of the will, and there they are seated, and to it all the
+inferiour faculties obey in those things which are direct emanations, and
+effects of will. He that desires to love God, does love him; indeed men are
+often cousened with pretences, and in some good mood are warm'd with a holy
+passion, but it signifies no­thing; [[Page
+150]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=78) because they
+will not quit the love of Gods enemies; and therefore they do not desire, what
+they say they doe: but if the will A and heart be right, and not false and
+dissembling, this duty is, or will be done infallibly.
+
+2\. If the spirit and the heart be willing, it will passe on to out­ward
+actions in all things where it ought, or can. He that hath a charitable soul
+will have a charitable hand; and will give his money to the poor, as he hath
+given his heart to God: For these things which are in our hand are under the
+power of our will, and there­fore are to be commanded by it. He that sayes to
+the naked, be warm and cloathed, and gives him not the garment that lies by
+him, or money to buy one, mocks God, and the poor, and himself. Nequam B illud
+verb [...]m est, bene vult, nisi qui bene facit, said the Comedy; It
+Trinummus. is an evill saying, he wishes well, unlesse he do well.
+
+3\. Those things which are not in our power, that is, such things in which the
+flesh is inculpably weak, or naturally, or politically dis­abled, the will
+does the work of the outward and of the inward man; we cannot cloath Christs
+body, he needs it not; and we cannot approach so sacred and separate a
+presence; but if we desire to do it, it is accounted as if we had. The
+ignorant man cannot discourse wisely and promote the interest of souls, but he
+can love souls, and desire their felicity; though I cannot build Hospitals and
+C Colledges, or pour great summes of money into the lap of the poor, yet if I
+incourage others and exhort them, if I commend and pro­mote the work, I have
+done the work of a holy Religion. For in these and the like cases, the outward
+work is not alwaies set in our power; and therefore without our fault is
+omitted, and can be sup­plyed by that which is in our power.
+
+4\. For that is the last caution, concerning this question. No man is to be
+esteemed of a willing spirit, but he that endevours to doe the outward work,
+or to make all the supplies that he can; not only D by the forwardnesse of his
+spirit, but by the compensation of some other charities, or devotion, or
+religion. Silver and gold have I none, and therefore I can give you none: But
+I wish you well; How will that appear? why thus, Such as I have I will give
+you: Rise up and walk. I cannot give you gold, but I can give you coun­sell; I
+cannot relieve your need, but I can relieve your sadnesse; I cannot cure you,
+but I can comfort you; I cannot take away your poverty, but I can ease your
+spirit; and God accepts us (saith the Apostle) according to what a man hath,
+and not according to what he hath not. Only as our desires are great, and our
+spirits are willing, E so we shall finde wayes to make supply of our want of
+ability and expressed liberality.
+
+Et labor ingenium misero dedit, & sua quem (que)
+
+Advigilare sibi jussit fortuna premendo.
+
+[[Page 151]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=79) What the
+poor mans need will make him do, that also the good A mans charity will; it
+will finde out wayes and artifices of relief, in kinde, or in value; in
+comfort, or in prayers; in doing it himself, or procuring others:
+
+[...].
+
+The necessity of our fortune, and the willingnesse of our spirits will do all
+this; all that it can, and something that it cannot; You have relieved the
+Saints (saith St. Paul) according to your power, yea and beyond your power;
+Only let us be carefull in all instances, that we yeeld not to the weaknesse
+of the flesh, nor listen to its fair pretences; B for the flesh can do more
+then it sayes, we can do more then we think we can; and if we doe some
+violence to the flesh, to our affairs, and to the circumstances of our
+fortune, for the interest of our spirit, we shall make our flesh usefull, and
+the spirit strong, the flesh and its weaknesse shall no more be an objection,
+but shall comply, and co-operate, and serve all the necessities of the spirit.
+
+[[Page 152]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=80)
+
+## 12\. Sermon, XII. Of Lukewarmnesse, and Zeal: OR SPIRITVALL TERROVR. Part
+I.
+
+Jer. 48. 10. vers. first part. C part.‘Cursed be he that doth the work of the
+Lord deceitfully.’
+
+CHrists Kingdome being in order to the Kingdome of his Father, which shall be
+manifest at the day of Judgement, must therefore be spirituall, because then
+it is, that all things must become spirituall, not only by way of eminency,
+but by intire constitution and perfect change of natures. D Men shall be like
+Angels, and Angels shall be comprehended in the lap of spirituall and eternall
+felicities; the soul shall not understand by materiall phantasmes, neither be
+ser­ved by the provisions of the body, but the body it self shall be­come
+spirituall, and the eye shall see intellectuall objects, and the mouth shall
+feed upon hymns and glorifications of God; the bel­ly shall be then satisfied
+by the fulnesse of righteousnesse, and the tongue shall speak nothing but
+praises, and the propositions of a celestiall wisdome; the motion shall be the
+swiftnesse of an An­gell; and it shall be cloathed with white as with a
+garment: Ho­linesse E is the Sun, and righteousnesse is the Moon in that
+region; our society shall be Quires of singers, and our conversation won­der;
+contemplation shall be our food, and love shall be the wine of elect souls;
+and as to every naturall appetite there is now pro­portion'd an object,
+crasse, materiall, unsatisfying, and allayed [[Page
+153]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=80) with sorrow and
+uneasinesse: so there be new capacities and equall A objects, the desires
+shall be fruition, and the appetite shall not suppose want, but a faculty of
+delight, and an unmeasureable complacen­cy: the will and the understanding,
+love and wonder, joyes every day and the same forever; this shall be their
+state who shall be ac­counted worthy of the resurrection to this life; where
+the body shall be a partner, but no servant; where it shall have no work of
+its own, but it shall rejoyce with the soul; where the soul shall rule without
+resistance, or an enemy, and we shall be fitted to en­joy God who is the Lord
+and Father of spirits. In this world we see it is quite contrary: we long for
+perishing meat, and fill B our stomachs with corruption; we look after white
+and red, and the weaker beauties of the night; we are passionate after rings
+and seals, and inraged at the breaking of a Crystall; we delight in the
+society of fools and weak persons; we laugh at sin, and contrive mischiefs;
+and the body rebels against the soul, and carries the cause against all its
+just pretences; and our soul it self is above half of it earth, and stone in
+its affections, and distempers; our hearts are hard, and inflexible to the
+softer whispers of mercy and compassion, having no loves for any thing but
+strange flesh, and heaps of money, and popular noises, for misery and folly; C
+and therefore we are a huge way off from the Kingdome of God, whose
+excellencies, whose designs, whose ends, whose constitution is spirituall and
+holy, and separate, and sublime, and perfect. Now between these two states of
+naturall flesh, and heavenly spirit, that is, the powers of darknesse, and the
+regions of light, the mise­ries of man, and the perfections of God; the
+imperfection of na­ture where we stand by our creation, and supervening
+follies, and that state of felicities whither we are designed by the mercies
+of God, there is a middle state; the Kingdome of grace wrought for us by our
+Mediator, the man Christ Jesus, who came to perfect D the vertue of Religion,
+and the designs of God, and to reforme our Nature, and to make it possible for
+us to come to that spi­rituall state where all felicity does dwell. The
+Religion that Christ taught is a spirituall Religion, it designs (so far as
+this state can permit) to make us spirituall; that is, so as the spirit be the
+pre­vailing ingredient. God must now be worshipped in spirit, and not only so,
+but with a fervent spirit; and though God in all reli­gions did seise upon the
+spirit, and even under Moses Law did by the shadow of the ceremony, require
+the substantiall worship, by cutting off the flesh intended the circumcision
+of the heart; E yet because they were to minde the outward action, it took off
+much from the intention, and activity of the spirit; Man could not doe both
+busily: And then they fail'd also in the other part of a spirituall Religion;
+for the nature of a spirituall Religion is, that in it we serve God with our
+hearts and affections; and because [[Page
+154]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=81) while the
+spirit prevails, we do not to evill purposes of abatement A converse with
+flesh and bloud, this service is also fervent, intense, active, wise, and
+busie, according to the nature of things spirituall. Now because God alwayes
+perfectly intended it, yet because he lesse perfectly required it in the Law
+of Moses, I say they fell short in both.
+
+For, 1. They so rested in the outward action, that they thought themselves
+chast, if they were no adulterers, though their eyes were wanton as Kids, and
+their thoughts polluted as the springs of the wildernesse when a Panther and a
+Lionesse descend to drink and lust; and if they did not rob the Temple, they
+accoun­ted B it no sin if they murmur'd at the riches of Religion; and
+Josephus reproves Polybius for saying that Antiochus was punished for having a
+design of sacriledge; and therefore Tertullian sayes of them, they were nec
+plenae, nec adeò timendae disciplinae ad in­nocentiae veritatem; this was
+their righteousnesse which Christ said unlesse we will exceed, we shall not
+enter into the Kingdome of heaven, where all spirituall perfections are in
+state and excel­lency.
+
+2\. The other part of a spirituall worship is a fervour and a ho­ly zeal of
+Gods glory, greatnesse of desire, and quicknesse of acti­on: C of all this the
+Jewes were not carefull at all, excepting the zealots amongst them, and they
+were not only fervent but in­flamed; and they had the earnestnesse of passion
+for the holy warmth of Religion; and in stead of an earnest charity they had a
+cruell discipline, and for fraternall correction they did destroy a sinning
+Israelite: and by both these evill states of Re­ligion they did the work of
+the Lord deceitfully; they either gave him the action without the heart, or
+zeal without charity, or re­ligion without zeal, or ceremony without religion,
+or indifferen­cy without desires; and then God is served by the outward man D
+and not the inward; or by part of the inward and not all; by the understanding
+and not by the will; or by the will when the affections are cold and the body
+unapt, and the lower faculties in rebellion, and the superior in disorder, and
+the work of God is left imperfect, and our persons ungracious, and our ends
+unacquired, and the state of a spirituall kingdome not at all set forward
+towards any hope or possibility of being obtained. All this Christ came to
+mend, and by his Lawes did make provision that God should be served intirely,
+according as God alwaies designed, and according­ly required by his Prophets,
+and particularly in my Text, that his work be done sincerely, and our duty
+with great affection; and by E these two provisions, both the intension and
+the extension are se­cured; our duty shall be intire, and it shall be perfect,
+we shall be neither lame nor cold, without a limb, nor without naturall heat,
+and then the work of the Lord will prosper in our hands: but if we [[Page
+155]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=81) fail in either,
+we do the Lords work deceitfully, and then we are A accursed. For so saith the
+Spirit of God; Cursed be he that doth the work of the Lord deceitfully.
+
+1\. Here then is the duty of us all: 1. God requires of us to serve him with
+an integrall, intire, or a whole worship and religion. 2. God requires of us
+to serve him with earnest and intense affections; The intire purpose of both
+which, I shall represent in its severall parts by so many propositions. 3. I
+shall consider concerning the mea­sures of zeal, and its inordinations.
+
+1\. He that serves God with the body without the soul, serves God deceitfully.
+My son give me thy heart; and though I cannot think B that Nature was so
+sacramentall, as to point out the holy and myste­rious Trinity by the triangle
+of the heart, yet it is certain that the heart of man is Gods speciall
+portion, and every angle ought to point out towards him directly; that is, the
+soul of man ought to be presented to God, and given to him as an oblation to
+the interest of his service.
+
+1\. For, to worship God with our souls confesses one of his glori­ous 1.
+attributes; it declares him to be the searcher of hearts, and that he reads
+the secret purposes, and beholds the smallest arrests of fancy, and bends in
+all the flexures and intriques of crafty peo­ple, C and searches out every
+plot and trifling conspiracy against him, and against our selves, and against
+our brethren.
+
+2\. It advances the powers and concernments of his providence, and 2.
+confesses all the affairs of men, all their cabinets and their nightly
+coun­sels, their snares and two-edged mischiefs to be over-rul'd by him; for
+what he sees he judges, and what he judges he rules, and what he rules must
+turn to his glory; and of this glory he reflects rayes and in­fluences upon
+his servants, and it shall also turn to their good.
+
+3\. This service distinguishes our duty towards God from all our 3.
+conversation with man, and separates the divine commandements D from the
+imperfect decrees of Princes and Republiques; for these are satisfied by the
+outward work, and cannot take any other cognisance of the heart, and the will
+of man, but as himself is plea­sed to signifie. He that wishes the fiscus
+empty, and that all the revenues of the Crown were in his counting-house,
+cannot be puni­shed by the Lawes, unlesse himself become his own traytor and
+ac­cuser; and therefore what man cannot discern, he must not judge, and must
+not require? but God sees it and judges it, and requires it, and therefore
+reserves this as his own portion and the chiefest feudall right of his Crown.
+E
+
+4\. He that secures the heart, secures all the rest; because this is the 4.
+principle of all the moral actions of the whole man, & the hand obeys this,
+and the feet walk by its prescriptions; we eat and drink by mea­sures wch the
+soul desires and limits; and though the naturall actions of man are not
+subject to choice & rule, yet the animal actions are un­der [[Page
+156]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=82) discipline; and
+although it cannot be helped but we shall de­sire, yet our desires can receive
+measures, and the lawes of circum­stances, A and be reduced to order, and
+nature be changed into grace, and the actions animall (such as are, eating,
+drinking, laughing, weeping, &c.) shall become actions of Religion; and those
+that are simply naturall (such as, being hungry and thirsty) shall be adopted
+into the retinue of religion, and become religious by be­ing order'd, or
+chastis'd, or suffered, or directed; and there­fore God requires the heart,
+because he requires all; and all cannot be secured without the principle be
+inclosed. But he that seals up a fountain, may drink up all the waters alone,
+and may B best appoint the channels where it shall run, and what grounds it
+shall refresh.
+
+5\. That I may summe up many reasons in one; God by requi­ring 5. the heart
+secures the perpetuity and perseverance of our duty, and its sincerity, and
+its integrity, and its perfection: for so also God takes account of little
+things; it being all one in the heart of man, whether maliciously it omits a
+duty in a small instance or in a great; for al­though the expression hath
+variety and degrees in it in relation to those purposes of usefulnesse and
+charity whither God designs it, yet the obedience and disobedience is all one,
+and shall be equally C accounted for; and therefore the Jew Tryphon disputed
+against Ju­stin, that the precepts of the Gospell were impossible to be kept,
+because it also requiring the heart of man did stop every egression of
+disorders: for making the root holy and healthfull, as the Bal­same of Judaea,
+or the drops of Manna in the evening of the sab­bath; it also causes that
+nothing spring thence but gummes fit for incense, and oblations for the Altar
+of proposition, and a cloud of perfume fit to make atonement for our sins, and
+being united to the great sacrifice of the world to reconcile God and man
+together. Upon these reasons you see it is highly fit that God should require
+D it, and that we should pay the sacrifice of our hearts; and not at all think
+that God is satisfied with the work of the hands, when the affections of the
+heart are absent. He that prayes because he would be quiet, and would fain be
+quit of it, and communicates for fear of the lawes, and comes to Church to
+avoid shame, and gives almes to be eased of an importunate begger, or relieves
+his old parents because they will not dye in their time, and provides for his
+children lest he be compled by Lawes and shame, but yet com­plains of the
+charge of Gods blessings, this man is a servant of the eyes of men, and offers
+parchment or a white skin in sacrifice, but the flesh and the inwards he
+leaves to be consumed by a stranger E fire. And therefore this is a deceit
+that robs God of the best, and leaves that for religion which men pare off: It
+is sacriledge, and brings a double curse.
+
+2\. He that serves God with the soule without the body, when both [[Page
+157]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=82) can be
+conjoyned, doth the work of the Lord deceitfully. Paphnutius, whose knees were
+cut for the testimony of Jesus, was not obliged A to worship with the humble
+flexures of the bending penitents: and blinde Bartimeus could not read the
+holy lines of the Law, and therefore that part of the work was not his duty;
+and God shall not call Lazarus to account for not giving almes, nor St. Peter
+and St. John for not giving silver and gold to the lame man, nor Epa­phroditus
+for not keeping his fasting dayes when he had his sicknesse. But when God hath
+made the body an apt minister to the soul, and hath given money for almes, and
+power to protect the oppres­sed, and knees to serve in prayer and hands to
+serve our needs, then B the soul alone is not to work; but as Rachel gave her
+maid to Ja­cob and she bore children to her Lord upon her Ministresse knees,
+and the children were reckoned to them both, because the one had fruit­full
+desires and the other a fruitfull wombe: so must the body serve the needs of
+the spirit; that what the one desires the other may effect, and the
+conceptions of the soul may be the productions of the body; and the body must
+bow when the soul worships, and the hand must help when the soul pities, and
+both together do the work of a holy Religion; the body alone can never serve
+God without the conjunction and preceding act of the soul; and some­times C
+the soul without the body is imperfect and vain; for in some actions there is
+a body and a spirit, a materiall and a spirituall part; and when the action
+hath the same constitution that a man hath, with­out the act of both it is as
+imperfect as a dead man; the soul can­not produce the body of some actions any
+more then the body can put life into it; and therefore an ineffective pity and
+a lazie counsell, an empty blessing, and gay words, are but deceitfull
+charity.
+
+Quod peto, da, Caï, non peto consilium. D
+
+He that gave his friend counsell to study the Law, when he desired to borrow
+20 l. was not so friendly in this counsell as he was uselesse in his charity;
+spirituall acts can cure a spirituall malady, but if my bo­dy needs relief,
+because you cannot feed me with Diagrams, or cloath me with Euclids elements,
+you must minister a reall supply by a cor­porall charity to my corporall
+necessity. This proposition is not on­ly usefull in the doctrine of charity,
+and the vertue of religion, but in the professions of faith, and requires that
+it be publick, open, and ingenuous. In matters of necessary duty it is not
+sufficient to have it to our selves, but we must also have it to God, and all
+the E world; and as in the heart we beleeve, so by the mouth we confesse unto
+salvation: he is an ill man that is only a Christian in his heart, and is not
+so in his professions and publications; and as your heart must not be wanting
+in any good profession and pretences, so nei­ther must publick profession be
+wanting in every good and necessa­ry [[Page
+158]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=83) perswasion. The
+faith and the cause of God must be owned A publiquely; for if it be the cause
+of God, it will never bring us to shame. I do not say, what ever we think, we
+must tell it to all the world, much lesse at all times, and in all
+circumstances; but we must never deny that which we beleeve to be the cause of
+God in such circumstances in which we can and ought to glorifie him. But this
+extends also to other instances. He that swears a false oath with his lips,
+and unswears it with his heart, hath deceived one more then he thinks for;
+himself is the most abused person: and when my action is contrary to men they
+will reprove me, but when it is against my own perswasion, I cannot but
+reprove my self; and am witnesse, and accuser, and party, and guilty, and then
+God is B the Judge, and his anger will be a fierce executioner, because we do
+the Lords work deceitfully.
+
+3\. They are deceitfull in the Lords work that reserve one facul­ty 3. for
+sin, or one sin for themselves, or one action to please their appetite, and
+many for Religion. Rabbi Kimchi taught his Scholars, Cogitationem pravam Deus
+non habet vice facti, nisi concepta fuerit in Dei fidem & Religionem; that God
+is never angry with an evill thought, unlesse it be a thought of Apostasie
+from the Jewes religion; and therefore, provided that men be severe and close
+in C their sect and party, they might roll in lustfull thoughts; and the
+torches they light up in the Temple might smoke with anger at one end, and
+lust at the other, so they did not flame out in egres­sions of violence and
+injustice, in adulteries and fouler complicati­ons: nay they would give leave
+to some degrees of evill actions; for R. Moses and Selomoh taught, that if the
+most part of a mans actions were holy and just, though in one he sinned often,
+yet the greater ingredient should prevail, and the number of good works should
+out­weigh the lesser account of evill things; and this Pharisaicall
+righ­teousnesse is too frequent even amongst Christians. For who almost is
+there that does not count fairly concerning himself, if he reckons D many
+vertues upon the stock of his Religion, and but one vice up­on the stock of
+his infirmity; half a dozen to God, and one for his company, or his friend;
+his education, or his appetite? and if he hath parted from his folly, yet he
+will remember the fleshpots, and please himself with a phantastick sin, and
+call it home through the gates of his memory, and place it at the door of
+fancy, that there he may behold it and consider concerning what he hath parted
+withall, out of the fears and terrors of religion, and a necessary unavoidable
+conscience. Do not many men go from sin to sin E even in their repentance?
+they go backward from sin to sin, and change their crime as a man changes his
+uneasie load, and shakes it off from one shoulder to support it with the
+other. How ma­ny severe persons, virgins and widows are so pleased with their
+chastity, and their abstinence even from lawfull mixtures, that by [[Page
+159]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=83) this means they
+fall into a worse pride? insomuch that I remember A St. Austin said, Audeo
+dicere superbis continentibus expedit cadere, they that are chaste and proud,
+it is sometimes a remedy for them to fall into sin, and by the shame of lust
+to cure the devill of pride, and by the sin of the body to cure the worser
+evils of the spirit; and therefore he addes, that he did beleeve, God in a
+severe mer­cy did permit the barbarous nations, breaking in upon the Roman
+Empire, to violate many virgins professed in Cloisters and religious Families
+to be as a mortification of their pride, lest the accidentall advantages of a
+continent life should bring them into the certain miseries of a spirituall
+death, by taking away their humility, which B was more necessary then their
+virgin state; It is not a cure that men may use, but God permits it sometimes
+with greater safety through his wise conduct and over-ruling providence; St.
+Peter was safer by his fall (as it fell out in the event of things) then by
+his former confidence. Man must never cure a sin by a sin; but he that brings
+good out of our evill, he can when he please. But I speak it, to represent how
+deceitfully many times we do the work of the Lord. We reprove a sinning
+Brother, but do it with a pom­pous spirit; we separate from scandall, and do
+it with glory, and a gaudy heart; we are charitable to the poor, but will not
+forgive C our unkinde enemies; or we powre relief into their bags, but we
+please our selves and drink drunk, and hope to commute with God, giving the
+fruit of our labours or effluxes of money for the sin of our souls: And upon
+this account it is that two of the noblest graces of a Christian are to very
+many persons made a sa­vour of death, though they were intended for the
+beginning and the promotion of an eternal life; and those are faith and
+charity; some men think if they have faith, it is enough to answer all the
+accu­sations of sin which our consciences or the Devils make against us: If I
+be a wanton person, yet my faith shall hide it, and faith D shall cover the
+follies of drunkennesse, and I may all my life relye up­on faith, at last to
+quit my scores. For he that is most carefull is not innocent, but must be
+saved by faith, and he that is least carefull may have faith, and that will
+save him. But because these men mistake concerning faith, and consider not
+that charity or a good life is a part of that faith that saves us, they hope
+to be saved by the Word, they fill their bellies with the story of
+Frimal­cions banquet, and drink drunk with the newes of wine, they eat
+shadows, and when they are drowning, catch at the image of the trees which
+hang over the water, and are reflected from the bot­tome. E
+
+But thus many men do with charity, [Give almes and all things shall be clean
+unto you, said our Blessed Saviour:] and therefore, ma­ny keep a sin alive,
+and make account to pay for it, and God shall be put to relieve his own poor
+at the price of the sin of another of [[Page
+160]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=84) his servants;
+charity shall take lust or intemperance into protecti­on, A and men will not
+be kinde to their brethren, unlesse they will be also at the same time unkinde
+to God. I have understood concerning divers vicious persons, that none have
+been so free in their donatives and offerings to Religion and the Priest as
+they: and the Hospitals that have been built, and the High-wayes mended at the
+price of souls, are too many for Christendome to boast of in be­half of
+charity. But as others mistake concerning faith, so these do concerning its
+twin sister. The first had faith without charity, and these have charity
+without hope; for every one that hath this hope, that is, the hope of
+receiving the glorious things of God promised in the Gospell, purifies himself
+even as God is pure B; faith and charity too, must both suppose repentance;
+and repen­tance is the abolition of the whole body of sin, the purification of
+the whole man. But the summe of the Doctrine and case of conscience in this
+particular is this.
+
+1\. Charity is a certain cure of sins that are past, not that are pre­sent. He
+that repents and leaves his sin, and then relieves the poor and payes for his
+folly by a diminution of his own estate, and the supplies of the poor, and his
+ministring to Christs poor members, turns all his former crimes into
+holinesse; he purges the slains and makes amends for his folly, and commutes
+for the C baser pleasure with a more noble usage: so said Daniel to
+Nebu­chadnezzar [Break off thy sins by righteousnesse, and thine iniquities
+Dan. 4. 27. by shewing mercy to the poor:] first be just, and then be
+charitable; for it is pity almes, which is one of the noblest services of God,
+and the greatest mercy to thy Brother, should be spent upon sin, and thrown
+away upon folly.
+
+2\. Faith is the remedy of all our evils, but then it is never of force, but
+when we either have endevoured or undertaken to do all good; this in baptisme,
+that after: faith and repentance at first D; and faith and charity at last;
+and because we fail often by infir­mity, and sometimes by inadvertency,
+sometimes by a surprize, and often by omission; and all this even in the midst
+of a sincere en­devour to live justly, and perfectly; therefore the passion of
+our Lord payes for thus, and faith layes hold upon that. But without a hearty
+and sincere intent, and vigorous prosecution of all the parts of our duty,
+faith is but a word, not so much as a cover to a naked bosome, nor a pretence
+big enough to deceive persons that are not willing to be cousened.
+
+3\. The bigger ingredient of vertue and evill actions will prevail E, but it
+is only when vertue is habituall, and sins are single, interrupted, casuall
+and seldome▪ without choice and without affection; that is, when our
+repentance is so timely that it can work for God, more then we served under
+the tyranny of sin; so that if you will account the whole life of man, the
+rule is good, and the greater ingredient [[Page
+161]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=84) shal prevail,
+and he shall certainly be pardoned and accepted whose life is so reformed,
+whose repentance is so active, whose return is so early, A that he hath given
+bigger portions to God then to Gods enemy. But if we account so, as to divide
+the measures in present possession, the big­ger part cannot prevail; a small
+or a seldome sin spoils not the sea of piety; but when the affection is
+divided, a little ill destroyes the whole body of good; the cup in a mans
+right hand must be  [...], it must be pure although it be mingled; that is,
+the whole affecti­on must be for God, that must be pure and unmingled; if sin
+min­gles in seldome and unapproved instances, the drops of water are swallowed
+up with a whole vintage of piety, and the bigger ingre­dient B is the
+prevailing; in all other cases it is not so: for one sin that we choose and
+love and delight in, will not be excused by 20 vertues: and as one broken link
+dissolves the union of the whole chain, and one jarring and untuned string
+spoils the whole musick; so is every sin that seises upon a portion of our
+affections; if we love one, that one destroyes the acceptation of all the
+rest; And as it is in faith, so it is in charity. He that is a Heretick in one
+article, hath no saving faith in the whole; and so does every vicious habit,
+or unreformed sin destroy the excellency of the grace of charity; a wilfull
+error in one article is Heresie, and every vice in one instance is Malice, and
+they are perfectly contrary, and a direct darknesse to C the two eyes of the
+soul, faith and charity.
+
+4\. There is one deceit more yet, in the matter of the extension of our duty,
+destroying the integrity of its constitution: for they do the work of God
+deceitfully, who think God sufficiently served with abstinence from evill, and
+converse not in the acquisition and pursuit of holy charity and religion. This
+Clemens Alexandrinus affirmes of the Pharisees, they were  [...], they ho­ped
+to be justified by abstinence from things forbidden; but if we will be  [...]
+sons of the kingdome, we must  [...], D Besides this, and supposing a
+propor­tionable perfection in such an innocence, we must love our brother and
+do good to him, and glorifie God by a holy Religion, in the communion of
+Saints, in faith and Sacraments, in almes and coun­sell, in forgivenesses and
+assistances. Flee from evill, and do the thing that is good, and dwell for
+evermore, said the Spirit of God in the Psalmes: and St. Peter [Having escaped
+the corruption that is in the world through lust, give all diligence to adde
+to your faith vertue, to vertue patience, to patience godlinesse, and
+brotherly kind­nesse and charity. Many persons think themselves fairly
+assoiled, E because they are no adulterers, no rebels, no drunkards, not of
+scanda­lous lives; In the mean time like the Laodiceans, they are naked and
+poor; they have no catalogue of good things registred in heaven, no treasures
+in the repositories of the poor, neither have the poor often prayed concerning
+them, Lord remember thy servants for this [[Page
+162]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=85) thing at the
+day of Judgement. A negative Religion is in many A things the effects of lawes
+and the appendage of sexes, the product of education, the issues of company
+and of the publick, or the daughter of fear and naturall modesty, or their
+temper and con­stitution, and civill relations, common fame, or necessary
+interest. Few women swear and do the debaucheries of drunkards; and they are
+guarded from adulterous complications by spies and shame, by fear and
+jealousie, by the concernment of families, and the repu­tation of their
+kindred, and therefore they are to account with God beyond this civill and
+necessary innocence, for humility and patience, for religious fancies and
+tender consciences, for tending the sick and dressing the poor, for governing
+their house and nur­sing B their children; and so it is in every state of
+life. When a Prince or a Prelate, a noble and a rich person hath reckon'd all
+his im­munities and degrees of innocence from those evils that are inci­dent
+to inferiour persons, or the worser sort of their own order, they do the work
+of the Lord, and their own too, very deceitfully, unlesse they account
+correspondencies of piety to all their powers and possibilities: they are to
+reckon and consider concerning what oppressions they have relieved, what
+causes and what fatherlesse they have defended, how the work of God and of
+Religion, of ju­stice and charity hath thriv'd in their hands. If they have
+made C peace, and encouraged Religion by their example and by their lawes, by
+rewards and collaterall incouragements, if they have been zealous for God and
+for Religion, if they have imployed ten ta­lents to the improvement of Gods
+bank, then they have done Gods work faithfully; if they account otherwise, and
+account only by ciphers, and negatives, they can expect only the rewards of
+innocent slaves; they shall escape the furca and the wheel, the torments of
+lust­full persons, and the crown of flames, that is reserved for the
+am­bitious; or they shall not be gnawn with the vipers of the envious, or the
+shame of the ingratefull; but they can never upon this ac­count D hope for the
+crowns of Martyrs, or the honorary▪ rewards of Saints, the Coronets of
+virgins, and Chaplets of Doctors and Con­fessors: And though murderers and
+lustfull persons, the proud and the covetous, the Heretick and Schismatick are
+to expect flames and scorpions, pains and smart, (poenam sensus, the Schooles
+call it) yet the lazic and the imperfect, the harmlesse sleeper and the idle
+worker shall have poenam damni, the losse of all his hopes, and the dishonours
+of the losse; and in the summe of affairs it will be no great difference
+whether we have losse or pain, because there can E be no greater pain
+imaginable then to lose the sight of God to eternall ages.
+
+5\. Hither are to be reduced as deceitfull workers, those that pro­mise to
+God, but mean not to pay what they once intended; * peo­ple that are confident
+in the day of ease, and fail in the danger; [[Page
+163]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=85) * they that
+pray passionately for a grace, and if it be not obtained at that price go no
+further, and never contend in action for what A they seem to contend in
+prayer; * such as delight in forms and outsides, and regard not the substance
+and design of every insti­tution; * that think it a great sin to tast bread
+before the receiving the holy Sacrament, and yet come to communicate with an
+ambiti­ous and revengefull soul; * that make a conscience of eating flesh, but
+not of drunkennesse; * that keep old customes and old sins together; * that
+pretend one duty to excuse another; religion against charity, or piety to
+parents against duty to God, private promises against publick duty, the
+keeping of an oath against breaking of a B Commandement, honour against
+modesty, reputation against piety, the love of the world in civill instances
+to countenance enmity against God; these are the deceitfull workers of Gods
+work, they make a schisme in the duties of Religion, and a warre in heaven
+worse then that between Michael and the Dragon; for they divide the Spirit of
+God, and distinguish his commandements into parties and factions; by seeking
+an excuse, sometimes they destroy the in­tegrity and perfect constitution of
+duty, or they do something whereby the effect and usefulnesse of the duty is
+hindred: concer­ning all which this only can be said, they who serve God with
+a C lame sacrifice and an imperfect duty, a duty defective in its con­stituent
+parts, can never enjoy God; because he can never be di­vided: and though it be
+better to enter into heaven with one foot, and one eye, then that both should
+be cast into hell, because hea­ven can make recompence for this losse; yet
+nothing can repair his losse who for being lame in his duty shall enter into
+hell, where no­thing is perfect, but the measures and duration of torment, and
+they both are next to infinite.
+
+[[Page 164]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=86)
+
+## 13\. SERMON, XIII. Part II. B
+
+2\. THe next enquiry, is into the intention of our duty: and here it will not
+be amisse to change the word fraudulentèr; or dolosè, into that which some of
+the Latin Copies doe use, Maledictus qui facit opus Dei [negligentèr,] Cursed
+is he that doth the work of the Lord negligently, or remissely: and it
+implyes, that as our duty must be whole, so it must be fervent; for a
+languishing body may have all its parts, and yet be uselesse to many purposes
+of nature: and you may reckon all the joynts of a dead man, but the heart is
+cold, and the joynts are stiffe and fit for nothing but for the little people
+that creep in graves: and so are very many men; if you C summe up the accounts
+of their religion, they can reckon dayes and months of Religion, various
+offices, charity and prayers, reading and meditation, faith and knowledge,
+catechisme and sacraments, duty to God and duty to Princes, paying debts and
+provision for children, confessions and tears, discipline in families, and
+love of good people; and it may be, you shall not reprove their numbers, or
+find any lines unfill'd in their tables of accounts; but when you have handled
+all this and consider'd, you will find at last you have taken a dead man by
+the hand, there is not a finger wanting, but D they are stiffe as Isicles, and
+without flexure as the legs of Elephants; ‘such are they whom S. Bernard
+describes, whose spirituall joy is allayed with tediousnesse, whose
+compunction for sins is short and seldome, whose thoughts are animall, and
+their designes secular, whose Religion is lukewarm; their obedience is
+with­out devotion, their discourse without profit, their prayer without
+intention of heart, their reading without instruction, their medi­tation is
+without spirituall advantages, and is not the commence­ment and strengthning
+of holy purposes;’ and they are such whom modesty will not restrain, nor
+reason bridle, nor discipline correct, E nor the fear of death and hell can
+keep from yeelding to the imperi­ousnesse of a foolish lust that dishonors a
+mans understanding, and makes his reason, in which he most glories, to be
+weaker then the discourse of a girle, and the dreams of the night. In every
+action of Religion God expects such a warmth, and a holy fire to goe [[Page
+165]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=86) along, that it
+may be able to enkindle the wood upon the altar, and consume the sacrifice;
+but God hates an indifferent spirit. Earnest­nesse A and vivacity, quicknesse
+and delight, perfect choyce of the service, and a delight in the prosecution,
+is all that the spirit of a man can yeeld towards his Religion: the outward
+work is the effect of the body; but if a man does it heartily and with all his
+mind, then religion hath wings and moves upon wheels of fire; and therefore
+when our blessed Saviour made those capitulars and canons of Religion, to love
+God, and to love our neighbors; besides, that the materiall part of the duty
+[love] is founded in the spirit, as its naturall seat, he also gives three
+words to involve the spirit in the action, and but one for B the body: Thou
+shalt love the Lord thy God with all thine heart, and with all thy soule, and
+with all thy mind; and lastly, with all thy strength; this brings in the body
+too; because it hath some strengths, and some significations of its own; but
+heart and soule and mind mean all the same thing in a stronger and more
+earnest expression; that is, that we doe it hugely, as much as we can, with a
+cleer choice, with a resolute understanding, with strong af­fections, with
+great diligence: Enerves animos odisse virtus solet, Vertue ha [...]es weak
+and ineffective minds, and tame easie prosecuti­ons; Loripedes, people whose
+arme is all flesh, whose foot is all lea­ther, C and an unsupporting skin;
+they creep like snakes, and pursue the noblest mysteries of Religion, as
+Naaman did the mysteries of Rimmon, onely in a complement, or for secular
+regards; but with­out the mind, and therefore without Zeal; I would thou wert
+either hot or cold, said the Spirit of God to the Angell or Bishop of
+Lao­dicea. In feasts or sacrifices the Ancients did use apponere frigi­dam or
+calidam; sometimes they drank hot drink, sometimes they poured cold upon their
+graves, or in their wines, but no services of Tables or Altars were ever with
+lukewarm. God hates it worse then stark cold; which expression is the more
+considerable, be­cause D in naturall and superinduc'd progressions, from
+extreme to ex­treme, we must necessarily passe through the midst; and
+therefore it is certain, a lukewarm Religion is better then none at all, as
+be­ing the doing some parts of the work designed, and neerer to per­fection
+then the utmost distance could be; and yet that God hates it more, must mean
+that there is some appendant evill in this state which is not in the other,
+and that accidentally it is much worse: and so it is, if we rightly understand
+it; that is, if we consider it, not as a being in, or passing through the
+middle way, but as a state and a period of Religion. If it be in motion, a
+lukewarm Religion is E pleasing to God; for God hates it not for its
+imperfection, and its naturall measures of proceeding; but if it stands still
+and rests there, it is a state against the designes, and against the
+perfection of God, and it hath in it these evills.
+
+[[Page 166]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=87) 1\. It
+is a state of the greatest imprudence in the world; for it A makes a man to
+spend his labour for that which profits not, and to deny his appetite for an
+unsatisfying interest; he puts his moneys in a napkin; and he that does so,
+puts them into a broken bag; he loses the principall for not encreasing the
+interest. He that dwells in a state of life that is unacceptable, loses the
+money of his almes, and the rewards of his charity, his hours of prayer, and
+his parts of justice; he confesses his sins and is not pardoned, he is
+patient, but hath no hope, and he that is gone so far towards his countrey,
+and stands in the middle way, hath gone so far out of his way; he had better
+have stay'd under a dry roof, in the house of banishment, B then to have left
+his Gyarus, the Island of his sorrow, and to dwell upon the Adriatick: So is
+he that begins a state of Religion, and does not finish it; he abides in the
+high-way, and though he be neerer the place, yet is as far from the rest of
+his countrey as ever; and therefore all that beginning of labour was in the
+prejudice of his rest, but nothing to the advantages of his hopes. He that
+hath ne­ver begun, hath lost no labour; Jactura praeteritorum, the losse of
+all that he hath done, is the first evill of the negligent and luke­warm
+Christian; according to the saying of Solomon: He that is remisse or idle in
+his labour, is the brother of him that scattereth C Prov. 18. 9. his goods.
+
+2\. The second appendant evill is, that lukewarmnesse is the occasion of
+greater evill; because the remisse easie Christian shuts the gate against the
+heavenly breathings of Gods holy Spirit; he thinks every breath that is fan'd
+by the wings of the holy Dove, is not intended to encourage his fires, which
+burn, and smoke, and peep through the cloud already; it tempts him to
+security; and if an evill life be a certain inlet to a second death, despaire
+on one side, and security on the other are the bars and locks to that dore, he
+can never passe forth again while that state remains; who ever slips in his
+spirituall walking does not presently fall; but if that D slip does not awaken
+his diligence, and his caution, then his ruine begins, vel pravae
+institutionis deceptus exordio, aut per longam mentis incuriam, & virtute
+animi decidente, as St. Austin observes; either upon the pursuit of his first
+error, or by a carelesse spirit, or a decaying slackned resolution; all which
+are the direct effects of lukewarmnesse. But so have I seen a fair structure
+begun with art and care, and raised to halfe its stature, and then it stood
+still by the misfortune or negligence of the owner, and the rain de­scended,
+and dwelt in its joynts, and supplanted the contexture of E its pillars, and
+having stood a while like the antiquated Temple of a deceased Oracle, it fell
+into a hasty age, and sunk upon its owne knees, and so descended into ruine:
+So is the imperfect, unfinished spirit of a man; it layes the foundation of a
+holy resolution, and strengthens it with vows and arts of prosecution, it
+raises up the walls [[Page
+167]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=87) Sacraments, and
+Prayers, Reading, and holy Ordinances; and holy actions begin with a slow
+motion, and the building stays, and the A spirit is weary, and the soul is
+naked, and exposed to temptation, and in the days of storm take in every thing
+that can doe it mischief; and it is faint and sick, listlesse and tired, and
+it stands till its owne weight wearies the foundation, and then declines to
+death and sad disorder, being so much the worse, because it hath not onely
+re­turned to its first follies, but hath superadded unthankfulnesse and
+carelesnesse, a positive neglect, and a despite of holy things, a set­ting a
+low price to the things of God, lazinesse and wretchlesnesse; all which are
+evills superadded to the first state of coldnesse, whi­ther B he is with all
+these loads and circumstances of death easily revolv'd.
+
+3\. A state of lukewarmnesse is more incorrigible then a state of coldnesse;
+while men flatter themselves that their state is good, that they are rich and
+need nothing, that their lamps are dressed, and full of ornament. There are
+many that think they are in their countrey as soon as ever they are weary, and
+measure not the end of their hopes by the possession of them, but by their
+precedent labour, which they overvalue, because they have easie and
+effemi­nate souls. S. Bernard complains of some that say, Sufficit nobis, C
+nolumus esse meliores quàm Patres nostri: It is enough for us to be as our
+forefathers, who were honest and usefull in their generati­ons, but be not
+over-righteous: These men are such as think they have knowledge enough to need
+no teacher, devotion enough to need no new fires, perfection enough to need no
+new progresse, justice enough to need no repentance; and then because the
+spirit of a man and all the things of this world are in perpetuall variety and
+change, these men decline when they have gone their period; they stand still,
+and then revert; like a stone returning from the bosome of a cloud, where it
+rested as long as the thought of a childe, and fell to D its naturall bed of
+earth, and dwelt below for ever. He that says he will take care he be no
+worse, and that he desires to be no better, stops his journey into heaven, but
+cannot be secure against his descen­ding into hell: and Cassian spake a hard
+saying, Frequentèr vidi­mus de frigidis & carnalibus ad spiritualem venisse
+fervorem, de tepidis & animalibus omninò non vidimus: Many persons from
+vicious, and dead, and cold, have passed into life and an excellent grace, and
+a spirituall warmth, and holy fires; but from lukewarm and indifferent never
+any body came to an excellent condition, and state of holynesse: rarissimè S.
+Bernard sayes, very extremely sel­dome; E and our blessed Saviour said
+something of this, The Publi­cans and the Harlots goe before you into the
+Kingdome of heaven; they are moved by shame, and punished by disgrace, and
+remar­ked by punishments, and frighted by the circumstances and notices of all
+the world, and separated from sober persons by laws and an [[Page
+168]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=88) intolerable
+character; and the sense of honour, and the care of their A persons, and their
+love of civill societie, and every thing in the world can invite them towards
+vertues. But the man that is accoun­ted honest, and does justice, and some
+things of Religion, unlesse he finds himselfe but upon his way and feels his
+wants, and groans under the sense of his infirmities, and sighs under his
+imperfecti­ons, and accounts himself not to have comprehended, but still
+presses towards the mark of his calling, unlesse (I say) he still increases in
+his appetites of Religion as he does in his progression, he will think he
+needs no counsellor, and the spirit of God whispers to an ear that is already
+fill'd with noyses, and cannot atrend to the heavenly calling. The stomach
+that is already full, is next to B loathing, and that's the prologue to
+sicknesse, and a rejecting the first wholesome nutriment which was entertained
+to relieve the first naturall necessities: Qui non proficit vult deficere,
+said S. Ber­nard: He that goes not forward in the love of God, and of
+Religi­on, does not stand still, but goes for all that, but whither such a
+mo­tion will lead him, himself without a timely care shall feel by an
+in­tolerable experiment.
+
+In this sense and for these reasons it is that although a lukewarm Christian
+hath gone forward some steps towards a state of holynesse, C and is advanced
+beyond him that is cold, and dead, and unconcer­ned, and therefore speaking
+absolutely and naturally, is neerer the Kingdome of God then he, that is not
+yet set out; yet accidentally, and by reason of these ill appendages, he is
+worse, in greater danger, in a state equally unacceptable, and therefore must
+either goe forward, and still doe the work of God carefully, and diligent­ly,
+with a Fervent spirit, and an Active hand, with a willing heart, and a
+chearefull eye, or it had been better he had never begun.
+
+2\. It concerns us next to enquire concerning the duty in its pro­per
+instances, that we may perceive to what parts and degrees of D duty it
+amounts; we shall find it especially in the duties of faith, of prayer, and of
+charity.
+
+1\. Our faith must be strong, vigorous, active, confident, and patient,
+reasonable, and unalterable, without doubting, and feare, and partiality. For
+the faith of very many men, seems a duty so weak and indifferent, is so often
+untwisted by violence, or ravel'd and intangled in weak discourses, or so
+false and fallacious by its mixture of interest, that though men usually put
+most confidences in the pretences of faith, yet no pretences are more
+unreasonable. E
+
+1\. Our faith and perswasions in Religion is most commonly imprin­ted in us by
+our country, and we are Christians at the same rate as we are English or
+Spaniards, or of such a family; our reason is first stained and spotted with
+the dye of our kindred, and country, and our educati­on puts it in grain, and
+whatsoever is against this we are taught to call a [[Page
+169]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=88) temptaiton: in
+the mean time we call these accidentall and artificiall perswasions by the
+name of faith, which is onely the are of the A countrey, or an heireloome of
+the family, or the daughter of a pre­sent interest. Whatever it was that
+brought us in, we are to take care that when we are in, our faith be noble,
+and stand upon its most proper and most reasonable foundation; it concerns us
+better to understand that Religion which we call Faith, and that faith whereby
+we hope to be saved.
+
+2\. The faith and the whole Religion of many men is the pro­duction of fear.
+Men are threatned into their perswasions, and the iron rod of a Tyrant
+converts whole nations to his principles, B when the wise discourses of the
+Religion seems dull as sleep, and unprevailing as the talk of childhood.
+That's but a deceitfull faith which our timorousnesse begot, and our weaknesse
+nurses, and brings up. The Religion of a Christian is immortall, and certaine,
+and perswasive, and infallible, and unalterable, and therefore needs not be
+received by humane and weake convoycs, like worldly and mortall Religions:
+that faith is lukewarm, and easie, and trifling, which is onely a beleef of
+that which a man wants courage to disbeleeve.
+
+3\. The faith of many men is such, that they dare not trust it: C they will
+talk of it, and serve vanity, or their lust, or their company, or their
+interest by it, but when the matter comes to a pinch, they dare not trust it.
+When Antisthenes was initiated into the myste­ries of Orph [...]us, the Priest
+told him, that all that were of that Reli­gion, His qui sacris visis abeunt ad
+inferos Homines beati sunt, solis quia vivere Contingit illic istis, turba
+cae­tera Omnium malo­rum generi in­cidit. immediately after death should be
+perfectly happy; the Phi­losopher asked him, why he did not dye if he beleeved
+what he said? such a faith as that, was fine to talk of at table, or eating
+the sacrifi­ces of the Religion, when the mystick man was  [...] full of wine
+and flesh, of confidence and religion; but to dye, is a more material
+consideration, and to be chosen upon no grounds, but such a faith D which
+really comes from God, and can secure our reason, and our choyce, and perfect
+our interest and designes. And it hath been long observed concerning those
+bold people that use their reason against God that gave it, they have one
+perswasion in their health, and another in their sicknesse, and fears; when
+they are well, they blaspheme, when they die, they are superstitious; It was
+Bias his case when he was poyson'd by the Atheismes of Theodorus, no man died
+more like a coward and a fool; as if the gods were to come and goe as Bias
+pleased to think and talk: so one said of his folly. If God be to be feared
+when we die, he is also to be feared in all our E life, for he can for ever
+make us die; he that will doe it once, and that when he please, can alwayes.
+And therefore all those per­swasions against God, and against Religion, are
+onely the pro­duction of vicious passions, of drink or fancy, of confidence
+and ig­norance, of boldnesse or vile appetites, of vanity or fiercenesse, of
+[[Page 170]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=89) pride or
+flatteries; and Atheisme is a proportion so unnaturall and A monstrous, that
+it can never dwell in a mans heart as faith does, in health and sicknesse, in
+peace and warre, in company and alone, at the beginning and at the end of a
+designe; but comes from weake principles, and leaves shallow and superficiall
+impressions; but when men endevour to strengthen and confirme it, they onely
+strive to make themselves worse then they can. Naturally a man cannot be an
+Atheist: for he that is so, must have something within him that is worse
+either then man or devill.
+
+4\. Some measure their faith by shews and apparencies, by cere­monies and
+names, by professions and little institutions. Diogenes was angry at the silly
+Priest that thought he should be immortall be­cause B he was a Priest, and
+would not promise so concerning Agesilaus, and Epaminondas, two noble Greeks
+that had preserved their country, and lived vertuously. The faith of a
+Christian hath no signification at all but obedience and charity; if men be
+just, and charitable, and good, and live according to their faith, then onely
+they are Chri­stians; whatsoever else is pretended is but a shadow and the
+image of a grace; for since in all the sects and institutions of the world,
+the professors did in some reasonable sort conform to the rules of the
+profession (as appears in all the Schooles of Philosophers, and Reli­gions C
+of the world, and the practises of the Jews, and the usages and the countrey
+customes of the Turks) it is a strange dishonour to Christianity, that in it
+alone men should pretend to the faith of it, and doe nothing of what it
+perswades, and commands upon the account of those promises, which it makes us
+to beleeve. * He that means to please God by his faith, must have his faith
+begotten in him by the Spirit of God, and proper arguments of Religion; he
+must professe it without feare, he must dare to die for it, and resolve to
+live according to its institution; he must grow more con­fident, and more
+holy, have fewer doubtings and more vertues, he must be resolute and constant,
+far from indifferency, and above D secular regards; he must by it regulate his
+life, and value it above his life; he must contend earnestly for the faith, by
+the most pre­vailing arguments, by the arguments of holy living, and ready
+dy­ing, by zeale and patience, by conformity and humility, by reducing words
+to actions, fair discourses to perfect perswasions, by loving the article, and
+encreasing in the knowledge and love of God and his Son Jesus Christ; and then
+his faith is not negligent, deceitfull, artificiall and improper, but true,
+and holy, and reasonable, and usefull, zealous and sufficient, and therefore
+can never be re­proved. E
+
+2\. Our prayers and devotions must be fervent and zealous, not See Sermons of
+the Return of Prayer, Part 2 cold, patient, easie, and soon rejected; but
+supported by a patient spirit, set forwards by importunity, continued by
+perseverance, waited on by attention, and a present mind, carryed along with
+holy [[Page 171]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=89) but
+strong desires, and ballasted with resignation, and conformity A to the divine
+will; and then it is, as God likes it, and does the work to Gods glory and our
+interest effectively. He that asks with a doubting mind, and a lazy desire,
+begs for nothing but to be denyed; we must in our prayers be earnest, and
+fervent, or else we shall have but a cold answer; for God gives his grace
+according as we can receive it; and whatsoever evill returnes we meet in our
+pray­ers, when we ask for good things, is wholly by reason of our wan­dring
+spirits, and cold desires; we have reason to complain that our minds wander in
+our prayers, and our diversions are more pre­vailing then all our arts of
+application, and detention; and we B wander sometimes even when we pray
+against wandring: and it is in some degrees naturall, and unevitable: but
+although the evill is not wholly to be cured, yet the symptomes are to be
+eased; and if our desires were strong, and fervent, our minds would in the
+same pro­portion be present; we see it by a certain and regular experience;
+what we love passionately, we perpetually think on, and it returnes upon us
+whether we will or no; and in a great fear the apprehen­sion cannot be shaken
+off; and therefore if our desires of holy things were strong and earnest, we
+should most certainly attend our prayers: it is a more violent affection to
+other things that carries C us off from this; and therefore if we lov'd
+passionately what we aske for daily, we should aske with hearty desires, and
+an earnest ap­petite, and a present spirit; and however it be very easie to
+have our thoughts wander, yet it is our indifferency and lukewarmnesse that
+makes it so naturall: and you may observe it, that so long as the light shines
+bright, and the fires of devotion, and desires flame out, so long the mind of
+a man stands close to the altar, and waits upon the sacrifice; but as the
+fires die and desires decay, so the mind steals away and walks abroad to see
+the little images of beauty and pleasure, which it beholds in the falling
+stars and little glow-wormes D of the world. The river that runs slow and
+creeps by the banks, and begs leave of every turfe to let it passe, is drawn
+into little hollownesses, and spends it selfe in smaller portions, and dies
+with diversion; but when it runs with vigorousnesse and a ful stream, and
+breaks down every obstacle, making it even as its own brow, it stays not to be
+tempted by little avocations, and to creep into holes, but runs into the sea
+through full and usefull channels: So is a mans prayer, if it moves upon the
+feet of an abated appetite, it wanders into the society of every trifling
+accident, and stays at the corners of the fancy, and talks with every object
+it meets, and E cannot arrive at heaven; but when it is carryed upon the wings
+of passion and strong desires, a swift motion and a hungry appetite, it passes
+on through all the intermediall regions of clouds, and stays not till it
+dwells at the foot of the Throne, where mercy sits, and thence sends holy
+showers of refreshment. I deny not but some [[Page
+172]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=90) little drops
+will turn aside, and fall from the full channell by the A weaknesse of the
+banks, and hollownesse of the passage; but the main course is still continued:
+and although the most earnest and devout persons feel and complain of some
+loosenesse of spirit, and unfixed attentions, yet their love and their desire
+secure the maine portions, and make the prayer to be strong, fervent, and
+effectu­all. Any thing can be done by him that earnestly desires what he
+ought; secure but your affections and passions, and then no tempta­tion will
+be too strong; A wise man, and a full resolution, and an earnest spirit can
+doe any thing of duty; but every temptation pre­vailes when we are willing to
+die; and we usually lend nothing to devotion but the offices that flatter our
+passions; we can desire and B pray for any thing that may serve our lust, or
+promote those ends which we covet, but ought to tear and fly from: but the
+same ear­nestnesse, if it were transplanted into Religion and our prayers,
+would serve all the needs of the spirit, but for want of it we do the Lords
+work deceitfully.
+
+3\. Our Charity also must be fervent: Malus est miles qui ducem suum gemens
+sequitur, He that follows his Generall with a heavy march and a heavy heart is
+but an ill souldier; but our duty to God should be hugely pleasing, and we
+should rejoyce in it: it must passe on to action, and doe the action
+vigorously; it is called in Scrip­ture C [...], the labour and travail of
+love; A friend at a sneese and an almes-basket full of prayers, a love that is
+lazy, and a ser­vice that is uselesse, and a pity without support, are the
+images and colours of that grace, whose very constitution and designe is,
+bene­ficence and well-doing. He that loves passionately will not onely doe all
+that his friend needs, but all that himself can; for although the law of
+charity is fulfilled by acts of profit, and bounty, and obedi­ence, and
+labour; yet it hath no other measures but the proportions and abundance of a
+good mind; and according to this, God requires D that we be  [...], abounding,
+and that alwayes, in the work of the Lord; if we love passionately, we shall
+doe all this, for love endures labour, and calls it pleasure, it spends all
+and counts it a gain, it suffers inconveniencies, and is quickly re­conciled
+to them; if dishonours and affronts be to be endured, love smiles and calls
+them favours, and wears them willingly.
+
+—alii jacuere ligati
+
+Turpitèr, atque aliquis de Diis non tristibus optat
+
+Sic fieri turpis,— E
+
+It is the Lord, said David, and I will be yet more vile, and it shall be
+honour unto me; thus did the Disciples of our Lord goe from tribunals
+rejoycing that they were accounted worthy to suffer stripes for that beloved
+name; and we are commanded to rejoyce in [[Page
+173]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=90) persecutions,
+to resist unto bloud, to strive to enter in at the strait A gate, not to be
+weary of well doing; doe it hugely, and doe it alwayes. Non enim votis neque
+suppliciis muliebribus auxilia Deo­rum parantur; sed vigilando, agendo, benè
+consulendo omnia pro­sperè cedunt. No man can obtain the favour of God by
+words and imperfect resolutions, by lazie actions, and a remisse piety, but by
+severe counsells, and sober actions, by watchfulnesse and prudence, by doing
+excellent things with holy intentions, and vigorous pro­secutions. Ubi
+socordiae & ignaviae te tradideris nequidquam Deos implorabis: If your vertues
+be lazy, your vices will be bold and active: and therefore Democritus said
+well, that the painfull and B the soft-handed people in Religion differ just
+as good men and bad; nimirùm spe bonâ, the labouring charity hath a good hope,
+but a coole Religion hath none at all, and the distinction will have a sad
+effect to eternall ages.
+
+These are the great Scenes of duty in which we are to be fer­vent and zealous;
+but because earnestnesse and zeal are circum­stances of a great latitude; and
+the zeale of the present age is starke cold, if compar'd to the fervors of the
+Apostles, and other holy primitives; and in every age a good mans care may
+turne into scruple, if he sees that he is not the best man, because he C may
+reckon his owne estate to stand in the confines of darknesse, because his
+spark is not so great as his neighbors fires, therefore it is fit that we
+consider concerning the degrees of the intention and forward heats; for when
+we have found out the lowest degrees of zeale, and a holy fervour, we know
+that duty dwels there, and whatsoever is above it is a degree of excellence;
+but all that is lesse then it, is lukewarmnesse, and the state of an
+ungracious and an unaccepted person.
+
+1\. No man is fervent and zealous as he ought, but he that preferres Religion
+before businesse, charity before his own case, D the reliefe of his brother
+before money, heaven before secular regards, and God before his friend or
+interest. Which rule is not to be understood absolutely, and in particular
+instances, but alwayes ge­nerally; and when it descends to particulars, it
+must be in pro­portion to circumstances, and by their proper measures: for,
+
+1\. In the whole course of life it is necessary that we prefer Religion
+1.before any state that is either contrary to it, or a lessening of its
+duties. He that hath a state of life in which he cannot at all in fair
+pro­portions tend to Religion, must quit great proportions of that, that he
+may enjoy more of this, this is that which our blessed Savi­our E calls
+pulling out the right eye if it offend thee.
+
+2\. In particular actions, when the necessity is equall, he that 2.does not
+preferre Religion is not at all zealous; for although all naturall necessities
+are to be served before the circumstances and order of Religion, yet our belly
+and our back, our liberty and [[Page
+174]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=91) our life, our
+health, and a friend are to be neglected rather A then a Duty when it stands
+in its proper place, and is re­quir'd.
+
+3\. Although the things of God are by a necessary zeale to be 3. preferred
+before the things of the world; yet we must take heed that we doe not reckon
+Religion, and orders of worshipping, onely to be the things of God, and all
+other duties to be the things of the world; for it was a Pharisaicall device
+to cry Corban, and to refuse to relieve their aged Parents; it is good to give
+to a Church, but it is better to give to the Poor▪ and though they must be
+both provided for, yet in cases of dispute Mercy carries the cause against
+Religion and the Temple. And although Mary B was commended for choosing the
+better part, yet Mary had done worse if she had been at the foot of her Master
+when she should have relieved a perishing brother. Martha was troubled with
+much serving; that was more then need, and therefore she was to blame; and
+sometimes hearing in some circumstances may be more then needs; and some women
+are troubled with over-much hearing, and then they had better have been
+serving the necessities of their house.
+
+4\. This rule is not to be extended to the relatives of Religion; 4. for
+although the things of the Spirit are better then the things of C the World,
+yet a spirituall man is not in humane regards to be preferred before Princes
+and noble personages. Because a man is called spirituall in severall regards,
+and for various measures and manners of partaking of the Spirit of grace, or
+co-operating toward the works of the Spirit. * A King and a Bishop both, have
+callings in order to godlinesse, and honesty, and spirituall effects, towards
+the advancement of Christs Kingdome, whose re­presentatives severally they
+are. * But whether of these two works more immediately, or more effectively,
+cannot at all times be known; D and therefore from hence no argument can be
+drawn concerning doing them civill regards; * and possibly, the partaking the
+Spirit is a neerer relation to him, then doing his ministeries, and serving
+his ends upon others; * and if relations to God and Gods Spirit could bring an
+obligation of giving proportionable civill honour, every holy man might put in
+some pretence for dignities above some Kings and some Bishops. * But as the
+things of the Spirit are in order to the affairs of another world, so they
+naturally can in­ferre onely such a relative dignity, as can be expressed in
+spiri­tuall manners. But because such relations are subjected in men of E this
+life, and we now converse especially in materiall and secular significations,
+therefore we are to expresse our regards to men of such relations by
+proportionable expressions: but because civill excellencies are the proper
+ground of receiving and exacting civill honors, and spirituall excellencies
+doe onely claim them acciden­tally, [[Page
+175]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=91) and indirectly,
+therefore in titles of honour and humane A regards the civill praeeminence is
+the appendix of the greatest civill power and imployment, and is to descend in
+proper measures; and for a spirituall relation to challenge a temporall
+dignity, is as if the best Musick should challenge the best cloathes, or a
+Lute­string should contend with a Rose for the honour of the greatest
+sweetnesse. * Adde to this, that although temporall things are in order to
+spirituall, and therefore are lesse perfect, yet this is not so naturally; for
+temporall things are properly in order to the felicity of man in his proper
+and present constitution; and it is by a supernaturall grace that now they are
+thrust forward to a B higher end of grace and glory; and therefore temporall
+things, and persons, and callings have properly the chiefest temporall
+re­gard; and Christ took nothing of this away from them, but put them higher,
+by sanctifying and ennobling them. * But then the higher calling can no more
+suppose the higher man, then the richest trade can suppose the richest man.
+From callings to men, the argument is fallacious; and a Smith is a more
+usefull man then he that teaches Logick; but not always to be more estee­med,
+and called to stand at the chairs of Princes and Nobles. * Holy persons and
+holy things and all great relations are to be valued by generall proportions
+to their correlatives, but if wee C descend to make minute and exact
+proportions, and proportion an inch of temporall to a minute of spirituall, we
+must needs be hugely deceived, unlesse we could measure the motion of an
+An­gell by a string, or the progressions of the Spirit by weight and measure
+of the staple. * And yet if these measures were taken, it would be
+unreasonable that the lower of the higher kind should be preferr'd before the
+most perfect and excellent in a lower order of things. A man generally is to
+be esteemed above a wo­man, but not the meanest of her subjects before the
+most excel­lent D Queen; not alwayes this man before this woman. Now Kings and
+Princes are the best in all temporall dignities, and therefore if they had in
+them no spirituall relations and conse­quent excellencies (as they have very
+many) yet are not to be undervalu'd to spirituall relations, which in this
+world are very imperfect, weak, partiall; and must stay till the next world
+be­fore they are in a state of excellency, propriety and perfection; and then
+also all shall have them, according to the worth of their persons, not of
+their calling.
+
+* But lastly, what men may not challenge is not their just and E proper due; but spirituall persons and the neerest relatives to God stand by him but so long as they dwell low and safe in humility, and rise high in nothing but in labours, and zeal of soules, and devotion. * In proportion to this rule, a Church may be pull'd down to save a Town, and the Vessels of the Church may be [[Page 176]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=92) sold to redeem Captives when there is a great calamity immi­nent, A and prepared for reliefe and no other way to succour it.
+
+But in the whole, the duty of zeale requires that we neglect an ordinary visit
+rather then an ordinary prayer, and a great profit rather then omit a required
+duty. No excuse can legiti­mate a sin; and he that goes about to distinguish
+between his duty and his profit, and if he cannot reconcile them, will yet tie
+them together like a Hyaena and a Dog, this man pretends to Reli­gion, but
+secures the world, and is indifferent and lukewarme towards that, so he may be
+warme and safe in the possession of this. B
+
+2\. To that fervour and zeal that is necessary and a duty, it is requi­red
+that we be constant and persevering. Eslo sidelis ad mortem, said the Spirit
+of God to the Angel of the Church of Smyrna, Be faithfull unto death, and I
+will give thee a crown of life: For he that is warm to day, and cold to
+morrow, zealous in his resolution and weary in his practises, fierce in the
+beginning, and slack and easie in his progresse, hath not yet well chosen what
+side he will be of; he sees not reason enough for Religion, and he hath not
+confi­dence enough for its contrary; and therefore he is duplicis animi, as
+St. James calls him, of a doubtfull mind. For Religion is worth as much to day
+as it was yesterday, and that cannot C change though we doe; and if we doe, we
+have left God, and whither he can goe that goes from God, his owne sorrowes
+will soon enough instruct him. This fire must never goe out, but it must be
+like the fire of heaven, it must shine like the starres, though sometimes
+cover'd with a cloud, or obscur'd by a greater light; yet they dwell for ever
+in their orbs, and walk in their circles, and observe their circumstances, but
+goe not out by day nor night, and set not when Kings die, nor are extinguish'd
+when Nations change their Government: So must the zeal of a D Christian be, a
+constant incentive of his duty, and though some­times his hand is drawne back
+by violence or need, and his prayers shortned by the importunity of businesse,
+and some parts omitted by necessities, and just complyances, yet still the
+fire is kept alive, it burns within when the light breaks not forth, and is
+eternall as the orb of fire, or the embers of the Altar of Incense.
+
+3\. No man is zealous as he ought, but he that delights in the service of God:
+without this no man can persevere, but must faint under the continuall
+pressure of an uneasie load. If a man goes E to his prayers as children goe to
+schoole, or give alms as those that pay contribution, and meditate with the
+same willingnesse with which young men die, this man does personam sustinere,
+he acts a part which he cannot long personate, but will find so many excuses
+and silly devices to omit his duty, such tricks to run [[Page
+177]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=92) from that which
+will make him happy, he will so watch the A eyes of men, and be so sure to doe
+nothing in private; he will so often distinguish and mince the duty into
+minutes and little particles, he will so tie himself to the letter of the Law,
+and be so carelesse of the intention and spirituall designe, he will be
+punctuall in the ceremony, and trifling in the secret, and he will be so well
+pleased when he is hindred by an accident not of his own procuring, and will
+have so many devices to defeat his duty; and to cosuen himselfe, that he will
+certainly manifest that he is afraid of Religion, and secretly hates it; he
+counts it a burthen, and an objection, and then the man is sure to leave it,
+when B his circumstances are so fitted. But if we delight in it, we enter into
+a portion of the reward as soon as we begin the worke, and the very grace
+shall be stronger then the temptation in its very pretence of pleasure; and
+therefore it must needs be pleasing to God, because it confesses God to be the
+best Master, Reli­gion the best work, and it serves God with choice, and will,
+and reconciles our nature to it, and entertaines our appetite, and then there
+is no ansa or handle left whereby we can easily be drawne from duty, when all
+parties are pleased with the im­ployment. But this delight is not to be
+understood as if it were alwayes required that we should feele an actuall
+cheerful­nesse, C and sensible joy; such as was that of Jonathan when he had
+newly tasted honey, and the light came into his eyes, and he was refreshed and
+pleasant. This happens sometimes when God please to intice, or reward a mans
+spirit, with little An­tepasts of heaven; but such a delight onely is
+necessary, and a duty, that we alwayes choose our duty regularly, and
+under­value the pleasures of temptation, and proceed in the work of grace with
+a firme choice and unabated election; our joy must be a joy of hope, a joy at
+least of confident sufferers, the joys D of faith and expectation; rejoycing
+in hope, so the Apostle calls it; that is, a going forward upon such a
+perswasion as sees the joyes of God laid up for the Children of men: and so
+the sun may shine under a cloud; and a man may rejoyce in perse­cution, and
+delight in losses; that is, though his outward man groanes, and faints, and
+dies, yet his spirit,  [...], the inner man is confident and industrious, and
+hath a hope by which it lives and works unto the end: It was the case of our
+blessed Saviour in his agony; his soule was exceeding sorrowfull unto death,
+and the load of his Fathers anger crushed his shoul­der, E and bowed his knees
+to the ground; and yet he chose it, and still went forward, and resolved to
+die, and did so; and what wee choose wee delight in; and wee thinke it to be
+eli­gible, and therefore amiable, and fit by its proper excellencies and
+appendages to be delighted in; it is not pleasant to the flesh [[Page
+178]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=93) at all times,
+for its dignity is spirituall and heavenly; but there­fore A it is
+proportioned to the spirit, which is as heavenly as the reward, and therefore
+can feel the joys of it, when the body hangs the head, and is uneasie and
+troubled.
+
+These are the necessary parts of zeale; of which if any man failes, he is in a
+state of lukewarmnesse, and that is a spirituall death. As a banished man or a
+condemned person is dead civilly; he is diminutus capite, he is not reckoned
+in the census, nor partakes of the priviledges, nor goes for a person, but is
+reckoned among things in the possession of others: so is a lukewarm person; he
+is corde diminutus, he is spiritually dead, his heart is estranged B from God,
+his affections are lessened, his hope diminished, and his title cancell'd, and
+he remains so, unlesse, 1. he prefers Re­ligion before the world, and 2.
+spiritually rejoyces in doing his duty, and 3. doe it constantly, and with
+perseverance. These are the heats and warmth of life; whatsoever is lesse then
+this, is a disease, and leads to the coldnesse and dishonors of the grave.
+
+[[Page 179]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=93)
+
+## 14\. SERMON, XIV. Part III. B
+
+3\. SO long as our zeal and forwardnesse in Religion hath on­ly these
+constituent parts, it hath no more then can keep the duty alive: but beyond
+this, there are many degrees of ear­nestnesse and vehemence which are
+progressions towards the state of perfection, which every man ought to design
+and desire to be added to his portion: of this sort I reckon frequency in
+prayer, and almes above our estate. Concerning which two instances I have
+these two cautions to insert. 1. Concerning frequency in prayer, it is an act
+of zeal so ready and prepared for the spirit of a man, so C easie and usefull,
+so without objection, and so fitted for every mans affairs, his necessities
+and possibilities, that he that prayes but seldome, cannot in any sense
+pretend to be a religious person. For in Scripture there is no other rule for
+the frequency of prayer given us, but by such words which signifie we should
+do it alwaies, Pray continually: and, Men ought alwayes to pray and not to
+faint. And then, men have so many necessities, that if we should esteem our
+needs to be the circumstances and positive determination of our times of
+prayer, we should be very far from admitting limi­tation of the former words,
+but they must mean that we ought to D pray frequently every day. For in danger
+and trouble, naturall Religion teaches us to pray: In a festivall fortune our
+prudence, and our needs inforce us equally. For though we feel not a present
+smart, yet we are certain then is our biggest danger: and if we observe how
+the world treats her darlings, men of riches and ho­nour, of prosperity and
+great successe, we cannot but confesse them to be the most miserable of all
+men, as being in the greatest dan­ger of losing their biggest interest. For
+they are bigger then the iron hand of Law, and they cannot be restrain'd with
+fear: the hand grasps a power of doing all that which their evill heart can
+desire, E and they cannot be restrained with disability to sin; they are
+flat­ter'd by all mean, and base, and indiligent persons, which are the
+greatest part of mankinde; but few men dare reprove a potent sin­ner; he shall
+every day be flattered and seldome counselled: and his great reflexions and
+opinions of his condition makes him impatient [[Page
+180]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=94) of reproof, and
+so he cannot be restrain'd with modesty: and there­fore A as the needs of the
+poor man, his rent day, and the cryes of his children, and the oppression he
+groans under, and his  [...], his uneasie, ill sleeping care will make him run
+to his prayers, that in heaven a new decree may be passed every day for the
+provisi­ons of his daily bread: so the greater needs of the rich, their
+tem­ptations, and their dangers, the flattery and the vanity, the power and
+the pride, their businesse and evill estate of the whole world upon them, cals
+upon them to be zealous in this instance that they pray often, that they pray
+without ceasing; For there is great rea­son they should do so, and great
+security and advantage, if they do; For, he that prayes well and prayes often,
+must needs be a good and a B blessed man; and truly he that does not, deserves
+no pity for his misery. For when all the troubles and dangers of his condition
+may turn into his good, if he will but desire they should; when up­on such
+easie terms he may be happy, for there is no more trouble in it then this,
+Aske and ye shall receive; that's all that is required; no more turnings and
+variety in their road; when (I say) at so cheap a rate, a poor man may be
+provided for, and a rich man may escape damnation, they that refuse to apply
+themselves to this re­medy, quickly, earnestly, zealously, and constantly,
+deserves the smart C of his poverty and the care of it, and the scorne if he
+be poor, and if he be rich it is fit he should (because he desires it) dye by
+the evils of his proper danger. * It was observed by Cassian; orationi­bus
+maximè insidiantur Daemones, the Devill is more busie to disturb our prayers,
+then to hinder any thing else. For else it cannot be ima­gined why we should
+be brought to pray so seldome, and to be so listlesse to them, and so trifling
+to them. No, The Devill knowes upon what hard terms he stands with the praying
+man; he also knows that it is a mighty emanation of Gods infinite goodnesse
+and a strange desire of saving mankinde, that he hath to so easie a duty
+promised such mighty blessings. For God knowing that upon D hard terms we
+would not accept of heaven it self, and yet hell was so intolerable a state,
+that God who loved us would affixe heaven to a state of prayer and devotion;
+this, because the Devill knowes to be one of the greatest arts of the Divine
+mercy, he labours in­finitely to supplant; and if he can but make men
+unwilling to pray, or to pray coldly, or to pray seldome, he secures his
+interest, and de­stroys the mans; and it is infinitely strange, that he can
+and doth prevail so much in this so unreasonable temptation. Opposuisti nubem
+ne transiret oratio, the mourning Prophet complained there E Lam. 3. 44. was a
+cloud passed between heaven and the prayer of Judah; a lit­tle thing God
+knowes; it was a wall which might have been blown down with a few hearty
+sighs, and a few penitentiall tears; or if the prayers had ascended in a full
+and numerous body, themselves would have broken through that little partition;
+but so the Devill [[Page
+181]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=94) prevails often;
+opponit nubem: he claps a cloud between; some A little objection; a stranger
+is come; or my head akes; or the Church is too cold; or I have letters to
+write; or I am not disposed; or it is not yet time, or the time is past:
+these, and such as these are the clouds, the Devill claps between heaven and
+us; but these are such impotent objections, that they were as soon confuted as
+pretended, by all men that are not fools, or professed enemies of Religion,
+but that they are clouds: which sometimes look like Lions and Bears, Castles,
+and wals of fire, armies and horses; and indeed are any thing that a man will
+fancy; and the smallest article of objection managed and conducted by the
+Devils arts, and meeting with a B wretchlesse, carelesse, indevout spirit, is
+a Lion in the way, and a deep river; it is impassable, and it is impregnable.
+[...]; Arislo. [...]. as the Sophister said in the Greek Comedy, Clouds become
+any thing as they are re­presented; Wolves to Simon, Harts to Cleonymus; For
+the Devill fits us with clouds according as we can be abused; and if we love
+affairs of the world, he can contrive its circumstances so, that they shall
+crosse our prayers; and so it is in every instance: and the best way to cure
+this evill is prayer; pray often, and pray zealously, and the sun of
+righteousnesse will scatter these clouds, and warm our hearts with his holy
+fires: But it is in this, as in all acquired ha­bits; C the habit makes the
+actions easie and pleasant; but this ha­bit cannot be gotten without frequent
+actions: habits are the daugh­ters of action, but then they nurse their
+mother, and produce daughters after her image, but far more beautifull and
+prosperous. For in frequent prayer there is so much rest and pleasure, that as
+soon as ever it is perceived, the contrary temptation appears unreasona­ble;
+none are so unwilling to pray as they that pray seldome; for they that do pray
+often, and with zeal, and passion and desire, feel no trouble so great as when
+they are forced to omit their holy of­fices D and hours of prayer. It concerns
+the Devils interest to keep us from all the experience of the rewards of a
+frequent and holy prayer; and so long as you will not try and taste how good
+and gra­cious the Lord is to the praying man, so long you cannot see the evill
+of your coldnesse and lukewarm state; but if you would but try, though it be
+but for curiosity sake, and informe your selves in the vanity of things, and
+the truth of pretences, and the cer­tainty of Theologicall propositions, you
+should finde your selves taken in a golden snare, which will tye you to
+nothing but felicity, and safety, and holinesse, and pleasures. But then the
+caution which E I intended to insert is this; that frequency in prayers, and
+that part of zeal which relates to it, is to be upon no account but of an holy
+spirit, a wise heart, and reasonable perswasion; for if it begins upon passion
+or fear, in imitation of others, or desires of reputation, ho­nour or
+phantastick principles, it will be unblessed and weary, [[Page
+182]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=95) unprosperous
+and without return or satisfaction: therefore if it happen to begin upon a
+weak principle, be very curious to change A the motive, and with all speed let
+it be turned into religion and the love of holy things, then let it be as
+frequent as it can prudently, it cannot be amisse.
+
+2\. When you are entred into a state of zealous prayer, and a re­gular
+devotion, what ever interruption you can meet with, observe their causes and
+be sure to make them irregular, seldome, and con­tingent, that your omissions
+may be seldome and casuall, as a bare accident; for which no provisions can be
+made; for if ever it come, that you take any thing habitually and constantly
+from your B prayers, or that you distract from them very frequently, it cannot
+be but you will become troublesome to your self; your prayers will be uneasie,
+they will seem hinderances to your more necessary affairs of passion and
+interest, and the things of the world: and it will not stand still, till it
+comes to Apostasie, and a direct despite and contempt of holy things. For it
+was an old rule, and of a sad experience, Tepiditas si callum obduxerit fiet
+apostasia, if your luke­warmnesse be habituall and a state of life, if it once
+be hardned by the usages of many daies, it changes the whole state of the man,
+it makes him an apostate to devotion. Therefore be infi­nitely C carefull in
+this particular; alwayes remembring the saying of St. Chrysostome, Docendi,
+praedicandi officia & alia cessant suo tempore, precandi autem nunquam; there
+are seasons for teaching, and preaching, and other outward offices; but prayer
+is the duty of all times, and of all persons, and in all contingences: From
+other things in many cases we can be excused, but from prayer never. In this
+therefore  [...], it is good to be zealous.
+
+2\. Concerning the second instance I named, viz. To give almes above our
+estate, it is an excellent act of zeal, and needs no other caution to make it
+secure from illusion and danger, but that our D egressions of charity do not
+prejudice justice. See that your almes do not other men wrong, and let them do
+what they can to thy self, they will never prejudice thee by their abundance;
+but then be also carefull that the pretences of justice do not cousen thy self
+of thy charity, and the poor of thine almes, and thy soul of the reward. He
+that is in debt is not excused from giving almes till his debts are paid; but
+only from giving away such portions which should and would pay them, and such
+which he intended should do it: There are lacernae divitiarum, and crums from
+the table, and the gleanings of the harvest, and the scatterings of the
+vintage, which in all estates are the portions of the poor, which being
+collected E by the hand of providence, and united wisely may become
+con­siderable to the poor, and are the necessary duties of charity; but beyond
+this also, every considerable relief to the poor is not a con­siderable
+diminution to the estate, and yet if it be, it is not alwaies [[Page
+183]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=95) considerable in
+the accounts of Justice; for nothing ought to be A pretended against the zeal
+of almes, but the certain omissions or the very probable retarding the doing
+that, to which we are otherwise obliged. He that is going to pay a debt and in
+the way meets an indigent person that needs it all, may not give it to him
+unlesse he knowes by other means to pay the debt; but if he can do both, he
+hath his liberty to lay out his money for a Crown. But then in the case of
+provision for children our restraint is not so easie, or discernible; 1.
+Because we are not bound to provide for them in a certain portion, but may do
+it by the analogies and measures of prudence, in which there is a great
+latitude. 2. Because our zeal B of charity is a good portion for them, and
+layes up a blessing for inheritance. 3. Because the fairest portions of
+charity are usually short of such sums which can be considerable in the duty
+of provi­sion for our children. 4. If we for them could be content to take any
+measure lesse then all, any thing under every thing that we can, we should
+finde the portions of the poor made ready to our hands sufficiently to
+minister to zeal, and yet not to intrench upon this case of conscience; But
+the truth is; we are so carelesse, so un­skil'd, so unstudied in religion,
+that we are only glad to make an an excuse, and to defeat our souls of the
+reward of the no­blest grace: we are contented if we can but make a pretence;
+C for we are highly pleased if our conscience be quiet, and care not so much
+that our duty be performed; much lesse that our eternall interest be advanced
+in bigger portions. We care not, we strive not, we think not of getting the
+greater rewards of Heaven; and he whose desires are so indifferent for the
+greater, will not take pains to secure the smallest portion; and it is
+observable, that  [...], the least in the Kingdome of heaven, is as much as
+[...], as good as none; if a man will be content with his hopes Mat. 5. 16▪ of
+the lowest place there, and will not labour for something beyond D it, he does
+not value it at all, and it is ten to one, but will lose that for which he
+takes so little pains, and is content with so easie a security. He that does
+his almes, and resolves that in no case he will suffer inconvenience for his
+brother whose case it may be is intolerable, should do well to remember that
+God in some cases requires a greater charity; and it may be we shall be called
+to dye for the good of our brother: and that although it alwaies supposes a
+zeal, and a holy fervour, yet sometimes it is also a duty, and we lose our
+lives if we go to save them; and so we do with our estates; when we are such
+good husbands in our Religion, that we will E serve all our own conveniences
+before the great needs of a hungry and afflicted brother, God oftentimes takes
+from us that which with so much curiosity we would preserve, and then we lose
+our mo­ney, and our reward too.
+
+3\. Hither is to be reduced * the accepting and choosing the [[Page
+184]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=96) counsels
+Evangelicall: * the virgin or widow estate in order to Re­ligion: * selling
+all and giving it to the poor: * making our selves A Eunuchs for the Kingdome
+of Heaven: * offering our selves to death voluntary, in exchange or redemption
+of the life of a most usefull person, as Aquila and Priscilla, who ventur'd
+their lives for St. Paul: * the zeal of souls: * St. Paul's preaching to the
+Corin­thian Church without wages: remitting of rights and forgiving of debts,
+when the obliged person could pay, but not without much trouble: * protection
+of calamitous persons with hazard of our own interest and a certain trouble;
+concerning which and all other acts of zeal, we are to observe the following
+measures, by which B our zeal will become safe and holy, and by them also we
+shall per­ceive the excesses of Zeal, and its inordinations, which is the next
+thing I am to consider.
+
+1\. The first measure, by which our zeal may comply with our duty, and its
+actions become laudable, is charity to our neighbour. 3. For since God
+receives all that glorification of himself whereby we can serve and minister
+to his glory, reflected upon the foundation of his own goodnesse, and bounty,
+and mercy, and all the Allellujahs that are or ever shall be sung in heaven
+are praises and thank givings, and that God himself does not receive glory
+from the acts of his C Justice, but then when his creatures will not rejoyce
+in his good­nesse and mercy, it followes that we imitate this originall
+excel­lency and pursue Gods own method, that is, glorifie him in via
+misericordiae, in the way of mercy, and bounty, charity, and forgive­nesse,
+love, and fair compliances; There is no greater charity in the world then to
+save a soul, nothing that pleases God better, nothing that can be in our hands
+greater or more noble, nothing that can be a more lasting and delightfull
+honour, then that a perishing soul, snatched from the flames of an intolerable
+Hell, and born to Hea­ven upon the wings of piety and mercy, by the Ministery
+of An­gels, D and the graces of the holy Spirit, shall to eternall ages blesse
+God and blesse thee, Him, for the Author and finisher of salvation, and thee
+for the Minister and charitable instrument; that bright starre must needs look
+pleasantly upon thy face for ever, which was by thy hand plac'd there, and had
+it not been by thy Mini­stery might have been a footy coal, in the regions of
+sorrow. Now in order to this, God hath given us all some powers, and
+ministeries, by which we may by our charity promote this Religion, and the
+great interest of souls: Counsels, and prayers, preaching, and wri­ting,
+passionate desires, and fair examples, going before others, in the way of
+godlinesse, and bearing the torch before them that they E may see the way and
+walk in it. This is a charity that is pre­pared more or lesse for every one;
+and by the way we should do well to consider what we have done towards it. For
+as it will be a strange arrest at the day of Judgement to Dives, that he fed
+high [[Page 185]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=96) and
+sufferred Lazarus to starve, and every garment that lies by A thee and
+perishes while thy naked brother does so too for want of it, shall be a bill
+of Inditement against thy unmercifull soul; so it will be in every instance:
+in what thou couldst profit thy brother and didst not, thou art accountable;
+and then tell over the times, in which thou hast prayed for the conversion of
+thy sinning bro­ther; and compare the times together, and observe whether thou
+hast not tempted him or betrayed him to a sin, or encourag'd him in it, or
+didst not hinder him when thou mightest more frequently then thou hast humbly,
+and passtonately, and charitably, and zealously bowed thy head, and thy heart,
+and knees to God to redeem that B poor soul from hell whither thou seest him
+descending with as much indifferency as a stone into the bottome of a well. In
+this thing  [...], it is a good thing to be zealous, and put forth all your
+strength, for you can never go too far. But then be carefull that this zeal of
+thy neighbours amendment be only expressed in waies of charity, not of cruelty
+or importune justice. He that strikes the Prince for justice, as Solomons
+expression is, is a companion of mur­derers; and he that out of zeal of
+Religion shall go to convert Na­tions to his opinion by destroying Christians
+whose faith is intire and summ'd up by the Apostles; this man breaks the
+ground, with C a sword, and sowes tares, and waters the ground with bloud, and
+ministers to envie and cruelty, to errors and mistake, and there comes up
+nothing but poppies to please the eye and fancy, disputes and hypocrisie, new
+summaries of Religion estimated by measures of anger, and accursed principles;
+and so much of the religion as is necessary to salvation is laid aside, and
+that brought forth that serves an interest, not holinesse; that fils the
+Schooles of a proud man, but not that which will fill Heaven. Any zeal is
+pro­per for Religion, but the zeal of the sword, and the zeal of an­ger; this
+is  [...], the bitternesse of zeal; and it is a certain tem­ptation D Iam. 3.
+14. to every man against his duty; for if the sword turns prea­cher and
+dictates propositions by empire in stead of arguments, and ingraves them in
+mens hearts with a ponyard, that it shall be death to beleeve what I
+innocently and ignorantly am perswaded of, it must needs be unsafe to try the
+spirits, to try all things, to make inquiry; and yet without this liberty, no
+man can justifie himself before God or man, nor confidently say, that his
+Religi­on is best; since he cannot without a finall danger make himself able
+to give a right sentence, and to follow that which he findes to be the best;
+this may ruine souls by making Hypocrites, or E carelesse and complyant
+against conscience or without it; but it does not save souls, though
+peradventure it should force them to a good opinion: This is inordination of
+zeal; for Christ by reproving St. Peter drawing his sword, even in the cause
+of Christ, for his sacred and yet injured person,  [...], [[Page
+186]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=97) (saith
+Theophylact) teaches us not to use the sword though in the cause of God, or
+for God himself; because he will secure his own A interest, only let him be
+served as himself is pleased to command: and it is like Moses passion, it
+throwes the tables of the Law out of our hands, and breaks them in pieces out
+of indignation to see them broken. This is the zeal that is now in fashion,
+and hath almost spoyl'd Religion; men like the Zelots of the Jewes cry up
+their Sect and in it their interest,  [...]; they affect Disciples and fight
+against the opponents; and we shall finde in Scripture, that when the Apostles
+began to preach the meeknesse of the Christian institution, salvations, and
+promises, charity and humility, there was a zeal set up against them; the B
+Apostles were zealous for the Gospell, the Jewes were zealous for the Law: and
+see what different effects these two zeals did produce; the zeal of the Law
+came to this,  [...], & [...] & [...] & [...]; they stirred up the City, they
+made tu­mults, they persecuted this way unto the death, they got letters from
+the high Priest, they kept Damascus with a Garrison, they sent par­ties of
+souldiers to silence and to imprison the Preachers, and thought they did God
+service, when they put the Apostles to death, and they swore neither to eat
+nor to drink till they had kil­led Paul. It was an old trick of the Jewish
+zeal, C
+
+Non monstrare vias eadem nisi sacra colenti,
+
+Quaesitum ad fontem solos deducere verpos.
+
+They would not shew the way to a Samaritan, nor give a cup of cold water but
+to a circumcised brother. That was their zeal; But the zeal of the Apostles
+was this; they preached publickly and privately, they prayed for all men, they
+wept to God for the hardnesse of mens hearts, they became all things to all
+men that D they might gain some, they travel'd through deeps and deserts, they
+indured the heat of the Syrian Starre, and the violence of Eu­roclydon, winds
+and tempests, seas and prisons, mockings and scour­gings, fastings and
+poverty, labour and watching, they endured every man and wronged no man, they
+would do any good thing and suffer any evill if they had but hopes to prevail
+upon a soul; they perswaded men meekly, they intreated them humbly, they
+con­vinced them powerfully, the watched for their good but medled not with
+their interest, and this is the Christian zeal, the zeal of mecknesse, the
+zeal of charity, the zeal of patience, [...], E in these it is good to be
+zealous, for you can never goe farre enough.
+
+2\. The next measure of zeal is prudence. For, as charity is the matter of
+zeal, so is discretion the manner. It must alwaies be for good to our
+neighbour, and there needs no rules for the conducting [[Page
+187]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=97) of that,
+provided▪ the end be consonant to the design, that is, A that charity be
+intended, and charity done. But there is a zeal also of Religion or
+worshipping, and this hath more need of mea­sures and proper cautions. For
+Religion can turn into a snare, it may be abused into superstition, it may
+become wearinesse in the spirit, and tempt to tediousnesse, to hatred, and
+despair: and ma­ny persons through their indiscreet conduct and furious
+marches, and great loads taken upon tender shoulders and unexperienced, have
+come to be perfect haters of their joy, and despisers of all their hopes,
+being like dark Lanthorns, in which a candle burnes bright, but the body is
+incompassed with a crust and a dark cloud of iron; B and these men keep the
+fires and light of holy propositions with­in them, but the darknesse of hell,
+the hardnesse of a vexed heart hath shaded all the light, and makes it neither
+apt to warm nor to enlighten others, but it turnes to fire within, a feaver
+and a distemper dwels there, and Religion is become their torment.
+
+1\. Therefore our zeal must never carry us beyond that which is profitable.
+There are many institutions, customes, and usages in­troduced into Religion
+upon very fair motives, and apted to great necessities; but to imitate those
+things when they are disrobed of their proper ends is an importune zeal, and
+signifies nothing but a forward minde, and an easie heart, and an imprudent
+head; unlesse C these actions can be invested with other ends and usefull
+purposes. The primitive Church were strangely inspired with a zeal of
+vir­ginity, in order to the necessities of preaching and travelling, and
+easing the troubles and temptations of persecution; but when the necessity
+went on, and drove the holy men into deserts, that made Colleges of Religious,
+and their manner of life was such; so united, so poor, so dressed, that they
+must live more non saeculari, after the manner of men divore'd from the usuall
+entercourses of the world, still their desire of single life increased;
+because the old necessity D lasted, and a new one did supervene. Afterwards
+the case was altered, and then the single life was not to be chosen for it
+self, nor yet in imitation of the first precedents; for it could not be taken
+out from their circumstances and be used alone. He therefore that thinks he is
+a more holy person for being a virgin or a widower, or that he is bound to be
+so because they were so, or that he cannot be a religious person because he is
+not so, hath zeal indeed, but not according to knowledge. But now if the
+single state can be taken out and put to new appendages, and fitted to the end
+of another grace or essentiall duty of Religion, it will well become a
+Christian E zeal to choose it so long as it can serve the end with advantage
+and security. Thus also a zealous person is to chuse his fastings; while they
+are necessary to him, and are acts of proper mortificati­on, while he is
+tempted, or while he is under discipline, while he repents, or while he obeys;
+but some persons fast in zeal, but for [[Page
+188]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=98) nothing else;
+fast when they have no need, when there is need they should not; but call it
+religion to be miserable or sick; here their A zeal is folly, for it is
+neither an act of Religion nor of prudence, to fast when fasting probably
+serves no end of the spirit; and there­fore in the fasting dayes of the
+Church, although it is warrant enough to us to fast if we had no end to serve
+in it but the meer obedience, yet it is necessary that the superiors should
+not think the Law obeyed, unlesse the end of the first institution be
+observed; a fasting day is a day of humiliation, and prayer; and fasting being
+nothing it self, but wholly the handmaid of a further grace, ought not to be
+devested of its holinesse and sanctification, and left like the B wals of a
+ruinous Church, where there is no duty performed to God, but there remains
+something of that which us'd to minister to Re­ligion. The want of this
+consideration hath caus'd so much scan­dall and dispute, so many snares and
+schismes concerning Ecclesi­asticall fasts. For when it was undressed and
+stripp'd of all the or­naments and usefull appendages, when from a solemn day
+it grew to be common; from thence to be lesse devout by being lesse sel­dome
+and lesse usefull; and then it passed from a day of Religion to be a day of
+order, and from fasting till night, to fasting till evening-song, and evening-
+song to be sung about twelve a clock; C and from fasting it was changed to a
+choice of food, from eating no­thing to eating fish, and that the letter began
+to be stood upon, and no usefulnesse remain'd but what every of his own piety
+should put into it, but nothing was enjoyn'd by the Law, nothing of that
+ex­acted by the superiours, then the Law fell into disgrace, and the design
+became suspected, and men were first insnared, and then scan­dalized, and then
+began to complain without remedy, and at last took remedy themselves without
+authority; the whole affair fell into a disorder and a mischief; and zeal was
+busie on both sides, and on both sides was mistaken, because they fell not
+upon the D proper remedy, which was to reduce the Law to the usefulnesse and
+advantages of its first intention. But this I intended not to have spoken.
+
+2\. Our zeal must never carry us beyond that which is safe. Some there are who
+in their first attempts and entries upon Religion while the passion that
+brought them in remains, undertake things as great as their highest thoughts;
+no repentance is sharp enough, no cha­rities expensive enough, no fastings
+afflictive enough, then totis Quinquatribus orant; and finding some
+deliciousnesse at the first contest, and in that activity of their passion,
+they make vowes to binde themselves for ever to this state of delicacies. The
+onset is E fair: but the event is this. The age of a passion, is not long, and
+the flatulent spirit being breathed out, the man begins to abate of his first
+heats, and is ashamed: but then he considers that all that was not ne­cessary,
+and therefore he will abate something more and from [[Page
+189]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=98) something to
+something, at last it will come to just nothing, and A the proper effect of
+this is, indignation and hatred of holy things, an impudent spirit,
+carelessenesse or despair. Zeal sometimes carries a man into temptation: and
+he that never thinks he loves God duti­fully or acceptably, because he is not
+imprison'd for him, or undone, or design'd to Martyrdome, may desire a triall
+that will undoe him. It is like fighting of a Duell to shew our valour. Stay
+till the King commands you to fight and die, and then let zeal do its noblest
+offices. This irregularity and mistake was too frequent in the pri­mitive
+Church, when men and women would strive for death, and be ambitious to feel
+the hangmans sword; some miscarryed in the B attempt, and became sad examples
+of the unequall yoking a frail spirit with a zealous driver.
+
+3\. Let Zeal never transport us to attempt any thing but what is pos­sible. M.
+Teresa made a vow that she would do alwaies that which was absolutely the
+best. But neither could her understanding al­waies tell her which was so, nor
+her will alwayes have the same fer­vours: and it must often breed scruples,
+and sometimes tediousnesse, and wishes that the vow were unmade. He that vowes
+never to have an ill thought, never to commit an error, hath taken a course
+that his little infirmities shall become crimes, and certainly be im­puted C
+by changing his unavoidable infirmity into vow-breach. Zeal is a violence to a
+mans spirit, and unlesse the spirit be secur'd by the proper nature of the
+duty, and the circumstances of the action, and the possibilities of the man;
+it is like a great fortune in the meanest person, it bears him beyond his
+limit, and breaks him in­to dangers and passions, transportations and all the
+furies of disorder that can happen to an abused person.
+
+4\. Zeal is not safe unlesse it be in re probabili too, it must be in a likely
+matter. For we that finde so many excuses to untie all our just obligations,
+and distinguish our duty into so much finenesse, D that it becomes like leaf-
+gold apt to be gone at every breath; it can not be prudent that we zealously
+undertake what is not probable to be effected. If we do, the event can be
+nothing but portions of the former evill, scruple and snares, shamefull
+retreats and new fantastick principles; In all our undertakings we must
+consider what is our state of life, what our naturall inclinations, what is
+our society, and what are our dependencies; by what necessities we are born
+down, by what hopes we are biassed; and by these let us measure our heats and
+their pro­per businesse. A zealous man runs up a sandy hill; the violence of
+motion is his greatest hinderance, and a passion in Religion destroys E as
+much of our evennesse of spirit, as it sets forward any outward work; and
+therefore although it be a good circumstance and degree of a spirituall duty,
+so long as it is within, and relative to God and our selves; so long it is a
+holy flame; but if it be in an outward duty, or relative to our neighbours, or
+in an instance not necessary, [[Page
+190]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=99) it sometimes
+spoils the action, and alwaies endangers it. But I must remember we live in an
+age in which men have more need of new A fires to be kindled within them and
+round about them, then of any thing to allay their forwardnesse: there is
+little or no zeal now but the zeal of envie, and killing as many as they can,
+and damning more then they can;  [...] & [...], smoke and lurking fires do
+corrode and secretly consume: therefore this discourse is lesse necessary. A
+Physitian would have but small imployment near the Riphaean Mountains, if he
+could cure nothing but Calentures; Catarrhes, and dead palfies, Colds and
+Consumptions are their evils, and so is luke­warmnesse and deadnesse of
+spirit, the proper maladies of our age: for though some are hot when they are
+mistaken, yet men are cold in a B righteous cause; and the nature of this
+evill is to be insensible, and the men are farther from a cure because they
+neither feel their evill, nor perceive their danger. But of this I have
+already given account: and to it, I shall only adde what an old spirituall
+person told a novice in re­ligion, asking him the cause why he so frequently
+suffered tediousnesse in his religious offices; Nondum vidisti requiem quam
+speramus, nec tormenta quae timemus; young man, thou hast not seen the glories
+which are laid up for the zealous and devout, nor yet beheld the flames which
+are prepared for the lukewarm, and the haters of strict devoti­on. But the
+Jewes tell that Adam having seen the beauties, and tasted C the delicacies of
+Paradise, repented and mourned upon the Indian Mountains for three hundred
+years together: and we who have a great share in the cause of his sorrowes,
+can by nothing be invited to a persevering, a great, a passionate religion,
+more then by remembring what he lost, and what is laid up for them whose
+hearts are burning lamps, and are all on fire with Divine love, whose flames
+are fann'd with the wings of the holy Dove, and whose spirits shine and burn
+with that fire which the holy Jesus came to enkindle upon the earth.
+
+[[Page 191]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=99)
+
+## 15\. Sermon, XV. The House of Feasting: OR THE EPICVRES MEASVRES. Part I.
+
+1 Cor. 15. 32. last part. C‘Let us eat and drink, for to morrow we dye.’
+
+THis is the Epicures Proverb, begun upon a weak mistake; started by chance,
+from the dis­courses of drink, and thought witty by the undiscerning company,
+and prevail'd infinitely, because it struck their fancy luckily, and
+main­tained the merry meeting; but as it happens D commonly to such
+discourses, so this also, when it comes to be examined by the consul­tations
+of the morning, and the sober hours of the day, it seems the most witlesse,
+and the most unreasonable in the world. When Se­neca describes the spare diet
+of Epicurus and Metrodorus, he uses this expression; Liberaliora sunt alimenta
+carceris: sepositos ad capitale supplicium, non tam angustè, qui occisurus
+est, pascit. The prison keeps a better table, and he that is to kill the
+criminall to morrow morning, gives him a better supper over night. By this he
+inten­ded to represent his meal to be very short: for as dying persons E have
+but little stomach to feast high; so they that mean to cut the throat will
+think it a vain expence to please it with delicacies, which after the first
+alteration must be poured upon the ground, and looked upon as the worst part
+of the accursed thing. And there is also the same proportion of
+unreasonablenesse, that because men shall die [[Page
+192]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=100) to morrow, and
+by the sentence and unalterable decree of God, they A are now descending to
+their graves, that therefore they should first destroy their reason, and then
+force dull time to run faster, that they may dye sottish as beasts, and
+speedily as a flie: But they thought there was no life after this; or if there
+were, it was without plea­sure, and every soul thrust into a hole, and a
+dorter of a spans length allowed for his rest, and for his walk; and in the
+shades below no numbring of healths by the numerall letters of Phile­nium's
+name, no fat Mullets, no Oysters of Luerinus, no Lesbian or Chian Wines,
+[...], Therefore now enjoy the delicacies of Nature, and feel the descending
+wines distil­led through the limbecks of thy tongue, and larynx, and suck the
+B delicious juice of fishes, the marrow of the laborious Oxe, and the tender
+lard of Apultan Swine, and the condited bellies of the scarus; but lose no
+time; for the Sun drives hard, and the sha­dow is long, and the dayes of
+mourning are at hand, but the number of the dayes of darknesse and the grave
+cannot be told.
+
+Thus they thought they discoursed wisely, and their wisdome was turned into
+folly; for all their arts of providence, and witty securities of pleasure were
+nothing but unmanly prologues to death, C fear and folly, sensuality and
+beastly pleasures. But they are to be excused rather then we. They placed
+themselves in the order of beasts and birds, and esteemed their bodies nothing
+but recepta­cles of flesh and wine, larders and pantries; and their soul the
+fine instrument of pleasure and brisk perception, of relishes and gusts,
+re­flexions and duplications of delight; and therefore they treated themselves
+accordingly. But then why we should do the same things, who are led by other
+principles, and a more severe institu­tion, and better notices of immortality,
+who understand what shall happen to a soul hereafter, and know that this time
+is but a pas­sage D to eternity, this body but a servant to the soul, this
+soul a mi­nister to the Spirit, and the whole man in order to God and to
+fe­licity; this I say is more unreasonable, then to eat aconite to pre­serve
+our health, and to enter into the floud that we may die a dry death; this is a
+perfect contradiction to the state of good things, whither we are designed,
+and to all the principles of a wise Philo­phy, whereby we are instructed that
+we may become wise unto sal­vation. That I may therefore do some assistances
+towards the cu­ring the miseries of mankinde, and reprove the follies and
+im­proper motions towards felicity, I shall endevour to represent to E you,
+
+1\. That plenty and the pleasures of the world are no proper in­struments of
+felicity.
+
+2\. That intemperance is a certain enemy to it; making life un­pleasant, and
+death troublesome and intolerable.
+
+[[Page 193]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=100) 3\. I
+shall adde the rules and measures of temperance in eating and drinking, that
+nature and grace may joyne to the constitution A of mans felicity.
+
+1\. Plenty and the pleasures of the world are no proper instru­ment of
+felicity. It is necessary that a man have some violence done to himself before
+he can receive them: for natures bounds are, non esurire, non sitire, non
+algere, to be quit from hunger, and thirst, and cold, that is, to have nothing
+upon us that puts us to pain; against which she hath made provisions by the
+fleece of the sheep, and the skins of beasts, by the waters of the fountain,
+and the hearbs of the field, and of these no good man is destitute, for B that
+share that he can need to fill those appetites and necessities he cannot
+otherwise avoid:  [...]. For it is unimagi­nable that Nature should be a
+mother naturall and indulgent to the beasts of the forrest, and the spawn of
+fishes, to every plant and fungus, to cats and owles, to moles and bats,
+making her store­houses alwaies to stand open to them, and that for the Lord
+of all these, even to the noblest of her productions she should have made no
+provisions, and only produc'd in us appetites sharp as the sto­mach of Wolves,
+troublesome as the Tigres hunger, and then run away, leaving art and chance,
+violence and study, to feed us and to C cloath us. This is so far from truth,
+that we are certainly more provided for by nature then all the world besides;
+for everything can minister to us; and we can passe into none of Natures
+cabi­nets, but we can finde our table spread: so that what David said to God,
+Whither shall I go from thy presence? If I go to heaven, thou art there, if I
+descend to the deep, thou art there also; if I take the wings of the morning
+and flie into the uttermost parts of the wilder­nesse, even there thou wilt
+finde me out, and thy right hand shall up­hold me: we may say it concerning
+our table, and our wardrobe; If we go into the fields, we finde them till'd by
+the mercies of D heaven, and water'd with showers from God to feed us and to
+cloath us; if we go down into the deep, there God hath multi­plyed our stores,
+and fill'd a magazine which no hunger can exhaust; the aire drops down
+delicacies, and the wildernesse can sustain us, and all that is in nature,
+that which feeds Lions, and that which the Oxe eats, that which the fishes
+live upon, and that which is the provision for the birds, all that can keep us
+alive; and if we con­sider, that of the beasts and birds for whom nature hath
+provided but one dish, it may be flesh or fish, or herbes or flies, and these
+also we secure with guards from them, and drive away birds and E beasts from
+that provision which Nature made for them, yet sel­dome can we finde that any
+of these perish with hunger: much ra­ther shall we finde that we are secured
+by the securities proper for the more noble creatures, by that providence that
+disposes all things, by that mercy that gives us all things, which to other
+creatures [[Page
+194]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=101) are ministred
+singly; by that labour that can procure what we need, by that wisdome that can
+consider concerning future necessities, by A that power that can force it from
+inferiour creatures, and by that temperance which can fit our meat to our
+necessities. For if we go beyond what is needfull, as we finde sometimes more
+then was promised, and very often more then we need, so we disorder the
+certainty of our felicity, by putting that to a hazard which nature hath
+secur'd. For it is not certain that if we desire to have the wealth of Susa,
+or garments stain'd with the bloud of the Tyrian fish, that if we desire to
+feed like Philoxenus, or to have tables loaden like the boards of Vitellius,
+that we shall never want. It is not Nature that desires these things, but lust
+and violence; and by a dis­case B we enter'd into the passion and the
+necessity, and in that state of trouble it is likely we may dwell for ever,
+unlesse we reduce our appetites to natures measure.
+
+Si ventri benè, si lateri est, pedibūs (que) tuis, nil
+
+Horace.
+
+Divitiae poterunt Regales addere majus.
+
+And therefore it is that plenty and pleasures are not the proper in­struments
+of felicity. Because felicity is not a jewell that can be lock'd in one mans
+cabinet. God intended that all men should be C made happy, and he that gave to
+all men the same naturall desires, and to all men provision of satisfactions
+by the same meats and drinks, intended that it should not go beyond that
+measure of good things which corresponds to those desires which all men
+naturally have.
+
+He that cannot be satisfied with common provisions, hath a bigger need then he
+that can; it is harder, and more contingent, and more difficult, and more
+troublesome, for him to be satisfied;  [...]; said Epicurus, I feed sweetly
+upon bread and water, those D sweet and easie provisions of the body, and I
+defie the pleasures of costly provisions; And the man was so confident that he
+had the advantage over wealthy tables, that he thought himself happy as the
+Immortall Gods,  [...]: For these provisions are easie, they are to be gotten
+without amazing cares; no man needs to flatter, if he can live as Nature did
+intend: Magna pars libertatis est benè moratus venter: Senec. he need not
+swell his accounts, and intricate his spirit with arts of subtlety and
+contrivance, he can be free from fears; and the E chances of the world cannot
+concern him. And this is true, not on­ly in those severe and Anachoreticall
+and Philosophicall persons, who lived meanly as a sheep, and without variety
+as the Baptist, but in the same proportion it is also true in every man that
+can be conten­ted with that which is honestly sufficient. Maximus Tyrius
+consi­ders [[Page
+195]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=101) concerning the
+felicity of Diogenes, a poor Synopean, having A not so much nobility as to be
+born in the better parts of Greece; but he saw that he was compel'd by no
+Tyrant to speak or do ignobly; he had no fields to till, and therefore took no
+care to buy cattell, and to hire servants; he was not distracted when a rent-
+day came; and fear'd not when the wise Greeks play'd the fool and fought who
+should be Lord of that field that lay between Thebes and Athens; he laugh'd to
+see men scramble for dirty sil­ver, and spend 10000. Attick talents for the
+getting the revenues of 200 Philippics; he went with his staffe and bag into
+the camp of the Phoconses, and the souldiers reverenc'd his person and
+despised B his poverty, and it was truce with him whosoever had wars; and the
+Diadem of Kings, and the Purple of the Emperors, the Mitre of high Priests,
+and the divining staffe of Soothsayers were things of envie and ambition, the
+purchase of danger, and the rewards of a mighty passion: and men enter'd into
+them by trouble and ex­treme difficulty, and dwelt under them as a man under a
+falling roof, or as Damocles under the Tyrants sword,
+
+Nunc lateri incumbens—mox deinde supinus,
+
+Nunc cubat in faciem, nunc recto pectore surgens, C
+
+Sleeping like a condemned man; and let there be what pleasure men can dream of
+in such broken slumbers, yet the fear of wa­king from this illusion and
+parting from this phantastick pleasure, is a pain and torment which the
+imaginary felicity cannot pay for. Cui cum paupertate benè convenit, dives
+est; non qui parum ha­bet, sed qui plus cupit, pauper est. All our trouble is
+from within us; and if a dish of lettice and a clear fountain can cool all my
+heats, so that I shall have neither thirst nor pride, lust nor revenge, envie
+nor ambition, I am lodg'd in the bosome of felicity; and in­deed D no men
+sleep so soundly, as they that lay their head upon Na­tures lap. For a single
+dish and clean chalice lifted from the springs, can cure my hunger and thirst:
+but the meat of Ahasuerus feast cannot satisfie my ambition and my pride.
+Nullâ re egere, Dei pro­prium; quàm paucissimis autem, Deo proximum, said
+Socrates. He therefore that hath the fewest desires and the most quiet
+passions, whose wants are soon provided for, and whose possessions can­not be
+disturbed with violent fears, he that dwels next door to sa­tisfaction, and
+can carry his needs and lay them down where he please, this man is the happy
+man, and this is not to be done in E great designs, and swelling fortunes.
+Dives jam factus desiit gau­dere lentè, Cariùs edit & bibit, & latatur dives,
+quàm pauper, qui in quolibet, in parato, in inempto gaudet, & facilè epulari
+potest, dives nunquam. For as it is in plants which nature thrusts forth from
+her navell, she makes regular provisions, and dresses them [[Page
+196]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=102) with strength
+and ornament, with easinesse and a full stature, but if you thrust a Jessamine
+there where she would have had a Daisie A grow, or bring the tall firre from
+dwelling in his own countrey, and transport the orange or the almond-tree neer
+the fringes of the North starre, Nature is displeased, and becomes unnaturall,
+and starves her sucklings, and renders you a return lesse then your charge and
+expectation: so it is in all our appetites; when they are naturall and proper,
+nature feeds them and makes them health­full and lusty, as the course issue of
+the Scythian clown; she feeds them and makes them easie without cares and
+costly passion; but if you thrust an appetite into her which she intended not,
+she gives you sickly and uneasie banquets, you must struggle with her B for
+every drop of milk she gives beyond her own needs; you may get gold from her
+entrails, and at a great charge provide orna­mants for your Queens and
+Princely women: but our lives are spent in the purchase; and when you have got
+them, you must have more; for these cannot content you, nor nourish the
+spirit. Ad su­pervacua sudatur. A man must labour infinitely to get more then
+he needs; but to drive away thirst and hunger, a man needs not sit in the
+fields of the oppressed poor, nor lead armies, nor break his sleep, &
+contumeliosam humanitatem pati, and to suffer shame and dan­ger, and envie and
+affront, and all the retinue of infelicity. C
+
+—Quis non Epicurum
+
+Suspicit, exigui laetum plantaribus horti?
+
+If men did but know what felicity dwels in the cottage of a vertuous poor man,
+how sound his sleeps, how quiet his breast, how composed his minde, how free
+from care, how easie his provision, how healthfull his morning, how sober his
+night, how moist his mouth, how joyfull his heart, they would never admire the
+noises D and the diseases, the throng of passions, and the violence of
+unna­turall appetites, that fill the houses of the luxurious, and the heart of
+the ambitious:
+
+Nam neque divitibus contingunt gaudia solis.
+
+These which you call pleasures are but the imagery and phantastick
+appearances, and such appearances even poor men may have. It is like felicity
+that the King of Persia should come to Babylon in the winter, and to Susa in
+the summer; and be attended with all the ser­vants E of 127 Provinces, and
+with all the Princes of Asia. It is like this, that Diogenes went to Corinth
+in the time of vintage, and to Athens when winter came, and in stead of Courts
+visited the Tem­ples and the Schooles, and was pleased in the society of
+Scholars and learned men, and conversed with the Students of all Asia and
+[[Page 197]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=102) Europe.
+If a man loves privacy, the poor fortune can have that A when Princes cannot;
+if he loves noises, he can go to Markets and to Courts, and may glut himself
+with strange faces, and strange voices, and stranger manners, and the wilde
+designs of all the world: and when that day comes in which we shall dye,
+nothing of the eating and drinking remains, nothing of the pomp and luxury,
+but the sorrow to part with it, and shame to have dwelt there where wisdome
+and vertue seldome comes, unlesse it be to call men to sober counsels, to a
+plain and a severe and more naturall way of living; and when Lucian derides
+the dead Princes and Generals, and sayes that in hell they go up and B down
+selling salt meats and crying Mussels, or begging; and he brings in Philip of
+Macedon, [...], mending of shooes in a little stall; he intended to represent,
+that in the shades below and in the state of the grave, the Princes and
+voluptuous have a being different from their present plenty, but that their
+condition is made contemptible and miserable by its dis­proportion to their
+lost and perishing voluptuousnesse. The result is this, that Tiresias told the
+Ghost of Menippus enquiring what state of life was nearest to felicity,
+[...], The private life, that which is freest from tumult and vanity, noise
+and C luxury, businesse and ambition, nearest to nature and a just
+en­tertainment to our necessities; that life is nearest to felicity.  [...],
+Therefore despise the swellings and the diseases of a disordered life, and a
+proud vanity; be troubled for no outward thing beyond its merit; enjoy the
+pre­sent temperately, and you cannot choose but be pleased to see that you
+have so little share in the follies and miseries of the intemperate world.
+
+2\. Intemperance in eating and drinking is the most contrary course D to the
+Epicures design in the world; and the voluptuous man hath the least of
+pleasure; and upon this proposition, the consideration is more materiall and
+more immediately reducible to practise, because in eating and drinking men
+please themselves so much, and have the necessities of Nature to usher in the
+inordination of gluttony and drunkennesse, and our need leads in vice by the
+hand, that we know not how to distinguish our friend from our enemy; and St.
+Austin is sad upon this point; Thou O Lord hast taught me that I should take
+my meat as I take my Physick, but while I passe from the trouble of hunger to
+the quietnesse of satisfaction, in the very E passage I am insnared by the
+cords of my own concupiscence; Ne­cessity bids me passe, but I have no way to
+passe from hunger to ful­nesse, but over the bridge of pleasure; and although
+health and life be the cause of eating and drinking, yet pleasure, a dangerous
+plea­sure thrusts her self into attendance, and sometimes endeavours to [[Page
+198]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=103) be the
+principall, and I do that for pleasures sake which I would only do for health;
+and yet▪ they have distinct measures whereby they can be A separated, and that
+which is enough for health is too little for de­light, and that which is for
+my delight destroyes my health, and still it is uncertain for what end I doe
+indeed desire; and the worst of the evill is this, that the soul is glad
+because it is uncertain, and that an excuse is ready, that under the pretence
+of health, Obumbret negotium voluptatis, the design of pleasure may be
+advanced and protected. How farre the ends of naturall pleasure may lawfully
+be enjoyed, I shall afterwards consider; In the mean time, if we remember that
+the Epicures design is pleasure principally, we may the better reprove his
+folly by considering that intemperance is a B a plain destruction to all that
+which can give reall and true plea­sure.
+
+1\. It is an enemy to health, without which it is impossible to feel anything
+of corporall pleasure. 2. A constant full table hath in it lesse pleasure then
+the temperate provisions of the Hermite, or the Labourer, or the
+Philosophicall table of Scholars, and the just pleasures of the vertuous. 3.
+Intemperance is an impure fountain of vice, and a direct nurse of
+uncleannesse. 4. It is a destruction of wisdome. 5. It is a dishonour and
+disreputation to the person and C the nature of the man.
+
+It is an enemy to health: which is as one cals it, ansa voluptatum &
+condimentum vitae; it is that handle by which we can apprehend, and perceive
+pleasures, and that sauce that only makes life delicate; for what content can
+a full table administer to a man in a feaver? and he that hath a sickly
+stomach admires at his happinesse that can feast with cheese and garlick,
+unctious breuuages and the low ta­sted spinage: Health is the opportunity of
+wisdome, the fairest scene of Religion, the advantages of the glorifications
+of God, the cha­ritable ministeries to men; it is a state of joy and
+thanksgiving, and D in every of its period feels a pleasure from the blessed
+emanations of a mercifull providence. The world does not minister, does not
+feel a greater pleasure, then to be newly delivered from the racks or the
+gratings of the stone, and the torments and convulsions of a sharp colick: and
+no Organs, no Harp, no Lute can sound out the praises of the Almighty Father
+so spritefully, as the man that rises from his bed of sorrowes, and considers
+what an excellent difference he feels from the groans and intolerable accents
+of yesterday. Health carries us to Church and makes us rejoyce in the
+communion of Saints, and an intemperate table makes us to lose all this. For
+this is E one of those sins which S. Paul affirms to be  [...], manifest,
+leading before unto judgement. It bears part of its pu­nishment in this life,
+and hath this appendage like the sin against the holy Ghost, that it is not
+remitted in this world, nor in the world to come; that is, if it be not
+repented of, it is punished here and [[Page
+199]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=103) hereafter,
+which the Scripture does not affirm concerning all sins, A and all cases.
+
+But in this the sinner gives sentence with his mouth and brings it to
+execution with his own hands;
+
+Paena tamen praesens, cum tu deponis amictum
+
+Turgidus, et crudum pavonem in balneaportas.
+
+The old gluttons among the Romans, Heliogabalus, Tigellius, Cris­pus,
+Montanus, notae (que) per oppida buccae, famous Epicures, mingled their meats
+with vomitings; so did Vitellius, and enter'd into B their baths to digest
+their Phesants, that they might speedily re­turn to the Mullet and the Eeles
+of Syene, and then they went home and drew their breath short till the
+morning, and it may be not at all before night,
+
+Hinc subitae mortes, at (que) intestata senectus.
+
+Their age is surprised at a feast, and gives them not time to make their will,
+but either they are choked with a large morsell, and there is no room for the
+breath of the lungs, and the motions of the heart; or a feaver burns their
+eyes out, or a quinzie punishes that C intemperate throat that had no
+religion, but the eating of the fat sa­crifices, the portions of the poor and
+of the Priest; or else they are condemned to a Lethargie if their
+constitutions be dull, and if active, it may be they are wilde with watching.
+
+Plurimus hinc aeger moritur vigilando: sed illum
+
+Languorem peperit cibus imperfectus, & haerens
+
+Ardenti stomacho— D
+
+So that the Epicures geniall proverb may be a little alter'd, and say, Let us
+eat and drink, for by this means to morrow we shall die; but that's not all,
+for these men live a healthlesse life▪ that is, are long, are every day dying,
+and at last dye with torment. Menander was too soft in his expression,  [...];
+that it is indeed a death, but gluttony is a pleasant death,
+
+— [...]
+
+[...],
+
+[...]. E
+
+For this is the gluttons pleasure, to breath short and difficultly, scarce to
+be able to speak, and when he does, he cries out, I dye and rot with pleasure.
+But the folly is as much to be derided as the men to be pityed, that we daily
+see men afraid of death with a most [[Page
+200]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=104) intolerable
+apprehension, and yet increase the evill of it, the pain, and A the trouble,
+and the suddennesse of its coming, and the appen­dage of an unsufferable
+eternity.
+
+Rem struere exoptant caeso bove, Mercuriúm (que)
+
+Arcessunt fibrâ—
+
+They pray for herds of cattell, and spend the breeders upon feasts and
+sacrifices. For why do men go to Temples and Churches, and make vowes to God
+and daily prayers, that God would give them a healthfull body, and take away
+their gout and their palsies, their feavers and apoplexies, the pains of the
+head and the gripings of the B belly, and arise from their prayers and powre
+in loads of flesh and seas of wine, lest there should not be matter enough for
+a lusty disease?
+
+Poscis opem nervis, corpús (que) fidele senectae.
+
+Esto age, sed grandes patinae tucetá (que) crassa
+
+Per. sat. 2.
+
+Annuere his superos vetuere, Jov ém (que) morantur.
+
+But it is enough that the rich glutton shall have his dead body condited and
+embalmed; he may be allowed to stink and suffer C corruption while he is
+alive; These men are for the present living sin­ners and walking rottennesse,
+and hereafter will be dying penitents and perfumed carcasses, and their whole
+felicity is lost in the confusions of their unnaturall disorder. When Cyrus
+had espyed Astyages and his fellowes coming drunk from a banquet loaden with
+variety of follies and filthinesse, their legs failing them, their eyes red
+and staring, cousened▪ with a moist cloud, and abused by a doubled object,
+their tongues full as spunges, and their heads no wiser, he thought they were
+poysoned, and he had reason; for what malignant quality can be more venomous
+and hurtfull to a man then the ef­fect D of an intemperate goblet, and a full
+stomach? it poysons both the soul and body. All poysons do not kill presently,
+and this will in processe of time, and hath formidable effects at present.
+
+But therefore me thinks the temptations which men meet with­all from without,
+are in themselves most unreasonable and soonest confuted by us. He that tempts
+me to drink beyond my mea­sure, civilly invites me to a feaver; and to lay
+aside my reason, as the Persian women did their garments and their modesty at
+the end of feasts: and all the question then will be, which is the worse
+evill, to resuse your uncivill kindnesse, or to suffer a E violent headach, or
+to lay up heaps big enough for an English Surfeit. Creon in the Tragedy said
+well,
+
+[...],
+
+[...],
+
+[[Page 201]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=104) It
+grieve thee O stranger, or to he affronted by thee, then to be tor­mented by
+thy kindnesse the next day and the morrow after; and A the freed man of
+Domitius the Father of Nero suffered himself to be kild by his Lord; and the
+sonne of Praxaspes by Cambyses, rather then they would exceed their own
+measures up to a full intemperance, and a certain sicknesse, and dishonour.
+For, (as Plutarch said well) to avoid the opinion of an uncivill man, or
+be­ing clownish, to run into a pain of thy sides or belly, into mad­nesse or a
+head-ach, is the part of a fool and a coward, and of one that knowes not how
+to converse with men citra pocula & nidorem, in any thing but in the famelick
+smels of meat and ver­tiginous B drinkings:
+
+Ebrius & petulans, qui nullum forte cecîdit,
+
+Dat poenas, noctem patitur lugentis amicum
+
+Pelidae—
+
+A drunkard and a glutton feels the torments of a restlesse night, although he
+hath not kil'd a man; that is, just like murtherers and persons of an
+afrighting conscience; so wake the glutton, so broken and sick, and disorderly
+are the slumbers of the drunkard. Now let the Epicure boast his pleasures, and
+tell how he hath C swallowed the price of Provinces, and gobbets of delicious
+flesh purchased with the rewards of souls; let him brag furorem illum
+conviviorum & foedissimum patrimoniorum exitium culinam, of the madnesse of
+delicious feasts, and that his kitchin hath destroyed his Patrimony; let him
+tell that he takes in every day,
+
+—Quantum Lauseia bibebat,
+
+As much wine as would refresh the sorrowes of 40 languishing D prisoners; or
+let him set up his vain-glorious triumph,
+
+Ut quod multi Damalis meri
+
+Bassum Threiciâ vicit amystide,
+
+That he hath knock'd down Damalis with the 25th. bottle, and hath outfeasted
+Anthony or Cleopatra's luxury; it is a goodly pleasure and himself shall bear
+the honour.
+
+—Rarum & memorabile magni E
+
+Gutturis exemplum, conducendús (que) magister.
+
+But for the honour of his banquet he hath some ministers attending that he did
+not dream of, and in the midst of his loud laughter, the gripes of the belly
+and the feavers of the brain, Pallor & [[Page
+202]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=105) genae
+pendulae, oculorum ulcera, tremulae manus, furiales somni, in­quies A
+nocturna, as Pliny reckons them, palenesse and hanging cheeks, ulcers of the
+eyes and trembling hands, dead or distracted sleeps, these speak aloud, that
+to day you eat and drink, that to morrow you may dye, and dye for ever.
+
+It is reported concerning Socrates, that when Athens was de­stroyed by the
+plague, he in the midst of all the danger escaped untouched by sicknesse,
+because by a spare and severe diet, he had within him no tumult of disorderly
+humours, no factions in his bloud, no loads of moisture prepared for charnell
+houses, or the sickly hospitals; but a vigorous heat, and a well proportioned
+B radicall moysture; he had enough for health and study, Philosophy and
+Religion, for the temples and the Academy, but no superfluities to be spent in
+groans and sickly nights: And all the world of glut­tons is hugely convinced
+of the excellency of temperance in order to our temporall felicity and health,
+because when themselves have left vertue, and sober dyet, and counsels, and
+first lost their temperance, and then lost their health, they were forc'd to
+run to temperance and absti­nence for their cure, Vilis enim tenuis (que)
+mensa (ut loquuntur pueri) sa­nitatis S. Chrysost. mater est, Then, a thin
+diet and a humbled body, fasting and emptinesse, and arts of scattering their
+sin and sicknesse, is in season; C but by the same means they might preserve
+their health, by which they do restore it; but when they are well, if they
+return to their full tables and oppressing meals, their sicknesse was but like
+Vi­tellius vomiting, that they might eat again; but so they may en­tail a fit
+of sicknesse upon every full moon, till both their virtue and themselves
+decrease into the corruptions and rottennesse of the grave. But if they
+delight in sharp feavers and horrid potions, in sowre palats and heaps of that
+which must be carryed forth, they may reckon their wealthy pleasures to be
+very great and ma­ny, if they will but tell them one by one with their
+sicknesses and D the multitude of those evils they shall certainly feel before
+they have thrown their sorrowes forth. These men (as St. Paul's ex­pression
+is) heap up wrath against the day of wrath, and the revela­tion of the day of
+Gods most righteous judgements. Strange there­fore it is that for the stomach
+which is scarce a span long, there should be provided so many furnaces and
+ovens, huge fires and an army of cooks, cellars swimming with wine, and
+granaries sweating with corn; and that into one belly should enter the vintage
+of many Nations, the spoils of distant Provinces, and the shell-fishes of
+severall seas. When the Heathens feasted their Gods, they gave E nothing but a
+fat oxe, a ram, or a kid, they powred a little wine upon the Altar, and burned
+a handfull of gum; but when they feasted themselves, they had many vessels
+fill'd with Campanian wine, turtles of Liguria, Sicilian beeves, and wheat
+from Egypt, wilde boars from Illyrium, and Grecian sheep, variety, and load,
+[[Page 203]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=105) and
+cost, and curiosity: and so do we. It is so little we spend A in Religion, and
+so very much upon our selves, so little to the poor, and so without measure to
+make our selves sick, that we seem to be in love with our own mischief, and so
+passionate for necessity and want, that we strive all the wayes we can to make
+our selves need more then nature intended. I end this consideration with the
+say­ing of the Cynic; It is to be wondred at that men eat so much for
+pleasures sake; and yet for the same pleasure should not give over eating, and
+betake themselves to the delights of temperance, since to be healthfull and
+holy is so great a pleasure. However, certain it is that no man ever repented
+that he arose from the table sober, B healthfull, and with his wits about him;
+but very many have re­pented that they sate so long, till their bellies
+swelled, and their health, and their vertue, and their God is departed from
+them.
+
+[[Page 204]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=106)
+
+## 16\. SERMON, XVI. Part II. B
+
+2\. A Constant full Table is lesse pleasant then the temperate pro­visions of
+the vertuous, or the naturall banquets of the poore. [...], said Epicurus,
+Thanks be to the God of Nature, that he hath made that which is necessary to
+be ready at hand, and easie to be had, and that which cannot easily be
+obtained, is not ne­cessary it should be at all; which in effect is to say, it
+cannot be constantly pleasant; for necessity and want makes the appetite, and
+the appetite makes the pleasure; and men are infinitely mistaken when they
+despise the poor mans Table, and wonder how he can C endure that life that is
+maintain'd without the excise of pleasure, and that he can suffer his days
+labour, and recompense it with unsavory herbs, and potent garleek, with water-
+cresses, and bread colour'd like the ashes that gave it hardnesse; he hath a
+hunger that gives it deliciousnesse; and we may as well wonder that a Lyon
+eats raw flesh, or that a Wolfe feeds upon the turfe, they have an appetite
+proportionable to this meat, and their necessity, and their hunger, and their
+use, and their nature are the Cooks that dresse their provisions, and make
+them delicate: And yet if water and pulse, naturall provisions, and the simple
+diet were not pleasant, as in­deed D they are not to them who have been nursed
+up and accusto­med to the more delicious,  [...], yet it is a very great
+pleasure to reduce our appetites to Nature, and to make our reason rule our
+stomach, and our desires comply with our fortunes, and our fortunes be
+proportionable to our persons. Non est voluptas aqua & polenta, (said a
+Philosopher) sed summa voluptas est posse ex his capere voluptatem, It is an
+excellent pleasure to be able to take pleasure in worts and water, in bread
+and onions; for then a man can never want pleasure when it is so E ready for
+him, that nature hath spread it over all its provisions. Fortune and Art gives
+delicacies; Nature gives meat and drink; and what nature gives, fortune cannot
+take away, but every change can take away what onely is given by the bounty of
+a full for­tune; and if in satisfaction and freedome from care, and security
+[[Page 205]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=106) and
+proportions to our own naturall appetite, there can be plea­sure, A then we
+may know to value the sober and naturall Tables of the vertuous and wise,
+before that state of feastings which a War can lessen, and a Tyrant can take
+away, or the Pirates may intercept, or a Blast may spoyle, and is alwayes
+contingent, and is so far from satisfying, that either it destroys the
+appetite, and capacity of pleasure, or increases it beyond all the measures of
+good things.
+
+He that feasts every day, feasts no day,  [...] and however you treat your
+selves, sometimes you will need to be refreshed beyond it; but what will you
+have for a Festivall, if you B wear crowns every day? even a perpetuall
+fulnesse will make you glad to beg pleasure from emptynesse, and variety from
+poverty or a humble Table.
+
+Plerumque gratae principibus vices,
+
+Mundaeque parvo sub lare pauperum
+
+Coenae sine aulaeis, & ostro,
+
+Sollicitam explicuere frontem.
+
+But however, of all the things in the world a man may best and most C easily
+want pleasure, which if you have enjoyed, it passes away at the present, and
+leaves nothing at all behinde it, but sorrow and sowre remembrances. No man
+felt a greater pleasure in a goblet of wine, then Lysimachus when he fought
+against the Getae; and himselfe and his whole Army were compell'd by thirst to
+yeeld themselves to bondage; but when the wine was sunk as farre as his navel,
+the pleasure was gone, and so was his Kingdome and his liberty; for though the
+sorrow dwells with a man pertinaciously, yet the pleasure is swift as
+lightning, and more pernicious; but the pleasures of a sober and a temperate
+Table are pleasures till D the next day,  [...], as Timotheus said of Plato's
+Scholars, they converse sweetly, and are of perfect temper and delicacy of
+spirit even the next morning; whereas the intemperate man is forced to lye
+long in bed, and forget that there is a Sun in the skie; he must not be call'd
+till he hath concocted, and slept his surfeit into a truce and a quiet
+respite; but whatsoever this man hath suffer'd, certain it is that the poore
+mans head did not ake, nei­ther did he need the juice of poppies, or costly
+cordials, Physitians or Nurses, to bring him to his right shape again; like
+Apuleius's Asse with eating roses: and let him turne his hour-glasse, he will
+E finde his head akes longer then his throat was pleased; and which is worst,
+his glasse runs out with joggings and violence, and every such concussion with
+a surfeit makes his life look neerer its end, and ten to one but it will
+before its naturall period be broken in pieces. If these be the pleasures of
+an Epicures Table, I shall [[Page
+206]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=107) pray that my
+friends may never feele them; but he that sin­neth against his Maker shall
+fall into the calamities of intem­perance. A
+
+3\. Intemperance is the Nurse of vice;  [...], Venus milk, 3. so Aristophanes
+calls wine, [...], the Mother of all grievous things: so Pontianus. For by the
+experience of all the world, it is the band to lust: and no man must ever dare
+to pray to God for a pure soul in a chaste body, if himself does not live
+temperately, if himselfe make provisions for the flesh, to fulfill the lusts
+of it; for in this case he shall find that which enters into him shall defile
+him more then he can be cleansed by those vain B prayers that come from his
+tongue, and not from his heart. In­temperance makes rage and choler, pride and
+fantastick princi­ples; it makes the body a sea of humours, and those humours
+the seat of violence: by faring deliciously every day men become senselesse of
+the evills of manking, inapprehensive of the troubles of their Brethren,
+unconcerned in the changes of the world, and the cryes of the poor, the hunger
+of the fatherlesse, and the thirst of widows:  [...], said Diogenes, Tyrants
+never come from the cottages of them that eat pulse and course fare, but from
+the delicious beds and banquets of the effeminate and rich feeders. For to
+maintain plenty and C luxury sometimes wars are necessary, and oppressions and
+violence: but no Land-lord did ever grinde the face of his Tenants, no Prince
+ever suck'd bloud from his subjects for the maintenance of a so­ber and a
+moderate proportion of good things. And this was intimated by S. James, Doe
+not rich men oppresse you, and draw you Iam. 2. 6. before the Judgment seat?
+For all men are passionate to live accor­ding to that state in which they were
+born, or to which they are de­volved, or which they have framed to themselves;
+Those therefore that love to live high and deliciously, D
+
+Et quibus in solo vivendi causa palato,
+
+who live not to God, but to their belly, not to sober counsels, but to an
+intemperate table, have framed to themselves a manner of li­ving which
+oftentimes cannot be maintain'd, but by injustice and violence, which coming
+from a man whose passions are made big with sensuality and an habituall folly,
+by pride and forgetfulnesse of the condition and miseries of mankind, are
+alwayes unreasonable, and sometimes intolerable. E
+
+—regustatum digito terebrare salinum
+
+Contentus perages, si vivere cum Jove tendis.
+
+Formidable is the state of an intemperate man, whose sin begins with [[Page
+207]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=107) sensuality,
+and grows up in folly and weak discourses, and is fed by vio­lence A and
+applauded by fooles and parasites, full bellies, and empty heads, servants and
+flatterers, whose hands are full of flesh and blood, and their hearts empty of
+pity and naturall compassion; where reli­gion cannot inhabit, and the love of
+God must needs be a stranger; whose talk is loud, and trifling, injurious and
+impertinent; and whose imployment is the same with the work of the sheep or
+the calfe, alwayes to eat; their loves are the lusts of the lower belly, and
+their portion is in the lower regions to eternall ages, where their thirst,
+and their hunger, and their torment shall be infinite.
+
+4\. Intemperance is a perfect destruction of Wisdome.  [...], B 4. a full
+gorg'd belly never produc'd a sprightly mind: and therefore these kind of men
+are called  [...], slow bellies, so S. Paul concerning the intemperate Cretans
+out of their owne Poet: they are like the Tigres of Brasil, which when they
+are empty are bold, and swift, and full of sagacity, but being full, sneak
+away from the barking of a village dog. So are these men, wise in the morning,
+quick and fit for businesse; but when the sun gives the signe to spread the
+tables, and intemperance brings in the messes, and drunkennesse fills the
+bouls, then the man fals away, and leaves a beast in his room; nay worse,
+[...], they are dead all but their throat and belly, so Aristophanes hath
+fitted them with a C character, carkasses above halfe way; Plotinus descends
+one step lower yet; affirming such persons,  [...], they are made trees, whose
+whole imployment and life is nothing but to feed and suck juices from the
+bowels of their Nurse and Mother; and indeed commonly they talke as trees in a
+wind and tempest, the noise is great and querulous, but it signifies nothing
+but trouble and distur­bance. A full meal is like Sisera's banquet, at the end
+of which there is a nail struck into a mans head:  [...], so Porphyrie; it
+knocks a man down, and D nayls his soul to the sensuall mixtures of the body.
+For what wis­dome can be expected from them, whose soul dwels in clouds of
+meat, and floats up and down in wine, like the spilled cups which fell from
+their hands, when they could lift them to their heads no longer?  [...]: It is
+a perfect shipwrack of a Man, the Pilot is drunk and the helm dash'd in
+pieces, and the ship first reels, and by swallowing too much is it self
+swallowed up at last. And therefore the Navis Agrigentina, the madnesse of the
+young fellows of Agrigentum, who being drunk, fancyed them­selves in a storm,
+and the house the ship; was more then the wilde E fancy of their cups, it was
+really so, they were all cast away, they were broken in pieces by the foul
+disorder of the storm.
+
+Hinc vini atque somni degener discordia,
+
+Prudent. hym. de jejun.
+
+Libido sordens, inverecundus lepos,
+
+[[Page 208]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=108)
+
+Variaeque pestes languidorum sensuum. A
+
+Hinc frequenti marcida oblectamine
+
+Scintilla mentis intorpescit nobilis,
+
+Animscsque pigris stertit in praecordiis.
+
+The senses languish, the spark of Divinity that dwels within is quenched, and
+the mind snorts, dead with sleep and fulnesse in the fouler regions of the
+belly.
+
+So have I seen the eye of the world looking upon a fenny bottome, and drinking
+up too free draughts of moysture gather'd them into a cloud, and that cloud
+crept about his face, and made him first look red, and then cover'd him with
+darknesse and an artificiall night: so B is our reason at a feast.
+
+Putrem resudans crapulam
+
+Obstrangulatae mentis ingenium premit.
+
+The clouds gather about the head, and according to the method and period of
+the children, and productions of darkness, it first grows red, and that
+rednesse turns into an obscurity, and a thick mist, and reason is lost to all
+use and profitablenesse of wise and sober discourses; C [...], a cloud of
+folly and distraction Clem. Alexandr. darkens the soul, and makes it crasse
+and materiall, polluted and hea­vy, clogg'd and loaden like the body:  [...],
+And there cannot be any thing said worse, reason turnes into folly, wine and
+flesh into a knot of clouds, the soul it self into a body, and the spirit into
+cor­rupted meat; there is nothing left but the rewards and portions of a fool
+to be reaped and enjoyed there, where flesh and corruption shall dwell to
+eternall ages; and therefore in Scripture such men are called  [...].
+Hesternis vitiis animum quoque praegravant: D Their heads are grosse, their
+soules are immerged in matter, and drowned in the moystures of an unwholsome
+cloud; they are dull of hearing, slow in apprehension, and to action they are
+as unable as the hands of a childe, who too hastily hath broken the inclosures
+of his first dwelling.
+
+But temperance is reasons girdle, and passions bridle,  [...], so Homer in
+Stobaeus, that's  [...], prudence is safe, while the man is temperate, and
+therefore  [...] is opposed  [...], a temperate man is no fool, for temperance
+is the  [...], such as Plato ap­pointed to night-walkers, a prison to
+restraine their inordinations; E it is  [...], as Pythagoras calls it;  [...],
+so Socrates; [...], so Plato; [...], so Iämblicus, It is the strength of the
+soule, the foundation of vertue, the orna­ment of all good things, and the
+corroborative of all excellent habits.
+
+[[Page 209]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=108) 5\.
+After all this, I shall the lesse need to add, that intemperance is a dishonor
+and disreputation to the nature, and the person, and the man­ners A of a Man.
+But naturally men are ashamed of it, and the needs of 5. nature shal be the
+vail for their gluttony, and the night shall cover their drunkennesse.  [...],
+which the Apo­stle Alcaeus. rightly renders, They that are drunk are drunk in
+the night; but the Priests of Heliopolis never did sacrifice to the Sun with
+wine; meaning, that this is so great a dishonor, that the Sun ought not to see
+it; and they that think there is no other eye but the Sun that sees them, may
+cover their shame by choosing their time; just as children doe their danger by
+winking hard, and not looking on.  [...], To drink sweet drinks and B hot, to
+quaffe great draughts, and to eat greedily; Theophrastus makes them characters
+of a Clown.
+
+And now that I have told you the foulnesse of the Epicures feasts 3. and
+principles, it will be fit that I describe the measures of our eating and
+drinking, that the needs of nature may neither become the cover to an
+intemperate dish, nor the freer refreshment of our persons be changed into
+scruples, that neither our vertue nor our conscience fall into an evill snare.
+
+1\. The first measure of our eating and drinking is our natural needs, 1.
+[...]; these are the measures of C nature, that the body be free from pain,
+and the soul from violence. Hunger, and thirst, and cold are the naturall
+diseases of the body; and food, and rayment, are their remedies, and therefore
+are the measures.
+
+In quantum sitis atque fames, & frigora poscunt,
+
+Quantum Epicure tibi parvis suffecit in hortis.
+
+But in this there are two cautions. 1. Hunger and thirst are onely D to be
+extinguished while they are violent and troublesome, and are not to be
+provided for to the utmost extent and possibilities of na­ture; a man is not
+hungry so long, till he can eat no more, but till its sharpnesse and trouble
+is over, and he that does not leave some reserves for temperance, gives all
+that he can to nature, and nothing at all to grace; For God hath given a
+latitude in desires and degrees of appetite; and when he hath done, he laid
+restraint upon it in some whole instances, and of some parts in every
+instance; that man might have something to serve God of his own, and something
+to distinguish him from a beast in the use of their common faculties. E Beasts
+cannot refrain but fill all the capacity, when they can; and if a man does so,
+he does what becomes a beast, and not a man. And therefore there are some
+little symptomes of this inordination, by which a man may perceive himself to
+have transgressed his measures; Ructation, uneasie loads, singing, looser
+pratings, importune drowsi­nesse, [[Page
+210]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=109) provocation of
+others to equall and full chalices; and though in every accident of this
+signification, it is hard for another to pro­nounce A that the man hath
+sinned, yet by these he may suspect him­self, and learn the next time to hold
+the bridle harder.
+
+2\. This hunger must be naturall, not artificiall and provoked: For many men
+make necessities to themselves, and then think they are bound to provide for
+them. It is necessary to some men to have garments made of the Calabrian
+fleece stain'd with the blood of the murex, and to get money to buy pearls
+round and orient; scelerata hoc fecit pulpa; but it is the mans luxury that
+made it so; and by the same principle it is, that in-meats, what is abundant
+to nature is defective and beggerly to art; and when nature willingly rises
+from B Table, when the first course of flesh, plain, and naturall is done,
+then art, and sophistry, and adulterate dishes invite him to taste and die,
+[...] well may a sober man Chrysost. wonder that men should be so much in love
+with earth and corru­tion, the parent of rottennesse, and a disease, that even
+then when by all laws witches and inchanters, murderers and manstealers are
+chasti­sed and restrain'd with the iron hands of death, yet that men should at
+great charges give pensions to an order of men, whose trade it is to rob them
+of their temperance, and wittily to destroy their health;  [...], the Greek
+Fathers C call such persons;
+
+—curvae in terris animae & coelestium inanes,
+
+people bowed downe to the earth; lovers of pleasures more then lovers of God:
+Aretinas mentes, so Antidamus calls them, men fra­med Viz. ab Areto, unde
+sicut ex aliis Etruriae fi­gulinis testacea vasa Romam d [...]ferebant. in the
+furnaces of Etruria, Aretine spirits, beginning and en­ding in flesh and
+filthynesse; dirt and clay all over. But goe to the Crib thou glutton, and
+there it will be found that when the charger D is clean, yet natures rules
+were not prevaricated; the beast eats up all his provisions because they are
+naturall and simple; or if he leaves any, it is because he desires no more
+then till his needs be served; and neither can a man (unlesse he be diseased
+in body or inspirit, in affection or in habit) eat more of naturall and simple
+food then to the satisfactions of his naturall necessities. He that drinks a
+draught or two of water, and cooles his thirst, drinks no more till his thirst
+returnes; but he that drinks wine, drinks it again, longer then it is
+needfull, even so long as it is pleasant. Nature best provides for her self
+when she spreads her own Table; but when men have gotten su­perinduced E
+habits, and new necessities; art that brought them in must maintain them, but
+wantonnesse and folly wait at the table, and sickness and death take away.
+
+2\. Reason is the second measure, or rather the rule whereby we judge of
+intemperance; For whatsoever loads of meat or drink make [[Page
+211]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=109) the reason
+uselesse, or troubled, are effects of this deformi­ty; A not that reason is
+the adequate measure, for a man may be intemperate upon other causes, though
+he doe not force his under­standing, and trouble his head. Some are strong to
+drink, and can eat like a wolfe, and love to doe so, as fire to destroy the
+stubble; such were those Harlots in the Comedy, Quae cum amatore suo cum
+coenant liguriunt: These persons are to take their accounts from the measures
+of Religion, and the Spirit; though they can talk still or transact the
+affaires of the world, yet if they be not fitted for the things of the Spirit,
+they are too full of flesh or wine, and cannot or care not to attend to the
+things of God. But reason is the limit beyond which temperance never wanders;
+and in every degree in which our dis­course B is troubled, and our soul is
+lifted from its wheels, in the same degree the sin prevails. Dum sumus in
+quâdam delinquendi libidine, nebulis quibusdam insipientiae mens obducitur,
+saith St. Ambrose, when the flesh-pots reek, and the uncovered dishes send
+forth a nidor and hungry smels, that cloud hides the face, and puts out the
+eye of reason; and then tell them mors in ollâ, that death is in the pot, and
+folly in the chalice, that those smels are fumes of brimstone, and va­pours of
+Egypt; that they will make their heart easie, and their head sottish, and
+their colour pale, and their hands trembling, and their C feet tormented:
+
+(Mullorum leporúm (que) & suminis exitus hic est,
+
+Sulphureús (que) color carnificésque pedes.
+
+For that is the end of delicacies,  [...], as Dio Chrysostom. palenesse and
+effeminacy, and lazi­nesse, and folly:) yet under the dominion of the
+pleasures of sensua­lity, men are so stript of the use of reason, that they
+are not onely uselesse in wise counsels and assistances, but they have not
+reason D enough to avoid the evils of their own throat and belly: when once
+their reason fails, we must know, that their temperance and their reli­gion
+went before.
+
+3\. Though reason be so strictly to be preserved at our tables as well as at
+our prayers, and we can never have leave to doe any vio­lence 3. to it; yet
+the measures of Nature may be enlarged beyond the bounds of prime and common
+necessity. For besides hunger and thirst, there are some labours of the body,
+and others of the mind, and there are sorrows and loads upon the spirit by its
+communicati­ons with the indispositions of the body; and as the labouring man
+E may be supplyed with bigger quantities, so the student and contem­plative
+man with more delicious and spritefull nutriment: for as the tender and more
+delicate easily-digested meats will not help to carry burthens upon the neck,
+and hold the plough in society and yokes of the laborious oxen; so neither
+will the pulse and the leeks, Lavinian [[Page
+212]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=110) sausages, and
+the Cisalpine tucets or gobbets of condited buls flesh minister such delicate
+spirits to the thinking man; but his notion will be flat as the noyse of the
+Arcadian porter, and thick as the first juice of his countrey lard, unlesse he
+makes his body a fit servant to the soul, and both fitted for the imployment.
+
+But in these cases necessity, and prudence, and experience are to make the
+measures and the rule; and so long as the just end is fairly designed, and
+aptly ministred to, there ought to be no scruple con­cerning the quantity or
+quality of the provision: and he that would stint a Swain by the commons of a
+Student, and give Philotas the Candian, the leavings of Plato, does but ill
+serve the ends of tempe­rance, B but worse of prudence and necessity.
+
+4\. Sorrow and a wounded spirit may as well be provided for in the quantity
+and quality of meat and drink, as any other disease; and 4. this disease by
+this remedy as well as by any other. For great sorrow and importune melancholy
+may be as great a sin as a great anger; and if it be a sin in its nature, it
+is more malignant and dangerous in its quality; as naturally tending to murmur
+and despair, wearinesse of Religion, and hatred of God, timorousnesse and
+jealousies, fan­tastick images of things and superstition; and therefore as it
+is ne­cessary to restrain the feavers of anger, so also to warm the freezings
+and dulnesse of melancholy by prudent and temperate, but proper C and
+apportion'd diets; and if some meats and drinks make men lust­full, or sleepy,
+or dull, or lazy, or spritely, or merry, so far as meats and drinks can
+minister to the passion, and the passion minister to vertue, so far by this
+means they may be provided for. Give Prov. 31. 6. strong drink to him that is
+ready to perish, and wine to those that be of heavy hearts, let him drink and
+forget his poverty, and re­member his misery no more, said King Lemuel's
+Mother. But this is not intended to be an habituall cure, but single and
+occasionall; for he that hath a pertinacious sorrow is beyond the cure of meat
+and drink, and if this become every days physick, it will quickly D become
+every days sin. 2. It must alwayes keep within the bounds of reason, and never
+seise upon any portions of affection: The Ger­mans use to mingle musick with
+their bowls, and drink by the mea­sures of the six Notes of Musick:
+
+Ut relevet miserum fatum, solitósque labores:
+
+but they sing so long that they forget not their sorrow onely, but their
+vertue also, and their Religion; and there are some men that fall E into
+drunkennesse because they would forget a lighter calamity, run­ning into the
+fire to cure a calenture, and beating their brains out to be quit of the aking
+of their heads. A mans heavynesse is refreshed long before he comes to
+drunkennesse; for when he arrives thither, he hath but chang'd his heavynesse,
+and taken a crime to boot.
+
+[[Page 213]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=110) 5\.
+Even when a man hath no necessity upon him, no pungent sor­row, A or naturall
+or artificiall necessity, it is lawfull in some cases of eating and drinking
+to receive pleasure and intend it. For whatsoe­ver is naturall and necessary,
+is therefore not criminall, because it is of Gods procuring; and since we eate
+for need, and the satisfaction of our need is a removing of a pain, and that
+in nature is the greatest pleasure, it is impossible that in its own nature it
+should be a sin. But in this case of Conscience, these cautions are to be
+observed: 1. So long as nature ministers the pleasure and not art, it is
+materi­ally innocent. Si tuo veniat jure, luxuria est: But it is safe while
+Senec [...]. it enters upon natures stock; for it is impossible that the
+proper effect B of health, and temperance, and prudent abstinence should be
+vicious; and yet these are the parents of the greatest pleasure, in eating and
+drinking. Malum panem expecta, bonus fiet; etiam illum tenerum tibi &
+siligineum fames reddet: If you abstaine and be hungry, you shall turne the
+meanest provision into delicate, and de­sireable.
+
+2\. Let all the pleasure of meat and drink be such as can minister to health,
+and be within the former bounds. For since pleasure in eating and drinking is
+its naturall appendage, and like a shadow follows the substance, as the meat
+is to be accounted, so is the plea­sure: and if these be observed, there is no
+difference whether nature C or art be the Cook. For some constitutions, and
+some mens customes, and some mens educations, and necessities, and weaknesses
+are such, that their appetite is to be invited, and their digestion helped,
+but all this while we are within the bounds of nature and need.
+
+3\. It is lawfull when a man needs meat to choose the pleasan­ter, even meerly
+for their pleasures; that is, because they are pleasant, besides that they are
+usefull; this is as lawfull as to smell of a rose, or to lye in feathers, or
+change the posture of D our body in bed for ease, or to hear musick, or to
+walk in gardens rather then the high-wayes; and God hath given us leave to be
+delighted in those things which he made to that purpose, that we may also be
+delighted in him that gives them. For so as the more pleasant may better serve
+for health, and directly to refreshment, so collaterally to Religion: Alwayes
+provided, that it be in its degree mo­derate, and we temperate in our desires,
+without transportation and violence, without unhandsome usages of our selves,
+or taking from God and from Religion any minutes and portions of our
+affections. When Eicadastes the Epicure saw a goodly dish of hot meat serv'd E
+up, he sung the verse of Homer,
+
+[...],
+
+and swallowed some of it greedily, till by its hands of fire it curled [[Page
+214]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=111) his stomach,
+like parchment in the flame, and he was carryed from A his banquet to his
+grave.
+
+Non poterat letho nobiliore mori:
+
+It was fit he should dye such a death; but that death bids us beware of that
+folly.
+
+4\. Let the pleasure as it came with the meat, so also passe away with it.
+Philoxenus was a beast,  [...], he wisht his throat as long as a Cranes, that
+he might be long in swallowing his pleasant morsels: Moeret quòd magna pars
+felicitatis B exclusa esset corporis angustiis; he mourned because the
+pleasure of eating was not spread over all his body, that he might have been
+an Epicure in his hands: and indeed, if we consider it rightly, great eating
+and drinking is not the greatest pleasure of the taste, but of the touch; and
+Philoxenus might feel the unctious juyce slide softly down his throat, but he
+could not taste it in the middle of the long neck; and we see that they who
+mean to feast exactly, or delight the palate, do libare or pitissare, take up
+little proportions and spread them upon the tongue or palate; but full
+morsells and great draughts are easie and soft to the touch; but so is the
+feeling of silke, or handling of a melon, or a moles skin, and as delicious
+too as C eating when it goes beyond the appetites of nature, and the proper
+pleasures of taste, which cannot be perceived but by a temperate man. And
+therefore let not the pleasure be intended beyond the taste; that is, beyond
+those little naturall measures in which God intended that pleasure should
+accompany your tables. Doe not run to it beforehand, nor chew the chud when
+the meal is done; delight not in the fancies, and expectations, and
+remembrances of a pleasant meal; but let it descend in latrinam, together with
+the meals whose attendant pleasure is.
+
+5\. Let pleasure be the lesse principall, and used as a servant; it D may be
+modest and prudent to strew the dish with Sugar, or to dip thy bread in
+vinegar, but to make thy meal of sauces, and to make the accessory become the
+principall, and pleasure to rule the table, and all the regions of thy soule,
+is to make a man lesse and lower then an Oglio, of a cheaper value then a
+Turbat; a servant and a worshipper of sauces, and cookes, and pleasure, and
+folly.
+
+6\. Let pleasure as it is used in the regions and limits of nature and
+prudence, so also be changed into religion and thankfulnesse. E Turtures cum
+bibunt non resupinant colla, say Naturalists, Turtles when they drink lift not
+up their bills; and if we swallow our pleasures without returning the honour
+and the acknowledegment to God that gave them, we may largè bibere jumentorum
+modo, drink draughts as large as an Oxe, but we shall die like an Oxe, [[Page
+215]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=111) and change our
+meats and drinks into eternall rottennesse. In all A Religions it hath been
+permitted to enlarge our Tables in the days of sacrifices and religious
+festivity.
+
+Qui Veientarum festis potare diebus,
+
+Campanâ solitus trullâ, vappámque profestis.
+
+For then the body may rejoyce in fellowship with the soule, and then a
+pleasant meal is religious, if it be not inordinate. But if our festivall
+dayes like the Gentile sacrifices end in drunkennesse [ [...]] and our joyes
+in Religion passe into sensua­lity B and beastly crimes, we change the Holy-
+day into a day of Death, and our selves become a Sacrifice as in the day of
+Slaughter.
+
+To summe up this particular, there are, as you perceive, many cautions to make
+our pleasure safe, but any thing can make it inordinate, and then scarce any
+thing can keep it from becoming dangerous.
+
+Habet omnis hoc voluptas,
+
+Boetius l. 3\. Metr. 7.
+
+Stimulis agit furentes, C
+
+Apiúmque par volantum,
+
+Ubi grata mella fudit,
+
+Fugit & nimis tenaci
+
+Ferit icta corda morsu.
+
+And the pleasure of the honey will not pay for the smart of the sting. Amores
+enim & deliciae maturè & celeritèr deflorescunt, & in omnibus rebus
+voluptatibus maximis fastidium finitimum est. Nothing is so soon ripe and
+rotten as pleasure, and upon all pos­sessions and states of things, loathing
+looks, as being not far off; D but it sits upon the skirts of pleasure.
+[...]. He that greedily puts his hand to a delicious table, shall weep
+bitterly when he suffers the convulsions and violence by the divided interests
+of such contrary juices:  [...]. For this is the law of our nature and fatall
+necessity; life is alwayes poured forth from two goblets.
+
+And now after all this, I pray consider, what a strange madness and prodigious
+folly possesses many men, that they love to swallow death, and diseases, and
+dishonor, with an appetite which no reason can E restrain. We expect our
+servants should not dare to touch what we have forbidden to them; we are
+watchfull that our children should not swallow poysons, and filthinesse, and
+unwholesome nourishment; we take care that they should be well manner'd and
+civil and of fair demeanour; and we our selves desire to be, or [[Page
+216]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=112) at least to be
+accounted wise; and would infinitely scorne to be call'd fooles; and we are so
+great lovers of health, that we will A buy it at any rate of money or
+observance; and then for honour, it is that which the children of men pursue
+with passion, it is one of the noblest rewards of vertue, and the proper
+ornament of the wise and valiant, and yet all these things are not valued or
+con­sidered, when a merry meeting, or a looser feast calls upon the man to act
+a scene of folly and madnesse, and healthlesnesse and dishonour. We doe to God
+what we severely punish in our ser­vants; we correct our children for their
+medling with dangers, which themselves preferre before immortality; and though
+no man think himselfe fit to be despised, yet he is willing to make B himselfe
+a beast, a sot, and a ridiculous monkey, with the follies and vapors of wine;
+and when he is high in drinke or fancy, proud as a Grecian Orator in the midst
+of his popular noyses, at the same time he shall talk such dirty language,
+such mean low things, as may well become a changeling and a foole, for whom
+the stocks are prepared by the laws, and the just scorne of men. Every
+drunkard clothes his head with a mighty scorne, and makes himselfe lower at
+that time then the meanest of his servants; the boyes can laugh at him when he
+is led like a cripple, di­rected like a blinde man, and speakes like an
+infant, imperfect C noyses, lisping with a full and spungy tongue, and an
+empty head, and a vaine and foolish heart: so cheaply does he part with his
+honour for drink or loads of meat; for which honour he is ready to die, rather
+then hear it to be disparaged by another; when himselfe destroyes it, as
+bubbles perish with the breath of children. Doe not the laws of all wise
+Nations marke the drunkard for a foole, with the meanest and most scornfull
+pu­nishment? and is there any thing in the world so foolish as a man that is
+drunk? But good God! what an intolerable sorrow hath seised upon great
+portions of Mankind, that this folly and D madnesse should possesse the
+greatest spirits, and the wittyest men, the best company, the most sensible of
+the word honour, and the most jealous of loosing the shadow, and the most
+carelesse of the thing? Is it not a horrid thing, that a wise, or a crafty, a
+lear­ned, or a noble person should dishonour himselfe as a foole, de­stroy his
+body as a murtherer, lessen his estate as a prodigall, disgrace every good
+cause that he can pretend to by his rela­tion, and become an appellative of
+scorne, a scene of laughter or derision, and all, for the reward of
+forgetfulnesse and mad­nesse? E for there are in immoderate drinking no other
+plea­sures.
+
+Why doe valiant men and brave personages fight and die ra­ther then break the
+laws of men, or start from their duty to their Prince, and will suffer
+themselves to be cut in pieces rather [[Page
+217]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=112) then deserve
+the name of a Traitor or perjur'd? and yet these very men to avoyd the hated
+name of Glutton or Drunkard, and A to preserve their Temperance, shall not
+deny themselves one luscious morsell, or poure a cup of wine on the ground,
+when they are invited to drink by the laws of the circle or wilder company.
+
+Me thinks it were but reason, that if to give life to uphold a cause be not
+too much, they should not think too much to be hungry and suffer thirst for
+the reputation of that cause; and therefore much rather that they would thinke
+it but duty to be temperate for its honour, and eat and drink in civill and
+faire B measures, that themselves might not lose the reward of so much
+suffering, and of so good a relation, nor that which they value most be
+destroyed by drink.
+
+There are in the world a generation of men that are ingag'd in a cause, which
+they glory in, and pride themselves in its re­lation and appellative: but yet
+for that cause they will doe no­thing but talk and drink; they are valiant in
+wine, and witty in healths, and full of stratagem to promote debauchery; but
+such persons are not considerable in wise accounts; that which I deplore is,
+that some men preferre a cause before their life, and yet preferre wine before
+that cause, and by one drunken C meeting set it more backward in its hopes and
+blessings, then it can be set forward by the counsels and armes of a whole
+yeer. God hath ways enough to reward a truth without crowning it with successe
+in the hands of such men. In the mean time they dishonour Religion, and make
+truth be evill spoken of, and innocent persons to suffer by their very
+relation, and the cause of God to be reproached in the sentences of erring and
+abused people; and themselves lose their health and their rea­son, their
+honour and their peace, the rewards of sober counsels, D and the wholesome
+effects of wisdome.
+
+Arcanum ne (que) tu scrutaberis ullius unquam,
+
+Commissúmque teges, & vino tortus & irâ.
+
+Wine discovers more then the rack, and he that will be drunk is not a person
+fit to be trusted: and though it cannot be expected men should be kinder to
+their friend, or their Prince, or their honour, then to God, and to their own
+souls, and to their own bodies; yet when men are not moved by what is sensible
+and E materiall, by that which smarts and shames presently, they are beyond
+the cure of Religion, and the hopes of Reason; and therefore they must lie in
+hell like sheep, death gnawing upon them, and the righteous shall have
+domination over them in the morning of the resurrection.
+
+[[Page 218]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=113)
+
+Seras tutior ibis ad lucernas, A
+
+Haec hora non est tua, cum furit Lyaeus
+
+Cùm regnant rosae, cùm madent capilli.
+
+Much safer it is to go to the severities of a watchfull and a sober life; for
+all that time of life is lost, when wine, and rage, and pleasure, and folly
+steale away the heart of a man, and make him goe singing to his grave.
+
+I end with the saying of a wise man; He is fit to sit at the table of the
+Lord, and to feast with Saints, who moderately uses B the creatures which God
+hath given him: But he that despises even lawfull pleasures,  [...], shall not
+onely sit and feast with God, but reign together with him, and partake of his
+glorious Kingdome.
+
+[[Page 219]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=113)
+
+## 17\. Sermon, XVII. THE MARRIAGE RING: OR THE Mysteriousnesse and Duties of
+Marriage. Part I.
+
+Ephes. 5. 32, 33.‘This is a great mysterie, But I speak concerning Christ and
+the Church. Neverthelesse let every one of you in particular so love his Wife
+even as himself, and the Wife see that shee reverence her Husband.’
+
+THe first blessing God gave to man was society, D and that society was a
+Marriage, and that Mar­riage was confederate by God himself, and hal­lowed by
+a blessing: and at the same time, and for very many descending ages, not only
+by the instinct of Nature, but by a superadded forwardnesse (God himself
+inspiring the de­sire) Quemlibet hominem cui non est uxor, mi­nimè esse
+homi­nem, cum etiam in Scriptura di­gatur, Masculum & foeminam creavit eos &
+vocavit no men corum Adam self hominem. R. Eliezer dixit in Gem. Bab. Quicun
+(que) negligit prae­cepium de mul­tiplicatione hu­mani generis ha­bendum esse
+ve­luti homicidam. the world was most desirous of children, impatient of
+barrennesse, accounting single life a curse, and a child­lesse person hated by
+God. The world was rich and empty, and able to provide for a more numerous
+posterity then it it had. E
+
+— [...]
+
+[...].
+
+You that are rich Numenius, you may multiply your family, poor [[Page
+220]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=114) men are not so
+fond of children; but when a family could drive their heards, and set their
+children upon camels, and lead them till A they saw a fat soil watered with
+rivers, and there sit down with­out paying rent, they thought of nothing but
+to have great fami­lies, that their own relations might swell up to a
+Patriarchat, and their children be enough to possesse all the regions that
+they saw, and their grand-children become Princes, and themselves build cities
+and call them by the name of a childe, and become the foun­tain of a Nation.
+This was the consequent of the first blessing, Increase and multiply. The next
+blessing was the promise of the Messias, and that also increased in men and
+women a wonder­full desire of marriage: for as soon as God had chosen the
+fa­mily B of Abraham tobe the blessed line, from whence the worlds Redeemer
+should descend according to the flesh, every of his daughters hoped to have
+the honour to be his Mother, or his Grand-mother or something of his kindred:
+and to be childe­lesse Christiani & a­pud Athenas, [...] re­fert Julius
+Pol­lux l. 3\.  [...]. Idem ctiam Laccdae­moue & Romae. vide Festum verb.
+uxorium, at (que) ibi Joseph. Scat. in Israel was a sorrow to the Hebrew women
+great as the slavery of Egypt, or their dishonours in the land of their
+cap­tivity.
+
+But when the Messias was come, and his doctrine was publi­shed, and his
+Ministers but few, and the Disciples were to suffer persecution, and to be of
+an unsetled dwelling, and the Nation of C the Jews, in the bosome and society
+of which the Church especially did dwell, were to be scattered and broken all
+in pieces with fierce calamities, and the world was apt to calumniate and to
+su­spect and dishonour Christians upon pretences, and unreasonable jealousies,
+and that to all these purposes the state of marriage brought many
+inconveniences; it pleased God in this new crea­tion to inspire into the
+hearts of his servants a disposition and strong desires to live a single life,
+lest the state of marriage should in that conjunction of things become an
+accidentall im­pediment to the dissemination of the Gospell, which cal'd men D
+from a confinement in their domestick charges to travell, and flight, and
+poverty, and difficulty, and Martyrdome: upon this necessity the Apostles and
+Apostolicall men published Doctrines, declaring the advantages of single life,
+not by any commande­ment of the Lord, but by the spirit of prudence,  [...],
+for the present and then incumbent necessities, and in or­der to the
+advantages which did accrew to the pub­lick ministeries and private piety.
+There are some Etiam Judaei qui praeceptum esse vi­ris [...] aiunt uno ore
+conce­dunt tamen dispensatum esse cum ils qui assiduo legis studio vacare
+vo­lunt, aliàs etiam immunibus ab acri­ori carnis stimulo. Maimon. cap. 15\.
+Halach. Ishoth. (said our blessed Lord) who make themselves Eu­nuchs E for the
+Kingdome of Heaven, that is, for the advantages and the ministery of the
+Gospell, non ad vitae bonae meritum (as St. Austin in the like case) not that
+it is a better service of God in it self, but that it is usefull to the first
+circumstances of the Go­spell [[Page
+221]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=114) and the
+infancy of the Kingdome, because A the unmarryed person does  [...], is
+[...], &c. Epist. ad Philadelth. apt to spirituall and Ecclesiasticall
+imployments: first  [...] and then  [...], holy in his own per­son, and then
+sanctified to publick ministeries; and it was also of ease to the Christians
+themselves, be­cause as then it was, when they were to flie, and to flie for
+ought they knew, in winter, and they were persecuted to the four winds of
+heaven; and the nurses and the women with childe were to suffer a heavier load
+of sorrow because of the imminent persecutions; and above all, because B of
+the great fatality of ruine upon the whole nation of the Jewes, well it might
+be said by St. Paul [...], Such shall have trouble in the flesh, that is, they
+that are marryed shall, and so at that time they had: and therefore it was an
+act of charity to the Christians to give that counsell,  [...] I do this to
+spare you, and  [...]: for when the case was alter'd and that storm was over,
+and the first necessities of the Gospel served, and the sound was gone out
+into all nations; in very many persons it was wholly changed, and not the
+marryed but the unmarryed had  [...] trouble in the flesh; and the state of
+marriage returned C to its first blessing, & non non erat bonum homini esse
+solitarium, and it was not good for man to be alone.
+
+But in this first intervall, the publick necessity and the private zeal
+mingling together did sometimes over-act their love of single life, even to
+the disparagement of marriage, and to the scandall of Religion; which was
+increased by the occasion of some pious persons renouncing their contract of
+marriage, not consummate, with unbeleevers. For when Flavia Domitilla being
+converted by Nereus and Achilleus the Eunuchs, refused to marry Aurelianus to
+whom she was contracted; if there were not some little envie D and too sharp
+hostility in the Eunuchs, to a marryed state, yet Au­relianus thought himself
+an injur'd person, and caus'd St. Clemens who vail'd her, and his spouse both,
+to dye in the quarrell. St. Thecla being converted by St. Paul grew so in love
+with virginity, that she leap'd back from the marriage of Tamyris where she
+was late­ly ingaged. St. Iphigenia denyed to marry King Hirtacus, and it is
+said to be done by the advice of St. Matthew. And Susanna the Niece of
+Diocletian refus'd the love of Maximianus the Emperour; and these all had been
+betrothed; and so did St. Agnes and St. Felicula, and divers others then and
+afterwards; insomuch, that E it was reported among the Gentiles, that the
+Christians did not only hate all that were not of their perswasion, but were
+enemies of the chast lawes of marriage; And indeed some that were called
+Christians were so; forbidding to marry, and commanding to ab­stain from
+meats. Upon this occasion it grew necessary for the Apo­stle [[Page
+222]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=115) to state the
+question right, and to do honour to the holy rite A of marriage, and to snatch
+the mystery from the hands of zeal and folly, and to place it in Christs right
+hand, that all its beauties might appear, and a present convenience might not
+bring in a false Doctrine, and a perpetuall sin, and an intolerable mischief.
+The Apostle therefore who himself  [...]. Ig­natius epislol. dd Philadelph. Et
+Clemens i­dem ait a pud Eusebiumbist. Eccles. lib. 3\. sed tamen eam non
+circumduxit sicut Petrus: probat autem eae Philip. 4. had been a marryed man,
+but was now a widower, does explicate the mysteriousnesse of it, and
+de­scribes it's honours, and adornes it with rules and provisions of Religion,
+that as it begins with honour, so it may proceed with piety, and end with
+glory.
+
+For although single life hath in it privacy and simplicity of af­faires, such
+solitarinesse and sorrow, such leasure and unactive B circumstances of living,
+that there are more spaces for religion if men would use them to these
+purposes; and because it may have in it much religion and prayers, and must
+have in it a perfect mortifica­tion of our strongest appetites, is therefore a
+state of great excellen­cy; yet concerning the state of marriage we are taught
+from Scripture and the sayings of wise men, great things and honourable.
+Marriage is honourable in all men, so is not single life; for in some it is a
+share and a  [...], a trouble in the flesh, a prison of unruly de­sires which
+is attempted daily to be broken. Celibare or single life is C never commanded;
+but in some cases marriage is; and he that burns, sins often if he marries
+not, he that cannot contain must marry, and he that can contain is not tyed to
+a single life, but may marry and not sin. Marriage was ordained by God,
+instituted in Paradise, was the relief of a naturall necessity, and the first
+blessing from the Lord; he gave to Man not a friend, but a wife, that is, a
+friend and a wife too: (for a good woman is in her soul the same that a man
+is, and she is a woman only in her body; that she may have the excellency of
+the one, and the usefulnesse of the other, and become amiable in both:) it is
+the seminary of the Church, and daily brings D forth sons and daughters unto
+God; it was ministred to by An­gels, and Raphael waited upon a young man that
+he might have a blessed marriage, and that that marriage might repair two sad
+fa­milies, and blesse all their relatives. Our blessed Lord, though he was
+born of a malden, yet she was vail'd under the cover of mar­riage, and she was
+marryed to a widower; for Joseph the supposed Father of our Lord had children
+by a former wife. The first Mi­racle that ever Jesus did, was to doe honour to
+a wedding; mar­riage was in the world before sin, and is in all ages of the
+world the greatest and most effective antidote against sin, in which all the
+world E had perished if God had not made a remedy; and although sin hath
+sour'd marriage, and stuck the mans head with cares, and the wo­mans bed with
+sorrowes in the production of children, yet these are but throws of life and
+glory; and she shall be saved in child­bearing, if she be found in faith and
+righteousnesse. Marriage is a [[Page
+223]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=115) Schoole and
+exercise of vertue; and though Marriage hath cares, yet the single life hath
+desires which are more troublesome and more A dangerous, and often end in sin,
+while the cares are but instances of duty and exercises of piety; and
+therefore if single life hath more privacy of devotion, yet marriage hath more
+necessities and more variety of it, and is an exercise of more graces. In two
+vertues celibate or single life may have the advantage of degrees ordinarily
+and commonly, that is, in chastity and devotion: but as in some per­sons this
+may fail, and it does in very many, and a marryed man may spend as much time
+in devotion as any virgins or widowes do, yet as in marriage even those
+vertues of chastity and devotion are B exercised: so in other instances, this
+state hath pro­per exercises and trials for those graces, for which  [...].
+Plato. single life can never be crown'd; Here is the pro­per seene of piety
+and patience, of the duty of Pa­rents and the charity of relatives; here
+kindnesse is Adde quòd. Eunuchus nulla pietate movetur, Nee generi natisve
+cavet clementia cunctis In similes animos (que) ligant conscrtia damni.
+Claudian. spread abroad, and love is united and made firm as a centre:
+Marriage is the nursery of heaven; the vir­gin sends prayers to God, but she
+carries but one soul to him; but the state of marriage fils up the numbers of
+the elect, and hath in it the labour of love, and the de­licacies of
+friendship, the blessing of society, and the union of hands C and hearts; it
+hath in it lesse of beauty, but more of safety then the single life; it hath
+more care, but lesse danger; it is more merry, and  [...]. more sad; is fuller
+of sorrowes, and fuller of joyes; it lies under more burdens, but it is
+supported by all the strengths of love and charity, and those burdens are
+delightfull. Marriage is the mother of the world, and preserves Kingdomes, and
+fils Cities, and Churches, and Heaven it self: Celibate, like the flie in the
+heart of an apple, dwels in a Siquis patriam majorem pa­rentem extin­guit, in
+eo culpa est, quod facit prosua parte quise eunuchat aut aliquâ libe­ros
+producit, i. e. differt eo­rum procreati­onem. Varro in lege Maenia.
+perpetuall sweetnesse, but sits alone, and is confin'd and dies in
+singu­larity; but marriage, like the usefull Bee, builds a house and gathers D
+sweetnesse from every flower, and labours and unites into societies and
+republicks, and sends out colonies, and feeds the world with de­licacies, and
+obeys their king, and keeps order, and exercises many vertues, and promotes
+the interest of mankinde, and is that state of good things to which God hath
+designed the present constitution of the world.
+
+[...]
+
+[...]. E
+
+Single life makes men in one instance to be like Angels, but mar­riage in very
+many things makes the chast pair to be like to Christ. This is a great
+mystery, but it is the symbolicall and sacramentall re­presentment of the
+greatest mysteries of our Religion. Christ de­scended from his Fathers bosome,
+and contracted his divinity with [[Page
+224]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=116) flesh and
+bloud, and marryed our Nature, and we became a Church, the spouse of the
+bridegroom, which he cleansed with his bloud, and A gave her his holy Spirit
+for a dowry, and heaven for a joynture; be­getting children unto God by the
+Gospel; this spouse he hath joyn'd to himself by an excellent charity, he
+feeds her at his own table, and lodges her nigh his own heart, provides for
+all her necessities, relieves her sorrowes, determines her doubts, guides her
+wandrings, he is become her head, and she as a signet upon his right hand; he
+first indeed was betrothed to the Synagogue and had many children by her, but
+she forsook his love, and then he marryed the Church of the Gentiles, and by
+her as by a second venter had a more nu­merous B issue, at (que) una domus est
+omnium filiorum ejus, all the chil­dren dwell in the same house, and are heirs
+of the same promises, intituled to the same inheritance. Here is the eternall
+conjuncti­on, the indissoluble knot, the exceeding love of Christ, the
+obe­dience of the Spouse, the communicating of goods, the uniting of
+interests, the fruit of marriage, a celestiall generation, a new crea­ture;
+Sacramentum hoc magnum est; this is the sacramentall myste­ry represented by
+the holy rite of marriage; so that marriage is di­vine in its institution,
+sacred in its union, holy in the mystery, sacra­mentall in its signification,
+honourable in its appellative, religious in its imployments: It is advantage
+to the societies of men, and it C is holinesse to the Lord. Dico autem in
+Christo & Ecclesiâ,] It must be in Christ and the Church.
+
+If this be not observed, marriage loses its mysteriousnesse: but because it is
+to effect much of that which it signifies, it concerns all that enter into
+those golden fetters to see that Christ and his Church be in at every of its
+periods, and that it be intirely conducted and over-rul'd by Religion; for so
+the Apostle passes from the sacra­mentall rite to the reall duty;
+Neverthelesse, that is, although the former discourse were wholly to explicate
+the conjunction of Christ and his Church by this similitude, yet it hath in it
+this reall duty, D that the man love his wife, and the wife reverence her
+husband; and this is the use we shall now make of it, the particulars of which
+precept I shall thus dispose.
+
+1\. I shall propound the duty as it generally relates to Man and Wife in
+conjunction. 2. The duty and power of the Man. 3. The rights and priviledges
+and the duty of the Wife.
+
+1\. In Christo & Ecclesia] that begins all, and there is great need it should
+be so, for they that enter into the state of mar­riage cast a dye of the
+greatest contingency, and yet of the grea­test E interest in the world, next
+to the last throw for eternity.
+
+[...],
+
+[...].
+
+[[Page 225]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=116) life or
+death, felicity or a lasting sorrow are in the power of mar­riage. A A woman
+indeed ventures most, for she hath no sanctu­ary to retire to, from an evill
+husband; she must dwell upon her sorrow, and hatch the egges which her own
+folly or infelicity hath produced; and she is more under it, because her
+tormen­tor hath a warrant of prerogative, and the woman may complain to God as
+subjects do of tyrant Princes, but otherwise she hath no appeal in the causes
+of unkindenesse. And though the man can run from many hours of his sadnesse,
+yet he must return to it again, and when he sits among his neighbours he
+remembers the objection that lies in his bosome, and he sighes deeply. B
+
+Ah tum te miserum, mali (que) fati
+
+Quem attractis pedibus patente portâ
+
+Percurrent mugilé (que) raphani (que)
+
+The boyes, and the pedlers, and the fruiterers shall tell of this man, when he
+is carryed to his grave, that he lived and dyed a poor wretched person. The
+Stags in the Greek Epigram, whose knees were clog'd with frozen snow upon the
+mountains, came down to the brooks of the vallies,  [...], hoping to C thaw
+their joynts with the waters of the stream; but there the frost overtook them,
+and bound them fast in ice, till the young heards­men took them in their
+stranger snare. It is the unhappy chance of many men, finding many
+inconveniences upon the mountains of sin­gle life, they descend into the
+vallies of  [...], &c. marriage to refresh their troubles, and there they
+enter into fetters, and are bound to sor­row by the cords of a mans or womans
+peevishnesse: and the worst of the evill is, they are to thank their own
+follies; for they fell into the snare by entring an improper way: Christ and
+the Church were no ingredients in their choice: but as the Indian women, enter
+in­to D folly for the price of an Elephant, and think their crime
+war­rantable; so do men and women change their liberty for a rich for­tune
+(like Eriphyle the Argive, [...], she prefer'd gold before a good man) and
+shew themselves to be lesse then money by overvaluing that to all the content
+and wise felicity of their lives: and when they have counted the money and
+their sorrowes together, how willingly would they Non ego illam mihi dotem
+duco esse quae dos dicitur, Sed pudicitiam & pudorem, & sedatum cupidinem,
+Deûm metum, parentum amo­rem, & cogna­tûm concordi­am. Plaut. in Amphit. buy
+with the losse of all that money, modesty, or sweet nature to their relative!
+the odde thousand pound would gladly be allowed in good nature and fair
+manners. As very a fool is he that chooses for Facies, non uxor amatur. beauty
+principally; E cui sunt eruditi oculi & stulta mens (as one said) whose eyes
+are witty, and their soul sensuall; It is an ill band of affections to tye two
+hearts together by a little thread of red and white.
+
+[[Page 226]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=117)
+
+[...] A
+
+[...].
+
+And they can love no longer but untill the next ague comes, and Tres rugae
+sube­ant, & se cutis arida laxet, Fiant obscuri dentes, oculi (que) minores,
+Collige sarcinu­tas dicet liber­tus, & exi. Juven. Sat. 6. they are fond of
+each other but at the chance of fancy, or the small pox, or childebearing, or
+care, or time, or any thing that can de­stroy a pretty flower. But it is the
+basest of all when lust is the Paranymph and solicits the suit, and makes the
+contract, and joyn'd the hands; for this is commonly the effect of the former,
+according to the Greek proverb, B
+
+[...],
+
+[...].
+
+At first for his fair cheeks and comely beard, the beast is taken for a Lion,
+but at last he is turn'd to a Dragon or a Leopard, or a Swine. That which is
+at first beauty on the face may prove lust in the manners.
+
+[...] C
+
+[...],
+
+So Eubulus wittily reprehended such impure contracts; they offer in their
+maritall sacrifices nothing but the thigh and that which the Priests cut from
+the goats when they were laid to bleed upon the Altars.  [...], said St.
+Clement. ‘He or she that looks too curiously upon the beauty of the body,
+looks too low, and hath flesh and corrupti­on in his heart, and is judg'd
+sensuall and earthly in his affections D and desires.’ Begin therefore with
+God, Christ is the president of marriage and the holy Ghost is the fountain of
+purities and chast loves, and he joynes the hearts; and therefore let our
+first suit be in the court of heaven, and with designs of piety, or safety, or
+charity; let no impure spirit defile the virgin purities and castifica­tions
+of the soul, (as St. Peters phrase is) let all such contracts be­gin with
+religious affections.
+
+Conjugium petimus, partúm (que) uxoris, at illi
+
+Notum qui pueri, qualisve futura sit uxor. E
+
+We sometimes beg of God for a wife or a childe, and he alone knows what the
+wife shall prove, and by what dispositions and manners and into what fortune
+that childe shall enter: but we shall not need to fear concerning the event of
+it, if religion, and fair intentions, and [[Page
+227]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=117) prudence
+manage, and conduct it all the way. The preservation A of a family, the
+production of children, the avoiding for­nication, the refreshment of our
+sorrowes by the comforts of society, all these are fair ends of marriage and
+hallow the entrance; but in these there is a speciall order; society was the
+first designed, It is not good for man to be alone; Children was the next,
+Increase and multiply; but the avoiding fornication came in by the
+superfetation of the evill accidents of the world. The first makes marriage
+delectable, the second necessary to the publick, the third necessary to the
+particular; This is for safety; for life and heaven it self; B
+
+Nam simulac venas inflavit dira cupido,
+
+Huc juvenes aequum est descendere;—
+
+The other have in them joy and a portion of immortality: the first makes the
+mans heart glad, the second is the friend of Kingdomes, and cities, and
+families, and the third is the enemy to hell, and an antidote of the chiefest
+inlet to damnation: but of all these the no­blest end is the multiplying
+children, Mundus cum patet, Deorum tristium at (que) inferûm quasi patet
+janua; propterea uxorem liberorum C quaerendorum causâ ducere religiosum est,
+said Varro, It is religion Macrobius ex Varrone. to marry for children; and
+Quintilian puts it into the definition of a wife, est enim uxor quam jungit,
+quam diducit utilitas; cujus haec reverentia est, quòd videtur inventa in
+causa liberorum, and there­fore St. Ignatius when he had spoken of Elias, and
+Titus, and Cle­ment, with an honourable mention of their virgin state, lest he
+might Epist. ad Phi­ladelph. seem to have lessened the marryed Apostles, at
+whose feet in Christs Kingdome he thought himself unworthy to sit, he gives
+this testi­mony, they were  [...], that they might not be di­sparaged D in
+their great names of holinesse and severity, they were secured by not marrying
+to satisfie their lower appetites, but out of desire of children. Other
+considerations, if they be incident and by way of appendage, are also
+considerable in the accounts of prudence; but when they become principles,
+they defile the mystery and make the blessing doubtfull: Amabit sapiens,
+cupient caeteri, said Afranius, love is a fair inducement, but desire and
+appetite are rude, and the characterismes of a sensuall person: Amare justi &
+boni est, cupere impotentis; to love, belongs to a just and a good man; but to
+lust, or furiously and passionately to desire, is the sign of impotency and an
+E unruly minde.
+
+2\. Man and wife are equally concerned to avoid all offences of each other in
+the beginning of their conversation: every little thing can blast an infant
+blossome; and the breath of the south can shake the little rings of the Vine,
+when first they begin to curle like the [[Page
+228]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=118) locks of a new
+weaned boy; but when by age and consolidation they stiffen into the hardnesse
+of a stem, and have by the warm em­braces A of the sun and the kisses of
+heaven brought forth their clusters, they can endure the storms of the North,
+and the loud noises of a tempest, and yet never be broken: so are the early
+unions of an unfixed marriage; watchfull and observant, jealous and busie,
+in­quisitive and carefull, and apt to take alarum at every unkind word. For
+infirmities do not manifest themselves in the first scenes, but in the
+succession of a long society; and it is not chance or weaknesse when it
+appears at first, but it is want of love or prudence, or it will be so
+ex­pounded; and that which appears ill at first usually affrights the
+un­experienced man or woman, who makes unequall conjectures, and B fancies
+mighty sorrowes by the proportions of the new and early unkindnesse. It is a
+very great passion, or a huge folly, or a certain want of love, that cannot
+preserve the colours and beauties of kind­nesse, so long as publick honesty
+requires man to wear their sorrows for the death of a friend. Plutarch
+compares a new marriage to a vessell before the hoops are on,  [...], every
+thing dissolves their tender compaginations, but  [...], when the joynts are
+stiffned and are tyed by a firm compliance and propor­tion'd bending, scarcely
+can it be dissolved without fire or the vio­lence C of iron. After the hearts
+of the man and the wife are endeared and hardned by a mutuall confidence, and
+an experience longer then an artifice and pretence can last, there are a great
+many remembrances and some things present that dash all little unkindnesses in
+pieces. The little boy in the Greek Epigram, that was creeping down a
+pre­cipice was invited to his safety by the sight of his mothers pap, when
+[...]. nothing else could entice him to return: and the band of common
+children, and the sight of her that nurses what is most dear to him, and the
+endearments of each other in the course of a long society, D and the same
+relation is an excellent security to redintegrate and to call that love back
+which folly and trifling accidents would disturb.
+
+—Tormentum ingens nubentibus haeret
+
+Quae nequeunt parere, & partu retinere maritos,
+
+When it is come thus farre, it is hard untwisting the knot; but be carefull in
+its first coalition, that there be no rudenesse done; for if there be, it will
+for ever after be apt to start and to be diseased. E
+
+3\. Let man and wife be carefull to stifle little Quaedam par­va quidem, scd
+uon toleranda maritis. things, that as fast as they spring, they be cut down
+and trod upon; for if they be suf­fered to grow by numbers, they make the
+spirit peevish, and the so­ciety troublesome, and the affections loose and
+easie by an habituall aversation. Some men are more vexed with a slie then
+with a wound; [[Page
+229]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=118) and when the
+gnats disturbe our sleep, and the reason is disquieted A but not perfectly
+awakened; it is often seen that he is fuller of trou­ble then if in the day
+light of his reason he were to contest with a po­tent enemy. In the frequent
+little accidents of a family, a mans rea­son cannot alwaies be awake; and when
+his discourses are imper­fect, and a trifling trouble makes him yet more
+restlesse, he is soon betrayed to the violence of passion. It is certain that
+the man or woman are in a state of weaknesse and solly then, when they can be
+troubled with a trifling accident; and therefore it is not good to tempt their
+affections when they are in that state of danger. In this case the caution is,
+to subtract fuell from the sudden flame; for stub­ble B though it be quickly
+kindled, yet it is as soon extinguished, if it be not blown by a pertinacious
+breath, or fed with new materials; adde no new provocations to the accident,
+and do not inflame this, and peace will soon return, and the discontent will
+passe away soon, as the sparks from the collision of a flint: ever remembring
+that discontents proceeding from daily little things, do breed a secret
+un­discernible disease, which is more dangerous then a feaver proceeding from
+a discerned notorious surfeit.
+
+4\. Let them be sure to abstain from all those things which by experience and
+observation they finde to be contrary to each other. C They that govern
+Elephants never appear before them in white, and the masters of buls keep from
+them all garments of bloud and scar­let, as knowing that they will be
+impatient of civill usages and disci­pline when their natures are provoked by
+their proper antipathies. The ancients in their maritall Hieroglyphicks us'd
+to depict Mer­cury strnding by Venus, to signifie, that by fair language and
+sweet intreaties, the mindes of each other should be united; and hard by them
+Suadam & Gratias descripserunt, they would have all deli­ciousnesse —Hujùs n.
+ra­ri summi (que) vo­luptas Nulla boni, quo­ties animocor­rupta superbo Plus
+aloos quam mellis habet— Juven. Sat. 6. of manners, compliance and mutuall
+observance to abide. D
+
+5\. Let the husband and wife infinitely avoid a curious distinction of mine
+and thine; for this hath caused all the lawes, and all the suits, and all the
+wars in the world; let them who have but one person, have also but one
+interest. The husband and wife are heirs to each other (as Dionysius
+Halicarnasseus relates from Romulus) if they dye without children, but if
+there be children, the wife is  [...], a partner in the inheritance; But
+during their life the use and im­polyment is common to both their necessities,
+and in this there is no other difference of right, but that the man hath the
+dispensation of all, and may keep it from his wife just as the governour of a
+E Town may keep it from the right owner; he hath the power, but no right to do
+so. And when either of them begins to impropriate, it is like a tumor in the
+flesh, it drawes more then its share, but what it feeds on turns to a bile:
+and therefore the Romans forbad any donations to be made between man and wife,
+because neither [[Page
+230]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=119) of them could
+transser a new right of those things which already they had in common; but
+this is to be understood only concerning the uses A of necessity and personall
+conveniences; for so all may be the womans, and all may be the mans in
+severall regards. Corvinus dwels in a farm and receives all its profits, and
+reaps and sowes as he please, and eats of the corn and drinks of the wine, it
+is his own: but all that also is his Lords, and for it, Corvinus payes
+acknowledgement; and his pa­tron hath such powers and uses of it as are proper
+to the Lords; and yet for all this, it may be the Kings too, to all the
+purposes that he can need, and is all to be accounted in the census and for
+certain services, and times of danger: So are the riches of a family, they are
+a womans as well as a mans; they are hers for need, and B hers for ornament,
+and hers for modest delight, and for the uses of Religion and prudent charity;
+but the disposing them into por­tions of inheritance, the assignation of
+charges and governments, stipends and rewards, annuities and greater donatives
+are the re­serves of the superior right, and not to be invaded by the under-
+pos­sessors. But in those things where they ought to be common, if the spleen
+or the belly swels and drawes into its capacity much of that which should be
+spent upon those parts which have an equall right to be maintain'd, it is a
+dropsie or a consumption of the whole, some­thing that is evill because it is
+unnaturall and monstrous. Maca­rius C in is 32 Homily speaks fully in this
+particular, a woman be­trothed to a man bears all her portion, and with a
+mighty love pours it into the hands of her husband, and sayes,  [...], I have
+no­thing of my own, my goods, my portion, my body and my minde is yours.
+[...],  [...]. all that a woman hath is reckoned to the right of her husband;
+not her wealth and her person only, but her reputation and her praise; So
+Lucian. But as the earth, the mother of all creatures here below, sends up all
+its vapours and proper emissions D at the command of the Sun, and yet requires
+them again to re­fresh her own needs, and they are deposited between them both
+in the bosome of a cloud as a common receptacle, that they may cool his
+flames, and yet descend to make her fruitfull: so are the proprieties of a
+wife to be dispos'd of by her Lord; and yet all are for her provisions, it
+being a part of his need to refresh and supply hers, and it serves the
+interest of both while it serves the ne­cessities of either.
+
+These are the duties of them both, which have common re­gards and equall
+necessities, and obligations; and indeed there is scarce any matter of duty,
+but it concerns them both alike, and is E only distinguished by names, and
+hath its variety by circum­stances and little accidents: and what in one is
+call'd love, in the other is called reverence; and what in the wife is
+obedience, the same in the man is duty. He provides, and she dispenses; he
+gives [[Page 231]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=119)
+commandements, and she rules by them; he rules her by autho­rity, and she
+rules him by love; she ought by all means to please A him, and he must by no
+means displease her. For as the heart is set in the midst of the body, and
+though it strikes to one side by the prerogative of Nature, yet those throbs
+and constant mo­tions are felt on the other side also, and the influence is
+equall to both: so it is in conjugall duties; some motions are to the one side
+more then to the other, but the interest is on both, and the duty is equall in
+the severall instances. If it be otherwise, the man in­joyes a wife as
+Periander did his dead Melissa, by an unnaturall union, neither pleasing, nor
+holy, uselesse to all the purposes of so­ciety, B and dead to content.
+
+[[Page 232]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=120)
+
+## 18\. SERMON, XVIII. Part II. B
+
+THe next inquiry is more particular, and considers the pow­er and duty of the
+man; Let every one of you so love his wife even as himself; she is as himself,
+the man hath power over her as over himself, and must love her equally. A
+husbands power over his wife is paternall and friendly, not magisteriall and
+despotick. The wife is in perpetuâ tutelâ, under conduct and coun­sell; for
+the power a man hath is founded in the understanding, not in the will or
+force; it is not a power of coercion, but a power of advice, and that
+government that wise men have over those who C are fit to be conducted by
+them: Et vos in manu & in tutelâ non in servitio debetis habere eas, & malle
+patres vos, & viros, quàm do­minos dici, said Valerius in Livie; Husbands
+should rather be Fa­thers then Lords. Homer addes more soft appellatives to
+the chara­cter of a husbands duty,  [...], Thou art to be a father and a
+mother to her, and a brother: and great reason, unlesse the state of marriage
+should be no better then the condition of an Orphan. For she that is bound to
+leave fa­ther and mother, and brother for thee, either is miserable like a
+poor fatherlesse childe, or else ought to finde all these and more in D thee.
+Medea in Euripides had cause to complain when she found it otherwise.
+
+[...]
+
+[...],
+
+[...]
+
+[...].
+
+Which St. Ambrose well translates: It is sad] when virgins are with their own
+money sold to slavery; and that services are in better E Exhort. ad virg.
+state then marriages; for they receive wages, but these buy their fetters and
+pay dear for their losse of liberty: and therefore the Romans expressed the
+mans power over his wife but by a gentle word, Nec verò mulieribus praefectus
+reponatur, qui apud Graecos creari solet, sed sit censor qui viros doceat
+moderari uxoribus; said [[Page
+233]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=120) Cicero, let
+there be no governour of the women appointed but a cen­sor A of manners, one
+to teach the men to moderate their wives, that is, fairly to induce them to
+the measures of their own proportions. It was rarely observed of Philo, [...]
+when Adam made that fond excuse for his folly in eating the for­bidden fruit,
+he said [The woman thou gavest to be with me she gave me] He saies not [the
+woman which thou gavest to me] no such thing; she is none of his goods, none
+of his possessions, not to be reckoned among his servants; God did not give
+her to him so; but [the woman thou gavest to be with me] that is, to be my
+partner, B the companion of my joyes and sorrowes, thou gavest her for use,
+not for dominion. The dominion of a man over his wife is no other then as the
+soul rules the body; for which it takes a mighty care, and uses it with a
+delicate tendernesse, and cares for it in all contingencies, and watches to
+keep it from all evils, and studies to make for it fair provisions, and very
+often is led by its inclina­tions and desires, and does never contradict its
+appetites, but when they are evill, and then also not without some trouble and
+sorrow; and its government comes only to this, it furnishes the body with
+light and understanding, and the body furnishes the soul with hands C and
+feet; the soul governs, because the body cannot else be hap­py, but the
+government is no other then provision; as a nurse go­verns a childe when she
+causes him to eat and to be warm, and dry and quiet; and yet even the very
+government it self is divided; for man and wife in the family are as the Sun
+and Moon in the firmament of heaven; He rules by day, and she by night, that
+is, in the lesser and more proper circles of her affairs; in the conduct of
+domestick provisions and necessary offices, and shines only by his light and
+rules by his authority: and as the Moon in opposition to the Sun shines
+brightest, that is, then, when she is in D her own circles and separate
+regions; so is the authority of the wife then most conspicuous when she is
+separate and in her proper sphere, in Gynaeceo in the nursery and offices of
+domestick employment; but when she is in conjunction with the Sun her Brother,
+that is, in that place and employment in which his care and proper offices are
+imployed, her light is not seen, her authority hath no proper businesse; but
+else there is no difference: for they were barbarous people, among whom wives
+were in stead of servants, said Spartianus in Caracalla; and it is a sign of
+impotency and weaknesse to force the camels to kneel for their load, beccuse
+thou hast not spirit and E strength enough to climbe: to make the affections
+and evennesse of a wife bend by the flexures of a servant, is a sign the man
+is not wise enough to govern, when another stands by. So many diffe­rences as
+can be in the appellatives of Dominus and Domina, Go­vernour and Governesse,
+Lord and Lady, Master and Mistresse, [[Page
+234]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=121) the same
+difference there is in the authority of man and woman, and no more; Si tu
+Caius ego Caia, was publickly proclaimed upon the A threshold of the young
+mans house, when the bride enter'd into his hands and power; and the title of
+Domina in the sense of the civill Law was among the Romans given to wives.
+
+Hi Dominam Ditis thalamo diducere adorti,
+
+Aeneid. 6.
+
+said Virgil: where though Servius saies it was spoken after the man­ner of the
+Greeks who call'd the wife  [...] Lady or Mistresse, yet it was so amongst
+both the Nations, Ac domûs Dominam voca, saies Catullus; Haerebit Dominae vir
+comes ipse suae, so Martial; and B Epithal. Juliae. therefore although there
+is a just measure of subjection and obedi­ence due from the wife to the
+husband (as I shall after explain) yet nothing of this is expressed in the
+mans character, or in his du­ty; he is not commanded to rule, nor instructed
+how, nor bidden to exact obedience, or to defend his priviledge; all his duty
+is signi­fied by love, by nourishing and cherishing, by being joyned to her
+Eph. 5. 25. in all the unions of charity, by not being bitter to her, by
+dwelling Col. 3. 19. with her according to knowledge, giving honour to her: so
+that it seems 1 Pet. 3. 7. to be with husbands, as it is with Bishops and
+Priests, to whom much C honour is due, but yet so that if they stand upon it,
+and challenge it, they become lesse honourable; and as amongst men and women
+humility is the way to be prefer'd; so it is in husbands, they shall prevail
+by cession, by sweetnesse and counsell, and charity and com­pliance. So that
+we cannot discourse of the mans right, without describing the measures of his
+duty; that therefore followes next.
+
+Let him love his wife even as himself:] that's his duty, and the measure of it
+too; which is so plain, that if he understands how he treats himself, there
+needs nothing be added concerning his demea­nour towards her, save only that
+we adde the particulars, in which D holy Scripture instances this generall
+commandement.
+
+[...]. That's the first. Be not bitter against her; and this is the least
+Index and signification of love; a civill man is never bitter against a friend
+or a stranger, much lesse to him that enters under his roof, and is secured by
+the lawes of hospitality. But a wife does all that, and more; she quits all
+her interest for his love, she gives him all that she can give, she is as much
+the same person as another can be the same, who is conjoyned by love, and
+mystery, and religion, and all that is sacred and profane. E
+
+Non equidem hoc dubites amborum foedere certo
+
+Consentire dies, & ab uno sidere duci;
+
+They have the same fortune, the same family, the same children, the [[Page
+235]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=121) same religion,
+the same interest, the same flesh [erunt duo in carnem A unam] and therefore
+this the Apostle urges for his  [...], no man hateth his own flesh, but
+nourisheth and cherisheth it; and he cer­tainly is strangely sacrilegious and
+a violator of the rights of hospi­tality and sanctuary, who uses her rudely,
+who is fled for protection, not only to his house, but also to his heart, and
+bosome. A wise man will not wrangle with any one, much lesse with his dearest
+relative; and if it be accounted undecent to embrace in publick, it is
+extremely shamefull to brawle in publick, for the other is in it self lawfull,
+but this never, though it were assisted with the best circum­stances of which
+it is capable. Marcus Aurelius said, that a wise B man ought often to admonish
+his wife, to reprove her sel­dome, but never to lay his hands Ah lapis est,
+ferrum (que), suam quicun (que) pucllam Verberat, è coelo diripit ille Deos.
+Sit satis è membus tenuem praescindere vestem, Sit satis ornatus dissoluisse
+cemas, Sit lachrymas movisse satis, quater ille beatus, Quo tenera irato flere
+puella potest. Sed manibus qui saeviu erit, scutúm (que) sudem (que) It gerat,
+& miti sit procul à Venere. Tibull. upon her: ne (que) verberibus ne (que)
+maledictis exa­sperandam uxorem, said the Doctors of the Jewes; and Homer
+brings in Jupiter sometimes speaking sharply to Juno (ac­cording to the Greek
+liberty and Empire) but made a pause at striking her,
+
+[...]
+
+Iliad. 0.
+
+[...]
+
+And the Ancients use to sacrifice to Juno [...] or the presi­dent of Marriage
+without gall, and St. Basil observes and urges it, by way of upbraiding
+quarrelling husbands; etiam vipera virus ob nuptiarum venerationem evomit, the
+Viper casts all his poison when he marries his female, Tu duritiam animi, tu
+feritatem, tu crudelita­tem Homil. 7\. Hexaem. ob unionis reverentiam non
+deponis? He is worse then a viper who for the reverence of this sacred union
+will not abstain from such a poisonous bitternesse; and how shall he embrace
+that per­son D whom he hath smitten reproachfully? for those kindnesses are
+undecent which the fighting man payes unto his wife. St. Chry­sostome
+preaching earnestly against this barbarous inhumanity of striking the wife, or
+reviling her with evill language, saies it is as if a King should beat his
+Viceroy and use him like a dog; from whom most of that reverence and majesty
+must needs depart which he first put upon him, and the subjects shall pay him
+lesse duty, by how much his Prince hath treated him with lesse civility; but
+the losse redounds to himself; and the government of the whole fami­ly shall
+be disordered, if blowes be laid upon that shoulder which E together with the
+other ought to bear nothing but the cares and the issues of a prudent
+government. And it is observable that no man ever did this rudenesse for a
+vertuous end; it is an incompe­tent instrument, and may proceed from wrath and
+folly, but can never end in vertue and the unions of a prudent and fair
+society. [[Page
+236]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=122) Quòd si
+verberaveris exasperabis morbum, (saith St. Chrysostome) aspe­ritas enim
+mansuetudine non aliâ asperitate dissolvitur; if you strike A you exasperate
+the wound, and (like Cato at Utica in his despair) tear the wounds in pieces;
+and yet he that did so ill to himself whom he lov'd well, he lov'd not women
+tenderly, and yet would never strike; And if the man cannot endure her
+talking, how can she endure his striking? But this caution contains a duty in
+it which none prevaricates but the meanest of the people, fools and bedlams,
+whose kindnesse is a curse, whose government is by chance and violence, and
+their families are herds of talking cattell.
+
+Sic alternos reficit cursus B
+
+Alternus amor, sic astrigeris
+
+Bellum discors exulat or is.
+
+Haec concordia temperat aequis
+
+Elementamodis, ut pugnantia
+
+Vicibus cedant humida siccis,
+
+Jungant (que) sidem frigora flammis.
+
+The maritall love is infinitely removed from all possibility of such
+rudenesses: it is a thing pure as light, sacred as a Temple, lasting C as the
+world; Aamicitia quae desinere potuit nunquam vera fuit, said one; that love
+that can cease was never true: it is  [...], so Moses call'd it; it is  [...],
+so St. Paul; it is  [...], so Homer; it is  [...], so Plutarch; that is, it
+contains in it all sweetnesse, and all society, and all felicity, and all
+prudence, and all wisdome. For there is no­thing can please a man without
+love, and if a man be weary of the wise discourses of the Apostles, and of the
+innocency of an even and a private fortune, or hates peace or a fruitfull
+year, he hath reaped thorns and thistles from the choicest flowers of
+Paradise; For nothing can sweeten felicity it self, but love; but when a man D
+dwels in love, then the brests of his wife are pleasant as the drop­pings upon
+the hill of Hermon, her eyes are fair as the light of heaven, she is a
+fountain sealed, and he can quench his thirst, and ease his cares, and lay his
+sorrowes down upon her lap, and can retire home as to his sanctuary and
+refectory, and his gardens of sweetnesse and chast refreshments. Felices ter &
+amplius Quos irrupta tenet copula, nec malis Divulsus queri­moniu Suprema
+citi­us solvet a­mor die. Horat. No man can tell but he that loves his
+children, how many delicious accents make a mans heart dance in the pretty
+conversation of those dear pledges, their chil­dishnesse, their stammering,
+their little angers, their innocence, their imperfections, their necessities
+are so many little emanations of joy E and comfort to him that delights in
+their persons and society; but he that loves not his wife and children, feeds
+a Lionesse at home, and broods a nest of sorrowes; and blessing it self cannot
+make him happy; so that all the commandements of God injoyning a man to love
+his wife, are nothing but so many necessities and ca­pacities [[Page
+237]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=122) of joy. She
+that is lov'd is safe, and he that loves is joyfull. Love is a union of all
+things excellent; it contains in it proportion A and satisfaction, and rest,
+and confidence; and I wish that this were so much proceeded in, that the
+Heathens themselves could not go beyond us in this vertue, and its proper, and
+its appendant happi­nesse. Tiberius Gracchus chose to die for the safety of
+his wife; and yet me thinks to a Christian to do so, should be no hard thing;
+for many servants will dye for their masters, and many Gentlemen will die for
+their friend; but the examples are not so many of those that are ready to do
+it for their dearest relatives, and yet some there have been. Baptista Fregosa
+tels of Neapolitan that gave B himself a slave to the Moores, that he might
+follow his wife; and Dominicus Catalusius the Prince of Lesbos kept company
+with his Lady when she was a Leper; and these are greater things then to die.
+
+But the cases in which this can be required are so rare and con­tingent, that
+holy Scripture instances not the duty in this particular; but it contains in
+it that the husband should nourish and cherish her, that he should refresh her
+sorrowes and intice her fears into confidence and pretty arts of rest; for
+even the fig-trees that grew in Paradise had sharp pointed leaves, and
+harshnesses fit to mor­tifie the too forward lusting after the sweetnesse of
+the fruit. But C it will concern the prudence of the husbands love to make the
+cares and evils as simple and easie as he can, by doubling the joyes and acts
+of a carefull friendship, by tolerating her infirmities, (be­cause by so
+doing, he either cures her, or makes himself better) Uxoris viti­um tollas
+opus est, aut feras: Qui tollit viti­um, uxorem commodiuscu­lam Sibi praestat;
+qui fert, sese meliorem fa­cit. Varro. by fairly expounding all the little
+traverses of society and com­munication, by taking every thing by the right
+handle, (as Plu­tarchs expression is) for there is nothing but may be
+misinterpreted, and yet if it be capable of a fair construction, it is the
+office of love to make it. D
+
+— [...]
+
+[...].
+
+Eurip.
+
+— [...]
+
+[...].
+
+Love will account that to be well said, which it may be was not so intended;
+and then it may cause it to be so another time.
+
+3\. Hither also is to be referred that he secure the interest of her vertue
+and felicity by a fair example; for a wife to a husband, is E like a line or
+superficies, it hath dimensions of its own, but no motion or proper
+affections; but commonly put on such images of vertues or vices as are
+presented to them by their husbands Idea: and if thou beest vicious, complain
+not that she is infected that lies in the bosome; the interest of whose love
+ties her to transcribe thy [[Page
+238]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=123) copy and write
+after the characters of thy manners. Paris was a man of pleasure, and Helena
+was an adulteresse, and she added co­vetousnesse A upon her own account. But
+Ulysses was a prudent man, and a wary counsellor, sober and severe, and he
+efformed his wife into such imagery as he desir'd, and she was chast as the
+snows up­on the mountains, diligent as the fatall sisters, alwaies busie, and
+alwaies faithfull:  [...], she had a lazie tongue and a busie hand.
+
+4\. Above all the instances of love, let him preserve towards  [...]. her an
+inviolable faith, and an unspotted chastity, for this is the marriage Ring, it
+tyes two hearts by an eternall band; it is like the Cherubims flaming sword
+set for the guard of Paradise; he B that passes into that garden, now that is
+immur'd by Christ and the Church, enters into the shades of death. No man must
+touch the forbidden Tree, that in the midst of the garden, which is the tree
+of knowledge and life. Chastity is the security of love, and preserves all the
+mysteriousnesse like the secrets of a Temple. Under this lock is deposited
+security of families, the union of affecti­ons, the repairer of accidentall
+breaches.
+
+— [...] C
+
+[...].
+
+This is a grace that is shut up and secur'd by all arts of heaven, and the
+defence of lawes, the locks and bars of modesty, by ho­nour and reputation, by
+fear and shame, by interest and high re­gards; and that contract that is
+intended to be for ever, is yet dis­solv'd and broken by the violation of
+this; nothing but death can do so much evill to the holy ties of marriage, as
+unchastity and breach of faith can. The shepherd Cratis falling in love with a
+she goat, had his brains beaten out with a buck as he lay asleep; D and by the
+lawes of the Romans, a man might kill his daughter or his wife if he surprised
+her in the breach of her holy vowes, which are as sacred as the threads of
+life, secret as the privacies of the sanctuary, and holy as the society of
+Angels. Nullae sunt inimicitiae nisi amoris acerbae, and God that commanded us
+to for­give our enemies left it in our choice, and hath not commanded us to
+forgive an adulterous husband or a wife; but the offended par­ties displeasure
+may passe into an eternall separation of society and friendship. Now in this
+grace it is fit that the wisdome and se­verity of the man should hold forth a
+pure taper, that his wife E may by seeing the beauties and transparency of
+that Crystall dresse her minde and her body by the light of so pure
+reflexions; It is certain he will expect it from the modesty and retirement,
+from the passive nature and colder temper, from the humility and fear, from
+the honour and love of his wife, that she be pure as the eye [[Page
+239]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=123) of heaven: and
+therefore it is but reason that the wisdome and A noblenesse, the love and
+confidence, the strength and severity of the man should be as holy and certain
+in this grace, as he is a severe exactor of it at her hands, who can more
+easily be tempted by another, and lesse by her self.
+
+These are the little lines of a mans duty, which like threds of light from the
+body of the Sun do clearly describe all the regions of his proper obligations.
+Now concerning the womans duty, although it consists in doing whatsoever her
+husband commands, and so re­ceives measures from the rules of his government,
+yet there are also some lines of life depicted upon her hands, by which she
+may B read and know how to proportion out her duty to her hus­band.
+
+1\. The first is obedience; which because it is no where enjoyned that the man
+should exact of her, but often commanded to her to pay, gives demonstration
+that it is a voluntary cession that is required, such a cession as must be
+without coercion and violence on his part, but upon fair inducements, and
+reasonablenesse in the thing, and out of love, and honour on her part. When
+God commands us to love him, he means we should obey him; This is love that ye
+keep my Commandements, and, if ye love me (said our Lord) keep my
+Commandements: Now as Christ is to the Church, so is man to C the wife: and
+therefore obedience is the best instance of her love; for it proclaims her
+submission, her humility, her opinion of his wisdome, his preeminence in the
+family, the right of his privi­ledge, and the injunction imposed by God upon
+her sexe, that al­though in sorrow she brings forth children, yet with love
+and choice she should obey. The mans authority is love, and the womans love is
+obedience; and it was not rightly observed of him that said, when woman fell
+God made her timorous that she might be rul'd, apt and easie to obey, for this
+obedience is no way founded in fear, but in love and reverence. Receptae
+reverentiae est si mulier viro C. alia D. so­lut. Matrim. D subsit, said the
+Law; unlesse also that we will adde, that it is an effect of that modesty
+which like rubies adorn the necks and cheeks of women. Pudicitia est, pater,
+eos magnificare qui nos socias sumpse­runt Pluatus in Sti­cho. sibi; said the
+maiden in the comedy: It is modesty to ad­vance and highly to honour them who
+have honoured us by ma­king us to be the companions of their dearest
+excellencies; for the woman that went before the man in the way of death, is
+comman­ded to follow him in the way of love: and that makes the so­ciety to be
+perfect, and the union profitable, and the harmony compleat. E
+
+Inferior Matrona suo sit, Sexte, marito;
+
+Non aliter siunt foemina vir (que) pares.
+
+[[Page 240]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=124) For
+then the soul and body make a perfect man when the soul A commands wisely, or
+rules lovingly, and cares profitably, and pro­vides plentifully, and conducts
+charitably, that body which is its partner and yet the inferiour. But if the
+body shall give lawes, and by the violenco of the appetite, first abuse the
+understanding, and then possesse the superior portion of the will and choice,
+the body and the soul are not apt company, and the man is a fool and
+miserable. If the soul rules not, it cannot be a companion; ei­ther it must
+govern, or be a slave; Never was King deposed and suffered to live in the
+state of peerage and equall honour, but made a prisoner, or put to death; and
+those women that had ra­ther B lead the blinde then follow prudent guides,
+rule fools and easie men, then obey the powerfull and the wise, never made a
+good society in a house; a wife never can become equall but by obeying; but so
+her power while it is in minority, makes up the authority of the man
+integrall, and becomes one government, as themselves are one man. Male and
+Female created he them, and called their Gen. 5. 2. name Adam, saith the holy
+Scripture; they are but one: and therefore the severall parts of this one man
+must stand in the place where God appointed, that the lower parts may do their
+offices in their own station, and promote the common interest of the C whole.
+A ruling woman is intolerable,
+
+—Faciunt graviora coactae
+
+Imperio sexus—
+
+Juvenal.
+
+But that's not all; for she is miserable too: for,
+
+[...]
+
+[...].
+
+It is a sad calamity for a woman to be joyned to a fool or a weak D person; it
+is like a guard of geese to keep the Capitoll, or as if a flock of sheep
+should read grave lectures to their shepherd, and give him orders where he
+shall conduct them to pasture. O verè Phyrgiae, ne (que) enim Phryges, It is a
+curse that God thereatned sinning persons, Devoratum est robur eorum, facti
+sunt quasi mulieres. Esai. 3. 4. Effeminati dominabuntur eis. To be ruled by
+weaker people,  [...], to have a fool to ones master is the fate of miserable
+and unblessed people: and the wife can be no waies happy, unlesse she be
+governed by a prudent Lord, whose E commands are sober counsels, whose
+authority is paternall, whose orders are provisions, and whose sentences are
+charity.
+
+But now concerning the measures and limits of this obedience, we can best take
+accounts from Scripture:  [...], saith the Apostle, in all things; ut Domino,
+as unto the Lord; and that's large enough; Ephes. 5. 24. [[Page
+241]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=124) as unto a Lord
+ut Ancilla Domino, so St. Hierom understands it, who neither was a friend to
+the sexe nor to marriage; But his A mistake is soon confuted by the text; It
+is not ut Dominis, be sub­ject to your husbands as unto Lords, but  [...],
+that is, in all reli­gion, in reverence and in love, in duty and zeal, in
+faith and know­ledge; or else  [...] may signifie, wives be so subject to your
+husbands, but yet so, that at the same time ye be subject to the Lord. For
+that's the measure of  [...] in all things; and it is more plain in the
+parallell place,  [...] as it is fit in the Lord: Reli­gion Col. 3. 18. must
+be the measure of your obedience and subjection: intra limites disciplinae, so
+Tertullian expresses it.  [...], B Stromat. 7. so Clemens Alex. In all things
+let the wise be subject to the husband, so as to do nothing against his will,
+those only things excepted in which he is impious or refractary in things
+pertaining to wisdome and piety.
+
+But in this also there is some peculiar caution. For although in those things
+which are of the necessary parts of faith and holy life, the woman is only
+subject to Christ, who only is and can be Lord of consciences, and commands
+alone where the conscience is in­structed and convinced; yet as it is part of
+the mans office to be a C teacher, and a prophet, and a guide, and a Master;
+so also it will relate very much to the demonstration of their affections to
+obey his counsels, to imitate his vertues, to be directed by his wisdome, to
+have her perswasion measured by the lines of his excellent religion  [...], It
+were hugely decent (saith Plu­tarch) that the wife should acknowledge her
+husband for her tea­cher and her guide; for then when she is what he please to
+efform her, he hath no cause to complain if she be no better:  [...], his
+precepts and wise coun­sels D can draw her off from vanities; and as he said
+of Geometry, that if she be skill'd in that, she will not easily be a gamester
+or a dan­cer, may perfectly be said of Religion. If she suffers her self to be
+guided by his counsell, and efformed by his religion; either he is an ill
+master in his religion, or he may secure in her and for his ad­vantage an
+excellent vertue. And although in matters of religi­on the husband hath no
+empire and command, yet if there be a place left to perswade, and intreat, and
+induce by arguments, there is not in a family a greater endearment of
+affections then the unity of religion: and anciently it was not permitted to a
+woman to E have a religion by her self. Eosdem quos maritus nosse Deos &
+co­lere solos uxor debet (said Plutarch.) And the rites which a woman
+performes severally from her husband are not pleasing to God; and therefore
+Pomponia Graecina because she entertain'd a stranger reli­gion was permitted
+to the judgement of her husband Plantius. And [[Page
+242]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=125) this whole
+affair is no stranger to Christianity. For the Chri­stian woman was not
+suffered to marry an unbelieving man; and A although this is not to be
+extended to different opinions within the limits of the common faith, yet thus
+much advantage is won or lost by it; that the complyance of the wife, and
+submission of her understanding to the better rule of her husband in matters
+of Religion, will help very much to warrant her, though she should be
+misperswaded in a matter lesse necessary; yet nothing can war­rant her in her
+separate rites and manners of worshippings, but an invincible necessity of
+conscience, and a curious infallible truth; and if she be deceived alone, she
+hath no excuse; if with him, she hath much pity, and some degrees of warranty
+under the pro­tection B of humility, and duty, and dear affections; and she
+will finde that it is part of her priviledge and right to partake of the
+mysteries and blessings of her husbands religion.  [...], said Romulus. A
+woman by the holy Lawes hath right to par­take of her husbands goods, and her
+husbands sacrifices, and ho­ly things. Where there is a schisme in one bed,
+there is a nursery of temptations, and —Quis deditus autem Us (que) adeò est,
+ut non illam quam laudibus essert, Horreat, in (que) diem septenis oderit
+horts? Juven. Sat. 6. love is persecuted and in perpetuall danger C to be
+destroyed; there dwell jealousies, and divided interests, and differing
+opinions, and continuall dis­putes, and we cannot love them so well whom we
+beleeve to be lesse beloved of God, and it is ill uniting with a person
+concer­ning whom my perswasion tels me that he is like to live in hell to
+eternall ages.
+
+2\. The next line of the womans duty is compliance, which S. Pe­ter cals, the
+hidden man of the heart, the ornament of a meek and 1 Pet. 3. 4. a quiet
+spirit, and to it he opposes the outward and pompous orna­ment of the body;
+concerning which as there can be no particular D measure set down to all
+persons, but the propositions are to be mea­sured by the customes of wise
+people, the quality of the woman, and the desires of the man; yet it is to be
+limited by Christian modesty, and the usages of the more excellent and severe
+matrons. Menander in the Comedy brings in a man turning his wife from his
+house because she stain'd her hair yellow, which was then the beauty,
+
+[...]
+
+[...]. E
+
+A wise woman should not paint. A studious gallantry in cloathes cannot make a
+wise man love his wife the better.  [...], said the Comedy, such gayeties are
+fit for tra­gedies, but not for the uses of life: decor occultus, & tecta
+venustas, [[Page
+243]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=125) that's the
+Christian womans finenesse, the hidden man of the heart, A sweetnesse of
+manners, humble comport­ment, fair interpretation of all addresses, rea­dy
+Malo Venusinam quèm te Cornelia mater Gracchorum, si cum magnis virtutibus
+offers Grande supercilium, & numer as in dote triumpho. Juven Sat. 6.
+compliances, high opinion of him, and mean of her self.
+
+[...], To par­take Quid juvat ornato procedere vitta capillo, Te (que)
+peregrinis vendere muneribus, Naturae (que) decus mercato perdere cultu, Nec
+sinere in proprils membra nitere bonis? Propert. l. 1. cl. 1. secretly, and in
+her heart of all his joyes and sorrowes, to beleeve him comly and fair, though
+the Sun hath drawn a cy­presse over him, (for as marriages are not to be
+contracted by the hands and eye, but  [...]. with reason and the hearts: so
+are these B judgements to be made by the minde, not by the sight:) and
+Diamonds cannot make the woman vertuous, nor him to value her who sees her put
+them off then, when charity and modesty are her brghtest ornaments.
+
+[...]
+
+[...], &c.
+
+And indeed those husbands that are pleased with undecent gayeties C of their
+wives, are like fishes taken with ointments and intoxicating baits, apt and
+easie for sport and mockery, but uselesse for food: and when Circe had turned
+Ulysses companions into hogs and mon­kies, by pleasures and the inchantments
+of her bravery and luxury, they were no longer usefull to her, she knew not
+what to do with them; but on wise Ulysses she was continually enamour'd.
+Indeed the outward ornament is fit to take fools, but they are not worth the
+taking; But she that hath a wise husband, must intice him to an eter­nall
+dearnesse by the vail of modesty, and the grave robes of chasti­ty, the
+ornament of meeknesse, and the jewels of faith and charity; D she must have no
+fucus but blushings, her brightnesse must be puri­ty, and she must shine round
+about with sweetnesses and friendship, and she shall be pleasant while she
+lives, and desired when she dies. If not,
+
+— [...],
+
+[...],
+
+[...].
+
+Her grave shall be full of rottennesse and dishonour, and her me­mory E shall
+be worse after she is dead: after she is dead: For that will be the end of all
+merry meetings; and I choose this to be the last advice to both.
+
+3\. Remember the dayes of darknesse, for they are many; The joyes of the
+bridal chambers are quickly past, and the remaining portion [[Page
+244]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=126) of the state
+is a dull progresse without variety of joyes, but not without the change of
+sorrowes; but that portion that shall enter A into the grave must be eternall.
+It is fit that I should infuse a bunch of myrrhe into the festivall goblet,
+and after the Egyptian manner serve up a dead mans bones at a feast; I will
+only shew it and take it away again; it will make the wine bitter, but
+wholesome; But those marryed pairs that live, as remembring that they must
+part again, and give an account how they treat themselves and each other,
+shall at the day of their death be admitted to glorious espousals, and when
+they shall live again, be marryed to their Lord, and par­take of his glories,
+with Abraham and Joseph, S. Peter and St. Paul, and all the marryed Saints. B
+
+[...]
+
+[...].
+
+All those things that now please us shall passe from us, or we from them, but
+those things that concern the other life are permanent as the numbers of
+eternity: and although at the resurrection there shall be no relation of
+husband and wife, and no marriage shall be celebrated, but the marriage of the
+Lambe, yet then shall be re­membred how men and women pass'd through this
+state which is C a type of that, and from this sacramentall union all holy
+pairs shall passe to the spirituall and eternall, where love shall be their
+portion, and joyes shall crown their heads, and they shall lye in the bosome
+of Jesus, and in the heart of God to eternall ages.
+
+> Amen.
+
+[[Page 245]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=126)
+
+## 19\. Sermon, XIX. APPLES of SODOM: OR The Fruits of Sinne. Part. I.
+
+Romans 6. 21.‘What fruit had ye then in those things whereof ye are now
+ashamed? For the end of those things is death.’
+
+THe son of Sirach did prudently advise concerning making judgements of the
+felicity or infelicity Eccles. 11. 28. of men: Judge none blessed before his
+death; for a man shall be known in his children. Some D men raise their
+fortunes from a cottage to the chaires of Princes, from a sheep-coat to a
+throne, and dwell in the circles of the Sun, and in the lap of prosperity;
+their wishes and successe dwell under the same roof, and providence brings all
+events into their design, and ties both ends together with prosperous
+successes; and even the little conspersions and intertextures of evill
+accidents in their lives are but like a faing'd note in musick, by an
+artificiall dis­cord making the ear covetous, and then pleased with the
+harmony into which the appetite was inticed by passion, and a pretty
+restraint; E and variety does but adorn prosperity, and make it of a sweeter
+re­lish, and of more advantages; and some of these men descend into their
+graves without a change of fortune,
+
+Eripitur persona, manet res.
+
+[[Page 246]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=127) Indeed
+they cannot longer dwell upon the estate, but that remains A unrifled, and
+descends upon the heir, and all is well till the next generation: but if the
+evill of his death, and the change of his pre­sent prosperity for an
+intolerable danger of an uncertain eternity, does not sowre his full chalice;
+yet if his children prove vicious, or degenerous, cursed, or unprosperous, we
+account the man mise­rable, and his grave to be strewed with sorrowes and
+dishonours. The wise and valiant Chabrias grew miserable by the folly of his
+son Ctesippus; and the reputation of brave Germanicus began to be asha­med,
+when the base Caligula entred upon his scene of dishonourable crimes. Commodus
+the wanton and feminine son of wise Antoni­nus gave a check to the great name
+of his Father; and when the son B of Hortensius Corbius was prostitute, and
+the heir of Q. Fabius Maxi­mus was disinherited by the sentence of the city
+Praetor, as being un­worthy to enter into the fields of his glorious Father,
+and young Scipio the son of Africanus was a fool and a prodigall; posterity
+did weep afresh over the monuments of their brave progenitors, and found that
+infelicity can pursue a man, and overtake him in his grave.
+
+This is a great calamity when it fals upon innocent persons: and that Moses
+died upon Mount Nebo in the sight of Canaan, was not so great an evill, as
+that his sons Eliezer and Gersom were unworthy C to succeed him; but that
+Priesthood was devolv'd to his Brother, and the Principality to his servant:
+And to Samuel, that his sons prov'd corrupt, and were exauthorated for their
+unworthinesse, was an allay to his honour and his joyes, and such as proclaims
+to all the world, that the measures of our felicity are not to be taken by the
+lines of our own person, but of our relations too; and he that is cursed in
+his children, cannot be reckoned among the for­tunate.
+
+This which I have discoursed concerning families in generall, is D most
+remarkable in the retinue and family of sin; for it keeps a good house, and is
+full of company and servants, it is served by the possessions of the world, it
+is courted by the unhappy, flatter'd by fools, taken into the bosome by the
+effeminate, made the end of humane designs, and feasted all the way of its
+progresse; wars are made for its interest, and men give or venture their lives
+that their sin may be prosperous; all the outward senses are its handmaids,
+and the inward senses are of its privie chamber; the understanding is its
+counsellour, the will its friend, riches are its ministers, nature holds up
+its train, and art is its emissary to promote its interest and E affairs
+abroad: and upon this account, all the world is inrolled in its taxing tables,
+and are subjects or friends of its kingdome, or are so kinde to it as to make
+too often visits, and to lodge in its borders; be­cause all men stare upon its
+pleasures, and are intic'd to tast of its wanton delicacies. But then if we
+look what are the children [[Page
+247]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=127) of this
+splendid family, and see what issue sinne produces,  [...], A it may help to
+unite the charme. Sin and con­cupiscence marry together, and riot and feast it
+high, but their fruits, the children and production of their filthy union, are
+ugly and de­form'd, foolish and ill natur'd; and the Apostles cals them by
+their names, shame and death. These are the fruits of Sin, the apples of
+Sodom, fair outsides, but if you touch them, they turn to ashes and a stink;
+and if you will nurse these children, and give them whatsoever is dear to you,
+then you may be admitted into the house of feasting, and chambers of riot
+where sin dwels; but if you will have the mother, you must have the daughters;
+the tree B and the fruits go together; and there is none of you all that ever
+en­ter'd into this house of pleasure, but he left the skirts of his gar­ment
+in the hands of shame, and had his name roll'd in the chambers of death. What
+fruit had ye then? That's the Question.
+
+In answer to which question we are to consider, 1. What is the summe totall of
+the pleasure of sin? 2. What fruits and relishes it leaves behinde by its
+naturall efficiency? 3. What are its conse­quents by its demerit, and the
+infliction of the superadded wrath of God, which it hath deserved? Of the
+first St. Paul gives no ac­count, but by way of upbraiding asks, what they
+had? that is, no­thing C that they dare own, nothing that remains: and where
+is it? shew it; what's become of it? Of the second he gives the summe totall;
+all its naturall effects are shame and its appendages. The third, or the
+superinduc'd evils by the just wrath of God, he cals death, the worst name in
+it self, and the greatest of evils that can happen.
+
+1\. Let us consider what pleasures there are in sin; most of them are very
+punishments. I will not reckon nor consider concerning en­vie, which one in
+Stobaeus cals  [...], the basest spirit and yet very just, because it punishes
+the delinquent in the very act of D sin, doing as Aelian saies of the Polypus,
+[...], when he wants his prey, he devours his own armes; and the leannesse,
+and the secret pangs, and the perpetuall restlesnesse of an envious man feed
+upon his own heart, and drink down his spirits, unlesse he can ruine or
+observe the fall of the fai­rest fortunes of his neighbour. The fruit of this
+tree are mingled and sowre, and not to be indured in the very eating. Neither
+will I reck on the horrid afrightments and amazements of murder, nor the
+uneasinesse of impatience, which doubles every evill that it feels, and makes
+it a sin, and makes it intolerable; nor the secret grievings, E and continuall
+troubles of peevishnesse, which makes a man unca­pable of receiving good, or
+delighting in beauties and fair intreaties, in the mercies of God and
+charities of men.
+
+It were easie to make a catalogue of sins, every one of which is a disease, a
+trouble in it's very constitution and its nature: such [[Page
+248]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=128) are loathing
+of spirituall things, bitternesse of spirit, rage, greedi­nesse, confusion of
+minde, and irresolution, cruelty and despite, sloth­fulnesse A and distrust,
+unquietnesse and anger, effeminacy and nicenesse, prating and sloth, ignorance
+and inconstancy, incogitancy and cur­sing, malignity and fear, forgetfulnesse
+and rashnesse, pusillanimity and despair, rancour and superstition: if a man
+were to curse his enemy, he could not wish him a greater evill then these; and
+yet these are severall kinds of sin which men choose, and give all their hopes
+of heaven in exchange for one of these diseases. Is it not a fearfull
+consideration that a man should rather choose eternally to perish, then to say
+his prayers heartily, and affectionately? But so B it is with very many men;
+they are driven to their devotions by custome, and shame, and reputation, and
+civill compliances; they sigh and look sowre when they are called to it, and
+abide there as a man under the Chirurgeons hands, smarting aud fretting all
+the while; or else he passes the time with incogitancy, and hates the
+imployment, and suffers the torments of prayers which he loves not; and all
+this, although for so doing it is certain he may perish: what fruit, what
+deliciousnesse can he fancy in being weary of his prayers? There is no
+pretence or colour for these things. Can any man imagine a greater evill to
+the body and soul of a man, then madnesse, and furious eyes, and a distracted
+look, palenesse with C passion, and trembling hands and knees, and
+furiousnesse, and folly in the heart and head? and yet this is the pleasure of
+anger, and for this pleasure men choose damnation. But it is a great truth,
+that there are but very few sins that pretend to pleasure: although a man be
+weak and soon deceived, and the Devill is crafty, and sin is false and
+impudent, and pretences are too many, yet most kinds of sins are reall and
+prime troubles to the very body, without all manner of deliciousnesse, even to
+the sensuall, naturall, and carnall part; and a man must put on something of a
+Devill before he can choose such sins, and he must love mischief because it is
+a sin; for in D most instances there is no other reason in the world. Nothing
+pre­tends to pleasure but the lusts of the lower belly, ambition, and
+re­venge; and although the catalogue of sins is numerous as the pro­duction of
+fishes, yet these three only can be apt to consen us with a fair outside; and
+yet upon the survey of what fruits they bring, and what taste they have, in
+the manducation, besides the filthy re­lish they leave behind, we shall see
+how miserably they are abused and fool'd, that expend any thing upon such
+purchases.
+
+2\. For a man cannot take pleasure in lusts of the flesh, in glut­tony, or
+drunkennesse, unlesse he be helped forward with inconsi­deration E and folly.
+For we see it evidently that grave and wise per­sons, men of experience and
+consideration are extremely lesse affe­cted with lust and loves; the hare-
+brain'd boy, the young gen­tleman that thinks nothing in the world greater
+then to be free from [[Page
+249]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=128) a Tutor, he
+indeed courts his folly and enters into the possession A of lust without
+abatement; consideration dwels not there; but when a sober man meets with a
+temptation, and is helped by his naturall temper, or invited by his course of
+life; if he can consider, he hath so many objections and fears, so many
+difficulties and impediments, such sharp reasonings and sharper jealousies
+concerning its event, that if he does at all enter into folly, it pleases him
+so little, that he is forced to do it in despite of himself; and the pleasure
+is so allayed, that he knowes not whether it be wine or vinegar; his ve­ry
+apprehension and instruments of relish are fill'd with fear and contradicting
+principles, and the deliciousnesse does but affricare cu­tem, it went but to
+the skin; but the allay went further; it kept a B guard within, and suffered
+the pleasure to passe no further. A man must resolve to be a fool, a rash,
+inconsiderate person, or he will feel but little satisfaction in the enjoyment
+of his sin: indeed he that stops his nose, may drink down such corrupted
+waters, and he understood it well who chose rather to be a fool,
+
+Dum mala delectent mea me, vel deni (que) fallant,
+
+Quàm sapere & ringi— C
+
+so that his sins might delight him, or deceive him, then to be wise and
+without pleasure in the enjoyment. So that in effect, a man must lose his
+discerning faculties, before he discerns the little phantastick joyes of his
+concupiscence; which demonstrates how vain, how em­pty of pleasure that is,
+that is beholding to folly and illusion, to a jugling and a plain cousenage,
+before it can be fancyed to be plea­sant. For it is a strange beauty that he
+that hath the best eyes can­not perceive, and none but the blinde or blear-
+ey'd people can see; and such is the pleasure of lust, which by every degree
+of wisdome that a man hath is lessened and undervalued. D
+
+3\. For the pleasures of intemperance, they are nothing but the reliques and
+images of pleasure, after that nature hath been feasted; For so long as she
+needs, that is, so long as temperance waits, so long pleasure also stands
+there. But as temperance begins to go away, having done the ministeries of
+Nature, every morsell; and every new goblet is still lesse delicious, and
+cannot be endured but as men force nature by violence to stay longer then she
+would: How have some men rejoyced when they have escaped a cup! and when they
+cannot escape, they pour it in, and receive it with as much pleasure as the
+old women have in the Lapland dances; they dance the round, E but there is a
+horror and a harshnesse in the Musick; and they call it pleasure, because men
+bid them do so: but there is a Devill in the company, and such as is his
+pleasure, such is theirs: he re­joyces in the thriving sin, and the swelling
+fortune of his darling drunkenesse, but his joyes are the joyes of him that
+knowes and [[Page
+250]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=129) alwayes
+remembers that he shall infallibly have the biggest damna­tion; and then let
+it be considered how forc'd a joy that is, that is A at the end of an
+intemperate feast.
+
+Non benè mendaci risus componitur ore,
+
+Nec benè sollicitis ebria verba sonant.
+
+Certain it is, intemperance takes but natures leavings; when the belly is full
+and nature cals to take away, the pleasure that comes in afterwards is next to
+loathing: it is like the relish and taste of meats at the end of the third
+course, or the sweetnesse of honey to him that hath eaten til he can endure to
+take no more; and in this, B there is no other difference of these men from
+them that die upon another cause, then was observed among the Phalangia of
+old,  [...], some of these serpents make men die laughing, and some to die
+weeping: so does the in­temperate, and so does his brother that languishes of
+a consumpti­on; this man dies weeping, and the other dies laughing: but they
+both die infallibly, and all his pleasure is nothing but the sting of a
+serpent, immixto liventia mella veneno, it wounds the heart, and he dies with
+a Tarantula dancing and singing till he bowes his neck, and kisses his bosome
+with the fatall noddings and declensions of C death.
+
+4\. In these pretenders to pleasure which you see are but few, and they not
+very prosperous in their pretences, there is mingled so much trouble to bring
+them to act and injoyment, that the appetite is above half tired before it
+comes; It is necessary a man should be hugely patient that is ambitious,
+Ambulare per Britannos, Scythi­cas pati pruinas: no man buy's death and
+damnation at so dear a rate, as he that sights for it, and endures cold and
+hunger,
+
+—Patiens liminis at (que) solis, D
+
+The heat of the sun, and the cold of the threshold; the dangers of war, and
+the snares of a crafty enemy; he lies upon the ground with a severity greater
+then the penances of a Hermit, and fasts beyond the austerity of a rare
+penitent; with this only difference, that the one does it for heaven, the
+other for an uncertain ho­nour, and an eternity of flames. But however, by
+this time that he hath won something, he hath spent some years, and he hath
+not much time left him to rest in his new purchase, and he hath worn E out his
+body, and lessen'd his capacity of feeling it; and although it is ten to one
+he cannot escape all the dangers he must venture at, that he may come near his
+trifle, yet when he is arrived thither, he can never long enjoy, nor well
+perceive or taste it; and therefore there are more sorrowes at the gate, then
+there can dwell comforts [[Page
+251]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=129) in all the
+rooms of the houses of pride and great designs. And A thus it is in revenge,
+which is pleasant only to a devill, or a man of the same cursed temper. He
+does a thing which ought to trouble him, and will move him to pity what his
+own vile hands have acted; but if he does not pity, that is, be troubled with
+himself and wish the things undone, he hath those affections by which the
+Devill doth rejoyce in destroying souls; which affections a man cannot have,
+unlesse he be perfectly miserable, by being contrary to God, to mer­cy, and to
+felicity; and after all, the pleasure is false, phantastick, and violent; it
+can do him no good, it can do him hurt: 'tis ods but it will; and on him that
+takes revenge, revenge shall be taken; B and by a reall evill he shall dearly
+pay for the goods that are but airy and phantasticall; It is like a rolling
+stone, which when a man hath forced up a hill, will return upon him with a
+greater violence, and break those bones whose sinews gave it motion. The
+plea­sure of revenge is like the pleasure of eating chalk and coals; a
+foo­lish disease made the appetite, and it is entertain'd with an evill
+re­ward; it is like the feeding of a Cancer or a Wolfe, the man is rest­lesse
+till it be done, and when it is, every man sees how infinitely he is removed
+from satisfaction or felicity.
+
+5\. These sins when they are entertain'd with the greatest fond­nesse from
+without, it must have but extreme little pleasure, be­cause C there is a
+strong faction, and the better party against them: something that is within
+contests against the entertainment, and they sit uneasily upon the spirit when
+the man is vexed, that they are not lawfull▪ The Persian King gave
+Themistocles a goodly pension, assigning Magnesia with the revenue of 50
+talents for his bread, Lampsacum for his wine, and Myos for his meat; but all
+the while he fed high and drunk deep, he was infinitely afflicted that every
+thing went crosse to his undertaking, and he could not bring his ends about to
+betray his country; and at last he mingled poison D with his wine, and drank
+it off, having first intreated his friends to steal for him a private grave in
+his own countrey. Such are the pleasures of the most pompous and flattering
+sins: their meat and drink are good and pleasant at first, and it is plenteous
+and criminall; but its imployment is base, and it is so against a mans
+interest, and against what is and ought to be dearest to him, that he cannot
+per­swade his better parts to consent, but must fight against them and all
+their arguments. These things are against a mans conscience, that is, against
+his reason and his rest; and something within makes his pleasure sit uneasily.
+But so do violent perfumes make the head E ache, and therefore wise persons
+reject them; and the eye refuses to stare upon the beauties of the Sun,
+because it makes it weep it self blinde; and if a luscious dish please my
+palat, and turns to loa­thing in the stomach, I will lay aside that evill, and
+consider the danger and the bigger pain, not that little pleasure. So it is in
+sin, [[Page 252]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=130) it
+pleases the senses, but diseases the spirit, and wounds that: and A that it is
+as apt to smart as the skin, and is as considerable in the pro­visions of
+pleasure and pain respectively: and the pleasures of sin to a contradicting
+reason, are like the joyes of wine to a con­demned man,
+
+—Difficile est imitari gaudia falsa,
+
+Difficile est tristi fingere mente jocum.
+
+It will be veryhard to delight freely in that which so vexes the more tender
+and most sensible part; so that, what Pliny said of B the Poppies growing in
+the river Caïcus, [...], it brings a stone in stead of a flower or fruit; so
+are the pleasures of these pretending sins; the flower at the best is
+stinking, but there is a stone in the bottome, it is gravell in the teeth, and
+a man must drink the bloud of his own gums when he manducates such
+un­wholesome, such unpleasant fruit.
+
+—Vitiorum gaudia vulnus habent.
+
+They make a wound, and therefore are not very pleasant. C [...], It is a great
+labour, and travail to live a vicious life.
+
+6\. The pleasure in the acts of these few sins that do pretend to it, is a
+little limited nothing, confin'd to a single faculty, to one sense, having
+nothing but the skin for its organ, or instrument, an artery, or something not
+more considerable then a Lute-string; and at the best it is but the
+satisfaction of an appetite which reason can cure, which time can appease,
+which every diversion can take off; such as is not perfective of his nature,
+nor of advantage to his person; it is a desire to no purpose, and as it comes
+with no just cause, so D can be satisfied with no just measures; it is
+satisfied before it comes to a vice, and when it is come thither, all the
+world cannot sa­tisfie it: a little thing will weary it, but nothing can
+content it. For all these sensuall desires are nothing but an impatience of
+being well and wise, of being in health, and being in our wits; which two
+things if a man could endure (and it is but reasonable, a man would think,
+that we should) he would never lust to drown his heart in seas of wine, or
+oppresse his belly with loads of undigested meat, or make himself base as the
+mixtures of a harlot, by breaking the sweetest limits, and holy festivities of
+marriage. Malum impati­entia E est boni, said Tertullian, it is nothing else;
+to please the sense, is but to do a mans self mischief; and all those lusts
+tend to some direct dissolution of a mans health, or his felicity, his
+rea­son, or his religion; it is an enemy that a man carries about him, and as
+the spirit of God said concerning Babylon, Quantum in de­liciis [[Page
+253]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=130) fuit, tantum
+dat illi tormentum & luctum, Let her have tor­ment A and sorrow according to
+the measure of her delights; is most eminently true in the pleasing of our
+senses; the lust and desire is a torment; the remembrance and the absence is a
+torment, and the enjoyment does not satisfie, but disables the instrument, and
+tires the faculty; and when a man hath but a little of what his sense covets,
+he is not contented, but impatient for more; and when he hath loads of it, he
+does not feel it; for he that swallowes a full goblet does not taste his wine:
+and this is the pleasure of the sense; nothing contents it but that which he
+cannot perceive: and it is alwaies restlesse, till he be weary; and all the
+way unpleased, till B it can feel no pleasure; and that which is the
+instrument of sense is the means of its torment; by the faculty by which it
+tasts, by the same it is afflicted; for so long as it can taste, it is
+tormented with desire, and when it can desire no longer, it cannot feel
+pleasure.
+
+7\. Sin hath little or no pleasure lin its very injoyment; because its very
+manner of entry and production is by a curse and a con­tradiction; it comes
+into the world like a viper through the sides of its mother by means
+unnaturall, violent, and monstrous. Men love sin only because it is forbidden;
+Sin took occasion by the Law, saith St. Paul, it could not come in upon its
+own pretences, but C men rather suspect a secret pleasure in it because there
+are guards kept upon it;
+
+Sed quia caecus inest vitiis amor, omne futurum
+
+Despicitur, suadént (que) brevem praesentia fructum,
+
+Et ruit in vetitum damni secura libido.
+
+Men run into sin with blinde affections, and against all reason de­spise the
+future, hoping for some little pleasure for the present; and D all this is
+only because they are forbidden: Do not many men sin out of spight? some out
+of the spirit of disobedience, some by wildenesse, and indetermination, some
+by impudence, and because they are taken in a fault,
+
+—Frontém (que) à crimine sumunt,
+
+Some because they are reproved, many by custome, others by importunity:
+
+Ordo fuit crevisse malis— E
+
+It grows upon crab-stocks, and the lust it self is sowre and unwhole­some; and
+since it is evident, that very many sins come in whol­ly upon these accounts,
+such persons and such sins cannot pretend [[Page
+254]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=131) pleasure; but
+as Naturalists say of pulse, cum maledictis & probris serendum praecipiunt, ut
+laetiùs porventat; the countrey people were A used to curse it and rail upon
+it all the while that it was sowing, that it might thrive the better; tis true
+with sins, they grow up with curses, with spite and contradiction,
+peevishnesse and indignation, pride and cursed principles; and therefore
+pleasure ought not to be the inscription of the box; for that's the least part
+of its ingredi­ent and constitution.
+
+8\. The pleasures in the very enjoying of sin are infinitely trifling and
+inconsiderable, because they passe away so quickly; if they be in themselves
+little, they are made lesse by their volatile and fugi­tive B nature. But if
+they were great, then their being so transient does not only lossen the
+delight, but changes it into a torment, and loads the spirit of the sinner
+with impatience and indignation. Is it not a high upbraiding to the watchfull
+adulterer, that after he hath contriv'd the stages of his sin, and tyed many
+circumstances together with arts and labour, and these joyn and stand knit and
+solid only by contingency, and are very often born away with the impetuous
+torrent of an inevitable accident, like Xerxes bridge over the Hellespont, and
+then he is to begin again, and sets new wheels a going; and by the arts, and
+the labour, and the watchings, and the importunity, and the violence, and the
+unwearied study, and C indefatigable diligence of many moneths he enters upon
+possession, and finds them not of so long abode as one of his cares, which in
+so vast numbers made so great a portion of his life afflicted?  [...], The
+enjoying of sin for a season, St. Paul Heb. 11. 25. cals it; he names no
+pleasures; our English translation uses the word of enjoying pleasures; but if
+there were any, they were but for that season, that instant, that very
+transition of the act, which dies in its very birth, and of which we can only
+say as the minstrell sung of Pacuvius when he was carryed dead from his supper
+to his bed,  [...], A man can scarce have time enough to say it is alive, D
+but that it was: nullo non se die extui [...]t, it died every day, it lived
+never unto life, but lived and dyed unto death, being its mother, and its
+daughter: The man dyed before the sin did live, and when it had lived, it
+consign'd him to dye eternally.
+
+Adde  [...] this, that it so passes away, that nothing at all remains behind
+it, that is pleasant: it is like the path of an arrow in the air; the next
+morning no man can tell what is become of the pleasures of the last nights
+sin: they are no where but in Gods books, deposited in the conscience, and
+sealed up against the day of dread­full E accounts; but as to the man they are
+as if they never had been; and then let it be considered, what a horrible
+aggravation it will be to the miseries of damnation, that a man shall for ever
+perish for that, which if he looks round about he cannot see, nor tell where
+it is. He that dies, dies for that which is not; and in the very little [[Page
+255]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=131) present he
+findes it an unrewarding interest, to walk seven dayes to­gether over sharp
+stones only to see a place from whence he must A come back in an hour. If it
+goes off presently, it is not worth the labour; if it stayes long, it growes
+tedious: so that it cannot be plea­sant, if it stayes; and if it does stay, it
+is not to be valued: Haec mala men­tis gaudia. It abides too little a while to
+be felt, or called pleasure; and if it should abide longer, it would be
+troublesome as pain, and loath'd like the tedious speech of an Orator pleading
+against the life of the innocent.
+
+9\. Sin hath in its best advantages but a trifling inconsiderable pleasure:
+because not only God and reason, conscience and honour, in­terest B and lawes,
+do sowre it in the sense and gust of pleasure, but even the devill himself
+either being over-ruled by God, or by a strange unsignificant malice makes it
+troublesome and intricate, in­tangled and involv'd; and one sin contradicts
+another, and vexes the man with so great variety of evils, that if in the
+course of Gods service he should meet with half the difficulty, he would
+certainly give over the whole imployment. Those that St. James speaks of who
+prayed that they might spend it upon their lusts, were covetous and prodigall,
+and therefore must endure the torments of one to have the pleasure of another;
+and which is greater, the pleasure of spending, or the displeasure that it is
+spent, and does not still remain after C its consumption, is easie to tell:
+certain it is, that this lasts much longer. Does not the Devill often tempt
+men to despair, and by that torment put bars and locks upon them, that they
+may never return to God? Which what else is it but a plain indica­tion that it
+is intended, the man should feel the images and dreams of pleasure, no longer
+but till he be without remedy? Pleasure is but like centries or woodden
+frames, set under arches, till they be strong by their own weight and
+consolidation to stand alone; and when by any means the Devill hath a man D
+sure, he takes no longer care to cousen you with pleasures, but is pleased
+that men should begin an early hell, and be tormented before the time. Does
+not envie punish or destroy flattery; and self-love sometimes torment the
+drunkard; and intemperance abate the powers of lust, and make the man
+impotent; and la­zinesse become a hinderance to ambition; and the desires of
+man wax impatient upon contradicting interests, and by crossing each others
+design on all hands lessen the pleasure, and leave the man tor­mented?
+
+10\. Sinne is of so little relish and gust, so trifling a pleasure, E that it
+is alwayes greater in expectation then it is in the possessi­on. But if men
+did before hand see, what the utmost is, which sinne ministers to please the
+beastly part of man, it were im­possible it should be pursued with so much
+earnestnesse and disadvantages. It is necessary it should promise more then it
+[[Page 256]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=132) can
+give; Men could not otherwise be cousened. And if it be inquired, why men
+should sin again, after they had experience of A the little and great
+deception? It is to be confessed, it is a wonder they should; but then we may
+remember that men sinne again, though their sinne did afflict them; they will
+be drunk again, though they were sick; they will again commit folly, though
+they be surprised in their shame, though they have needed an hospitall; and
+therefore there is something else that moves them, and not the pleasure; for
+they doe it without and against its in­terest; but either they still proceed,
+hoping to supply by num­bers what they finde not in proper measures; or God
+permits them to proceed as an instrument of punishment; or their
+un­derstandings B and reasonings grow cheaper; or they grow in love with it,
+and take it upon any terms; or contract new appetites, and are pleased with
+the baser and the lower reward of sinne: but whatsoever can be the cause of
+it, it is certain, by the experience of all the world, that the fancy is
+higher, the desires more sharp, and the reflexion more brisk, at the door and
+en­trance of the entertainment, then in all the little and shorter pe­riods of
+its possession: for then it is but limited by the natu­rall measures, and
+abated by distemper, and loathed by enjoy­ing, and disturbed by partners, and
+dishonoured by shame and C evill accidents; so that as men coming to the river
+Lucius, [...], and seeing waters pure as the tears of the spring, or the
+pearls of the morning, expects that in such a fair promising bosome, the
+inmates should be fair and pleasant,  [...], but findes the fishes black,
+filthy, and unwholesome; so it is in sinne, its face is fair and beauteous,
+
+[...], D
+
+[...].
+
+Softer then sleep, or the dreams of wine, tenderer then the curds of milk, &
+Euganeâ quantumvis mollior agnâ; but when you come to handle it, it is filthy,
+rough as the Porcupine, black as the shadowes of the night, and having
+promised a fish it gives a scorpion, and a stone in stead of bread.
+
+II. The fruits of its present possession, the pleasures of its taste are lesse
+pleasant, because no sober person, no man that can discourse does like it
+long, E
+
+—Breve sit quod turpiter audes.
+
+Juven.
+
+But he approves it in the height of passion, and in the disguises of a
+temptation; but at all other times he findes it ugly and un­reasonable; [[Page
+257]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=132) and the very
+remembrances must at all times abate its A pleasures, and sowre its
+delicacies. In the most parts of a mans life he wonders at his own folly, and
+prodigious madnesse, that it should be ever possible for him to be deluded by
+such trifles; and he sighes next morning, and knowes it over night; and is it
+not therefore certain that he leans upon a thorne, which he knowes will smart,
+and he dreads the event of to morrow? But so have I known a bold trooper fight
+in the confusion of a battell, and be­ing warm with heat and rage received
+from the swords of his enemy, wounds open like a grave; but he felt them not,
+and when by the streams of bloud he found himself mark'd for pain, he refu­sed
+B to consider then, what he was to feel to morrow: but when his rage had
+cool'd into the temper of a man, and a clammy moi­sture had checked the fiery
+emission of spirits, he wonders at his own boldnesse, and blames his fate, and
+needs a mighty patience to bear his great calamity. So is the bold and merry
+sinner, when he is warm with wine and lust, wounded and bleeding with the
+strokes of hell, he twists with the fatall arm that strikes him, and cares
+not; but yet it must abate his gayety, because he remembers that when his
+wounds are cold and considered, he must roar or perish, repent or do worse;
+that is, be miserable or undone. The C Greeks call this  [...], the felicity
+of condemned slaves feasted high in sport. Dion Prusaeus reports that when the
+Persi­ans had got the victory, they would pick out the noblest slave,  [...],
+They make him a King for three dayes, and cloath him with royall robes, and
+minister to him all the pleasures he can choose, and all the while he knowes
+he is to dye a sacrifice to mirth and folly. But then let it be remembred what
+checks and allayes of mirth the poor man starts at, when he remembers the axe
+and the altar where he must shortly bleed; and by this D we may understand
+what that pleasure is, in the midst of which the man sighs deeply, when he
+considers what opinion he had of this sin in the dayes of counsell and sober
+thoughts, and what rea­son against it, he shall feel to morrow when he must
+weep or die. Thus it happens to sinners according to the saying of the
+Prophet, Qui sacrificant hominem osculabuntur Vitulum, He that Hos. 13. 2.
+gives a man in sacrifice shall kisse the calf, that is, shall be admitted to
+the seventh chappell of Moloch to kisse the Idoll: a goodly reward for so
+great a price, for so great an iniquity.
+
+After all this I doe not doubt but these considerations will E meet with some
+persons that think them to be protestatio contra factum, and fine pretences
+against all experience; and that for all these severe sayings, sin is still so
+pleasant as to tempt the wisest resolution. Such men are in a very evill
+condition: and in their case only I come to understand the meaning of those
+words [[Page 258]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=133)
+of Seneca; Malorum ultimum est mala sua amare, ubi turpia non solùm delectant,
+sed etiam placent. It is the worst of evils when A men are so in love with sin
+that they are not only delighted with them but pleased also; not only feel the
+relish with too quick a sense, but also feel none of the objections, nothing
+of the pun­gency, the sting, or the lessening circumstances. However, to these
+men I say this only, that if by experience they feel sin pleasant, it is as
+certain also by experience, that most sins are in their own nature sharpnesses
+and diseases; * and that very few do pretend to pleasure: * That a man cannot
+feel any deli­ciousnesse in them, but when he is helped by folly and
+incon­sideration; that is, a wise man cannot, though a boy or a fool B can be
+pleased with them: * That they are but reliques and images of pleasure left
+upon Natures stock, and therefore much lesse then the pleasures of naturall
+vertues: * That a man must run through much trouble before he brings them to
+act and enjoy­ment: * That he must take them in despite of himself, against
+reason and his conscience, the tenderest parts of man and the most sensible of
+affliction: * They are at the best so little, that they are limited as one
+sense, not spread upon all the faculties like the pleasures of vertue, which
+make the bones fat by an in­tellectuall rectitude, and the eyes spritely by a
+wise proposition, C and pain it self to become easie by hope and a present
+rest within: * It is certain (I say) by a great experience, that the pleasures
+of sin enter by cursings and a contradictory interest, and become pleasant not
+by their own relish, but by the vicious­nesse of the palat, by spite and
+peevishnesse, by being forbid­den and unlawfull; * And that which is its sting
+is at some times the cause of all its sweetnesse it can have; * They are gone
+sooner then a dream; * They are crossed by one another, and their Parent is
+their Tormentor, * and when sinnes are ty­ed D in a chain, with that chain
+they dash one anothers brains out, or make their lodging restlesse. * It is
+never lik'd long; * and promises much and performes little; * it is great at
+distance, and little at hand, against the nature of all substantiall things; *
+And after all this, how little pleasure is left, themselves have rea­son with
+scorn and indignation to resent. So that if experience can be pretended
+against experience, there is nothing to be said to it but the words which
+Phryne desired to be writ on the gates of Thebes, [...], Phryne the harlot
+built it up, but Alexander digg'd it down; the plea­sure E is supported by
+little things, by the experience of fools and them that observed nothing, and
+the relishes tasted by ar­tificiall appetites, by art and cost, by violence
+and preterna­turall desires, by the advantage of deception and evill habits,
+by expectation and delayes, by dreams and inconsiderations, [[Page
+259]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=133) these are the
+harlots hands that build the fairy castle, but the A hands of reason and
+religion, sober counsels and the voice of God, experience of wise men, and the
+sighings and intolera­ble accents of perishing or returning sinners dig it
+down, and sow salt in the foundations, that they may never spring up in the
+accounts of men that delight not in the portion of fools and forgetfulnesse.
+Neque enim Deus ita viventibus quicquam promisit boni, neque ipsa per se mens
+humana talium sibi conscia Plat. de Rep. quicquam boni sperare audet. To men
+that live in sinne God hath promised no good, and the conscience it self dares
+not ex­pect it.
+
+[[Page 260]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=134)
+
+## 20\. SERMON, XX. Part II. B
+
+WE have already opened this dunghill cover'd with snow, which was indeed on
+the outside white as the spots of leprosie, but it was no better; and if the
+very colours and instruments of deception, if the fucus and ceruse be so
+spot­ted and sullyed, what can we suppose to be under the wrinkled skin, what
+in the corrupted liver, and in the sinks of the body of sin? That we are next
+to consider: But if we open the body, and see what a confusion of all its
+parts, what a rebellion and tumult of the humors, what a disorder of the
+members, what a monstrosity or deformity is C all over, we shall be infinitely
+convinced, that no man can choose a sin, but upon the same ground on which he
+may choose a feaver, or long for madnesse or the gout. Sin in its naturall
+efficiency hath in it so many evils, as must needs afright a man, and scare
+the confidence of every one that can consider.
+
+* When our blessed Saviour shall conduct his Church to the mountains of glory, he shall present it to God without spot or wrinkle, Ephes. 5. that is, pure and vigorous, intirely freed from the power, and the in­fection of sin. Upon occasion of which expression it hath been spoken that sin leaves in the soul a stain or spot, permanent upon the spirit; D discomposing the order of its beauty, and making it appear to God in sordibus in such filthinesse, that he who is of pure eyes cannot behold. But roncerning the nature or proper effects of this spot or stain, they have not been agreed. Some call it an obligation or a guilt of punish­ment; so Scotus. Some fancy it to be an elongation from God, by a dissimilitude of conditions; so Peter Lombard. Alexander of Ales sayes it is a privation of the proper beauty and splendor of the soul, with which God adorn'd it in the creation and superaddition of grace; and upon this expression they most agree, but seem not to understand what they mean by it; and it signifies no more, but as you describing E sicknesse, call it a want of health, and folly a want of wisdome; which is indeed to say what a thing is not, but not to tell what it is: But that I may not be hindred by this consideration, we may observe that the spots and stains of sin are metaphoricall significations of the dis­order and evill consequents of sin; which it leaves partly upon the [[Page 261]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=134) soul, partly upon the state and condition of a man; as meeknesse is cal­led A an ornament, and faith a shield, and salvation a helmet, and sin it self a wrinkle, corruption, rottennesse, a burden, a wound, death, filthi­nesse: Psa. 38. 4. & 65\. 2 Tim. 3. 6. so it is a3 defiling of a man, that is, as the body contracts nasti­nesse and dishonour by impure contacts, and adherencies, so does the soul receive such a change as must be taken away before it can enter into the eternall regions, and house of purity. But it is not a distinct  [...], &c. thing, not an inherent quality, which can be separated from other evill effects of sin, which I shall now reckon by their more proper names; and St. Paul comprises under the scornfull appellative of shame. B
+
+1\. The first naturall fruit of sin is ignorance. Man was first tempted by the
+promise of knowledge; he fell into darknesse by beleeving the Devill holding
+forth to him a new light. It was not likely good should come of so foul a
+beginning; that the woman should beleeve the Devill putting on no brighter
+shape then a snakes skin, she nei­ther being afraid of sin nor afrighted to
+hear a beast speak, and he pretending so weakly in the temptation, that he
+promised only that they should know evill; for they knew good before; and all
+that was offered to them was the experience of evill: and it was no wonder
+that the Devill promised no more; for sin never could perform any thing but an
+experience of evill, no other knowledge can come upon C that account; but the
+wonder was, why the woman should sin for no other reward, but for that which
+she ought to have fear'd infinitely; for nothing could have continued her
+happinesse, but not to have known evill. Now this knowledge was the
+introduction of igno­rance. For when the understanding suffered it self to be
+so baffled as to study evill, the will was as foolish to fall in love with it,
+and they conspir'd to undoe each other. For when the will began to love it,
+then the understanding was set on work to commend, to advance, to conduct and
+to approve, to beleeve it, and to be factious in behalf of D the new purchase.
+I do not beleeve the understanding part of man received any naturall decrement
+or diminution. For if to the De­vils their naturals remain intire, it is not
+likely that the lesser sin of man should suffer a more violent and effective
+mischief. Neither can it be understood how the reasonable soul being immortall
+both in it self and its essentiall faculties, can lose or be lessened in them,
+any more then it can die. But it received impediment, by new proposi­tions: It
+lost and willingly forgot what God had taught, and went away from the fountain
+of truth, and gave trust to the father of lies, and it must without remedy
+grow foolish; and so a man came to E know evill, just as a man is said to
+taste of death: for in proper spea­king, as death is not to be felt, because
+it takes away all sense; so nether can evill be known, because whatsoever is
+truly cognoscible, is good and true; and therefore all the knowledge a man
+gets by sin is to feel evill: he knowes it not by discourse, but by sense; not
+by [[Page 262]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=135)
+proposition, but by smart; The Devill doing to man as Esculapius did to
+Neoclides, [...], A he gave him a formidable collyrium to torment him more:
+the effect of which was,  [...]: the Devill himself grew more quick­sighted to
+abuse us, but we became more blinde by that opening of our eyes. I shall not
+need to discourse of the Philosophy of this mischief, and by the connexion of
+what causes ignorance doth fol­low sin: but it is certain, whether a man would
+fain be pleased with sin, or be quiet, or fearlesse when he hath sinned, or
+continue in it, or perswade others to it, he must do it by false propositions,
+by ly­ings and such weak discourses as none can beleeve but such as are B born
+fools, or such as have made themselves so, or are made so by others. Who in
+the world is a verier fool, a more ignorant wret­ched person then he that is
+an Atheist? A man may better beleeve there is no such man as himself, and that
+he is not in being, then that there is no God: for himself can cease to be,
+and once was not, and shall be changed from what he is, and in very many
+periods of his life knowes not that he is; and so it is every night with him
+when he sleeps: but none of these can happen to God; and if he knowes it not,
+he is a fool. Can any thing in this world be more foolish then to think that
+all this rare fabrick of heaven and earth can C come by chance, when all the
+skill of art is not able to make an Oyster? To see rare effects and no cause;
+an excellent govern­ment and no Prince; a motion without an immovable; a
+circle with­out a centre; a time without eternity; a second without a first; a
+thing that begins not from it self, and therefore not to perceive there is
+something from whence it does begin, which must be without be­ginning; these
+things are so against Philosophy, and naturall reason, that he must needs be a
+beast in his understanding that does not assent to them. This is the Atheist:
+the fool hath said in his heart, there is no God. That's his character: the
+thing framed saies that no­thing D framed it; the tongue never made it self to
+speak, and yet talks against him that did; saying, that which is made, is, and
+that which made it, is not. But this folly is as infinite as hell, as much
+without light or bound, as the Chaos or the primitive nothing. But in this,
+the Devill never prevailed very farre; his Schooles were al­waies thin at
+these Lectures: some few people have been witty against God, that taught them
+to speak before they knew to spell a syllable; but either they are monsters in
+their manners, or mad in their un­derstandings, or ever finde themselves
+confuted by a thunder or a E plague, by danger or death.
+
+But the Devill hath infinitely prevail'd in a thing that is almost as
+senselesse and ignorant as Atheisme, and that is idolatry; not only making God
+after mans image, but in the likenesse of a calf, of a cat, of a serpent;
+making men such fools as to worship a quartan ague, [[Page
+263]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=135) fire and
+water, onions and sheep. This is the skill man learned, and A the Philosophy
+that he is taught by beleeving the D [...]vill. * What wisedome can there be
+in any man, that cals good evill, and evill good; to say fire is cold, and the
+Sun black, that fornication can make a man happy, or drunkennesse can make him
+wise? And this is the state of a sinner, of every one that delights in
+iniquity; he cannot be pleased with it if he thinks it evill; he cannot endure
+it, without beleeving this proposition, that there is in drunkennesse, or
+lust, pleasure enough, good enough to make him amends for the in­tolerable
+pains of damnation. But then if we consider upon what nonsense principles the
+state of an evill life relies, we must in rea­son B be impatient, and with
+scorn and indignation drive away the fool; such as are: sense is to be
+preferred before reason, interest be­fore religion, a lust before heaven,
+moments before eternity, money above God himself; that, a mans felicity
+consists in that which a beast enjoyes; that, a little in present uncertain,
+fallible possession, is better then the certain state of infinite glories
+hereafter; what childe, what fool can think things more weak, and more
+unreasonable? And yet if men do not go upon these grounds, upon what account
+do they sin? sin hath no wiser reasons for it self then these:  [...], the
+same argument that a flye hath to enter into a candle, the C same argument a
+fool hath, that enters into sin; it looks prettily, but rewards the eye, as
+burning basons do, with intolerable cir­cles of reflected fire. Such are the
+principles of a sinners Philoso­phy. And no wiser are his hopes; all his hopes
+that he hath is, that he shall have time to repent of that which he chooses
+greedily; that he whom he every day provokes will save him, whether he will or
+no; that he can in an instant, or in a day make amends for all the evils of 40
+years; or else that he shall be saved whether he does or no; that heaven is to
+be had for a sigh, or a short prayer, and yet hell shall not be consequent to
+the affections, and labours, and hel­lish D services of a whole life; he goes
+on and cares not, he hopes with­out a promise, and refuses to beleeve all the
+threatnings of God; but beleeves he shall have a mercy for which he never had
+a revela­tion. If this be knowledge or wisdome, then there is no such thing as
+folly, no such disease as madnesse.
+
+But then consider, that there are some sins whose very formality is a lye.
+Superstition could not be in the world, if men did beleeve God to be good and
+wise, free and mercifull, not a tyrant, not an unreasonable exactor: no man
+would dare do in private, what he fears to do in publick, if he did know that
+God sees him there, E and will bring that work of darknesse into light. But he
+is so foo­lish as to think, that if he sees nothing, nothing sees him; for if
+men did perceive God to be present, and yet do wickedly, it is worse with them
+then I have yet spoke of; and they beleeve another lie; that to be seen by man
+will bring more shame, then to be dis­cerned [[Page
+264]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=136) by God; or
+that the shame of a few mens talk is more in­tolerable then to be confounded
+before Christ, and his army of An­gels, A and Saints, and all the world. * He
+that excuses a fault by telling a lie, beleeves it better to be guilty of two
+faults, then to be thought guilty of one; and every hypocrite thinks it not
+good to be holy, but to be accounted so, is a fine thing; that is, that
+opini­on is better then reality, and that there is in vertue nothing good, but
+the fame of it. * And the man that takes revenge, relies upon this foolish
+proposition; that his evill that he hath already suffer'd growes lesse if
+another suffers the like; that his wound cannot smart, if by my hand he dies
+that gave it.  [...], the sad B accents and dolefull tunes are increased by
+the number of mourners, but the sorrow is not at all lessened.
+
+I shall not need to thrust into this account the other evils of man­kinde that
+are the events of ignorance, but introduc'd by sin; such as are our being
+moved by what we see strongly, and weakly by what we understand; that men are
+moved rather by a fable then by a syllogisme, by parables then by
+demonstrations, by examples then by precepts, by seeming things then by reall,
+by shadowes then by substances; that men judge of things by their first
+events, and measure the events by their own short lives, or shorter
+obser­vations; C that they are credulous to beleeve what they wish, and
+in­credulous of what makes against them, measuring truth or falshood by
+measures that cannot fit them, as foolishly as if they should judge of a
+colour by the dimensions of a body, or feel musick with the hand; they make
+generall conclusions from particular instances, and take account of Gods
+actions by the measures of a man. Men call that justice that is on their side,
+and all their own causes are right, and they are so alwayes; they are so when
+they affirm them in their youth, and they are so when they deny them in their
+old age; and they are confident in all their changes; and their first D error
+which they now see, does not make them modest in the proposition which they
+now maintain; for they do not understand that what was, may be so again: So
+foolish and ignorant was I (said David) and as it were a beast before thee.
+Ambition is folly, and temerity is ignorance, and confidence never goes
+without it, and im­pudence is worse, and zeal or contention is madnesse, and
+prating is want of wisdome, and lust destroyes it, and makes a man of a weak
+spirit, and a cheap reasoning; and there are in the Catalogue of of sins very
+many, which are directly, kinds and parts, and appendages of ignorance; such
+as are blindnesse of minde, affected ignorance, and E wilfull; neglect of
+hearing the word of God, resolved incredulity, forgetfulnesse of holy things,
+lying and beleeving a lye; this is the fruit of sin, this is the knowledge
+that the Devill promised to our first parents as the rewards of disobedience;
+and although they sinn'd as weakly and fondly,  [...], upon as slight grounds
+[[Page 265]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=136) and
+trifling a temptation and as easie a deception as many of us since, yet the
+causes of our ignorance are increased by the multiplication A of our sins; and
+if it was so bad in the green tree, it is much worse in the dry; and no man is
+so very a fool as the sinner, and none are wise but the servants of God,
+[...]. The wise Chaldees and the wiser Hebrewes which worship God chastly and
+purely, they only have a right to be called wise; all that do not so are fools
+and ignorants, neither knowing what it is to be happy, nor how to purchase it;
+ignorant of the noblest end, and of the competent means towards it: they
+neither know God nor themselves, and no ignorance is greater B then this or
+more pernicious. What man is there in the world that thinks himself covetous
+or proud? and yet millions are, who like Harpaste think that the house is
+dark, but not themselves. Vertue makes our desires temperate and regular, it
+observes our actions, condemns our faults, mortifies our lusts, watches all
+our dangers and temptations: but sin makes our desires infinite, and we would
+have we cannot tell what; we strive that we may forget our faults; we labour
+that we may neither remember nor consider; we justi­fie our errors, and call
+them innocent, and that which is our shame we miscall honour; and our whole
+life hath in it so many weak discourses and trifling propositions, that the
+whole world of sinners C is like the Hospitall of the insensati, madnesse and
+folly possesses the greater part of mankinde. What greater madnesse is there
+then to spend the price of a whole farm in contention for three sheaves of
+corn? and yet tantum pectora caecae noctis habent, this is the wis­dome of
+such as are contentious, and love their own will more then their happinesse,
+their humour more then their peace.
+
+—Furor est post omnia perdere naulum. D
+
+Men lose their reason, and their religion, and themselves at last for want of
+understanding; and all the wit and discourses by which sin creeps in, are but
+[...], frauds of the tongue, and consultations of care: but in the whole
+circle of sins there is not one wise proposition, by which a man may conduct
+his affairs, or himself become instructed to felicity. This is the first
+naturall fruit of sin: It makes a man a fool, and this hurt sin does to the
+understanding, and this is shame enough to that in which men are most apt to
+glory.
+
+Sin naturally makes a man weak; that is, unapt to do noble things: E by which
+I do not understand a naturall disability: for it is equally ready for a man
+to will good as evill, and as much in the power of his hands to be lifted up
+in prayer to God as against his Brother in a quarrell; and between a vertuous
+object and his faculties there is a more apt proportion, then between his
+spirit and a vice; and [[Page
+266]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=137) every act of
+grace does more please the minde, then an act of sin A does delight the sense;
+and every crime does greater violence to the better part of man, then
+mortification does to the lower; and often times a duty consists in a
+negative, as not to be drunk, not to swear, and it is not to be understood
+that a man hath naturally no power not to do; if there be a naturall
+disability, it is to action, not to rest or ceasing; and therefore in this
+case, we cannot reasonably nor justly accuse our Nature, but we have reason to
+blame our manners which have introduced upon us a morall disability; that is,
+not that the faculty is impotent and disabled, but that the whole man is; for
+the will in many cases desires to do good, and the understanding is convinced
+and consents, and the hand can obey, and the passions B can be directed, and
+be instrumentall to Gods service: but because they are not used to it, the
+will finds a difficulty to do them so much violence, and the understanding
+consents to their lower rea­sonings, and the desires of the lower man do will
+stronger; and then the whole man cannot do the duty that is expected. There is
+a law in the members, and he that gave that law is a tyrant, and the subjects
+of that law are slaves, and oftentimes their ear is bored, and they love their
+fetters and desire to continue that bondage for ever; The law is the law of
+sin, the Devill is the tyrant, custome is the sanction or the sirmament of the
+law; and every vicious man C is a slave, and chooses the vilest master, and
+the basest of services, and the most contemptible rewards. Lex enim peccati
+est violentia consuetudinis, quâ trahitur & tenetur animus etiam invitus, eo
+merito quo in eam volens illabitur; said St. Austin; The law of sin is the
+violence of custome, which keep a mans minde against his minde, because he
+entred willingly, and gave up his own interest, which he ought to have secur'd
+for his own felicity, and for his service who gave for it an invaluable price:
+And indeed in questions of ver­tue and vice there is no such thing as Nature;
+or it is so inconside­rable, D that it hath in it nothing beyond an
+inclination which may be reverted; and very often not so much; nothing but a
+perfect indifferency, we may if we will, or we may choose; but custome brings
+in a new nature, and makes a Biass in every faculty. To a vicious man some
+sins become necessary; Temperance makes him sick; severity is death to him; it
+destroys his chearfulnesse and activity; it is as his nature, and the desire
+dwels for ever with him, and his reasonings are framed for it and his fancy,
+and in all he is helped by example, by company, by folly, and inconsideration;
+and all these are a faction and a confederacy against the honour and E service
+of God. And in this, Philosophy is at a stand, nothing can give an account of
+it but experience, and sorrowfull instances; for it is infinitely
+unreasonable, that when you have discoursed wisely against unchastity, and
+told, that we are separated from it by a circumvallation of Lawes of God and
+man, that it dishonours the [[Page
+267]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=137) body, and
+makes the spirit caitive, that it is fought against by A arguments sent from
+all the corners of reason and religion, and the man knows all this, and
+beleeves it, and prayes against his sin, and hates himself for it, and curses
+the actions of it; yet op­pose against all this but a fable or a merry story,
+a proverb or a silly saying, the sight of his mistresse, or any thing but to
+lessen any one of the arguments brought against it, and that man shall as
+certainly and clearly be determined to that sin, as if he had on his side all
+the reason of the world.  [...], Plutarch. Custome does as much as Nature can
+doe; it does sometimes more, and superinduces a disposition con­trary B to our
+naturall temper. Eudemus had so used his stomach to so unnaturall drinks,
+that, as himself tels the story, he took in one day two and twenty potions in
+which Hellebore was infused, and rose at noon, and supp'd at night, and felt
+no change. So are those that are corrupted with evill customes, nothing will
+purge them; if you discourse wittily, they hear you not; or if they do, they
+have twenty wayes to answer, and twice twenty to neglect it: if you perswade
+them to promise to leave their sin, they do but shew their folly at the next
+temptation, and tell that they did not mean it: and if you take them at an
+advantage when their hearts are softned with a judgement or a fear, with a
+shame or an C indignation, and then put the bars and locks of vowes upon them,
+it is all one; one vow shall hinder but one action, and the appe­tite shall be
+doubled by the restraint, and the next opportunity shall make an amends for
+the first omission: or else the sin shall enter by parts; the vow shall only
+put the understanding to make a di­stinction, or to change the circumstance,
+and under that colour the crime shall be admitted, because the man is resolved
+to suppose the matter so dressed was not vowed against. But then when that is
+done, the understanding shall open that eye that did but wink D before, and
+see that it was the same thing, and secretly rejoyce that it was so cousened:
+for now the lock is open'd, and the vow was broken against his will, and the
+man is at liberty again, because he did the thing at unawares,  [...], still
+he is willing to be­leeve the sin was not formall vow-breach, but now he sees
+he broke it materially, and because the band is broken, the yoke is in pieces,
+therefore the next action shall go on upon the same stock of a single iniquity
+without being afrighted in his conscience at the noise of perjury. I wish we
+were all so innocent as not to un­derstand the discourse; but it uses to be
+otherwise. E
+
+Nam si discedas, laqueo tenet ambitiosi
+
+Consuetudo mali:—& in aegro corde senescit.
+
+Custome hath waxen old in his deceived heart, and made snares [[Page
+268]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=138) for him that
+he cannot disintangle himself; so true is that saying of God by the Prophet,
+Can an Aethiop change his skin? then may A ye learn to do well when ye are
+accustomed to do evill. But I in­stance in two things which to my sense seem
+great aggravations of the slavery and weaknesse of a customary sinner.
+
+The first is, that men sin against their interest. They know they shall be
+ruin'd by it; it will undoe their estates, lose their friends, ruine their
+fortunes, destroy their body, impoverish the spirit, load the conscience,
+discompose his rest, confound his reason, amaze him in all his faculties,
+destroy his hopes, and mischief enough besides; and when he considers this, he
+declares against it; but, Cum bona verba erumpant, affectus tamen ad
+consuetudinem relabuntur, the B man gives good words, but the evill custome
+prevails; and it hap­pens as in the case of the Tyrinthians, who to free their
+nation from a great plague, were bidden only to abstain from laughter, while
+they offered their sacrifice: but they had been so us'd to a ridiculous
+effeminacy, and vain course of conversation, that they could not, though the
+honour and splendor of the Nation did de­pend upon it. God of his mercy keep
+all Christian people from a custome in sinning; for if they be once fallen
+thither, nothing can recover them but a miraculous grace. C
+
+2\. The second aggravation of it is, that custome prevails against experience.
+Though the man hath already smarted, though he hath been disgraced, and
+undone, though he lost his relation and his friends, he is turn'd out of
+service, and disimployed, he begs with a load of his old sins upon his
+shoulders, yet this will not cure an evill custome: Do not we daily see how
+miserable some men make themselves with drunkennesse, and folly? Have not we
+seen them that have been sick with intemperance, deadly sick, enduring for one
+drunken meeting, more pain then are in all the fasting dayes of the whole
+year? and yet do they not the very next day go to it again? Indeed some few
+are smitten into the beginning of re­pentance, D and they stay a fortnight, or
+a moneth, and it may be resist two or three invitations; but yet the custome
+is not gone,
+
+Nec tu cum obstiteris semel, instanti (que) negaris
+
+Parêre imperio, Rupi jam vincula, dicas.
+
+Think not the chain is off when thou hast once or twice re­sisted; or if the
+chain be broke, part remains on thee, like a cord upon a dogs neck, E
+
+Nam & luctata canis nodum arripit; attamen illi
+
+Cum fugit, à collo trahitur pars magna catenae.
+
+He is not free that drawes his chain after him; and he that breaks [[Page
+269]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=138) off from his
+sins with greatest passion, stands in need of prospe­rous circumstances, and a
+strange freedome from temptation, and A accidentall hardnesse, and
+superinduced confidence, and a preter­naturall severity; Opus est aliquâ
+fortunae indulgentiâ adhuc inter humana luctanti, dum noaumillum exolvit &
+omne vinculum mor­tale, Scneca de vitâ beatâ. for the knot can hardly be
+untied which a course of evill man­ners hath bound upon the soul; and every
+contingency in the world can intangle him that wears upon his neck the links
+of a broken chain. Nam qui ab eo quod amat, quàm extemplò suavi is sagit­tatis
+percussus est, illico res foras labitur, liquitur; if he sees his temptation
+again he is  [...], his kindnesse to it, and conversation with his lust undoes
+him, and breaks his purposes, B and then he dies again, or fals upon that
+stone that with so much pains he removed a little out of his way; and he would
+lose the spent wealth, or the health and the reputation over again, if it were
+in his power. Philomusus was a wilde young fellow in Domitian's time, and he
+was hard put to it to make a large pension to main­tain his lust and luxury,
+and he was every moneth put to beg­gerly arts to feed his crime. But when his
+father died and left him all, he disinherited himself; he spent it all though
+he knew he was to suffer that trouble alwayes, which vexed his lustfull soul
+in the frequent periods of his violent want. C
+
+Now this is such a state of slavery, that persons that are sensible ought to
+complain,  [...], that they serve worse lords them Egyptian task-masters,
+there is a lord within that rules and rages, Intus & in jecore aegro pascuntur
+domini; sin dwels there, and makes a man a miserable servant: and this is not
+only a Metaphoricall expression, under which some spirituall and metaphysicall
+truth is represented, but it is a physicall, mate­riall truth, and a man
+endures hardship, he cannot move but at this command, and not his outward
+actions only, but his will and his D understanding too are kept in fetters and
+foolish bondage:  [...], said Marcus Antoninus; The two parts of a man are
+rent in sunder, and that that prevails is the life, it is the man, it is the
+eloquence perswading every thing to its own interest. * And now consider what
+is the effect of this evill. A man by sin is made a slave, he loses that
+liberty that is dearer to him then life it self; and like the dog in the
+fable, we suffer chains and ropes only for a piece of bread; when the Lion
+thought liberty a sufficient reward and price for hunger, and all the
+hardnesses of the wildernesse. Do not all E the world fight for liberty, and
+at no terms will lay down armes till at least they be cousened with the image
+and colour of it?  [...]; and yet for the pleasure of a few minutes we give
+our selves into bondage; and all the world does it, more or lesse.
+
+[[Page 270]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=139)
+
+[...], A
+
+[...],
+
+[...]
+
+[...]
+
+Euripid.
+
+Either men are slaves to fortune, or to lust; to covetousnesse, or ty­ranny;
+something or other compels him to usages against his will and reason; and when
+the lawes cannot rule him, money can; divitiae enim apud sapientem virum in
+servitute sunt, apud stultum in im­perio; for money is the wise mans servant,
+and the fools Master: but the bondage of a vicious person, is such a bondage
+as the B childe hath in the wombe, or rather as a sick man in his bed; we are
+bound fast by our disease, and a consequent weaknesse, we cannot go forth
+though the doors be open, and the fetters knockt off, and vertue and reason
+like St. Peters Angel call us and b [...]at us upon the sides, and offer to go
+before us, yet we cannot come forth from prison; for we have by our evill
+customes given hostages to the Devill, never to stirre from the enemies
+quarter; and this is the greatest bondage that is imaginable, the bondage of
+conquered, wounded, unresisting people:  [...], Vertue only is the truest
+liberty: And if the Son of God make us free, then are we C free indeed.
+
+3\. Sin does naturally introduce a great basenesse upon the spi­rit, expressed
+in Scripture in some cases by the Devils entring into a man, as it was in the
+case of Judas, after he had taken the sop, Satan entred into him; and St.
+Cyprian speaking of them that af­ter Ioh. 13. 27. Baptisme lapsed into foul
+crimes, he affirms that spiritu im­mundo Cypr. Ep. 76. quasi redeunte
+quatiuntur, ut manifestum sit Diabolum in bap­tismo side credentis excludi, si
+sides postmedum defecerit regredi; Faith, and the grace of Baptisme turns the
+Devill out of possession: D but when faith fails, and we loose the bands of
+Religion, then the Devill returns; that is, the man is devolved into such sins
+of which there can be no reason given, which no excuse can lessen, which are
+set off with no pleasure, advanced by no temptations, which deceive by no
+allurements and flattering pretences: such things which have a proper and
+direct contrariety to the good Spi­rit, and such as are not restrained by
+humane laws; because they are states of evill rather then evill actions,
+principles of mischief rather then direct emanations; such as are, u.
+thankfulnesse, impiety, giving a secret blow, fawning bypocrisie, detraction,
+impudence, forget­fulnesse of the dead, and forgetting to do that in their
+absence which we E promised to them in presence, [...]; Concerning which sorts
+of unworthi­nesse Eurip. it is certain they argue a most degenerous spirit,
+and they are the effect, the naturall effect of malice and despair, an
+unwholesome [[Page
+271]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=139) ill natur'd
+soul, a soul corrupted in its whole constitution. I re­member A that in the
+Apologues of Phaedrus, it is told concerning an ill natured fellow, that he
+refused to pay his Symbol, which him­self and all the company had agreed
+should be given for every dis­ease, that each man had; he denying his itch to
+be a disease; but the company taking off the refusers hat for a pledge, found
+that he had a scal'd head, and so demanded the money double; which he
+pertinaciously resisting, they threw him down, and then discovered he was
+broken bellied, and justly condemned him to pay three Philippicks:
+
+—Quae fuerat fabula, poenafuit. B
+
+One disease discovers it self by the hiding of another, and that being open'd
+discovers a third; He that is almost taken in a fault, tels a lye to escape;
+and to protect that lye, he forswears himself; and that he may not be
+suspected of perjury, he growes impudent; and that sin may not shame him, he
+will glory in it, like the slave in the Comedy, who being torn with whips,
+grinn'd, and forc'd an ugly smile that it might not seem to smart. * There are
+some sins which a man that is newly fallen, cannot entertain. There is no
+crime made ready for a young sinner, but that which nature C prompts him to.
+Naturall inclination is the first tempter, then com­pliance, then custome, but
+this being helped by a consequent folly, dismantles the soul, making it to
+hate God, to despise Religion, to laugh at severity, to deride sober counsels,
+to flie from repentance, to resolve against it, to delight in sin without
+abatement of spirit or purposes: For it is an intolerable thing for a man to
+be tormen­ted in his conscience for every sin he acts; that must not be; he
+must have his sin and his peace too, or else he can have neither long: and
+because true peace cannot come, [for there is no peace, D saith my God, to the
+wicked] therefore they must make a phanta­stick peace by a studied cousening
+of themselves, by false proposi­tions, by carelesnesse, by stupidity, by
+impudence, by sufferance, and habit; by conversation, and daily acquaintances;
+by doing some things as Absalom did when he lay with his fathers concubines,
+to make it impossible for him to repent, or to be forgiven, something to
+secure him in the possession of hell; Tute hoc intristi quod tibi exe­dendum
+est, the man must thorough it now; and this is it that makes men fall into all
+basenesse of spirituall sins, [ [...], when a man is come to the bottome of
+his wickednsse, he E despises all] such as malice and despite, rancor and
+impudence, mali­cious studied ignorance, voluntary contempt of all Religion,
+hating of good men and good counsels, and taking every wise man and wise
+action to be his enemy; [...]. And this is that basenesse of sin which Plato
+so much detested, that he [[Page
+272]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=140) said he should
+blush to be guilty of, though he knew God would A pardon him, and that men
+should never know it, propter solam pec­cati turpitudinem, for the very
+basenesse that is in it. A man that is false to God, will also, if an evill
+temptation overtakes him, betray his friend; and it is notorious in the
+covetous and ambitious,
+
+[...],—
+
+— [...]
+
+[...],
+
+[...]
+
+[...] B
+
+They are an unthankfull generation, and to please the people, or to serve
+their interest will hurt their friends. That man hath so lost him­self to all
+sweetnesse and excellency of spirit, that is gone thus farre in sin, that he
+looks like a condemned man, or is like the accursed spirits preserved in
+chains of darknesse and impieties unto the Judge­ment of the great Day,
+[...], this man can be nothing but evill; for these inclinations and evill
+forwardnesses, this dyscrasie and gangren'd disposition does alwaies suppose a
+long or a base sin for their parent; and the product of C these is a
+wretchlesse spirit; that is, an aptnesse to any unworthi­nesse, and an
+unwillingnesse to resist any temptation; a perseverance in basenesse, and a
+consignation to all damnation,  [...], If men do evill things, evill things
+shall be their reward. If they obey the evill spirit, an evill spirit shall be
+their portion; and the Devill shall enter into them as he entred into Judas,
+and fill them full of iniquity.
+
+[[Page 273]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=140)
+
+A
+
+## 21\. SERMON, XXI. Part III. B
+
+4\. ALthough these are shamefull effects of sin, and a man need no greater
+dishonour then to be a fool and a slave, and a base person, all which sin
+infallibly makes him; yet there are some sins which are directly shamefull in
+their na­ture, and proper disreputation, and a very great many sins are the
+worst and basest in severall respects; that is, every of them hath a venomous
+quality of its own, whereby it is marked and ap­propriated to a peculiar evill
+spirit. The Devils sin was the worst, because it came from the greatest
+malice: Adams was the worst, C because it was of most universall efficacy and
+dissemination: Judas sin the worst of men, because against the most excellent
+person; and the relapses of the godly are the worst, by reason they were the
+most obliged persons. But the ignorance of the Law is the greatest of evils,
+if we consider its danger, but covetousnesse is worse then it, if we regard
+its incurable and growing nature: luxury is most alien from spirituall things,
+and is the worst of all in its tem­ptation and our pronenesse; but pride
+growes most venomous by its unreasonablenesse and importunity, arising even
+from the good things a man hath; even from graces, and endearments, and from D
+being more in debt to God. Sins of malice and against the Holy Ghost oppugn
+the greatest grace with the greatest spite; but Ido­latry is perfectly hated
+by God by a direct enmity. Some sins are therefore most hainous, because to
+resist them is most easie, and to act them there is the least temptation: such
+as are severally, lying, and swearing. There is a strange poison in the nature
+of sins, that of so many sorts, every one of them should be the worst. Every
+sin hath an evill spirit, a Devill of its own to manage, to conduct, and to
+imbitter it: and although all these are Gods ene­mies, and have an appendant
+shame in their retinue, yet to some E sins shame is more appropriate, and a
+proper ingredient in their constitutions: such as are lying, and lust, and
+vow-breach, and inconstancy. God sometimes cures the pride of a mans spirit by
+suffering his evill manners, and filthy inclination to be determin'd upon
+lust; lust makes a man afraid of publick eyes, and common [[Page
+274]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=141) voices; it is
+(as all sins else are, but this especially) a work of dark­nesse, it does
+debauch the spirit, and make it to decay and fall off A from courage and
+resolution, constancy and severity, the spirit of government and a noble
+freedome; and those punishments which the nations of the world have inflicted
+upon it, are not smart so much as shame: Lustfull souls are cheap and easie,
+trifling and de­spised in all wise accounts; they are so farre from being fit
+to sit with Princes, that they dare not chastise a sinning servant that is
+private to their secret follies; It is strange to consider what labo­rious
+arts of concealment, what excuses and lessenings, what pre­tences and fig-
+leaves men will put before their nakednesse and B crimes; shame was the first
+thing that entred upon the sin of Adam, and when the second world began, there
+was a strange scene of shame acted by Noah and his sons, and it ended in
+slavery and base­nesse to all descending generations.
+
+We see the event of this by too sad an experience. What ar­guments, what
+hardnesse, what preaching, what necessity can per­swade men to confesse their
+sins? they are so ashamed of them, that to be conceal'd they preferre before
+their remedy; and yet in penitentiall confession the shame is going off, it is
+like Cato's coming out of the Theatre, or the Philosopher from the Taverne; it
+might have been shame to have entred, but glory to have de­parted C for ever;
+and yet ever to have relation to sin is so shame-full a thing, that a mans
+spirit is amazed, and his face is confoun­ded when he is dressed of so
+shamefull a disease. And there are but few men that will endure it, but rather
+choose to involve it in excuses and deniall, in the clouds of lying, and the
+white linnen of hypocrisie: and yet when they make a vail for their shame,
+such is the fate of sin, the shame growes the bigger and the thicker; we lye
+to men, and we excuse it to God; either some parts of ly­ing, or many parts of
+impudence, darknesse, or forgetfulnesse, run­ning away, or running further in,
+these are the covers of our shame, D like menstruous rags upon a skin of
+leprosie: But so sometimes we see a decayed beauty besmear'd with a lying
+fucus, and the chinks fill'd with ceruse; besides that it makes no reall
+beauty, it spoils the face, and betrayes evill manners; it does not hide old
+age, or the change of years, but it discovers pride or lust; it was not shame
+to be old, or wearied and worn out with age, but it is a shame to dissemble
+nature by a wanton vizor. So sin retires from blushing into shame; if it be
+discover'd, it is not to be endured, and if we go to hide it, we make it
+worse. But then if we remember E how ambitious we are for fame and reputation,
+for honour and a fair opinion, for a good name all our dayes, and when our
+dayes are done, and that no ingenuous man can enjoy any thing he hath, if he
+lives in disgrace, and that nothing so breaks a mans spirit as dishonour, and
+the meanest person alive does not think himself fit [[Page
+275]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=141) to be
+despised; we are to consider into what an evill condition sin puts us, for
+which we are not only disgraced and disparaged here, A marked with
+disgracefull punishments, despised by good men, our follies derided, our
+company avoided, and hooted at by boyes, talk'd of in fairs and markets,
+pointed at, and described by appel­latives of scorn, and everybody can chide
+us, and we dye unpitied, and lye in our graves eaten up by wormes, and a foul
+dishonour; but after all this, at the day of Judgement we shall be called from
+our charnell houses, where our disgrace could not sleep, and shall in the face
+of God, in the presence of Angels and Devils, be­fore all good men and all the
+evill, see, and feel the shame of all our sins written upon our foreheads:
+Here in this state of misery B and folly we make nothing of it; and though we
+dread to be discovered to men, yet to God we confesse our sins without a
+trouble or a blush; but tell an even story, because we finde some formes of
+confession prescrib'd in our prayer books; and that it may appear how
+indifferent and unconcerned we seem to be, we read and say all, and confesse
+the sins we never did, with as much sorrow and regret as those that we have
+acted a thousand times. But in that strange day of recompences, we shall finde
+the Devill to upbraid the criminall, Christ to disown them, the Angels to
+drive them from the seat of mercy, and shame to be their smart, C the
+consigning them to damnation; they shall then finde, that they cannot dwell
+where vertue is rewarded, and where honour and glory hath a throne; there is
+no vail but what is rent, no excuse to any but to them, that are declared as
+innocent; no circum­stances concerning the wicked to be considered, but them
+that ag­gravate; then the disgrace is not confin'd to the talk of a village,
+or a province, but is scattered to all the world, not only in one age shall
+the shame abide, but the men of all generations shall see, and wonder at the
+vastnesse of that evill that is spread upon the souls D of sinners for ever
+and ever;  [...]. No night shall then hide it, for in those regions of
+darknesse where the dishonoured man shall dwell for ever, there is nothing
+vi­sible but the shame; there is light enough for that, but darknesse for all
+things else: and then he shall reap the full harvest of his shame; all that
+for which wise men scorned him, and all that for which God hated him; all that
+in which he was a fool, and all that in which he was malicious; that which was
+publick, and that which was private; that which fools applauded, and that
+which himself durst not own; the secrets of his lust, and the criminall
+contri­vances E of his thoughts; the base and odious circumstances, and the
+frequency of the action, and the partner of his sin; all that which troubles
+his conscience, and all that he willingly forgets, shall be proclaim'd by the
+trumpet of God, by the voice of an Arch­angell in the great congregation of
+spirits and just men.
+
+[[Page 276]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=142) There
+is one great circumstance more of the shame of sin, which extremely enlarges
+the evill of a sinfull state, but that is not con­sequent A to sin by a
+naturall emanation, but is superinduc'd by the just wrath of God: and
+therefore is to be consider'd in the third part, which is next to be handled.
+
+3\. When the Boeotians asked the Oracle, by what they should become happy? the
+answer was made,  [...], wicked and irreligious persons are prosperous: and
+they taking the Devill at his word, threw the inspired Pythian, the ministring
+witeh, into the sea, hoping so to become mighty in peace and warre. The effect
+of which was this, The Devill was found a lyar, and they fools at first, and
+at last felt the reward of irreligion. For there B are to some crimes such
+events, which are not to be expected from the connexion of naturall causes,
+but from secret influences and undiscernible conveyances; * that a man should
+be made sick for receiving the holy Sacrament unworthily, and blinde for
+resisting the words of an Apostle, a preacher of the Lawes of Jesus, and dye
+suddenly for breaking of his vow, and committing sacriledge, and be under the
+power and scourge of an exterminating Angell for climbing his Fathers bed,
+these are things beyond the worlds Philosophy. But as in Nature, so in
+Divinity too there are Sym­pathies and Antipathies, effects which we feel by
+experience, and C are forewarned of by revelation, which no naturall reason
+can judge, nor any providence can prevent but by living innocently, and
+complying with the Commandements of God. The rod of God, which cometh not into
+the lot of the righteous, strikes the sin­ning man with sore strokes of veng
+eance.
+
+1\. The first that I shall note is that which I called the aggrava­tion of the
+shame of sin; and that is, an impossibility of being con­cealed in most cases
+of heinous crimes;  [...], let no man suppose that he shall for ever hide his
+sin: a single action may be conveyed away under the covert of an ex­cuse D or
+a privacy, escaping as Ulysses did the search of Polyphemus, and it shall in
+time be known that it did escape, and shall be dis­cover'd that it was
+private; that is, that it is so no longer. But no wicked man that dwelt and
+delighted in sin, did ever go off from his scene of unworthinesse without a
+filthy character, The black veile is thrown over him before his death, and by
+some contin­gency or other he enters into his cloud, because few sins
+determine finally in the thoughts; but if they dwell there, they will also
+en­ter into action, and then the thing discovers it self; or else the E
+injured person will proclaim it, or the jealous man will talk of it be­fore
+it's done, or curious people will inquire and discover, or the spirit of
+detraction shall be let loose upon him, and in spite shall declare more then
+he knowes, not more then is true, The Anci­ents, especially the Scholars of
+Epicurus, beleev'd that no man could [[Page
+277]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=142) be secured or
+quiet in his spirit from being discovered. Scelus ali­qua A tutum, nulla
+securum tulit; They are not secure even when they are safe; but are afflicted
+with perpetuall jealousies; and every whisper is concerning them, and all new
+noises, are ar­rests to their spirits; and the day is too light, and the night
+is too horrid, and both are the most opportune for their discovery; and
+besides the undiscernible connexion of the contingencies of providence, many
+secret crimes have been published by dreams, and talkings in their sleep. It
+is the observation of Lucretius,
+
+Multi de magnis per somnum rebus loquuntur, B
+
+Indictó (que) sui facti persaepe fuêre.
+
+And what their understanding kept a guard upon, their fancy let loose; fear
+was the bars and locks, but sleep became the key to open, even then when all
+the senses were shut, and God rul'd alone without the choice and discourse of
+man. And though no man regards the wilder talkings of a distracted man, yet it
+hath sometimes hapned that a delirium and a feaver, fear of death, and the
+intolerable apprehensions of damnation have open'd the cabi­net of sin, and
+brought to light all that was acted in the cur­tains of night, C
+
+Quippe ubi se multis per somnia saepe loquentes,
+
+Aut morbo delirantes protrâxe feruntur,
+
+Et celata diu in medium peccata dedisse.
+
+But there are so many wayes of discovery, and amongst so many, some one does
+so certainly happen that they are well summ'd up by Sophocles, by saying, that
+time hears all and tels all,
+
+[...] D
+
+[...].
+
+A cloud may be its roof and cover till it passes over, but when it is driven
+by a fierce winde, or runs fondly after the Sun, it layes open a deformity,
+which like an ulcer had a skin over it, and a pain within, and drew to it a
+heap of sorrowes big enough to run over all its inclosures. Many persons have
+betrayed them­selves by their own fears, and knowing themselves never to be
+secure enough, have gone to purge themselves of what no body E suspected them;
+offer'd an Apology, when they had no accuser but one within; which like a
+thorn in the flesh, or like a word in a fools heart, was uneasie till it came
+out; Non amo se nimium purgitantes, when men are over-busie in justifying
+themselves, it is a sign themselves think they need it. Plutarch tels of a
+young gentle­man [[Page
+278]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=143) that destroyed
+a swallow's nest, pretending to them that re­proved him for doing the thing,
+which in their superstition the Greeks A esteemed so ominous, that the little
+bird accused him for killing his Father. And to this purpose it was that
+Solomon gave coun­sell: Eccles. 10. 20. Curse not the King, no not in thy
+thought, nor the rich in thy bedchamber, for a bird of the air shall carry the
+voice, and that that hath wings shall tell the matter; Murder and treason have
+by such strange wayes been revealed, as if God had appointed an An­gell
+president of the revelation, and had kept this in secret and sure ministry to
+be as an argument to destroy Atheisme from the face of the earth, by opening
+the secrets of men with this key of providence. Intercepting of letters,
+mistaking names, false in­scriptions, B errors of messengers, faction of the
+parties, fear in the actors, horror in the action, the majesly of the person,
+the restlesnesse of the minde, distracted looks, wearinesse of the spirit, and
+all under the conduct of the Divine wisdome, and the Divine vengeance, make
+the covers of the most secret sin transparent as a net, and visible as the
+Chian wines in the purest Crystall.
+
+For besides that God takes care of Kings and of the lives of men,
+
+[...]
+
+Homer.
+
+C
+
+[...],
+
+driving away evill from their persons, and watching as a Mother to keep gnats
+and flies from her dear boy sleeping in the cradle, there are in the
+machinations of a mighty mischief, so many mo­tions to be concentred, so many
+wheels to move regularly, and the hand that turns them does so tremble, and
+there is so univer­sall a confusion in the conduct, that unlesse it passes
+suddenly into act, it will be prevented by discovery, and if it be acted it D
+enters into such a mighty horror, that the face of a man will tell what his
+heart did think, and his hands have done. And after all, it was seen and
+observed by him that stood behinde the cloud, who shall also bring every work
+of darknesse into light in the day of strange discoveries and fearfull
+recompences: and in the mean time certain it is, that no man can long put on a
+person and act a part, but his evill manners will peep through the corners of
+the white robe, and God will bring an hypocrite to shame even in the eyes of
+men.
+
+2\. A second superinduced consequent of sin brought upon it E by the wrath of
+God, is sin; when God punishes sin with sin he is extreamly angry; for then
+the punishment is not medicinal, but finall and exterminating; God in that
+case takes no care concer­ning him, though he dies and dies eternally. I do
+not here speak of those sins which are naturally consequent to each other,
+[[Page 279]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=143) as
+evill words to evill thoughts, evill actions to evill words, rage A to
+drunkennesse, lust to gluttony, pride to ambition; but such which God suffers
+the mans evill nature to be tempted to by evill oppor­tunities:  [...], This
+is the wrath of God, and the man is without remedy. It was a sad calamity,
+when God punished Davids adultery by permitting him to fall to murder, and
+So­lomons wanton and inordinate love, with the crime of idolatry, and Ananias
+his sacriledge with lying against the holy Ghost, and Ju­das his covetousnesse
+with betraying his Lord, and that betraying with despair, and that despair
+with self-murder.
+
+— [...] B
+
+[...],
+
+One evill invites another, and when God is angry and withdrawes his grace, and
+the holy Spirit is grieved and departs from his dwelling, the man is left at
+the mercy of the mercilesse ene­my, and he shall receive him only with variety
+of mischiefs; like Hercules when he had broken the horn of Achelous, he was
+almost drown'd with the floud that sprung from it; and the evill man when he
+hath pass'd the first scene of his sorrowes, shall be intic'd or left to fall
+into another. For it is a certain truth, that C he who resists, or that
+neglects to use Gods grace, shall fall into that evill condition, that when he
+wants it most, he shall have least. It is so with every man; he that hath the
+greatest want of the grace of God shall want it more; if this great want
+proceeded once from his own sin. Habenti dabitur, said our blessed Lord, to
+him that hath shall be given, and he shall have more abundantly; from him that
+hath not shall be taken, even that which he hath. It is a remarkable saying of
+David; I have thought upon thy name O Lord Ps. 119. 55, 56. in the night
+season, and have kept thy Law; this I had because I D kept thy Commandements:
+keeping Gods Commandements, was re­warded with keeping Gods Commandements; And
+in this world God hath not a greater reward to give; for so the soul is
+nou­rished unto life, so it growes up with the increase of God, so it passes
+on to a perfect man in Christ, so it is consigned for heaven, and so it enters
+into glory; for glory is the perfection of grace, and when our love to God is
+come to its state and perfection, then we are within the circles of a Diadem,
+and then we are within the regions of felicity. And there is the same reason
+in the contrary instance. E
+
+The wicked person fals into sin, and this he had because he sinn'd against his
+maker. Tradidit Deus eos in desideria cordis eorum: and it concerns all to
+observe it; and if ever we finde that a sin succeeds a sin in the same
+instance, it is because we refuse to repent; but if a sin succeeds a sin in
+another instance, as if lust followes [[Page
+280]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=144) pride, or
+murder drunkennesse; it is a sign that God will not give us the grace of
+repentance: he is angry at us with a destructive A fury, he hath dipt his
+arrowes in the venome of the serpent, and whets his sword in the forges of
+hell; then it is time that a man withdraw his foot, and that he start back
+from the preparations of an intolerable ruine: For though men in this case
+grow insensible, and that's part of the disease,  [...], saith Chrysostome, it
+is the biggest part of the evill that the man feels it not, yet the very
+antiperistasis or the contrariety, the very horror and bignesse of the danger
+may possibly make a man to contend to leap out of the fire; and sometimes God
+works a mi­racle, B and besides his own rule delights to reform a dissolute
+per­son, to force a man from the grave, to draw him against the bent of his
+evill habits; yet it is so seldome that we are left to consider, that such
+persons are in a desperate condition, who cannot be saved unlesse God is
+pleased to work a miracle.
+
+3\. Sinne brings in its retinue, fearfull plagues and evill an­gels,
+messengers of the displeasure of God, concerning which,  [...], there are
+enough of dead; I mean the experience is so great, and the notion so common,
+and the examples so fre­quent, and the instances so sad, that there is scarce
+any thing new in this particular to be noted; but something is remarkable, and
+that C is this, that God even when he forgives the sin, does reserve such
+[...], such remains of punishment, and those not on­ly to the lesse perfect,
+but to the best persons, that it makes de­monstration, that every sinner is in
+a worse condition then he dreams of. For consider; can it be imagined that any
+one of us should escape better then David did? we have reason to tremble when
+we remember what he suffered, even when God had seal'd his pardon. Did not God
+punish Zedekiah with suffering his eyes to be put out in the house of bondage?
+was not God so angry with Valentinian, that he gave him into his enemies hand
+to be flay'd alive? Have D not many persons been struck suddenly in the very
+act of sin, and some been seised upon by the Devill and carryed away alive?
+These are fearfull contingencies: but God hath been more angry yet; re­bellion
+was punished in Corah and his company, by the gaping of the earth, and the men
+were buryed alive; and Dathan and Abiram were consumed with fire for usurping
+the Priests office: But God hath struck severely since that time; and for the
+prostitution of a Lady by the Spanish King, the Moors were brought in upon his
+King­dome, and rul'd there for 700. years. And have none of us known E an
+excellent and good man to have descended, or rather to have been thrust into a
+sin, for which he hath repented, which he hath confessed, which he hath
+rescinded, and which he hath made amends for as he could, and yet God was so
+severely angry that this man was suffered to fall in so big a calamity, that
+[[Page 281]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=144) he dyed
+by the hands of violence, in a manner so seemingly im­possible A to his
+condition, that it looked like the biggest sorrow that hath happened to the
+sons of men? But then let us con­sider how many and how great crimes we have
+done; and trem­ble to think that God hath exacted so fearfull pains, and
+migh­ty punishments for one such sin which we, it may be, have com­mitted
+frequently. Our sin deserves as bad as theirs; and God is impartial, and we
+have no priviledge, no promise of exempti­on, no reason to hope it; what then
+do we think shall become of this affair? where must we suffer this vengeance?
+For that it is due, that it is just we suffer it, these sad examples are a
+perfect de­monstration. B We have done that for which God thought flay­ing
+alive not to be too big a punishment: that for which God hath smitten Kings
+with formidable plagues; that for which go­vernments have been changed, and
+nations enslaved, and Churches destroyed, and the Candlestick removed, and
+famines and pesti­lences have been sent upon a whole Kingdome; and what shall
+be­come of us? why do we vainly hope it shall not be so with us? If it was
+just for these men to suffer what they did, then we are at least to expect so
+much; and then let us consider into what a fearfull condition sin hath put us,
+upon whom a sentence is read, that we shall be plagued like Zedekiah, or
+Corah, or Dathan, or C the King of Spain, or any other King who, were, for
+ought we know, infinitely more innocent and more excellent persons then any of
+us. What will become of us? For God is as just to us as to them; and Christ
+dyed for them as well as for us; and they have repented more then we have
+done; and what mercy can we expect that they might not hope for, upon at least
+as good ground as we? Gods wayes are secret, and his mercies and justice dwell
+in a great abysse; but we are to measure our ex­pectations by revelation and
+experience. But then what would become of us, if God should be as angry at our
+sin as at Zedekiahs, D or King Davids? where have we in our body room enough
+for so many stripes, as our sin ought justly to be punished withall? or what
+security or probability have we that he will not so pu­nish us?
+
+For I did not represent this sad story, as a matter of possibi­lity only, that
+we may fear such fearfull strokes as we see God lay upon sinners; but we ought
+to look upon it as a thing that will come some way or other, and for ought we
+know we can­not escape it. So much, and more is due for the sin, and though
+Christ hath redeemed our souls, and if we repent we shall not E die eternally,
+yet he hath no where promised we shall not be smitten. It was an odde saying
+of the Devill to a sinner whom he would fain have had to despair; Me è Coelo
+ad Barathrum demisit peccatum, & vos ullum in terra locum tutum existimabitis?
+Sin [[Page 282]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=145)
+thrust me from heaven to hell, and do you think on earth to have A security?
+Men use to presume that they shall go unpunished; but we see what little
+reason we have so to flatter and undoe our selves,  [...], He that hath sinn'd
+must look for a Judgement, and how great that is, we are to take our mea­sures
+by those sad instances of vengeance by which God hath cha­stised the best of
+men, when they have committed but a single sin;  [...], sin is damnable and
+destructive: and therefore as the asse refused the barley which the fatted
+swine left, perceiving by it he was fatted for the slaughter;
+
+Tuum libenter prorsus appeterem cibam,
+
+Phaedrus.
+
+B
+
+Nisi qui nutritus illo est, jugulatus foret;
+
+we may learn to avoid these vain pleasures which cut the throat after they are
+swallowed, and leave us in that condition that we may every day fear, lest
+that evill happen unto us, which we see fall upon the great examples of Gods
+anger; and our fears can­not, ought not at all to be taken off, but by an
+effective, busie, pungent, hasty, and a permanent repentance; and then also
+but in some proportions, for we cannot be secured from temporall C plagues, if
+we have sinn'd; no repentance can secure us from all that; nay Gods pardon, or
+remitting his finall anger, and for­giving the pains of hell, does not secure
+us here:  [...]; but sin lies at the door ready to enter in, and rifle all our
+fortunes.
+
+1\. But this hath two appendages which are very considerable; and the first
+is, that there are some mischiefs which are the pro­per and appointed scourges
+of certain sins, and a man need not aske; Cujus vulturis hoc erit cadaver?
+what vultur, what death, what affliction shall destroy this sinner? The sin
+hath a punish­ment D of its own which usually attends it, as giddinesse does a
+drunkard. He that commits sacriledge, is marked for a vertigi­nousnesse and
+changeable fortune; Make them, O my God, like unto Psal. 83. a wheel, of an
+unconstant state: and we and our fathers have seen it, in the change of so
+many families, which have been undone by being made rich: they took the lands
+from the Church, and the curse went along with it, and the misery and the
+affliction lasted longer then the sin. Telling lies frequently hath for its
+punish­ment to be given over to believe a lye, and at last, that no body shall
+beleeve it but himself; and then the mischief is full, he E becomes a
+dishonoured and a baffled person. The consequent of lust is properly shame;
+and witchcraft is still punished with basenesse, and beggery; and oppression
+of widowes hath a sting, for the tears of the oppressed are to the oppressour,
+like the waters of jealousie, making the belly to swell, and the thigh to rot;
+the oppressor sel­dome [[Page
+283]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=145) dies in a
+tolerable condition: but is remark'd towards his end with some horrible
+affliction. The sting of oppression is darted A as a man goes to his grave. In
+these and the like, God keeps a rule of striking, In quo quis peccat, in eo
+punitur. The Divine Judgement did point at the sin, lest that be concealed by
+ex­cuses, and protected by affection, and increased by passion, and de­stroy
+the man by its abode. For some sins are so agreeable to the spirit of a fool
+and an abused person, because he hath fram'd his af­fections to them, and they
+comply with his unworthy interest, that when God out of an angry kindnesse,
+smites the man, and punishes the sin, the man does fearfully defend his
+beloved sin, as the serpent B does his head which he would most tenderly
+preserve. But there­fore God that knowes all our tricks and devices, our
+stratagems to be undone, hath therefore apportioned out his punishments, by
+ana­logies, by proportions, and entaile: so that when every sin enters into
+its proper portion, we may discern why God is angry, and la­bour to appease
+him speedily.
+
+2\. The second appendage to this consideration is this, that there are some
+states of sin which expose a man to all mischief, as it can happen by taking
+off from him all his guards, and defences; by driving the good Spirit from
+him, by stripping him of the guards of Angels. But this is the effect of an
+habituall sin, a course of an C evill life, and it is called in Scripture, a
+grieving the good Spirit of God. But the guard of Angels is in Scripture only
+promised to them that live godly; The Angels of the Lord pitch their Psal. 33.
+tents round about them that fear him, and delivereth them, said David.
+
+[...]
+
+[...]. D
+
+And the Hellenists use to call the Angels  [...] watchmen; which custody is at
+first designed and appointed for all, when by bap­tisme they give up their
+names to Christ, and enter into the cove­nant of Religion. And of this the
+Heathen have been taught some­thing by conversation with the Hebrewes and
+Christians; unicui (que) nostrum dare paedagogum Deum, said Seneca to
+Lucilius, non pri­marium, sed ex eorum numero, quos Ovidius vocat ex plebe
+deos. There is a guardian God assigned to every one of us, of the num­ber of
+those which are of the second order; such are those of whom David speaks,
+before the Gods will I sing praise unto thee; and it E was the doctrine of the
+Stoicks, that to every one there was assigned a Genius and a Juno: Quamobrem
+major coelitum populus etiam quam hominum intelligi potest, quum singuli ex
+semetipsis totidem Deos faciant, Junones gentos (que) adoptando sibi, said
+Pliny. Every one does adopt Gods into his family and get a Gunius and a Juno
+of [[Page 284]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=146)
+their own, Junonem meam iratam habeam; it was the oath of Quar­tilla in
+Petronius; and Socrates in Plato is said to swear by his Juno; A though
+afterwards among the Romans it became the womans oath, and a note of
+effeminacy; But the thing they aim'd at was this, that God took a care of us
+below, and sent a ministring spirit for our defence; but that this is only
+upon the accounts of piety, they knew not. But we are taught it by the Spirit
+of God in Scripture. For, the Angels are ministring spirits, sent forth to
+minister to the good of them who shal be heirs of salvation; and concerning
+St. Peter, the faith­full had an opinion, that it might be his Angell;
+agreeing to the Doctrine of our blessed Lord, who spake of Angels appropriate
+to his little ones, to infants, to those that belong to him. Now B what God
+said to the sons of Israel is also true to us Christians; Behold I send an
+Angell before thee, beware of him and obey his voice, provoke him not, for he
+will not pardon your trangressions. So Excd. 23. 10. that if we provoke the
+Spirit of the Lord to anger by a course of evill living, either the Angell
+will depart from us, or if he staies, he will strike us. The best of these is
+bad enough, and he is highly miserable,
+
+—Qui non sit tanto hoc custode securus,
+
+whom an Angell cannot defend from mischief, nor any thing se­cure C him from
+the wrath of God. It was the description and cha­racter which the Erythrean
+Sibyl gave of God,
+
+[...],
+
+[...],
+
+[...].
+
+It is Gods appellative to be a giver of excellent rewards to just and innocent
+persons: but to assign to evill men fury, wrath, and D sorrow for their
+portion. If I should lanch further into this Dead sea, I should finde nothing
+but horrid shriekings, and the skuls of dead men utterly undone. Fearfull it
+is to consider, that sin does not only drive us into calamity, but it makes us
+also impatient, and imbitters our spirit in the sufferance: * It cryes loud
+for vengeance, and so torments men before the time, even with such fearfull
+out­cries, and horrid alarms, that their hell begins before the fire is
+kindled. * It hinders our prayers, and consequently makes us hope­lesse and
+helplesse. * It perpetually affrights the conscience, unlesse by its frequent
+stripes it brings a callousnesse and an insensible dam­nation E upon it. * It
+makes us to lose all that which Christ purcha­sed for us, all the blessings of
+his providence, the comforts of his spirit, the aids of his grace, the light
+of his countenance, the hopes of his glory; it makes us enemies to God, and to
+be hated by him more then he hates a dog; and with a dog shall be his portion
+[[Page 285]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=146) to
+eternall ages; with this only difference, that they shall both be A equally
+excluded from heaven; but the dog shall not, and the sinner shall descend into
+hell; and which is the confirmation of all evill; for a transient sin God
+shall inflict an eternall Death. Well might it be said in the words of God by
+the Prophet, ponam Ba­bylonem in possessionem Erinacei, Babylon shall be the
+possession of an Hedgehog: that's a sinners dwelling; incompassed round with
+thornes and sharp prickles, afflictions and uneasinesse all over. So that he
+that wishes his sin big and prosperous, wishes his Bee as big as a Bull, and
+his Hedgehog like an Elephant; the pleasure of the honey would not cure the
+mighty sting; and nothing make B recompense, or be a good, equall to the evill
+of an eternall ruine. But of this there is no end. I summe up all with the
+saying of Publius Mimus, Tolerabilior est qui mori jubet quàm qui malè vivere,
+He is more to be endured that puts a man to death, then he that betrayes him
+into sin. For the end of this is death eternall.
+
+[[Page 286]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=147)
+
+## 22\. Sermon, XXII. THE GOOD and EVILL TONGUE.
+
+Ephes. 4. 29. C‘Let no corrupt communication proceed out of your mouth, but
+that which is good to the use of edifying, that it may minister grace unto the
+hearers.’
+
+HE that had an ill memory did wisely comfort himselfe by reckoning the
+advantages he had by his forgetfulnesse. For by this means he was hugely
+secured against malice, and ambition; for his anger went off with the short
+notice and ob­servation D of the injury; and he saw himself unfit for the
+businesses of other men, or to make re­cords in his head, & undertake to
+conduct the intrigues of affairs of a multitude, who was apt to forget the
+little accounts of his own seldom reading. He also remembred this, that his
+pleasures in reading books were more frequent, while he remembred but little
+of yesterdays study, and tomorrow the book is newes, and with its novelties
+gives him fresh entertainment, while the retaining brain layes the book aside,
+and is full already. Every book is new to E an ill memory, and one long book
+is a Library, and its parts return fresh as the morning, which becomes a new
+day, though by the revolution of the same sun. Besides these, it brought him
+to tell truth for fear of shame, and in meer necessity made his speech little
+and his discourses short; because the web drawn from his brain was [[Page
+287]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=147) soon spun out,
+and his fountain grew quickly dry, and left running A through forgetfulnesse.
+* He that is not eloquent and faire spoken, hath some of these comforts to
+plead in excuse of his ill fortune, or defective nature. For if he can but
+hold his peace, he shall be sure not to be troublesome to his company, not
+mark'd for lying, or become tedious with multiplicity of idle talk. He shall
+be presumed wise, and oftentimes is so; he shall not feel the wounds of
+contention, nor be put to excuse an ill taken saying, nor sigh for the folly
+of an irre­coverable word; If his fault be that he hath not spoken, that can
+at any time be mended, but if he sinn'd in speaking, it cannot be unspoken
+again. Thus he escapes the dishonor of not being believed, and B the trouble
+of being suspected; he shall never fear the Sentence of Judges, nor the
+Decrees of Courts, high reproaches, or the angry words of the proud, the
+contradiction of the disputing man, or the thirst of talkers. By these and
+many other advantages, he that holds his peace, and he that cannot speak, may
+please themselves; and he may at least have the rewards and effects of
+solitarinesse, if he misses some of the pleasures of society. But by the use
+of the tongue, God hath distinguished us from beasts, and by the well or ill
+using it we are distinguished from one another; and therefore though silence
+be innocent as death, harmlesse as a roses breath to a distant passenger, C
+yet it is rather the state of death then life; and therefore when the
+Egyptians sacrificed to Harpocrates their god of Silence, in the midst of
+their rites they cryed out  [...], The Tongue is an Angel, good or bad, that's
+as it happens; Silence was to them a god, but the Tongue is greater; it is the
+band of humane entercourse, and makes men apt to unite in Societies and
+Republicks; and I remember what one of the Ancients said, that we are better
+in the company of a known dog, then of a man whose speech is not known, ut
+externus alieno non sit hominis vice; a stranger to a stranger in his
+lan­guage, is not as a man to a man; for by voices and homilies, by D
+questions and answers, by narratives and invectives, by counsell and reproofe,
+by praises and hymnes, by prayers and glorifications, we serve Gods glory, and
+the necessities of men; and by the tongue our Tables are made to differ from
+Mangers, our Cities from Deserts, our Churches from Herds of beasts and flocks
+of sheep. Faith comes by hearing, and hearing by the Word of God, spoken by
+the tongues of men and Angels; and the blessed Spirits in heaven cease not
+from saying night and day their  [...], their song of glory to him that
+sitteth on the throne, and to the Lambe for ever and ever; and then our
+imployment shall be glorious as our state, when our tongues shal E to eternall
+ages sing Allelujahs to their Maker and Redeemer; and therefore since Nature
+hath taught us to speak, and God requires it, and our thankfulnesse obliges
+us, and our necessities engage us, and charity sometimes calls for it, and
+innocence is to be defended, and we are to speak in the cause of the
+oppressed, and open our mouths in [[Page
+288]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=148) the cause of
+God: and it is alwayes a seasonable prayer, that God would open our lips, that
+our mouth may doe the work of heaven, A and declare his praises, and shew
+forth his glory; it concerns us to take care that nature be changed into
+grace, necessity into choice, that while we speak the greatnesse of God, and
+minister to the needs of our neighbor, and doe the works of life and religion,
+of society and prudence, we may be fitted to bear a part in the songs of
+Angels, when they shall rejoyce at the feast of the marriage supper of the
+Lambe. But the tongue is a fountain both of bitter waters and of pleasant; it
+sends forth blessing, and cursing; it praises God, and railes at men; it is
+sometimes set on fire, and then it puts whole Ci­ties in combustion; it is
+unruly, and no more to be restrained then B the breath of a tempest; it is
+volatile and fugitive: reason should go before it, and when it does not,
+repentance comes after; it was intended for an organ of the divine praises,
+but the Devill often playes upon it, and then it sounds like the Scriech-owle,
+or the groans of death; sorrow and shame, folly and repentance are the notes,
+and formidable accents of that discord. We are all naturally  [...], lovers of
+speech, more or lesse; and God reproves it not, provided that we be also
+[...], wise and materiall, usefull and prudent in our discourses. For since
+speech is for conversation, let it be also charitable and profitable; let it
+be without sin, but not with­out C profit and grace to the hearers, and then
+it is as God would have it; and this is the precept of the text, first telling
+us what we should avoyd, and then telling us what we should pursue; what our
+discourse ought not to be, and 2ly. what it ought to be; there being no more
+variety in the structure of the words, I shall 1. discourse of the vices of
+the tongue; 2. of its duty and proper employment.
+
+1\. Let no corrupt communication proceed out of your mouth; [...], corrupt or
+filthy communication; so we read it; and it seems properly to note such
+communication as ministers to wantonnesse; such as are the Fescennines of
+Ausonius, the excre­ment D and spume of Martial's verse, and the Ephesiaca of
+Xenophon; indeed this is such a rudenesse as is not to be admitted into civill
+con­versation; and is wittily noted by the Apostle, charging that forni­cation
+should not be once named among them as becometh Saints; not meaning that the
+vice should not have its name and filthy cha­racter, but that nothing of it be
+named, in which it can be tempting or offensive; nothing tending to it, or
+teaching of it, should be named: we must not have  [...], fornication in our
+talk; that's such a basenesse, that it not onely grieves the Divine Spirit,
+but E dishonors all its channels and conveyances: the proper language of the
+sin is not fit to be used so much as in reproofe; and therefore I have
+sometimes wondred how it came to passe, that some of the An­cients, men wise
+and modest, chaste and of sober spirits, have faln into a fond liberty of
+declamation against uncleannesse, using such [[Page
+289]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=148) words which
+bring that sin upon the stage of fancy, and offend auri­culas non calentes,
+sober and chaste eares. For who can without A blushing read Seneca describing
+the Looking-glasse of Hostius, or the severe but looser words of Persius, or
+the reproofes of St. Hie­rom himselfe, that great Patron of virginity, and
+exacter of chastity? yet more then once he reproves filthy things with
+unhandsome language: St. Chrysostome makes an Apology for them that doe so;
+[...], Homil. 4\. in ep. Rom. you cannot profit the hearers unlesse you
+discover the filthinesse, for the withdrawing the curtain is shame and
+confutation enough for so great a basenesse; B and Chirurgeons care not how
+they defile their hands, so they may doe profit to the patient. And indeed
+there is a materiall difference in the designe of him that speaks; if he
+speaks  [...], accor­ding to his secret affection and private folly, it is
+certainly intolerable; but yet if he speaks  [...], out of a desire to profit
+the hearer, and cure the criminall, though it be in the whole kinde of it
+honest and well meant; yet that it is imprudent,
+
+Irritamentum Veneris languentis & acris
+
+Divitis urticae— C
+
+and not wholly to be excused by the faire meaning, will soon be granted by all
+who know what danger and infection it leaves upon the fancy, even by those
+words by which the spirit is instructed. Ab hâc scabie tenemus ungues, it is
+not good to come near the leprosie, though to cleanse the Lepers skin.
+
+But the word which the Apostle uses [ [...]] means more then this.  [...],
+said Eupolis, and so it signifies musty, rotten, and outworn with age;  [...],
+iusty peace, so Aristophanes: and according to this acception of the D word,
+we are forbidden to use all language that is in any sense cor­rupted,
+unreasonable, or uselesse; language proceeding from our old iniquity, evill
+habits, or unworthy customes, called in the style of Scripture the remains of
+the old man, and by the Greeks, doting or talking fondly; [...]; the boy
+talkes like an old dotard. 2.  [...] signifies wicked, filthy, or
+reproachfull,  [...], any thing that is in its own nature criminall and
+disgracefull, any language that ministers to mischief. But it is worse then
+all this:  [...], it is a deletery, an extinction of all good, for  [...] is
+[...], it is a destructi­on, E an intire corruption of all Morality; and to
+this sense is that of Menander quoted by St. Paul, [...], Evill words corrupt
+good manners. And therefore under this word is comprised all the evill of the
+tongue, that wicked instrument of the unclean Spirit, in the capacity of all
+the appellatives. 1. Here [[Page
+290]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=149) is forbidden
+the uselesse, vain, and trifling conversation, the  [...], A the god of Flies,
+so is the Devils name, he rules by these little things, by trifles and vanity,
+by idle and uselesse words, by the entercourses of a vain conversation. 2. The
+Devill is  [...], an Accuser of the Brethren, and the calumniating,
+slandering, undervaluing, detracting tongue does his work, that's  [...], the
+second that I named, for  [...] is  [...], so Hesychius; it is slander,
+hatred, and calumny. 3. But the third is  [...], the Devils worst appellative,
+the Destroyer, the dissolute, wanton, tempting, destroying conversa­tion; and
+its worst instance of all is flattery, that malicious cousening devill, that
+strengthens our friend in sin, and ruines him from whom we have received, and
+from whom we expect good. Of these in B order, and first of the trifling,
+vain, uselesse, and impertinent con­versation,  [...], let no vain
+communication proceed out of your mouth.
+
+1\. The first part of this inordination is multiloquium, talking too much:
+concerning which, because there is no rule or just measure for the quantity,
+and it is as lawfull, and sometimes as prudent to tell a long story as a
+short, and two as well as one, and sometimes ten as well as two; all such
+discourses are to take their estimate by the matter, and the end, and can
+onely be altered by their circumstances C and appendages. Much speaking is
+sometimes necessary, sometimes usefull, sometimes pleasant; and when it is
+none of all this, though it be tedious and imprudent, yet it is not alwayes
+criminall. Such was the humour of the Gentleman Martial speaks of, he was a
+good man, and full of sweetnesse and justice and noblenesse, but he would read
+his nonsense verses to all companies at the publick games and in private
+feasts, in the baths, and on the beds, in publick and in private, to sleeping
+and waking people.
+
+Vis quantum mali facias videre?
+
+Lib. 3\. ep. 44
+
+D
+
+Virjustus, probus, innocens timeris.
+
+Every one was afraid of him, and though he was good, yet he was not to be
+endured: The evill of this is very considerable in the ac­counts of prudence,
+and the effects and plaisance of conversation: and the Ancients described its
+evill well by a proverbiall expression; for when a sudden silence arose, they
+said that Mercury was entred, meaning, that he being their loquax numen, their
+prating god, yet that quitted him not, but all men stood upon their guard, and
+called for aid and rescue, when they were seised upon so tedious an
+im­pertinence. E And indeed there are some persons so full of nothings, that
+like the strait sea of Pontus they perpetually empty themselves by their
+mouth, making every company or single person they fasten on, to be their
+Propontis; such a one as was Anaximenes, [...], He was an Ocean of words, but
+a drop of understanding. [[Page
+291]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=149) And if there
+were no more in this then the matter of prudence, and A the proper measures of
+civill conversation, it would yet highly con­cern old men, and young men and
+women to separate from their per­sons the reproach of their sex and age, that
+modesty of speech be the Supellex ejus garrulitas. Co­moed. Muliebre ingenium
+p [...]clu­vium. Accius in Andromedâ. Sola laboranti potuit succwrere Lunae.
+ornament of the youthfull, and a reserved discourse be the testimony of the
+old mans prudence. Adolescens from  [...], said one: a young man is a talker
+for want of wit, and an old man for want of memory; for while he remembers the
+things of his youth, and not how often he hath told them in his old age, he
+grows in love with the trifles of his youthfull dayes, and thinks the company
+must doe so too; but he canonizes his folly, and by striving to bring
+reputation to his first dayes, he loses the honor of his last. But this thing
+is conside­rable B to further issues; for though no man can say, that much
+speaking is a sin, yet the Scripture sayes, In multiloquio peccatum non
+deerit, Sin goes along with it, and is an ingredient in the whole composition.
+For it is impossible but a long and frequent discourse must be served with
+many passions, and they are not alwayes inno­cent; for he that loves to talke
+much, must rem corradere, scrape materials together to furnish out the scenes
+and long orations; and some talke themselves into anger, and some furnish out
+their dialogues with the lives of others; either they detract, or censure; C
+or they flatter themselves, and tell their owne stories with friendly
+circumstances, and pride creeps up the sides of the discourse; and the man
+entertains his friend with his owne Panegyrick; or the discourse lookes one
+way and rowes another, and more mindes the designe then its own truth; and
+most commonly will be so ordered that it shall please the company, (and that,
+truth or honest plainnesse seldome does) or there is a byasse in it, which the
+more of weight and transportation it hath, the lesse it hath of ingenuity. Non
+credo Auguribus qui aureis rebus divinant, like Sooth-sayers, men speak fine
+words to serve ends, and then they are not beleeved, or at last are D found
+lyars, and such discourses are built up to serve the ministeries or pleasures
+of the company, but nothing else. Pride and flattery, ma­lice and spite, self-
+love and vanity, these usually wait upon much speaking; and the reward of it
+is, that the persons grow contemptible and troublesome, they engage in
+quarrels, and are troubled to answer exceptions, some will mistake them, and
+some will not beleeve them, and it will be impossible that the minde should be
+perpetually present to a perpetuall talker, but they will forget truth and
+themselves, and their own relations. And upon this account it is, that the
+Doctors of the Primitive Church doe literally expound those minatory words of
+E our blessed Saviour; Verily I say unto you, of every idle word that Matt.
+12. 36. men shall speak, they shall give account at the day of Judgement. And
+by idle words, they understand, such as are not usefull to edifi­cation and
+instruction. So St. Basil, So great is the danger of an idle In Reg. brevior.
+word, that though a word be in its owne kinde good, yet unlesse it be [[Page
+292]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=150) directed to
+the edification of faith, he is not free from danger that speaks it: To this
+purpose are the words of St. Gregory; while A Lib. 7\. Moral. the tongue is
+not restrained from idle words, ad temeritatem stultae increpationis
+efferatur, it is made wilde, or may be brought forth to rashnesse and folly:
+And therein lies the secret of the reproofe: A peri­culo liber non est, & ad
+temeritatem efferatur, the man is not free from danger, and he may grow rash,
+and foolish, and run into crimes, whilest he gives his Tongue the reins, and
+lets it wander, and so it may be fit to be reproved, though in its nature it
+were innocent. I deny not but sometimes they are more severe. St. Gregory
+calls every c. 17\. ubi sup. word vain or idle, quod aut ratione justae
+necessitatis, aut intentione piae utilitatis caret: and St. Hierom calls it
+vain, quod sine utilitatis B in cap. 12 Matt. & loquentis dicitur & audientis,
+which profits neither the speaker nor the hearer. The same is affirmed by St.
+Chrysostom in Ps. 118., and Gre­gory Nyssen cap. 1. upon Ecclesiastes, and the
+same seems intimated in the word  [...], as it is in some copies, every word
+that is idle or empty of businesse. But for the stating the case of
+Conscience, I have these things to say.
+
+1\. That the words of our blessed Saviour being spoken to the 1. Jews, were so
+certainly intended as they best and most commonly un­derstood, and by [vain]
+they understood false or lying, not uselesse or imprudent; and yet so though
+our blessed Saviour hath not so C severely forbidden every empty,
+unsignificant discourse, yet he hath forbidden every lie, though it be in
+genere bonorum, as St. Basil's ex­pression is; that is, though it be in the
+intention charitable, or in the matter innocent.
+
+2\. Of every idle word we shal give account, but yet so, that sometimes 2. the
+[...], the judgment shall fall upon the words, not upon the persons; they be
+hay and stubble, uselesse and impertinent, light and easie, the fire shall
+consume them, and himselfe shall escape with that losse; he shall then have no
+honor, no fair return for such discour­ses, D but they shall with losse and
+prejudice be rejected and cast away.
+
+3\. If all unprofitable discourses be reckoned for idle words and 3. put upon
+the account, yet even the capacities of profit are so large and numerous, that
+no man hath cause to complain that his tongue is too much restrained by this
+severity. For in all the wayes in which he can doe himselfe good, or his
+neighbour, he hath his liberty; he is onely to secure the words from being
+directly criminal, and himselfe from being arrested with a passion, and then
+he may reckon it lawfull even upon the severest account to discourse freely,
+while he can in­struct, or while he can please his neighbour; E
+
+Aut prodesse solent, aut delectare—
+
+while himselfe gets a fair opinion and a good name, apt to serve ho­nest and
+fair purposes; he may discourse himselfe into a friendship, [[Page
+293]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=150) or help to
+preserve it; he may serve the works of art or nature, of A businesse publick
+or private, the needs of his house, or the uses of mankinde, he may increase
+learning, or confirm his notices, cast in his symbol of experience and
+observation, till the particulars may become a proverbiall sentence and a
+rule; he may serve the ends of civility and popular addresses, or may instruct
+his brother or himselfe, by something which at that time shall not be reduc'd
+to a precept by way of meditation, but is of it selfe apt at another time to
+doe it; he may speak the praises of the Lord by discour­sing of any of the
+works of creation, and himselfe or his brother may afterwards remember it to
+that purpose; he may counsell B or teach, reprove or admonish, call to minde a
+precept, or disgrace a vice, reprove it by a parable or a story, by way of
+Idea or witty representment; and he that can finde talke beyond all this,
+discourse that cannot become usefull in any one of these purpo­ses, may well
+be called a prating man, and expect to give ac­count of his folly in the dayes
+of recompense.
+
+4\. Although in this latitude a mans discourses may be free and 4. safe from
+judgement, yet the man is not, unlesse himself designe it to good and wise
+purposes, not alwayes actually, but by an habituall and generall purpose.
+Concerning which he may by these mea­sures best take his accounts. C
+
+1\. That he be sure to speak nothing that may minister to a vice, willingly
+and by observation.
+
+2\. If any thing be of a suspicious and dubious nature, that he decline to
+publish it.
+
+3\. That by a prudent morall care he watch over his words, that he doe none of
+this injury and unworthinesse.
+
+4\. That he offer up to God in his prayers all his words, and then look to it,
+that he speak nothing unworthy to be offered.
+
+5\. That he often interweave discourses of Religion, and glorifi­cations D of
+God, instructions to his brother, and ejaculations of his owne, something or
+other not onely to sanctifie the order of his discourses, but to call him back
+into retirement and sober thoughts, lest he wander and be carried off too far
+into the wilde regions of impertinence; and this Zeno calls  [...], to dip our
+tongues in understanding. In all other cases the rule is good,  [...], either
+keep silence, or speak Eurip. something that is better then it;  [...], so
+Isocrates constantly enough to this Evangelicall precept; a seaso­nable
+silence, or a profitable discourse, choose you whether; for E whatsoever
+cometh of more is sin, or else is folly at hand, and will be sin at distance.
+Lastly,
+
+5\. This account is not to be taken by little traverses and in­tercourses 5.
+of speech, but by greater measures, and more discer­nible portions, such as
+are commensurate to valuable portions of [[Page
+294]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=151) time; for
+however we are pleased to throw away our time, and A are weary of many parts
+of it, yet are impatiently troubled when all is gone, yet we are as sure to
+account for every considerable portion of our time, as for every summe of
+money we receive; and in this it was, that St. Bernard gave caution, Nemo
+parvi aestimet tempus quod in verbis consumitur otiosis, Let no man think
+Serm. de triplici custodiā. it a light matter that he spend his pretious time
+in idle words; let no man be so weary of what flies away too fast, and cannot
+be recalled, as to use arts and devices to passe the time away in vanity,
+which might be rarely spent in the interests of eternity. Time is given us to
+repent in, to appease the divine anger, to pre­pare B for and hasten to the
+society of Angels, to stir up our slack­ned wills, and enkindle our cold
+devotions, to weep for our daily iniquities, and to sigh after, and work for
+the restitution of our lost inheritance; and the reward is very inconsiderable
+that exchanges all this for the pleasure of a voluble tongue: and indeed this
+is an evill that cannot be avoyded by any excuse that can be made for words
+that are in any sense idle, though in all senses of their owne nature and
+proper relations they be innocent. They are a throwing away something of that
+which is to be expended for eternity, and put on degrees of folly, according
+as they are tedious C and expensive of time to no good purposes. * I shall not
+after all this need to reckon more of the evill consequent to the vain and
+great talker; but if these already reckoned were not a heap big enough, I
+could easily adde this great evill; that the talking man makes himselfe
+artificially deafe, being like a man in the steeple when the bells ring, you
+talke to a deafe man, though you speake wisely;
+
+[...]
+
+Eurip.
+
+[...]. D
+
+Good counsell is lost upon him, and he hath serv'd all his ends when he pours
+out whatsoever he took in; for he therefore loaded his vessell that he might
+pour it forth into the sea.
+
+These and many more evils, and the perpetuall unavoydable necessity of sinning
+by much talking, hath given great advanta­ges to silence, and made it to be
+esteemed an act of Discipline and great Religion. St. Romualdus upon the
+Syrian mountaine severely kept a seaven years silence: and Thomas
+Cantipratensis tels of a religious person in a Monastery in Brabant, that
+spake E not one word in 16 years. But they are greater examples which
+Palladius tels of, Ammona who liv'd with 3000 Brethren in so great silence, as
+if he were an Anachoret; but Theona was silent for 30 years together, and
+Johannes surnamed Silentiarius was silent for 47 years. But this morosity and
+sullennesse is so far [[Page
+295]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=151) from being
+imitable and laudable, that if there were no direct A prevarication of any
+commands expressed or intimated in Scripture, yet it must certainly either
+draw with it, or be it self an infinite omission of duty, especially in the
+externall glorifications of God, in the institution or advantages of others,
+in thanksgiving and publick offices, and in all the effects and emanations of
+spirituall mercy. This was to make amends for committing many sins by
+omit­ting many duties, and in stead of digging out the offending eye, to pluck
+out both, that they might neither see the scandall nor the duty; for fear of
+seeing what they should not, to shut their eyes against all light. It was more
+prudent which was reported of St. Gregory Nazianzen, who made Silence an act
+of Discipline, B and kept it a whole Lent in his religious retirements, cujus
+facti mei si causam quaeris (said he in his account he gives of it) idcircò à
+sermone prorsus abstinui, ut sermonibus meis moderari discam; I then abstained
+wholly, that all the yeer after I might be more temperate in my talke. This
+was in him an act of caution, but how apt it was to minister to his purpose of
+a moderated speech for the future, is not certaine; nor the philosophy of it,
+and na­turall efficacy easie to be apprehended. It was also practised by way
+of penance, with indignation against the follies of the Tongue, and the itch
+of prating, so to chastise that petulant member, as C if there were a great
+pleasure in prating, which when it grew inor­dinate, it was to be restrained
+and punished like other lusts. I remem­ber it was reported of St. Paul the
+Hermit, Scholar of St. An­thony, that having once asked whether Christ or the
+old Prophets were first, he grew so ashamed of his foolish Question, that he
+spake not a word for 3 years following: And Sulpitius, as St. Hie­rom reports
+of him, being deceived by the Pelagians, spoke some fond things, and repenting
+of it, held his tongue till his dying day, ut peccatum quod loquendo
+contraxerat tacendo penitùs emen­daret. D Though the pious minde is in such
+actions highly to be regarded, yet I am no way perswaded of the prudence of
+such a deadnesse and Libitinarian Religion;
+
+Murmuracum secum & rabiosa silentia rodunt,
+
+so such importune silence was called, and understood to be a de­gree of
+stupidity and madnesse; for so Physicians among the signes of that disease in
+dogs, place their not barking; and yet, al­though the excesse and
+unreasonablenesse of this may be well cha­stised E by such a severe reproofe,
+yet it is certaine, in silence there is wisdome, and there may be deep
+religion. So Aretaeus de­scribing the life of a studious man, among others, he
+inserts this, they are  [...], without colour, pale and wise, when they are
+young, and by reason of their [[Page
+296]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=152) knowledge,
+silent as Mutes, and dumb as the Seriphian frogs. And indeed it is certaine,
+great knowledge, if it be without va­nity, A is the most severe bridle of the
+Tongue. For so have I heard that all the noyses and prating of the poole, the
+croaking of frogs and toads is hushed and appeased upon the instant of
+bringing upon them the light of a candle or torch. Every beam of reason and
+ray of knowledge checks the dissolutions of the Tongue. But, ut quis (que)
+contemptissimus & maximè ludibrio est, ita solutissimae linguae est, said
+Seneca, Every man as he is a fool and contemptible, so his tongue is hanged
+loose, being like a bell, in which there is nothing but tongue and noise. B
+
+Silence therefore is the cover of folly, or the effect of wisdome; but it is
+also religious, and the greatest mystick rites of any institution are ever the
+most solemn and the most silent; the words in use are almost made Synonymous;
+There was silence made in heaven for a while, said St. John, who noted it upon
+occasion of a great so­lemnity, and mysterious worshippings or revelations to
+be made there.  [...], one of the gods is within, said Telema­chus, upon
+occasion of which his Father reproved his talking.
+
+[...] C
+
+[...].
+
+Be thou also silent and say little, let thy soule be in thy hand, and under
+command, for this is the rite of the gods above. And I remember that when
+Aristophanes describes the Religion in the Temple of Esculapius, [...], The
+Plunu. Priest commanded great silence when the mysteriousnesse was nigh; and
+so among the Romanes,
+
+Ite igitur pueri, linguis animis (que) faventes, D
+
+Sertaque delubris & farra imponite cultris.
+
+But now although silence is become religious, and is wise and reverend, and
+severe, and safe, and quiet,  [...], as Hippocrates affirms of it, without
+thirst, and trouble, and an­guish; yet it must be  [...], it must be
+seasonable, and just, not commenced upon chance or humour, not sullen and ill-
+natur'd, not proud and full of fancy, not pertinacious and dead, not mad and
+uncharitable, nam sic etiam tacuisse nocet. He that is silent in a publick joy
+hath no portion in the festivity, or no thankful­nesse to him that gave the
+cause of it. And though of all things E in the world, a prating Religion, and
+much talke in holy things does most profane the mysteriousnesse of it, and
+dismantles its regards, and makes cheap its reverence, and takes off fear and
+awfulnesse, and makes it loose and garish like the laughters of [[Page
+297]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=152) drunkennesse,
+yet even in Religion there are seasons to speak; and it A was sometimes pain
+and grief to David to be silent; But yet, al­though tedious and dead silence
+hath not a just measure of praise and wisdome; yet the worst silence of a
+religious person is more tolerable and innocent, then the usuall pratings of
+the looser and foolish men. Pone Domine custodiam ori meo & ostium
+circum­stantiae labiis meis, said David, Put a guard O Lord unto my mouth, and
+a dore unto my lips; upon which St. Gregory said well, Non parietem, sed
+ostium petit, quod viz. aperitur & clauditur; he did not ask for a wall, but
+for a dore; a dore that might open and shut: and it were well it were so
+indeed. Labia tua sicut vitta coccinea, so Christ commends his Spouse in the
+Canticles; Thy B lips are like a scarlet hair-lace, that is tyed up with
+modesty from folly and dissolution. For however that few people offend in
+silence and keeping the dore shut too much, yet in opening it too hastily, and
+speaking too much and too foolishly, no man is without a load of guiltynesse,
+and some mouths like the gates of death
+
+Noctes atque dies patent—
+
+are open night and day, and he who is so cannot be innocent: It is said of
+Cicero, he never spake a word which himself would fain have C recalled, he
+spake nothing that repented him. St. Austin in his 7. Ep. to Marcellinus
+sayes, it was the saying of a fool and a sot, not of a wise man, and yet I
+have read the same thing to have been spoken by the famous Abbat Pambo in the
+Primitive Church; and if it could be well said of this man who was sparing and
+severe in talke, it is certain it could not be said of the other, who was a
+talking bragging person. D
+
+[[Page 298]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=153)
+
+## 23\. SERMON, XXIII. A Part II. B
+
+THe consideration hitherto hath been of the immoderation and generall excesse
+in speaking without descending to par­ticular cases: but because it is a
+principle and parent of much evill, it is with great caution to be cured, and
+the evill consequents will quickly disband. But when we draw neer to give
+counsell, we shall finde that upon a talking person scarce any medicine will
+stick.
+
+1\. Plutarch advises that such men should give themselves to wri­ting, that
+making an issue in the arme, it should drain the flouds of the head; supposing
+that if the humour were any way vented, C the tongue might be brought to
+reason. But the experience of the world hath confuted this; and when Ligurinus
+had writ a Poem, he talked of it to all companies he came in; But however, it
+can be no hurt to try, for some have been cured of bleeding at the nose, by
+opening a vein in the arm.
+
+2\. Some advise, that such persons should keep company with their betters,
+with grave, and wise, and great persons, before whom men doe not usually bring
+forth all, but the better parts of their discourse, and this is apt to give
+assistance by the help of modesty; and might doe well if men were not apt to
+learn to talk D more in the society of the aged, and out of a desire to seem
+wise and knowing, be apt to speak before their opportunity.
+
+3\. Consideration of the dangers and consequent evills hath some efficacy in
+nature to restrain our looser talkings, by the help of fear and prudent
+apprehensions. Aelian tels of the geese flying over the mountain Taurus,
+[...], that for fear of Eagles nature hath taught them to carry stones in
+their mouths, till they be past their danger; care of our selves, desire of
+reputation, appetites of being believed, love of societies E and faire
+complyances, fear of quarrels and misinterpretation, of lawsuits and affronts,
+of scorne and contempt, of infinite sins, and consequently the intolerable
+wrath of God, these are the great endearments of prudent and temperate speech.
+
+4\. Some advise that such persons should change their speech [[Page
+299]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=153) into businesse
+and action: and it were well if they chang'd it into A any good thing, for
+then the evill were cured; but action and businesse is not the cure alone,
+unlesse we adde solitarinesse; for the experience of this last age hath made
+us to feel, that compa­nies of working people have nurs'd up a strange
+Religion; the first, second, and third part of which is talking and folly,
+save onely that mischief, and pride, and fighting came in the retinue. But he
+that works and works alone, he hath imployment, and no opportunity. But this
+is but a cure of the symptome and tempo­rary effect; but the disease may
+remain yet. Therefore,
+
+5\. Some advise that the businesse and imployment of the Tongue be changed
+into Religion, and if there be a pruritus or B itch of talking, let it be in
+matters of Religion, in prayers and pious discourses, in glorifications of
+God, and the wise sayings of Scripture and Holy men; this indeed will secure
+the material part, and make that the discourses in their nature shall be
+inno­cent. But I fear this cure will either be improper, or unsuffici­ent. For
+in prayers, multitude of words is sometime foolish, very often dangerous, and
+of all things in the world we must be carefull we bring not to God the
+sacrifice of fooles; and the tal­king much of the things of Scripture hath
+ministred often to va­nity, and divisions. But therefore whoever will use this
+remedy C must never dwell long upon any one instance, but by variety of holy
+duties entertaine himselfe; for he may easily exceed his rule in any thing,
+but in speaking honorably of God, and in that let him enlarge himselfe as he
+can; he shall never come to equall, much lesse to exceed that which is
+infinite.
+
+6\. But some men will never be cured without a Canker or a Squinsie; and such
+persons are taught by all men what to doe, for if they would avoyd all
+company, as willingly as company avoyds them, they might quickly have a
+silence great as midnight, D and prudent as the Spartan brevity. But Gods
+grace is sufficient to all that will make use of it; and there is no way for
+the cure of this evill, but the direct obeying of a counsel, and submitting to
+the precept, and fearing the divine threatning; alwayes re­membring, that of
+every word a man speaks, he shall give ac­count at the day of Judgement: I
+pray God shew us all a mercy in that day, and forgive us the sins of the
+Tongue. Amen.
+
+Citò lutum colligit amnis exundans, said St. Ambrose, Let your language be
+restrained within its proper channels and measures, for if the river swels
+over the banks, it leaves nothing but dirt E and filthinesse behinde; and
+besides the great evills and mischiefs of a wicked tongue, the vain tongue,
+and the trifling conversa­tion hath some proper evils; 1. Stultiloquium, or
+speaking like a fool: 2. Scurrilitas, or immoderate and absurd jesting: 3. And
+revealing secrets.
+
+[[Page 300]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=154) 1\.
+Concerning Stultiloquy, it is to be observed that the Masters of spirituall
+life meane nor, the talke and uselesse babble of weak A and ignorant persons;
+because in their proportion they may serve their little mistaken ends of
+civility and humanity, as seemingly to them, as the strictest and most
+observed words of the wiser; if it be their best, their folly may be pityed,
+but not reproved, and to them there is no caution to be added, but that it
+were well if they would put the bridle into the hands of another, who may give
+them check when themselves cannot; and no wisdome can be required or usefull
+to them, but to suspect themselves and choose to be conducted by another. For
+so the little birds and laborious bees, who having no art and power of
+contrivance, no B distinction of time, or foresight of new necessities, yet
+being gui­ded by the hand, and counsel'd by the wisdome of the supreme power,
+their Lord, and ours, doe things with greater nicenesse and exactnesse of art,
+and regularity of time, and certainty of effect, then the wise Counsellour,
+who standing at the back of the Prin­ces chaire, guesses imperfectly, and
+counsels timorously, and thinks by interest, and determines extrinsecall
+events by inward and unconcerning principles; because these have
+understanding, but it is lesse then the infinity of accidents and contingences
+without; but the other having none, are wholly guided by him C that knows and
+determines all things: So it is in the imperfect designes and actions and
+discourses of weaker people; if they can be rul'd by an understanding without,
+when they have none within, they shall receive this advantage, that their owne
+passi­ons shall not transport their mindes, and the divisions and weak­nesse
+of their owne sense and notices shall not make them un­certaine, and
+indeterminate; and the measures they shall walke by, shall be disinterest and
+even, and dispassionate, and full of observation. D
+
+But that which is here meant by Stultiloquy, or foolish spea­king, is the
+Lubricum verbi, as St. Ambrose calls it, the slipping with the tongue, which
+prating people often suffer, whose discour­ses betray the vanity of their
+spirit, and discover the hidden man of the heart. For no prudence is a
+sufficient guard, or can al­wayes stand in excubiis still watching, when a man
+is in perpe­tuall flouds of talke; for prudence attends after the manner of an
+Angels ministery; it is dispatched on messages from God, and drives away
+enemies, and places guards, and calls upon the man to awake, and bids him send
+out spies and observers, and E then goes about his own ministeries above: but
+an Angell does not sit by a man, as a nurse by the babies cradle, watching
+every motion and the lighting of a flie upon the childes lip: and so is
+prudence; it gives us rules and proportions cut our measures, and prescribes
+us cautions, and by generall influences orders our [[Page
+301]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=154) particulars;
+but hee that is given to talke cannot be secured A by all this; the emissions
+of his tongue are beyond the generall figures and lines of rule; and he can no
+more be wise in every period of a long and running talke, then a Lutenist can
+delibe­rate and make every motion of his hand by the division of his notes, to
+be chosen and distinctly voluntary. And hence it comes that at every corner of
+the mouth a folly peeps out, or a mischiefe creeps in. A little pride and a
+great deale of vanity will soon escape, while the man mindes the sequel of his
+talke, and not that uglinesse of humour which the severe man that stood by,
+did observe, and was ashamed of. Doe not many men talke them­selves B into
+anger, skrewing up themselves with dialogues and fancy, till they forget the
+company and themselves? and some men hate to be contradicted, or interrupted,
+or to be discovered in their folly; and some men being a little conscious, and
+not striving to amend it by silence, they make it worse by discourse; a long
+story of themselves, a tedious praise of another collaterally to do themselves
+advantage, a declamation against a sin to undoe the person, or oppresse the
+reputation of their neighbour, unseasona­ble repetition of that which neither
+profits nor delights, trifling contentions about a goats beard, or the blood
+of an oyster, an­ger and animosity, spite and rage, scorn and reproach begun
+upon C Questions, which concern neither of the litigants, fierce
+disputati­ons, strivings for what is past, and for what shall never be, these
+are the events of the loose and unwary tongue; which are like flies and gnats
+upon the margent of a poole, they doe not sting like an Aspic, or bite deep as
+a Bear, yet they can vex a man into a feaver and impatience, and make him
+uncapable of rest and counsel.
+
+2\. The second is Scurrility, or foolish jesting. This the Apostle so joyns
+with the former  [...], [foolish speaking and jestings D which are not
+convenient] that some think this to be explicative Ephes. 1. 4, 5. of the
+other, and that St. Paul using the word  [...] (which all men before his time
+used in a good sense) meanes not that which indeed is witty and innocent,
+pleasant and apt for institu­tion, but that which fooles and Parasites call
+[...], but indeed is  [...], what they called facetiousnesse and pleasant wit,
+is indeed to all wise persons a meer Stultiloquy, or talking like a foole; and
+that kinde of jesting is forbidden. And indeed I am induc'd fully to this
+understanding of St. Pauls words by the con­junctive particle [ [...]] which
+he uses,  [...], E and filthinesse, and [foolish talking, or jesting] just as
+in the suc­ceeding verse he joynes  [...], uncleannesse (so we read it) or
+covetousnesse; one explicates the other, for by cove­tousnesse is meant any
+defraudation; [...], fraudator, so St. Cy­prian renders it: and  [...] St.
+Hierom derives from  [...], [[Page
+302]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=155) to take more
+then a man should; and therefore when St. Paul said, Let no man circumvent his
+brother in any matter, he expounds A it of adultery; and in this very place he
+renders  [...], stu­prum, lust; and indeed it is usuall in Scripture, that
+Covetousnesse being so universall, so originall a crime, such a prolifick sin,
+be called by all the names of those sins by which it is either pu­nished, or
+to which it tempts, or whereby it is nourished; and as here it is called
+uncleannesse or corruption; so in another place it is called idolatry. But to
+returne; This jesting which St. Paul reproves, is a direct  [...], or the
+jesting of Mimics and Play­ers, that of the foole in the play, which in those
+times, and long before, and long after, were of that licentiousnesse that they
+would B abuse Socrates or Aristides: and because the rabble were the laughers,
+they knew how to make them roare aloud with a slovenly and wanton word, when
+they understood not the salt and ingenuity of a witty and usefull answer, or
+reply; as is to be seen in the intertextures of Aristophanes Comedies. But in
+pursuance of this of St. Paul, the Fathers of the Church have been very severe
+in their censures of this liberty. St. Ambrose forbids all. Non solùm Lib. de
+Offic. profusos, sed etiam omnes jocos declinandos arbitror; Not onely the
+looser jestings, but even all are to be avoyded: Nay, licèt interdum joca
+honesta & suavia sint, tamen ab Ecclesiâ horrent re­gulâ, C the Church allowes
+them not, though they be otherwise honest and pleasant; for how can we use
+those things we finde not in holy Scriptures? St. Basil gives reason for this
+severity; jocus fa­cit animam remissam & erga praecepta Dei negligentem; and
+in­deed that cannot be denyed; those persons whose soules are di­spersed and
+ungathered by reason of a wanton humour of intem­perate jesting, are apt to be
+trifling in their Religion. St. Hie­rom is of the same opinion, and adds a
+commandement of a full In ep. ad Ephes. authority, if at least the record was
+right; for he quotes a say­ing D of our blessed Saviour out of the Gospel of
+the Nazarens, Nunquam laeti sitis nisi cum fratrem vestrum in charitate
+videritis, Never be merry but when you see your brother in charity: and when
+you are merry, St. James hath appointed a proper expres­sion of it; and a fair
+entertainment to the passion; If any man be merry, let him sing Psalmes. But
+St. Bernard who is also strict in this particular, yet he addes the temper.
+Though jesting be not fit for a Christian, interdum tamen si incidant,
+ferendae for­tassis, referendae nunquam: magis interveniendum cautè &
+pruden­tèr nugacitati: If they seldome happen, they are to be borne, but never
+E to be returned and made a businesse of; but we must rather interpose warily
+and prudently to hinder the growth and progresse of the trifle.
+
+But concerning this case of conscience, we are to remember, these holy persons
+found jesting to be a trade; such were the Vide St. Chry­sostom homil. 6\. in
+Matth. ridicularii among the Romanes, and the  [...] among the Greeks; [[Page
+303]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=155) and this trade
+besides its own unworthinesse, was mingled with A infinite impieties; and in
+the institution, and in all the circum­stances of its practise, was not onely
+against all prudent severity, but against modesty and chastity, and was a
+licence in disparage­ment of vertue; and the most excellent things and persons
+were by it undervalued; that in this throng of evill circumstances fin­ding a
+humour placed, which without infinite warinesse could never pretend to
+innocence, it is no wonder they forbad all; and so also did St. Paul upon the
+same account. And in the same state of reproofe to this day, are all that doe
+as they did: such as are professed jesters, people that play the foole for
+money, B whose employment and study is to unclothe themselves of the co­vers
+of reason, or modesty, that they may be laugh'd at. And let it be considered,
+how miserable every sinner is, if he does not deeply and truely repent; and
+when the man is wet with teares and covered with sorrow, crying out mightily
+against his sins, how ugly will it look when this is remembred the next day
+that he playes the foole, and raises his laughter louder then his pray­ers and
+yesterdayes groans, for no interest but that he may eat? A Penitent and a
+Jester is like a Grecian piece of money, on which were stamped a Helena on one
+side and a Hecuba on the other, a Rose and a deadly Aconite, a Paris and an
+Aesop, C nothing was more contrary; and upon this account this folly was
+reproved by St. Hierom, Verum & haec à sanctis viris peni­tùs Vbi supra.
+propellenda, quibus magis convenit flere atque lugere; Weeping and
+penitentiall sorrow, and the sweet troubles of pity and compas­sion become a
+holy person, much better then a scurrilous tongue. But the whole state of this
+Question is briefly this.
+
+1\. If jesting be unseasonable, it is also intolerable; [...].
+
+2\. If it be immoderate it is criminall, and a little thing here D makes the
+excesse; it is so in the confines of folly, that as soon as it is out of dores
+it is in the regions of sin.
+
+3\. If it be in an ordinary person, it is dangerous; but if in an eminent, a
+consecrated, a wise, and extraordinary person, it is scan­dalous. Inter
+saeculares nugae sunt, in ore Sacerdotis blasphemiae; so St. Bernard.
+
+4\. If the matter be not of an indifferent nature, it becomes sinfull by
+giving countenance to a vice, or making vertue to be­come ridiculous.
+
+5\. If it be not watcht that it complies with all that heare, it E becomes
+offensive and injurious.
+
+6\. If it be not intended to fair and lawfull purposes, it is sowre in the
+using.
+
+7\. If it be frequent, it combines and clusters into a formall sinne.
+
+[[Page 304]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=156) 8\. If
+it mingles with any sin, it puts on the nature of that new unworthinesse,
+beside the proper uglynesse of the thing it A selfe; and after all these, when
+can it be lawfull or apt for Christian entertainment?
+
+The Ecclesiasticall History reports that many jests passed be­tween St.
+Anthony the Father of the Hermits, and his Scholar St. Paul; and St. Hilarion
+is reported to have been very plea­sant, and of a facete, sweet, and more
+lively conversation; and indeed plaisance, and joy, and a lively spirit, and a
+pleasant con­versation, and the innocent caresses of a charitable humanity, is
+not forbidden; plenum tamen suavitatis & gratiae sermonem non esse indecorum,
+St. Ambrose affirmed; and here in my text our con­versation B is commanded to
+be such,  [...], that it may mini­ster grace, that is, favour, complacence,
+cheerfulnesse; and be ac­ceptable and pleasant to the hearer: and so must be
+our conver­sation; it must be as far from sullennesse, as it ought to be from
+lightnesse; and a cheerfull spirit is the best convoy for Religion; and though
+sadnesse does in some cases become a Christian, as be­ing an Index of a pious
+minde, of compassion, and a wise pro­per resentment of things, yet it serves
+but one end, being useful in the onely instance of repentance; and hath done
+its greatest works, not when it weeps and sighs, but when it hates and grows C
+carefull against sin. But cheerfulnesse and a festivall spirit fills the soule
+full of harmony, it composes musick for Churches and hearts, it makes and
+publishes glorifications of God, it produces thankfulnesse and serves the ends
+of charity, and when the oyle of gladnesse runs over, it makes bright and tall
+emissions of light and holy fires, reaching up to a cloud, and making joy
+round about: And therefore since it is so innocent, and may be so pious and
+full of holy advantage, whatsoever can innocently minister to this holy joy
+does set forward the work of Religion and Cha­rity. And indeed charity it
+selfe, which is the verticall top of all D Religion, is nothing else but an
+union of joyes, concentred in the heart, and reflected from all the angles of
+our life and entercourse. It is a rejoycing in God, a gladnesse in our
+neighbours good, a pleasure in doing good, a rejoycing with him; and without
+love we cannot have any joy at all. It is this that makes children to be a
+pleasure, and friendship to be so noble and divine a thing; and upon this
+account it is certaine that all that which can inno­cently make a man
+cheerfull, does also make him charitable; for grief, and age, and sicknesse,
+and wearinesse, these are peevish and E troublesome; but mirth and
+cheerfulnesse is content, and civil, and compliant, and communicative, and
+loves to doe good, and swels up to felicity onely upon the wings of charity.
+In this account here is pleasure enough for a Christian in present, and if a
+facete discourse and an amicable friendly mirth can refresh the spirit, and
+[[Page 305]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=156) take it
+off from the vile temptations of peevish, despairing, un­complying A
+melancholy, it must needs be innocent and commen­dable. And we may as well be
+refreshed by a clean and a brisk discourse, as by the aire of Campanian wines;
+and our faces and our heads may as well be anointed and look pleasant with wit
+and friendly entercourse, as with the fat of the Balsam tree; and such a
+conversation no wise man ever did, or ought to reprove. But when the jest hath
+teeth and nails, biting or scratching our Brother *, when it is loose and
+wanton *, when it is unseaso­nable *, and much, or many *, when it serves ill
+purposes *, or spends better time *, then it is the drunkennesse of the soul,
+and makes B the spirit fly away, seeking for a Temple where the mirth and the
+musick is solemne and religious.
+
+But above all the abuses which ever dishonoured the tongues of men, nothing
+more deserves the whip of an exterminating Angel, or the stings of scorpions,
+then profane jesting: which is a bringing of the Spirit of God to partake of
+the follies of a man; as if it were not enough for a man to be a foole, but
+the wis­dome of God must be brought into those horrible scenes: He that makes
+a jest of the words of Scripture, or of holy things, playes with thunder, and
+kisses the mouth of a Canon, just as it C belches fire and death; he stakes
+heaven at spurnpoint, and trips crosse and pile whether ever he shall see the
+face of God or no; he laughs at damnation, while he had rather lose God then
+lose his jest; nay (which is the horror of all) he makes a jest of God
+himselfe, and the Spirit of the Father and the Son to be­come ridiculous. Some
+men use to read Scripture on their knees, and many with their heads uncovered,
+and all good men with fear and trembling, with reverence and grave attention.
+Search the Scriptures, for therein you hope to have life eternall; and, All
+Scripture is written by inspiration of God, and is fit for instructi­on, D for
+reproofe, for exhortation, for doctrine, not for jesting; but he that makes
+that use of it, had better part with his eyes in jest, and give his heart to
+make a tennisball; and that I may speak the worst thing in the world of it, it
+is as like the mate­riall part of the sin against the holy Ghost, as jeering
+of a man is to abusing him; and no man can use it but he that wants wit and
+manners as well as he wants Religion.
+
+3\. The third instance of the vain trifling conversation, and im­moderate
+talking is, revealing secrets; which is a dismantling and renting off the robe
+from the privacies of humane entercourse; E and it is worse then denying to
+restore that which was intrusted to our charge; for this not onely injures his
+neighbors right, but throws it away, and exposes it to his enemy; it is a
+denying to give a man his own arms, and delivering them to another, by whom he
+shall suffer mischief. He that intrusts a secret to his friend, [[Page
+306]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=157) goes thither
+as to sanctuary, and to violate the rites of that is sacri­ledge, and
+profanation of friendship, which is the sister of Religion, A and the mother
+of secular blessing; a thing so sacred, that it chan­ges a Kingdome into a
+Church, and makes Interest to be Piety, and Justice to become Religion. But
+this mischief growes according to the subject matter and its effect; and the
+tongue of a babbler may crush a mans bones, or break his fortune upon her owne
+wheel; and whatever the effect be, yet of it self it is the betraying of a
+trust, and by reproach, oftentimes passes on to intolerable calamities, like a
+criminal to his scaffold through the execrable gates of Cities; And though it
+is infinitely worse when the secret is laid open out of spite or treachery,
+yet it is more foolish when it is discovered for no other end but to serve the
+itch of talking, or to seem to know, or to be accounted worthy of a trust; for
+so some men open their cabinets to shew onely that a treasure is laid up, and
+that themselves were valued by their friend, when they were thought capable of
+a secret; but they shall be so no more; for he that by that means goes in
+pursuit of reputation, loses the substance by snatching at the shadow, and by
+desiring to be thought worthy of a secret, proves himselfe unworthy of
+friendship or society. D' Avila tels of a French Marquesse, young and fond, to
+whom C the Duke of Guise had conveyed notice of the intended massacre, which
+when he had whispered into the Kings ear, where there was no danger of
+publication, but onely would seem a person worthy of such a trust, he was
+instantly murder'd, lest a vanity like that might unlock so horrid a mysterie.
+
+I have nothing more to adde concerning this, but that if this vanity happens
+in the matters of Religion, it puts on some new circumstan­ces of deformity:
+And if he that ministers to the souls of men, and is appointed to restore him
+that is overtaken in a fault, shall pub­lish the secrets of a conscience, he
+prevaricates the bands of Nature D and Religion, in stead of a Father he turns
+an Accuser, a  [...], he weakens the hearts of the penitent, and drives the
+repenting man from his remedy by making it to be intolerable; and so Religion
+becomes a scandall, and his duty is made his disgrace, and Christs yoke does
+bow his head unto the ground, and the secrets of the Spirit passe into the
+shames of the world, and all the sweetnesses by which the severity of the duty
+are alleviated and made easie, are imbittered and become venemous by the
+tongue of a talking fool. Valerius So­ranus was put to death by the old and
+braver Romanes, ob meritum profanae vocis, quòd contra interdictum Romae nomen
+eloqui fuit E ausus; because by prating he profan'd the secret of their
+Religion, and told abroad that name of the City which the Tuscan rites had
+commanded to be concealed, lest the enemies of the people should call from
+them their tutclar gods, which they could not doe but by telling the proper
+relation. And in Christianity all Nati­ons [[Page
+307]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=157) have consented
+to disgrace that Priest, who loves the pleasure of a fools tongue before the
+charity of souls, and the arts of the A Spirit, and the noblenesse of the
+Religion; and they have inflicted upon him all the censures of the Church,
+which in the capacity of an Ecclesiasticall person he can suffer.
+
+These I reckon as the proper evils of the vain and trifling tongue; for though
+the effect passes into further mischief, yet the originall is weaknesse and
+folly, and all that unworthynesse which is not yet arrived at malice. But
+hither also upon the same account some other irregularities of speech are
+reducible, which although they are of a mixt nature, yet are properly acted by
+a vain and a loose tongue; and therefore here may be considered not
+improperly. B
+
+1\. The first is common Swearing, against which St. Chrysostome 1. spends
+twenty homilies: and by the number and weight of argu­ments hath left this
+testimony, that it is a foolish vice, but hard to be cured; infinitely
+unreasonable, but strangely prevailing; almost as much without remedy as it is
+without pleasure; for it enters first by folly, and grows by custome, and
+dwels with carelesnesse, and is nurs'd by irreligion, and want of the fear of
+God; it profanes the most holy things, and mingles dirt with the beames of the
+Sun, follies and trifling talke interweav'd and knit together with the sacred
+name of God; it placeth the most excellent of things in C the meanest and
+basest circumstances, it brings the secrets of hea­ven into the streets, dead
+mens bones into a Temple; Nothing is a greater sacriledge then to prostitute
+the great name of God to the petulancy of an idle tongue, and blend it as an
+expletive to fill up the emptinesse of a weak discourse. The name of God is so
+sacred, so mighty, that it rends mountains, it opens the bowels of the
+dee­pest rocks, it casts out Devils and makes Hell to tremble, and fills all
+the regions of Heaven with joy; the name of God is our strength and
+confidence, the object of our worshippings, and the D security of all our
+hopes; and when God had given himselfe a Name, and immur'd it with dread and
+reverence; like the garden of Eden with the swords of Cherubims, and none
+durst speak it but he whose lips were hallowed, and that at holy and solemn
+times, in a most holy and solemne place; I mean the High Priest of the Jews at
+the solemnities when he entred into the sanctuary, then he taught all the
+world the majesty and veneration of his Name; and therefore it was, that God
+made restraints upon our con­ceptions and expressions of him: and as he was
+infinitely curious, that from all the appearances he made to them, they should
+not E depict or ingrave an image of him; so he tooke care that even the tongue
+should be restrained, and not be too free in forming images and representments
+of his Name; and therefore as God drew their eyes from vanity, by putting his
+name amongst them, and representing no shape; so even when he had put his name
+amongst [[Page 308]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=158)
+them, he took it off from the tongue and placed it before the eye; for Jehovah
+was so written on the Priests Mitre, that all A might see and read, but none
+speak it but the Priest. But be­sides all this, there is one great thing
+concerning the Name of God, beyond all that can be spoken or imagined else;
+and that is, that when God the Father was pleased to pour forth all his
+glories, and imprint them upon his holy Son in his exaltation, it was by
+giving him his holy Name, the Tetragrammaton or Jehovah made articulate; to
+signifie God manifested in the flesh; and so he wore the character of God, and
+became the bright image of his person. B
+
+Now all these great things concerning the Name of God are infinite reproofes
+of common and vain swearing by it, Gods name is left us here to pray by, to
+hope in, to be the instru­ment and conveyance of our worshippings, to be the
+witnesse of truth and the Judge of secrets, the end of strife and the aven­ger
+of perjury, the discerner of right and the severe exacter of all wrongs; and
+shall all this be unhallowed by impudent tal­king of God without sense, or
+feare, or notices, or reverence, or observation?
+
+One thing more I have to adde against this vice of a foolish C tongue, and
+that is, that as much prating fils the discourse with lying, so this trifling
+swearing changes every trifling lye into a horrid perjury; and this was noted
+by St. James, But above all things swear not at all, [...], that ye may not
+fall Chap. 5. v. 12. into condemnation; so we read it, following the Arabian,
+Syrian, and Latin books, and some Greek Copies; and it signifies, that all
+such swearing and putting fierce appendages to every word, like great iron
+bars to a straw basket, or the curtains of a tent, is a direct condemnation of
+our selves: For while we by much talking regard truth too little, and yet bind
+up our trifles with D so severe a band, we are condemned by our owne words;
+for men are made to expect what you bound upon them by an oath, and account
+your trifle to be serious; of which when you faile, you have given sentence
+against your selfe: And this is agreea­ble to those words of our blessed
+Saviour, Of every idle word Matth. 12. you shall give account; for by thy
+words thou shalt be condemned, and by thy words thou shalt be justified. But
+there is another rea­ding of these words, which hath great emphasis and power,
+in this article, Swear not at all, [...], that you may not fall into
+hypocrisie, that is, into the disreputation of a lying, de­ceiving, E
+cousening person; for he that will put his oath to every common word, makes no
+great matter of an oath; for in swearing commonly, he must needs sometimes
+swear without consideration, and therefore without truth; and he that does so
+in any company, tels the world he makes no great matter of being perjured.
+
+[[Page 309]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=158) All
+these things put together may take off our wonder at A St. James expression,
+of  [...], above all things sweare not,] it is a thing so highly to be
+regarded, and yet is so little conside­red, that it is hard to say, whether
+there be in the world any instance in which men are so carelesse of their
+danger and dam­nation, as in this.
+
+The next appendage of vain and trifling speech is contention, wrangling and
+perpetuall talke proceeding from the spirit of con­tradiction: Profert enim
+mores plerumque oratio, & animi secre­ta detegit: Nec sine causâ Graeci
+prodiderunt, ut vivat quemque etiam dicere, said Quintilian: For the most
+part, a mans words B betray his manners, and unlocks the secrets of the mind:
+And it was not without cause that the Greeks said, As a man lives so he
+speaks; for so indeed Menander, [...], and Aristides, [...]: So that it is a
+signe of a peevish, an angry and quarrelling disposition, to be disputative
+and busie in Questions, and impertinent oppositions.
+
+You shall meet with some men (such were the Sceptics, and such were the
+Academics of old) who will not endure any man shall be of their opinion, and
+will not suffer men to speak truth, or to consent to their own propositions,
+but will put every man to fight for his owne possessions, disturbing the rest
+of truth, and all C the dwellings of unity and consent; clamosum altercatorem,
+Quinti­lian calls such a one. This is  [...], an overflowing of the heart and
+of the gall; and it makes men troublesome, and intri­cates all wise
+discourses, and throws a cloud upon the face of truth, and while men contend
+for truth, error drest in the same habit flips into her chaire, and all the
+litigants court her for the divine sister of wisdome. Nimirùm altercando
+veritas amittitur: There is noyse but no harmony, fighting but no victory,
+talking but no learning, all are teachers and all are wilfull, every man is
+angry, and without reason and without charity. D
+
+[...],
+
+Their mouth is a spear, their language is a two-edged sword, their throat is a
+shield, (as Nonnus his expression is) and the clamors and noyses of this folly
+is that which St. Paul reproves in this chapt. Let all bitternesse and clamor
+be put away. People that contend ear­nestly, talke loud; Clamor equus est
+irae, cum prostraveris equitem dejeceris, saith St. Chrysostom, Anger rides
+upon noyse as upon a horse, still the noyse and the rider is in the dirt; and
+indeed so to E doe is an act of fine strength, and the cleanest spirituall
+force that can be exercised in this instance; and though it be hard in the
+midst of a violent motion instantly to stop, yet by strength and good conduct
+it may be done. But he whose tongue rides upon passion, and is spur'd by
+violence and contention, is like a horse or mule without a bridle, [[Page
+310]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=159) and without
+understanding,  [...], No person A that is clamorous can be wise.
+
+These are the vanities and evill fruits of the easie talker; the instances of
+a trifling impertinent conversation; and yet it is ob­servable, that although
+the instances in the beginning be onely vain, yet in the issue and effects
+they are troublesome and full of mischief: and that we may perceive, that even
+all effusion and multitude of language and vainer talke cannot be innocent, we
+may observe that there are many good things which are wholly spoyl'd if they
+doe but touch the tongue; they are spoyl'd with speaking: such as is the
+sweetest of all Christian graces, humility, and the noblest acti­ons B of
+humanity, the doing favors and acts of kindnesse. If you speak of them, you
+pay your selfe, and lose your kindnesse; humility is by talking changed into
+pride and hypocrisie, and patience passes into peevishnesse, and secret trust
+into perfidiousnesse, and modesty into dissolution, and judgement into
+censure; but by silence and a restrained tongue all the first mischiefs are
+avoyded, and all these gra­ces preserved.
+
+[[Page 311]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=159)
+
+## 24\. SERMON, XXIV. Part III. Of Slander and Flattery. C
+
+HE that is twice asked a Question, and then answers, is to be excused if he
+answers weakly. But he that speaks before he be asked, had need take care he
+speak wisely; for if he does not, he hath no excuse; and if he does, yet it
+loses halfe its beauty; and therefore the old man gave good counsell in the
+Comedie to the Boy,  [...]. The profits of a restrained modest tongue cannot
+easily be numbred any more then the evills of an unbridled and dissolute. But
+they were but D infant mischiefs, which for the most part we have already
+obser­ved as the issues of vain and idle talking; but there are two spirits
+worse then these: 1. The spirit of detraction; and 2. The spirit of flattery.
+The first is  [...], from whence the Devill hath his name, He is an Accuser of
+the brethren. But the second is worse; it is  [...] or  [...], damnable and
+deadly; it is the nurse of vice, and the poyson of the soule. These are
+[...], sowre and filthy communication; the first is rude, but the latter is
+most mischievous, and both of them to be avoyded like death, or the despairing
+murmurs of the damned. E
+
+1\. Let no calumny, no slandering, detracting communication proceed out of
+your mouth; the first sort of this is that which the Apostle calls whispering,
+which signifies to abuse our neigh­bor secretly, by telling a private story of
+him.
+
+[[Page 312]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=160)
+—linguáque refert audita susurro, A
+
+for here the man playes a sure game as he supposes, a mischiefe without a
+witnesse,
+
+— [...],
+
+as Anacreon calls them; the light, swift arrows of a calumniating tongue; they
+pierce into the heart and bowels of the man spee­dily. These are those which
+the holy Scripture notes by the dis­gracefull Levit. 19. 6. B name of
+Talebearers: Thou shalt not goe up and down as a Talebearer among the people;
+for there are six things which God hates, (saith Solomon) yea the seventh is
+an abomination unto him, it is  [...], as bad and as much hated by God as an
+idol, and that is, a whisperer or tale-bearer that soweth contention amongst
+bre­thren. Prov. 6. 17. & 26\. 20. This kinde of communication was called
+[...] among the Greeks, and was as much hated as the Publicans among the
+Jewes, [...], It is a vile thing, O ye Athenians, it is a vile thing for a man
+to be a Sycophant, or a Tale-bearer, and the dearest friendships in the world
+cannot C be secure where such whisperers are attended to.
+
+Te singente nefas Pyladen odisset Oresles,
+
+Thesea Pirithoi destituisset amor:
+
+Tu Siculos fratres, & majus nomen Atridas,
+
+Et Ledae poteras dissociare genus.
+
+But this crime is a conjugation of evils, and is productive of infinite
+mischiefs; it undermines peace, and saps the foundation of friendship; it
+destroyes families, and rends in pieces the very heart D and vitall parts of
+charity; it makes an evill man, party, and wit­nesse, and judge, and
+executioner of the Innocent, who is hurt though he deserv'd it not;
+
+Et si non aliquà nocuisses, mortuus esses,
+
+and no mans interest nor reputation, no mans peace or safety can abide, where
+this nurse of jealousie, and parent of contention like the earwig creeps in at
+the ear, and makes a diseased noyse, and scandalous murmur. E
+
+2\. But such tongues as these, where they dare, and where they can safely,
+love to speak louder, and then it is detraction; when men under the colour of
+friendship will certainly wound the re­putation of a man, while by speaking
+some things of him fairly, he shall without suspicion be beleeved when he
+speaks evill of him; [[Page
+313]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=160) such was he
+that Horace speaks of, Me Capitolinus convictore usus ami­có (que) A &c.
+Capitolinus is my friend, and we have long liv'd together, and obliged each
+other by mutuall endearments, and I am glad he is ac­quitted by the criminall
+Judges,
+
+Sed tamen admiror, quo pacto judicium illud
+
+Fugerit—
+
+yet I confesse I wonder how he should escape; but I'le say no more, because he
+is my friend. [...], sayes Polybius; This is a new way B of accusation to
+destroy a man by praises. These men strike ob­liquely like a wilde swine, or
+the  [...], or like buls in a yoke, they have horns upon their necks, and doe
+you a mischief when they plough your ground; and as Joab slew Abner, he took
+him by the beard and kissed him, and smote him under the fift rib that he
+died; so doth the detracting tongue, like the smooth tongued lightning, it
+will break your bones when it kisses the flesh; so Syphax did secretly wound
+Massinissa, and made Scipio watchfull and implacable against So­phonisba,
+onely by commending her beauty and her wit, her con­stancy and unalterable
+love to her country, and by telling how C much himselfe was forc'd to break
+his faith by the tyranny of her prevailing charmes. This is that which the
+Apostle calls  [...], a crafty and deceitfull way of hurting, and renders a
+mans tongue venemous as the tongue of a serpent, that bites even though he be
+charm'd.
+
+3\. But the next is more violent, and that is railing or reviling; which
+Aristotle in his Rhetoricks says is very often the vice of boys and of rich
+men, who out of folly or pride, want of man­ners, or want of the measures of a
+man, wisdome and the just D proportions of his brethren, doe use those that
+erre before them most scornfully and unworthily; and Tacitus noted it of the
+Clau­dian family in Rome, an old and inbred pride and scornfulnesse made them
+apt to abuse all that fell under their power and dis­pleasure; quorum
+superbiam frustrà per obsequium & modestiam essugeres; No observance, no
+prudence, no modesty can escape the reproaches of such insolent and high
+talkers. A. Gellius tels of a boy that would give every one that he met a box
+on the ear; and some men will give foul words, having a tongue rough as a Cat,
+and biting like an Adder, and all their reproofes are di­rect E scoldings,
+their common entercourse is open contumely. There have been in these last ages
+examples of Judges who would re­proach the condemned and miserable criminall,
+deriding his cala­mity, and reviling his person. Nero did so to Thraseas, and
+the old Heathens to the primitive Martyrs, pereuntibus addita Iudi­bria,
+[[Page 314]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=161) said
+Tacitus of them, they crucified them again by putting them to suffer the shame
+of their fouler language, they rail'd at A them when they bowed their heads
+upon the crosse, and groan'd forth the saddest accents of approaching death.
+This is that evill that possessed those of whom the Psalmist speaks. Our
+tongues are our owne, we are they that ought to speak, who is Lord over us?
+that is, our tongues cannot be restrained; and St. James said James 3.
+something of this, The tongue is an unruly member which no man can tame; that
+is, no private person, but a publick may; for he that can rule the tongue, is
+fit also to govern the whole body, that is, the Church or Congregation;
+Magistrates and the Governours B of souls, they are by severity to restraine
+this inordination, which indeed is a foul one;
+
+[...]
+
+[...],
+
+no evill is worse or of more open violence to the rest and reputation of men,
+then a reproachfull tongue. And it were well if we consi­dered this evill, to
+avoyd it in those instances, by which our conver­sation is daily stain'd. Are
+we not often too imperious against our servants? Do we not entertain and seed
+our own anger with vile and C basest language? Doe not we chastise a servants
+folly or mistake, his error or his chance, with language fit to be used by
+none but vile persons, and towards none but dogs? Our blessed Saviour
+restrai­ning the hostility and murther of the tongue, threatens hell fire to
+them that call their brother foole; meaning, that all language which does
+really and by intention disgrace him in the greater instan­ces, is as directly
+against the charity of the Gospel, as killing a man was against the severity
+and justice of the law. And although the word it self may be us'd to reprove
+the indiscretions, and carelesse D follies of an idle person, yet it must be
+used onely in order to his amendment, * by an authorized person, * in the
+limits of a just reproofe, * upon just occasion, * and so as may not doe him
+mis­chief in the event of things. For so we finde that our blessed Sa­viour
+cal'd his Disciples,  [...], foolish; and S. James used  [...], Matt. 23. 17,
+19. vain man, signifying the same with the forbidden raca, [...], vain, Luk.
+24. 25. uselesse, or empty; and St. Paul calls the Galatians, mad, and
+foolish, and bewitched; and Christ called Herod, Fox; and St. John called the
+Pharisees, the generation of vipers; and all this matter is wholly determined
+by the manner, and with what minde it is done: If it be E for correction and
+reproofe towards persons that deserve it, and by persons whose authority can
+warrant a just and severe reproofe, and this also be done prudently, safely,
+and usefully, it is not contumely; But when men upon all occasions revile an
+offending person, lessen­ing his value, sowring his spirit, and his life,
+despising his infirmi­ties, [[Page
+315]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=161) tragically
+expressing his lightest misdemeanour,  [...], A being tyrannically
+declamatory, and intolerably angry for a trifle, these are such, who, as
+Apollonius the Philosopher said, will not suffer the offending person to know
+when his fault is great, and when 'tis little. For they who alwayes put on a
+supreme anger, or expresse the lesse anger with the highest re­proaches, can
+doe no more to him that steals, then to him that breaks a Crystall: Non plus
+aequo, non diutius aequo, was a good rule for reprehension of offending
+servants; But no more an­ger, no more severe language then the thing deserves;
+if you chide too long, your reproofe is changed into reproach; if too
+bit­terly, it becomes railing; if too loud, it is immodest; if too publick, B
+it is like a dog.
+
+[...]
+
+[...],
+
+so the man told his wife in the Greek Comedy; to follow me in the streets with
+thy clamorous tongue is to doe as dogs doe, not as per­sons civill or
+religious.
+
+4\. The fourth instance of the calumniating filthy communica­tion, C, is that
+which we properly call slander, or the inventing evill things, falsely
+imputing crimes to our neighbor: Falsum crimen quasi venenatum telum, (said
+Cicero) A false tongue or a foul lye against a mans reputation, is like a
+poysoned arrow, it makes the wound deadly, and every scratch to be incurable.
+Promptissima vindicta contumelia, said one, To reproach and rail is a revenge
+that every girl can take. But falsely to accuse is spiteful as Hel, and deadly
+as the blood of Dragons.
+
+Stoicus occidit Baream, delator amicum. D
+
+This is the direct murther of the Tongue, for life and death are in the hand
+of the tongue, said the Hebrew proverbe, and it was estee­med so vile a thing,
+that when Jesabel commanded the Elders of Israel to suborn false witnesses
+against Naboth, she gave them in­structions to take two men, the sons of
+Belial; none else were fit for the imployment.
+
+Quid non audebis perfida lingua loqui? E
+
+This was it that broke Ephraim in judgement, and executed the fierce anger of
+the Lord upon him; God gave him over to be oppressed by a false witnesse,
+quoniam coepit abire post sordes, therefore he suffered calumny, and was
+overthrown in judgement. This was it that humbled Joseph in fetters, and the
+iron entred into his soule, [[Page
+316]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=162) but it crushed
+him not so much as the false tongue of his revengefull Mistresse, untill his
+cause was known, and the Word of the Lord tryed A him. This was it that flew
+Abimelech, and endanger'd David; it was a sword in manu linguae Doeg, in the
+hand of Doegs tongue. By this Siba cut off the legs of Mephibosheth, and made
+his reputation lame for ever; it thrust Jeremy into the dungeon, and carryed
+Su­sanna to her stake, and our Lord to his Crosse; and therefore against the
+dangers of a slandering tongue, all laws have so cautelously arm'd themselves,
+that besides the severest prohibitions of God often Levit. 6. recorded in both
+Testaments, God hath chosen it to be one of his ap­pellatives Zech. 7. to be
+the Defender of them, a party for those, whose inno­cency Luk. 3. and
+defencelesse state makes them most apt to be undone by B this evill spirit; I
+mean pupils, and widows, the poore, and the op­pressed. And in pursuance of
+this charity the Imperiall laws have invented a juramentum de calumniâ on oath
+to be exhibited to the Actor or Plaintiff, that he beleevs himself to have a
+just cause, and that he does not implead his adversary calumniandi animo, with
+false instances, and indefencible allegations; and the Defendant is to swear
+that he thinks himselfe to use onely just defences, and perfect instances of
+resisting; and both of them obliged themselves, that they would exact no
+proofe but what was necessary to the truth of the Cause. And all this defence
+was nothing but necessary guards. C For, a spear, and a sword, and an arrow is
+a man that speaketh false wit­nesse against his neighbour. And therefore the
+laws of God added yet another bar against this evill, and the false Accuser
+was to suffer the punishment of the objected crime: and as if this were not
+suffici­ent, God hath in severall ages wrought miracles, and raised the dead
+to life, that by such strange appearances they might relieve the op­pressed
+Innocent, and load the false accusing Tongue with shame and horrible
+confusion. So it happen'd in the case of Susanna, the spirit of a manwas put
+into the heart of a childe to acquit the vertuous D woman; and so it was in
+the case of Gregory Bishop of Agrigentum, falsely accused by Sabinus and
+Crescentius; Gods power cast the Devill out of Eudocia, the Devill or spirit
+of Slander, and com­pelled her to speak the truth. St. Austin in his book De
+curâ pro c. 11. mortuis, tels of a dead Father that appeared to his oppressed
+Son, and in a great matter of Law delivered him from the teeth of false
+accusa­tion. So was the Church of Monts rescued by the appearance of Aia the
+deceased wife of Hidulphus their Earle, as appears in the Hanovian story; and
+the Polonian Chronicles tell the like of Stanislaus Bishop of Cracovia, almost
+oppressed by the anger and calumny of E Boleslaus their King; God relieved him
+by the testimony of St. Peter their Bishop, or a Phantasme like him. But
+whether these records may be credited or no, I contend not; yet it is very
+materiall which Eusebius relates of the three false witnesses accusing
+Narcissus Bishop l. 6\. c. 7. of Jerusalem, of an infamous crime, which they
+did, affirming it [[Page
+317]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=162) under severall
+curses: the first wishing that if he said false, God would destroy him with
+fire; the second, that he might die of the Kingsevil; A the third, that he
+might be blind: and so it came to passe; the first being surprised with fire
+in his owne roofe, amaz'd and intricated, confounded and despairing, paid the
+price of his slander with the pains of most fearfull flames: and the second
+perished by pieces, and Chirurgeons, and torment: which when the third saw, he
+repented of his fault, cryed mightily for pardon, but wept so bitterly, and
+found at the same time the reward of his calumny, and the ac­ceptation of his
+repentance:  [...], said Cleanthes, nothing is more operative of spitefull and
+malicious pur­poses, then the calumniating Tongue. In the Temple at Smyrna B
+there were Looking-glasses which represented the best face as croo­ked, ugly,
+and deformed; the Greeks call these  [...]: and so is every false tongue; it
+lies in the face of heaven, and abu­ses the ears of justice, it oppresses the
+Innocent, and is secretly re­venged of vertue, it defeats all the charity of
+laws, and arms the supreme power, and makes it strike the Innocent; it makes
+fre­quent appeals to be made to heaven, and causes an oath, in stead of being
+the end of strife, to be the beginning of mischief; it calls the name and
+testimony of God to seale an injury; it feeds and nourishes cruell anger, but
+mocks justice, and makes mercy weep C her selfe into pity, and mourne because
+she cannot help the In­nocent.
+
+5\. The last instance of this evill I shall now represent is Cursing;
+concerning which I have this onely to say; that although the cause­lesse curse
+shall return upon the tongue that spake it, yet because very often there is a
+fault on both sides, when there is reviling or cursing on either, the danger
+of a cursing tongue is highly to be declined, as the biting of a mad dog, or
+the tongue of a smitten serpent. For as envy is in the evill eye, so is
+cursing in the reproachfull tongue; it is D a kinde of venome and witchcraft,
+an instrument by which God oftentimes punishes anger and uncharitablenesse;
+and by which the Devill gets power over the bodies and interests of men: For
+he that works by Thessalic ceremonies, by charmes, and non-sense words, by
+figures and insignificant characterismes, by images and by rags, by circles
+and imperfect noyses, hath more advantage and reall title to the opportunities
+of mischief, by the cursing tongue; and though God is infinitely more ready to
+doe acts of kindnesse then of punishment, yet God is not so carelesse a
+regarder of the violent and passionate wishes of men, but he gives some over
+to pu­nishment, E and chastises the follies of rage, and the madnesse of the
+tongue by suffering it to passe into a further mischief then the harsh sound
+and horrible accents of the evill language. By the tongue we blesse God and
+curse men (saith St. James) [...], re­proaching is cursing; and both of them
+opposed to  [...], to bles­sing; [[Page
+318]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=163) and there are
+many times and seasons in which both of A them passe into reall effect. These
+are the particulars of the second.
+
+3\. I am now to instance in the third sort of filthy communication, that in
+which the Devill does the most mischief, by which he un­does souls; by which
+he is worse then  [...], an Accuser: For though he accuses maliciously, and
+instances spitefully, and heaps objections diligently, and aggravates
+bitterly, and with all his powers endeavors to represent the separate souls to
+God as polluted and unfit to come into his presence, yet this malice is
+ineffective, be­cause the scenes are acted before the wise Judge of Men and
+An­gels, B who cannot be abused; before our Father and our Lord, who knows
+whereof we be made, and remembreth that we are but dust; before our Saviour
+and our elder Brother, who hath felt our infir­mities, and knows kow to pity,
+to excuse, and to answer for us: But though this accusation of us cannot hurt
+them who will not hurt themselves, yet this malice is prevailing when the
+spirit of flattery is let forth upon us. This is the  [...], the Destroyer,
+and is the most contrary thing to charity in the whole world: and St. Paul
+noted it 1 Cor. 13. 5. in his character of Charity,  [...], Charity vaunteth
+not it selfe, so we translate it, but certainly not exactly, for it signifieth
+easinesse, complying foolishly, and flattering, Charity flattereth not, C
+[...], saith Suidas out of St. Basil, it signifies any thing that serves
+rather for ornament then for use, for pleasure then for profit.
+
+Et eo plectuntur poetae quàm suo vitio saepiùs,
+
+Ductabilitate nimiâ vestrâ aut perperitudine,
+
+saith the Comedy; the Poets suffer more by your easinesse and flat­tery, then
+by their owne fault. And this is it which St. Paul sayes is D against charity.
+For it to call a man foole and vitious, be so high an injury, we may thence
+esteem what a great calamity it is to be so; and therefore he that makes him
+so, or takes a course he shall not become other, is the vilest enemy to his
+person, and his fe­licity; and this is the mischief that is done by flattery;
+it is a de­signe against the wisdome, against the repentance, against the
+growth and promotion of a mans soul. He that persuades an ugly, deformed man,
+that he is handsome, a short man that he is tall, a bald man that he hath a
+good head of hair, makes him to become ridiculous and a foole, but does no
+other mischief. But he that persuades his E friend that is a goat in his
+manners, that he is a holy and a chaste person, or that his loosenesse is a
+signe of a quick spirit, or that it is not dangerous but easily pardonable, a
+trick of youth, a habit that old age will lay aside as a man pares his nailes,
+this man hath given great advantage to his friends mischief; he hath made it
+grow [[Page 319]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=163) in
+all the dimensions of the sin, till it grows intolerable, and perhaps A
+unpardonable. And let it be considered, what a fearfull destruction and
+contradiction of friendship or service it is, so to love my self and my little
+interest, as to preferre it before the soul of him whom I ought to love. By my
+flattery I lay a snare to get 20 l. and rather then lose this contemptible sum
+of money, I will throw him that shall give it me (as far as I can) into hell,
+there to roar beyond all the measures of time or patience. Can any hatred be
+more, or love be lesse, can any expression of spite be greater, then that it
+be said, you will not part with 20 l. to save your Friends, or your Patrons,
+or your Brothers soul? and so it is with him that invites him to, or confirms
+him in his folly, in hopes of getting something from him; B he will see him
+die, and die eternally, and help forward that dam­nation, so he may get that
+little by it. Every state is set in the midst of danger, as all trees are set
+in the wind, but the tallest endure the greatest violence of tempest: No man
+flatters a begger, if he does a slovenly and a rude crime it is entertained
+with ruder language, and the mean man may possibly be affrighted from his
+fault, while it is made so uneasie to him by the scorn and harsh reproaches of
+the mighty. But Princes and Nobles often die with this disease: And when the
+Courtiers of Alexander counterfeited his wry neck, and the C Servants of the
+Sicilian Tyrant pretended themselves dim sighted, and on purpose rushed one
+against another, and overthrew the meat as it was served to his table, onely
+because the Prince was short­sighted, they gave them sufficient instances in
+what state of affaires they stood with them that waited; it was certain they
+would com­mend every foolish answer, and pretend subtilty in every absurd
+question, and make a petition that their base actions might passe into a law,
+and be made to be the honor and sanctity of all the people: and what
+proportions or wayes can such great personages have to­wards felicity, when
+their vice shall be allowed and praised, every D action that is but tolerable
+shall be accounted heroicall, and if it be intolerable among the wise, it
+shall be called vertuous among the flatterers? Carneades said bitterly, but it
+had in it too many degrees of truth; that Princes and great personages never
+learn to doe any thing perfectly well, but to ride the great horse, quia scil.
+ferociens bestia adulari non didicit, because the proud beast knows not how to
+flatter, but will as soon throw him off from his back as he will shake off the
+son of a Potter. But a Flatterer is like a neighing Horse, that neigheth under
+every rider, and is pleased with every thing, and com­mends all that he sees,
+and tempts to mischief, and cares not, so his E friend may but perish
+pleasantly. And indeed that is a calamity that undoes many a soul; we so love
+our peace, and sit so easily upon our own good opinions, and are so apt to
+flatter our selves, and leane upon our own false supports, that we cannot
+endure to be disturb'd or awakened from our pleasing lethargy. For we care not
+to be [[Page 320]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=164)
+safe, but to be secure, not to escape hell, but to live pleasantly; we are not
+solicitous of the event, but of the way thither, and it is suf­ficient, A if
+we be perswaded all his well; in the mean time we are carelesse whether indeed
+it be so or no, and therefore we give pensi­ons to fools and vile persons to
+abuse us, and cousen us of felicity. But this evill puts on severall shapes,
+which we must discover, that they may not cousen us without our observation.
+For all men are not capable of an open flattery. And therefore some will
+dresse their hypocrisie and illusion so, that you may feel the pleasure, and
+but secretly perceive the complyance and tendernesse to serve the ends of your
+folly? perit procari, si latet, said Plancus, If you be not perceived, you
+lose your reward; if you be too open, you lose B it worse.
+
+1\. Some flatter by giving great names, and propounding great examples; and
+thus the Aegyptian villains hung a Tumblers rope upon their Prince, and a
+Pipers whistle; because they called their Ptolemy by the name of Apollo their
+God of Musick. This put buskins upon Nero, and made him fidle in all the great
+Towns of Greece. When their Lords were Drunkards, they called them Bacchus;
+when they were Wrestlers, they saluted them by the name of Hercules; and some
+were so vain as to think themselves commended, when their Flatterers told
+aloud, that they had drunk more then A­lexander C the Conquerour. And indeed
+nothing more abuses easie fooles that onely seek for an excuse for their
+wickednesse, a Patron for their vice, a warrant for their sleepy peace, then
+to tell stories of great examples remarked for the instances of their
+temptation. When old Cato commended meretricious mixtures, and to prevent
+adulteries permitted fornication, the youth of the succeeding ages had warrant
+enough to goe ad olentes fornices, into their cham­bers of filthy pleasure;
+
+Quidam notus homo cum exiret fornice; macte D
+
+Virtute esto (inquit) sententia dia Catonis:
+
+And it would passe the goblets in a freer circle, if a flattering man shall
+but say, Narratur & prisci Catonis saepè mero caluisse virtus, that old Cato
+would drink hard at sun-set. When Varro had noted, that wise and severe
+Salust, who by excellent sententious words had reproved the follies of lust,
+was himselfe taken in adultery, The Romane youth did hug their vice, and
+thought it grew upon their nature like a mans beard, and that the wisest men
+would lay their E heads upon that threshold; and Seneca tels that the women of
+that age despised the adultery of one man onely; and hated it like marri­age,
+and despis'd that as want of breeding, and grandeur of spirit, because the
+braver Spartans did use to breed their children pro­miscuously, as the Heards-
+men doe cattle from the fairest Buls. And [[Page
+321]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=164) Arrianus tels
+that the women would defend their basenesse by the doctrine of Plato, who
+maintain'd the community of women. This A sort of flattery is therefore more
+dangerous, because it makes the temptation ready for mischief, apted and
+dressed with proper, mate­riall, and imitable circumstances. The way of
+discourse is far about, but evill examples kill quickly.
+
+2\. Others flatter by imitation: for when a crime is rare and inso­lent,
+singular and out of fashion, it must be a great strength of ma­lice and
+impudence that must entertain it; but the flattering man do­ing the vice of
+his Lord takes off the wonder, and the fear of being stared at; and so
+incourages it by making it popular and common. B Plutarch tels of one that
+divorced himself from his wife because his friend did so; that the other might
+be hardened in the mischief; and when Plato saw his scholars stoop in the
+shoulders, and Aristotle ob­served his to stammer, they began to be lesse
+troubled with those im­perfections which they thought common to themselves and
+others.
+
+3\. Some pretend a rusticity and downright plainnesse, and upon the confidence
+of that humour their friends vice, and flatter his ruine. Seneca observed it
+of some of his time; alius quidam adulatione clam utebatur parcè, alius ex
+aperto palàm, rusticitate simulatâ, quasi simpli­citas illa ars non sit. They
+pretend they love not to dissemble, and therefore they cannot hide their
+thoughts; let their friend take it how C he will, they must commend that which
+is commendable; and so man that is willing to dye quietly, is content with the
+honest hearty­nesse and downright simplicity of him that with an artificial
+rudenesse dress'd the flattery.
+
+4\. Some will dispraise themselves that their friend may think bet­ter of
+himselfe, or lesse severely of his fault.
+
+5\. Others will reprove their friend for a trifle, but with a purpose to let
+him understand, that this is all; for the honest man would have told his
+friend if it had been worse. D
+
+6\. Some will laugh and make a sport of a vice, and can hear their friend tell
+the cursed narrative of his adultery, of his drunkennesse, of his craft and
+unjust purchases; and all this shall prove but a merry scene; as if damnation
+were a thing to be laughed at, and the ever­lasting ruine of his friend were a
+very good jest. But thus the poor sinner shall not be affrighted from his
+danger, nor chastised by severe language, but the villain that eats his meat
+shall take him by the hand, and dance about the pit till he fals in, and dies
+with shame and folly. Thus the evill Spirit puts on shapes enough; none to
+affright the man, but all to destroy him; and yet it is filthy enough when it
+is E invested with its own character:
+
+[...]
+
+[...]
+
+[[Page 322]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=165) The
+Parasite or Flatterer is a beast that is all belly, looking round with his
+eye, watchfull, ugly, and deceitfull, and creeping on his A teeth; they feed
+him, and kill them that reach him bread: for that's the nature of all vipers.
+
+I have this one thing onely to insert, and then the caution will be
+sufficient, viz. that we doe not think all praise given to our friend to be
+flattery, though it be in his presence. For sometimes praise is the best
+conveyance for a precept, and it may nourish up an infant ver­tue, and make it
+grow up towards perfection, and its proper mea­sures and rewards. Friendship
+does better please our friend then flattery, and though it was made also for
+vertue, yet it mingles plea­sures in the chalice,  [...], it is delicious to B
+behold the face of a friendly and a sweet person; and it is not the office of
+a friend alwayes to be sowre, or at any time morose; but free, open, and
+ingenuous, candid and humane, not denying to please, but ever refusing to
+abuse or corrupt. For as adulterine metals retain the lustre and colour of
+gold, but not the value; so flattery in imita­tion of friendship takes the
+face and outside of it, the delicious part; but the flatterer uses it to the
+interests of vice, and a friend by it serves vertue; and therefore Plutarch
+well compared friendship to medici­nall oyntments, which however delicious
+they be, yet they are also usefull, and minister to healing. But flattery is
+sweet and adulterate, C pleasant but without health. He therefore that justly
+commends his friend to promote and incourage his vertue, reconciles vertue
+with his friends affection, and makes it pleasant to be good; and he that does
+so, shall also better be suffered when he reproves, because the needing person
+shall finde that then is the opportunity and season of it, since he denyed not
+to please so long as he could also profit. I onely adde this advice, that
+since selfe-love is the serpents milk that feeds this viper flattery, we
+should doe well to choke it with its mo­thers milk; I mean, learn to love our
+selves more, for then we should never endure to be flattered. For he that
+because he loves himselfe, D loves to be flattered, does, because he loves
+himself, love to entertain a man to abuse him, to mock him, and to destroy him
+finally. But he that loves himselfe truly, will suffer fire, will endure to be
+burnt, so he may be purified; put to pain, so he may be restored to health;
+for of all sauces (said Euenus) sharpnesse, severity, and fire is the best. E
+
+[[Page 323]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=165)
+
+## 25\. SERMON, XXV. Part IV. The Duties of the Tongue.
+
+Ephes. 4. latter part of the 29 verse.‘—But that which is good to the use of
+edifying, that it may minister grace unto the hearers.’
+
+LOquendi ministros habemus homines, tacendi Deos, said one; Men teach us to
+speak, and God teaches us to hold our tongue. The first we are taught by the
+lectures of our Schools; the latter, by the mysteries of the Temple. But now D
+in the new institution, we have also a great Ma­ster of speaking; and though
+silence is one of the great paths of Innocence, yet Holy speaking is the
+instrument of Spirituall Charity, and is a glorification of God: and therefore
+this kinde of speaking is a degree of perfection beyond the wisdome and
+severity of silence. For although garrulity and foolish inordinate talking is
+a conjunction of folly and sin, and the prating man while he desires to get
+the love of them he conver­ses with, incurres their hatred; while he would be
+admir'd, is laughed at; he spends much and gets nothing, he wrongs his friends
+E and makes sport to his enemies, and injures himselfe; he is derided when he
+tels what others know, he is indanger'd if he tels a secret and what they know
+not; he is not beleeved when he tels good news, and when he tels ill news he
+is odious: and therefore that si­lence which is a cure of all this evill is an
+excellent portion of safety [[Page
+324]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=166) and Religion;
+yet it is with holy speaking and innocent silence as it is with a Hermit and a
+Bishop; the first goes to a good school, but A the second is proceeded towards
+greater perfection; and therefore the practicall life of Ecclesiasticall
+Governors being found in the way of holinesse and zeale, is called status
+perfectionis, a more ex­cellent and perfect condition of life, and farre
+beyond the retire­ments and inoffensive life of those innocent persons which
+doe so much lesse of profit, by how much charity is better then medi­tation,
+and going to heaven by religion and charity, by serving God and converting
+soules, is better then going to heaven by prayers and secret thoughts: So it
+is with silence, and religious communication. That does not offend God; this
+glorifies him: B That prevents Sin; this sets forward the interests of
+Religion. And therefore Plutarch said well, Qui generosè & regio more
+instituuntur, primum tacere, deinde loqui discunt. To be taught first to be
+silent, then to speak well and handsomely, is educa­tion fit for a Prince; and
+that is St. Paul's method here: first we were taught how to restraine our
+tongues in the foregoing instan­ces, and now we are called to imploy them in
+Religion.
+
+1\. We must speak that which is good]  [...], any thing that may serve the
+ends of our God and of our Neighbour, in the measures of Religion and
+usefulnesse. But it is here as in C all other propositions of Religion. God to
+us, who are in the body, and conducted by materiall phantasmes, and
+understanding nothing but what we feel, or is conveyed to us by the
+proportions of what we doe or have, hath given us a Religion that is fitted to
+our condition and constitution. And therefore when we are com­manded to love
+God, by this love Christ understands obedience; when we are commanded to
+honour God, it is by singing and re­citing his praises, and doing things which
+cause reputation and ho­nour: and even here when we are commanded to speak
+that which D is good, it is instanced in such good things which are really
+profi­table, practically usefull; and here the measures of God are espe­cially
+by the proportions of our neighbour. And therefore, though speaking honorable
+things of God be an imployment that does honour to our tongues and voices, yet
+we must tune and compose even these notes so, as may best profit our
+neighbour; for so it must be  [...], good speech, such as is  [...], for the
+edification of necessity: the phrase is an Hebraisme, where the geni­tive case
+of a substantive is put for the adjective; and meanes, that our speech be
+apted to necessary edification, or such edifi­cation E as is needfull to every
+mans particular case; that is, that we so order our communication, that it be
+apt to instruct the igno­rant, to strengthen the weak, to recall the wanderer,
+to restraine the vicious, to comfort the disconsolate, to speak a word in
+season to every mans necessity,  [...], that it may minister grace, [[Page
+325]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=166) something that
+may please and profit them, according as they shall need; all which I shall
+reduce to these three heads: A
+
+1\. To Instruct. 2. To Comfort. 3. To Reprove.
+
+1\. Our conversation must be  [...], apt to teach. For since all our hopes on
+our part depend upon our obedience to God, and conformity to our Lord Jesus,
+by whom our endevours are sanctified and accepted, and our weaknesses are
+pardoned, and all our obedience relies upon, and is incouraged and grounded in
+faith, and faith is founded naturally and primarily in the under­standing, we
+may observe that it is not onely reasonably to be expected, but experimentally
+felt, that in weak and and ignorant B understandings there are no sufficient
+supports for the vigorous­nesse of a holy life; there being nothing, or not
+enough to war­rant and strengthen great resolutions, to reconcile our
+affections to difficulties, to make us patient of affronts, to receive deeper
+mortifications, and ruder usages, unlesse where an extraordinary grace
+supplies the want of ordinary notices, as the Apostles were enabled to their
+preachings: But he therefore that carries and imports into the understanding
+of his Brother, notices of faith, and incomes of spirituall propositions, and
+arguments of the Spirit, enables his brother towards the work and practises of
+a holy life: and though every argument which the Spirit of God C hath made and
+recorded in holy Scripture, is of it selfe induce­ment great enough to endear
+obedience; yet it is not so in the event of things to every mans infirmity,
+and need; but in the treasures of the Spirit, in the heaps and variety of
+institution, and wise discourses, there will not onely be enough to make a man
+without excuse, but sufficient to doe his work and to cure his evill, and to
+fortifie his weaker parts, and to comply with his necessities; for although
+Gods sufficient grace is present to all that can use it, yet if there be no
+more then that, it is a sad D consideration to remember, that there are but
+few that will be saved, if they be helped but with just so much as can
+possibly doe the work: and this we may well be assured of, if we consi­der
+that God is never wanting to any man in what is simply necessary; but then if
+we adde this also, that of the vast numbers of men who might possibly be
+saved, so few really are so, we shall perceive that that grace which onely is
+sufficient, is not sufficient; sufficient to the thing, is not sufficient for
+the person; and there­fore that God does usually give us more, and we need
+more yet; and unlesse God works in us to will and to doe, we shall neither E
+will nor doe; though to will be in the power of our hand, yet we will not
+will; it follows from hence that all they who will com­ply with Gods method of
+graciousnesse, and the necessities of their Brethren, must endevour by all
+meanes, and in all their owne measures, and capacities to lay up treasures of
+notices and in­structions [[Page
+326]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=167) in their
+brothers soul, that by some argument or other A they may be met withall and
+taken in every corner of their con­versation. Adde to this, that the duty of a
+man hath great va­riety, and the souls of men are infinitely abused, and the
+persua­sions of men are strangely divided, and the interests of men are a
+violent and preternaturall declination from the strictnesses of vertue, and
+the resolutions of men are quickly altered, and very hardly to be secured, and
+the cases of conscience are numerous and intricate, and every state of life
+that hath its proper prejudice, and our notices are abused by our affections,
+and we shall per­ceive that men generally need knowledge enough to over-power
+all their passions, to root out their vitious inclinations, to master B their
+prejudice, to answer objections, to resist temptations, to re­fresh their
+wearynesse, to fixe their resolutions, and to determine their doubts; and
+therefore to see your brother in a state of ig­norance, is to see him
+unfurnished and unprepared to all good works, a person safe no longer then
+till a temptation comes, and one that cannot be saved but by an absolute
+unlimited predesti­nation, a favour of which he hath no promise, no security,
+no revelation; and although to doe this God, hath appointed a spe­ciall Order
+of men, the whole Ecclesiasticall Order, whom he feeds C at his owne charges,
+and whom men rob at their owne perill, yet this doth not disoblige others: for
+every Master of a family is to instruct, or cause his family to be instructed,
+and catechised; eve­ry Governour is to instruct his charge, every Man his
+Brother, not alwayes in person, but ever by all possible and just provisi­ons.
+For if the people dye for want of knowledge, they who are set over them shall
+also die for want of charity. Here there­fore we must remember, that it is the
+duty of us all, in our se­verall measures and proportions, to instruct those
+that need it, and whose necessity is made ready for our ministration; and let
+D us tremble to think what will be the sad account which we shall make when
+even our families are not taught in the fundamentals of Religion; for how can
+it be possible for those who could not account concerning the stories of
+Christs life and death, the mi­nisteries of their redemption, the foundation
+of all their hopes, the great argument of all their obediences; how can it be
+ex­pected that they should ride in triumph over all the evills which the
+Devill, and the World, and their owne follies daily present to them in the
+course of every dayes conversation? And it will be an ill return to say, that
+God will require no more of them E then he hath given them; for suppose that
+be true in your own sense, yet he will require it of thee, because thou gavest
+them no more; and however, it is a formidable danger, and a trifling hope for
+any man to put all the hopes of his being saved upon the onely stock of
+ignorance; for if his ignorance should never be [[Page
+327]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=167) accounted for,
+yet it may leave him in that state in which his A evills shall grow great, and
+his sins may be irremediable.
+
+2\. Our Conversation must be  [...], apt to comfort the disconsolate; and then
+this, men in present can feel no greater charity. For since halfe the duty of
+a Christian in this life con­sists in the exercise of passive graces, and the
+infinite variety of providence, and the perpetuall adversity of chances, and
+the dis­satisfaction and emptynesse that is in things themselves, and the
+wearynesse and anguish of our spirit does call us to the trial and exercise of
+patience even in the dayes of sunshine, and much more in the violent storms
+that shake our dwellings, and make B our hearts tremble; God hath sent some
+Angels into the world, whose office it is to refresh the sorrowes of the
+poore, and to lighten the eyes of the disconsolate; he hath made some
+crea­tures whose powers are chiefly ordain'd to comfort; wine, and oyle, and
+society, cordials and variety; and time it selfe is chec­ker'd with black and
+white; stay but till to morrow, and your present sorrow will be weary, and
+will lie downe to rest. But this is not all. The third person of the holy
+Trinity is known to us by the name and dignity of the Holy Ghost the
+Comforter, and God glories in the appellative, that he is the Father of
+mercies, and the God of all comfort, and therefore to minister in the office C
+is to become like God, and to imitate the charities of heaven; and God hath
+fitted mankinde for it; he most needs it, and he feels his brothers wants by
+his owne experience, and God hath given us speech, and the endearments of
+society, and pleasantness of conversation, and powers of seasonable discourse,
+arguments to allay the sorrow, by abating our apprehensions and taking out the
+sting, or telling the periods of comfort, or exciting hope, or urging a
+precept, and reconciling our affections, and reciting promises, or telling
+stories of the Divine mercy, or changing it D into duty, or making the burden
+lesse by comparing it with greater, or by proving it to be lesse then we
+deserve, and that it is so intended, and may become the instrument of vertue.
+And certain it is, that as nothing can better doe it, so there is nothing
+greater, for which God made our tongues, next to reciting his prayses, then to
+minister comfort to a weary soul. And what greater measure can we have, then
+that we should bring joy to our brother, who with his dreary eyes looks to
+heaven and round a­bout, and cannot finde so much rest as to lay his eye-lids
+close together, then that thy tongue should be tun'd with heavenly ac­cents, E
+and make the weary soul to listen for light and ease, and when he perceives
+that there is such a thing in the world, and in the order of things, as
+comfort and joy, to begin to break out from the prison of his sorrows at the
+dore of sighs and tears, and by little and little melt into showres and
+refreshment? This is glory [[Page
+328]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=168) to thy voyce,
+and imployment fit for the brightest Angel. But so have I seen the sun kisse
+the frozen earth which was bound up A with the images of death, and the colder
+breath of the North, and then the waters break from their inclosures, and melt
+with joy, and run in usefull channels, and the flies doe rise againe from
+their little graves in walls, and dance a while in the aire, to tell that
+there is joy within, and that the great mother of crea­tures will open the
+stock of her new refreshment, become usefull to mankinde, and sing prayses to
+her Redeemer: So is the heart of a sorrowfull man under the discourses of a
+wise Comforter, he breaks from the despairs of the grave, and the fetters and
+chains of sorrow, he blesses God, and he blesses thee, and he B feels his life
+returning; for to be miserable is death, but nothing is life but to be
+comforted; and God is pleased with no musick from below so much as in the
+thanksgiving songs of relieved Widows, of supported Orphans, of rejoycing, and
+comforted, and thankfull persons. This part of communication does the work of
+God and of our Neighbors, and bears us to heaven in streams of joy made by the
+overflowings of our brothers comfort. It is a fearfull thing to see a man
+despairing. None knows the sorrow and the intolerable anguish but themselves,
+and they that are damned; and so are all the loads of a wounded spirit, when C
+the staffe of a mans broken fortune bowes its head to the ground, and sinks
+like an Osier under the violence of a mighty tempest. But therefore in
+proportion to this I may tell the excellency of the imployment, and the duty
+of that charity which bears the dying and languishing soul from the fringes of
+hell to the seat of the brigh­test stars, where Gods face shines and reflects
+comforts for ever and ever. And though God hath for this especially intrusted
+his Ministers and Servants of the Church, and hath put into their hearts and
+notices great magazines of promises, and arguments of hope and arts of the
+Spirit, yet God does not alwayes send D Angels on these embassies, but sends a
+man ut sit homo homini Deus, that every good man in his season may be to his
+brother in the place of God, to comfort and restore him; and that it may
+appear how much it is the duty of us all to minister com­fort to our brother,
+we may remember that the same words and the same arguments doe oftentimes more
+prevaile upon our spi­rits when they are applyed by the hand of another, then
+when they dwell in us, and come from our owne discoursings. This is indeed
+[...] & [...], it is  [...], to the edifica­tion of our needs, and the
+greatest and most holy charity. E
+
+3\. Our communication must in its just season be  [...], we must reprove our
+sinning brother; for the wounds of a friend are better then the kisses of an
+enemy (saith Solomon:) we imitate the office of the great Shepheard and Bishop
+of souls, if we goe to Prov. 27. 6. [[Page
+329]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=168) seek and save
+that which was lost; and it is a fearfull thing to A see a friend goe to hell
+undisturbed, when the arresting him in his horrid progresse may possibly make
+him to return; this is a course that will change our vile itch of judging and
+censuring others into an act of charity; it will alter slander into piety,
+de­traction into counsell, revenge into friendly and most usefull offi­ces,
+that the Vipers flesh may become Mithridate, and the Devill be defeated in his
+malicious imployment of our language. He is a miserable man whom none dares
+tell of his faults so plainly, that he may understand his danger; and he that
+is uncapable and impatient of reproof, can never become a good friend to any
+man. B For besides that himself would never admonish his friend when he sins,
+(and if he would, why should not himself be glad of the same chairty?) he is
+also proud, and Scorner is his name; he thinks himself exempt from the
+condition and failings of men, or if he does not, he had rather goe to hell
+then be call'd to his way by an angry Sermon, or driven back by the sword of
+an Angell, or endure one blushing, for all his hopes and interests of heaven.
+It is no shame to be reproved, but to deserve it; but he that deserves it, and
+will doe so still, shall increase his shame into confusion, and bring upon
+himselfe a sorrow bigger C then the calamities of war, and plagues and
+hospitals, and po­verty. He onely is truely wise, and will be certainly happy,
+that so understands himself and hates his sin, that he will not nurse it, but
+get to himselfe a Reprover on purpose, whose warrant shall be liberty, whose
+thanks shall be amendment, whose entertain­ment shall be obedience; for a
+flattering word is like a bright sun-shine to a sore Eye, it increases the
+trouble, and lessens the sight;
+
+Haec demum sapiet dictio quae feriet; D
+
+The severe word of the reproving man is wise and healthfull: But because all
+times and all circumstances, and all persons are not fit for this imployment:
+
+—et plurima sunt quae
+
+Non audent homines pertusâ dicere laenâ;
+
+Some will not endure that a pore man, or an obliged person should reprove
+them, and themselves are often so unprofitable servants E that they will
+rather venture their friends damnation then ha­zard their owne interest,
+therefore in the performance of this duty of the usefull communication, the
+following measures are fit to be observed.
+
+[[Page 330]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=169) 1\. Let
+not your reproofe be publick and personall: if it be pub­lick, it must be in
+generall; if it be personall, it must be in pri­vate; A and this is expressely
+commanded by our blessed Saviour: If thy Brother offends, tell it him between
+him and thee; for when it comes afterwards in case of contumacy to be declared
+in pub­lick, it passes from fraternall correption to Ecclesiasticall
+discipline. When Socrates reproved Plato at a feast, Plato told him, it had
+been better he had told him his fault in private; for to speak it pub­lickly
+is indecency: Socrates replyed; and so it is for you pub­lickly to condemne
+that indecency. For it is the nature of man to be spitefull when he is shamed,
+and to esteem that the worst of B evils, and therefore to take impudence and
+perseverance for its cover, when his shame is naked: And for this indiscretion
+Aristomenes the Tutor of Ptolemy, who before the Corinthian Embassadors
+re­proved the King for sleeping at the solemne audience, profited nothing, but
+enraged the Prince, and was himself forc'd to drink poyson. But this warinesse
+is not alwayes necessary. For 1. a pub­lick and an authoriz'd person, may doe
+it publickly, and may name the person as himself shall judge expedient.
+
+—secuit Lucilius urbem: C
+
+Te Lupe, te Muti; & genuinum fregit in illis:
+
+Omne vafer vitium—
+
+Lucilius was a censor of manners, and by his office he had warrant and
+authority. 2. There are also some cases in which a publick reproofe is
+prudent, and that is when the crime is great, but not understood to be any at
+all; for then it is Instruction and Catechism, and layes aside the affront and
+trouble of reproofe. Thus Ignatius the Martyr did reprove Trajan sacrificing
+at the Altar in the sight of all the Officers of the Army; and the Iews were
+commanded D Jer. 10. 11. to reprove the Babylonians for Idolatry in the land
+of their Captivity: and if we see a Prince in the confidence of his pride, and
+carelesnesse of spirit, and heat of war spoyle a Church or rob God, it is then
+fit to tell him the danger of Sacriledge, if otherwise he cannot well be
+taught his danger, and his duty. 3. There are some circum­stances of person in
+which by interpretation, duty or custome a leave is indulged or presum'd, that
+liberty may be prudently used, publickly to reprove the publick vices: so it
+was in the old days of the Romans; vice had then so little footing and
+authority, so few friends and advo­cates, that the Prophets and Poets used a
+bolder liberty to disgrace E whatsoever was amisse;
+
+—unde illa priorum
+
+Scribendi quodcun (que) animo flagrante liberet
+
+Simplicitas—
+
+[[Page 331]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=169) and
+much of the same liberty is still reserved to Pulpits, and to A the Bishops
+office, save onely, that although they may reprove pub­lickly, yet they may
+not often doe it personally.
+
+2\. Use not to reprove thy brother for every thing, but for great things
+onely: for this is the office of a Tutor, not of a Friend; and few men will
+suffer themselves to abide alwayes under Pupillage. When the friend of
+Philotimus the Physician came to him to be cu­red of a sore finger, he told
+him, Heus tu, non tibi cum reduvia est negotium, he let his finger alone, and
+told him that his liver was impostumate: and he that tells his friend that his
+countenance is not grave enough in the Church, when it may be the man is B an
+Atheist, offers him a cure that will doe him no good, and to chastise a trifle
+is not a worthy price of that noblest liberty and ingenuity which becomes him
+that is to heale his brothers soule. But when a vice stains his soule, when he
+is a foole in his man­ners, when he is proud, and impatient of contradiction,
+when he disgraces himselfe by talking weakly, and yet beleeves himselfe wise,
+and above the confidence of a sober person, then it con­cerns a friend to
+rescue him from folly. So Solon reproved Croesus, and Socrates Alcibiades, and
+Cyrus chid Cyaxares, and Plato told to Dion that of all things in the world he
+should beware of that folly, by which men please themselves, and despise a
+better judge­ment: C quia ei vitio adsidet solitudo, Because that folly hath
+in it singularity, and is directly contrary to all capacities of a friendship,
+or the entertainments of necessary reproofe.
+
+3\. Vse not liberty of reproofe in the dayes of sorrow and af­fliction; for
+the calamity it self is enough to chastise the gayeties of sinning persons,
+and to bring him to repentance; it may be sometimes fit to insinuate the
+mention of the cause of that sor­row, in order to repentance, and a cure: But
+severe and biting language is then out of season, and it is like putting
+vineger to D an enflamed and smarting eye, it increases the anguish, and
+tempts unto impatience. In the accidents of a sad person, we must doe as
+nurses to their falling children, snatch them up and still their cry­ings, and
+entertain their passion with some delightfull avocation; but chide not then
+when the sorrowfull man needs to be refreshed. When Crater the Cynic met
+Demetrius Phalereus in his banishment and trouble, he went to him and spoke to
+him friendly, and used his Philosophy in the ministeries of comfort, and
+taught him to bear his trouble nobly, and so wrought upon the criminal, and
+wilde Demetrius; and he moved him to repentance, who if he E had been chidden
+(as he expected) would have scorn'd the man­ners of the Cynic, and hated his
+presence and institution; and Perseus kil'd Euchus and Eulaeus, for reproving
+his rashnesse, when he was newly defeated by the Romanes.
+
+[[Page 332]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=170) 4\.
+Avoid all the evill appendages of this liberty: for since to reprove a sinning
+brother is at the best but an unwelcome and in­vidious A employment, though it
+may also be understood to be full of charity; yet therefore we must not make
+it to be hatefull by adding reproach, scorn, violent expressions, scurrility,
+derision, or bitter invectives. Hieron invited Epicharmus to supper, and he
+knowing that Hieron had unfortunately kil'd his friend, replyed to his
+invitation, At (que) nuper cum amicos immolares non vorasti, I think I may
+come, for when thou didst sacrifice thy friends thou didst not devour them.
+This was a bitter sarcasme, and might with more prudence and charity have been
+avoyded. They that intend charitably and conduct wisely, take occasions and
+proper B seasons of reproof, they doe it by way of question and similitude, by
+narrative and apologues, by commending something in him that is good, and
+discommending the same fault in other persons by way that may disgrace that
+vice, and preserve the reputation of the man. Ammonius observing that his
+Scholars were nice and curious in their diet, and too effeminate for a
+Philosophicall life, caused his freed man to chastise his boy for not dining
+without vinegar, and all the while look'd upon the young Gentlemen, and read
+to them a lecture of Severity. Thus our dearest Lord reproved St. Peter, he
+look'd upon him when the signe was given with the crowing of the Cock, C and
+so chid him into a showre of penitentiall tears. Some use to mingle prayses
+with their reprehensions, and to invite their friends patience to endure
+remedy, by ministring some pleasure with their medicine; for as no wise man
+can well indure to be praised by him that knows not how to disprayse, and to
+reprove; so neither will they endure to be reproved by him that knows not how
+to praise; for reproof from such a man betrayes too great a love of himselfe,
+and an illiberall spirit: He that will reprove wisely, must efform himselfe
+into all images of things which innocently and wisely he can put on; not by
+changing his manners, his principles, and the D consequences of his discourse,
+(as Alcibiades was supposed to doe) for it is best to keep the severity of our
+owne principles, and the manner of our owne living: for so Plato lived at
+Syracuso, just as he lived in the Academy; he was the same to Dionysius that
+he was to Dion: But this I mean, that he who meanes to win soules, and prevail
+to his brothers institution, must as St. Paul did, effigiate and conform
+himself to those circumstances of living, and discourse, by which he may
+prevaile upon the persuasions, by complying with the affections and usages of
+men. E
+
+These are the measures by which we are to communicate our counsels and advices
+to our erring Brethren: to which I adde this last advice, That no man should
+at that time in which he is reproved give counsell and reproofe to his
+Reprover, for that betrayes an angry spirit, and makes discord out of piety,
+and changes charity into [[Page
+333]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=170) wrangling, and
+it looking like a revenge, makes it appear that himself A took the first
+reproofe for an injury.
+
+That which remaines now is, that I persuade men to doe it, and that I persuade
+men to suffer it; 'tis sometimes hard to doe it, but the cause is onely,
+because it is hard to bear it; for if men were but apprehensive of their
+danger, and were not desirous to die, there were no more to be said in this
+affair; they would be as glad to entertain a severe Reprover as a carefull
+Physitian; of whom because most men are so willing to make use, so thankfull
+for their care, so great valuers of their skill, such lovers of their B
+persons; no man is put to it to persuade men to be Physitians, be­cause there
+is no need to persuade men to live, or to be in health: if therefore men would
+as willingly be vertuous as be healthfull, as willingly doe no evill as suffer
+none, be as desirous of heaven as of a long life on earth, all the
+difficulties and temptations against this duty of reproving our sinning
+brother would soon be conceal'd; but let it be as it will, we must doe it in
+duty and piety to him that needs, and if he be impatient of it, he needs it
+more: Et per hujusmodi offensas emetiendum est confragosum hoc iter: it is a
+troublesome imployment, but it is duty and charity; and therefore when it can
+with hope of successe, with prudence and C piety be done, no other
+consideration ought to interpose. And for the other part, those I mean who
+ought to be reproved, they are to remember, that themselves give pensions to
+Preacher on purpose to be reproved if they shall need it*, that God hath
+instituted a holy Order of men to that very purpose*, that they should be
+severally told of all that is amisse*, that them­selves chide their children
+and their servants for their good, and that they may amend*, and that they
+endure thirst to cure their dropsies*, that they suffer burnings to prevent
+the gangrenes*, D and endure the cutting off a limbe to preserve their lives
+*, and therefore that it is a strange witchcraft and a prodigious folly, that
+at so easie a mortification as the suffering of a plain friendly reproofe,
+they will not set forward their interest of heaven, and suffer themselves to
+be set forward in their hopes of heaven:
+
+—dura fatemur
+
+Esse, sed ut valeas multa dolenda feras.
+
+And when all remember that flattery and importune silence suffer E the mighty
+to perish like fooles and inconsiderate persons, it ought to awake our
+spirits, and make us to attend to the admo­nitions of a friend, with a silence
+great as midnight, and watch­full as a widows eyes. It was a strange thing
+that Valentinian should in the midst of so many Christian Prelates make a law
+to [[Page 334]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=171)
+establish Polygamy, and that no Bishop should dare to reprehend A him. The
+effect of it was this, that he had a son by a second wife, the first being
+alive and not divorc'd, and he left him heir of a great part of the Empire;
+and what the effect of that was to this soul, God who is his Judge best knows.
+
+If now at last it be inquir'd whether every man is bound to reprove every man,
+if he sins, and if he converse with him? I answer, that if it should be so, it
+were to no purpose, and there­fore for it there is no commandement; every man
+that can may instruct him that wants it; but every man may not reprove him
+that is already instructed; that is an act of charity, for which there are no
+measures, but the others necessity, and his own op­portunity; B but this is
+also an act of discipline, and must in ma­ny cases suppose an authority; and
+in all cases such a liberty as is not fit to be permitted to mean, and
+ignorant, and inferiour persons; I end this with the saying of a wise person,
+advising to every one concerning the use of the tongue, aut lucrentur vitam
+loquendo, aut tacendo abscondant scientiam; if they speak, let them minister
+to the good of souls; if they speak not, let them mini­ster to sobriety; in
+the first they serve the end of charity, in the other of humility.
+
+THE END.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=48497&page=171)
+
+## Appendix A ERRATA.
+
+PAg. 10. l. 35. r. entertained that at. p. 6. l. 30. seen r. scene. 29\. 21.
+dear r. clear. 152\. 4. terrour r. fervour. 71\. 40. the bowed r. they bowed.
+87\. 41. reverend r. reverenc'd. 112\. 27. r. illius pejora prioribus. 100\.
+1. one r. once. 102\. 21. that flies r. he that flies. 142\. 16. r. true or
+false. 98\. 45. if it be turned r. if it be not turned. 283\. ult. r. get a
+Genius. 309\. 40. still r. till. 334\. 5. r. his soul.
+
+33\. 8.  [...] lege (forsan) [...]. 52. 29. lege [...]. 140. 9. lege [...].
+200. ult. lege [...]. In margin. p. 225\. 5. lege [...].
+
+[Home](/)
+
+Taylor, Jeremy, 1613-1667.. Date: 1653  
+

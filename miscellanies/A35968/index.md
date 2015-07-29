@@ -1,0 +1,6034 @@
+---
+layout: default
+---
+## (unknown project)
+
+# A choice collection of rare secrets and experiments in philosophy as also
+rare and unheard-of medicines, menstruums and alkahests : with the true secret
+of volatilizing the fixt salt of tartar / collected and experimented by the
+honourable and truly learned Sir Kenelm Digby, Kt., Chancellour to Her Majesty
+the Queen-Mother ; hitherto kept secret since his decease, but now published
+for the good and benefit of the publick by George Hartman. — Choice collection
+of rare secrets and experiments in philosophy
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=1)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=1)
+
+A CHOICE COLLECTION OF RARE SECRETS AND EXPERIMENTS IN Philosophy.
+
+AS ALSO Rare and unheard-of Medicines, Menstruums, and Alkahests; with the
+True Secret of Volatilizing the fixt Salt of TARTAR.
+
+COLLECTED And Experimented by the Honourable and truly Learned Sir Kenelm
+Digby, Kt. Chancellour to Her Majesty the Queen-Mother.
+
+Hitherto kept Secret since his Decease, but now Published for the good and
+benefit of the Publick,
+
+By GEORGE HARTMAN.
+
+London, Printed for the Author, and are to be Sold by William Cooper, at the
+Pelican in Little Britain; and Henry Faithorne and Iohn Kersey, at the Rose in
+St. Paul's Church-yard. 1682.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=2)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=2)
+
+## TO THE RIGHT HONOURABLE, ROBERT, Lord Paston, Baron of Paston, Vicount and
+Earl of Yarmouth.
+
+My Lord,
+
+IT is not my intention, nor indeed my Ta­lent, to Celebrate those Excellent
+Virtues, which shine so eminently bright in your Lord­ship: For they are
+Themes only fit to be treated on by the strongest Pen, and their Native Worth
+and Resplendency are their own suffici­ent Panegyricks.
+
+Yet such is the Veneration I have for the Excellent Qualities and Endowments
+of your Noble Mind, and those Heroick inclinations, that move your Honour to
+make such exact, diligent, and curious search into all the Secrets and
+Mysteries of Nature, and encourage all others that Labour therein, that I
+cannot for­bear being so vain as to publish my resentments thereof to the
+World. These Reasons, My Lord, together with the consideration of your inbred
+Candour and Generosity, encouraged me to the boldness of committing this small
+Treatise to your Honours Patronage and Pro­tection: To whom I know it will be
+more [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=3) welcome,
+as containing in it the Choice Ob­servations, both in Physick and Chymistry,
+of that Famous Man, and great Privy Coun­cellor of Nature, Sir K. D. A Name,
+My Lord, that hath peculiar Charms with it, to recommend all that are under
+its great shadow, to the value and consideration of all the dili­gent, the
+Learned, and the Honourable: So great a Person (may I assume the vanity to say
+so) I had the Honour and Happiness for several Years to Serve, beyond the
+Seas, as well as in England, and to attend on him mo [...] particularly in the
+Production of many of h [...] incomparable Experiments, and so to contin [...]
+till his dying day; when he left with me tho [...] Choice things contained in
+this little Treatise.
+
+And since I fear they suffer diminution  [...] their Worth and Beauty, by
+passing throug [...] my mean Hands, and weak Managery, thought I could make no
+better Atonement than by recommending them to receive R [...] ­cruits and
+Reinforcements from the Splendo [...] and Eminency of your Illustrious Name.
+To[?] that end therefore I take the Boldness to pro­strate them at your
+Honours Feet, where a [...] in all Humility lyes
+
+Your Honours Most Obedient, and Most Devoted Servant, George Hartma [...]
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=3)
+
+## TO THE READER.
+
+Courteous Reader,
+
+THIS Trea [...]ise contains some of the Choicest Collections of the Famous Sir
+Kenelm Digby (some whereof have been wrought by his own hands, some
+commu­nicated to him by Learned Men of all Na­tions) in praise whereof no more
+need be said, but, that they are his; either of his production, or of his
+approbation. I shall therefore, omitting other Artifices and In­sinuations,
+only satisfie the Reader with all the clearness and ingenuity I can, how I
+came by them; and thereby I question not, but I shall very successively
+recommend this Collection of them to all Ingenious Lovers of Art, whose Ears
+the Fame of the Worthy Author hath reached.
+
+To this End I must acquaint him, that I had the Honour several years to wait
+upon Sir Kenelm, and to have several of his Ma­nuscripts in my Custody, more
+particularly this with others was committed to my
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=4) Charge, when
+my Worthy Master intended a Journey to France for his Healths sake, and to
+settle his Affairs there: And he had Progressed in his designed Journey as far
+as Cittenburn, when a violent Distemper forced him back again to his own House
+in Covent-Garden; and in three days after his return, left the Learned World
+to lament the loss of so great a Man. And here besides his in­comparable self,
+his Friends and Countrey lost also the benefit of his Famous Library he had in
+France (which for want of his be­ing Naturalized) fell into the French King
+[...] hands, who bestowed it upon a Gentleman, and it was sold (as I was
+credibly informed) for [...] ten thousand Crowns. In which no doubt were
+Manuscripts of his own, of very great worth and rich value, and might have
+much obliged the World, had they fallen in­to the hands of Generous and
+Communica­tive Men.
+
+But it was my happiness to have, among some other Manuscripts of his, the sole
+Pro­priety of this Choice Manual, which con­tains rare and profitable Secrets
+in Philoso­phy and Chymistry, delivered with more perspicuity and plainness
+than is yet to be found in any Chymical Book: Yea, such, that any
+understanding Reader may with great facility be conducted as with an
+Ariad­nean [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=4)
+Line into the most intricate and hither­to fatigating Arcana of Chymistry.
+Here are the true Menstruums and Alkahests, and that hitherto hidden Secret of
+Volatilizing the fixed Salt of Tartar without any Heterogene Substance, being
+the true Vegetable Men­struum; with many other rare and unheard­of Medicines,
+some whereof I had a mind to reserve for my self, and not to Publish them
+during my Life, because of the great Experience, and the good Success I have
+had with them in desperate cases; but Impium est ta [...]ere, quae si
+promulgata essent, multo­rum misere decumbentium, in levamen ex­tarent. 'Tis
+Impious and unchristian to for­bear the Publication of those things, which
+being rendred Publick, will effectually re­dound to the Advantage and Comfort
+of mi­serable Men.
+
+I have Translated most of these Secrets out of the Latine, French, German, and
+Ita­lian Tongues. And if I have committed any indecencies against the Idiom of
+the English Speech, I hope the Candid Reader will for­give a Foreigner. As for
+any Ornaments and Embellishments of Language, as the Work requires no such
+Painting, so the Pub­lishers Foreign Stile and mean Talents are not able to
+afford it.
+
+I have no more to acquaint the Reader
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=5) with, but
+that these Secrets had been Com­municated to him long before, but that have
+been most part of my time since my Excellent Masters Decease, abroad:
+How­ever, I hope they will be now kindly en­tertained. For it is the height of
+my Ambi­tion to make the Memory of my incom­parable Master to Live, who was my
+pri­vate, and the Worlds publick Benefactor, which can no where do so with
+such Advan­tage as in his Learned Works, for thereby being dead he yet speaks
+and instructs.
+
+And though it be no addition to his Glori­ous Name, yet for the Wit and
+smartness of the thing, and the Readers diversion, I shall conclude here with
+that Elegant Epitaph made on him by the Ingenious Dr. Farrar, which is as
+followeth.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=5)
+
+### AN EPITAPH UPON The Honourable and Truly Noble Sir Kenelm Digby, Kt.
+Chancellour to Her MAJESTY THE Queen-Mother.
+
+UNder this Tomb the Matchless Digby lies;
+
+Digby the Great, the Valiant, and the Wise:
+
+This Ages Wonder for his Noble Parts,
+
+Skill'd in Six Tongues, and Learn'd in all the Arts.
+
+Born on the Day He Dy'd, Th' Eleventh of June,
+
+And that Day Bravely Fought at Scandaroun [...]
+
+'Tis Rare, that one and the same Day should be
+
+His Day of Birth, of Death, and Victory.
+
+R. F.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=6)
+
+## THE INDEX.
+
+A.
+
+  * ANimation and Preparation of Common ☿. Page 26. 83, 84, 85.
+  * Aurum Potabile, from the Marchioness de Beck. 245.
+  * A. R. Philosophical. 94.
+  * An unheard-of Arcanum. 188.
+  * An Aethereal Aurum potabile. 177.
+  * The Arcanum of Flamel, Arte [...]ius, and Pon­tanus, &c. 117.
+
+B.
+
+  * BUtter of  (antimony) to extract the Tincture of ☉. 61.
+  * Butter of  (antimony) without Sublimate. 78.
+  * A Work with Butter of  (antimony). 58.
+  * A Precious Balsam. 264.
+
+C.
+
+  * CAlx of ☉. 129.
+  * Cosmetick prepared out of ☽. 132.
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=6) Coppels how to make. 140.
+  * A Work upon Cinaber. 52.
+  * Cray-Fishes to engender. 131.
+  * A great Corroborant and Sudorifick. 173.
+  * Convulsion Fits to Cure. 226.
+  * Cancers to Cure. 231.
+  * A Laxative and Emetick Cream of Tartar. 248, 249.
+
+D.
+
+  * THE Danes Work, wrought by Sir K. D. 33.
+  * Monsieur Dandre's Work with ☉, ☿, and Sul­phur-vive transparent, with Observations thereupon. 5.
+  * A great Diaphoretick of  (antimony). 213.
+  * Decoction Sudorifick. 216.
+  * Dropsie to Cure. 200, 201, 24.
+  * Deafness to Cure. 262.
+
+E.
+
+  * EXtraction of ☿ of  (antimony). 65. 72. 75. 77. 79, 80, 81.
+  * Elixir of ☉,  (antimony), & ☿. 69.
+  * Elixir of ☉ & ☽. 70.
+  * Elixir Album. 16.
+  * Elixir Rubrum. 71.
+  * Elixir of Sulphur. 210.
+  * Extraction of ☿ of ☽ or ♄. 73.
+  * Essence of Sulphur. 209.
+  * Epilepsie Cured by Sir K. D. at Frankfort. 197, 198.
+
+F.
+
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=7)FLux or Looseness to Cure. 257.
+  * Fixation of ☽ into ☉. 116. 21. 26. 62. 65.
+  * Monsieur R's. Fixation of ☿ by the Salt of ♄. 103.
+  * To fix a quarter part of ☽ into ☉. 52.
+  * Mallus his Process to fix ☽. 63.
+  * Fixation of ♄ into ☽ with good Profit. 43
+  * Fixation of ☿ by the Salt of ♄, by Captain Zeigler. 49.
+  * Fixation of ☿ of  (antimony). 44. 46, 47.
+  * Fixation of Common Sulphur, and its Tin­cture. 193.
+  * Fixation of ☿ into ☽ by the Salt of ♄ & ☽, by Monsieur de R. 103.
+  * A great Febrifuge. 220, 230. 216.
+  * Riverius his Febrifuge. 223.
+  * A Furnace for many Uses, &c. 138.
+
+G.
+
+  * To burn holes in Glasses. 136.
+  * Gout to Cure. 260, 261.
+  * The Eagles Gluten, or ☿ of the Wise. 178.
+
+L.
+
+  * LApis Ignis. 242.
+  * Laudanum Germanicum. 266.
+  * Liquor Mercurial with ♃. 229.
+  * Lauremberg's Observation upon Angelus Sa­la his Synopsis of Aphorisms. 115.
+  * The Lunar Pills against the Dropsie. 199.
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=7) A Lunary Emetick. 230.
+  * Lac Sulphuris. 211.
+
+M.
+
+  * MAtthews his Work. 19.
+  * Mercurial 🜄. 160.
+  * A Minera of ☉. 41.
+  * Minera of ☿ of  (antimony), ad infinitum. 74.
+  * The Menstruum C [...]licum Exuberatum. By Dr. Clodius. 156.
+  * Mercury of all Metals. 16. 81.
+  * To make Metals Vegetate visibly. 130.
+  * Concerning May Dew. 116.
+  * A great Medicine. 238.
+  * A rare Medicine for an Ague. 205.
+  * Metalline Menstruum. 178.
+  * A great Medicine, &c. 238.
+  * An Universal Medicine of ☉ and  (antimony), &c. 167.
+
+O.
+
+  * OYL of Talc. 132. 135.
+  * Oyl of ☿. 126.
+  * Oyl of ☉. 231.
+  * An Operation that Monsieur de Loberye wrote from Monsieur John's Mouth. 122.
+  * An Operation with a Martial Regulus of  (antimony). 60.
+  * Observations about Snyder's Secret. 17.
+  * Operation upon Saturn. 87.
+  * Oyl of Sulphur. 207.
+  * An Operation with Spirit and Salt of Urine, ☽, and ☿ Precipitate, wrought by Sir Ke­nelm's Operator. 153.
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=8) A Precious Oyl of  (antimony). 217.
+  * An Operation upon Jupiter. 104.
+  * Monsieur Van Outer's Secret. 8. 11.
+  * An Operation upon Regulus of  (antimony), by Mon­sieur Toysonnier. 60.
+  * An Operation with ☉ and ☿ of  (antimony); wrought by Monsieur Chambulan, and given me by him. 65.
+  * An Operation upon ♄, sent me by Monsieur Boucaud. 87.
+
+P.
+
+  * A Short and clear Description of the Phi­losophers Stone. 107.
+  * The Countess of Kents Powder after Sir K. D. Method. 125.
+  * An Excellent Panacea. 218.
+  * Sir K. D's. Sympathetical Powder. 270.
+  * Cornachinus his Medicinal Powder. 247.
+  * Plaister of Lead. 258.
+
+Q.
+
+  * QUintessence of ♄, an Universal dissol­vent. 88.
+
+R.
+
+  * A Reality upon ☽. 45.
+  * A Reality from Abbot Boucaud. 101.
+
+S.
+
+  * THE Volatile Salt of Tartar. 252.
+  * Saunier's Work, wrought by Sir K. D. 31.
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=8) Snyder's Secret, as he himself gave it to Sir K. D. 16.
+  * Salt fusible. 59. 16.
+  * The best way to make Spirit of Urine. 236.
+  * Sigillum Hermetis. 227.
+  * Scrofula's to Cure. 232. 234.
+  * The true Sulphur of  (antimony). 218.
+  * Stone to Cure. 205.
+  * An Excellent Physical Salt. 254.
+  * A white Spirit of Sulphur to dissolve ☽ and ☿. 166.
+  * The best and easiest way of making a Spirit of Sal armoniack. 250.
+  * The Metalline Stone of a Spiritual Luna [...]y. 191.
+  * An Excellent Sudorifick. 231.
+  * Sol and Luna out of ♃. 105.
+  * Sulphur of ☉. 121.
+  * A particular Spirit of Nitre. 85.
+
+T.
+
+  * TIncture of Mars. 55.
+  * Tincture of ☉ by  (antimony). 64.
+  * Tetters or Herps to Cure, &c. 236.
+  * Tincture of ☽. 65.
+  * Transmutation of ☿ into a Regulus. 128.
+  * Tincture of fixt Sulphur. 193.
+  * A Tincture of the Flowers of  (antimony). 255.
+  * The true Tincture of Coral. Ibid.
+  * Tincture of Glass of  (antimony). 164.
+
+V
+
+  * [[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=9)VOlatilized ☽. 22.
+  * Venus into ☽. 123.
+  * The great Work out of Virgin Earth. 37.
+  * A Work Copied out of the Original of Mon­sieur de la Violette's own hand, whereof he made great account. 13.
+  * The Secret to Volatilize the fixt Salt of Tar­tar. 147. 151.
+  * Monsieur Vignault his Process with ☉ and ☿. 24.
+  * A subtil Volatile 🜄 from Sulphur. 208.
+
+W.
+
+  * WAter of Paradise, &c. 179 to 186.
+
+### An Explication of the Characters which are used in this Book.
+
+  * ☉ Gold.
+  * ☽ Silver.
+  * ♂ Iron.
+  * ☿ Mercury.
+  * ♃ Iupiter.
+  * ♀ Venus.
+  * ♄ Lead.
+  * (antimony) Antimony.
+  * 🜹 Sal armoniac.
+  * A. F. Aqua Fortis.
+  * A. R. Aqua Regis.
+  * S. V. Spirit of Wine.
+  * 🝞 Sublimate.
+  * 🝟 Precipitate.
+  * aaa Amalgama.
+  * 🜄 Water.
+  * 🜂 Fire.
+
+## Table of contents
+
+  * TO THE RIGHT HONOURABLE, ROBERT, Lord Paston, Baron of Paston, Vicount and Earl of Yarmouth.
+  * TO THE READER.
+    * AN EPITAPH UPON The Honourable and Truly Noble Sir Kenelm Digby, Kt. Chancellour to Her MAJESTY THE Queen-Mother.
+  * THE INDEX.
+    * An Explication of the Characters which are used in this Book.
+  * 1\. CHYMICAL SECRETS.
+    * 1.1. How to fix ☽ into ☉ by ☿ and ☿ Precipitate.
+    * 1.2. My Process is such.
+    * 1.3. A Work with ☉ and ☿ that Monsieur Dandre helped to work in Piedmont, in great quantity: Given me by him, June 1660.
+    * 1.4. Some Observations about the said Monsieur Dandre's Work.
+    * 1.5. Monsieur Van Outer's Secret, Physician of Brussels, with ☉ and Butter of Antimony.
+    * 1.6. The Multiplication of the Powder.
+    * 1.7. The Projection.
+    * 1.8. A considerable Work with ☉ and ☿.
+    * 1.9. A Work Copied out of the Original of Monsieur de la Violette's own Hand, whereof he made great Account.
+    * 1.10. Snyder's Secret, as he gave it me himself the 22 of July, 1664.
+    * 1.11. The following Observations are from another Learned Man, with whom Sir Kenelm did confer at his return from Bristol, concerning the said Snyder's Work. Who saith thus.
+    * 1.12. A great Secret of the said Mr. Snyder's Powder.
+    * 1.13. Matthews his Work.
+    * 1.14. To fix ☽ into ☉.
+    * 1.15. An Observation about Volatilised ☽.
+    * 1.16. A Process from Monsieur Vignault, with ☉ and ☿, &c.
+    * 1.17. Fixation of ☽, wrought by Father Bening de Baune, and by him communicated to me.
+    * 1.18. Observations.
+    * 1.19. A 🜄 which changes ☿ as red as Blood, which abideth the Fire.
+    * 1.20. Saunier's Work, as I wrought it.
+    * 1.21. The Danes Work.
+    * 1.22. Opus Magnum ex Virginea Terra.
+    * 1.23. A Miniera of ☉, wrought by a Person of Quality in Champagne.
+    * 1.24. Fixation of ♄ into ☽, with good Profit.
+    * 1.25. To fix ☿ of antimony, or the Common ☿.
+    * 1.26. A Reality upon ☽.
+    * 1.27. Fixation of the ☿ of antimony, as Monsieur de la Noüe wrought it at Paris.
+    * 1.28. Preparation of the Powder, with which Claudius de Montrouge, and Abbot Oberye at Paris fixed ☿ of antimony.
+    * 1.29. A Process to fix the Common ☿ by the Salt of ♄; wrought by Captain Ziegler at Ments, and sent me by him.
+    * 1.30. An A. F. to be used in this Work.
+    * 1.31. A Work upon Cinaber, wrought by Monsieur Sauvage.
+    * 1.32. Tincture of Mars.
+    * 1.33. To fix a quarter part of ☽ into ☉.
+    * 1.34. A Work with Butter of antimony.
+    * 1.35. An Excellent fusible Salt.
+    * 1.36. Another fusible Salt.
+    * 1.37. An Operation with a Martial Regulus of antimony, wrought by Monsieur Toysonnier.
+    * 1.38. Butter of antimony to Extract the Tincture of ☉.
+    * 1.39. To fix ☽ into ☉; given me by an Intimate Friend, who told me that he wrought it as followeth, taking his hints out of Lully's Experiments.
+    * 1.40. Mallus his Process to fix ☽: Wrought by Monsieur Ferrier, and given me by him, 1660.
+    * 1.41. To fix ☽ by a Mercurial Water.
+    * 1.42. Monsieur Bertault's Tincture of ☉ by Venus.
+    * 1.43. To fix ☽ into ☉.
+    * 1.44. Another Tincture of ☽.
+    * 1.45. An Operation with ☉ and ☿ of antimony: Wrought by Monsieur Chambulan, and given me by him.
+    * 1.46. Fermentation.
+    * 1.47. Elixir of antimony, ☉, and ☿.
+    * 1.48. Elixir ex ☉ & ☽.
+    * 1.49. Elixir Album.
+    * 1.50. Elixir Rubrum.
+    * 1.51. The best way to Extract the ☿ of ♀.
+    * 1.52. To Extract ☿ of ☽ or ♄.
+    * 1.53. To make a Minera of ☿ of Antimony, ad Infinitum.
+    * 1.54. Another way to Extract the ☿ of Antimony by an A. R. Given me by Monsieur Carton.
+    * 1.55. To Extract the ☿ of antimony, or of ♄. Wrought several times by Monsieur Van Outre, Physician of Brussels.
+    * 1.56. Butter of antimony without Sublimate, to Extract ☿ of antimony.
+    * 1.57. To Extract the ☿ of antimony with this Butter, proceed thus.
+    * 1.58. Another way.
+    * 1.59. To Extract a ☿ out of ☽.
+    * 1.60. Another way to Extract the ☿ of antimony.
+    * 1.61. Mercury of all Metals.
+    * 1.62. A great Secret, ☿ of antimony, and other Metals, ad infinitum.
+    * 1.63. To prepare the Common ☿, so that it will have all the Qualities and Properties of ☿ of antimony, and will be as Powerful to Volatilize ☉.
+    * 1.64. Another Excellent Preparation and Animation of ☿.
+    * 1.65. Another way.
+    * 1.66. Another.
+    * 1.67. Another.
+    * 1.68. Another.
+    * 1.69. About a particular Spirit of Nitre.
+    * 1.70. An Operation upon ♄: Sent me by Monsieur Boucaud.
+      * 1.70.1. The Philosopher's Epilogue.
+    * 1.71. Quintessence of ♄; the Universal Dissolvent.
+    * 1.72. The Philosophical Aqua Regis.
+    * 1.73. Composition.
+    * 1.74. The said Abbot sent to Sir K. D. also the following Process, which he saith he had from an intimate Friend, who assured him that it was a Reality.
+    * 1.75. The said Abbot sent also the following Process in a Letter from Paris.
+    * 1.76. An Operation upon Jupiter.
+    * 1.77. ☉ & ☽ ex ♃.
+    * 1.78. A short and clear Description of the great Philosophick Stone.
+      * 1.78.1. The first Operation.
+      * 1.78.2. The Second Operation.
+      * 1.78.3. The Third Operation.
+      * 1.78.4. The Fourth Operation.
+      * 1.78.5. The Fifth Operation.
+      * 1.78.6. The Sixth Operation.
+      * 1.78.7. The Seventh Operation
+    * 1.79. A Note from one that wrought the Stone.
+    * 1.80. Lauremberg's Observations upon Angelus Sala his Synopsis of Aphorisms, 1624. in Quarto, pag. 4.
+    * 1.81. Concerning May Dew.
+    * 1.82. Flamel, Artefius, Pontanus, Zacaire, &c. Their Arcanum.
+    * 1.83. To prepare a Ferment or Sulphur of ☉.
+    * 1.84. An Operation that Monsieur de I'Oberye wrote from Monsieur John's Mouth.
+    * 1.85. Venus into ☽: Sent me by Monsieur de Beaulieu.
+    * 1.86. The Multiplication.
+    * 1.87. To fix the 🜹 for this Work.
+    * 1.88. To fix the Arsenick.
+    * 1.89. To fix the Sulphur for this Work.
+    * 1.90. Oyl of ☿.
+    * 1.91. To prepare the ♀ for this Work.
+    * 1.92. To prepare the Salt of Tartar for this Work.
+    * 1.93. To prepare the ☽ for this Work.
+    * 1.94. Transmutation of ☿ into a Regulus.
+    * 1.95. Calx of ☉.
+    * 1.96. A pretty Curiosity, To make Metals Vegetate visibly.
+    * 1.97. To engender Cray-fishes.
+    * 1.98. To make Oyl of Talc.
+    * 1.99. An Excellent Cosmetick prepared out of ☽.
+    * 1.100. Another way to make Oyl of Talc.
+    * 1.101. Another way to make Oyl of Talc.
+    * 1.102. To burn holes in Glass.
+    * 1.103. An Explanation of this Figure.
+    * 1.104. Directions how to Coppel in this Furnace; and first, how to make a Coppel.
+  * 3\. CHYMICAL SECRETS. The Second Part.
+    * 3.1. A Real and True way to Volatilize the Salt of Tartar, and Corporifie Spirit of Wine, as it was wrought by a Noble Person beyond Sea, and by him Communicated unto me.
+    * 3.2. The Dutch-mans Process of Volatilizing Salt of Tartar, and Corporifying Spirit of Wine, is thus:
+    * 3.3. He maketh his red Calx of ☉ thus:
+    * 3.4. Elixir ex vino & Sole.
+    * 3.5. Monsieur Toysonnier wrought thus:
+    * 3.6. The Menstruum Coelicum Exuberatum, to dissolve ☉, and all Metals, and carry them over the Helm. Wrought by Dr. Clodius, and by him Communicated unto me.
+    * 3.7. To prepare a most Excellent Medicine with this Mercurial Water, proceed thus:
+    * 3.8. The Lunary 🜄 of Paradise, or the Coelestial Eagle of the Lunar Sphere, which is Lullys true Spiritual Lunary.
+    * 3.9. Water of Paradise of Saturn, or Iupiters Coelestial Eagle.
+    * 3.10. About Vitrum Antimonii, and the Tincture of it.
+    * 3.11. A white Spirit of Sulphur to dissolve ☽ and ☿; given me by Monsieur Bugneau.
+    * 3.12. An Universal Medicine, from ☉ and antimony, &c.
+    * 3.13. To prepare the ☿ for this Work.
+    * 3.14. To prepare the Tincture of ☉ for this Work.
+    * 3.15. The Dissolvent.
+    * 3.16. To prepare the Spirit of Wine, fit for this Tincture of ☉.
+    * 3.17. A great Corroborant and Sudorifick, wrought by Monsieur Du Closs, Physician at Paris; given me by him the 16th. of August, 1660.
+    * 3.18. His Menstruum is thus made:
+    * 3.19. The Metalline Aureal 🜄, or the Aethereal Aurum potabile, which is a very great Medicine for the Gout: It is the true Hermaphroditick Bath.
+    * 3.20. The Eagles Gluten, or ☿ of the Wise, or Metalline Menstruum; with which and Lions Blood is made the Metalline Stone.
+    * 3.21. Water of Paradise, or of the Hermetick Eagle, whereof are made unheard-of Medicines, and Powders of Projection.
+    * 3.22. Water of Paradise of Common ☿, or Hermes his Eagle, of the Terrestrial and Coelestial ☿.
+    * 3.23. The Antimonial 🜄 of Paradise, or the Hermetick Coelestial Eagle with two Heads.
+    * 3.24. Water of Paradise of Venus and Mars, or ♀. and ♂ Captivated, whence cometh Cupid, or the Solar Panacea.
+    * 3.25. The thrice Noble Water of Paradise, or Apollo Medens.
+    * 3.26. An unheard-of Arcanum, or new and unheard of Lunary, wherewith is made the Elixir, or Metalline Stone.
+    * 3.27. To make the Metalline Stone per se of this Spiritual Lunary.
+    * 3.28. Monsieur Barkly's fixation of Common Sulphur, and the Tincture thereof, which is an Excellent Medicine in all affects of the Breast and Lungs.
+    * 3.29. The Countess of Kents Powder, as it was prepared by Sir Kenelm Digby's Order in his Operatory.
+    * 3.30. A very Efficacious Remedy against the Epilepsie, or Falling-Sickness, wherewith Sir Kenelm Digby Cured a Ministers Son, named Mr. Lichtenstein, at Francfort in Germany, in the Year 1659. to which I was an Eye-Witness.
+    * 3.31. Another for the same.
+    * 3.32. The Preparation of the Silver Pills against the Dropsie, as they were prepared by Sir Kenelm Digby's Order in his Operatory.
+    * 3.33. Directions for the Use of these Silver Pills.
+    * 3.34. Another Drink.
+    * 3.35. Another Experimented Remedy for the Dropsie, whereby several Persons have been Cured, as I have been assured.
+    * 3.36. Another Excellent Remedy against the Dropsie.
+    * 3.37. The Copy of a Letter from Abbot Boucaud from Paris to Sir K. D. wherein he relates in what manner he Cured himself of the Stone, and of a Quartan Ague.
+    * 3.38. A Process, how to make a most Excellent Oyl of Sulphur in abundance; sent also by the said Abbot Boucaud to Sir K.
+    * 3.39. A subtil Volatil Water from Sulphur, which will Dissolve ☉.
+    * 3.40. An Excellent Essence of Sulphur for the Breast, and for the Lungs.
+    * 3.41. An Excellent Elixir of Sulphur.
+    * 3.42. Lac Sulphuris.
+    * 3.43. A great Diaphoretick of Antimony.
+    * 3.44. The Sudorifick Decoction.
+    * 3.45. A most Excellent Medicine against all sorts of Agues and Fevers, &c.
+    * 3.46. A Precious Oyl of Antimony.
+    * 3.47. A most Excellent Panacea of the true Sulphur of Antimony.
+    * 3.48. A great Febrifuge.
+    * 3.49. Another great Febrifuge, which is said to be Riverius his Febrifuge.
+    * 3.50. Another Febrifuge.
+    * 3.51. Another Febrifuge, which is thought to be Riverius his true Febrifuge.
+    * 3.52. A Certain and Experimented Remedy to Cure the Convulsion Fits in little Children; as also for the Epilepsie, the Cholick, and for the Spleen, &c.
+    * 3.53. Sigillum Hermetis, Or, a great and Experimented Medicine, which hath done great Effects in the Cure of all sorts of Agues and Fevers. It was given to Sir Kenelm Digby by an able Physician, who had done Wonderful Cures with it.
+    * 3.54. A Mercurial Liquor with Jupiter.
+    * 3.55. Monsieur C. his Lunary Emetick and Febrifuge, &c.
+    * 3.56. To make a most Excellent Sudorifick of the aforesaid Butter, that will Cure the Leprosie, and the Venereal Disease, proceed thus:
+    * 3.57. An Oyl of ☉, wherewith Monsieur Belieur, a Famous Chirurgeon at Paris, Cured Cancers, all old Ulcers, Cankers, and Venereal Sores, &c.
+    * 3.58. Doctor Havervelt his Remedy, wherewith he Cured the Evil or Scrofulaes, Cancers, and Old Ulcers.
+    * 3.59. Another for the same.
+    * 3.60. A most Excellent Physical Salt, as it was prepared in Sir Kenelm's Laboratory.
+    * 3.61. The best way to make the Spirit of Urine is thus:
+    * 3.62. Sir Kenelm Digby's Excellent Remedy for Tetters, Herps, and Ring-worms, Scabby Itches, &c. as it was prepared by his Directions for his own use for a Tetter.
+    * 3.63. A great Medicine, wherewith Wonderful Cures have been performed to my knowledge.
+    * 3.64. Lapis ignis, for the renovation of Mankind, by the three Principles of Nature, Salt, Sulphur, and Mercury.
+    * 3.65. To make the Salt of Antimony.
+    * 3.66. To make the ☿ of antimony for this Work.
+    * 3.67. Composition of the said Salt, Sulphur, and Mercury.
+    * 3.68. The Marchioness de Beck, her Aurum potabile, which she much esteemeth.
+    * 3.69. Cornachinus his Medicinal Powder, as it was Prepared by Sir K. Digby's Order in his Laboratory.
+    * 3.70. A Laxative and Emetick Cream of Tartar.
+    * 3.71. Another most Excellent Laxative and Emetick Cream of Tartar.
+    * 3.72. The Volatile Salt of Tartar, as I have often made it, which is an Excellent Remedy.
+    * 3.73. A Physical Salt.
+    * 3.74. A Precious Tincture of the Flowers of Antimony.
+    * 3.75. An Excellent and true Tincture of Coral.
+    * 3.76. An Excellent Extract of Mars, for Diarrhaea's and Fluxes.
+    * 3.77. Sir Kenelm Digby's Remedy for the same, as it was prepared by his Order, and much used.
+    * 3.78. Sir Kenelm Digby, his Excellent Plaister of Lead.
+    * 3.79. Dr. Stephen's Plaister for the Gout.
+    * 3.80. A very good Oyntment for the Gout; and the running Gout, Aches, Numbness, and pain in the Ioynts, &c.
+    * 3.81. A Certain and Infallible Remedy to prevent and Cure the Fits of the Gout.
+    * 3.82. Mr. Locher, an Apothecary of London, his Excellent Oyl for Deafness, which he gave to Sir K. D.
+    * 3.83. Another Experimented Remedy for the same.
+    * 3.84. A most Precious Balsam of great Vertue.
+    * 3.85. Laudanum Germanicum: Being a singular Preparation of Matthew's, or Dr. Starky's Pills:
+    * 3.86. The Tincture of Antimony is made thus, according to Basil Valentine.
+  * 4\. Postscript.
+    * 4.1. The Preparation of Sir Ken•lm Digby's Sympathetical Powder, as we prepared it every Year in his Laboratory, and as I prepare it now, is only thus:
+
+[[Page 1]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=9)
+
+## 1\. CHYMICAL SECRETS.
+
+### 1.1. How to fix ☽ into ☉ by ☿ and ☿ Preci­pitate.
+
+HAving Written so many Proces­ses, and made so many Tryals, and heard so many
+Discourses of Learned Men upon this Subject, I will give you an Account of an
+easie Method that I have resolved upon for accomplishing this Work. Namely,
+That all imperfect Metals and common ☿ may be transmuted into ☉ by one and the
+same Me­thod; to wit, by Maturation and Coction, and not by Generation; for
+that which is generated, is no more that which it was be­fore it was
+generated: And that which is [[Page
+2]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=10) Corrupted, is no
+more that which it wa [...] before it was Corrupted.
+
+But the baser Metals, after they are trans­muted into ☽ or ☉ are still Metals
+never­theless as they were before, and the trans­mutation of their kind is
+done by changing their accidental form, not their substantial, the perfection
+whereof is Maturity; for by Maturation the Metal is brought to a highe [...]
+degree of Perfection.
+
+Now, imperfect Metals are Maturated by external heat, which digesteth their
+cru [...] Humidity; yea, ☉ it self may be furthe [...] perfected, and exalted
+in colour, as whe [...] the Stone is made of it, it will communi­cate this
+Maturity to imperfect Metals.
+
+And Common ☿ is extracted out of Me­tals three several ways; namely, by C
+[...]mentation and Digestion, by Fermentation and by Tincture. As for
+Cementation, tha [...] concerneth onely the digestion of ☽ into ☉ but not the
+other too imperfect Metals, no ☿ either, which is crude, and too much ali
+[...] nated from the Maturity of ☉.
+
+By Cementation the Humidity of ☽  [...] brought to Muturity. There are severa
+[...] sorts of Cementation, namely, by Salts, A [...]loms, Vitriols, and
+Metalline-waters: Bu [...] often-times instead of digestion ☽, they bu [...]
+[[Page 3]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=10) it; so
+that this way of making ☉ is with more loss than profit.
+
+But there is no better way than ☿ and red Precipitate, which I have learned by
+the afore-mentioned Operations.
+
+### 1.2. My Process is such.
+
+TAke ℥ij. of ☽, make an Amalgama of it with Mercury by A. F. as you know, wash
+this Amalgama very well in se­veral waters, then press out so much ☿, that
+there remain but ℥iv. of it with the ☽, which maketh ℥vj. in all. Add to it
+℥vi. of good red Precipitate, and grind all to an impal­pable Powder; which
+put into a Matrass, and digest it with a gentle heat in Sand, so that the ☿ do
+not Sublime, but that it may Calcine the ☽, and leave it in Powder, for if you
+give too great a heat, it will reduce the ☽ into a Body.
+
+After three days Digestion, take out your Powder, and grind it as before, so
+that if there be yet any quick ☿, it may be morti­fied. Digest it again as
+before, and with the same degree of heat for three days more; then take it out
+and grind it again, then di­gest it only for two days by four degrees of heat,
+which you must change every two hours, to the end, that by the last degree of
+[[Page 4]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=11) heat all
+the ☿ and ☿ Precipitate may preci­pitate the Powder of ☽, which will begin to
+grow white.
+
+Reiterate the addition of ☿ and ☿ Pre­cipitate in the same quantity as before.
+Di­gest two days more by four degrees of heat, as before, and the Powder will
+grow per­fectly white.
+
+Then by the same Operation reiterated it will begin to be of a Citrine colour,
+and fixed.
+
+And thus by reiterating the Digestions, you may give it what degree of this
+colour you please; for the oftner you digest it with the said ☿ and ☿
+Precipitate, being separa­ted from it again by the last degree of heat, the
+more the Powder will be of a Citrine Colour.
+
+Then melt your Powder with Borax, and you shall have ☽ at 24 Carrats, without
+diminution of the first weight of the ☽ which will be rather increased. All
+may be ac­complished in the space of One and Twenty days.
+
+[[Page 5]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=11)
+
+### 1.3. A Work with ☉ and ☿ that Monsieur Dandre helped to work in Piedmont,
+in great quantity: Given me by him, June 1660.
+
+MOnsieur Dandre saith, he wrought thus: Make carefully an Amalgama of ℥j. of ☉
+in Calx, with 7 or 8 of Purified ☿, then squeeze out so much ☿, that their
+remain ℥iij. of ☿, and so there be ℥iv. in the Globe: To this add ℥j. of
+Sulphur-vive, which is clear and transparent in pieces, (in Italy, where he
+wrought this) and grind all very well toge­ther, (in this consisteth the main
+part of the Secret, for at every time you are to em­ploy three or four hours
+in grinding) then put the Matter into a Matrass, and give a gentle heat, the
+Glass unstopped, till the moisture and smoak is exhaled out. Then let the Fire
+go out, and when the Matrass is cold, seal it Hermetically, and set it to
+Sub­lime by degrees of Fire, till all that will, be Sublimed, which will be
+done in 20 or 24 hours. Then the Vessel being cold, break it, and take out the
+Matter, and grind all together a long time, both that which is Sublimed, and
+that which is in the bottom, adding ℥j. of new Sulphur-vive, then Sub­lime in
+the same Method as before; repeat this seven times at the least, adding ℥j.
+[[Page 6]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=12) of
+Sulphur-vive every time, and the mat­ter will become a brown yellowish reddish
+Powder, which will be very fusible, and even in the grinding it will relent,
+as though it grew moist: You will have ℥iv. of fixed Matter, which project (in
+parcels) upon ℥x. of ☽ in good Fustion, then put it to the Coppel, and
+separating 🜄 and you shall have ℥iv. of pure ☉.
+
+You can work but ℥j. of ☉ in one Glass, but you may put fifty, or more Glasses
+in one Sand Furnace with a large Bason of Copper in Sand.
+
+### 1.4. Some Observations about the said Monsieur Dandre's Work.
+
+THE Operation was made in an Atha­nor, with the Registers at the end, the hole
+through which the heat was communi­cated, was about the bigness of a brick,
+the plate which held the Sand was of Iron, and contained 32 Matrasses, sixteen
+on every side: The Tower was in the middle, where­in the Coals sunk down by
+degrees. They did not mix the Powder with Wax, nor any thing else in
+projecting, but only wrapt up in Paper, it did enter, and disappear
+im­mediately without smoaking. The Matrass ought to have 2 third parts empty.
+
+[[Page 7]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=12) The
+Amalgama was made thus: They took ℥ix. of ☿ and heated it in a Crucible, until
+it begun to smoak, then they set it upon hot Ashes, and cast therein ℥j. of
+Du­cats cut in small pieces, and made hot in a Crucible, then stirred it until
+the ☉ was swal­lowed up by the ☿: Then took it off, and let it cool. They did
+not wash the said Amalgama: They used common ☿ only mixed with Quick-lime, and
+then Distilled in a Retort.
+
+The Sulphur was transparent and yel­low like Amber, in pieces, and to be had
+at Carmagnole, Turin, Cony, Mondevic, Saluce, Genes: It is a Sulphur-vive,
+cost four, five, or six pence a pound. The Sand they used was round River-
+sand, and the Matrass was never red in the Sand: They never put above ℥j. of ☉
+in one Matrass, nor never above ℥x. of ☽ at every Pro­jection.
+
+(Hartman.) These Observations were communicated to Sir Kenelm by Abbot
+Bou­caud, but the Process was written by Sir Kenelm himself from Monsieur
+Dandre's mouth.
+
+[[Page 8]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=13)
+
+### 1.5. Monsieur Van Outer's Secret, Physician of Brussels, with ☉ and Butter
+of Anti­mony.
+
+TAke equal parts of  (antimony) Mineral, and ☿ Sublimate, and a little Sal
+armoniac, make Butter thereof: Draw the Spirit from this Butter, which
+rectifie again. (Note, that this Butter, being exposed to the Air, draws from
+the same what it needeth in an hourts time, and thereby is much increased in
+quantity: That which it draws is the hid­den Food of the Life of Man, and all
+the Beings in the World. And this Butter is the true Magnet which draws it in
+its purity.) Then put this Spirit into a Glass Cucurbite, of a convenient
+bigness, fit a Head to it with Limbec and Receiver; lute well all the
+junctures, and put it thus to putrifie in Ashes for two Months, in which time
+the Matter will become as red as Blood, and afterwards very black, sticking to
+the sides of the Ves­sel like glutinous Soot, and the Ethereal Spi­rit
+ascendeth and passeth into the Recipient in form of a Spirit, and in Body of
+fusible Salt, whereof you must also draw the Spirit, and separate them by
+Distillation with a very gentle fire, until you see a red and sparkling fire
+upon the Matter, which is a sign of its [[Page
+9]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=13) Maturity, and
+that you have obtained the Philosophical ☿, which is the true Univer­sal
+Dissolvent, then let it cool. That which resteth in the bottom of the
+Cucurbite, is the Terra damnata.
+
+Take ℥vj. of this Menstruum, and put it upon ℥j. of ☉ in very thin plates,
+which will speedily as dissolved, and they will unite in­timately, as being of
+the same Nature. You must take great care that you lose nothing of the
+Spirits; it must be done in a Matrass with a Glass stopper, exactly fitted;
+and being well sealed and luted, digest it with a Lamp fire, with a very
+gentle heat in the begin­ning. After fifty days digestion, you must feed and
+imbibe your Matter with the said Menstruum, whereof you must have store, for
+to multiply your Work. So soon as you have put in the said Dissolvent, you
+must stop it again immediately, and seal it as be­fore, then digest fifty days
+more, the heat a little increased; which time being ex­pired, you must again
+feed your Matter with the Virginal Milk a little more than the first time,
+continuing the digestion, the heat a little stronger. Re [...]terate the
+Imbibition seven times, and your Matter will become more vigorous, and will be
+able to bear stronger Food from time to time, and to bear stronger heat, which
+nevertheless must [[Page
+10]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=14) not be hastened,
+but well governed, after the Example of the Operation of the Rays of the Sun
+in the Spring and Summer, for the Nourishment and Maturation of Vege­tables.
+But you must observe, that at the two last imbibitions, there must be but 35
+days distance from the one to the other in­stead of 50 before. At the five
+first imbi­bitions you shall see from time to time the wonderful effects of
+Nature, by the internal vertue of the Matter, and by all the Signs written in
+Flammel, La Tourbe, Le Rosaire, or Iubilation of the Soul, and in all those
+Authors that have possessed this rare Know­ledge, which will appear
+infallibly; to the proportion whereof you must increase the fire, and that is
+left to the discretion of the Operator. You must observe, that as the Matter
+multiplieth in vertue and quantity at each imbibition, and always more and
+more, it might become so fusible, that at last it might penetrate the Glass;
+so that if you judge convenient, you need not imbibe quite seven times, that
+you may run no hazard; for you may afterwards multiply the Pow­der in the same
+manner, and carry it ad in­finitum. And to perform all this, there needeth no
+more than about nine Months time, and without much trouble or care.
+
+[[Page 11]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=14)
+
+### 1.6. The Multiplication of the Powder.
+
+TAke ℥j. of the Powder to ℥iij. of ☉, melt them together, and leave them until
+all be reduced to a Powder, which will be done in three days at the most; and
+thus you may carry it ad infinitum, and that which is made thus, hath the same
+vertue as the first.
+
+### 1.7. The Projection.
+
+TO Project upon ☿ you must heat it in a Crucible, until it cast a black smoak,
+then cast one grain of the said Powder upon ten or twelve Ounces of ☿. And
+projecting upon other Metals, they must be in fusion, and they will render in
+proportion accord­ing as they abound in ☿.
+
+### 1.8. A considerable Work with ☉ and ☿.
+
+TAke ℥viij. of ☉, melt it in a Crucible with three times as much Tin-glass,
+mix them well together, then cast it out, and beat it into as small pieces as
+you can: Take three times the weight of your mixture of good Sublimate, which
+put in the bottom of a large Cucurbite, and upon that put the said mixture;
+set the Cucurbite in an Earthen [[Page
+12]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=15) Pot, which put
+into an Iron Pot with Sand; fit a head with a Limbeck and Receiver to it, lute
+all well, and give a gentle heat at the beginning for two hours; then increase
+the heat by degrees, at last a very violent fire of reverberation, during
+eight hours; then let it cool, and open the Vessel, and you shall find your
+Tin-glass in the Receiver in the form of Crystals, with the Sublimate, and the
+☉ will remain in the bottom of the Cucurbite, in the form of light dry
+Flowers, very fair to behold, and will be much opened and attenuated.
+
+Dissolve this ☉ in eight parts of A. R. Distill it off, and put the same
+quantity of new A. R. upon it, and Distill it off as be­fore. Repeat this
+three times, at the third time the ☉ will be so opened, that it will ascend
+with the water, and stick to the sides of the head of the Alembick; so the
+same will seem to be full of golden Stars.
+
+Dissolve this ☉ again in eight parts of A. R. Dissolve also by it self twelve
+Marcs of ☿ in A. F. Put these two dissolutions to­gether, and let them stand
+to settle 24 hours, the ☉ and ☿ will be precipitated indistin­guishible, in
+the form of a black Spunge, and will be essentially and radically U­nited.
+
+Distill off the water to dryness, you will [[Page
+13]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=15) find at the
+bottom a gray Powder, which take out, and put it into a Matrass, and pour upon
+it good Oyl of Vitriol, so much as may cover it the breadth of four fingers;
+Seal it herm [...]tically, and digest for twenty days. Then open the Matrass,
+and let the humidity exhale by a strong heat in Sand: Break the Glass, and
+grind the Matter with a little Borax, then melt it, and you shall have at
+least eleven Marcs of ☉ (a Marc is ten Ounces.)
+
+Monsieur Carrier gave this Work to his Uncle, Monsieur Ferrier, having had it
+from an intimate Friend of his, who had arrived to great Wealth by it.
+
+Hartman.) The said Monsieur Ferrier did communicate this Process to Sir Kenelm
+at Paris, 1660. when he returned from Ger­many, at the time of the Kings Happy
+Re­stauration.
+
+### 1.9. A Work Copied out of the Original of Mon­sieur de la Violette's own
+Hand, whereof he made great Account.
+
+TAke ℥iiij. of the purest and finest ♃, and ℥viij. Spanish ☿ purified with
+Salt and Vinegar, make an Amalgama. Then take red Minium and Aes stum of each
+℥iiij. Danzick Vitriol lbj. reduced to half a lb. [[Page
+14]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=16) by Calcination,
+grind and mix these all well together, and put them into a Retort coated, and
+pour upon it one pound and a half of the following A. F.
+
+Take Vitriol two pound, which reduce to one lb. by Calcination, which put into
+a Retort, and pour upon it a good A. F. made of Vitriol and Nitre, Distill it
+S. A. and you shall have an A. F. fit for this Work, which having poured upon
+the said Matter, Distill it off, and it will be very ponderous. Break the
+Retort (being cold) and you will find on the sides of it, and up­on the Caput
+Mortuum, a very red and pon­derous Sublimate, which take off.
+
+Take the half of the Caput Mortuum, and as much of Bay Salt decrepitated,
+re­duce all to a fine Powder with the said Sub­limate, and then put all into a
+new Retort, and pour upon it the Distilled A. F. Distill it as before, and the
+said A. F. will come off very red, and the Sublimate will be more red, and
+more ponderous than before, and will rise very high at this time. Keep this
+Water very carefully, break the Retort, and take both the Feces and Sublimate,
+and re­duce it to Powder, and Sublime it by it self without A. F. and the
+Sublimate will mount but upon the surface of the Feces, which separate, and it
+will have acquired more [[Page
+15]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=16) redness, and
+will be almost fixed. Put this Sublimate into the said A. F. and it will
+dissolve it speedily: Distill or evaporate the A. F. in Sand, and the
+Sublimate will re­main in the bottom like a deep-red Oyl. Put into this Oyl
+℥iij. of the fixed Sulphur of Vitriol, made according to Art; put it into a
+Matrass with a short neck, and digest in Sand, until all the moisture is
+exhaled.
+
+Then take an Amalgama made with one part of ☉ and two parts of ☽ Calcined with
+Salt, and four parts of Spanish ☿ (washed with Salt and Vinegar;) then squeeze
+out so much ☿ as you can from the Amalgama, then wash and dry this Amalgama,
+and pour upon it by little and little of the above-said A. F. let it stand
+half an hour, then pour on more of the Water as before, and you will see the
+Amalgama dissolve visibly, and will be reduced to a very red Powder.
+
+Note, that once in half an hour you must pour on some of the said Water, and
+all will be done in less than half a day. Digest it half a day longer in Sand;
+then break the Vessel, take out this Precipitate, and melt it with a little
+Borax, and you shall have ☉ at 24 Carats.
+
+Note, that if you take equal parts of ☉ and ☽ to your Amalgama, you shall have
+in­crease yet fourty or fifty per Cent. more.
+
+[[Page 16]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=17)
+
+### 1.10. Snyder's Secret, as he gave it me himself the 22 of July, 1664.
+
+TAke Nitre eight parts, Sulphur four parts, and Tartar two parts: Reduce all
+into a fine Powder, and mix them well. Then melt one part of pure ☉ and three
+parts of purified Regulus of Antimony, in a Crucible; than add to them three
+parts or more of the said Powder, let it stand in the fire until you see a
+light Skin upon it, then pour it into an Antimony-horn. Take the Regulus in
+the bottom of the Horn, and melt it again, and cast more of the said Powder
+upon it: Repeat this so often until all the Regulus be consumed; dissolve all
+the scums of the said Regulus, and make a laver thereof, which filter, and
+precipitate with an Acid, which edulcorate; edulcorate also the Feces which
+remained in the filter, put these things edulcorated together, with half the
+weight of Flowers of Sulphur, and cal­cine them well: Then draw the Salt from
+it with distilled Vinegar (which will be a gol­den Salt) draw as much of the
+said Salt from it as you can.
+
+Take one part of this Salt, and two or three parts of good Butter of Antimony
+well rectified, mix them well in a Matrass, one [[Page
+17]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=17) part filled, and
+the other two parts empty: Seal it Hermetically, and digest it with a gentle
+heat; it will grow black and putri­fie in the space of three days; continue
+the digestion until the Powder be fixed.
+
+### 1.11. The following Observations are from another Learned Man, with whom
+Sir Kenelm did confer at his return from Bristol, con­cerning the said
+Snyder's Work. Who saith thus.
+
+THis Operation may be abbreviated, in fermenting it with ☉ as followeth: Make
+a Spirituous Regulus of  (antimony), as you know, which is precipitated Butter
+of  (antimony) and ☿, adding to them Soap and Salt of Tar­tar. Take of this
+Spirituous Reg. three parts, and one part of ☉, melt them toge­ther, and cast
+it by little and little into the Sulphurous Salt Enixe, & totus solvetur,
+effunde, solve, filtra, precipita totam mate­riam in Sulphur pulcherimum:
+Reverberate this Sulphur with flowers of Sulph. or if you will, dissolve it
+again, and precipitate; draw the Salt from this Sulphure with di­stilled
+Vinegar; add to this Salt or Golden Vitriol, three times its weight of Butter
+of  (antimony); digest them together (donec cessent co­lores.) You may
+multiply the Work in qua­lity, [[Page
+18]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=18) in dissolving
+the Powder in Salt Enixe, and Precipitating often: And you may mul­tiply it in
+quantity, in mixing it with new Butter of  (antimony), wherein you have
+dissolved the said Salt, or Golden Vitriol. Note, Tha [...] this Work will be
+more excellent if it b [...] done with ☿ of  (antimony), and Spirituous Reg.
+[...] may be also abbreviated in purifying very well the Butter of
+(antimony). Note, That th [...] Work is a Mineral water, which is coagu­lated
+by its own Sulphur. Note also, Tha [...] if you take the Golden Sulphur
+without Reg [...] the work will be yet shorter: Note, Th [...] in the
+Multiplication, if the Powder onl [...] be dissolved in Butter of  (antimony),
+the Operatio [...] will be shorter.
+
+### 1.12. A great Secret of the said Mr. Snyder's Powder.
+
+DIssolve ☉ in Sal Enixe, and exalt  [...] with Sulphur of  (antimony), then
+cast in conu [...] in salem rubicundum; (see that no Coals fa [...] in.) Keep
+the Salt so long in the fire, th [...] it remain fusible: Grind it, and let it
+me [...] in a Matrass; add a grain or two of th [...] Powder, let all melt in
+a strong fire twel [...] or twenty hours, and this Powder will b [...]
+multiplyed; pour out, dissolve, and filte [...] put therein ☽ and ☿, they will
+be transm [...]ted into fine ☉.
+
+[[Page 19]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=18) Or,
+Precipitate the Liquor with Salt into a Golden Sulphur, which digest longer
+with Butter of  (antimony). Or, preserve the Sulphur, and ferment it again
+with dissolved ☉, as is said, in Salt Enixe, and in a Matrass, that the Powder
+may go ad infinitum.
+
+### 1.13. Matthews his Work.
+
+TAke Common Cinaber ℥xij. Crystals of ♂ ℥ij. Common ☿ Precipitate, made by A.
+F. and reverberated until it be red, ℥j. Oyl of Vitriol ℥xv. First, reduce the
+three hard Ingredients into a most fine Powder; then grind it upon a Marble
+stone with a lit­tle of the Oyl of Vitriol, adding the said Oyl by little and
+little, until it become like Pap; which put into a low Cucurbite (ta­king care
+that it do not touch the sides of the said Cucurbite, because it would
+endan­ger it to break) and put upon it the rest of the Oyl of Vitriol, and
+stir the Matter well with a stick of Glass (which must be massy and not
+hollow) that all may be well mixed together; digest it with a gentle heat for
+eight days, so that nothing may go over through the Limbeck: Then distill as
+much as you can of the Oyl of Vitriol, and take the Matter out of the
+Cucurbite, and grind it again; put the distilled Oyl upon it again, [[Page
+20]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=19) and distill as
+before, without digesting it; repeat this fourteen or sixteen times. At last,
+distill as much of the Oyl as possibly you can; and that the remaining Matter
+may be thick, and conveniently handled, put into it ℥v. or vj. of filings of
+☽. Then melt twenty Ounces of ☽, and project your Matter upon the same (being
+in fusion) in fifteen or twenty parcels, staying every time, before you
+project until that which you pro­jected be well entred and incorporated with
+the ☽, and that it be very clear: After all is projected, leave it in good
+fusion for an hour or two; then put it to Coppel, and af­terwards to
+Separating 🜄, and you shall have about ℥jss. of pure ☉.
+
+The Crystals of ♂ are made thus:
+
+Upon filings of ♂ put Oyl of Vitriol, then pour common 🜄 upon it, and the
+fi­lings will dissolve; filter the dissolution, and evaporate the Liquor usque
+ad pelliculam; set it in a cold place, and it will shoot into Crystals, which
+require no further Purifica­tion.
+
+The Oyl of Vitriol for this Work is made thus: Take Danzick Vitriol, dissolve
+it once in 🜄, filter and congeal it; then Calcine it gently, until it be
+white: Then distill it in Retorts S. A. forcing it very strongly at last.
+Dephlegm this Oyl in a low Cucur­bite, [[Page
+21]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=19) and that which
+remaineth in the Cucurb. (which will be of a dark red) must be pas­sed through
+a filter of wool in a Glass Fun­nel, and the wool will imbibe the unctuosity
+of the Oyl, which if it were not separated from it, might hinder its
+Operation.
+
+### 1.14. To fix ☽ into ☉.
+
+THE 15th. of November, 1660\. Mon­sieur Iohn Commandaire told me, that Signeor
+Lucca (from whom he now came) had taught him a shorter, and easier way of
+doing his work, thus:
+
+Take the Mother-liquor of Salt-petre, (which is the salt 🜄 that remaineth
+after as much is shot into Nitre as will shoot) and let it run once through a
+filter of washed Sand to purifie it; then evaporate it to dry­ness: Grind the
+remaining Salt very fine, and set it in a Cellar, or other moist place to
+dissolve into 🜄 by the Air; filter that by a woollen Languette, coagulate,
+grind, dis­solve, and filter it. Repeat this seven or eight times, that all
+foulness may be severed from this fixed Salt of Salt-petre. Then it will
+easily give its pure Spirits, and not be­fore. Put this into Retorts, not
+above half a pound into each Retort; distill first with very gentle 🜂,
+increasing it by degrees, at [[Page
+22]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=20) last, strong 🜂,
+as when you distill A. F. The distillation will be performed in twenty four
+hours: Then dephlegm it carefully; when the drops come Acid, cease. In the
+mean time purifie the fixed Salt remaining after the distillation, by grinding
+it small, dissolving in humido, filtring, and congeal­ing. Repeat this twice
+or thrice; then put one part of this fixed Salt to three parts of the Spirit,
+and to this Composition put a tenth part of pure ☉, and though it were in an
+Ingor, it will dissolve it speedily. Pu [...] this into an Egg, and Seal it
+Hermetically, and digest it, it will putrifie, and grow en­tirely black; then
+pass all the due colours, during which time increase the heat by de­grees, and
+when it requireth strong heat, use Coal.
+
+### 1.15. An Observation about Volatilised ☽.
+
+MOnsieur de L'oberie, and Mons. de l [...] No [...]ë wrought the first Process
+upon ☽ (which is after those upon ☉) that is in the handgrif of Bas. Valent.
+which maketh the fourteenth Book of his Test. But instead of a due Calx of ☽,
+they took one made with A. F. (the ordinary made of Vitriol and Nitre) and
+Precipitated it with Salted 🜂 (Salt dissolved in Common 🜂) and for [[Page
+23]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=20) the rest, did as
+the Process teacheth; which was Reported to me thus. Put upon this Calx of ☽
+(they had ℥iv.) (after it is well dulcified by often ablutions with fair 🜄,
+till no Saltness or Spirits appear to remain) so much fresh A. F. as to swim
+four fingers breadth over the Calx of ☽: Distill off the A. F. then cohobate
+again; do thus four times: At the last distillation give strong 🜂, you will
+have a gray substance like Mar­ca [...]ite. Beat it to Powder, and put
+distilled Vinegar upon it, to swim four fingers over it; digest two days, then
+boyl it three or four hours, after which, distill away all the distilled Vin.
+and there should have remained blew Crystals, but they were white without
+tincture: So having failed in their expecta­tion, they would reduce their ☽
+back in a body, therefore dulcified it well with distil­led Vinegar and fair
+🜄, and put it into a Cruc. to melt with a little Borax, and a little Nitre,
+and a thick smoak flew away, and in the end there remained but ℥ij. of ☽.
+
+Consider, if this course, and, if need be, digesting longer (at last) with
+distilled Vi­negar and Oyl of Tartar, 🜹, and Salt of Urine, &c. Then
+distilling with Tartar and Calx-vive, might not make ☿ of ☽.
+
+[[Page 24]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=21)
+
+### 1.16. A Process from Monsieur Vignault, with ☉ and ☿, &c.
+
+TAke ℥j. of ☉, aaate it with ℥iv. of ☿; grind this aaa, and[?] wash it well:
+Then put it into an earthe [...] Pot with its cover to shut it very close,
+which cover must be like a Funnel at the top [...] Put it to a gentle 🜂 in
+Sand for twenty four hours, then give it a strong 🜂 for twenty four hours
+more, that the Matter may ascend and descend; then take out your Matter
+(loosning it from the bottom where it sticketh fast) and grind it, and aaate
+it again with the same ☿, and proceed all as before. Repeat this Work six
+times, always with the same ☿, which by degrees will become Earth, and will
+stick no more to the bottom; you must leave it in Sand every time twenty four
+hours before you grind it again; after the sixth time give it strong 🜂, so
+that it may be red-hot in the Sand for fourty eight hours, and it will be a
+red Powder, which multiply by mixing with it its weight of ☿, grinding and
+di­gesting it as before; and in three times twenty four hours it will be in
+Powder; and if you will multiply it again, proceed as before, with equal
+weight of ☿. And to make it into a Tree, do thus: When you have made [[Page
+25]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=21) the aaa, and
+ground and washed it, then put it into a Matrass, which stop only with Paper;
+then digest it continually, and the said ☿ will ascend and descend: And when
+you see that at last it becomes hard and heavy, sticking to the neck of the
+Matrass, put it down with a Quill, and it will become a Tree, which will be
+red. Note, That your ☿ must be well purified first, and then sub­limed with ☉
+and ☽, taking ℥ij. of ☉ to one pound of ☿, for it will be much the better, and
+will be sooner done. If you mix ℥ss. of ☉ with ℥ss. of the said Powder, and
+grind it well with ℥ij. of ☿ revived from Cinaber, and animated with ☉, as is
+said, and digest it fourty eight hours, you will do more in fifteen days, than
+otherwise in two Months, and the ☉ will not stick to the bottom of the Pot:
+You must continue the digestion as is said above, and at the end strong 🜂.
+The ☉ will serve for to animate the ☿, and to melt it, and reduce it into a
+Calx, for to aaate it with animated ☿, ta­king ℥j. of ☉ to four of ☿.
+
+[[Page 26]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=22)
+
+### 1.17. Fixation of ☽, wrought by Father Bening de Baune, and by him
+communicated to me.
+
+FIrst, he animated Common ☿ for this Work, thus:
+
+Take ℥iv. of Common Sulphur, melt it in an Earthen Poringer, then cast into it
+by little and little lbj. of ☿ (purified with Salt and Vinegar, and squeezed
+through Chambo-leather) stir it continually; then take it from the fire, and
+keep it stirring untill it is reduced to a black Powder, which grind, and add
+to it lbj. of  (antimony) in Powder, and lbss. of Quick-lime also in Powder;
+mix all toge­ther, and put it into a coated Retort, of such a bigness, that a
+third part may re­main empty. Distill it, and let the Nose of the Retort lye
+in a Poringer full of 🜄, distill by degrees of 🜂, as you do A. F. the ☿ will
+distill into the 🜄: Mix this ☿ again with new Materials, and distill as
+before. Repeat this Operation with the said ☿ seven times, every time with new
+Materials.
+
+Take of this ☿ ℥iv. aaate it with ℥j. of ☉; wash the aaa so often, that the 🜄
+come from it clear, then dry it. Put this aaa into a Matrass, and digest
+twenty four hours in Ashes: Then take it out, and grind it [[Page
+27]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=22) in a Glass
+Morter, and add to it ℥xx. of the said ☿; grind them well together, then wash
+it and dry it, and put it into a Retort, and distill over all the ☿ in Sand.
+
+Take ℥viij. of this ☿, aaate it with ℥j. of a light Spungy-calx of ☉; wash
+this aaa well with warm 🜄, then dry it, and put it into a Matrass; Seal it
+Hermetically, and digest it in Sand the space of twenty four hours: Then grind
+it again with ℥viij. more of ☿, and digest as before. Repeat this Operation
+once more with ℥viij. more of ☿, so that there be ℥xxiv, of ☿ to one of ☉. Put
+them into three several Matrasses, which Seal Hermetically, and put them to a
+sup­pressing heat in an Athanor, for the space of two Months: Then put all
+into a Retort, and distill it in Sand, with a heat of Sup­pression, so that
+the 🜂 above be stronger than that below, and if any of the ☉ remain in the
+bottom of the Retort, you must aaate it with twenty four parts of ☿, and
+distill it as before, until all the ☉ be distilled over. Repeat the same as
+before, untill the ☉ hath taken in sixty parts of ☿, and if it taketh but
+twenty four of ☿, the ☉ will be better, and your ☿ will be animated.
+
+Take ℥j. of Calx of ☽, and three or four of your ☿ animated, aaate them
+together, wash the said aaa with warm 🜄, then divide [[Page
+28]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=23) it into two
+parts, and put them into two Matrasses; Seal them Hermet. and digest in an
+Athanor with very gentle heat for fourty or fifty days, then increase the heat
+for fourty or fifty days more: Then continue the di­gestion with the third
+degree of heat (stron­ger yet) unto the end of eight Months, counting the time
+of the first and second de­gree already past. Then digest a Month longer by
+the four degrees of 🜂, which will make it nine Months in all.
+
+The Calx of ☽ is made of equal parts of ☽ and Regulus of ♂ melted together,
+and re­duced to Powder. Note, that the Reg. is not to be reckoned; so that you
+must take ℥ij. of this Powder.
+
+### 1.18. Observations.
+
+THE Athanor was of a digestive Fur­nace, with a Tower for the Coals, and
+between both, there were two Registers of heat, the one gave the heat under
+the Ves­sels, and the other above: The Matrass stood in Sand in a Bason of
+Copper, which held ten or twelve Matr. At the beginning the 🜂 was given only
+below, and so gen­tle, that the ☿ never Sublimed. The Bason with the Matr. was
+covered with a cover like a Dome, and after that the heat was given [[Page
+29]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=23) also above, and
+that stronger than before: And it ought to be always continued with­out
+interruption. After nine M. digestion, all the ☽ will be transmuted into ☉,
+and be­sides that, you shall have an augmentation of a third part of ☉.
+
+Note, That you must not put above ℥ij. of Matter into each Matrass.
+
+The ☉ which he used in this Operation, was three times purified by
+(antimony).
+
+He told me since, that the greater pro­portion of Reg. you put to the ☽, the
+better your work will succeed, and you shall have the more ☉, and the sooner.
+
+Hartman.) The said Father B. de B. was the Apothecary in the Convent of the
+Capu­chins at Lyons: He was an able Chymist, and had been for some Years
+Operator with the Chancellor of France, in his Laboratory. When I went from
+Paris to Italy, after Sir Kenelm's Death, passing through Lyons, I went to see
+him in the Convent of the Capu­chins, where I had some Discourse with him
+concerning this work; he confirmed it to me, assuring me that he had done it,
+and that it was a real truth, and that is all I know of it.
+
+[[Page 30]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=24)
+
+### 1.19. A 🜄 which changes ☿ as red as Blood, which abideth the Fire.
+
+MAke an A. F. of equal parts of Vitriol and Nitre, which cohobate and di­still
+three times upon its Caput Mort.
+
+Take of this A. F. ℥iij. ℥j. of ☿, and ℥ij. of Sulphur-vive; put all into a
+Retort, let it stand twelve hours, then distill it, and co­hobate so often,
+till you see the ☿ as red as Blood, which will be in five or six times; then
+bring it into a Powder, which imbibe with Oyl of Roman Vitriol, dry and imbibe
+it three times: Then divide this Powder into eight payts; then take ℥j. of ♄,
+which put to Coppel, when it boyleth, put into it a Ducat of ☉, then put into
+it one of the eight parts. Drive it off, and you shall have ℥j. of fine ☉.
+
+Hartman.) This Process was written in the French Tongue; at the bottom was
+writ­ten Probatum, the 2d. of July, 1658. The Process saith, it must be done
+on Thursday and Friday, and at the Full of the ☽.
+
+[[Page 31]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=24)
+
+### 1.20. Saunier's Work, as I wrought it.
+
+PUrifie ☉ three times by  (antimony); then reduce it into a subtil Calx, by
+Calcining it five times with Sulphur and ☿: Then burn S. V. upon this Calx,
+and reverberate it again, that all the extraneous Spirits may be driven away.
+
+2\. Sublim ☿ seven times with Vitriol and Salt, reviving it with filings of ♂
+after every 🝞mation.
+
+3\. Make an A. R. S. A. out of the fixed Salt, after the extraction of Salt-
+petre, which after some days must be dephlegmed with great care, and
+rectified, so that it have neither phlegm nor terrestrial feces.
+
+Dissolve ℥j. of your ☉ in as small a quan­tity of this A. R. as you can,
+keeping the Vessel well Sealed (and therefore it ought to be large) in a very
+gentle heat in B. M. where it must be digested (after the dissolu­tion) for
+some days: The dissolution being very clear, decant it from the white
+re­sidue.
+
+Dissolve ℥ss. of fusible Salt in as small a quantity of the said A. R. as you
+can (which is not done suddenly, but by digestion) and being clear, mix these
+two dissolutions to­gether, namely, that of the ☉, and of the [[Page
+32]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=25) Salt, and if any
+thing 🝟tate to the bottom, keep it in digestion with a gentle heat (the
+Vessel close stopped) until all is dissolved and clear; then keep it in the
+same digestion for fifteen days. Then with a very gentle heat abstract the
+phlegm, until a Spirit ascend; then cease, and put into the Vessel ℥ss. of the
+🝞mate before mentioned (in very subtil Powder) shut the Vessel again
+immediately, and put it in digestion as be­fore, until the 🝞mate is well
+dissolved. Then dephlegm again the dissolution; in do­ing of which you ought
+to attend very di­ligently, lest there come over some part of the ☉ and ☿,
+which now easily will be raised with the A. R. And this you may know, not only
+by the drops falling yel­low, but also by trying with a white wool­len cloath,
+which the drops will stain yellow if the ☉ ascendeth. Then Seal it
+Herme­tically, and digest in Horse-dung: After six Months we opened the
+Vessel, and with a gentle heat distilled off the Liquor, and the remaining
+Golden Salt we projected upon restricted ☽, and for ℥j. of ☉ we had seven.
+Another Vessel, after twelve Months dige­stion, rendred ℥x. of ☉ for one put
+in: And so to two and twenty for one.
+
+I do not remember all the time precisely, but I should think, it would be
+better, after [[Page
+33]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=25) sufficient
+digestion in Horse-dung, to coagu­late the Matter in dry heat until all be
+com­pleatly fixed, and then multiply the Matter by the same Process, as you
+did with ☉.
+
+The fusible Salt is made thus: Dissolve Salt (first well purified) in the said
+A. R. distill and cohobate until it is fusible.
+
+The restriction of ☽ you will find in a Book Published by Iohn Saunier, which
+he calleth, the almost fixation of ☽, because it hath the weight and sound of
+☉.
+
+Hartman.) This Process was wrought by Sir K. D. himself, as the Title sheweth;
+it was written in Latine in his own hand, and the words are his own.
+
+Abbot Boucaud told me at Paris, that he knew Sir K. had wrought it.
+
+### 1.21. The Danes Work.
+
+CAlcine plats of ♂ and ♀ with Sul­phur; then grind them to subtile Powder,
+which boyl in 🜄, filter and eva­porate, usque ad pelliculam, and put it to
+Crystallize in a cold place: Then purifie these Crystals by dissolving them in
+🜄, fil­tring and evaporating.
+
+Make also a Sulphur of the said Metals, by boyling Plats with Vitriol and 🜄
+in a Kettle, and the Sulph. will adhere to the Plats.
+
+[[Page 34]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=26)Purifie ☿
+first by Dist. and then by boyl­ing it in an Earthen Pot with Vitriol, Ashes,
+and Powder'd glass well mixed together, and boyled until you see the ☿ appear
+upon the Surface of the Matter: Then let it co [...]l, and grind all well
+together again, and boyl it as before. Repeat this three times: Then take of
+this ☿ four parts, of the Sulph. of ♂ and ♀ ana one part, grind them well
+to­gether until they be well incorporated; then 🝞m and grind again what is
+🝞med with that which remained in the bottom, and 🝞m as before. Repeat this
+seven times: Then is the ☿ prepared for this Work.
+
+Distill an Oyl s. a. out of the Vitriol of ♂ and ♀ joyned together, which will
+be Blood-red.
+
+Make a light and Spungy Calx of ☉, by Calcining it four or five times with
+Sulphur and ☿. Take of this Calx ℥j. and of the ☿ prepared ℥iv. Make an aaa,
+which grind very well; then add of the Sulphur of ♂ and ♀ ana ℥ss, grind them
+well together with the aaa; then put it into a Matrass of such a bigness, that
+three fourth parts may remain empty, stop it slightly with Paper, that some
+moisture from the ☿ may exhale, (which otherwise might hinder the 🝟tation of
+the ☿) give 🜂 by degrees, first in Ashes, and then in Sand, but so gentle,
+that the ☿ [[Page
+35]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=26) may never rise,
+but that it may be always in a disposition to 🝞m, which you may know by a
+little Cloud upon the sides of the glass, such as appears when one breatheth
+upon a Looking-glass.
+
+The end of the digestion is, when you see the Matter converted into a very red
+🝟tate and glittering, which endureth a very strong 🜂. Then take it out
+(being cold) and grind it with four parts more of the said ☿; and the same
+quantity of the said Sulph. as before; digest as before, until all be
+converted into a red 🝟tate as before, ex­cept that it will be of a darker
+colour: Grind this 🝟tate with the Oyl of Vitriol before­mentioned until it be
+like a pap: Then put it into a Cucurbite, and digest for fifteen days, then
+distill it, and the Phlegm will come over; and the Matter remaining dry in the
+bottom, you must grind again with new Oyl, and proceed in all as before.
+Repeat this so often, till the Oyl come off as sharp as it was put on, which
+is a sign of Satura­tion: Then digest this Matter in Sand until all be
+resolved into a very red Oyl in ap­pearance (which in a cold place will
+con­geal into a hard and brittle Matter.) At last give very strong 🜂 for
+three days, in which time the Matter will be entirely fixed, except a small
+quantity, which will be ex­haled.
+
+[[Page 36]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=27)Project
+this Matter upon ☽ in fusion equal parts. Thus far reacheth my Experience; but
+the Dane told me, that if this Matter were Amalgamated again with new ☿
+prepa­red, and in all things proceeded as before, taking this Matter for the
+Foundation, in­stead of the ☉ which you took at first, it would become a
+Medicine, which in Pro­jection would convert a great quantity of ☽ into ☉. And
+the oftner you should do this, the more Power it would have in Pro­jection.
+
+Out of ℥x. of this Matter, and as much ☽, I had ℥xvijss. of perfect ☉.
+
+Hartman.) Dr. Astell, an English Phy­sician, shewed me a Copy of this Process,
+which Sir K. D. had given him, who had assured him that he himself had wrought
+it, and that it was true: And having ℥x. of fixed Matter, he divided it into
+ten parcels, and having melted ℥x. of ☽, he Projected the said parcels one
+after another upon the same; then left it in fusion for three hours, then cast
+it in Ingot, which having weighed, he found the quantity of ☉ above mentioned.
+
+[[Page 37]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=27)
+
+### 1.22. Opus Magnum ex Virginea Terra.
+
+TAke reddish rich Virgin Earth in ♈, im­pregnate it with ☉, ☽, serene and dew,
+till the end of May: Then imbibe sprink­lingly with dew gathered in May, and
+dry in ☉, expose all Night to the ☽ and Air, se­curing it from Rain. Still
+when it is dry, imbibe and turn the Earth often. Continue this till 🝞mation.
+The hot ☉ (especially in the Dog-days) will make a pure Salt shoot up, which
+mingle back into the Earth, by turning it all over. Then distill by gra­duated
+🜂 as A. F. forcing all the Spirits over at last; you must give fourty hours
+🜂, extream at last. Put all the Liquor and Salt that cometh over, to digest
+and circu­late a Month in fimo, in a great Ballon close shut. Then seperate
+the several substances out of this Chaos; first, cometh an extream subtil,
+ardent, Aethereal Spirit, then white ones with veins like S. V, then Flegm.
+Thus far in B. in a Cucurbite, then in a Retort: Then white fumes, then red
+ones, and a reddish brown Salt remaineth in the bottom, and a Volatile Salt
+will be 🝞med about the neck of the Retort, as also to the head and sides of
+the Cucurbite. Then purifie every substance by it self; the fixed Salt by
+Solu­tions [[Page
+38]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=28) in the Flegm,
+Filtrations, and Con­gelations, till it be perfect pure, clear, and cast no
+more Feces: The Volatile Salt by often Sublimations: The first Spirit by
+thrice distilling, and the fixed white and red Spirit likewise, both together.
+Now joyn all the three parts, beginning with the fixed Salt, whereof take
+three parts, and one of the fixed Spirit; digest eight days, distill in Ashes,
+and the Liquor will come off like Flegm. Imbibe with more fixed Spirit, and
+repeat this till all of it be coagu­lated with the Salt. Then put one part of
+this to three of the 🜹, taking it all, and hu­mect them with the Volatile
+Spirit. Digest eight days or longer, then distill in a Cucur­bite; a stinking
+flegm will rise, and a pure Salt 🝞m up, and if any Spirit distill over, keep
+it, putting it to the rest of the Spirit. Then add more of the fixed Salt to
+it which hath not 🝞med, making it one third to the 🜹, which humect with
+Spirit as before, cir­culate and 🝞m, and the 🜹 will be increased. Do thus
+till all the fixed Salt be 🝞med. Cir­culate the remaining Volatile Spirit
+with the 🜹, till all the Spirit be converted into 🜹, and nothing but a
+stinking flegm come a­way. Then 🝞m this Salt by it self, till it leave no
+Feces, and be most white, trans­parent, and pure, which will be in four or
+five times.
+
+[[Page 39]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=28)Take seven
+parts of this 🜹, and one of pure ☉ in leaf, Seal it Hermetically, and digest
+in B. The Matter will become a green 🜄, like an Emerauld, with an Ori­ental
+esclat: (and in a Retort will pass all over, leaving a few grains of brownish-
+gray stiptick Earth, like Tobacco-pipe Earth) And after a while black like
+Ink, and continue so two and fourty days; when the blackness beginneth to
+wane, put it in dry 🜂 in an Athanor. It will pass the co­lours, and become a
+red Elixir, and is now best for Health; but it will not have good ingression
+into Metals, till it have been mul­tiplyed four or five times with new 🜹,
+taking every time after the first, only three to one; and it will be done
+every time after the first in a shorter space. After every fixation of the
+multiplication, and the first also, give strong 🜂 for three days, and a black
+Earth will separate from the red Powder, lying like a Cake under it. Before
+you Project upon inferiour Metals, ferment anew with three parts of ☉ to one
+of the Elixir, giving three hours of extream fusion, and all will be red
+Powder.
+
+You may proceed in the same manner for ☽.
+
+[[Page 40]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=29)Note also,
+That when the Work of ☉ is at the white, it will Project upon Inferiour
+Metals, to make them like ☽, but in truth white ☉, enduring all the tryals of
+☉.
+
+If you digest in B. V. ten parts of Pearl in Powder, with one of the perfect
+🜹, it will become an Oriental Liquor, whereof a few drops is admirable for
+Health.
+
+If you take four parts of such 🜹, and grind it well with pure red Coral in
+Powder one part, and 🝞m, putting what riseth up­on as much of fresh Coral,
+repeating this four or five times, the 🜹 will be red like a Ruby, and an
+admirable Medicine. All the Corals will dissolve in a Cellar.
+
+If you grind one part of it with ten parts of green Venice Talc, and put
+distilled dew upon it, six fingers over, and digest in fimo, all the Talc will
+dissolve, and a splendid Oyl of rare effects swim upon it.
+
+Hartman.) Sir Kenelm D. said, that a Person of Quality beyond the Sea (whom he
+named) wrought this Process, and it hap­pened at that time that his Wife was
+dange­rously Sick, and like to die; she was given over as a dead Woman by the
+ablest Physici­ans: Upon that he opened the Vessel, and gave her one grain of
+the Elixir; whereupon she Recovered. and lived many Years after it in perfect
+Health.
+
+[[Page 41]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=29) This
+Process, and Saunier's Work were to­gether in a small bundle of Papers tied up
+to­gether by it self; upon the out-side of it were written the following
+words, Perfumes, Cu­riosities, My great Arcane of this Note.
+
+### 1.23. A Miniera of ☉, wrought by a Person of Quality in Champagne.
+
+TAke Sulphur-vive lbss. melt it in an Earthen Poringer, then squeeze into it
+lbj. of ☿; stir it continually until the ☿ ap­pear no more in the Sulph. Then
+let it cool, and grind to Powder, which digest in a Matrass for two days with
+a strong 🜂. Then take it out, and grind it again; add to it its double weight
+of filings of ♂; mix them well together, and put them in a Re­tort, and
+distill over all the ☿: Mix this ☿ again with new Sulphur melted as before;
+digest in a Matrass as before for two days, in the mean time grind the filing
+of ♂ (that you distilled the ☿ from) and wash them well from all the foulness
+and blackness; Then dry them and grind them again with the Sulphur and ☿, and
+distill them in a Re­tort as before. Repeat this so often, till the filing of
+♂ come to be of a yellow Golden colour, which will happen at the seventh
+distillation: Then take this ☿ and put it in [[Page
+42]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=30) a Retort, and
+distill only ℥j. of it, and with the remaining ℥viij. make an aaa with ℥j. of
+☉, digest this aaa in an Athanor for nine Months, it will pass all the due
+colours, and will become a Miniera, as followeth. To this ℥ix. of Matter put
+℥iij. of ☿ prepared as before, and digest, and in six weeks you shall have
+℥xij. ready to melt: And to these ℥xij. add ℥iv. more of ☿, and digest, and in
+six weeks you shall have ℥xvj. of Miniera, Note, that you must always use a ☿
+pre­pared, as was said for the multiplication of the Miniera: For if you
+should take crude and unprepared ☿, you would have but an ordinary 🝟tate
+after one or two multiplica­tions.
+
+Note, That the filing of ♂ is to be chan­ged after three times, and new to be
+taken, which is to serve also three times: After which six times, you must
+joyn both the parcels of filing, and use them both at the seventh time, and if
+the sign given you (of the yellow Golden colour) happen not at the seventh
+time, continue and repeat your Operation, with all your filing, until it do
+appear. When your Miniera is compleated, it will be a deep-red Powder, very
+shining, and at every time it is to become such: If you multiply it with crude
+☿, it will lose its lustre after twice, and not increase in fixed Metal.
+
+[[Page 43]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=30)The first
+time, you must put into one Glass no more than ℥j. of ☉, and ℥viij. of ☿; But
+when the Miniera is made, you may work even to fifty Ounces in one Glass,
+keeping always your due proportion.
+
+### 1.24. Fixation of ♄ into ☽, with good Profit.
+
+MElt lbj. of ♄, then put in ℥ss. of ☽, and some scories of ♂, and a little,
+red Arsenic; keep it in a strong 🜂 for three or four hours or more. Then the
+Cr [...]ble being cold, break it, and take out the Mat­ter, and put it in a
+new Cruc. which must have a little hole in the bottom; put this Cruc. in a
+wind Furnace, and melt the Mat­ter again, putting under the Furnace a Ba­son
+with 🜄 to receive the Matter as it melt­eth and runneth through the Cruc.
+Take this Matter and melt it again with the same quantity of ☽, and new
+scories of ♂; keep it in fusion as before. Reiterate this Ope­ration ten or
+twelve times, until the ♄ is very hard, being impregnated with ☽; then put it
+to Coppel with ℥j. of ☽ to every lb. of this Mixture.
+
+The goodness of the Operation consisteth in the fixation of the ☿ which is in
+the ♄ by the Sulphur of ♂: Therefore you must keep the Matter a long time in
+fusion, that the [[Page
+44]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=31) Sulphur of ♂ may
+act strongly upon the said ☿.
+
+### 1.25. To fix ☿ of  (antimony), or the Common ☿.
+
+TAke ℥j. of ☉ in leaf, and ℥iv. or v. of ☿: Make an aaa, which put in a
+Retort, and digest it in Horse-dung for eight days, then distill in Sand,
+giving strong 🜂 at last, and the ☉ will go over with the ☿, and if any of it
+remain in the bottom, aaate it with the same ☿, and digest three or four days,
+and then distill as before, and all the ☉ will go over with the ☿, and you
+shall have a ☿ well animated.
+
+Take ℥iij. of this ☿, aaate it with ℥j. of ☽; grind the aaa, and put it in a
+Ma­trass half luted; digest for eleven days by graduated 🜂, and all will be a
+red Pow­der.
+
+Take ℥iij. of this Powder, and project it upon ℥j. of ☉ in fusion, and all
+will be trans­muted into ☉.
+
+Then take the remaining ℥ of Powder, and aaate it with ℥iij. of the ☿
+animated; di­gest as before, and in nine days your Pow­der will be perfected
+as before. Take these ℥iv: of Powder, and unite it with ℥xij. of new ☿
+animated; digest without ☉, and you will have a perpetual Miniera; part [[Page
+45]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=31) whereof you may
+reduce to a Body when you please, by projecting it upon ☉; and the other will
+serve for a Ferment, which will never fail, being it self all ☉.
+
+This ☿ animated may be fixed without ☉, by a gentle heat, being it self a
+liquid ☉; but to shorten the Work, you may add ☉.
+
+### 1.26. A Reality upon ☽.
+
+TAke ℥ij. of ♀ in thin Plates, and ℥j. of small Nails, put them in a Cruc. in
+a Furnace, and when they are very red, cast in some Sulphur upon them at
+several times, that they may melt well; when they are like Paste, cast in some
+(antimony), and stir it with an Iron Rod to make them well incorporate: Leave
+it in good fusion for five or six hours, stirring it sometimes. Then take out
+the Cruc. and let it cool; then break it, and you shall find but a little Reg.
+at the bottom, but many yellow lumps at the top, which beat to Powder. Then
+melt ℥ij. of fine ☽, and project ℥iij. of the Powder; stir it with an Iron
+Rod, keep it in fusion for eight or ten hours. Then put it to Coppel, and
+se­parating 🜄, and you shall have fine ☉.
+
+Hartman.) This Process is also confirmed with a Probatum.
+
+[[Page 46]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=32)
+
+### 1.27. Fixation of the ☿ of  (antimony), as Monsieur de la Noüe wrought it
+at Paris.
+
+TAke ☿ of  (antimony) and ☉ ana ℥j. Oyl of Vi­triol ℥vj. Distill to dryness;
+take what is 🝞med, and joyn it again to the Feces, and put the Oyl upon it
+again that distilled over; distill as before. Repeat this so often, till
+nothing more 🝞m, distilling every time in a new Retort; at the twelfth or
+fifteenth distillation, all the Matter will remaim in a red Powder.
+
+Take Sulphur-vive, and Ashes of Alican ana equal parts, of which make a lixive
+with common 🜄; filter and evaporate, and you shall have a Sulphurious Salt:
+Take of this Salt and of the said Powder ana gr. vj. ☿ of  (antimony) ℥j.
+filings of ☉ ℥ij. mix and grind all well together, and put them into a Matr.
+with a long neck; make a 🜂 about the mid­dle of the neck of the Matr. in an
+Iron pan with a hole in the middle through which the neck of the Matr. may
+pass; let this 🜂 be stronger than that below; continue the 🜂 for six hours:
+Then cast your fixed Matter into a Bath of ☉.
+
+[[Page 47]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=32)
+
+### 1.28. Preparation of the Powder, with which Clau­dius de Montrouge, and
+Abbot Oberye at Paris fixed ☿ of  (antimony).
+
+THey melted ℥iv. of Sulphur in an earthen Poringer, then they squeezed into it
+through a leather ℥j. of ☿ of  (antimony) made of Regulus of  (antimony), 🜹,
+and ☿ 🝞mate (the ☿ of  (antimony) without addition had been better, but they
+had none) and whilst the one squeezed the ☿ into the Sulphur, the other kept
+stirring continually with an Iron Spatul so long until the ☿ did no more
+appear in the said Sul­phur, and that all was converted into a grayish Citrine
+Powder (the colour is va­riable, according as you govern the 🜂, some­times it
+will be red like Cinaber.)
+
+To this Powder they took ℥j. of ☉ in Calx, and ℥j. of the Salt that is found
+in the Pots at the Glass-Houses, which Salt they dissolved, filtred, and
+congealed: They grinded all well together, the Powder, the ☉, and this Salt:
+Then they put all into a Retort, and put upon it ℥xxiv. of good Oyl of Vitriol
+well rectified; to this Retort (be­ing put in Sand) they adapted a large
+Glass-receiver, the junctures being well luted, and the lute dry, they
+distilled by degrees of heat, at last gave strong 🜂. It was ten or twelve
+[[Page 48]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=33) hours
+before the Oyl came over. All being cold, they broke the Retort, and took out
+the Matter which remained in the bottom, which they did put into a new Retort,
+pour­ing upon it the Liquor with the flowers of Sulphur which were in the
+Recipient: Then joyning again the Receiver, and luting well, and the lute
+being dry, they distilled as be­fore. They reiterated this Operation twenty
+times, grinding every time the Matter, and joyning it with the Liquor and
+Flowers.
+
+At the twentieth distillation, the small quantity of Liquor that came over,
+was al­most all flegm; then they took out the Mat­ter that remained in the
+Retort, and put it into a Viol, which they stopped very close, and kept it in
+a dry place, because that so soon as it felt the Air, it grew moist.
+
+With this Powder they fixed the ☿ of  (antimony), which being mixed with the
+Calx of ☉, and held in the hand, grew so hot, that they were not able to hold
+it in their hands, no more than a piece of Iron red-hot, as every one of them
+made Experience, casting it in­to a Bason full of 🜄, which they had stand­ing
+by for that purpose.
+
+They wrought the said Fixation in an Iron barrel of a Gun, thus. They put
+about sixty grains of the aforesaid ☿ only, (be­cause they had no more) into
+the said Barrel, [[Page
+49]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=33) then they gave
+the 🜂, first above for two hours, and afterwards below for one hour, keeping
+that above always stronger than that below; then they heard the said ☿ begin
+to roar, and make a noise in the Barrel; then they cast into it a little more
+than one grain of the fixative Powder, wrapt up in paper; and then they
+continued the 🜂 for seven or eight hours, after which time they heard no more
+noise at all; then they judged that the Work was done, and let the 🜂 go out;
+and the Barrel being cold, they found about twenty grains of good ☉, which
+endured all the Trials of ☉.
+
+Hartman.) This Relation is of Sir K. himself, written in the French Tongue.
+
+### 1.29. A Process to fix the Common ☿ by the Salt of ♄; wrought by Captain
+Ziegler at Ments, and sent me by him.
+
+MElt ♄ in an Iron pan, let it be red-hot, then cast in some Salt, stir it
+until it be reduced to Powder; sift this Powder finely, and that which will
+not go through the size, must be Calcined as before: Then edulco­rate this
+Powder with warm 🜄, and you shall have a Calx as white as Ceruse, which put
+into a Matrass, and extract the Salt out of it with distilled Vinegar s. a.
+after three [[Page
+50]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=34) or four days
+digestion, decant the distilled Vinegar, and put on fresh; digest as before,
+shaking the Vessel often: Repeat this three or four times, or so often, till
+the Sp. of V. hath extracted all the Salt. Then put all your Sp. of V.
+together and filter it, then distill it off in a Retort, until you see the
+Salt of ♄ remain in the bottom like deep­red Oyl, which being cold, will be
+white like Sugar-candy: Grind this Salt, and put it into a Matrass, and
+extract it with Sp. of V. as before. Repeat this purification three or four
+times, and you shall have a Salt of ♄ well prepared for this Work.
+
+### 1.30. An A. F. to be used in this Work.
+
+TAke Salt ℥iv. Nitre lbj. mix them well together with lbijss. of Powder of
+bricks; put all in a Retort, and distill by gradua­ted 🜂, forcing over the
+Spirit strongly at last: The distillation will be performed in sixteen or
+eighteen hours.
+
+Take ☿ seven parts, fine ☽ one part; make an aaa, which put into a Retort, and
+pour upon it so much of the A. F. as may cover it a large fingers breadth: Let
+it stand twenty four hours, then distill it in Sand; when it is cold, cohobate
+the distilled A. F. upon it again, and distill as before. Repeat [[Page
+51]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=34) this three or
+four times; then break the Re­tort, being cold, and take out the aaa, which
+grind to a fine Powder, and put it in an Iron pan, and hold it over a coal 🜂,
+stirring it continually with an Iron Rod, un­til it be almost red-hot, and
+that it be con­verted into a red Powder, like red 🝟tate. Take of this red
+Powder two parts, and of the aforesaid Salt of ♄ one part, reduce them to a
+fine Powder, which put into a Matrass, and digest it in Sand for eight days:
+Then put it to Coppel, and you shall have half your aaa fixed into fine ☽.
+
+Hart. When Sir K. D. was at Franckfort in Germany, where he lived a year and
+half, in the Year 1659. he went often from Franck­fort to Ments (being four
+German Leagues distance) to Visit the Prince Elector there: Then he conversed
+also with this Captain Ziegler, who was a famous Chymist. And when Sir K.
+returned to England about the time of the Kings happy Restauration, the said
+Captain sent him this Process written in the German Tongue, assuring him that
+he had done it: He said, that the ☽ which he got, he put to separating 🜄, and
+he had some ☉ out of it. He said also, that he thought this Salt of ♄ would
+fix ☿, in ☉ if the aaa were made with ☉ instead of ☽.
+
+[[Page 52]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=35)
+
+### 1.31. A Work upon Cinaber, wrought by Monsieur Sauvage.
+
+TAke Nitre and 🜹, ana, which dissolve in Rain 🜄; filter and evaporate to
+dryness: Then grind this double Salt to sub­til Powder; take a large Crucible,
+in the bottom whereof put a bed of Quick-lime in Powder, upon that put a bed
+of this Salt, cover it with another bed of Quick-lime the same quantity as
+before, taking two parts of Quick-lime to one of Salt. Cover the Cruc. with
+another, without luting them; put this in a Bakers Oven after the Bread is
+drawn, let it stand as long as there is any heat in the Oven; when the Oven
+hath been heated again, and the Bread drawn, set it in again; do this three
+times: Then keep it in a strong 🜂 for six hours, and being cold, take it out,
+and put it into 🜄, and let it boyl in an earthen Pot eight or ten walms. Then
+filter it hot, and evaporate to a dry Salt, which put in a strong Bottle, and
+keep it close stopped in a dry place: Then take two parts of this Salt, and of
+Salt of ♄ one part, mix and dissolve them in distilled Vi­negar.
+
+Then take Cinaber, pulverize it, and make a Paste thereof with the yolk of an
+[[Page 53]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=35) Egg; of
+this Paste make little Cakes in the shape of the heads of Horse-shoe-nails;
+make them pretty thick, and put them in an earthen Pot, pouring upon them of
+the aforesaid dissolution, so much as may cover them the breadth of three or
+four fingers; boyl this together until it come to be like Honey: Put more
+distilled Vinegar upon the Cakes, and boyl it as before. Continue this for
+three days; then wash the Cakes in fair 🜄, and you will find them something
+Metal­lized. Filter the 🜄, and evaporate to a Salt, which will serve again
+for the same use, adding Salt of ♄.
+
+Take of the fixed Salt without Salt of ♄, and of good Venice Ceruse ana equal
+parts, grind and mix them well together; then put a bed thereof about the
+thickness of a Crown, into an Iron Box, then put a bed of Plates of ☽ upon
+that, and then the Powder again upon the ☽, the same quantity as before; upon
+that put a bed of your lumps of Cina­ber, then Powder, then Plates of ☽, then
+the Powder again; and thus continue stra­tifying until your Box be full, the
+Powder being the first and last: Then put on the cover of the Box, which you
+must fasten, and secure, it well with Iron hooks. Then you must have another
+Box of Iron, made big enough to contain the first, and that there [[Page
+54]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=36) be the space of
+a fingers breadth between, at the bottom, on the sides, and at the top; the
+Boxes must be square, and you must have two Iron hoops made in the shape of a
+Crown with crankles; put one of them into the bigger Box, turning the teeth or
+crankles downwards, upon which set the lesser Box; put some pieces of Iron on
+the sides, to keep the lesser Box at an equal distance from the sides of the
+bigger: Then put on the other hoop upon the lesser Box, keep it down with some
+heavy thing whilst you pour in some melted ♄ into the bigger Box, so much as
+may cover the lesser Box a fingers breadth. Then put on the cover of the
+bigger Box, and fasten it with Iron hoops and wedges to keep it close: Then
+the Box being yet hot, put it into an Athanor where the 🜂 is kind­led, let
+the Registers be shut, so that there be but a very moderate heat, such as
+where you may endure your hand; continue the first degree for three days, so
+that all that while the ♄ may be but melted, then increase the heat for three
+days more; and so in­creasing the heat every third day, continue in all three
+weeks; the last three days the 🜂 must be very vehement. Then let all cool,
+and take out your lumps, and reverberate them with very gentle heat for twelve
+hours, and they will be of a whitish-gray colour. [[Page
+55]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=36) Then melt ♄ in a
+Cruc. and cast these lumps into it, digest this Matter together for three
+days, then put it to Coppel. Note, that if you cast this Mass into melted ☽,
+and digest it three days before you Coppel it, you shall have more profit than
+if you test it without digesting it.
+
+Note also, that if you will continue your Work, you need not use any more
+Plates of ☽, but only the Cakes as they are, and be­fore they are
+reverberated, using them in­stead of the ☽, being pulverized, and they will be
+the more fixed, and the profit will prove very considerable.
+
+You must have of ☽ and Cinaber ana ℥vj. and of the double Salt and Ceruse ana
+℥iv.
+
+### 1.32. Tincture of Mars.
+
+DIssolve filings of ♂ in A. F. made of Vitriol, Nitre, Allom, and Cinaber;
+then pour upon this dissolution distilled Vi­negar, double the weight of the
+A. F. shake it well together, and digest in B. for three days, then decant the
+clear, and filter it; evaporate it gently: Then grind it with two parts of ☿
+🝞mate, Sublime the ☿ from it four times; then dissolve it again in distilled
+Vinegar, and evaporate it gently; then dis­solve it in distilled Rain 🜄, and
+congeal it [[Page
+56]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=37) gently: Repeat
+this last solution till it is not corrosive upon the Tongue; then in ℥iv. of
+Rectified Spirit of Vitriol dissolve ℥j. of this Sulphur of ♂, and ℥ij. of
+Sulphur of ☉ made the same way, except the first solution of the ☉, which must
+be an A. R. made of Salt, Nitre, and Vitriol; mix these two last solu­tions
+together, and digest in fimo, then co­agulate it gently, dissolve again in
+Spirit of Vitriol, and coagulate: Repeat this seven times, and if any feces
+remain at last, leave them out. Try this Medicine upon a hot Plate of ☽, if it
+penetrate and tinge it through­ly without smoking, it is a sign of its
+per­fection; but if it smoak, you must dissolve it again, and gently
+coagulate. Then melt ℥j. of ☉, and cast upon it by little and little ℥j. of
+this Medicine, and when all is enterd and incorporated with the ☉, cast it in
+In­got, and you shall have a Matter as brittle as Glass, and transparent like
+a dark Gra­nade stone, and fusible as ♄. Then melt fine ☉ and fine ☽ ana, and
+project of this Medicine upon it, and you shall have pure ☉.
+
+[[Page 57]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=37)
+
+### 1.33. To fix a quarter part of ☽ into ☉.
+
+TAke filings of ☽ ℥j. aaamate it with ℥iv. of ☿, put this aaa in a Retort, and
+distill off the ☿; take the ☽ and re­ aaamate it with the distilled ☿; distill
+as be­fore. Repeat this three or four times, and the ☽ will be a Powder
+impalpable. Take 🜹 and Cinaber ana ℥jss. ☿ 🝞mate ℥ss. grind and mix them
+well together with the ☽: Then 🝞me it with gentle heat, mix what is 🝞med
+with that which remaineth in the bottom, and Sublime as before. Then take both
+Feces and 🝞mate and mix it with Sul­phur of ♀ and Crocus Martis, and of a
+Re­gulus made of  (antimony), ♂, and ♀, ana ℥ss. grind all together with a
+little 🜹. Then Sublime it four times with gentle heat, adding every time a
+little 🜹, because it openeth the body of ♂ and ♀, and uniteth them with the
+☽. Then grind all well together, and digest it in the following 🜄. Take
+Nitre, Vitriol, ana lbj.  (antimony), Sulphur, Verdigrease, and Auri­pigmentum
+ana ℥iv. Make an A. F. of this, s. a. Or take common A. F. lbj. distill and
+cohobate it three or four times upon the said Materials, giving strong 🜂 at
+last: Then put your Powder into a Retort, and pour upon it so much of the A.
+F. as may [[Page 58]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=38)
+cover it the breadth of three fingers, distill it off with a gentle 🜂, then
+cohobate and distill three or four times: Then put fair 🜄 into the Retort,
+and digest for five or six days in Sand; then evaporate to dryness: Then take
+out this Matter and pulverize it, and weigh it. Then melt as much ♄ as you
+have Powder, and cast your Powder upon it by parcels, melt it with a strong
+🜂, then let it stand in the 🜂 until the 🜂 go out of it self; then take it
+out, and you will find a Regulus in the Cruc. which Coppel, and then put the ☽
+to separating 🜄, and you shall have a fourth part of fine ☉.
+
+### 1.34. A Work with Butter of  (antimony).
+
+THE Work, which Monsieur Perdussin of Lyons communicated to P. A. Dieu­doné,
+is to make a Butter of  (antimony) with  (antimony) Mine­ral, and ☿ 🝞mate,
+ana lbj, Of this take ℥ij. and digest it in a Matrass sealed Hermetically in
+an Athanor, and it will putrifie, growing as black as pitch; then pass the
+Colours: That done, take one part of leaf ☉, and three of this Powder; grind
+them well to­gether, and digest as before, it will become black as at first,
+and pass all the Colours. This proportion of ☉ for ferment, you may divide
+into several parcels, for several times, [[Page
+59]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=38) so each
+Revolution will be shorter, when the whole dose of ☉ hath fermented the first
+stone: This product serveth for ferment to multiply in quantity and quality.
+The P. wrought the first part, and had perfect pu­trefaction.
+
+### 1.35. An Excellent fusible Salt.
+
+P. Benin de Beaune maketh his fusible Salt thus: Decrepitate and Reverberate
+Salt, then dissolve it in fair 🜄, filter and congeal. Repeat all this Work
+four or five times: Being perfectly pure, dissolve it in Spirit of Vinegar,
+filter and congeal; re­peat this with distilled Vinegar once again: Then it is
+perfectly fundant.
+
+### 1.36. Another fusible Salt.
+
+DIssolve Salt in Rain 🜄, filter and con­geal; when the 🜄 is almost
+evapora­ted, and that the Salt falls to the bottom, take it out with a wooden
+Spoon by little and little, until the 🜄 is exhaled: Grind this Salt (being
+very dry) and reverberate it in an Earthen Vessel close luted; let the Ves­sel
+be red in the 🜂, but the Salt must not melt; so soon as you see the Vessel
+red, let it stand until the 🜂 is gone out: Then grind [[Page
+60]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=39) it and
+reverberate it as before; dissolve and congeal as before. Repeat this until it
+is perfectly fundant. Note, that you must not decrepitate your Salt.
+
+### 1.37. An Operation with a Martial Regulus of  (antimony), wrought by
+Monsieur Toysonnier.
+
+HE made a yellow Martial Regulus thus: Ignifie ℥iv. of Nails in a Crucible,
+then put upon it ℥viij. of good  (antimony), and give strong 🜂 in a wind
+Furnace, to make all melt well, which to promote, cast in some Salt-petre,
+then cast it in an  (antimony) Horn, and separate the Feces from the Reg.
+Ignifie ℥ij. of Nails more, and cast thereon the Feces (this Work must be done
+presently after the first) adding Salt-petre to make all melt well and clear:
+Then cast it in a Horn, and separate the scories from it, and wash it clean;
+it will be first white, but after a day or two will be yellow within as well
+as without.
+
+Take of this Reg. and of ☽, ana ℥ss. melt them well together (he poured a
+little ☿ in them when they were near ready to con­geal, and stirred with an
+Iron Rod, but the Mass took in little above ℥j. of ☿.) Beat it to Powder, add
+to it eight or ten parts of ☿, and grind exceedingly till they incorporate,
+(which required about twelve compleat [[Page
+61]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=39) hours, often
+heating the Matter and Instru­ments.) Then squeeze away so much ☿, that there
+remain only six parts; digest it three days in Sand by degrees, at last, very
+hot. Put the remaining Calx to Coppel with four charges of ♄, adding a little
+fresh ☽ to make it work better. Put the Mass, au depart, and you shall have
+twenty six gr. of good ☉.
+
+Hartman.) The said Monsieur Toyson­nier was Sir Kenelm's Operator; he was a
+French-man, and a very able Chymist, Sir K. brought him over with him from
+Paris, 1660.
+
+### 1.38. Butter of  (antimony) to Extract the Tincture of ☉.
+
+DIgest Butter of  (antimony) six weeks or two Months, and then put it upon a
+well opened Calx of ☉, and digest it, and the B. will extract the Tincture of
+☉, which digest, &c.
+
+[[Page 62]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=40)
+
+### 1.39. To fix ☽ into ☉; given me by an Intimate Friend, who told me that he
+wrought it as followeth, taking his hints out of Lul­ly's Experiments.
+
+HE made a Mercurial 🜄, as he teacheth, by his Vessel with three Bouls in
+three Furnaces (which Mercurial 🜄 will return again into running ☿ after a
+little digestion) and to this he put some pure white Salt of Tartar, and some
+☿ 🝟tate, that had been 🝟tated by it self with three or four Month [...]
+digestion, and some Calx of ☽ exceedingly well opened, and very subtil: This
+he di­gested a good while, and drew off the 🜄, and cohobated several times,
+after which he did put some Tincture of ♂ unto it, and digested and cohobated
+anew; and in the end he found almost all the ☽ converted into ☉, that endureth
+all Tryals, but it was a little pale. In Lully you may find Directi­ons to
+make all the things that were used in this Work. The Salt of Tartar, was but
+the fixed, reduced to its highest purity; but it should have been Volatilised,
+and made to pass over with the Mercurial 🜄, to acuate and animate it. He
+believeth the great Work is to be made with a Mercurial 🜄, animated with a
+Volatile Salt of Tartar, to [[Page
+63]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=40) serve for a
+Menstruum or Alcahest to dissolve ☉ and ☽. Weigh well what Lully saith of
+these things.
+
+### 1.40. Mallus his Process to fix ☽: Wrought by Mon­sieur Ferrier, and given
+me by him, 1660.
+
+TAke an A. F. made of equal parts of Vitriol and Nitre, pour of it upon
+Sulphur and 🜹, ana (four parts of A. F. to one of Powder) distill it off to
+dryness, and make Sublime what will. Melt ℥iv. of ☽, cast upon it ℥ss of
+Sublimed Salt when the ☽ is in good fusion: After it is entred cast in Ingot,
+melt again; and project a new Packet of Salt, doing all as before: Do this
+four times, so spending ℥ij. of Salt upon ℥iv. of ☽. Then put it au depart.
+
+### 1.41. To fix ☽ by a Mercurial Water.
+
+MAke Mercurial Water by means of an Earthen Retort that hath a Pipe or Spout
+behind in the upper part, through which you cast in the  (antimony) when the
+Retort is red-hot. Take of this 🜄 (well rectified) ten parts, and one of a
+well rectified Oyl of Vitriol; distill them together, till they be perfectly
+united: Then take of this Men­struum [[Page
+64]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=41) ten parts, and
+one of a well Calci­ned ☉; digest them together in a Matrass (Sealed
+Hermetically) until the ☉ is well dissolved: Then take it out, and put the
+Matter into a low Cucurbite, and distill un­til the drops come Acid. Then let
+it cool, and put the Matter into a Matrass, Seal it Hermetically, and digest
+in an Athanor, un­til it be perfectly fixed into a red Powder.
+
+### 1.42. Monsieur Bertault's Tincture of ☉ by Venus.
+
+TAke Sulphur and Borax, ana, melt them together three times, grinding the
+mat­ter every time; then melt ☉ and ♀ ana, and cast upon them of the said
+Composition, until the ♀ be reduced to aes ustum; then cast in Ingot, and beat
+it with a Hammer, to cause the aes ustum to scale off from the ☉. Then melt
+this ☉ again, and project as be­fore. Repeat this three times, and you shall
+have a ☉ as red as blood, and this Tincture will hold the Test.
+
+Note, that when you beat your ☉, if you see that the aes ustum do not all
+scale off from the ☉, you must melt it again, and project more of your
+Composition until it come all off in scales, and be all separated from the ☉,
+which it ought to do at every time.
+
+[[Page 65]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=41)
+
+### 1.43. To fix ☽ into ☉.
+
+DIstill from ☿ 🝞mate a Spirit, wherein dissolve an aaa of ☉ and ☿ into a
+white Powder, which digest in Ashes until it be as red as Cinaber. Then
+dissolve it in A. R. into a red water, which reduce again to Powder, which
+project upon ☽.
+
+### 1.44. Another Tincture of ☽.
+
+DIssolve ℥j. of ☉ in A. R. and ℥iij. of ☽ in A. F. Precipitate them, and then
+unite them together, and distill their Spiritual Essence, which by degrees of
+heat fix into a Blood-red Powder, which tingeth ☽ into ☉.
+
+### 1.45. An Operation with ☉ and ☿ of  (antimony): Wrought by Monsieur
+Chambulan, and given me by him.
+
+TAke lbiij. of good Salt of Tartar, Cal­cine it, so that it be glowing hot for
+twenty four hours, in a Pot close luted; then dissolve it in flegm of Brandy,
+filter, and evaporate; Calcine it again as before, dissolve and congeal as
+before. Repeat all this Work four or five times, or until it leave [[Page
+66]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=42) no more Feces in
+the filter: Then Calcint this Salt again for six hours, and then pul­verize it
+whilst it is yet hot, and put it in a large Cucurbite, and pour upon it by
+little and little of good Nants Brandy, so much as may cover it the breadth of
+four fingers, cover it with a blind head, or with another Cucurbite, that may
+enter into it, lute well the junctures, and digest in warm Sand for six days;
+then put on a head with a Lim­beck and a Recipient, and distill over with a
+gentle heat all the S. V. then let it cool, and pour on fresh Brandy, digest,
+and di­still as before. Repeat this Operation five or six times, or so often
+till your Salt of Tar­tar remain in the bottom like a red and trans­parent
+Oyl, which will be very fiery and penetrating, reducing all Metals into
+run­ning ☿, being first duly prepared; keep this Oyl close stopped.
+
+Then take lbviij. of the Ashes of burned Vines, whereof make a strong Lixivium
+with lbxx. of fair 🜄, then in lbxij. of this Lixivium; dissolve lbj. of Salt
+of Tartar, filter this dissolution, and digest it in Sand with a strong 🜂 for
+some time; then call into it lbj. of Regulus of  (antimony), that hath been
+melted and purified six or seven times with Tartar and Salt-petre, and then
+reduced to a subtil Powder: Make it boy [...] for six hour, [[Page
+67]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=42) until the
+Lixivium be very red and stinking; then let it settle and cool, and decant the
+clear, and wash the Powder with fair 🜄, then dry it, and grind it upon a
+stone, im­bibing it with the red Oyl of Tartar before-mentioned, until it be
+like a Pap, then dry it, and imbibe it again, and grind as before. Repeat this
+so often till the Powder hath ta­ken in double its weight of the said Oyl of
+Tartar: Then put this Matter in a Body with a blind head, lute well all the
+junctures, and digest in fimo for twenty days; then take it out, and you will
+find your Powder converted into running ☿, which wash well with hot 🜄, then
+with Salt and Vine­gar, and then with fair 🜄, then squeeze it through Chambo-
+leather. Then take ℥x. of this ☿ of  (antimony), and ℥x. of Common ☿ that hath
+been distilled over in a Retort with Tar­tar and Quick-lime, and then washed
+with Salt and Vinegar; mix these two Mercuries together and squeeze them
+through a leather, then put them in a Cucurbite, lute another, Cucurbite upon
+it, and digest in fimo for fifteen days, then put a head to it with a Limbeck,
+and distill in Ashes, and all the Common ☿ will distill over drop by drop
+[...]s 🜄, and the ☿ of  (antimony) will remain in the bot­tom like a clear
+Oyl, and will be of a fra­grant scent: Rectifie the 🜄 in Ashes, and [[Page
+68]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=43) the Oyl with a
+stronger ℥ in Sand, and keep them by themselves. Then melt ℥j. of ☉, and ℥j.
+of ☽, then cast in Ingot, and beat it into leaf, or reduce it into fine
+filings, and make an aaa with ☿, distill this aaa in a Retort until all the ☿
+is distilled over; then put this aaa in a Matrass, and pour upon it ℥x. of the
+Mercurial Water before-men­tioned: Digest it, and in a few hours all will be
+dissolved. Put this dissolution in a Retort, lute a Recipient to it, and
+having luted well the junctures, distill in Sand, and all will distill over
+except a few black Feces; dephlegm it with a gentle heat in B. M. di­stilling
+untill nothing more come over. Take of that which remaineth in the bottom of
+the Cucurbite ℥iv. put it in a strong Ma­trass, and put to it ℥viij. of your
+Oyl of ☿ of  (antimony); Seal it well, and digest it with a Lamp 🜂 in Ashes,
+and in fourty days all will be fixed into a red stone; then take out the
+Ma­trass, and put it to a strong 🜂 in Sand to Sublime it for twenty four
+hours, and all will melt like an Oyl, which will congeal in a cold place into
+a red stone.
+
+[[Page 69]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=43)
+
+### 1.46. Fermentation.
+
+TAke ℥iv. of this red stone, pulverize it, and stratifie it with ℥j. of ☉ in
+leaf be­tween two Crucibles well luted; put this to a Circulary 🜂 by degrees
+for six hours, then cover it with Coals, so that it may melt and unite well
+together: Project ℥j. of this Powder upon ℥x. of boyling ☿ (well puri­fied)
+and all will be converted into a Me­dicine, which will project upon great
+quan­tity of ☿, transmuting it into fine ☉.
+
+### 1.47. Elixir of  (antimony), ☉, and ☿.
+
+TAke good Mineral  (antimony), mortifie it with ra­dicated Vinegar; then
+separate its Quintessence with pure S. V. With that Quintessence dissolve ☿
+duplicatum of  (antimony), that both become an Oyl, which unite with a subtil
+Calx of ☉, and bring them to an in­combustible Oyl, which will transmute ☿
+into ☉.
+
+[[Page 70]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=44)
+
+### 1.48. Elixir ex ☉ & ☽.
+
+DIssolve O (well purified by  (antimony)) in A. R. then reduce it into a
+blood-red Oyl with radicated Vinegar, and Tartarised S. V. Then with this Oyl
+imbibe a natural Sul­phur of ☽, and fix them by graduated 🜂. This is a high
+Projection upon ☽.
+
+### 1.49. Elixir Album.
+
+SUblime ☿ three times from Vitriol and Salt-petre, then in hot Sand fix it so,
+that in strong heat it may not rise, which may be performed in three weeks
+time: Then Cal­cine it in a close Reverberatory 🜂, and it will be ready for
+solution. Then take the Water which distilled over in Subliming the ☿, and
+dissolve in it a little 🜹, and ☿ 🝞 mate, with this solution mix Calcined
+Vitriol to the thickness of Honey, digest in fimo o [...] and twenty days:
+Then distill by degrees: little at a time (for it yieldeth a very fiery
+Spirit) let the Recipient be large. When all is come over that will, rectifie
+it; then in this Spirit dissolve the afore-said fixed ☿, so is the Menstruum
+prepared.
+
+Then take a white Calx of ♃, pour up­on it so much of this Menstruum as will
+[[Page 71]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=44) cover it,
+let it stand eight days as before [...] Repeat this till the Calx will take in
+no more of the said Menstruum, then let it stand till it become first black,
+and then white, Sub­liming it self above the Caput Mortuum, from which
+carefully separate the white, and that is Sulphur naturae Iovis, which put
+in­to a little Matrass and fix it, (which may also be done by frequent
+🝞mation) make also Sulphur naturae ☽ in the same manner, and with the same
+Menstruum, which dis­solve into Oyl in B. with which imbibe the said Sulphur
+naturae Iovis untill it be fusible, and then it will transmute ♃ into ☽.
+
+### 1.50. Elixir Rubrum.
+
+TAke Vitriol of ♀ well purified by Solu­tions and Coagulations, unite it with
+Liquor of ☿ 🝞mate and 🜹, then distill a 🜄 from it in Ashes; then having
+stood (cold) twenty four hours, distill more 🜄 from it. Repeat this until the
+remaining Matter be well broken; then joyn all the distilled wa­ters to it
+again, and digest it in fimo for 40 days: Then distill its Spirit, with which
+imbibe the remaining Earth; dry it with a gentle heat, then imbibe again, and
+dry as before: Repeat this till the Earth hath im­bibed all its 🜄. Then
+distill it, and you [[Page
+72]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=45) shall have a
+Philosophical ☿, and what Sub­limeth is the Sulphur, which keep apart. Repeat
+the imbibition and distillation, till no more Sulphur will ascend; with this
+Sul­phur imbibe half its weight of the ☿, put them into a Matrass, which Seal
+Hermeti­cally, and fix them together; and this Work must be repeated four
+times, every time with the same proportion of the said Philo­sophical ☿. Then
+fix this Matter in a Ves­sel Sealed Hermetically by degrees of 🜂, and all the
+colours will appear one after ano­ther, until it become white, and lastly, to
+an incombustible red.
+
+Take one part of this red Powder, cast it upon ten parts of Sublimed ☿, set it
+to pu­trifie for thirty days, and it will become Oyl, which being Projected
+upon boyling ☿, will transmute it into pure ☉.
+
+The said red Powder being infused in Wine over Night, and drank in the
+Morn­ing, Cureth most Diseases in Mans Body.
+
+### 1.51. The best way to Extract the ☿ of ♀.
+
+SUblime Flowers of  (antimony) after Glauber's way, in great quantity, in
+casting the  (antimony) in Powder upon kindled Coals in a Furnace with many
+Pots one upon another, wherein the Flowers settle. The Flowers which are
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=45)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=46)
+
+[[Page 73]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=46) in the
+last or highest Pots must be received into running ☿, by distilling them in a
+Retort with two parts of Soot, and one of black Soap. Those in the middle, by
+black Soap and Salt of Tartar: Those that are in the lowermost Pots, by Soap
+only, with a little Salt of Tartar, not much, lest it should reduce the
+Flowers into Regulus.
+
+The Furnace must be round, and well made every where, then set a cover upon it
+like a Funnel, and the Pots upon that; then fill the Furnace with Coals, and
+let them be well kindled before you cast in the  (antimony), that the Flowers
+may be pure and white; then cast in the  (antimony) through a hole, which must
+be on the side of the cover: And thus you shall Sublime lbj. of Flowers in an
+hour. (See the first Figure.)
+
+The Process teacheth to set fifteen or six­teen Pots one upon another; but I
+think five or six may do as well.
+
+### 1.52. To Extract ☿ of ☽ or ♄.
+
+DIssolve filings of ♄ in A. F. one part, and fair 🜄 two parts, Precipitate
+the Calx with Salt of Tartar, then add crude Tartar to this Calx, and boyl
+them toge­ther a long time; at last, revive it with hot 🜄, and you shall have
+a fluid and running ☿. [[Page
+74]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=47) In the same
+manner you may proceed with ☽.
+
+### 1.53. To make a Minera of ☿ of Antimony, ad Infinitum.
+
+TAke of the ☿ revived from the Flow­ers above-mentioned ℥viij. Sublime it with
+Salt and Vitriol, according to Art: Then take of this ☿ Sublimate and
+(antimony) in fine Powder, equal parts, mix them well to­gether, and distill a
+Butter thereof, giving gentle fire for four hours, then distill with a strong
+fire, and the ☿ will distill in great quantity. Note, that when the Butter is
+come over, before you increase the fire to drive over the ☿, you must change
+the Re­cipient, putting on another full of water impregnated with 🜹. Then
+take the Cina­ber and mix it with black Soap and a little Salt of Tartar; then
+distill, and you shall have near the whole quantity in running ☿. That which
+remaineth in the bottom is the true Sulphur of  (antimony), of which make a
+Lixi­vium with 🜄, and Precipitate the Sul­phur.
+
+[[Page 75]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=47)
+
+### 1.54. Another way to Extract the ☿ of Antimony by an A. R. Given me by
+Monsieur Car­ton.
+
+TAke Salt-petre of the first boyling with­out refining it any more, and
+Vitriol and 🜹, whereof make A. R. after the Dutch way of making A. F. where
+they put an hundred pound of Matter into a large Iron Pot with a large earthen
+head, to which they joyn a large stone-receiver or a stone Pitcher: The
+junctures all well luted with a lute made of Sand, Quick-lime, and Wa­ter:
+They gave 🜂 by degrees, at last very strong; the distillation will be
+performed in twelve hours. Then let all cool, and take out the A. R. Note,
+that in distilling this A. R. if your Recipient be not very large, it will be
+needful to keep wet Cloaths doubled upon the Rec. to abate and con­dense the
+violence of the Spirits.
+
+Then take  (antimony) Mineral in fine Powder, which put into large Jar-
+glasses, such as they keep thin Sweet-meats in, which are as large at the top
+as at the bottom: You must have many of these Glasses, but put not too much
+into one Glass, pour a good quantity of the A. R. above-mentioned upon this
+(antimony); stir and shake them well together by turning [[Page
+76]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=48) the Glass in
+your hands (several times a day) for ten, twelve, or fifteen days, keep­ing
+the Glasses slightly covered with a wooden cover: And if you put these Vessels
+to digest in some gentle heat, it will be the better.
+
+Note, that the Secret consisteth in well opening the body of the ☿ by the A.
+R. And therefore when the time of the digestion is ended, and that you see the
+☿ is dissolved, or reduced into a white Calx at the bottom, stir it well
+together, that the A. R. which is at the top, may become as white as Milk.
+Then pour off this white Liquor (which containeth in it the Atomes of the
+(antimony), which are very light, and are easily raised in the A. R. and are
+well opened) and let it settle, until all the white Atomes are settled to the
+bottom, and that the A. R. be clear at the top, which decant and put it back
+upon the  (antimony), where you poured it off, which was not dissolved; stir
+it and digest it as before, then decant the white Liquor as before. Repeat
+this until you have reduced all the ☿ into Atomes or white Liquor: [...] Then
+put all your white Liquors and dissolved  (antimony) together with the A. R.
+into a Retort, and distill first all the A. R. with a gentle heat, until you
+see the  (antimony) almost dry, but not hard nor quite dry. Then change the
+Receiver, putting [[Page
+77]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=48) on another large
+Ballon of Glass with four or five quarts of 🜄 impregnated with lbj. of 🜹:
+Distill by graduated 🜂for eight hours, then put some coals about the Retort
+upon the Sand; give at last very vehement 🜂 above and below, for four hours
+more, at last, as vehement as possibly may be, and you shall see the Rec.
+filled with white fumes, which will revive into running ☿ in the water in the
+Recipient, and part of these white fumes will become a thicker sub­stance,
+like melted ♄, and part like Mer­curius vitae; but of what consistence soever
+they are, you may easily revive them all in­to running ☿, by washing them in
+warm water.
+
+The ☿ of ♄ is made in the same manner, but in greater quantity, taking Oar of
+♄ instead of  (antimony) Mineral.
+
+### 1.55. To Extract the ☿ of  (antimony), or of ♄. Wrought several times by
+Monsieur Van Outre, Phy­sician of Brussels.
+
+TAke Antimony Mineral, (or a Calx of ♄) in subtil Powder, imbibe it with
+Spirit of Salt until it be like Pap: Digest it seven or eight days, or longer;
+then di­still to dryness: Then change the Recipient, putting on another filled
+with 🜄, impreg­nated [[Page
+78]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=49) with 🜹. Distill
+it gradually s. a. and you shall have running ☿.
+
+Sir Kenelm.) This Extraction is upon the same Foundation as that which
+Monsieur Corton gave me, with an A. R. which he hath done often.
+
+### 1.56. Butter of  (antimony) without Sublimate, to Extract ☿ of
+(antimony).
+
+TAke  (antimony) one part, Salt decrepitated two parts, and Vitriol Calcined
+to whiteness four parts; reduce all into a fine Powder, mix them well
+together, and cast them by little and little into a Retort red-hot through a
+Spout in the upper part of the Retort, as Glauber teacheth; or distill it in a
+Glass Re­tort luted, in a naked 🜂, and you shall have a Butter like unto that
+which is made of Sub­limate.
+
+Note, that you may rectifie this Butter for other Operations with Soot and
+Coal-dust.
+
+[[Page 79]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=49)
+
+### 1.57. To Extract the ☿ of  (antimony) with this Butter, proceed thus.
+
+PRecipitate this Butter with warm 🜄, then dry the Powder, and mix it with one
+part of black Soap, and two parts of Soot; distill in a Retort into a
+Recipient full of 🜄 impregnated with 🜹, and you shall have a running ☿,
+which is the Sperma of ☿ of  (antimony).
+
+### 1.58. Another way.
+
+TAke the Precipitated Powder of the a­fore-said Butter of  (antimony), and dry
+it gently, then mix it with ℥iv [...] of Tartar, and ℥viij. of Quick-lime, and
+℥ij. of 🜹; distill this in a Retort s. a.
+
+Note, that the Calx of ☽, and that of ♄ may be Precipitated with Butter of
+(antimony), and then a running ☿ may be distilled from them.
+
+### 1.59. To Extract a ☿ out of ☽.
+
+DIssolve ☽ in A. R. and then Precipi­tate it with Spirit of Urine, or with a
+dissolution of 🜹 dissolved in distilled Vine­gar, and it will attract what
+there is of ♀ [[Page
+80]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=50) in the ☽, and
+the remaining Calx of ☽ is the running ☿, which is transmuted into ☉ by the
+Sal Enixe.
+
+### 1.60. Another way to Extract the ☿ of  (antimony).
+
+TAke lbj. of  (antimony) in subtil Powder, boyl it in a Lixivium made of
+Quick-lime and Pot-Ashes, let it boyl for two hours, then let it settle, and
+decant the clear; then put more Lixivium upon the  (antimony), boyl it as
+before. Repeat this so often till there be no more Sulphur in the  (antimony),
+which you may know by pouring distilled Vinegar into the decanted Lixivium,
+when there Precipitates no more Sulphur, or when it changes no more. Then
+edulcorate well the residue of the  (antimony), and dry it, then grind it with
+℥iv. of Salt of Tartar, and as much of 🜹, and ℥viij. of Vitriol; put this to
+Sublime with a gentle 🜂 at first, and at last very strong 🜂 for seven or
+eight hours, and all will be Sublimed.
+
+Make this Sublimate, and mix it with equal weight of Quick-lime, distill it in
+a Retort into a Recipient almost full of 🜄 impregnated with 🜹, and you shall
+have a running ☿ of  (antimony). In the same manner you may Extract the ☿ of
+♄, taking Calx of ♄ instead of  (antimony).
+
+[[Page 81]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=50)
+
+### 1.61. Mercury of all Metals.
+
+TAke Salt of Tartar, and Powder of Pebble-stones, mix them well together, and
+cast them upon burning Coals, and there will ascend a Spirit, which must be
+received, which hath a Vertue to convert the Calx of Metals into running ☿.
+
+### 1.62. A great Secret, ☿ of  (antimony), and other Metals, ad infinitum.
+
+TAke ☿ of  (antimony), Sublime it with Salt and Vitriol in the ordinary
+manner, with­out Calcining the Materials. Take of this ☿ 🝞mate, and
+(antimony) in Powder, ana; distill a Butter thereof: Then take the Cinaber,
+and grind it with that which resteth in the bot­tom of the Retort, and distill
+a ☿ thereof, which will serve for the like Work. Let the Butter resolve in the
+Air into a Liquor upon a Marble stone, or upon Glass in a moist place, then
+pour of this Liquor upon  (antimony) in a Cucurbite; digest in Sand for two
+days, then distill it, and there will come over a red Oyl with the flegm,
+which is the Sulphur, or ☿ of  (antimony), or a natural Oyl of  (antimony):
+For if you leave this Menstruum with the Oyl in the open Air for two or three
+[[Page 82]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=51) hours,
+the Oyl will Precipitate to the bot­tom in a red Powder, which will burn like
+common Sulphur. Mix this red Powder with two parts of Soot, and one of Soap,
+put it in a Retort, and distill it, and it will revive into running ☿, which
+will distill in­to the Rec. which must be almost full of 🜄 impregnated with
+🜹.
+
+In the same manner you may also Extract ☿ out of other Metals, mixing this Oyl
+with their Calx, Soot and Soap. The said Men­struum will serve again, putting
+it upon new  (antimony), Extracting new Sulphur from the same, or red Oyl,
+which Precipitateth into Sul­phur, as was said, or into running ☿ by
+Re­vivification. And in this manner you may make a perpetual Minera of ☿ of
+(antimony), and of other Metals, ad infinitum.
+
+Note, that other Metals must be in very subtil Calx well opened, that the said
+Men­struum may act the better upon them.
+
+Note, that if the Salt of the Earth be well Extracted, and reduced to a Salt
+Enixe [...] wonderful Operations may be done with it; and if you take of this
+Salt Enixe and of Vi­triol, and make a Sublimate thereof with ☿ of
+(antimony), and then a Butter of this ☿ 🝞mate and  (antimony) Mineral, and
+joyn this Butter with one part of the Lunary Butter, made as was taught, and
+with that make a dissolution of ☉, [[Page
+83]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=51) you will have an
+Aurum potabile, and an universal Medicine; and without doubt a Powder of
+Projection upon baser Metals. This Matter is an admirable Chalybs or Mag­net
+of the Spirit of the World, being expo­sed to the open Air for some time, and
+then put in a Vessel, and Sealed Hermetically, and digested for fourty days
+(or fifty) you will see such effects, as will promise a happy success, and yet
+better, if you add the Sulphur of ☉ drawn with Regulus of  (antimony): But
+this requires the Conduct of an able Operator.
+
+### 1.63. To prepare the Common ☿, so that it will have all the Qualities and
+Properties of ☿ of  (antimony), and will be as Powerful to Vo­latilize ☉.
+
+AMalgamate lbij. of ☿ with lbj. of ♃, thus: Melt the ♃ in a Crucible, then
+take it off from the 🜂, and being near ready to congeal, pour the ☿ upon it,
+and stir them well together with a stick, then cast it into fair 🜄. Then with
+these lbiij. of aaa, grind lbiij. of filings of ♂, and lbiij. of  (antimony),
+and all being well mixt, put it in a Retort, and distill over all the ♀ into a
+Recipient full of 🜄.
+
+[[Page 84]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=52)
+
+### 1.64. Another Excellent Preparation and Anima­tion of ☿.
+
+TAke of Martial Regulus of  (antimony) ℥iij. and ☉ ℥j. melt them together, and
+make a Regulus, which pulverize, and then grind it with common ☿, then distill
+it seven times, and you shall have a ☿ very pure, and fit for any Operation.
+
+### 1.65. Another way.
+
+AMalgamate lbss. of ☿ with lbj. of ♃ in a Crucible, and being cold, grind with
+it lbss. of filings of ♂. Then distill over the ☿ with a strong 🜂.
+
+### 1.66. Another.
+
+GRind ☿ with  (antimony), Quick-lime, and Tar­tar, then distill it.
+
+### 1.67. Another.
+
+TAke ☽ one part, Regulus of  (antimony) two parts, melt them together; then
+reduce it in­to very fine Powder, which grind and aaate with ☿, then distill
+seven times.
+
+[[Page 85]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=52)
+
+### 1.68. Another.
+
+JOyn ☿ with Sulphur in the form of a Cinaber, then add Salt of Tartar and
+Soap, to the consistence of a Paste, whereof make little Balls, which distill
+in a Re­tort.
+
+### 1.69. About a particular Spirit of Nitre.
+
+IT is not a common Spirit of Nitre, but it is a Spirit, which by many
+cohobati­ons and distillations rendreth its own Body Volatile in the form of
+Snow, which melts with the least heat, and is congealed by cold; and that is
+that Acetum acerrimum, which dis­solveth all Metals, and reduceth them to
+their first Matter, and perfect Metals being dissolved therein, will be
+coagulated, and perfectly fixed, which will change other im­perfect ones into
+perfect by Projection.
+
+Take ☽ and ☿, q. v. aaate them toge­ther, then mix this aaa with half its
+weight of ♀ 🝞mate, then put it in a Retort, and pour upon it of our Acid
+Spirit, and the Matter being well dissolved therein, distill and cohobate upon
+the remaining Body so often, till all the Matter be converted into a [[Page
+86]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=53) Volatile Spirit,
+and nothing remain in the bottom; that which doth not ascend, must be made
+Volatile: Then dissolve that Vo­latile again in more of our Acid Spirit, and
+distil and cohobate so often upon that which remaineth in the bottom until all
+be fixed again, and this fixed Matter render again Volatile, and the Volatile
+fix again, until it be tingent and penetrating, and be a fu­sible Salt abiding
+in the 🜂.
+
+You must have the Spirit of Natural fu­sible Salt, which is the Principle of
+all Me­tals, Vegetables, and Animals; this Spirit being purified and re-united
+with its Body (also purified) renders its Body Volatile, and uniteth it self
+unseparably with it, and be­cometh a Volatile fusible Salt like Butter, which
+congealeth being cold: This Butter dissolveth all Metals, as warm 🜄
+dissolveth Ice, and is the true Matter of the great Work, and the
+Philosophical ☿.
+
+To prepare the Universal Spirit, which is the Universal Salt, you must purifie
+and rectifie it well, and by its means, Volatilize its fixt Body, (also
+purified.) For to ren­der the fixt Volatile, the quantity of the Vo­latile
+must exceed the fixt; and also to fix the Volatile, the quantity of the fixt
+must exceed the Volatile; but the long digestion supplies the quantity of the
+fixt, because that which [[Page
+87]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=53) is naturally
+fixt is contained (although chan­ged for the present) in the Volatile: But the
+addition of ☉ (which it dissolveth, and uniteth it self radically with)
+shortneth the time, and hastens the fixation: And then to ren­der it from
+Volatile fixt by a long digestion; when it is Volatile, it will pass over in a
+Retort like Oyl, which will congeal, being cold, and melt with heat; 'tis the
+Sperma of Metals. For to fix it the better and the sooner, you must add ☉, and
+digest.
+
+### 1.70. An Operation upon ♄: Sent me by Monsieur Boucaud.
+
+#### 1.70.1. The Philosopher's Epilogue.
+
+SOlution and Ablution are one and the same thing, for by Calcination the Bo­dy
+is divided into small parts; by putre­faction it is corrupted, and when it is
+distil­led, it is reduced into its first Matter, and re­maineth dissolved.
+
+Congelation is a Fixation, Re-union, or Coagulation of the Volatile and
+dissolved Body.
+
+By Reduction and Fixation, when this Body is Sublimed, it fatneth, and
+resolveth, uniteth, and at last is perfectly coagulated. Thus in these two
+Solutions and Coagula­tions, [[Page
+88]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=54) are contained
+Ablution, Reduction, and Fixation.
+
+### 1.71. Quintessence of ♄; the Universal Dis­solvent.
+
+DIstill fifty or sixty quarts of Vinegar, and before you distill the Vinegar
+you must evaporate a fourth part of it, which is nothing but flegm; and for to
+render this distilled Vinegar more dissolving, it should be distilled once or
+twice from Lees.
+
+Take lbxij. or xv. of good English Li­thargy of Silver, reduce it into fine
+Pow­der, and put it into Matrasses of three or four quarts a piece, put lbj.
+into each Ma­trass; then pour upon the Powder so much of the distilled
+Vinegar, as may cover it the breadth of six Inches; then put them in
+di­gestion, with the second degree of 🜂 for two days, shaking the Matrass
+three or four times a day, in which time the distilled Vi­negar will be of a
+yellow colour, and very sweet. Then decant this distilled Vinegar impregnated
+with the Essence of ♄, and put on fresh upon the Lithargy; digest as before;
+then put in all the decanted Vinegar and fil­ter it, and distill in several
+Cucurbites with a gentle heat three parts of the distilled Vine­gar; put the
+remainder in a Cellar, and in 24 [[Page
+89]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=54) hours the
+greater part of it will be congeal­ed into a substance like Ice; it will
+suffice if you distill it off to a Syrup: Then upon this Syrup, pour new
+distilled Vinegar, about the same quantity as before, digest twelve hours;
+then distill off about the quantity you put on: Put new distilled Vinegar upon
+the residue, somewhat more than the first time, digest and distill as before.
+Then pour upon it about half the quantity of the said distilled Vinegar that
+you put on before, digest and distill as before. Repeat this di­gestion for
+twelve hours, and distillation so often, till you find that the distilled
+Vine­gar come off in the beginning of the distil­lation so strong as it was
+before, which is a sign of a perfect attraction of the universal dissolvent
+made by the distilled Vinegar.
+
+Then put your Gums which remained in the Cucurbites into one or several large
+Ma­trasses, which stop and lute well, that no­thing may exhale; then put to
+digest in B. vapor. or in fimo (which change every six days) for twenty or
+thirty days, more or less; for the sign of a sufficient digestion is, when the
+Matter cometh to be black, and that it acquireth as it were a stinking scent,
+which is a sign of its Mortification, by which it ought to acquire a new Life,
+and a Spiri­tual vesture. Then divide this Matter or [[Page
+90]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=55) Ceruse into
+several parts, which put into se­veral Retorts, which you may do by causing
+the Matter to melt with some gentle heat, and then pouring it hot into the
+Retorts, for it easily congealeth by cold; and if any of it congeal about the
+necks of the Retorts, make it melt, and run down; the Retorts must be of such
+a bigness, that at least four parts of them may remain empty. Then distill off
+all the flegm with a very gentle heat in Sand, and so soon as you perceive any
+Fumes or Vapours, cease, and let all cool; then change the Recipient, putting
+on a large one, and having well luted it, and the lute dry, give the 🜂 by
+degrees, at last very strong and vehe­ment, until you see no more fumes come
+over, but that an Oyl or Gum as red as Blood distill over. Take the feces
+remain­ing in the Retorts (which will look like black Ashes) and extract the
+Salt out of them with distilled Vinegar, as you did with the Lithargy, which
+Salt will be in long Rocks like Rock-Salt-petre; and this Salt will be more
+subtil than the first: Distill this Salt in a Retort, putting what distilleth
+to the first Liquor; out of the feces extract again the Salt, of which distill
+also the Spi­rit in a Retort. Proceed thus until the re­maining earth, or
+Caput Mortuum giveth no more Salt. Then take all your Spirits, [[Page
+91]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=55) and mix them
+together, and put it in a large and high Cucurbite, which cover with a double
+paper Oyled and dryed; tye it well about the neck of the Cucurbite with a
+pack­thread, then put on the head, and lute well the junctures, put on a
+pretty large Reci­pient, with a narrow and a short neck; di­stil in B. vapor.
+and the Aethereal Spirit will pass over through the paper, and the flegm will
+stay behind, because it cannot pass through the Oyled paper; and if your
+Spi­rit be not subtil enough, you may rectifie it once or twice with new Oyled
+paper; then keep it in a Vessel close stopped in a cold place: Then take off
+the Oyled paper, and distill the rest of the Liquor to the consistence of a
+red Syrup; put the Cucurbite with the Syrup in a Cellar, and in two days time
+there will be many little Crystals very white, which separate, and wash them
+in the flegm, and they will be white and pure: Then put the flegm to that
+which remained in the Cu­curbite, and distill to a Syrup, which put in a
+Cellar to Crystallize as before: Cleanse and wash the Crystals to whiten them,
+then put them together upon white paper to dry them for two days in the
+shadow; then put them in a Cucurbite narrow and somewhat high, and pour upon
+them of the afore-mentioned Aethereal Spirit, so much as may [[Page
+92]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=56) cover it the
+breadth of three or four fingers [...] digest twenty four hours, then distill
+in B. M. All the Spirit will come over, and in the bot­tom will remain a clear
+and transparent Gum, upon which pour again the distilled Spirit; digest and
+distill as before. Repeat this cohobation and distillation four times, at the
+fourth time the said Gum will distill over in the form of an Oyl as white as
+snow, swimming upon the Spirit: This Oyl is the ture and only dissolvent of ☉,
+separate it from the Spirit by a Funnel. And thus you shall have the
+Philosophical Menstruum, the Vegetable, and Mineral Salt, Aurora Dianae, and
+the true Philosophical ☿, and the preci­ous 🜄, dissolving the two Luminaries
+into a Physical dissolution, with which you may prepare Medicines both for
+Health, and for Projection to transmute Metals, which will be both short and
+easie, as followeth.
+
+'Tis not enough to have the Menstruum or Philosophical 🜄, for it serveth only
+for an Agent or a means to excite the Vegeta­tive quality which is hidden and
+buryed in the occult Secrets of the Metalline Nature. And it doth not suffice
+only to know that ☉ maketh ☉, and ☽, ☽; but it cannot ren­der them apparent,
+except the said Bodies be first discontinued, that is to say, that this
+Metalline form be reduced into subtil parts [[Page
+93]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=56) attenuated, for
+to be afterwards opened and reduced into Calx, of which this Menstru­um easily
+draweth the fixt grain or Sperma, the Principle of Vegetation.
+
+Prepare then a slight, spungy, well opened, and attenuated Calx of ☉, which
+put in a small Cucurbite, and pour upon it so much of the afore-mentioned
+white Oyl as will co­ver it a fingers breadth; digest two or three days with a
+gentle heat, then distill over all the Oyl, then pour the Spirit upon the
+Calx: Then pour upon this Matter four or five times as much of the above-
+mentioned Spi­rit; digest twenty four hours, and the Spirit will be tincted of
+a pure red colour, more red than any Ruby, which decant, and dry the remaining
+Matter, and pour upon it the same Oyl, and digest twenty four hours, and it
+will be very red. Repeat this so long till your ☉ will yield no more tincture.
+Then Circulate all your Tinctures in a Pelican for thirty days, and then
+separate the clear from an Hypostace which will be at the bottom, and you
+shall have the true Aurum potabile, which will be of an admirable vertue,
+ta­king three or four drops of it at a time in a little Sack, or other fit
+vehicle.
+
+But for the Work, you must separate the Spirit by distillation in Balneo,
+until the Tincture remain in the bottom in consist­ence [[Page
+94]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=57) of an Oyl, upon
+which cohobate the Spirit, and distill as before: Repeat this seven or eight
+times, and the said Tincture will remain like an Oyl that will congeal no
+more, which is the Philosophical Aurum po­tabile, having a Vegetative vertue,
+being sown in its own Earth, which is the Calx of ☉, prepared as shall be
+taught hereafter.
+
+### 1.72. The Philosophical Aqua Regis.
+
+TAke Nitre and 🜹, ana ℥iij. reduce them to fine Powder each by it self, then
+mix them well together, and put it in a Re­  [...]t of three or four quarts,
+and distill in Sand into a very large Recipient, the junct­ures well luted
+with paper, and paste made of Flower and 🜄; for if you should take  [...]
+stronger Lute, all would break: Give the 🜂 by degrees, untill you see white
+fumes in the Recipient in half; an hours time all will come over; then let it
+cool, and you will find in the Recipient about ℥jss. and about the neck of the
+Retort a Sublimed Salt, which proceeds from the 🜹, which will not dissolve
+except in hot 🜄; the Retort being cold, take out the Caput Mortuum as well as
+you can, and the Retort being found, put in fresh Matter the same quantity as
+before; repeat this till you have 🜄 enough. Then digest [[Page
+95]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=57) this 🜄 in Ashes
+in an Alembick with a gentle heat to separate the flegm from it, which will be
+insipid; then distill the rest in a Re­tort, and keep it for use.
+
+Take ℥j. of ☉ well purified by  (antimony), be [...]t it into thin Plates, cut
+them small, and put them in a Crucible and ignifie them: Put ℥vj. of ☿ in
+another Crucible, heat it until it begin to smoak, then take it from the 🜂,
+and pour it upon the ☉, stir it well toge­ther with a stick until it be well
+aaamated, then cast this aaa into a Marble Mortar, grind it well, pouring on
+fair 🜄 to wash it from all its blackness and foulness; then squeeze out so
+much ☿ of this aaa as you can: Then grind this aaa with equal weight of
+prepared Salt; put it in a Retort, and di­still over all the ☿ in Sand into a
+Recipient half full of 🜄: The ☿ being all over, in­crease the 🜂 for four
+hours, so that the bot­tom of the Retort may be always red in the Sand; then
+let all cool, take out the Re­tort and pour hot 🜄 into it, and let it stand
+so for an hour, and the 🜄 will dissolve the Salt; pour it out, and pour more
+hot 🜄 up­on the Matter; do thus three or four times? Then pour out the ☉ with
+the 🜄 into a Poringer, which will be every subtil Pow­der; dry it gently, and
+put it in a Matrass, and pour upon it of the above-mentioned [[Page
+96]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=58) A. R. about ℥vj.
+stop the Matrass with Cot­ton only, and put it to digest in hot Ashes, and in
+a few hours it will all be dissolved into a Liquor of an Orange colour,
+[...]leaving some impure Earth at the bottom: Upon this dis­solution pour of
+the ☿ which you drew off by distillation about twice the quantity of the ☉,
+digest it for two or three days, or so long until the ☿ be all dissolved, and
+the 🜄 be clear like Rock 🜄, and the ☉ be in the form of a light Spunge in
+pieces, swim­ming in the 🜄; separate the 🜄, and wash the ☉ with Salt 🜄
+filtred, then wash it in fair 🜄 so often till it be well edulcorated, then
+dry this Powder of ☉, and it is pre­pared. For to attenuate it further, and to
+render it more Spungeous, mix it with double its weight of Sublimed 🜹, grind
+them well together, and put them in a small Cu­curbite with its Head, and
+Sublime in Sand all the 🜹. Then grind this 🜹 again with the ☉ and Sublime it
+once more, so will the ☉ be well attenuated and opened, and fit to be joyned
+with the Vegetable Salt. Then put this Powder of ☉ into a Poringet of stone-
+ware, not glazed, and pour upon it some good Oyl of Tartar, dry it gently, and
+pour more Oyl upon the Powder, and dry it as before: Repeat this till you have
+employed ℥iv. of Oyl of Tartar to ℥j. of [[Page
+97]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=58) ☉; then put it
+into a Matrass with a short neck, stop it close, and put it in an Iron Pot in
+Sand, then cover the Pot with any other Pot, and give 🜂 of reverberation, so
+that the ☉ may be red in the Matrass, but not melt; continue the 🜂 in that
+degree for 48 hours. Then take out the Matrass, and wash the Matter with hot
+🜄 till the ☉ be well edulcorated, then dry it, and imbibe it again with fresh
+Oyl of Tartar; reverbera [...]e it as before for 48 hours. Repeat this Work
+twice more, and you shall have a very light and Spungy Calx of ☉.
+
+Hartman.) Note, That instead of this Calx of ☉, you may take one prepared, by
+Calcining it with flowers of Sulphur, as Sir Kenelm Digby prepared it for
+Saunier's Work, which see in its place.
+
+Then imbibe it once with Oyl of Tartar, and proceed in all as before.
+
+Having reduced the ☉ into an Oyl, it will be necessary to have an Earth of its
+own nature, to make it grow, and produce the Fruit which we expect of it.
+
+Now this Calx of ☉ shall serve for an Earth to receive this Seed. But since
+that in all Bodies there are three things, to wit, the Soul, the Spirit, and
+the Body; that which hath a Body, cannot receive the Soul, except it be opened
+by the Spirit: It will [[Page
+98]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=59) then be
+necessary to reduce the ☉ into a Spi­rit, which is done by reducing it into ☿,
+its first and nearest Matter; which to perform, proceed thus:
+
+Take ℥j. of ☉ well purified by  (antimony), re­duce it into thin Plates, cut
+them small, and put them in a Matrass, pour upon them ℥vj. of our
+Philosophical 🜄, keep it in digestion till the ☉ be all dissolved, then
+distill of [...] the 🜄, which cohobate again, and distill as before. Repeat
+this three or four times, then distill off about three parts of the 🜄, expose
+the rest with the Vessel to the open Air, and the ☉ will congeal into
+Crystals, which put in a Glass Bottle, and stop it ve­ry close, and keep them
+in a dry place un [...] they be dry; then grind them with twice [...] much 🜹
+Sublimed with Salt; put this into a large Matrass, and pour upon it by drop
+[...] of good Oyl of Tartar, the double qua [...] ­tity of the ☉, or until it
+be of the consist­ence of thin Mustard; then Seal it Her me [...] ­cally, and
+keep it in digestion with a gentle heat for two and fourty days, during which
+time the Matter will putrifie and smell ve [...] strong, and you shall see all
+the Colours ap­pear successively; take a little of it and was [...] it well
+with warm 🜄 several times, then be­ing dry, put some of it upon a thin Pl
+[...] red-hot, and if it melt without smoaking,  [...] [[Page
+99]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=59) is a sign that
+it is all Mercurial, and well prepared; but if it smoak, you must keep it in
+digestion untill that sign appeareth: Then wash and edulcorate it well from
+all Saltness, and dry it very gently; then mix it with seven parts of prepared
+Salt, put it in a Cucurbite, which put in Sand, and give a gentle fire for
+twelve or fourteen hours, then increase the fire, and continue that de­gree as
+long; continue the Sublimation un­til all the Philosophical Calx be Sublimed:
+Then gather carefully with a feather this Sublimate, and put it in a Glass
+Mortar with warm 🜄, grinding it with a Glass Pestle for an hour or two, then
+let it settle, and pour off the 🜄, put on fresh hot 🜄, and grind it untill
+the Matter come to be of the consist­ence of Mustard; then add good White-wine
+Vinegar, and grind it until all be con­verted into running ☿.
+
+### 1.73. Composition.
+
+TAke ℥ss. of your Calx of ☉ prepared and attenuated, as was said, put it in a
+Glass Mortar, and pour upon it ℥iij. of the S [...]lary ☿; the ☿ will suddenly
+swallow up its Body, as one drop of 🜄 mixeth it self with another; then
+squeeze out so much ☿ of this aaa; that there remain but about two parts
+[[Page 100]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=60) of ☿
+with the ☉. Put this aaa in a Philo­sophical Egg, and pour upon it by little
+and little of your Oyl of ☉ before-mentioned, hold it over a gentle 🜂, and
+stir the Matter with an Iron Rod, that all may well mix and incorporate,
+pouring on so much of the said Oyl, that it be of the consistence of thin
+Mustard, and then you shall suddenly see marvellous things, when the Soul of
+the said [...] ☉ (which is its Oyl) entreth into the Body of the ☉, by means
+of the Spirit, which is the Solary ☿, and that by means of the said Soul, the
+Spirit uniteth with its Body, of three being made one; stop the Vessel
+speedily, because of the fumes. The Body of the ☉ which was dead before, being
+by this only and admirable means animated, dig­nified, and filled with a
+Vegetative Life, will thereby acquire an inward Power of Multiplication, as
+well as the Sperms and Seeds of all Animals and Vegetables, and be made fit to
+grow and produce Fruit, (being sowed in a fit Earth) which it could not do
+before, because of that default. The Vessel being Sealed Hermetically, put it
+in Ashes in a brass Vessel in the shape of half a boul; digest it with a Lamp
+🜂. As for the time, and the colours, mark what Trevesan saith of it; for at
+the end of fourty days you shall see the blackness: Continue the first [[Page
+101]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=60) degree of heat
+to whiteness, which will appear within four Months: then augment the 🜂, and
+continue until it come to be of a Citrine colour, and then threre will be no
+more danger. Increase the 🜂 to the fourth degree, and continue that, till
+your King ta­keth his Robe, and that the Matter suffer Ignition without
+smoaking.
+
+Hartman.) This Process was sent to Sir K. D. in a Letter from Paris, by Abbot
+Bou­caud, with the following words. Sir, I have sent you here inclosed a great
+Work upon ♄, which Monsieur de Rouviere hath given me; it cometh from a Man
+who ha­ving been carried away, and kept close in a Castle, made at last his
+escape, and was con­ducted to the Duke D'Elboeuf, and Mon­sieur de Rouviere
+found the said Process un­der his Boulster.
+
+### 1.74. The said Abbot sent to Sir K. D. also the following Process, which
+he saith he had from an intimate Friend, who assured him that it was a
+Reality.
+
+TAke of a very good Oar of ♄ that was never wet, or instead of it, take a true
+and natural Mineral Lithargy, not Artifi­cial; pulverize it an grind it upon a
+Marble stone with distilled 🜄, several times distilled. [[Page
+102]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=61) Put your Oar of
+♄, or Lithargy in one or more Cucurbites, and pour upon it of the aforesaid
+distilled 🜄, or distilled Dew, so much as may cover it the breadth of seven
+or eight singers, cover it with a blind head, and lute well all the junctures,
+and digest for fourty days with a gentle heat, shaking the Vessel often; when
+you perceive that the Menstruum is coloured, decant the clear, and put on
+fresh 🜄, or take new Oar or Lithargy and extract as before; filter the
+Menstruum and distill it with a very gentle heat. Take this Salt of ♄ and put
+it in a Matrass, digest it with a Lamp 🜂 with six small wicks, and it will
+dissolve of it self, and there will settle to the bottom some im­purity or
+feces; break the Matrass (being cold) and take the pure part and put in into
+another Matrass, dissolve it by digestion as at first, separate the pure from
+the impure. Repeat so often till this Salt leave no more impurity. Then keep
+it carefully, until you imploy it in the following Work.
+
+Take of this Salt ten parts, and one part of ☉ Mineral that hath not been
+melted, put them together in a Matrass, Seal it Her­metically, and digest with
+a very gentle heat, and there will loosen it self from the Salt of ♄ some
+Spirits, which by falling down again will dissolye the ☉ by little and [[Page
+103]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=61) little, and
+there will separate it self yet some feces which are not useful for this work,
+which you must separate. Take what is clear and transparent, and put it in a
+Philo­sophical Egg, Seal it Hermetically, and di­gest it with a Lamp 🜂 with a
+gentle heat, continue the digestion without ever increa­sing the heat, &c. The
+said Abbot said, that this was all he could have, or know of this Work
+hitherto.
+
+### 1.75. The said Abbot sent also the following Pro­cess in a Letter from
+Paris.
+
+MOnsieur de R's. Operation, by which he fixeth ☿ into ☽ with the Salt of
+Sa­turn and ☽, is thus. He taketh one part of ☽, and three parts of ☿, whereof
+he maketh an aaa, which he putteth in a Matrass, and putteth upon it Saccharum
+Sa­turni (made the common way) about a fingers breadth over the aaa; then he
+Seal­eth the Vessel, and digesteth it with a Lamp 🜂 with gentle heat,
+increasing the heat by degrees, it passeth through all the colours; and of one
+Marc of ☽, and three Marcs of ☿, there remained ℥xij. of fixed Matter that
+suffered fusion and the Test.
+
+He saith, that there should have remained one Marc of the ☿ fixed, but the
+Operation [[Page
+104]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=62) was not well
+wrought. In another Letter he saith, that there remained ℥iij. or iv. of ☿
+fixed into ☽, which endured fusion and the Test.
+
+### 1.76. An Operation upon Jupiter.
+
+DIstill a Menstruum out of Vitriol and 🜹, with which make Sulphur naturae
+Iovis: Make also with the same Menstruum Sulphur nat. ☽, which dissolve into
+Oyl, and with it insere Sulphur Iovis ad fusibilita­tem, and then project upon
+Iupiter.
+
+Dunston thus: Having taken our white Earth, you may putrifie it by it self, or
+with the Calx of other Metals, and change its co­lour into a new white or red:
+Then ferment it with the Oyl of ☉ or ☽, &c.
+
+Riply (in his Viaticum) thus: Calcine ♃ into a most subtil Calx (for in it
+there is pure ☿, not brought to its full perfection by Nature) which is easily
+hardened with the Oyl of ☽. Do your Work therefore with Tin (until you are
+Rich ) because so the Work is easily done, and at small charge.
+
+Lullius (in his Magia Naturalis) thus: Make Sulphur naturae (without which
+no­thing can be done) and thus of any Metal (which he directeth to do in a
+very tedious [[Page
+105]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=62) way) then
+incere it with Oyl of Ferment (as in his Pract. Brev. or Sermocinal) until it
+be fluid; then it is a perfect Medica­ment.
+
+### 1.77. ☉ & ☽ ex ♃.
+
+TAke of the filings of ♃ lbj. Salt-petre lbj. mix them, separate the Spirit
+from the Anima by combustion, Subliming it in so many Pots as you know:
+Dissolve the Caput Mortuum (which will be fixt as a stone, so that you may
+strike 🜂 out of it by collision) with ☿, that there may be a Re­gulus made of
+it, which pour out and make into Rods, and cement them with store of Calx-vive
+on a Circulary 🜂, then Coppel them with Lead, and add to them fine ☽, what
+then remaineth upon the Coppel is good, and you will have considerable gain by
+it, and by the separation of A. F. you will have three parts of ☽, and one of
+☉.
+
+But when you melt your Caput Mortuum of ♄ with  (antimony) into a Regulus, as
+before, when you have Precipitated them with Tartar, or mixed them, then put
+your Regulus to Coppel, and in it you will find ☉: See that you do not cast
+away the Scoria, for you will find Silver amongst it; Coppel it therefore by
+it self with the follow­ing [[Page
+106]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=63) Powder, so you
+will find ☽, which sepa­rate with A. F. (the Powder make thus.)
+
+Take Chelamus (Bay Salt) melt, dissolve, filtre, and coagulate it; melt it
+again, and do this Work thrice: Then cast in this Salt into the aforesaid
+Scoria (from which you separated the Regulus) after you have put it to Coppel,
+so your Work will be done and accomplished speedily, and with great fruit and
+profit in the applying the fire.
+
+Hartman.) The Famous Tachenius Re­lates (speaking of the malignity of
+Arsenick) that there are some who can burn pure Tin into Powder, which cannot
+again be reduced into Tin by Vulgar Art, as other Metals; yet with Arsenick it
+is made Scoria, part of which by a singular Skill becometh pure ☽. Sigis­mund
+Wan, a Citizen in Voitland, knew and practised this Art of Separation, to his
+great benefit; for in the Year 1464 he Builded and Endowed a great Hospital
+there, which, as Gaspar Bruschius Relates, is at this day to be seen, with the
+Epitaph of the aforesaid Citizen.
+
+Now, that ☽ may be got out of Tin with Arsenick, Clavious proves in his
+Apology a­gainst Erastus Second Vol. Theatri Chym. Fol. 39.
+
+[[Page 107]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=63)A Worthy
+Gentleman lately related to me, that he knew one, who told him, that out of
+lbss. of Block-Tin he got so much ☉ as he sold for 3s. 6d.
+
+### 1.78. A short and clear Description of the great Phi­losophick Stone.
+
+#### 1.78.1. The first Operation.
+
+TAke Salt prepared, Nitre, and Roman Vitriol, ana lbij. beat them into a small
+Powder, mix them, and put them into a Pot upon a slow fire, and moving them,
+cause them to melt, that they may be dryed a lit­tle. Then take ☿ taken out of
+the Mine­ral, lbj, which being put into a Linnen Cloath, squeeze it and pour
+it upon the hot Matter, moving it with a Rod, until the Mer­cury is hid in the
+Matter; incorporate the Mass well when it is cooled, in a Marble Mortar; then
+dry it all in a Pot very slowly, until it be so dry, that a Sword held over
+the Po [...], receive no moisture from it; then put it into a Sublimatory, and
+Sublime it first twelve hours, afterwards increase the fire, that all the
+Mercury may be well Sublimed, white as snow: So the ☿ lacking nothing of its
+weight, will be associated with the invi­sible Sulphur of Vitriol, and purged
+from [[Page 108]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=64) the
+Earth and its blackness; and if you will Experiment that Conjunction, you may
+se­parate Sulphur of Vitriol from ☿ thus: Take distilled Vinegar, q. v. quench
+burning Iron several times in it, let your Sublimate stand therein all Night,
+afterwards pass it three times through a filtre, then set it upon a slow fire;
+so a black scum will swim above the Vinegar, which take off; then evapo­rate
+all the Vinegar with a slow fire, so you will have an Excellent Sulphur of
+Vitriol; and the ☿ will remain by it self in the bot­tom.
+
+#### 1.78.2. The Second Operation.
+
+THis teacheth to Extract the Quintessence from this ☿ Sublimate thus: Make A.
+F, as follows; Take Salt-petre and Vitriol, ana lbj. beat them, then mix them
+together and distill them with a slow fire in a glazen A­lembick on Ashes for
+eighteen hours, so that nothing more can distill (but lute all so well, that
+nothing exhale;) after the above-said 18 hours increase the fire by degrees,
+that the Water may be distilled, and then continue the same degree of heat
+until it begin to cease to distill, and so proceed by degrees, until nothing
+more can come from it: Let the Vessels cool of themselves, and Seal the [[Page
+109]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=64) Recipient with
+gummed Wax; and when you have put your Sublimate, being well beat, in a strong
+Matrass, pour upon it of this Water to the height of one or two fin­gers
+breadth, and immediately obturate it well: Set the Matrass in Ashes on a slow
+fire for the space of twenty four hours; and if it be not then dissolved, if
+you pour ℥vij. of Water upon it, add of 🜹 well beaten ℥j. or more; close it
+up presently, and set it up­on Ashes, so it will be dissolved: It is a very
+great Secret. Then abstract all the Water, (the junctures of the Vessel being
+carefully stopped) by distillation on a slow fire of Coals, even to dryness:
+Afterwards taking off the Cap, cover it straight with a glazen Operculum, lute
+it, and when you have in­creased the fire, the Quintessence of Mer­cury and
+Vitriol will ascend at the sides of the Vessel; at last make the fire yet
+stronger, that all the Quintessence may be well Sub­limed, which, when the
+Vessel is cooled, keep carefully: Beat the black faeces, and Sublime it once
+more, if perhaps any of the Quintessence remain still amongst it, so you shall
+have purged the Mercury, and imbibed more of the Spirits of Vitriol existing
+in A. F. Then dissolve and Sublime the Matter (that is Sublimed) twice more
+after the same manner, that no impurity may be [[Page
+110]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=65) left in it, so
+it will be whiter than Snow.
+
+#### 1.78.3. The Third Operation.
+
+Beat this Matter, and put it into an Earthen Urinal well glazed within, which
+cover with an Earthen glazed head like to a Paradi, that they may be exactly
+joyned together; lute the junctures well, and digest it eight days or more in
+an Athanor on a slow fire of Coals; for otherwise it could not be dissolved
+into Water.
+
+#### 1.78.4. The Fourth Operation.
+
+PUT your Matter so dissolved into a Ma­trass, close it, and dissolve it in A.
+B. into Water with a continual slow heat: Di­still this Water in a little
+Alembick on Ashes with a slow fire of a Lamp, and Water of Paradise will be
+distilled, (of which alone the stone may be made by the Method after
+described) one drop of which poured upon a Plate of any red-hot Metal will
+throughly whiten it within and without; (Note, that the like may be done with
+the Lunary made of ☽ and ♃ if they be pour [...]d on a Plate of ♀.) After the
+water is distilled, some faeces will remain, which contain in them Earth, Air,
+and Fire, which you may thus separate [[Page
+111]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=65) one from
+another: Beat those faeces, and di­gest them in an Athanor, as you did the
+Quintessence before, afterwards dissolve them the same way in M. B. At last
+distill with a very strong fire in M. B. by an Alembick, a white Oyl, which is
+called Air, which when it ceaseth to drop any more, take off the Recipient,
+and close well the nose of the Alembick, and so let it cool of it self: Then
+set the Alembick with a new Recipient on Ashes, and draw off the red Oyl
+(which is called fire) with a strong fire. Cast away the Earth that remains.
+
+#### 1.78.5. The Fifth Operation.
+
+IF you would make a Stone of Paradise alone, or Virgins Milk, you need not
+separate the Elements; but if you have se­parated them, do thus: Take of 🜂 or
+red Oyl part j. of Air, or white Oyl parts iv. and of Virgins Milk parts viij.
+Put them together in a Matrass with a short and nar­row Neck; in two other
+Matrasses put of Virgins Milk, q. v. Seal them all Hermeti­cally, and so put
+them in an Athanor on a slow fire of small coals burnt till they have ceased
+from flaming, and so let them stand till by several colours they attain a
+perfect white: Then (if you will have the Stone [[Page
+112]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=66) white) you may
+take out one Matrass, leav­ing the other two (if you Operate with three at
+once:) Then increase the fire sensibly, because your Work cannot easily be
+marred, and so proceed by degrees, until the Mat­ter is perfectly red.
+
+#### 1.78.6. The Sixth Operation.
+
+IS Projection. Take an hundred parts of ☿ purged the common way, heat them in
+a Crucible, and add to them part j. of the white or red stone, and the whole
+will be a Medicine. Then take of this Me­dicine part j. and Project it upon
+another hundred parts of ☿, moving it with a Rod, and afterwards melting it.
+Further, Project of this, part j. in an hundred parts, and the whole will be ☉
+or ☽, according as the stone is which you took: If you will Pro­ject upon
+other Metals, melt them, or do them into thin Plates, and on them when they
+are very hot Project part j. upon an hundred, and set the Plates in the 🜂 for
+some time. If you would augment the ver­tue of the Stone in infinitum,
+dissolve it as often as you please in B. M. and coagulate it slowly in Ashes;
+let Iupiter and Saturn be melted.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=66)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=67)
+
+[[Page 113]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=67)
+
+#### 1.78.7. The Seventh Operation
+
+IS the Magistery of an Athanor, which Build thus: Take of Magisterial Lute,
+Potters Earth, Horse-dung, Paper carmi­nated, Hairs cut, make them all into a
+Paste with Salt water and Vinegar, and with that Paste build your Furnace;
+make a round Wall four fingers breadth in height, with Chimneys, set upon that
+Wall an Iron Plate which hath four Supporters, by which it may stay upon the
+Wall, leave some distance between the interior sides of the Wall and the
+exterior of the Plate, that the heat may ascend by it; then raise the Wall to
+the height of five Inches: Then make an earthen Cap, which on the one side
+must have a Window and convenient Door, by which you may feel the heat,
+putting in your hand at it, (which heat must be so moderate and uniform, that
+you may endure to hold your hand in the Athanor as long as you please;) the
+Cap must be carefully luted within and without, and set upon the Furnace and
+ag­glutinated with Clay: Afterwards, when the Furnace is sufficiently dryed,
+set upon it Glass Goblets, and set your Matrasses up­on them. Mind well all
+these things, and consider the Figures cut in the Page over [[Page
+114]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=68) against this.
+Now, by the holes that are made betwixt the Plate and the Wall, you may
+increase or diminish the heat at your pleasure. But note, that upon the
+Goblets, above the Tripus and the Plate, you may set an earthen Trencher, and
+set thereon an Egg, which cover with another Trencher, so that these two
+Trenchers joyned together may be lifted up in the Air, and the Egg not touch
+the sides of the Trenchers.
+
+### 1.79. A Note from one that wrought the Stone.
+
+I Have had certain notice of one that made the Philosophers stone with Leaf-
+gold and a clear 🜄, that looked like Rock 🜄, but smelled strong. He who
+wrought it for him (that is, attended the Lamp) said, he had made his Liquor
+thrice before it would dissolve the ☉. The last dissolved it by lit­tle and
+little, it became a yellow Aureal Li­quor, then thickened by little and
+little, at length became a black thick broath, in the end like melted Pitch:
+then changed several colours, every one sparkling like Orient precious Stones,
+and sparks like fire or Stars rose in the Glass (which was a large Egg Sealed
+Hermetically) then fell down again. It was digested in Ashes made of old Bark
+of Oak burned (unwashed) and the Au­thor [[Page
+115]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=68) said, no other
+Ashes would serve. And the heat was never greater, than that he could endure
+the back of his hand upon the Ashes, which was caused by a Lamp.
+
+Hartman.) This Relation is of Sir K. D.
+
+### 1.80. Lauremberg's Observations upon Angelus Sala his Synopsis of
+Aphorisms, 1624. in Quarto, pag. 4.
+
+HE saith thus: I did so prepare fluid ☿, that without the mixture of any thing
+whatsoever imaginable, without any dis­solving Menstruum, it did acquire the
+form of a most pure and transparent Liquor; nei­ther hitherto hath it lost
+this liquid form, but is so liquid, that you would imagine it had been brought
+from a Fountain, and which you will more admire, being tasted, it is void of
+all acrimony, and meerly in­sipid; (I add also this) that some Months ago I
+reduced English ♃ into a fluid and moist Liquor, without the least addition of
+Menstruum, which humidity it not only con­tinually keepeth entirely to this
+day, but (so far as I can see) will never lose it.
+
+(Afterwards in the same page, he saith,)
+
+I confess ingenuously, that not long ago, I had the happiness of seeing at a
+Friends, and feeling such an unfactitious Liquor (li­quorem [...]) whereby
+leaves of Gold [[Page
+116]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=69) and Silver were
+dissolved into a pliant and fluid Liquor, without any noise or the least
+suspition of Acrimony. This Liquor can be no other than congealed Air, without
+which the Life of Animals becomes no Life; and there is no Body under the Sun
+in that three-fold Kingdom that is destitute of it. I had rather search its
+Medicinal Power with silent speculation, than weary People with tedious and
+fruitless Discourses.
+
+### 1.81. Concerning May Dew.
+
+MAY Dew is the true Minera of the dissolvent. Aug. This Liquor is such, that
+if it be gathered at a certain Sea­son, two Uses, &c. One, that hereby you may
+infuse Gold in a Liquor of its proper Seed, when you begin first to dissolve
+it, &c. Cosmop. But this 🜄 is said to be the Men­struum of the World:
+Speaking of the Ele­ment of 🜄, the Menstruum of the World is tripartite, &c.
+the more pure resolved into Air. There is in the Air an Occult Nourish­ment of
+Life, which we call Dew in the Night, and in the day-time 🜄, rarefied, who
+[...]e invisible congealed Spirit is of more value than the whole Earth, Idem.
+The princi­pal Matter of Metals is the Humidity of the Air (the Aerial
+Substance) mixt with heat [[Page
+117]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=69) ☿ prepared
+aforesaid is governed by the rays of the ☉ and ☽ prepared in the Sea; not one
+place or one Countrey will afford it you. Experience testifieth, that ☉ is not
+sought for save in Mountains, because it can be seldom had in a Plain.
+
+### 1.82. Flamel, Artefius, Pontanus, Zacaire, &c. Their Arcanum.
+
+THis Stone is that about which the above­named Authors employed themselves: It
+is composed of the Mineral Gluten, made of ☿ and  (antimony) Mineral, by the
+addition of the Solary Ferment thus: Distil the Volatile Crystals or Butter
+from ☿ 🝞mate and  (antimony), equal parts: Or distill, or dissolve common ☿
+in A. F, Precipitate with Salt-water, and you shall have a very white Calx,
+which dry, and joyn it with as much of Calx of ♃, and distill the Volatile
+Crystals thereof. These Crystals are the Magnet, by means of which the
+Universal form, or Spirit of the World is attracted; which specifieth and
+determineth it self in this matter, by resolution in the Air in ♈, ♉, & ♊. Put
+this Liquor in a Cucurbite, and digest for thirty days with a very gentle heat
+with a Lamp, to the end, that there may be a Natural distillation made of the
+attracted Spirit, which will begin to [[Page
+118]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=70) come over
+invisibly the first or second day, with the Idea of that which it draws, to
+wit, the  (antimony), and of ☿, or with a universal Mineral form, tending to
+Metallick. This Liquor will continue coming over even unto the end of fifty
+days; let not the heat exceed that of ones hand. This Aethereal 🜄 is the 🜄
+of Paradise, or the Mineral astrum of Flamel's two Dragons, the one is
+Volatile (which is ☿) and the other Rampant, which is the  (antimony), which
+do not suffer to be touched nor at­tacked, until their Venemous scum (that is
+to say, the Butter) have produced the Spi­rit of the Mercurial-wind, and the
+scum of the Red Sea. Note, that within fifteen days this Sea or Butter cometh
+to be very red, with a gentle heat of a Lamp 🜂 in Ashes; and this is Flamel's
+Red Sea. This Aethereal 🜄 penetrates all Metalline Bodies, (being Lu­minated
+and made red-hot) and tingeth them into ☽. Two drops of this 🜄 being
+dissol­ved in ℥iv. of Spirit of Wine, maketh a Vir­ginal Milk, whereof the
+Dose is a spoonful: It is a very gentle Emetick, because of its crudity, or
+rather Mercurial Substance, where­of the vertue Operates upwards, because it
+is moist and Airy. It Cures the Epilepsie by the Character, which is imprinted
+into it, by the word Fiat, and all astral Diseases, as far as humane
+disposition permits. This is the [[Page
+119]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=70) Coelestial 🜄
+which doth not wet ones hands after its preparation; 'tis the ☿ of ☿, the 🜄
+or Centre of the Heart of ☿, and the true extent of  (antimony), but it
+requires more Work. Take this 🜄 (you must have a pretty great quantity of it,
+and therefore you must have ten, fifteen, or twenty pound of Volatile
+Crystals) and put it in a Cucurbite, and with a very gentle heat of a Lamp
+distill off all the waterish moistness, which by careles­ness it might have
+contracted from the Air: There will remain in the bottom a Gum, a Syrup, a
+viscous 🜄, a Radical Mineral moi­sture, which is the Eagles gluten above-
+men­tioned, which did fly the space of fifty days continually; by means of
+this gentle heat, the Gluten flies no more, but is the flying Crapant and
+Zacair's Mercurial 🜄, which is congealed by cold, and liquified by heat. The
+Authors before mentioned have digested this Gluten per se in a Matrass
+Hermetically Sealed, without the addition of a Solary Fer­ment; but afterwards
+they have been forced to ferment the Powder which they made of it. For to
+shorten the Work, take seven parts, or nine or ten, or more of this Glu­ten,
+unto which by heat joyn one part of ☉ in leaf, or Sulphur of ☉ prepared by the
+Salt Enixe (which is best) and digest in an A­thanor, or in Flamel's Furnace
+(which is [[Page
+120]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=71) very easie)
+until all the Matter have passed through all the due colours, and come to be
+of a purple Citrine colour; then have you the Metalline Salt, the most high
+Tincture, a Treacle made of Venom, a most Excellent Medicine made of the
+greatest Poison. This Medicine is multiplyed in quantity by new addition of
+the afore-mentioned Gluten; in quality, by dissolving in humido into a
+Li­quor, and purifying by digestion, and then by fixation; Experience will
+teach other things far better. This Method, although it differs much from that
+of the greatest Phi­losophers, as Lully, Trevesan, Cosmopolite, &c. (and being
+but particular in compari­son of that high Generalissima) nevertheless it
+seems to be Universal in regard of Metals and Minerals. Note, that you may
+also ex­tract a white and red. Oyl of that which re­mains, as was said before,
+and make a new aurifique stone thereof, which those Authors have not
+understood, or if they have under­stood it, they have not spoken of it. Note
+also, that this Mineral 🜄 of Paradise, is the Philosophers live ☉, and the ☿
+of the Wise, but not the Generalissima: And this 🜄 will serve against all
+Maladies, for it drives them out, according to the intention and inclina­tion
+of Nature.
+
+[[Page 121]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=71)
+
+### 1.83. To prepare a Ferment or Sulphur of ☉.
+
+MAke an aaa of ☉ or ☽, and ☿; grind this aaa, then squeeze it through a
+Leather, the Globe remaining in the Leather, you must grind again, and then
+put it in a Poringer, covered with another Poringer, and lute them well
+together; then put them to a gentle 🜂 for half an hour: Then grind it again,
+and digest it between the two Por­ringers as before. Repeat this so often till
+the ☉ or ☽ be in Powder impalpable; then incorporate this Powder with fresh ☿,
+grind them together, and digest with a gentle 🜂, so that little or nothing
+may Sublime, and if any thing Sublime, put it again to that which remains in
+the bottom. Repeat this last Operation (adding new ☿, grind and digest as
+before) so often, till the whole Body of ☉ or ☽ be converted into running ☿,
+and that all may be squeezed through the Leather: Then put this ☿ animated
+into a Porringer, which cover, and digest with a gentle heat, so that nothing
+Sublime; conti­nue the digestion so long, until you see a thin skin swimming
+upon the Matter, which take off carefully (it will be of the colour of ☉ or ☽)
+put the Matter upon the 🜂 again, in­crease the heat a little, taking off the
+thin [[Page 122]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=72)
+skin as it riseth; continuing so long until the Matter produce no more
+thereof: And thus you shall have the Sulphur of ☉ or ☽.
+
+### 1.84. An Operation that Monsieur de I'Oberye wrote from Monsieur John's
+Mouth.
+
+TAke the Mother-liquor of Salt-petre, let it run cold through washed Sand,
+then filter it by Languetes, then through gray paper: Then evaporate with very
+gen­tle heat, putting down the skins as they rise upon the Liquor; the
+remaining Salt being dry, grind it, and put it to resolve into Li­quor in a
+Cellar, then filter and evaporate as before. Repeat this purification five or
+six times, or so often, till it leave no more feces in the filter. If you take
+lbx. of this Liquor, you shall have but lbij. ℥viij. of pu­rified Salt: Of
+this lbij. ℥viij. you shall have ℥x. of Spirit, by distilling it per se in Re­
+[...]orts in Sand; you must put but lbss. of this Salt into each Retort;
+deflegm it in B. Take the Caput Mortuum, and grind it, and dis­solve it in a
+Cellar; filter, and congeal, re­peating this two or three times: Then being
+very dry, joyn ℥iij. of it with ℥j. of the rectified Spirit; digest and
+circulate eight days with gentle heat in Ashes, and all will be a 🜄 of the
+colour of Amber. Put one [[Page
+123]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=72) part of ☉ into
+ten parts of this Liquor, and it will dissolve it (cold) in less than a
+quar­ter of an hour: Decant the dissolution when it is clear; one drop thereof
+taken in a little broath, is a great Corroborant.
+
+Put ☿ revived from Cinaber into the dis­solution [...] of ☉, and it will
+become like a Gum, decant the clear, and put the ☿ to dry, and it will become
+hard; melt it between two beds of Calcined Egg-shells in a Cruci­ble, and you
+shall have good ☉.
+
+### 1.85. Venus into ☽: Sent me by Monsieur de Beaulieu.
+
+TAke fixt Arsenick ℥viij. fixt Nitre ℥iv. Oyl of Tartar prepared, as shall be
+taught hereafter, ℥xij. 🜹 fixt, ℥xv. Let them all resolve into Liquors in a
+moist place every one by it self; then take these Liquors and mix them
+together, and filter them, then put to them ℥iij. of Oyl of ☿, and ℥viij. of ☽
+(prepared and dissolved in the Liquor of fixt 🜹 and fixt Sulphur) mix all
+well to­gether, and put it in a Matrass, and digest in fimo for fourty days,
+changing the dung every eight days: Then decant the clear, and the feces
+remaining in the bottom, dis­solve in the Liquor of fixt 🜹, and put it to the
+rest of your Liquors; filter it three or [[Page
+124]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=73) four times:
+Then distill it in a Cucurbite with a gentle 🜂 in B. M. (not boyling) distill
+to dryness, and you shall have a white Matter like a stone, and clear like a
+Pearl: And to know whether it be perfected, put a little of it upon a red-hot
+Plate of Copper, and if it melt like Wax, and penetrate through the Plate
+without smoaking, leaving the said Plate white where it hath touched, it is a
+sign of an entire perfection; but if you find that it is not yet fusible, and
+that it smoak yet, grind it upon a stone with a pint of 🜄 distilled from
+whites of Eggs, and distilled three times upon lbj. of Quick-lime, grind it
+with the said 🜄, until it be of the consistence of Pap; then put to it four
+times its weight of Liquor of fixt 🜹; digest in fimo for eight days only,
+then congeal it as before, so is it perfect. Project ℥j. of this Matter upon
+lbv. of prepared ♀, and some­time after cast a little piece of Wax into it, at
+three or four times; then cover the Cru­cible, and leave it in fusion for some
+hours.
+
+### 1.86. The Multiplication.
+
+DIssolve ℥viij. of this Matter in lbj. of the 🜄 of whites of Eggs, then add
+℥iv. of Liquor of fixt Arsenick, digest in fimo for fifteen days; then distill
+and con­geal [[Page
+125]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=73) it as before,
+so is it multiplyed. If you reiterate this Multiplication several times, the
+Matter will remain in a Liquor, which will project upon great quantity of
+Venus.
+
+### 1.87. To fix the 🜹 for this Work.
+
+TAke lbj. of 🜹 in small pieces about the bigness of a Wall-nut; make a Paste
+with Quick-lime and whites of Eggs, with which endew the said pieces of 🜹,
+let them dry, then stratifie them in a Crucible with Powder of Quick-lime, let
+the beds of the Quick-lime be about a fingers thick; then put the Crucible to
+a Circulary 🜂, which increase and approach once in a quarter of an hour, at
+last, cover it with Coals, and let it stand so for half an hour: Then take out
+the 🜹 (the Crucible being cold) and wipe off the Powder of Quick-lime, then
+dissolve the 🜹 in fair 🜄, filter and congeal it; dis­solve it in a Cellar
+into an Oyl, which keep for use.
+
+### 1.88. To fix the Arsenick.
+
+TAke equal parts of Arsenick and Nitre, grind them, then mix them together;
+fill a Crucible half full with this Powder, fill it up with Salt of Tartar;
+cover this Cruci­ble [[Page
+126]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=74) with another
+that hath a little hole in the bottom, lute them, and set them in a Cir­culary
+🜂, the 🜂 being half a foots distance from the Crucible; increase and
+approach the 🜂 once in half an hour about two inches, and when you perceive
+no more smoak come from the Matter through the little hole, put the 🜂 close
+to the Crucible, and at last co­ver it with Coals, and keep it so covered for
+twelve hours, then let it cool, and grind it, then dissolve it in a Cellar,
+and keep the Liquor in a Glass close stopped.
+
+### 1.89. To fix the Sulphur for this Work.
+
+TAke ℥v. of Quick-lime, slacken it in six quarts of fair 🜄, and having stood
+twenty four hours, filter it, and put it in a Kettle; then take ℥viij. of
+flowers of Sul­phur, tye it up in a Linnen Bag, which hang in the water in the
+Kettle, make it boyl for an hour, and you shall have a Sulphur incombustible.
+
+### 1.90. Oyl of ☿.
+
+TAke ℥iv. of Sublimate in fine Powder, put it in a Crucible, and pour upon it
+lbj. of fine ♃ melted, stir it well together; then being cold, put it upon a
+clean Iron [[Page
+127]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=74) Plate in a
+Cellar, and you shall have an Oyl or Liquor.
+
+### 1.91. To prepare the ♀ for this Work.
+
+TAke Arsenick one part, decrepitated Salt two parts, pulverize and mix them
+to­gether; then stratifie with this Powder some thin Plates of ♀, cement them
+for two days, then put them to a strong 🜂 for six hours; then wash these
+Plates from the Salts, and beat them to Powder, wash the Powder with Vinegar,
+and then with 🜄 two or three times; then with Soap make a Paste thereof,
+which put in a Crucible, that hath a hole in the bottom, put this Crucible in
+another Cruci­ble, and so melt down the Powder of ♀, and it will run through
+the hole into the other Crucible, and you shall have a very white ♀, and well
+prepared for Projection.
+
+### 1.92. To prepare the Salt of Tartar for this Work.
+
+TAke equal parts of Tartar and Quick­lime, powder them, and mix them well
+together, put this in a Pot, cover it close, and put it in a Potters Oven when
+he burns his Pots; then make a Lixivium of it with Rain 🜄, which filter and
+evaporate to dry­ness, [[Page
+128]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=75) mix this Salt
+again with the same quan­tity of Quick-lime, and Calcine it in a Pot­ters Oven
+as before. Repeat this five or six times; then dissolve this Salt in distilled
+Vi­negar, distill and cohobate so often, till it will no more congeal into a
+Salt, but that it remain like melted Wax in the bottom, which pour out, and
+keep it for Use.
+
+### 1.93. To prepare the ☽ for this Work.
+
+DIssolve ℥viij. of ☽ in ℥viij. of Spirit of Nitre, then Precipitate with Salt
+🜄, the Powder of ☽ being settled, and the 🜄 clear, decant; then edulcorate
+the Powder and dry it, then dissolve it again in Spirit of Nitre as before;
+Precipitate, Edulcorate, and dry the ☽ as before. Repeat once more, three
+times in all, then put it in a Matrass, and digest it eight days in Sand. So
+is it prepa­red, and fit to be further prepared, and dis­solved in the Oyl of
+fixt 🜹, and fixt Sul­phur.
+
+### 1.94. Transmutation of ☿ into a Regulus.
+
+PRecipitate Butter of  (antimony) with warm 🜄 once, without further
+edulcoration; dry it gently, then add a fourth part of ☿, and of black Soap,
+and Salt of Tartar, of each as [[Page
+129]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=75) much as needeth
+to make a Paste, whereof make little Bullets, which put in a Retort well
+luted; distill in a naked 🜂, with a strong sudden 🜂, and the Matter being
+melt­ed, you shall have a Regulus as white as ☽, which must be melted three or
+four times to have it finer and whiter.
+
+### 1.95. Calx of ☉.
+
+MOnsieur Le Febore shewed me a very subtil and Spungy Calx of ☉, he had made
+thus: Purifie ☉ to its greatest height, beat it very thin, and cut it into
+small pieces, heat one part of them in a Crucible, and six parts of cleansed ☿
+in another: Make an aaa in due manner, stirring a while with an Iron Rod, then
+throw it into cold 🜄; squeeze out as much ☿ as you can through
+Chambo­leather: To the remaining Globe put double as much flowers of Sulphur,
+grind them well together: Put this mixture into a capacious Crucible, and
+gently burn away the Sul­phur, and evaporate the ☿, reverberating the Calx
+three or four hours after all is gone away. Repeat all this Work twenty or
+thirty times; then reverberate it under a Mussle with so gentle heat, that it
+melt not, the longer the better: Then burn S. V. three or four times from it;
+Qu [...]re, Of grinding [[Page
+130]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=76) the Calx long
+with pure Virgin Honey, then dissolving it in a large quantity of pure
+di­stilled warm 🜄, and letting it stand warm till all the Calx be settled to
+the bottom: Also of grinding the Calx with purified Salt of Tartar, then
+reverberating the Mass, and lastly, dissolving the Salts in warm 🜄, and
+letting the Calx settle, as with the Honey: I think it will be a very subtil
+Calx, to dis­solve the ☉ in A. R. of Nitre and 🜹; then Precipitating it with
+Spirit of Urine, or with a Marinated 🜄, made by dissolving the fixed Salt of
+Urine in pure distilled Rain or Spring water.
+
+### 1.96. A pretty Curiosity, To make Metals Vegetate visibly.
+
+CAlcine white and transparent River Peb­bles, extinguish them in 🜄 to have a
+Calx thereof, which reduce into subtil Pow­der with equal parts of Tartar and
+Nitre (fulminated together) taking double quan­tity of this fusible Salt:
+Dissolve this Mat­ter upon a Marble stone or Glass in a moist place, and you
+shall have a Liquor, which filter: Take about ℥ij. of this Liquor, put it in a
+Viol, and put into it about ℥ij. (or less) of the Calx of any Metal, dissolved
+in its Acid Menstruum; Then evaporate to [[Page
+131]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=76) the consistence
+of a Calx: Let it stand, and so soon as it is cold you shall see the Metal
+Vegetate, and shoot out into branches, which will be of different colours if
+you put in the Calx of divers Metals: This is fine and plea­sant to behold.
+Note, that it is to be ob­served in general, that the cause of Vegeta­tion is
+the encountring of an Airy Acid with a fixt Alkali; and it is thus, that
+Quick-lime Calcined with common Salt into an Alkali, being spread upon Barren
+ground, fatneth it, and maketh it fruitful, causing Vegetables to grow, by
+contracting the Acid of the Air and its Volatile Salt.
+
+### 1.97. To engender Cray-fishes.
+
+IT is to be observed first, that to do this Operation well, you must do it at
+the increase of the ☽, and in the sign of Cancer, if possible, or at least in
+any other Aquatick sign.
+
+Then take a parcel of the said Cray-fishes, taken in Brooks or small Rivers,
+being all alive; divide them into two parts, put one part thereof into an
+earthen Pot not glazed, cover it with its cover, or with ano­ther Pot, lute
+them well, and put them to Calcine for seven or eight hours with a strong 🜂,
+until they be well Calcined, and fit to [[Page
+132]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=77) be reduced to
+Powder in a Marble Mortar: Then take the other Part, (being also all alive)
+and boyl them in River 🜄, like un­to that wherein they w [...]re taken, then
+pour off the 🜄, which being cold, put it in a wooden Vessel, or of Earth, and
+into about a pail full of this 🜄, put about half a hand­ful of the Powder of
+the aforesaid Calcined Cray-fishes, stir it well together with a stick, then
+let it stand to settle, without stirring it at all, and within a few days you
+shall see as it were many Atoms appear in the 🜄, which are the breeding Cray-
+fishes, moving in the 🜄; when you see them as big as a small button, you must
+feed them with Bul­locks blood, casting a little thereof into the 🜄, from
+time to time, which in time will make them grow of their natural bigness. You
+must observe, that before you put the 🜄 into the Vessel, you must first put
+some Sand into it, so much that the bottom of it may be covered about a
+fingers breadth.
+
+### 1.98. To make Oyl of Talc.
+
+TAke one part of Venice Talc, and two parts of pure Nitre, both in subtile
+Powder, put them in a Wind-Furnace to Calcine with a strong 🜂 for seven or
+eight hours: Then take out the Crucible, and beat [[Page
+133]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=77) the Matter to
+subtil Powder, and wash it perfectly well with fair 🜄, till you have brought
+away all the Saltness of it; then dry the Talc well, and Calcine it again with
+two part of new Nitre, all as you did be­fore, and dulcifie the Salt from it.
+Repeat these Calcinations, and dulcifications four times, that the Talc may be
+perfectly white and well Calcined, and in exceeding subtil Powder: Then put it
+into a strong Glass Bottle, half full, and stop it close, and set it in a
+great quantity of Ice or Snow, that the extream cold may penetrate into it
+(for therein consisteth the Secret) but the Ice or Snow must not actually
+touch the Bottle, but it must be set in a Box of Wicker, fit for it, made like
+a Cage, that it be all open between the Barrs or Osiers, and in two or three
+Months all the Talk will be converted into a pure clear white Liquor, which is
+Excel­lent for the Face and Skin, and will make Scarlet white, being dipped in
+it.
+
+### 1.99. An Excellent Cosmetick prepared out of ☽.
+
+TAke refined ☽, one part, Sal gemmae, two parts; beat the ☽ into very thin
+Plates,  [...]stratifie them with the Sal gemmae in Pow­er in a Crucible well
+luted with another [[Page
+134]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=78) upon it: Cement
+for twenty four hours, then open the Crucible, and if you find the ☽ well
+Calcined, it is enough; if not, strati­fie it with fresh Sal gemmae, and
+Cement as before: Then edulcorate the ☽ with warm 🜄; then grind it into a
+subtil Powder, pour upon this Powder a well rectified S. V. di­gest until the
+S. V. is tincted blew; then decant, and put on fresh S. V. Repeat this until
+you have extracted all the Tincture out of the ☽. Then evaporate the S. V.
+with a very gentle heat (or rather distill it gently) and there will remain in
+the bottom of the Cucurbite a Matter like Pomatum: Put up­on this Pomatum a
+Spirit of Wine rectified upon Salt of Tartar, and after a little di­gestion,
+distill off the S. V. in a Retort, and part of the Tincture will come over
+with the S. V. and will leave the Pomatum whiter than it was before. Repeat
+this Work with new S. V. (Tartarized) so often, till the S. V. bring over no
+more Tincture, and that the Pomatum remain in the bottom as white as Snow,
+which is Excellent to whiten the Face.
+
+[[Page 135]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=78)
+
+### 1.100. Another way to make Oyl of Talc.
+
+REduce Talc of Venice into exceeding subtil Powder, mingle ℥ij. thereof with
+℥ij. of pure leaf Silver, grind them ex­ceedingly well together, to
+incorporate them perfectly well: Then reverberate them for fifteen or twenty
+days, after which grind them again very subtilly, and put them in­to a Matrass
+of Glass, and set it in fimo for thirty or fourty days, changing the dung
+every six or eight days, that the heat may be always in a good degree: You
+shall find a pure clear Oyl, which will blanch Pearls, the Face and Skin in
+other parts, and do all the things that are said of Oyl of Talc.
+
+### 1.101. Another way to make Oyl of Talc.
+
+TAke of Venice Talc in great pieces, as much as you please, make it red-hot in
+the 🜂, then quench it by cessing it into Oyl of Tartar; fire it again, and
+extinguish it as before. Do thus two or three times, and it will be throughly
+Calcined, so that you may crumble it into small Powder with your fingers; beat
+it in a Mortar, and pass it through a fine searse of Silk; what passeth not,
+Calcine it in a Crucible, and extinguish [[Page
+136]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=79) again: It will
+be perfectly Calcined by ex­tinctions in fair 🜄, but then it will require ten
+or twelve Ignitions and extinctions.
+
+Take your subtil Calx of Talc (which will be perfectly white) made either way,
+and put to it some distilled Vinegar to swim two or three fingers breadth over
+it, and put it to digest in very gentle heat eight or ten days, and you shall
+see a beautiful Oyl or Cream swim at the top of the Liquor, skim it off, and
+dry it with gentle 🜂, and it will be a saline substance, which put into a
+Blad­der, and hang it in a Well near the 🜄, but not to touch it, and in a few
+days it will resolve into a pure Oyl, which is Excellent for the Face. Or,
+with long remaining in a moist place, without putting it into distil­led
+Vinegar, this Calx will resolve into Oyl: Try to extinguish the Talc in dew,
+&c. (Be sure that in all this Work you touch nothing with Iron.)
+
+### 1.102. To burn holes in Glass.
+
+WHen Mr. Gore would make a hole in the belly of a Retort or Matrass, or
+Receiver of Glass, he did thus: Have some Cotton-yarn well Sulphured, lay it
+round like a Snake upon the Glass, filling as much space as you would have the
+capacity of the [[Page
+137]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=79) hole, make a
+Circle of Tin, or the like, to keep it in (but be sure there be not the least
+moisture upon the Glass, nor that it be very cold, for then it will break) set
+the Cot­ton on fire with a burning Coal laid upon it, and so let it burn on,
+putting up within its compass the burning yarn (with a Bodkin) if it chance to
+stretch, or swell wider than it should, make your heat and burning gentle and
+moderate at first, that you may increase it by degrees, by crumbling Sulphur
+in Pow­der upon the burning Matter, if you find it needeth.
+
+When it hath burned a while, try gently by touching it with a little stick of
+Wood, whether the piece of Glass under the burn­ing Cotton will fall in or
+out, but press not too hard, for fear of cracking that which should be whole;
+for when it is enough, it will fall in with the least touch, and leave a
+compleat hole without any cracks in the Glass besides. If you touch the heated
+glass with any moisture, you not only make that which you would have separated
+away to fall in, but you will crack and split what you would have remain
+solid. You may put a Linnen Cloath in the Glass, for the piece to fall upon,
+lest it should break the Glass when it falleth in.
+
+[[Page 138]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=80) A
+Description of a most convenient and very useful Furnace, which will not only
+serve for many Operations, as Melting, Calci­ning, Vitri [...]ying,
+Reverberating, Distilling, Subliming, Digesting, &c. But also for Coppelling,
+in small and great quantity, and that with the greatest facility that can be;
+so that neither Coals nor Ashes can fall into the Coppel, neither can the heat
+of the 🜂 incommodate you by reflecting in your Face and Eyes.
+
+The Fabrick of this Furnace, with its Structure see in the next Figure.
+
+### 1.103. An Explanation of this Figure.
+
+A. IS the whole Fabrick, which may be Built (of good Bricks) about two foot
+four inches in length; one foot six in­ches in breadth; and about two foot
+four inches high.
+
+B. Is the fire place, which must be round, of the best and hardest Bricks (it
+may also be made of a fire stone) it must be eight inches deep, and eight
+inches diameter; at the bottom of it you may lay either a close grate, or a
+thick Iron Plate full of holes.
+
+C. Is the Ash-hole & Receptacle of the blast or wind issuing from the Bellows,
+which must [[Page
+139]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=80) be very close,
+and the stopper fit the mouth of it exactly, to shut very close, so that the
+wind may find no vent any where out but up­wards through the grate; this hole
+needeth be but four inches deep, from the grate down to the bottom; the Ashes
+must be taken out of it from time to time, that they may not stuff up the
+place.
+
+D. Is the Coppelling-place, which may be about seven or eight inches in
+length, and six inches wide, and about four or five in­ches deep.
+
+E. Is the gap, through which the flame reverberates from the Furnace into the
+Cop­pelling-place, it is about four inches wide, about two or three deep, and
+two inches in length.
+
+F. is the Pipe or Chimney, which draw­eth the flame.
+
+G. Is a hole, through which you may put Fewel into the Furnace, to avoid
+uncover­ing of it, when it is covered, as it must be when you Coppel; you must
+have a stopper exactly fitted to it.
+
+H. Is a hollow place under the Coppel­ling-place, which may serve to put Coals
+in.
+
+I. Is an Iron Hoop about an inch high, such as the Refiners use to make
+Coppels in, you may have them of what bigness you [[Page
+140]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=81) please; at the
+bottom are fastened two flat Iron Bars, to hold the bone-ashes, having no
+other bottom.
+
+To use this Furnace, you must have a pair of Smiths Bellows, of a midling
+size; which (if there be not room in your La­boratory to fix them below) you
+may fix above ground, and so they will not incum­ber your Operatory below; and
+for the con­ducting of the Wind, you may have a square Pipe of Wood, made like
+an Organ-pipe, to come down from the nose of the Bellows through the Wall of
+the Furnace into the Ash-hole; and to the pearch you may tye a piece of Rope
+with a wooden handle at the end, to pull by in blowing the said Bellows.
+
+In all the Operations I do in this Furnace (even when I Coppel) I use nothing
+but small Sinder from the Glass-House, which are not so heady as Charcoal.
+
+### 1.104. Directions how to Coppel in this Furnace; and first, how to make a
+Coppel.
+
+TAke such an Iron Hoop, set it upon a sheet of brown paper to save the bone-
+Ashes (that else you might scatter;) then fill it with a sufficient quantity
+of bone-ashes, first moistened with 🜄, so that they hold toge­ther [[Page
+141]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=81) when you press
+them in your hand; stamp them well down with the end of an Iron Pestle, and
+make the Coppel very close and hard every where, then make it hollow in the
+middle, that it may hold the Matter you mean to Coppel without running over;
+make it very smooth, then set it into the Coppelling-place, and raise it with
+any sifted Ashes, or with a piece of a fire-stone, so that the top of it may
+be level with the lower part of the gap. Then cover the Coppel­ling-place with
+two bricks, (I use two bricks, because I can lift up one of them to put the
+Metal into the Coppel, and leaving the other brick, the Coppel is not all
+uncovered, as it would be if it were covered with one whole stone.) Then
+having kindled the 🜂 in the Furnace, cover it as before, and blow the
+Bellows, and the flame finding no way out, is forced and driven into the
+Coppelling-place, where it reverberates upon the Cop­pel, which when you see
+that it is well nealed, lift up one end of the hithermost brick, and put in
+the ♄, the quantity whereof must be proportioned according to the impurity of
+the Matter you mean to Coppel; if it be Ster­ling ☽, you must take four parts
+of ♄ to one of ☽; if it be any other mixture of impure Metal, you must take
+five, six, or seven parts of ♄ to one of the Metal, according to the [[Page
+142]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=82) impurity of it.
+Govern the 🜂 so, that the Coppel may always work and flow, and you may leave
+a little space between the two bricks, through which you may look into the
+Coppel to see how it worketh, and if you see that it requires more flame than
+the Sin­ders, or Charcoal will afford, you may put into the Furnace a round
+thick piece of wood; but you must observe, that when the Cop­pelling-place is
+come to be red-hot all over, and the bricks also that cover it, the Coppel
+will then work with a very gentle 🜂, so that then you must blow but gently;
+for if then you should give strong 🜂, the Matter in the Coppel would boyl too
+fast, and would spat­ter about.
+
+Instead of an Iron Hoop, many times I use but an earthen Porringer, to make a
+Cop­pel, filling up the Coppelling-place with any Ashes round about the
+Coppel, and find that it doth altogether as well, only that it serves but for
+once. Note, that whilst you Cop­pel, or neal the Coppel, you may make
+Re­gulus, if you have occasion, or melt any other Metal at the same time. This
+Fur­nace doth far exceed any ordinary Wind-furnace; for I can at any time make
+a par­cel of Regulus, or melt any Metal before the 🜂 would kindle in an
+ordinary Wind-fur­nace, and that with much less charge. In [[Page
+143]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=82) this Furnace
+you may distill with a luted Retort in a naked 🜂, by leaving two little holes
+in the Wall of it to put two small Iron bars in, to set the Retort upon; you
+may al­so distill in it, in Sand, both in a Retort and in a Cucurbite, by
+putting an Iron Pot into the Furnace with Sand, and laying some Brick with
+Clay about the Pot, to inclose that part of the Pot (or luted Retort) that
+stands out of the Furnace, and you may give what degrees of 🜂 you will, from
+the first and lowest, to the fourth and highest de­gree.
+
+The End of the First Part.
+
+## 2\.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=83)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=83)
+
+CHYMICAL SECRETS.
+
+The Second Part.
+
+CONTAINING Many Rare and Excel­lent Medicines, Choice Men­struums, and
+Alkahests: The true and only way to Volatilize the fixt Salt of Tartar, and to
+Cor­porifie Spirit of Wine, which is Aqua sicca in forma Salis, and is the
+true Vegetable Menstruum.
+
+Never before Published.
+
+LONDON, Printed for the Author. 1682.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=84)
+
+[[Page 147]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=84)
+
+## 3\. CHYMICAL SECRETS.  
+The Second Part.
+
+### 3.1. A Real and True way to Volatilize the Salt of Tartar, and Corporifie
+Spirit of Wine, as it was wrought by a Noble Per­son beyond Sea, and by him
+Communicated unto me.
+
+HE took but lbj. of Tartar well Calci­ned, and dissolved it in the Air, free
+from the Sun, then filtred, and congealed in a Glass Vessel, then he Calcined
+it as the Dutch-man doth (in the next Process) to keep it glowing hot for six
+or eight hours, then dissolved it again in the Air, and filtred, [[Page
+148]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=85) congealed, and
+calcined as before. He re­peated this ten times, then dissolved it in
+di­stilled Vinegar (he used Spanish and French Vinegar;) the whole Secret (as
+he saith) consisteth in well distilling of the Vinegar, which must be done in
+B. M. but it must be so gentle, that you may receive the flegm by it self; and
+as soon as you perceive that the drops come Acid, change the Recipient,
+putting on another, and then distill the Spi­rit with a stronger fire, so that
+you may tell eight or nine between every drop: Conti­nue distilling until it
+become like a Syrup, then change the Recipient again, and distill with a
+stronger fire until it begin to smell of the fire, and that it be almost dry.
+Recti­fie this last and strongest part by it self, and put it to the weaker
+part, (keeping the flegm by it self for another use) and recti­fie it together
+so often until there remain not the least spot at the bottom of the Glass
+after the distillations, which must be to dry­ness every time, and every time
+in a clean Retort: This is not a strong Spirit of Vine­gar, nor needs it be,
+but this will do the Work. Then take ℥vij. or viij. of your Salt of Tar­tar,
+and dissolve it in as much of the said Spirit, or more, as will dissolve it;
+let it stand, and it will settle some black feces; then filter it, and
+congeal, and calcine it as [[Page
+149]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=85) before, but not
+with so strong a fire; it must be scarce red-hot, and one hour will suffice;
+grind it while it is hot, and dissolve it again in new distilled Vinegar as
+before, let the feces settle[?], then filter it, congeal and cal­cine again as
+before. Repeat this, till it leave no feces behind, which will be in Seven or
+Eight times, if you have wrought well; then when it is very dry, take ℥j. of
+it to make a tryal, put it into a clean Glass body, and pour upon it so much
+high rectified Spirit of Wine, as will not only moisten it, but that it be
+very thin; let it stand thus twenty four hours close stopped in a very gentle
+heat, that it may be but Blood-warm; then distill with a gentle fire. If the
+Spirit stays, and the flegm come away, then proceed with the whole parcel; but
+if not, you must con­tinue the dissolution in distilled Vinegar, Filtration,
+Coagulation, and Calcination, as before, until you find (by trying) that the
+Spirit stayeth with the Salt, which it will do in a few times: Then proceed
+with the rest of the parcel in the same manner as you did with the Ounce;
+continue the imbibition and distillation with Spirit of Wine so often, till
+the Spirit of Wine come away as strong as it was put on. Then here lyeth the
+Se­cret, to Sublime it: Dissolve the said Salt of Tartar impregnated in the
+flegm of your [[Page
+150]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=86) distilled
+Vinegar, or in a very weak Spirit of Wine, using no more of the dissolvent
+than will dissolve it; shake them well toge­ther, and it will instantly
+dissolve all the best and finest part of the Salt of Tartar, and leave the
+course part of it, for that will not so easily dissolve, Pour off the
+dissolution, and filter it, then put it into a Cucurbite, and distill off the
+flegm off the Vinegar, or the weak Spirit of Wine, and then will the dry
+Spirit, or Aqua Sicca ascend like the purest Isickles dry that ever you saw;
+and this is the true Volatile Salt of Tartar, and Spirit of Wine, in forma
+Salis, and is the Vegetable Menstruum, which will dissolve leaf ☉ into an
+Oylish Substance in a very gentle heat.
+
+The Tartar which remaineth in the bot­tom of this Sublimation you must put to
+that which was left undissolved by the flegm of Vinegar, or weak Spirit of
+Wine, and Proceed to fix more Spirit of Wine upon that, being first Calcined,
+but not so long, nor with so strong a fir [...] as formerly; and then dissolve
+it once in the Ai [...] and it will leave more feces at this time than at any
+time before; then filter and congeal, and dissolve it in distilled Vinegar
+[...] as before. And now you shall do more in three times than you did all the
+times before, for the Tartar is [[Page
+151]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=86) altered in its
+Nature; then proceed with it as before, imbibing with S. V. And thus you may
+fix as much S. V. as you please, and Sublime as many pure and clear Crystals
+as you please.
+
+Note, That when your Spirit of Wine is fixed on the Tartar, it will be as
+sweet as Sugar; but when it is separated, as above-said, the Tartar will be of
+its old Nature, but fit to be impregnated again with much less trouble.
+
+### 3.2. The Dutch-mans Process of Volatilizing Salt of Tartar, and
+Corporifying Spirit of Wine, is thus:
+
+HE dissolveth his Tartar Calcined in di­stilled Rain 🜄, and being settled,
+fil­ters and congealeth, then Calcineth it for six or eight hours, so that it
+be only glowing hot, and no more: Then Powder it, and dissolve it, filter,
+congeal, and reverberate, as before; and this he doth sixteen or eighteen
+times, until the Tartar settle little or no feces. Then take four or eight
+Ounces of it (or what you please) and put it into a Cucurbite, and pour upon
+it the best recti­fied Spirit of Wine, so much, that it may be well moistened,
+but not to swim over it. Then he digesteth it in B. M. for a day, and [[Page
+152]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=87) then gently
+distills it off, but the Spirit of Wine  [...]scendeth, and will not stay;
+when it is dry, he puts the Spirit of Wine back again upon it, and distilleth
+as before; and this he doth so often (twelve or fourteen times) and then it
+will hold the Spirit of Wine, and the flegm will come away: This he doth with
+new Spirit of Wine; and when he findeth that a pretty quantity is congealed
+with the Tartar, he grinds it (being very dry) and mixeth it with three parts
+of good Bole-Armony, and puts it into a Retort, and distilleth a Spirit from
+it by degrees of fire, forcing it strongly at last, and it will be a yellow
+Spirit, which he deflegmeth once, and then dissolveth his Calx of ☉ in this
+Monstruum, which by digestion extracts all the Tincture of ☉, and leaveth the
+Body which, tinging it self of a pure red. Of this he giveth two or three
+drops in a little Sack, which doth Miracles (as he saith.)
+
+### 3.3. He maketh his red Calx of ☉ thus:
+
+DIssolve fine ☉ past through Antimony in A.  [...]. then put water into it,
+and then cast in ☿, and all will become like a H [...]par; then wash the aaa,
+and grind it with three times as much prepared Salt, and di­still it in a
+Retort; then edulcorate the Calx, [[Page
+153]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=87) and grind ℥j.
+of it with three of Cinaber, and then reverberate it by degrees gently: This
+he doth twice a day, and repeateth it eleven or twelve times, and it will be a
+most subtil red Calx, like Scarlet in colour.
+
+### 3.4. Elixir ex vino & Sole.
+
+TAke the best Odoriferous Rhenish-wine five Gallons, separate its Spirit and
+Salt, rectifie the one, and purifie the other; then acuate the Spirit with
+another prepared  [...]alt, and at last joyn it to its own pure Cry­stalline
+Salt; then is it a true Aqua vitae Philosophorum. This must dissolve a well
+prepared Calx of ☉, and by a continued circulation unite with it; then by
+Sublima­tion be fixt together, and lastly, by Solution and Coagulation become
+incombustible Oyl, which is a great Medicine.
+
+### 3.5. Monsieur Toysonnier wrought thus:
+
+TAke fresh Urine of young Boys, fill one Pot with it, and evaporate it away,
+next Morning put on fresh, and evaporate; do thus three or four days, then
+evaporate to a Honey, and that you feel a Ponticifie smoak from it, then
+cease, and put your Honey into an earthen Vessel, and expose it [[Page
+154]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=88) to Celifie in
+the Air. As soon as it is cold, it will be hard, but the Air will resolve it:
+Make thus what quantity of Honey you please: Celifie them four days, then have
+another earthen Pot, covered with a rever­sed one that hath a hole in the
+bottom, fasten thereon a neck of a Cucurbite of Glass, ten or twelve inches
+long, upon which a Retort, with the bottom out for a head, to which fasten a
+great ballon. He did put fifteen pound of Honey into his Pot, and with a
+gentle fire first distilled off the Spirit and Vo­latile Salt; these be put
+upon new Honey, and in Balneo distilled a purer Spirit and Vo­latile Salt;
+(the flegm that followed, if put upon new Honey, will become pure Spirit and
+Salt) draw the fixed Salt out of all the Caput Mortuums; put ℥xij. of the
+Spirit up­on as much pure Spirit of Wine, and it will coagulate it all into a
+perfect dry Salt: Min­gle these ℥xxiv. of Volatile Salt with ℥vj. of Salt of
+Wine, ℥iij. of Volatile Salt of Urine, and ℥iv. of ☿ Precipitate, and put them
+in­to a Body with Head, Limbeck, and Re­ceiver, and Sublime with gentle heat:
+Part cometh over in Spirit, and part riseth in Salt. Take ℥xiv. of Salt, and
+vi [...]. of Spirit, and ℥ss. of Calx of ☽, and distill with exceed­ing gentle
+heat in a Body and Head with a Receiver, a liquid Spirit will come over,
+[[Page 155]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=88) and a
+white Salt Sublime into the head: Put all back upon the Cake of ☽, and distill
+as before. He hath now  [...]eated this Worst eleven times; at the first, the
+Spirit and Salt were ten days rising from the ☽, but after­wards seven or
+eight: The junctures were all perfectly shut, yet above half of the Vo­latile
+Matter was vanished. The Salt of Wine was made thus: (Spanish Wine gave none,
+but French did pretty store.) After you have drawn off the Spirit and the
+flegm, evaporate the residue (very gently) usque ad pelliculam, then set in a
+cold place, and in fifteen days there were many Crystals in it; wash these
+with the flegm of the Wine, from the blackness and foulness that is upon them.
+The ☿ Precipitate was made thus: Dissolve ℥iv. of ☿ in ℥x. of A. F. made of
+two parts of Vitriol, and one of Nitre. Ex­tend the solution, by pouring a
+great quan­tity (eight or ten Pints) of fair 🜄 upon it; then pour upon it a
+Lixivium made of the fixed Salt of Wine and fair 🜄. He made his Lixivium of
+℥iv. of fixed Salt, and but one of the ☿ [...] Precipitate; wherefore he
+poured upon the Liquor that he poured off from the Precipitate about half a
+pint of the Spirit of Wine, and then the ☿ Precipitated all down. Take both
+the Precipitates, and wash them a little from the Spirits of the A. F.
+
+[[Page 156]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=89)
+Hartman.) This Relation is of Sir K. It was done by his Operator Monsieur
+Toy­sonnier, in his Operatory in the Piazza in Cove [...]t-Garden.
+
+### 3.6. The Menstruum Coelicum Exuberatum, to dissolve ☉, and all Metals, and
+carry them over the Helm. Wrought by Dr. Clodius, and by him Communicated unto
+me.
+
+PUT lbj. of perfectly rectified Spirit of Urine to lbiij. of a perfectly
+rectified Spirit of Wine, and it will coagulate it all to a drop into a firm
+Salt; Sublime and di­still this, and about lbss. will Sublime up in a most
+pure active dry Salt, and about two spoonfuls will come over in a fiery
+Liquor, and the rest will be a stinking  [...]lat flegm re­maining in the
+Cucurbite. Add Spirit of Wine to your two spoonfuls of Liquor, so much as to
+make it up lbiij. put this to your lbss. of dry Sublimed Salt, and all will be
+a Coagulum, which distill and Sublime as before, and you shall have about two
+spoon­fulls and a half of fiery Liquor, and about  [...]ij. more than before
+of Sublimed Salt, and in the bottom will remain a stinking flegm as before. He
+repeated this twelve times, still with fresh Spirit of Wine, and every time
+the quantity of the fiery Spirit in­creaseth [[Page
+157]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=89) (drawing still
+some little addition of dry Salt from the Spirit of Wine) till at length all
+the dry Salt come over in liquid fiery Spirit, which he calleth Menstruum
+Coelicum; then it will dissolve ☉, and all Me­tals, and carry them over the
+Helm with it. This poured upon Salt of Tartar, will pre­sently dissolve it,
+and carry it over the helm with it: You may also multiply it as much as you
+will with pure Salt or Spirit of Urine.
+
+To add ☿ to it, do thus. Take ☿ well purified (if Spanish) shaking and washing
+well with Spirit of Wine or distilled Vine­gar, till it yield no more
+blackness, will serve; but if other, Sublime it sometimes to per­fect purity.
+Then he put lb [...]. of it into a Retort, joyning a large stone Receiver, and
+gave strong sudden 🜂. Repeat this till you have Mercurial 🜄 enough, which
+will be quite insipid: Put this 🜄 upon purified run­ning ☿, and digest them
+together thirty days, & all will be a viscous Mucilaginous Matter: Distill off
+the flegm, and you shall have an Oyl remaining; put upon this Oyl your fiery
+Spirit of Urine, and Spirit of Wine (twelve times repeated, as is mentioned)
+and the Spi­rit will resolve the Oyl; then distill them over together, and you
+have the Menstruum Coelicum  [...]xu [...]eratum. To aate Regulus [[Page
+158]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=90) of  (antimony)
+with ☿, you must pulverize the Regu­lus grosly, as Bay-Salt; then strew it
+gently upon the ☿ in a Matrass, and digest three or four days; then grind
+together, and it will aaate. Thus you may do with ☽ and Reg. He found
+difficulty in doing it with ♀ and Reg. but after digestion, he let it stand a
+little while with 🜄 and Salt upon it, and it aaated of it self with the ☿. If
+you digest eight days, the blackness you wash away is a Combustible Sulpher,
+like Powder of Coal. He maketh Mercurial 🜄 thus: Put store of quick dry Sand
+upon ☿ in a Cucurbite, and distill it in very gentle fire, and most will come
+over in 🜄: Put this 🜄 upon new ☿, and digest, and it will bring it into an
+Oily substance; mingle this with your Coagulum of Spirit of Wine, and Spirit
+of Urine (See [...]ullies eight Experiments) and make an Al­kahest of these,
+which will be perfect when it is aaated with ☉. Then proceed as Lully
+teacheth.
+
+The said Dr. Clodius told me also, that the great Secret of Purifying all
+Salts and Vi­triol, &c. consisteth in the purifying the Menstruum (i. e. 🜄)
+for if the 🜄 have feces, in which you  [...]dissolve them, it rather
+in­creaseth their foulness. He doth thus.
+
+Set Equinox Rain 🜄 (pure Dew were better) to putrifie in Glass Vessels,
+slightly [[Page 159]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=90)
+covered (only to keep things from falling in) in a Cellar; in six weeks the
+putrefaction will be finished, and all the feces fallen to the bottom; filter
+it, set the clear to putrifie again, which will require longer time than
+before: If you put some quick dry Sand in i [...], it will help the
+putrefaction much the sooner, drawing down the foulness to it. In this
+purified 🜄 dissolve your Salt, Vitriol, Salt of Urine, &c. And you must have
+a Gallon of this water to ℥j. of Salt; for such dilating of the Salt maketh
+the Menstruum lighter than the feces, and therefore they fall down. Mark the
+end of Isaac Hollands Pro­cess upon Vitriol, where he directeth dissolv­ing it
+in fair 🜄 distilled off; then filter and congeal, and this you may repeat two
+or three times: Then take nine parts of this pure Salt, and put to them one
+part of pure Spirit of Wine, digest them together for seven or eight days,
+then distill off the Li­quor very gently, and about fourteen or fif­teen parts
+will come off in insipid flegm, and only one part, or a little more will
+remain with the Salt in a dry substance. Repeat this nine times with fresh
+Spirit of Wine, till you have employed as much Spirit of Wine as you wrought
+upon Salt, which will be increased scarce one part: Put it then to Sub­lime,
+and every whit of it will rise in a pure [[Page
+160]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=91) Sublimate,
+excepting a small parcel of feces that will remain in the bottom: You may
+multiply this Sublimate as much as you wil [...] by addition of Spirit of Wine
+to it; then distilling away the Liquor, for the 🜹 of the Spirit of Wine will
+adhere to the pure Salt in a pure Saline form, and the rest will come away in
+an insipid flegm. But in the end, this Salt will be apt to come over in an
+Oily Liquor, and sometimes after that, in form of Salt again: But he cannot
+yet penetrate into the Causes of these Bodies coming over sometimes liquid,
+sometimes dry. Incorpo­rate some of this Salt with pure Spirit of Wine, and it
+will dissolve ☉, and all Me­tals.
+
+### 3.7. To prepare a most Excellent Medicine with this Mercurial Water,
+proceed thus:
+
+TAke of the afore-said Mercurial 🜄, and of Spirit of Wine distilled three
+times upon Honey, and then rectified upon Salt of Tartar, of each equal parts;
+distil them together, until they be well united: Then to six parts of this
+Menstruum put one part of a Spungy Calx of ☉, digest them toge­ther, until the
+☉ is totally dissolved, except a little white Earth, which will remain in the
+bottom. Then distill in a Retort in [[Page
+161]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=91) Sand, and
+cohobate so often, until the ☉ come over into the Receiver. Then sepa­rate it,
+by distilling in a Cucurbite, and there will remain a red Oyl like a Ruby in
+the bottom; whereof one drop in some fit Vehicle, is admirable for Health.
+This dis­solution of ☉ hath a most Odoriferous scent, better than Amber and
+Musk.
+
+### 3.8. The Lunary 🜄 of Paradise, or the Coelestial Eagle of the Lunar
+Sphere, which is Lul­lys true Spiritual Lunary.
+
+DIssolve ☽ in A. F. and precipitate it with Spirit of Salt, dry the Calx, and
+mix it with equal parts of Calx of ♃, and thence distil the volatil Crystals
+or butter s. a. Ex­pose this butter to the Air to resolve into li­quor, that
+by that means it may make a Den­tifique attraction of the Spirit of the World,
+which specifieth it self by this Magnet. Put the clean liquor into a
+Cucurbite, and di­gest with a Lamp 🜂 for 15 days, at the end of which time
+there will distil over an Aethe­rial liquor, which is the Lunary; with which
+you may work Miracles in Physick, especially in all diseases of the head and
+brain; the dose is the same with the former, mixing it with a fit Vehicle;
+Note, that it turneth all liquors into milk, and is sometimes Emetick. For
+trans­mutation, [[Page
+162]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=92) deflegm this 🜄
+as before and you shall have the Metalline Gluten; which be­ing digested per
+se, will become a white Pow­der of projection; and afterwards a red one: But
+it will be better to add a tenth part of leaf ☉ or of the Sulphur of ☉ made by
+the Sal Enix: It is multiplyed by new addition of the Lunary or Gluten. Note,
+that this liquor is the Sommet of the Lunary: For the Volatil Crystals of ☽
+are the simple Lunary; but this Coelestial 🜄 is the Spiritual Lunary, or the
+highest point of the Metalline Salts: Note, that you may draw the red and
+white Oyl of what remaineth, and proceed as before.
+
+### 3.9. Water of Paradise of Saturn, or Iupiters Coelestial Eagle.
+
+DIssolve ♄ in common A. F. and it will precipitate into a Potential ☿; dry it,
+and mix it in great quantity with equal parts of Calx of ♃ or with
+(antimony): Draw the Volatil Cry­stals or butter from this, which resolve in
+the Air: Put the liquor into a Glass Cucurbite, with its head and recipient,
+digest with a gentle lamp 🜂 the space of 15 days; no­thing will come over by
+distillation, but on­ly the liquor will Maturate, and become red, and
+afterwards within twenty, thirty, or fourty days the Idea of ♄ will rise
+invisibly, [[Page
+163]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=92) and distil into
+the Recipient, which is the 🜄 of Paradise.
+
+This 🜄 cureth all Saturnian Maladies, and Melancholy, being mixt with S. V.
+You may give it in all Inflammations both inward and outward: The Dose is
+equal with the former.
+
+To use it for Metals, put this 🜄 of Para­dise into a small Cucurbite and
+deflegm it with a Lamp 🜂 and there will remain the Saturnean Gluten, the
+Philosophers Gum, or ☿ of the wise, A Lot, &c. Digest per se, or add a tenth
+part of ☉. This Gum is the true Metalline radical Moisture.
+
+[[Page 164]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=93)
+
+### 3.10. About Vitrum Antimonii, and the Tincture of it.
+
+MOnsieur Borel told me, that he had observed this in making the Tincture of
+(antimony) (by distilled Vinegar upon the Glass of  (antimony)) that when he
+went to dulcifie the Salt that remaineth in the Tincture after the distilled
+Vinegar is evaporated away (as Bas. Val. teacheth) he could never perceive
+that the 🜄 evaporating carried away the remaining Salt of the Vinegar, but
+still when the 🜄 was gone, and left the Powder dry, it was[?] as salt as ever
+before, and was of a brown gray colour. But this he observed, that af­ter four
+or five times dissolving in 🜄 and evaporating, the Tincture Precipitated down
+very red, and the Salt of the distilled Vinegar remained dissolved in the 🜄,
+so that he then poured off the 🜄, and dryed the Powder, which then was
+exceeding red, and perfectly dulcified: But after thus severing of the Salt
+from it, S. V. would not touch upon it, and extract it any further:
+Perad­venture a Tartarized S. V. will do it.
+
+He also told me, that in making the Vi­trum Antimonii for this Work, the
+Mystery to have it certain and constant, consisteth in this; That after you
+have Calcined your  (antimony) [[Page
+165]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=93) by long and
+gentle evaporation and stirring, so that it smoak no more; and when you have
+put it in the Crucible to melt into Glass, you must put to it a little piece
+of a Coal to burn with the  (antimony), and set the Sul­phur of it on fire,
+which will make a little Regulus fall down to the bottom, and the Glass will
+be pure clear and red, whereas if no Coal fall or be put in, it will be black
+and muddy: And that which maketh this Work of Vitrifying the  (antimony) prove
+uncertain, is, that sometimes some Coals fall into the Crucible (as one gives
+great heat) without the Artists taking notice, and then the Work proveth well,
+but if no wooden Coals fall in, the Glass proveth not as it should.
+
+Monsieur le Fevre told me, that when he makes the Tincture of Vitrum
+Antimoniii, be observes, as Monsieur Borel saith, that if the extract of it
+made by distilled Vine­gar be perfectly dulcified from all saltness, the S. V.
+will not touch upon it; and if it be put upon it in dry Powder, containing the
+Salt of the distilled Vinegar with the Tincture of the  (antimony), it will
+draw with the Tincture some nocuous Spirits from the Salt; therefore the doth
+thus: Evaporate fair 🜄 from it two or three times, the last time leave it
+very moist; then put S. V. upon it, and it will presently impregnate it self
+with the Tincture.
+
+[[Page 166]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=94)
+
+### 3.11. A white Spirit of Sulphur to dissolve ☽ and ☿; given me by Monsieur
+Bugneau.
+
+TAke the black Spirit of Sulphur, made per Campanam, put it into a Glass
+Re­tort well luted (for fear of breaking) all but a patch at the top as big as
+a Crown-piece, that you may thereby see (holding a Candle near it) in what
+state the Liquor, therein con­tained, is [...] Distill in Sand, till all the
+flegm is come over, and that it begin to drop very sharp, which happens to him
+after ℥vj or vij. are come over, of lbj. of Spirit put at first into the
+Retort. By this time you shall see a lit­tle 🜹 Sublime up to the discovered
+place of the Retort, and a brown Circle of earthy substance swimming upon the
+Liquor about the sides of it joyning to the Glass: You must now give the 🜂 so
+quick, that the Liquor boyl a little, and presently you shall see it turn all
+white, and the brown Corona of Earth become white: Then let the fire die, and
+when the Retort is cold, pour out the Spirit, which will look like Rock 🜄,
+and will leave some dregs behind; you will have about ℥ix. of this Spirit, put
+it upon ℥iv. of ☽ in leaf, and distill it gently off, and after a while you
+shall see your ☽ quite dissolved [[Page
+167]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=94) into clear
+Liquor; let it cool, and the ☽ will become a Cake of Crystal, and some Liquor
+will swim over it; pour off this Li­quor, and put ℥ij. of fresh ☽ to it (which
+now may be in small grenailles) and it will dissolve this as the former, and
+become a Crystal by cold: The Liquor that you then pour off will dissolve ℥ij.
+more of fresh ☽, doing as before. Now the Liquor that re­maineth after this
+third solution of ☽, will dissolve ℥ij. of running ☿ into a Crystalline
+substance as the former.
+
+This Spirit of Sulphur thus rectified, be­ing used inwardly (before it is used
+with ☽) is much stronger than when it is black, at the first drawing, and is
+much gratefuller to the taste, being mingled with 🜄 or other Ve­hicle.
+
+### 3.12. An Universal Medicine, from ☉ and  (antimony), &c.
+
+TAke of the ☿ prepared, as shall be taught hereafter, ℥j. of the Tincture of
+☉, afterwards set down, ʒj. mix them well to­gether in a Glass Mortar, then
+put them in­to a small Matrass, and digest them with a Lamp 🜂 with one wick
+only for ten days; then digest for ten days more with two wicks, then with
+three, and lastly, with four wicks, [[Page
+168]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=95) which makes
+fourty days digestion in all, at the end of which you shall have a red Pow­der
+as red as a Ruby.
+
+This Powder is an Universal Medicine for the greatest and Chronick Diseases:
+It Cures the Gout, Dropsie, Palsie, French-Pox, Plague, Leprosie, the Evil,
+Small-pox, and Measles. Its visible Operation is by Stools, by Urine, and by
+Sweat: The Dose is from gr. iij. to iv. or v. in Conserve of Borrage or
+Vio­lets.
+
+### 3.13. To prepare the ☿ for this Work.
+
+TAke gravelled Ashes, (or instead there­of you may take the Ashes of dryed and
+burnt Lees of Wine) and of Quick­lime, of each equal parts, boyl them
+toge­gether in 🜄, and make a Lixivium, which filter. Take ℥iij. or iv. of ☿
+vitae, put it into a Matrass, and pour upon it of the aforesaid Lixivium, so
+much as may cover it the breadth of four fingers; digest with the second
+degree of heat, for three or four days, the Lixivium will extract the Tincture
+of the ☿ vitae; then decant, and put on fresh Lixivium, and digest. Repeat
+this, till you have extracted all the Tincture of your ☿ vitae, and the Powder
+be well at­tenuated: Then mix this Powder with equal [[Page
+169]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=95) weight of
+Sublimed 🜹, incorporate them well together with double as much of Oyl of
+Tartar, then set it to putrifie in fimo for thirty days, changing the Dung
+every sixth or seventh day. Then put your Matter in a Marble Mortar, and grind
+it well, adding a little warm 🜄 to it; then add a little more water, but a
+little hotter than the first, and grind it well; then let it settle, and
+decant the 🜄, and put on fresh warm 🜄, and grind as before, then let it
+settle, and decant the water; and put Vinegar upon it instead of 🜄, and grind
+it, and you will see in a short time the Powder converted into running ☿.
+Note, that if you Sublime Regulus of  (antimony) with four times as much 🜹,
+it will Sublime with it in very red flowers; out of which in the same manner
+you may extract ☿.
+
+### 3.14. To prepare the Tincture of ☉ for this Work.
+
+TAke fine ☉ in thin Plates, dissolve it in A. R. then pour into the
+dissolution some ☿, and a fourth part of A. F. keep it in digestion untill the
+☿ is all dissolved; the dissolution of ☉, which was of an Orange-colour
+before, will now be white and clear, and the ☉ will Precipitate to the bottom
+in a very subtil and spungy Calx; decant the [[Page
+170]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=96) clear, and
+edulcorate the Powder of ☉, till it be freed from all Acrimony, then dry it.
+
+Then take fine Pumice-stone, and make it red-hot in a Crucible, then
+extinguish it in Vinegar; reiterate the ignitions and ex­tinctions five or six
+times, then reduce it into subtil Powder, which ignifie again for half a
+quarter of an hour, then make it as subtil as you can. Then put a bed of this
+Pow­der into a Crucible, about a singers breadth, upon that put a Bed of your
+Powder of ☉: Continue thus stratifying until all the Pow­der of ☉ be in, then
+cover the Crucible with another, and lute them well together, and put it into
+a Glass Oven where they pre­pare their Matter, so that the Crucible may be
+always red during twenty four hours, and that the Matter in the Crucible may
+not melt, Then take out the Matter out of the Cruci­ble, and pulverize it;
+then put this Powder in a Matrass, and pour upon it of the fol­lowing
+dissolvent, so much as may cover it three fingers breadth, digest it in Ashes
+for 34 days, within a few hours you will see the dissolution Tincted of an
+Orange colour; after four days digestion decant the Tincture, and pour on more
+of the dissolvent, digest as before. Repeat this till you have extracted all
+the Tincture of your Powder; then filter all your Extracts, and evaporate with
+a gen­tle [[Page
+171]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=96) 🜂 to dryness,
+and you will have a yel­low Powder of an Orange-colour; put this Powder into a
+Matrass, and pour upon it a S. V. prepared as shall be taught hereafter;
+digest it, and in two days the S. V. will be Tincted as red as Blood, which
+decant, and put on fresh S. V. digest and decant. Re­peat this so often till
+you have extracted all the Tincture out of the Powder: Then di­still off the
+Tincted S. V. in B. with a gen­tle heat to dryness; and thus is the Tincture
+of ☉ prepared for this Work, to be used with the said ☿ of  (antimony), as is
+said above.
+
+Note, That if you digest and circulate this Tincture in fimo before you
+distill the S. V. from it, and then distill and cohobate two or three times,
+and abstracting half the S. V. from it, you will have a kind of an Aurum
+potabile, which is a very great Cor­  [...]oborant in the greatest weakness:
+The Dose is five or six drops in any convenient Vehicle.
+
+### 3.15. The Dissolvent.
+
+MElt Salt in a Crucible, then take lbj. thereof and pulverize it; mix this
+Powder with lbiij. of Honey, boyl them to­gether in an Iron Kettle to the
+consistence of a Suppository; then cast this Matter upon a [[Page
+172]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=97) smooth stone,
+and being cold, pulverize it, and put it into a Retort; pour upon it distilled
+Vinegar rectified, lbiij. Digest for twenty four hours, then distill in Sand
+by graduated 🜂, giving strong 🜂 at last for six hours, that the Retort may
+be red; then let it stand to cool the space of twelve hours: Then di­still
+this Vinegar in a Cucurbite in Ashes, separating the flegm, rectifie in three
+or four times more, and it will be white and clear; before it was yellow.
+
+### 3.16. To prepare the Spirit of Wine, fit for this Tincture of ☉.
+
+TAke Salt of Tartar well purified by se­veral Dissolutions, Filtrations, and
+Co­agulations, and then reduced to Powder, ℥iv. which put into a Retort, and
+pour up­on it lbij, of rectified Spirit of Wine, let it stand so twenty four
+hours, then distill only lbj. of it in Ashes, and you shall have an ex­cellent
+Spirit of Wine,  [...]it to draw Tinctures. In the same manner you may extract
+the Tincture of Coral, putting the Corals whole with the Pumice-stone, which
+by its dry­ness will extract the Tincture of the Corals, leaving them as white
+as Starch.
+
+In the same manner you may also extract the Tincture of ☽, which will be blew.
+
+[[Page 173]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=97) Sir
+Kenelm D.) This Process was given to Monsieur Vrto, Physician of Burges, by
+Monsieur Mayo, Sieur de Vancours. This Monsieur Mayo was a great Friend and
+Con­fident of Monsieur de la Violette, who gave him this Operation, and they
+made it toge­ther. He said, that this was the solidest and best thing that
+Monsieur de la Violette had. He gave this to Monsieur Vrto in acknow­ledgment
+of a very great good turn he had done him, and after Monsieur Vrto had
+re­fused to receive of him a Present of great Va­lue.
+
+### 3.17. A great Corroborant and Sudorifick, wrought by Monsieur Du Closs,
+Physician at Paris; given me by him the 16th. of August, 1660.
+
+DIssolve ☉ by means of Salt, Nitre, and Allom, &c. after Zwelfer's manner;
+then evaporate away the 🜄, and put S. V. upon the remaining Powder, and it
+will go all into a Tincture, or rather all the ☉ will dis­solve in the S. V.
+leaving the Salts, most of which will Precipitate in the S. V. Then he
+Precipitateth the ☉ with Oyl of Tartar, and washeth and dryeth it, then
+reverberateth it, and it is in a deep red Powder; and this he called Cro
+[...]us Solis: (But it is not so, al­most all the ☉ remaineth still in the
+solution [[Page 174]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=98)
+(which is yellow) and Oyl of Tartar will not Precipitate it, so that it is
+rather the Salts that remained in the S. V. and a little mingled with them:)
+But take Spirit of Honey (the Vinegry Spirit) two parts, and one part of S. V.
+and pour this upon the solution, and all the ☉ will Precipitate like a green
+Mud; pour off the Liquor, and put fair 🜄 to the Precipitation, and some ☿,
+and so you may have all your ☉, which when it is dry, will be a deep-red
+Powder, but if you reverbe­rate it, and aaate it with ☿, and grind it with
+Sulphur, and then burn and reverbe­rate it, it will all fly away: And this is
+his best way of Calcining and opening ☉.
+
+Upon this Calx of ☉ he putteth his Men­struum, and in twenty four hours it
+will Tinct it self as red as blood, which if you digest long, an Oyl will swim
+upon it; he evaporateth the Menstruum till it be thick, and digests that with
+a Lamp Furnace.
+
+### 3.18. His Menstruum is thus made:
+
+TAke pure S. V. and pure Spirit of Urine, ana, put them together, and distill
+off the S. V. with very gentle heat, there will remain a flegmatick Liquor in
+the bottom: Cohobate the S. V. upon it till there remain only perfect flegm in
+the bottom, and that [[Page
+175]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=98) all the Spirits
+and Volatile Salt of the Urine be in the S. V. This is a great dissolvent and
+Alkahest; but it will be stronger if you work it again with new Spirit of
+Urine, and so you may make it as strong as you will [...] But this hath not
+the Properties of Helmont's pretended Alkahest, to come off from the Body it
+hath dissolved, as strong as you put it on, for it leaveth much of the Saline
+Spi­rits with the opened Body, if you distill it off: He found some running ☿
+in the filters after he had dissolved the ☉ only as far as Zwelfer teacheth;
+which solution openeth it exceedingly, and rendereth it apt to
+Mer­curialization; but he useth most the follow­ing Calx of ☉: Make an aaa of
+☉ and ☿ in due manner, which grind well with Flow­ers of Sulphur, and set it
+upon Coals, and so make a Calx of ☉ (ut artis est:) Re­peat this Calcination
+two or three times, then take the Calx of ☉, and grind it exceeding well with
+twice as much pure decrepitated Salt; put these into a Crucible, which cover
+well, and set it to Cement or Reverberate during six hours (or more) in a
+Furnace where the heat may be increased by degrees, so that in due time the
+Crucible become red. Continue so a pretty time, but have a care the Salt melt
+not: When it is cold, take out the Matter, and grind it well, and pour hot
+[[Page 176]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=99) 🜄 upon
+it, to dissolve all the Salt, and filter it off, and pour on more 🜄, doing so
+till you have severed all the Salt from the ☉ (as also a white Earthy
+substance, that will swim up­on the 🜄) then dry the ☉, which grind again with
+double its quantity of prepared Salt, (the same Salt will serve again when the
+🜄 is distilled from it) and Cement it, and work all as before, taking care
+always, that the ☉ settle well to the bottom after you have stirred it in the
+🜄. Repeat this six, seven, or eight times (the more the better) till the ☉
+come to be all a gray or white Powder: Then Cement it with double its quantity
+of pure Salt of Tartar, in the same manner as you did with Salt, and do always
+all as before. Repeat this two, three, or four times, dulcifying it every time
+very well from the Salt: Then put upon it (being very dry) the Menstruum of S.
+V. and Spi­rit of Urine, mentioned before, and it will be Tincted Blood-red in
+twenty four hours: Pour off that, and put on more, till you have drawn out all
+the Tincture, which di­still in a Cucurbite with very gentle 🜂, till it
+become a Gum, of which he putteth ℥j. into a Pint of Sack, and giveth a
+spoon­ful for a Dose. It is a mighty Corroborant, as also a Sudorifick, where
+Nature requireth it. It will make one sweat twenty four hours.
+
+[[Page 177]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=99)The
+manner of making his Menstruum, is, to put the two Spirits into a long
+Cu­curbite with a narrow mouth, on which he put a Head,  [...]itting it in the
+Orifice, but very large in the Body of it, and so distil­leth off his S. V.
+and Cohobateth it upon the same Spirit of Urine, till the Volatile Salt be
+drawn out of it, or upon new, as you see occasion.
+
+Quaere, Of putting this Menstruum upon a Spungy gray Calx of ☉, made after
+Van­dykes way.
+
+### 3.19. The Metalline Aureal 🜄, or the Aethereal Aurum potabile, which is a
+very great Medicine for the Gout: It is the true Her­maphroditick Bath.
+
+DIssolve ☽ in A. F. then Precipitate it with Spirit of Salt, then edulcorate
+the Powder and dry it, then mix it with its weight of  (antimony) (or Calx of
+♃) distill a trans­parent Butter thereof: Take of this Butter one part, mix it
+with as much of Calx of ☉ (made by dissolving ☉ in Spirit of Salt) digest them
+together, until they be reduced into a Liquor: Distill this Liquor in a
+Re­tort, the Spirit of Salt will come over first, and then will follow a red
+Butter, which is the great Chalybs, which resolves into a [[Page
+178]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=100) Liquor in the
+Air; put this Liquor into a Cucurbite, joyn a Head and Receiver to it, and
+then digest with a Lamp 🜂 for fifteen days, then an Aethereal Liquor will
+begin to come over in an invisible form, which will distill into the
+Recipient: Deflegm this Liquor until you come to the Eagles Metal­line Gluten;
+which is digested (either per se or with ☉) into a true Physical stone: When
+it is in an Aethereal Liquor you may take two drops of it in some Cordial
+Spi­rit.
+
+### 3.20. The Eagles Gluten, or ☿ of the Wise, or Me­talline Menstruum; with
+which and Lions Blood is made the Metalline Stone.
+
+THE Gluten is of divers sorts: The first is altogether Mineral, and is drawn
+from ☿ and  (antimony): If you joyn Sulphur of  (antimony) with this Gluten,
+you may make a Medici­nal Stone of it. The Second is Metallick, viz.
+Saturneal, Lunary, and Aureal. The third is partly Mineral, and partly
+Metal­line; as for Example, when one draws  [...] Liquor (which doth not wet)
+from ☿ of  [...] (that is to say, from its repercuted Calx) and  (antimony),
+which is the Magnet of the Spirit o [...] the World; then draw the Gluten as
+you know. The Gluten is Mineral and Metal­line, [[Page
+179]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=100) and is
+sufficient to make the Physical Stone of it, both Mineral and Metalline.
+
+Note, that if you digest per se, what sort of Gluten soever, you may make the
+Phy­sical Stone of it. But for to shorten the Work, you may add ☉; for all
+Metalline or Mineral Gluten contains in it self its in­ternal Sulphur, which
+may be coagulated and fixed into a true Aetherial Panacaea. But it is better
+to add this Solary Ferment, as shall be said hereafter. Wonderful things may
+be performed (both in Physick, and in Transmutation of Metals) with any sort
+of Gluten, either Mineral or Metalline. The 🜄 of Paradise differs not from
+the Gluten, except that it containeth some parts more li­quid, and is yet full
+of flegm, as shall be shewed.
+
+### 3.21. Water of Paradise, or of the Hermetick Eagle, whereof are made
+unheard-of Medicines, and Powders of Projection.
+
+THE 🜄 of Paradise is a ce [...]tain fiery or Aethereal 🜄 drawn from
+Coelestial Bo­dies, chiefly from ☉ and ☽, without the mix­ture of any waterish
+flegm; so that, what is attracted is the Universal Spirit, the In­forming form
+of the Elements, that of the World, Influence of the Stars, Soul of the [[Page
+180]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=101) World, the
+vital Nutriment, latent in the Air. This 🜄 is most potent to drive out all
+Diseases, it being altogether Astral, and needeth not be taken by Drams,
+Scruples, or Grains, but the twentieth part of a Grain is sufficient for a
+Dose; yea, almost the Va­pour only of this Gluten sufficeth, as you shall see:
+It is attracted by several things, or (to speak plain) there are several
+things which attract it from the Stars; first, by S [...]n­divogi [...]s his
+Magnet, or Chalybs; but it requires a longer time to have this Gluten, or this
+Philosophical 🜄, which is all, to all universal; for it requireth seven
+Months to prepare this Universal Menstruum, after you have the Salt of Nature;
+which is a thing indeterminate, and requireth a Metallick Ferment, specifick,
+for to specifie and de­terminate it. This most Noble way is clearly and neatly
+shewn by the Author: But there are other ways, which are shorter, by which
+this Spirit of the World is attracted by several Magnets, whereof shall be
+spoken hereafter. Note, that the Physical Stone may be made of all sorts of
+waters of Pa­radise; for it is the Philosophical ☿ which is sufficient for
+himself and for thee; for it contains in it self a pure Sulphur, which may be
+congealed into a Panacea: But for to shorten the Work, the Solar or Lunar
+Fer­ment [[Page
+181]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=101) is added, to
+the end that this Gluten, or fiery 🜄 may be sooner congealed and fix­ed: So
+that, besides this Generalissima way, or this Universal Stone of the
+Philosophers, there are five other Stones; to wit, first, the simple Mineral,
+made of ☿ per se, or with ☿ and  (antimony), with the Sulphur of  (antimony).
+The Se­cond is the simple Metalline stone, made with ☽ only, with ♃, or with ☉
+and Solar Fer­ment. Thirdly, there is a Stone which is Partly Metallick, and
+partly Mineral, made of  (antimony), ☿, and ☉, whereof Artesius, Flamel,
+Pontanus, Zaichair, and others have writ­ten. Fourthly, There is a Vegetable
+Stone. Fifthly, The Animal Stone. We shall treat of all these Stones, under
+the name of the 🜄 of Paradise, or the Hermetick Eagle, or Vir­gins Milk.
+
+### 3.22. Water of Paradise of Common ☿, or Hermes his Eagle, of the
+Terrestrial and Coele­stial ☿.
+
+SUblime ☿ three or four times with Salt, Nitre, and Vitriol; then dissolve it
+in A. F. and digest, then by distillations and cohobations, unite the Salts
+Armoniac of the A. F. to which (to have it more Pow­erful) you may put an
+eighth part of 🜹: Distill and cohobate so often, till the ☿ comes [[Page
+182]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=102) to be like
+Wax, and that it dissolveth easily in humido. Then dissolve this matter per
+deliquium, that it may attract the 🜄 which is contained in the Air: Put this
+Liquor in­to a small Cucurbite, joyn its Head and Re­cipient, and digest with
+very gentle 🜂 with a Lamp. Nothing will come over during fifteen days, but
+afterwards, there will come over an Aethereal Liquor, which is the 🜄 of
+Paradise: Two drops of this 🜄 put into ℥iv. of S. V. is an excellent Medicine
+against the Pox, for it is the Planet ☿. The Dose is one spoonful. The
+Physical Stone is made of this Virginal, or Astral Milk, to wit, distill its
+flegm, in a small Cucurbite, with the same Lamp 🜂, and the Gluten or Mineral
+Gum will remain in the bottom; of which by digestion is made the Physical or
+Medicinal Stone. But note, that if you add ☉, the Operation is sooner
+accomplished. Note also, that if you cast one drop of this 🜄 of Paradise upon
+a thin Plate of ♀, or of ♂, it will penetrate and whiten it through and
+through, before it is fermented with ☉. Note also, that that which remaineth
+after the distillation, will serve also. If you would then make a Stone,
+different from that which is made with the Virginal Milk only, pro­ceed thus:
+After you have distilled the 🜄 of Paradise, distill over with a gentle 🜂 in
+[[Page 183]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=102) Ashes
+what remaineth, and you shall have a white Oyl; then force over the remaining
+part in a Retort, and you shall have a red Oyl; cast away the remaining feces.
+Take one part of the red Oyl, and four parts of the white Oyl, and eight parts
+of the 🜄 of Paradise, put them into a Matrass, and di­gest them in an Athanor
+until all the colours appear one after another, and that the Glu­ten be fixed
+into white. If then you aug­ment the 🜂, it will become a red Medicine, of
+which you may make Projection thus: Take an hundred parts of ☿, heat it in a
+Crucible, and cast upon it one part of this fixt Medicine, and all will be a
+Medicine; whereof cast one part upon another hundred parts of ☿, stirring it
+with a stick; then melt them together. Cast one part of this Medicine upon an
+hundred parts of ☿, and all will be converted into ☽ or ☉, ac­cording to the
+Tincture. In this manner, all Metals and Minerals may be reduced in­to
+Tinctures by their 🜄 of Paradise, &c. Note, That this Work may be done also
+with ☿ dissolved in A. F. and Precipitated with Spirit of Salt; the Calx dryed
+and united with Calx of ♃ and  (antimony), and thence the Volatile Crystals,
+or [...] Butter extracted, wherewith you may proceed as was said [...] [[Page
+184]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=103) Or, you may
+make also a 🜄 of Paradise, made with ♃ per deliquium.
+
+### 3.23. The Antimonial 🜄 of Paradise, or the Her­metick Coelestial Eagle
+with two Heads.
+
+EXtract a Butter from equal parts of  (antimony) and ☿ Sublimate: Dissolve
+this Butter in the Air in ♈, ♉, and ♊; put the Liquor into a Glass Cucurbite
+with its Head and Re­cipient, lute well all the junctures; excite the Archaeus
+which is in him, by a very gen­tle heat in Ashes, by a Lamp 🜂, which will
+maturate the Matter in the space of fifteen or twenty days: Then drive up its
+Rays in­to the Head, which will be seen corporal in the Recipient in the form
+of a clear 🜄. This 🜄 is all fiery, and is the Coelestial Ea­gle with two
+Heads. Put it into a Cucur­bite, and deflegm it with the same Lamp 🜂, and
+there will remain in the bottom of the Cucurbite the Mineral Gluten, or the
+viscous 🜄, which doth not wet ones hands. You may prepare Medicines of this
+Coelestial Aethereal 🜄 thus: Put two drops of it into ℥iv. of S. V. it will
+turn as white as Milk. This Medicine Cureth the Dropsie, the Epi­lepsie,
+Madness, &c. The Dose is from ʒij. to ℥ss. Now, if you would have the Pow­der
+of Projection, you must digest the Glu­ten [[Page
+185]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=103) per se, as was
+said; or (which is better) add a tenth part of ☉ in leaf, and digest, or draw
+the red and white Oyl, and proceed as in the former Process, and you shall
+have a Medicine both for Man, and for Metals.
+
+### 3.24. Water of Paradise of Venus and Mars, or ♀. and ♂ Captivated, whence
+cometh Cupid, or the Solar Panacea.
+
+ALthough these Metals cannot take the Mercurial 🜄, nor give Volatile
+Cry­stals, as ☽, ♃, and ♄ do, because they are very Mercurial, and the former
+almost all Sulphurous, nevertheless you may do it thus: Dissolve ♀ and ♂ (each
+by it self) in the Salt Androgine, which hath but little Sulphur, to the end,
+that it may dissolve more easily: Then make a Lixivium, which Precipitate with
+your Liquor of ♄; dry the Precipitated Calx, and sprinkle it with a good deal
+of Spirit of Salt; then mix it with  (antimony), and distill Volatile Crystals
+thereof; with which proceed as before. The 🜄 of Para­dise is made of ♀ only,
+and is called 🜄, or ♀ his astrum.
+
+It Cures the Pox, Gout, &c. The Gluten of these Metals is digested either per
+se, or with a Solar Ferment, as before, into a Pa­nacea, which is a wonderful
+Medicine, and [[Page
+186]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=104) will Cure
+Maladies in Men and Me­tals.
+
+### 3.25. The thrice Noble Water of Paradise, or Apol­lo Medens.
+
+DIstill the fiery and Volatile Crystals from ☿ of ☽, with Calx of Iupiter,
+which keep. Dissolve ☉ in Spirit of Salt, which joyn with equal parts of your
+Crystals; di­gest, and then distill, the Spirit of Salt will come over
+immediately first, then will fol­low the red Crystals: Expose this Terrestrial
+☉ to the Coelestial, that it may satisfie it self with its Solary Rays, and
+then dissolve it self into a Liquor, which will be a Mag­net and an Amaranth
+Aethereal and immor­tal. Put this Solary and Lunary Liquor into a Glass
+Cucurbite, and distill with a Lamp, 🜂 this Noble, Metalline, Radical
+moisture, those invisible Rays of the ☉, or this 🜄 of Paradise, during fourty
+or fifty days. This 🜄 is 🜄 of Nature, an Excel­lent Attractive, and its
+Power is ineffable. This 🜄 drives out all Maladies, and com­forts Nature, and
+is a Royal Medicine; for 'tis the astrum of the ☉, or a ☉ between the
+Terrestrial and coelestial ☉. Of this is Apollo furens; for its Rays, or its
+🜄 killeth ☿, which they convert into true ☉, as also all [[Page
+187]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=104) other Metals.
+In this Liquor you may dis­solve ☉ if you will, but it will not be ne­cessary;
+for when it is freed of its flegm, the Solary Gluten remains, which you may
+di­gest per se, until it acquire a purple colour. Thus ☉ is exalted to make a
+Tincture. The 🜄 of Paradise is the Aethereal Aurum pota­bile; dissolve two
+drops thereof in ℥iv. of S. V. the Dose is ʒij. This is the 🜄 of Na­ture,
+which is multiplyed ad infinitum by new addition of the Gluten, &c. Note, That
+when this Panacea is fixed, it is the Panacea of Panacea's, which Cureth
+Mala­dies, both in Men and Metals.
+
+Note, That this 🜄 of Paradise converts all Metals into ☉, if you digest their
+Plates in the same; yea, one drop thereof pene­trates a Plate of ☽, and
+transmuteth it into most fine ☉. There is also made another A­pollo Medens,
+which is joyned with Spirituous Regulus of  (antimony), to wit, the Flowers
+reduced, or fiery Regulus, and conjoyned in the Sul­phurous Sal Enixe, and
+both Precipitated into an Aureal Antimonial Panacea. But this Panacea is not
+comparable to the other. Apollo furens is the same 🜄 of Paradise, the which
+are the invisible Solary Rays, by which the Volatility of ☿ is killed, and is
+converted into ☉; and the same it is with the Solary 🜄. Apollo Moriens is the
+Eclipse of the ☉ [[Page
+188]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=105) in the above-
+mentioned fiery and Aethereal Menstruums: For in all sorts of Menstruums it
+putrifies, groweth black, and maturates in the space of fifteen days: But
+after that, it resuscitates before the Judge Apollo resusci­tans.
+
+### 3.26. An unheard-of Arcanum, or new and unheard of Lunary, wherewith is
+made the Elixir, or Metalline Stone.
+
+DIssolve what quantity of ☽ you please in the Sal Androgine; in four hours
+time half your ☽ will be dissolved into a very red Salt, pour it into a vessel
+of Copper, then make a Lixivium, which filter, reduce into a body what
+remaineth with ♄, and re-dissolve it in new Sal Androgine as be­fore.
+Reiterate this, till all your ☽ go through the filter with the Lixivium, and
+you will be sure to have a ☽ altogether Spi­rituous and Volatile, which you
+will find to be true to your loss, if you Precipitate it with an Acid Liquor,
+and reduce it with ♄; for it will all fly away at the Coppel; the same will
+happen if it be attracted by Plates of ♀. These two effects have happened to
+me by inadvertence.
+
+Note, That this Spirituous ☽ is a Poten­tial and Spirituous ☉, as you will
+find, if [[Page
+189]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=105) you rejoyn it
+with its body at the Coppel: There is nothing to say to that. Note, That the
+corporal ☽ which is added, retains all what is of the Nature of ☉, which
+ren­ders it afterward in the separating 🜄. There­fore, take all these filtred
+Solutions (which are yellow if the Lavers be made with Odor of Metals) and
+Precipitate them totally in­to a Lunary Sulphur of a Golden colour, adding a
+sufficient quantity of that which Precipitates it: That which Precipitates it
+is of our invention, and is of the Saturnian Juice, which swims upon the ☿ of
+♄, when its Solution is repercuted by the Salt 🜄. Dry this Lunary Golden
+Precipitate gently, and mix it with ana of Calx of ♃, made per se in the 🜄;
+or if you will, you may draw the Butter or fiery Crystals with ana of
+(antimony); the Crystals are resolved per se in the Air. And with this
+unheard-of Magnet are Mira­culously attracted the Influences of the Stars, or
+the 🜄 of Nature. This is chiefly done in the belly of ♈ that is to say, in
+the Month of April and May. Note here a very great Secret, which is, that
+there is no flegm attracted by this Magnet, but onely the pure Nutriment of
+Life, or the fiery vi­  [...]al Viand which is hidden in the centre of the
+Air; which you will find true, if you put some waterish part into this Liquor;
+for [[Page 190]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=106) you
+shall see that it will not mix with it in any wise, but will swim upon it in
+an hete­rogene form, as Milk: You must further sepa­rate this Liquor, which is
+the simple Lunary, in which ☉ is easily dissolved: For from this corporal
+Lunary you must have a Spiritual and unheard-of Lunary. Put then this Liquor
+in a Glass Cucurbite with its Head and Reci­pient, and digest in Ashes with a
+very gentle heat by a Lamp the space of one Philoso­phical Month. Nothing will
+distill over during the first fifteen days, or more; but it will become a red
+Sea, and the Matter will maturate, and after that, you shall see that by this
+gentle heat the Metalline Soul will mount invisibly upon the wings of the
+Wind, or the Spirit of the World, and will fall into the Recipient in the form
+of Tears, which are the Tears of Diana. This Li­quor is much more precious
+than pure ☉, and of very great vertue. Continue the dissolution, whilst the
+Archaeus of Nature chaseth it, which is done in fifteen days a [...] the
+farthest. In this Operation is done, wha [...] Hermes saith, thou shalt
+separate, the sub [...] from the Spirit gently, and with great dex­terity.
+This distillation is altogether Na­tural, and is perfected by the only
+Archaeus of Nature. This Liquor is the Spiritual Lu­nary, which contains in it
+self Body, Spirit [[Page
+191]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=106) and Soul; 'tis
+the 🜄 of Paradise, the Lunar Sphere, the Metalline Fountain, and the
+Universal Metalline Menstruum. It is a most certain anti-epileptick and
+Cephalick: If one or two drops of it are mixt with ℥iv. of S. V. all will
+become like Milk. For it is all 🜂; which changes the moist Element of the S.
+V. as being contrary to it, or at least not connatural.
+
+### 3.27. To make the Metalline Stone per se of this Spiritual Lunary.
+
+TAke this Liquor, and put it into a small Glass Cucurbite; leave it uncovered,
+evaporate it in Ashes with a gentle Lamp 🜂, to the end, that if there be any
+moisture from the Air, it may exhale, and there will remain in the bottom of
+the Cucurbite the Metalline Gum, the Lunary Gluten, the Azot, &c. which will
+liquifie at the least heat, as Butter, and will congeal by cold. Put this Gum
+into a Matrass, which Seal Hermetically, and digest per se, it will be­come
+black, and after white, and then it is the white Stone; then by increasing the
+🜂, it will become of a Citrine colour, and red, without a Solary Ferment: And
+the King is made of the Queen, or the immersion of ☽ into a Solary Tincture.
+But for to shorten the Work, add unto this Gluten a tenth part [[Page
+192]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=107) of ☉ in leaf,
+or Sulphur of ☉ made Spiri­tual by the Sulphurous Sal Enixe, and di­gest as
+was said: The augmentation of this Stone is by addition of new Metalline
+Gluten. Note, That this Spiritual Lunary tingeth ☿ into true ☽, if you digest
+it therein; also a Plate of ♀ is perforated by putting one drop of this 🜄
+upon it. Note also, That when you have distilled the Lunary, that which
+remaineth is an eternal Magnet. To that effect, resolve it again in the Air,
+and man­age it by a Lamp as before. Then distill an Aethereal Liquor, which is
+yet impreg­nated with a Lunary Soul, and distilleth in­to the Recipient, and
+then goeth anew into a Gluten: And this is done ad infinitum. Note also, That
+that which remains, may be distilled, and you shall have first, a white Lunary
+Oyl (which is the Philosophers Oyl of Talc; for the true Oyl of Talc is the
+Lunary coagulated per se, and fixed in­to a white Stone, which is fixt and
+soft.) Secondly, you shall have the red Oyl by augmenting the 🜂. If you will
+make the Stone of these Matters, take of the red Oyl one part, and of the
+white Oyl four parts, and eight parts of the Lunary reduced into Gluten: Put
+this into a Matrass, and digest until all be fixed into white, and after by
+continuing become red. This Medicine [[Page
+193]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=107) ought not to
+be Fermented; for it is the true Metalline Soul, reduced into a Tincture. This
+last digestion must be in an Athanor with a Charcoal 🜂.
+
+Hartman.) These Waters of Paradise and Glutens, &c. were given to Sir K.
+(about eight or nine Months before he died) by a French Gentleman, a great
+Scholar.
+
+### 3.28. Monsieur Barkly's fixation of Common Sul­phur, and the Tincture
+thereof, which is an Excellent Medicine in all affects of the Breast and
+Lungs.
+
+TAke Flowers of Sulphur, or Sulphur pulverized very subtil; put it into a
+Matrass, and pour upon it so much Spirit of Sulphur per Campanam, as may cover
+it the breadth of three fingers. Lute the Ma­trass well, and put it in
+digestion for fifteen days, or three weeks, or so long until the Flowers of
+Sulphur come to be very black: Then distill off all the Spirit of Sulphur to
+dryness; break the Matrass, and take out the Sulphur, which pulverize again,
+and put it into another Matrass, and pour upon it the Spirit of Sulphur you
+distilled off, and distill as before to dryness. Repeat this twice more, which
+maketh three cohobations in [[Page
+194]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=108) all without
+the first distillation. Then take your black and fixt Sulphur, and reduce it
+to a very subtil Powder, and put it to re­verberate in a Glass Oven the space
+of a fortnight or three weeks, it will change its blackness into white, and
+after yellow, and at last come to be of a reddish brown colour. The Tincture
+of this red fixt Sulphur, is extracted with Spirit of Salt well rectified.
+
+He made thus his Spirit of Salt for this: Take Salt lbj. dissolve it in five
+quarts of fair 🜄, and filter it; put it into a Cucurbite, and pour upon it by
+little and little lbj. of good Oyl of Vitriol, and joyn the Head and
+Recipient; when it is all in, it will begin presently to distill over cold:
+Set it in Sand, and with moderate heat drive over as much as will rise, which
+rectifie from the flegm: There will remain in the bottom of the Cu­curbite a
+wonderful Salt, that is exceeding fusible.
+
+After he had extracted the Tincture,  [...] distilled away all the Spirit of
+Salt, till the Tincture was dry: Of this he gave, three grains for a Dose, and
+found it a great Dis­phoretick, but it was somewhat rough and sharp in the
+Stomach: Whereupon he dul­cified it by several ablutions in fair 🜄; then gave
+the same Dose, and it wrought excel­lently well in all Colds of the Breast and
+Lungs.
+
+[[Page 195]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=108)
+Hartman.) This Relation is of Sir K. Digby.
+
+### 3.29. The Countess of Kents Powder, as it was pre­pared by Sir Kenelm
+Digby's Order in his Operatory.
+
+TAke ℥iv. of the black ends of the shares of Crabs, the Sun being in the Sign
+of Can­cer, Crabs-eyes, fine Pearls and Corals pre­pared, of each ℥j. yellow
+Amber ℥ss. Roots of Contrayerva, Virginian Snake-root, an [...] ʒvj. Oriental
+Bezoar ʒiij. of the Bones that are found in the hearts of Stags ℈iv. Re­duce
+all into a subtil Powder; moisten the Crabs Claws and Crabs-eyes, and the
+Pow­ders of Pearls and Corals with a little juice of Lemons, to make them
+ferment a little: Then the next day mix all well together, adding ʒj. of
+Tincture of Saffron, and pour upon the Mass (when you incorporate it) three or
+four spoonfuls of Spirit of Honey, or instead thereof you may take Jelly of
+Harts­horn, and Jelly of the Skins of Vipers dryed in the shadow. Then add to
+this Composi­tion ℥j. of Trochisque of Vipers; grind it all well together to
+make it well incorporate: Then make it up into Balls, and let them dry, and
+keep them for Use.
+
+[[Page 196]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=109) This
+Powder is a most Excellent Remedy in all Epidemical Distempers, all Malignant,
+Spotted, and Purple Fevers; to drive out the Small-pox and Measles. It is
+Sudorifick, and resists all Corruption, and is admirable in a Surfeit. It
+drives the Venom from the heart, and hinders the Vapours to fly up into the
+Head and Brain. It drives out by transpi­ration all bad Humours, corroborates
+and strengthens Nature. The Dose is from six to twenty, or twenty five grains.
+In an ex­tremity of the Plague, one may take from thirty to fourty grains.
+
+Hartman.) Sir K. D. had this Powder always ready by him in his Closet; and I
+re­member that many Persons of Quality sent to him for some of it when any of
+their Chil­dren had the Small-pox or Measles; and ne­ver any did miscarry of
+all those that took it. It is also Excellent against the biting of Mad Dogs,
+stinging of Vipers, and other Venemosis Beasts.
+
+[[Page 197]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=109)
+
+### 3.30. A very Efficacious Remedy against the Epi­lepsie, or Falling-
+Sickness, wherewith Sir Kenelm Digby Cured a Ministers Son, named Mr.
+Lichtenstein, at Francfort in Germany, in the Year 1659. to which I was an
+Eye-Witness.
+
+TAke of the Skull of a Man that died of a violent Death, of the parings of
+nails of Man, ana ʒij. Reduce this to a subtil Powder, and grind it upon a
+Marble stone; then take Polypody of the Oak very dry, ʒij. Misletoe of the
+Oak, gathered in the Wain of the Moon, ℥ss. Misletoe of the Hasle-tree,
+Misltoe of the Tile-tree, of each ʒij. Piony-root ℥ss. Reduce all into a
+sub­til Powder: Then take ℥vj. of Sugar, boyl it to the consistence of Rose-
+Sugar; then mix all the Powders with it, and stir them well together over the
+fire that they may well incorporate together: Then take it from the fire, and
+make it up into little Tablets of about a Dram apiece; whereof give one in the
+Morning fasting, and two or three hours after Dinner, and another two hours
+after Supper: Continue this whilst the Tablets  [...]ast.
+
+[[Page 198]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=110)
+
+### 3.31. Another for the same.
+
+SIR Kenelm Digby Relates, that in the Year 1663. the Lady Warwick told him,
+that a Daughter of her Husbands elder Brother had the Falling-Sickness in the
+greatest Extremity, so that she fell like a log seven or eight times a day
+without any motion. They had put her into the hands of the ablest Physitians
+in England, who in effect could do her no good. A Gentleman, one of their
+Neighbours, undertook to Cure her, and performed the Cure thus: Take true
+Misletoe of the Oak, the Leaves, the Berries, and all the tender Branches; dry
+it gently in an Oven after the Bread is drawn; then reduce it to a fine
+Powder, of which give as much as will lye upon a shilling for one of ripe
+years; for middle aged, a six-pence, for a Child, a groat: Give it Morn­ings
+and Evenings in Cowslip-water three days before, and three days after the Full
+of the Moon. Repeat this Remedy for some Months together. This Cured also my
+Lord Herberts Son, and many other Persons of Quality. The best time to gather
+the Misle­toe of the Oak, is in the Month of Septem­ber, when it bears
+Berries, and in the Waning of the Moon.
+
+[[Page 199]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=110)
+
+### 3.32. The Preparation of the Silver Pills against the Dropsie, as they
+were prepared by Sir Kenelm Digby's Order in his Opera­tory.
+
+TAke refined ☽ ℥j. dissolve it in ℥iij. of the best Spirit of Nitre in a
+Matrass, then evaporate away all the Spirit of Nitre to dryness in a low
+Cucurbite, or in some other fit Vessel; then dissolve the matter in a
+sufficient quantity of Rose-water, filter the dissolution through gray Paper,
+and evapo­rate it again to the consistence of a dry Salt as before. Then take
+℥ij. of fine Salt-petre, dissolve it in Rose-water, filter the dissolu­tion,
+and evaporate it in a large wide Vessel of Glass, to the consistence of a
+Salt. Then mix the ☽ and this Salt together, and put them in a large Glass,
+pouring upon them so much Rose-water as will dissolve them in­to a greenish
+Liquor: Then evaporate it in Sand to the consistence of a white Salt; then
+take it out of the Sand, and being quite cold, put it into a Glass or Marble
+Mortar, and put to it ℥ij. of fine Wheat-flower; grind them well together,
+then add so much Rose-water as will make it a Mass fit for Pills: Then make it
+up into Pills of the bigness of Pease, put them between two Papers, and [[Page
+200]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=111) let them dry
+in the shadow, and they will be of a Purple colour; keep them in a wooden Box.
+
+### 3.33. Directions for the Use of these Silver Pills.
+
+THey are a Specifick against the Dropsie, the Patient is to take one of them
+at six or seven of the Clock in the Morning, ta­king some Broath about two
+hours after it with eight or ten drops of Spirit of Salt in it. Their
+Operation is by Stools, and by Urine; you must continue it until the Cure be
+perfected. Note, That if the Patient be weak, he must take the Pill but once
+in two days, and in all Broaths and Drink, he ought to take some Dose of
+Spirit of Salt, as is said above. If there be need of Sweat­ing, you must use
+some dry Stoves, and give him always of the following Salts: Take Salt of
+Urine, Salt of Worm-wood, ana ʒij. add half a Scruple of Oyl of Amber, and as
+much of Spirit of Urine, with ʒij. of fine Sugar; mix all well together in a
+Glass of Stone Mortar, whereof give ℈iv. for a Dose in half a Glass of White-
+wine when the Pa­tient is Sweating in the dry Stove, and not in a Bath of
+Water: And every third day you must repeat this Remedy, and he will be [[Page
+201]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=111) Cured within
+three days. The evacuation is by abundance of Sweat and Urine.
+
+Hartman.) I cannot omit to relate here a Story, which I have often heard Sir
+Ke­nelm Digby tell concerning a Famous Cure of a desperate Dropsie, done by
+Dr. Farrar up­on an eminent Lord, who was over-grown with the Dropsie, his
+Belly and Stomach swel­led to a Prodigious bigness, and was given over by the
+ablest Physicians as incurable. Sir K. D. made the bargain between the Lord
+and the Doctor, who was to have five hundred pounds for the Cure: But when the
+Lord was Cured, he would give the Doctor no more than three hundred pounds,
+saying, that five hundred pounds was too much money, and that all the
+Ingredients be used could not stand him in twenty shillings. The Remedies were
+thus: Having first well purged the Patien [...] with some fit Purge (as of
+Iallap, Manna, Sena) to carry away watry humours, he gave him the following
+Broth. A moderate Broth was made of Mutton, Chickens, and Capon, or Hen, but
+not Veal; the Broth was not strong of the Meat, nor too weak, but such as the
+Patient might drink all the day, for he was to drink no other Liquor; they
+made but about a pottle of Broth at a time, for it would not keep: And for
+this quantity they took a Gallon of Water, into [[Page
+202]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=112) which the
+Doctor put above a handful of Garlick, and Rosemary, Penyroyal, Thyme, Sweet-
+marjoram, Fennel-roots, Parsley-roots, as also Currans, and a sufficient
+quantity of Salt. And after some days taking the Broth, they put into every
+draught of the Broth (the Patient took) above a spoonful of the crude juice of
+Garlick, stamped and pressed out. But if you cannot bear always to drink this
+Broth, then use the following De­coction: Take Sarsaparilla ℥xij. China-roots
+℥v. Sassafras ℥iij. Cut all these very small, and pour upon them Spring-water,
+to three fingers breadth above the Ingredients, and let them infuse over a
+soft fire the space of four hours; then throw away this Water, and stamp the
+Ingredients in a Stone Mortar with a wooden Pestle: Then pour upon them ten
+quarts of Fountain-water, and boyl it in a Vessel close stopped, till four
+quarts of it be consumed: Of this Decoction let the Pa­tient drink, without
+any other drink but the Garlick Broth.
+
+### 3.34. Another Drink.
+
+TAke all the aforesaid Ingredients, in the same manner prepared and stamped:
+Then take a clean Vessel, and fill it with Beer, then put the Ingredients in a
+bag, and [[Page
+203]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=112) hang it in the
+Beer; ℥j. of the Ingredients is sufficient for a quart of Beer. Either of
+these Drinks is only in case the Patient can­not bear the use of the Garlick
+Broth, which alone will dispatch the Cure much the soon­er; and this course of
+the Garlick Broth is for all Obstructions, and superfluity of Cold, raw
+Humours, clogging the Brain, or any other part, as well as for the Dropsie. To
+strengthen and secure the Liver, use the fol­lowing Electuary. Take of Powder
+of Turmerick a sufficient quantity, make an Electuary of it with Sugar, and to
+every Ounce of it add three drops of Oyl of An­niseed, made by distillation;
+and if you put a little Amber-grease to it, it will be the more strengthening.
+Take of this Electuary two or three times a day the quantity of a Hasle-nut;
+take not above ℥j. in a day.
+
+Besides this, to strengthen the Stomach, use the following Stomacher: Take
+Worm-wood, Marjoram, Rosemary, Rue, ana one handful; Cloves, Cinamon, Mace,
+ana ℥j. bruise these Spices, and mix them with the Herbs; of these make a
+Stomacher, and ap­ply it: And you may likewise anomt your Stomach, and region
+of the Liver with Oyl of Nutmegs and Oyl of Roses.
+
+I heard Sir K. D. say, that after twelve or thirteen days, the Patient begun
+to Piss in [[Page
+204]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=113) great
+abundance, and so stinking, noisom, roping matter, that the Nurse which
+emptied the Pots, was hardly able to endure the stink and noisomness of it.
+And he con­tinued the diet till he was perfectly Cured.
+
+### 3.35. Another Experimented Remedy for the Drop­sie, whereby several
+Persons have been Cured, as I have been assured.
+
+TAke the Root of Heath, scrape off the first Bark, which throw away, then peel
+off the next rind, and fill a Glass or a Bot­tle with it loosely, then fill it
+up with White­wine, and let it stand to infuse over Night, and the next
+Morning drink half a pint of Wine; and so continue until you are Cured.
+
+### 3.36. Another Excellent Remedy against the Dropsie.
+
+TAke Spiritual Oyl of Salt, mix with it so much flowers of Sulphur, that it
+be­come like Pap, which distill in a Retort in Sand, and you shall have a
+Liquor as white as Milk, which is Excellent against the Dropsie.
+
+[[Page 205]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=113)
+
+### 3.37. The Copy of a Letter from Abbot Boucaud from Paris to Sir K. D.
+wherein he relates in what manner he Cured himself of the Stone, and of a
+Quartan Ague.
+
+SIR,
+
+I Do not tell you that I have been Sick, (and that I am so still) to Excuse my
+self for having so long de [...]erred an Answer unto your last two Letters,
+&c. It is true nevertheless, for I have laboured under di­vers Distempers; but
+among the rest, I have been ill of the Stone, and have had a Quar­tan Ague: I
+believe you will not be sorry to hear how I Cured my self of both with­out the
+help of any Physician. For the Stone I took twelve grains of the Salt made of
+the Stones which were taken out of Men; I dissolved the said Salt in a little
+water, and then I put all into a Glass of Whitewine, and drank it off, and
+walked about my Chamber near two hours, at the end where­of I had a great need
+to make water, and I voided (with violence) a large Glass full of Gravel,
+which was so gross, and so rug­ged, that it caused me to void near a Pint of
+Blood; the same thing happened to me three times, and every time I voided
+Blood, which made me judge that I should have taken less [[Page
+206]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=114) of the said
+Salt; yet I took it but once, but I felt a great pain and heaviness in my
+Reins and Kidneys. The said Stones were Calci­ned in a Potters Oven, and after
+they were Calcined, I extracted the Salt out of them with distilled Rain-
+water: The feces I Cal­cined again, and extracted the Salt as before, which I
+repeated so often, till the said Stones yielded no more Salt. Note, That to
+make this Salt for a M [...]n, you must take the stones taken out of Men, and
+for a Woman, those that are taken out of Women. And thus was the first Cure
+performed.
+
+As for the Quartan Ague, without having been Purged, or let Blood, at the
+fourth fit I took a Glass-full of the water of green Wall-nuts, which I had
+distilled in their last Season: I took it as soon as I perceived the least
+symptom of the Fits approaching; I went to Bed, and caused my self to be well
+covered, and slept, and had no Fit at all that time, nor ever after.
+
+The Water I distilled thus: I took green Wall-nuts and beat them in a stone
+Mortar, then in a Cucurbite in B. M. I distilled the water from them, which I
+cohobated twice upon fresh Wall-nuts. Then having Cal­cined the three Marcs or
+Caput Mortuums, I extracted the Salt out of the Ashes; this Salt I put into
+the distilled water. I thus, [[Page
+207]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=114) Sir, I have
+given you Account how I went to work.
+
+### 3.38. A Process, how to make a most Excellent Oyl of Sulphur in abundance;
+sent also by the said Abbot Boucaud to Sir K.
+
+TAke an Earthen Pan of Stone-ware, in the midst thereof lay a piece of Brick,
+upon which set an Earth [...] Poringer full of Sulphur grosly beaten; then put
+fair water into your Pan, but not so much as to touch the said Poringer: Then
+kindle the Sulphur, and cover it with a Bell, so that the Bell touch the
+water, and that the fumes may not come out, but may condense and run down into
+the water, which afterwards must be separa­ted in B. with a moderate heat. To
+set the Sulphur on fire, you may put into it a square or round piece of Iron
+made red-hot in the fire.
+
+Hartman.) In my Opinion, if the Bell touch the Water, and that it hath no hole
+at the top, so that the Sulphur have no Air, it will not burn; I judge the
+best way to be thus: Let the Poringer stand in the Water, but not so deep, as
+that the Water bear it up, and make it float; if it stands half, way in the
+Water, it will do, for the weight of the Sul­phur will keep it down, and the
+heat of the [[Page
+208]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=115) Poringer will
+heat the Water, and the Va­pours and steams thereof will mix with the fumes of
+the Sulphur, and make them con­dense the better, and so distill down together
+into the Water. The Bell should be such a one as is now in use, with a long
+neck, and a hole at the top, which should not touch the Water nor the Pan, but
+it should be suspended in such manner, that there be some distance between the
+bri [...] of the Bell and the sides of the Pan.
+
+### 3.39. A subtil Volatil Water from Sulphur, which will Dissolve ☉.
+
+I AM told by one who hath done it, that when you go to Sublime Flowers of
+Sulphur, if you give very gentle and mo­derate fire, and be very attentive,
+there will come over first, before any Flowers Sublime, a little very
+Volatile, but altogether insipid Water, which he saith, will dissolve ☉: It is
+much more Volatile than any S. V. A Glass full of it will presently vanish
+away, if you hold the Glass unstopped upon your hand, by the warmth of it.
+
+Hartman.) This Relation is of Sir K.
+
+If you would save this Water, you must have a Glass head upon your last
+Subliming-pot, or a Ludel, wherein you Sublime your [[Page
+209]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=115) Flowers of
+Sulphur, and instead of a Vessel without a bottom, as that for the Flowers of
+Antimony, you must have one with a bottom, and without a hole on the side to
+put in your Sulphur, and then two Alu­dels besides the said Vessel, and the
+Glass-head will be sufficient for subliming the Flowers of Sulphur.
+
+By means of the Glass-head you save also the Vinegar of  (antimony) in
+subliming the Flowers, which I have done several times; but I used not above
+three Aludels one upon another, besides the Glass-head.
+
+### 3.40. An Excellent Essence of Sulphur for the Breast, and for the Lungs.
+
+TAke Sulphur one part, brown Sugar-candy two parts; pulverize them, and mix
+them well together, then put it into a Retort of such a bigness, that two
+third parts thereof may remain empty. Then distill in sand, giving very gentle
+fire at first; you will have a whitish Liquor, which keep for use.
+
+Hartman.) This was given me by a Phy­s [...]cian at Paris, who told me, that a
+Catarrh  [...]alling upon his Lungs, which obstructed his Lungs, causing in
+him a great Fever, he Cured himself with this Essence, taking this, thirty
+[[Page 210]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=116) or
+fourty drops of it in some Broth. He told me also, that it was of great effect
+in Asthma, Phthisick, old and inveterated Coughs, &c.
+
+### 3.41. An Excellent Elixir of Sulphur.
+
+TAke Juice of Licorise, Confection of Alkermes, Roots of Elecampane, ana ʒvj.
+Alipta moscata ʒiv. Myrrh, Saffron, ana ℥jss. Mastick, Benjamin, Cardamoms the
+less, Cinnamon, ana ℥j. Sugar-candy ℥ij. Powder what is to be Powdered, then
+mix them together, and add rectified S. V. so much as to make it into a Paste;
+then put it into a Circulatory Vessel, and pour upon it so much Spirit of
+Sulphur, as may cover it the breadth of four fingers: Digest it fourty days,
+then decant the Tincture, and pour upon the remaining Matter fresh S. V. to
+ex­tract another Tincture. Then mix these two Tinctures together, and keep
+them for Use.
+
+This Tincture is a very great Pectoral, and a Precious Remedy in all affects
+of the Breast and Lungs. It is Excellent against Catarrhs, old and inveterate
+Coughs, the Phthisick, Asthma's; it cherishes and comforts the Heart, and is
+good against fainting and swooning Fits, preserves from Putrefaction; it is
+Anodyne, Cephalick, Analeptick, Alexi­pharmack; [[Page
+211]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=116) and, as the
+Author saith, preserves Health, prolongs Life, and keeps back gray Hairs, by
+strengthening Natural heat. It is to be taken in some Pectoral water or
+Sy­rup; the Dose is so much as renders the Ve­hicle of a grateful acidity.
+
+### 3.42. Lac Sulphuris.
+
+TAke of Sulphur in Powder on part, and of Quick-lime two parts, mix them, and
+put them into an Iron Pot, and pour thereon a good quantity of fair water, let
+it boyl until three parts of the water be con­sumed, and that the Liquor be as
+red as Blood by the dissolution of the Sulphur; then strain it whilst it is
+hot, and let the strained Liquor stand to cool: Then Preci­pitate with
+Vinegar, then let it settle, and having poured off the clear, edulcorate the
+residue ten or twelve times with warm wa­ter, the last time with Rose-water;
+then dry it gently, and keep it for Use.
+
+It is a true Remedy in all affects of the Breast and Lungs; it is given with
+great suc­cess to those that are troubled with Catarrhs, Rheum in the Head,
+Asthma, Phthisick, Coughs, &c. It promotes expectoration; it hinders the
+defluxion to the Joynts, it pre­vents and disperses the windiness of the
+Sto­mach [[Page
+212]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=117) and Bowels,
+and Cureth the Cholick. The Dose is so much as may change the Ve­hicle white;
+the best and fittest Vehicle is the Spirit of Lignum Cassiae, or Cinnamon;
+taking it twice a day, in the Morning fast­ing, and at Night.
+
+You may make a very good Spirit of Lig­num Cassiae thus, which is a much finer
+Spi­rit than that of Cinnamon, and much bet­ter for this use. Take Lignum
+Cassiae ℥iv. bruise it well, then pour upon it three quarts of Malaga Sack,
+stop the Vessel close, and let it stand to digest for three or four days, then
+distill it in a Limbeck, or in a Glass Cucurbite, distilling it off all
+together, as long as it cometh with vigour, and you shall have about three
+pints and a half of very good Spirit: Thus I make it. But if you will have it
+richer of the Wood, put this Liquor upon fresh Cassia, and digest and distill
+as before. Repeat this till it be as strong as you desire. You may if you
+please separate the runnings so as to have some of such strength as you wish.
+
+[[Page 213]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=117)
+
+### 3.43. A great Diaphoretick of Antimony.
+
+TAke good Antimony Mineral in subtil Powder lbj. mix it with lbss. of ☿
+Sub­limate; put this mixture presently into a Retort, leave the Retort for
+some time un­stopped before you distill it, for then you shall have more
+Butter than if you distill it presently. Then distill a Butter from it
+ac­cording to Art, giving strong fire at last, so that the bottom of the
+Retort may be red-hot; part of it will come over in Butter, and part will
+Sublime in Cinaber, very hard; if you leave this Butter for some time expo­sed
+to the Air before you rectifie it, you shall have more Liquor than if you
+distill it pre­sently; rectifie this Butter, then melt it a­gain, and pour it
+into a clean Retort, and pour upon it by little and little good Spirit of
+Nitre, continue pouring on the Spirit of Nitre until the Ebullition ceaseth:
+Then di­still it with a gentle fire in Sand, giving strong fire at last, so
+that the bottom of the Retort may be red-hot; then let it cool, break the
+Retort, and take out your Matter, which will be very spungy, and of a
+yellowish co­lour; pulverize and edulcorate it several times with warm water,
+then dry it gently; reverberate it for an hour between two Cru­bles [[Page
+214]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=118) well luted
+together: Then grind it a­gain to a subtil Powder, which put into an Earthen
+Poringer, and pour upon it recti­fied S. V. that will burn all away; fire it,
+and whilst it burneth, stir it continually with a silver spoon; the S. V.
+being burned away, the Powder will remain dry; grind this Powder again, and
+mix it with ʒvij. of An­timony Diaphoretick that hath been Calcined three
+times with Nitre, grind them well to­gether, and put them into a Retort, and
+pour upon them ℥iijss. of good Spirit of Nitre; put the Retort in Sand, and
+let it stand thus four and twenty hours; then distill with a gentle fire to
+dryness: Break the Retort, and take out the Matter, which grind and
+edul­corate with Carduus-water warmed, then spread it upon gray Paper, and let
+it dry of it self: Then grind it to an impalpable Pow­der, which put into a
+Poringer, and pour upon it S. V. so much as may cover it a fingers breadth;
+let it stand thus for five or six hours, then fire the S. V. upon it, and stir
+it continually with a silver spoon whilst it burneth, then grind it again, and
+put it in­to a Viol, stop it close, and keep it for Use.
+
+The manner of using this Medicine is thus: Take fifteen grains of it for three
+Mornings together, mixing with it some [[Page
+215]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=118) Conserves or
+Sweatmeats, and take it upon the point of a Knife, then drink a Glass­full of
+the Sudorifick Decoction after it warm. Then take twenty grains for three
+Mornings more; then fifteen grains again for three Mornings more. It is an
+Excellent Remedy to Cure the Gout, Dropsie, Palsie, the Ve­nereal Disease, the
+Evil, Leprosie; it puri­fieth the whole Mass of Blood, and is good in all
+Scorbutick Distempers. Note, That before you use this Medicine, you must
+pre­pare the Body before with some fit Purge, according to the Constitution of
+the Pa­tient.
+
+Those that are careful to preserve their Health, and to keep it in good state,
+may take this Powder in the Spring, at the fal­ling of the Leaf, having first
+Purged once or twice; then take the Powder with the Su­dorifick Decoction for
+Nine days together, as was said, mixing the Powder with a dram of Confection
+of Alkermes. It powerfully resisteth all Corruption, dryeth up all
+super­fluous moisture in the Body, and is a true concretive of Blood.
+
+[[Page 216]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=119)
+
+### 3.44. The Sudorifick Decoction.
+
+TAke Lignum Guaiacum ℥iv. Salsaparilla, Sassafras, ana ℥j. infuse them in
+three quarts of Fountain-water for twenty four hours; then let it boyl gently
+for three hours.
+
+### 3.45. A most Excellent Medicine against all sorts of Agues and Fevers, &c.
+
+TAke of the Starr'd Martial Regulus of Antimony lbj. Mercury Precipitate
+lbjss. pulverize and mix them well together, then put them in a Retort, and
+distill in Sand as you do Butter of  (antimony); then rectifie this Oyl or
+Butter once or twice, casting away the Feces: Then put it into a new Retort,
+and pour upon it Spirit of Metheglin; distill and cohobate four or five times
+to make the Oyl sweet, then pour S. V. upon it, and abstract it to the
+consistence of an Oyl. This is a Precious Remedy for the Cure of many
+Dis­eases: It is of great Power and Efficacy to Cure all sorts of Agues,
+Quotidians, Tertians, and chiefly Quartans. It Operates by a gen­tle Vomit in
+some Persons, and in others it gently Purges without Vomiting, and in some it
+gently Operates both ways: It hath vertue [[Page
+217]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=119) to eradicate
+totally both Root and Seed of the Distemper. The Dose is from six to twelve
+drops, in some fit Vehicle.
+
+Note, That having separated the Spirit of Metheglin, if you acuate it with
+Spirit of Vitriol, it is a great Diaphoretick, far be­yond all others. Dose is
+from half to one whole spoonful in some fit Vehicle.
+
+### 3.46. A Precious Oyl of Antimony.
+
+TAke Antimony Calcined, as for making the Glass of  (antimony), lbij. ℥xij.
+Sugar lbj. Mix them well together, and put them in a Retort: Distill in sand,
+first, will come a flegm, and afterwards a pure dark-red Oyl, which keep for
+Use.
+
+This is an admirable Remedy against the Stone and Gravel, the Dropsie,
+Epilepsie, Asthma, Quartan Agues, and all sorts of Fevers, the Plague, and all
+Malignant Fe­vers, and Epidemical Distempers, and Le­prosie; and being
+outwardly applyed, it cureth, healeth, and dryeth up all inveterate Wounds and
+Ulcers. The Dose is four drops in Wine twice a day.
+
+[[Page 218]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=120)
+
+### 3.47. A most Excellent Panacea of the true Sulphur of Antimony.
+
+TAke Lees of Wine, which you may have of the Wine-Coopers when they have
+pressed them out, break them into small pieces, let them dry, then burn them
+to Ashes: Take of these Ashes, of Quick-lime, and Nitre, ana; make a Lixivium
+thereof with warm water, then filter it: Then take Cinaber of Antimony, which
+is found in the neck of the Retort when one maketh the Butter of Antimony;
+pulverize it, and boyl it in the afore-said Lixivium for the space of four
+hours; pour off the Lixivium from the Quick-silver into another Vessel, which
+lean on the side, that the red-Sulphur may settle; then edulcorate it with hot
+water, and dry it gently; so have you the true Sulphur of Antimony. Take of
+this Sulphur, and of Regulus of Antimony, ana ℥j. Oyl of Sulphur per Campanam,
+or rectified Oyl of Vitriol ℥iij. Mix all well together, and put it into a
+small Retort, di­gest it in Horse-dung, or if you will, in some other gentle
+heat for eight or ten days. Then distill it, and cohobate the distilled Liquor
+upon the mark three or four times; then increase the fire to the highest
+degree, [[Page 219]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=120)
+which continue for twelve hours, to force all over, and the Matter will be
+fixt; then break the Retort, and take out the Matter, which pulverize, and
+edulcorate it with Rose-water; then dry it gently upon a gray Paper, then
+reverberate it for four or five hours. Then take ℥j. of this Powder, and of
+Salt of red Coral ℥ij. grind them well together to a very subtil Powder.
+
+This is an Universal Medicine to Purifie the whole Mass of Blood, and to root
+out such Distempers as proceed from the cor­ruption thereof, and are Curable
+by sweat. It Cureth all stubborn, Malign, and Chro­nick Diseases: It Cureth
+the Venereal Dis­ease, the most inveterate; the Leprosie, the Evil, the
+Scurvy, the Plague, and all Epi­demical Diseases. The Dose is from ten to
+thirty grains.
+
+The Order of using this Medicine is thus: First, Purge the Patient once or
+twice with fit Purges, then rest three days, then Purge again; then begin with
+ten grains of the Powder, which continue for three times, mix the Powder with
+some fit Conserve, and give it upon the point of a Knife, in the Morning in
+his Bed, drinking a Glass-full of a Sudorifick decoction after it, made hot;
+let him keep his Bed for an hour or two, then let him be rubbed with warm
+Clothes, and [[Page
+220]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=121) the sweat
+being quite over, let him rise, and eat of good wholesom Food, forbearing to
+eat of Salt Meats, Salt-fish, Sallet, Milk, Butter, or Cheese, or raw Fruit.
+Then for three Mornings more give him twenty grains, and then thirty grains
+for three Mornings more; then come again to twenty grains for three Mornings
+more.
+
+### 3.48. A great Febrifuge.
+
+TAke Mineral Antimony very clean, that hath never been melted, ℥vj. and as
+much Salt-petre, pulverize them finely, and mix them well together; then put
+them into a strong Crucible, which cover with another Crucible that hath a
+little hole in the bottom as big as a Pea: Then put this Crucible into your
+Furnace, and let the fire kindle of it self, which increase by degrees, the
+Matter will fulminate; when you see that no more smoak cometh out of the
+little hole of the Crucible, take it out of the fire, and take out the Matter
+that remained in the Crucible, which pulverize very finely. Then take three
+Ducats of Gold, and six times as much in weight of the afore-said Powder; melt
+the Powder first in a Crucible, then put into it one of the Ducats, stirring
+it until it be melted, then put in another Ducat; and so [[Page
+221]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=121) continue until
+you have put in all your Du­cats one after another: When all is melted and
+well incorporated, let it stand in good fusion for half an hour, then take it
+out, and let it cool: Then break the Crucible, and take out the Matter, which
+pulverize subtily, and mix it with equal weight of ☿ Sublimate, also in fine
+Powder; put them into a Retort well luted, put it into a Furnace, and fit a
+Recipient to it full of Water, so that the nose of the Retort may enter into
+the water; leave the junctures unluted: Give a gentle fire at first, which
+augment by degrees; part of the Matter will distill into the Water, but the
+greatest part thereof will stick to the neck of the Retort, which you may draw
+out with an Iron hook into a bason full of Water: When you see that nothing
+more cometh over by the last degree of fire, let it cool; then break the
+Retort, and take out all the Matter that is Sublimed about the neck of the
+Retort, and put it into the Wa­ter in the Recipient, as also that in the
+Ba­son; let the Water stand to settle, then de­cant it, and keep it. It is
+Excellent to Cure all sorts of old and inveterate Ulcers, &c. Pour fresh hot
+water upon the residue, and having shaken it well together, let it settle;
+then decant, and put on more Water. Re­peat these solutions seven or eight
+times; [[Page 222]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=122)
+then separate the ☿ from it with a Quill, and put the Powder into fresh hot-
+water; let it stand thus until the next day, then repeat the Edulcorations as
+before, which continue for six days, then edulcorate the last time with cold
+Water; then dry the said Powder, and keep it for use. The Dose is one or two
+grains for Children; and for Persons of riper Years, from four to six or
+seven, ac­cording to their strength and Constitution, putting the Powder over-
+night to infuse in two or three Ounces of White-wine; the next Morning strain
+the Wine, and let the Patient drink it, and half an hour after he may drink
+some warm Broth or Posset: It may also be given in substance. It Operates by a
+gentle Vomit, and by Stools. It hath been Experimented, and found very
+suc­cessful and effectual in the Cure of all Inter­mittent Fevers, and in the
+Gout, as also in the Venereal Disease. Out of the Caput Mortuum you may reduce
+the greatest part of the Gold.
+
+This is a Mercurius Vitae of a singular pre­paration; it is not white like the
+common, but of a brownish gray colour. It appears by this to have some of the
+☿ in it, that when you rub Gold or Copper with the Powder, it will make it
+white, which common Mercu­rius vitae will not do.
+
+[[Page 223]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=122)
+
+### 3.49. Another great Febrifuge, which is said to be Riverius his Febrifuge.
+
+TAke ☉, dissolve it in A. R. and Glass of Antimony, dissolved in A. F. ana
+℥ss. ☿ washed and purified ℥iij. dissolve it in A. F. Then mix the three
+dissolutions together, and put them into a Cucurbite, and distill in Sand, and
+cohobate the distilled Liquor eleven times upon the remaining Matter, which
+are twelve distillations; then pour upon the remaining Matter rectified S. V.
+Cohobate and abstract it six times from the Matter; then take it out and grind
+it, and that it may be the better  [...]ixed, Calcine it in a Crucible in a
+Circulary fire, until it be al­most glowing-hot. The Dose of this Pow­der is
+gr. vj. with gr. xij. of Scammony: Let the Patient take it in the Morning, the
+day before the Fit.
+
+### 3.50. Another Febrifuge.
+
+TAke Cinaber of Antimony ℥j. common Salt decrepitated ʒij. pulverize them, and
+mix them together; put them into a Glass Cucurbite, and pour upon them Oyl of
+Sulphur ℥iij. digest it for two days in a moderate heat in Ashes; then augment
+the [[Page 224]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=123)
+fire to evaporate away the humidity, then having edulcorated the remaining
+Mass, re­duce it into Powder, which mix with ℥iij. of Flowers of Sulphur; put
+this into an earthen Poringer, which put upon burning coals; let it kindle,
+and stir it continually with an Iron Spatula, until all the Flowers of
+Sul­phur be burned away: Then pour upon the remaining Matter so much S. V. as
+may co­ver it the breadth of two fingers, then burn away the S. V. then reduce
+it to Powder, and keep it for Use.
+
+This Powder is much recommended to Cure all sorts of Agues and Intermitting
+Fe­vers, giving it half an hour before the Fit, from ten to fifteen or twenty
+grains, in some Syrup or Cordial-water, taking some Broth two hours after it;
+but the Patient should be Purged first, and let Blood before the use of this
+Powder; and if the first and second dose do not carry away the Fit, it must be
+repeated a third time.
+
+### 3.51. Another Febrifuge, which is thought to be Riverius his true
+Febrifuge.
+
+TAke of Mercury dulcis twelve times Sublimed ℥jss. Mercurius vitae cor­rected
+as followeth, ℥ss. mix them together. The correction of Mercurius vitae is
+thus: [[Page 225]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=123)
+Take of ☿ vitae, put it into a small Cucur­bite, set it in Sand in a moderate
+heat, let it stand until it begin to grow red; then pour upon it rectified
+Spirit of Wine, which ab­stract, and pour on fresh S. V. Repeat this three
+times, and you shall have a ☿ vitae which will not Operate upwards, but only
+downwards. This ☿ vitae is to be used for delicate Persons, but for strong and
+robust Persons you may use the Common ☿ vitae.
+
+This Powder finding the Humours dis­posed, will Operate both upwards and
+down­wards if you employ the Common ☿ vitae; but if you employ the Corrected,
+as was said, it will Operate only downwards. And as this Febrifuge contains in
+it a reasonable Dose of ☿ vitae, the ☿ dulcis thus prepared, working for his
+part upon the bad Humours, and serving also for a Corrective to the ☿ vitae,
+one ought to expect good effects of it.
+
+Riverius gave this Febrifuge to Persons of all Ages and Sexes, in the Morning
+the day before the Fit. One may give six grains of it to little Children in
+the pap of a roasted Apple, or in some Sweat-meats, and so in­crease the Dose
+proportionably, according to the Age and strength of the Patient, to twenty
+grains to Adults, and even to twenty [[Page
+226]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=124) four to those
+that are of a strong Constitu­tion.
+
+Hartman.) These Febrifuges were given me by a Friend, a German; and I thought
+it fit to insert them here: But whilst they were Printing, I found them in Mr.
+Charras his French Dispensatory, which just at that time came to my hand.
+
+### 3.52. A Certain and Experimented Remedy to Cure the Convulsion Fits in
+little Children; as also for the Epilepsie, the Cholick, and for the Spleen,
+&c.
+
+TAke Verdigrease, and distill a Spirit thereof, which rectifie once by it
+self, and it will leave some feces and Metalline terrestreity behind: Then
+take one part of this Spirit, and three parts of fair water, put it upon
+Lithargy finely fearsed, as much as it will dissolve: Deflegm it in Balneo,
+and then distill it in Sand, and there will come over a pure and powerful
+Spirit without Acri­mony; it will taste a little sweetish, as in the making of
+Sacharum Saturni.
+
+It is Excellent for the Convulsion of little Children, being given in some fit
+Vehicle, a drop or two for Sucking Infants; but to Men you may give ten or
+twenty drops.
+
+[[Page 227]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=124)
+
+### 3.53. Sigillum Hermetis, Or, a great and Experi­mented Medicine, which
+hath done great Effects in the Cure of all sorts of Agues and Fevers. It was
+given to Sir Kenelm Digby by an able Physician, who had done Wonderful Cures
+with it.
+
+TAke ☽ ℥vj. dissolve it in the best A. F. you can get, using no more A. F.
+than is necessary for the Solution (which will be about ℥jss. i. e. two parts
+to one) when you see that it is all perfectly dissolved (without fire) cast
+into the Matrass an aaa, made (after the ordinary manner of Goldsmiths) of ʒj.
+of pure ☉, and ℥ij. of ☿; you will presently see a pelagus conturbationis
+made. Let the Matrass stand still upon a Table, or in some corner, till you
+find the Matter at that pass as you desire: you will see many beautiful
+colours appear. After fourty days standing, you will see a kind of roughness
+appear upon the superficies of the ☿, which will daily grow and sprout out
+more. In twenty days more (sixty in all) it will be shot out into little
+spears or needles and twigs. When you see that it groweth or shooteth out no
+more, pour off all the Liquor, and the Mercurial Matter will soon dry of it
+self. Then with some little pieces of Glass break [[Page
+228]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=125) off these
+Excrescencies or Needles from the Mass, (whereof you may have about ʒj. or
+more) and grind them to Powder, which will be very white.
+
+Of this Powder give twenty four grains, or more (according to the Complexion)
+in a Cherry, or yolk of an Egg, in the Morn­ing very early, or at Night going
+to Bed, or rather after the first sleep at three or four in the Morning, and
+in this last case sleep after it. It is seven or eight hours before it useth
+to work.
+
+Sometimes the first Dose will not work at all, otherwise than by
+strengthening, and then the Author giveth a second Dose two or three days
+after, which will work either by Stool or Vomit, or Sweat, as Nature shall
+require, and in due proportion.
+
+It Cureth Quartans and other Agues, and worketh admirably in all desperate
+Diseases. He useth to take it once a Month himself. When there is no peccant
+Humour in the Body, it worketh not by evacuation, but strengtheneth. The ☿
+incloseth and shut­teth up the Metals, like a Rose of Iericho, from whence he
+calleth it Sigillum Hermetis. The part of the Needles next the Mass worketh
+rougher than the ends. Out of the Mass you may draw most of the Gold and
+Silver, with loss of about an eighth part of [[Page
+229]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=125) the first, and
+less proportion of the last. He thinks this to be a Philosophical ☿, and to be
+useful in the great Work.
+
+### 3.54. A Mercurial Liquor with Jupiter.
+
+TAke lbj. of Iupiter, melt it in a Cru­cible, then pour into it lbj. of ☿
+re­vived from Cinaber, and made hot, make an aaa of it, which wash with warm
+water, wherein you have dissolved a little Salt; wash it so often, till you
+have washed away all the blackness of it, and the aaa will be as white as
+snow: Then dry it, and grind it in a Marble or Stone Mortar with lbij. of
+Cor­rosive Sublimate; then spread it upon a large dish of Glass, which set
+shelving in a Cel­lar, putting something under it to receive the Liquor that
+will run from it, you will find at last the Salts resolved into a Liquor, in
+which will be also the ☿, which will be re­vived; separate the Liquor from the
+☿, and keep the ☿ for another use: Put the Liquor into a Cucurbite, and
+evaporate the super­fluous moisture of it in B. M. with a gentle heat: Then
+digest it for fifteen days more in the same B. with a very gentle heat; then
+pour this Liquor into a Retort, which put in Sand, and fit a Recipient to it;
+then distill by graduated fire, giving strong fire at last [[Page
+230]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=126) of the fourth
+degree; you shall have a Li­quor like an Oyl.
+
+This Liquor is much esteemed to Cure the Cancer, Wolf, Fistulaes, and all
+sorts of old, inveterate, Malign, and gnawing Ulcers, being applyed outwardly.
+
+### 3.55. Monsieur C. his Lunary Emetick and Fe­brifuge, &c.
+
+DIssolve ☽ in A. F. then Precipitate it with Spirit of Salt, then dry the
+Calx.
+
+Take of this Calx, and of  (antimony), ana, distill it as a Butter of
+(antimony), you shall have a Butter white and transparent, which will dissolve
+☉. If you will make an Emetick of this Butter, Precipitate one part of it with
+fair water, then edulcorate with Blood-warm water, and you will have an
+Emetick Re­medy, which will Purge.
+
+It Cures all sorts of Agues and Fevers, and  [...] a Catholicum for ill
+Humours. The Dose is from one grain to three, in some fit thing in the Morning
+fasting. It must be given with great Caution.
+
+[[Page 231]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=126)
+
+### 3.56. To make a most Excellent Sudorifick of the aforesaid Butter, that
+will Cure the Leprosie, and the Venereal Disease, proceed thus:
+
+TAke the other part of this Butter, and put it into a Retort, and pour upon it
+Spirit of Nitre; distill and cohobate three or four times; then edulcorate it
+with fair water, and dry it; then burn Spirit of Wine upon it, and you shall
+have a Sudorifick, which will do admirable effects, taking from eight grains
+to sixteen, in the Morning in Bed; drink some fit decoction after it: And
+after the Sweating, the Patient must be rub­bed with warm Clothes all over his
+whole Body, observing a reasonable Diet, and using some fit Purge before.
+
+### 3.57. An Oyl of ☉, wherewith Monsieur Belieur, a Famous Chirurgeon at
+Paris, Cured Can­cers, all old Ulcers, Cankers, and Venereal Sores, &c.
+
+TAke Spirit of Salt two parts, Spirit of Nitre one part; in this dissolve as
+much ☉ as it will dissolve: Distill off very gently the Liquor in B. M. until
+the ☉ remain in a Crystalline Gum or Salt; then let it re­solve to Liquor in
+the Air by it self: Then [[Page
+232]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=127) distill again,
+and resolve. Repeat this till it congeal no more in the Cucurbite, but re­main
+a deep-red Liquor, like an Oyl. The manner of using this Oyl is thus: Dip a
+Straw or a Feather in it, and touch all round about the borders of the Sore
+with it.
+
+With this he Cured a very Malignant Ulcer in a Leg (that had been there above
+three Years) in the space of ten days; and also a Cancer in a Womans Cheek in
+fifteen days space, that other Chirurgeons (with­out hope of Cure) had given
+over. With this he also Cured a Woman (that had seven­teen Cankers in her
+private parts, that had been so some Years, and without hope of Cure) in
+fifteen days.
+
+### 3.58. Doctor Havervelt his Remedy, wherewith he Cured the Evil or
+Scrofulaes, Cancers, and Old Ulcers.
+
+TAke Dantzick Vitriol, Calcine it till it be yellow, then grind it with Salt
+or Salt-petre, the ordinary proportion: With this Sublime ☿, which Sublime
+once again by it self; then take only the Crystalline part of it, whereof take
+℥j. grind it to a subtil Powder in a Glass Mortar, with a Glass Pestle; put
+this Powder into a large Glass-bottle, and pour upon it a quart of [[Page
+233]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=127) Fountain-
+water, stop the Bottle close, and let it stand thus for some days, shaking it
+often: Then being well settled and stood without shaking at least twenty four
+hours, pour off the clear, and filter it. Then take one spoonful of this
+Liquor, which put into a Vial, and pour into it two spoonfuls of fair
+Fountain-water: Shake the Vial well, then pour it out into a Glass, and let
+the Patient drink it in the Morning fasting; let him keep himself very warm,
+and stir and walk as much as he can; but let him neither eat nor drink till
+two hours after the Medi­cine hath Operated. It will Operate by Stools, and by
+a gentle Vomit. The next Morning, if the Patient find himself strong enough,
+let him take the said Medicine again, if not, he may rest a day or two
+be­tween.
+
+With this Remedy the Author above-mentioned Cured all sorts of Scrofula's,
+whe­ther open or shut; the Cancer or Wolf, whe­ther in the Breast, or any
+other part of the Body; as also all sorts of Pustula's and Old Ulcers and
+Wounds.
+
+The said Doctor Communicated this Re­medy to Sir K. D.
+
+[[Page 234]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=128)
+
+### 3.59. Another for the same.
+
+SIR Kenelm relates, that Dr. Farrar as­sured him, he had perfectly Cured a
+most contumacious, foul, inveterate Evil (several times touched by the King,
+and wrought upon by the best Chirurgeons, and given over as desperate) by the
+following means:
+
+Take Garden-Snails, that have white or gray Houses upon them, beat them in a
+Mortar with a little Parsley, into the con­sistence of a Plaister, which apply
+to the Sore or Sores, and change it every twenty four hours.
+
+This is also good to take away the raging pain of the Gout.
+
+### 3.60. A most Excellent Physical Salt, as it was prepared in Sir Kenelm's
+Laboratory.
+
+TAke Nitre, Sulphur, ana lbj. Camphire ℥ij. mingle them well together, and
+cast them by little and little into an earthen Cu­curbite rod-hote, which shut
+close imme­diately with a just stopper of Brick that closeth it firmly; the
+Cucurbite must have two arms, unto which are fastened two Bal­lons of Glass
+(as you see by the Figure in
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=128)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=129) [[Page
+235]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=129) the next page)
+each Ballon containing a­bout two quarts of Spirit of Urine (to the quantity
+of Ingredients here named) which attracts unto it the Spirits, which will
+ascend and pass by the two Arms on each side: When all is cold, take out the
+fixt Matter that remaineth in the Cucurbite, and grind it small, and dissolve
+it in simple Spirit of Urine, and being filtred and congealed, dis­solve it in
+the Acid Spirit of Urine that was in the Ballons, and hath the Spirit of
+Sul­phur, Nitre, and Camphire in it: Distill and cohobate this (in a Glass
+Cucurbite) till the Salt have retained in it all the Spirits that were in the
+Urine. This Salt will be very grateful, and not taste or smell at all of the
+Camphire, nor is Saturnine, or Anti-vene­real in its effect. It is very
+efficacious in all Fevers, either simple or Malignant any ways, or Spotted: In
+the Small-Pox or Measles, in all the Progress of them, from before their
+coming out, till the end; and preserveth the Heart from hot and putrid Vapours
+and Fumes, and purifieth the Blood.
+
+[[Page 236]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=130)
+
+### 3.61. The best way to make the Spirit of Urine is thus:
+
+LET the Urine stand eight or ten days, in which time it will putrifie and
+fer­ment; then distill very gently, and that which cometh first is the Spirit.
+When it beginneth to come weak and insipid (which you will know by tasting a
+drop) then cease, for all that is good is come over. Thus you shall have near
+half your quantity of Urine in good Spirit.
+
+### 3.62. Sir Kenelm Digby's Excellent Remedy for Tetters, Herps, and Ring-
+worms, Scabby Itches, &c. as it was prepared by his Di­rections for his own
+use for a Tetter.
+
+DIssolve ℥ij. of running ☿ in ℥iv. of the best A. F. pour upon the Solution a
+quart of fair water, in which is dissolved two handfuls of Salt, and then
+filtred; this will Precipitate the ☿ to the bottom in a white Calx. When it is
+well settled, pour off the clear water, which keep for Use. Pour the remaining
+milky thick substance upon lbj. of Hogs-grease melted in an earthen Pot; the
+grease must be very hot when you pour in the dissolved ☿; but take the Pot
+from [[Page 237]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=130)
+the fire when you pour the ☿ to it, and stir it well all the while you are
+pouring it in; and when it is all in, set the Pot upon the fire again to boil
+the grease, till all the moi­sture of the Mercurial Substance and Solu­tion is
+evaporated away, but be sure you stir it all the while, as also after you take
+it from the fire (which you must do as soon as the moisture is gone) till the
+grease is cold and hardened.
+
+The way of using this Oyntment and Wa­ter, to Cure all sorts of Tetters,
+Herps, or any Scabby Itches, or Inflamed red Faces or Noses, is thus:
+
+First, if the Evil be very great, Purge and let Blood strongly; then begin
+with the Wa­ter, rub the Tetters, and all about it with Linnen dipped in the
+Water made as hot as you can endure it; and when you have rub­bed and bathed
+it well, lay upon it Com­presses wetted in the water. Do thus twice a day for
+two or three days, or more, till you see it hath drawn out the Salt Humour
+abun­dantly, and that the part is much inflamed, and very sore, and hath
+little holes or Ulcers eaten in it. Presently after the first wash­ing it will
+grow very sore and Inflamed; therefore you must not afterwards rub it so hard
+as at first, but very gently. Some Sores will require that you use the Water
+five [[Page 238]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=131) or
+six days, others more, tender ones two or three days. When you judge that the
+Water hath drawn out sufficiently the vio­lent Matter, then anoint with the
+grease as hot as you can endure it, and lay on it a Plaister of the same
+Oyntment, binding it on. This Oyntment will presently asswage the pain, and
+take away the Inflammation. Dress it with it twice or thrice a day. Much
+Matter will run from the Sore, as from an Ulcer; and by little and little it
+will heal up. And that which is wonderful is, that whereas one would think
+that such deep holes as the Water will have eaten, should have scars, there
+will not appear the least mark of them, but a fine new tender Natural skin
+will come over it all.
+
+### 3.63. A great Medicine, wherewith Wonderful Cures have been performed to
+my know­ledge.
+
+TAke Bezoar Mineral well prepared, and Antimony Diaphoretick also well
+pre­pared, ana ℥j. grind them together to a sub­til Powder, and put them into
+a small Re­tort, and pour upon them ℥iv. of good Spi­rit of Nitre; distill in
+Sand with a moderate fire to dryness, then cohobate and distill twice, which
+are three distillations in all with [[Page
+239]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=131) the Spirit of
+Nitre upon the Matter. Then pour fresh Spirit of Nitre upon it, and di­still
+and cohobate as before. Repeat this a third time with fresh Spirit of Nitre,
+the same quantity as before, which are nine di­stillations (in all) with ℥xij.
+of Spirit of Nitre: Then break the Retort, and take out the Matter, which
+grind to Powder, and edulcorate it well with warm Carduus-water; then dry it
+gently, and put it into a Poringer, and burn rectified S. V. upon it, stirring
+it all the while the S. V. burn­eth, with a Silver spoon, untill the S. V. be
+burned all away, and the Powder remain dry. Then pour fresh S. V. upon it, and
+fire it as before: Repeat this a third time, then grind the Powder, and keep
+it in a Vial close stopped.
+
+This Powder Cureth the Venereal Disease the most inveterate, with all its
+Symptoms and attendencies without exception, and re­storeth lost strength and
+vigour, as Experi­ence testifieth. It Cureth all Rheumatisms, the Leprosie,
+all interior and exterior Ulcers; it purifieth the whole Mass of Blood, and
+wonderfully fortifieth Nature, &c.
+
+The way of using this Powder to Cure the above-mentioned Diseases is thus:
+
+First, Purge with some fit gentle Purga­tive Potion; then, if the Disease
+requireth, [[Page
+240]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=132) you may let
+Blood the next day, then two days after that repeat the Purge, and two days
+after you may begin with the Powder; taking gr. viij. of it for five Mornings
+to­gether, the Powder being mixt with a little Conserve of Roses, let the
+Patient take it upon the point of a Knife in the Morning in his Bed, and drink
+after it immediately a Glass-full of the following Decoction as hot as he can
+drink it; let him keep his Bed, and he will be in a gentle breathing Sweat for
+an hour; which being past, let him be rubbed with warm Clothes, his Legs,
+Thighs, Arms, Shoulders, and the Back; then let him keep his Bed for an hour
+longer, to see if he will sweat any more: The sweat being quite over, he may
+rise, and go about his business, as at other times. After those five days the
+Dose of the Powder must be increased, ta­king twelve grains of it for other
+five Morn­ings; and then you must come again to eight grains for five Mornings
+more. When you begin with the twelve grains after the first five Doses, you
+must drink a little more of the Sudorisick Decoction than before, and taking
+the Powder then in a little Con­fection of Alkermes. You may also increase the
+Dose of the Powder by degrees (as Sir K. D. observes) taking (for example) gr.
+x. the sixth day, and gr. xij. the other three [[Page
+241]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=132) days
+following; then gr. x. the tenth day, and so come again to gr. viij. the
+eleventh day. One may take gr. xx. of it at one time without inconveniency.
+The first Purge the Author giveth, is a Decoction of Succory and Tamarinds,
+with infusion of two Drams of Sena, and being strained, dissolveth in it ℥j.
+of Syrup of Peach-flowers. The Second is the same, adding only of Confection
+of Hamech, or of Confection of Citron; or you may increase a little the Dose
+of Sena, and of the Syrup, if one is not willing to take any thing where there
+is Scammony in. The Sudorifick Decoction the Author maketh use of with this
+Powder, is thus:
+
+Take Sarsaparilla ℥ij. China-root ℥j. Sas­safras ℥ss. Santal Citrine ʒij. and
+a little Licorise if you will, and a little Cinnamon for to aromatise it; let
+all be infused with three quarts of water for twelve hours in warm Sand; then
+let it boyl gently until a third part is consumed, then strain it.
+
+Note, That if you put a little Salt of Tartar into the water when you put the
+In­gredients in, it will extract the Vertue and Tincture out of them much the
+better; as also in making any Purgative Decoction, if you infuse them over-
+night with a little Salt of Tartar put in the water, and then boyling [[Page
+242]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=133) it only two or
+three walms the next Morn­ing, it will be much more effectual.
+
+### 3.64. Lapis ignis, for the renovation of Mankind, by the three Principles
+of Nature, Salt, Sulphur, and Mercury.
+
+TAke  (antimony) Mineral, pulverize it, and Cal­cine it in a close
+Reverberatory, with sufficient, but moderate heat, so that it melt not, in
+twenty four hours it will be Calcined, and will be a gray Powder. Take of this
+(antimony) Calcined, and of raw  (antimony) Mineral, ana lbj. melt them
+together in a Crucible; when they are well melted and incorporated, pour it
+out into a Copper or Brass Kettle, and it will be Glass of  (antimony), which
+needeth not to be clear. If you did not add the  (antimony) Mineral, the
+Calcined  (antimony) would not melt. Pulverize this Glass, and grind it upon a
+Marble stone till it be an impalpable Powder, which put into a Vial, and pour
+upon it distilled Vine­gar alcalised with its fixt Salt, digest in Sand; when
+you see the distilled Vinegar coloured of a Golden colour, decant the clear,
+and put fresh distilled Vinegar upon the Glass, and digest as before. Repeat
+this till you have extracted all the Tincture out of the Glass: Then filter
+the Tincted distilled Vi­negar, and put it into a Recort; distill with [[Page
+243]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=133) a gentle fire
+in Sand until you see there re­main a Liquor like a deep-red Oyl in the bottom
+of the Retort, and that you see some drops appear in the neck of the Retort,
+which is a sign that all the distilled Vinegar is come over. Pour upon this
+Oyl Tartarised S. V. digest and circulate for three or four days, or more:
+Then draw off the S. V. gently in B. and as soon as you see any red drops
+appear, change the Recipient, putting on another; then distill over all the
+remaining red Oyl to dryness. This Oyl will be very red, and very precious,
+and is the true Oyl and Sulphur of Antimony, which is a wonderful Medi­cine
+against the Plague, and all Diseases.
+
+### 3.65. To make the Salt of Antimony.
+
+CAlcine  (antimony) in a Glass Oven, or in a Re­verberatory, until it be
+perfectly white, without any addition; then sprinkle it with Dew, and dry it
+in the Sun; sprinkle and dry it seven or eight times, then grind it to Powder:
+Take of this Powder three parts, and one of Powder of Charcoal; mix them
+together, and put them into a Crucible, which set in a Wind-furnace, and give
+fire by degrees, at last strong sire to make all melt well; then take out the
+Crucible, and knock it against the ground to make the Regulus [[Page
+244]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=134) fall to the
+bottom; break the Crucible being cold, and separate the Salt, which you will
+find between the Regulus and the Scories. So soon as you perceive that the
+Matter is melted, you must be quick in making the Regulus, and take the
+Crucible out as soon as you can, for fear the Salt should evapo­rate in the
+fire.
+
+### 3.66. To make the ☿ of  (antimony) for this Work.
+
+CAlcine  (antimony) in a close Reverberatory until it be gray, then Sublime it
+in an Earthen Vessel; grind again what is Sub­limed, and Sublime it as before.
+Repeat this Operation three times, or until you see the  (antimony) Sublimed
+hard and ponderous, where­in is inclosed all the ☿ of  (antimony).
+
+### 3.67. Composition of the said Salt, Sulphur, and Mercury.
+
+TAke of the said Salt ℥j. dissolve it in as much of the Oyl as will dissolve
+it, and as much as the said Salt will imbibe, so that it be like an Oyntment
+or Paste; digest in fimo equino for ten days: Then take it out, and add ℥jss.
+of the said ☿ of  (antimony); and being well mixt and incorporated together,
+put it to digest as before, until it be converted into [[Page
+245]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=134) a red Powder.
+The way of taking this red Powder is thus:
+
+Take gr. iv. of this Powder in a little Ca­nary Sack in the Morning fasting in
+your Bed, it will cause a gentle breathing sweat for three days together,
+during which time you must keep your Bed; your Chamber must be very warm and
+close, you may eat and drink moderately of good wholsome Food. The three days
+being past, you may rise, and walk about your Chamber, taking good nourishing
+Food, abstaining from all Labours in Body and Mind; and thus you will renew
+Hair and Skin, and will be strong and vigorous.
+
+It will not be needful to use this Remedy but once in fourty Years; but you
+may use of the said Oyl, taking three drops of it in a little Sack in the
+Morning fasting, for the Preservation of your Health. This Oyl may be given in
+all Distempers with great success.
+
+This is from Abbot Boucaud.
+
+### 3.68. The Marchioness de Beck, her Aurum po­tabile, which she much
+esteemeth.
+
+TAke Calx of ☉, and Regulus of  (antimony), ana ℥j. Iupiter ʒij. melt them
+together, then grind them to a subtil Powder with ℥iv. of Sugar-candy,
+Oriental Bezoar, and Sal [[Page
+246]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=135) armoniack, ana
+ʒj. Mix all well together, and put them into a large Retort, and distill in
+Sand with a graduate fire for six hours; let the bottom of the Retort be red-
+hot at last for half an hour. You shall have an Aureal Liquor, whereof two or
+three drops taken in a little Canary, or other conve­nient Liquor, is a great
+Cordial and Resto­rative.
+
+Hartman.) The said Marchioness told me at Paris (where she shewed me this
+Aurum potabile, and gave me the Receipt of it) that when at any time she found
+her self in­disposed, she presently took two or three drops of it, and
+immediately she felt her self streng­thened and chearful, &c.
+
+The Baron de Roche shewed me also the Receipt of it at Paris, who also made
+great esteem of it, telling me, that he esteemed it to be one of the best
+Aurum potabile's that could be made, and that it was a Sovereign Cordial and
+Restorative.
+
+You may reduce two third parts of the ☉ out of the Caput Mortuum, its Tincture
+only, and the subtilest part of it cometh over by the distillation.
+
+[[Page 247]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=135)
+
+### 3.69. Cornachinus his Medicinal Powder, as it was Prepared by Sir K.
+Digby's Order in his Laboratory.
+
+TAke Regulus of  (antimony), and of pure Salt-petre, ana ℥iv. mingle them well
+toge­ther in subtil Powder, and cast them into a red-hot Crucible, and make
+them burn by casting in a fiery Coal, which repeat as often as it consumeth;
+for without that the Salt-petre will not burn, there being no more Sulphur in
+the  (antimony) to set it on fire. Keep it thus in fusion in a reverberating
+heat for at least an hour, stirring the Matter often with an Iron Rod; then
+let it cool. This must not be edulcorated as common  (antimony) Dia­phoretick,
+but the fixed Salt of Salt-petre must remain with it, and must by no means be
+separated from the  (antimony), for in that Sir K. says, consisteth the Vertue
+against Fevers. Of this we gave with the Scammony and Cream of Tartar, ana gr.
+x. diminishing and increasing the Dose according to Age and strength.
+
+Hartman.) Sir K. recommended this to me as a very good Purge, telling me, that
+I might make use of it whensoever I had oc­casion.
+
+[[Page 248]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=136) The
+best way to make the Regulus of  (antimony), is, to put first into the
+Crucible the Salt-petre and Tartar, and when they are well melted, put in the
+(antimony), and proceed in the rest in the usual manner: Thus you shall shall
+have six or seven pound, or more, of every pound of Antimony. Likewise to make
+a Martial Regulus, put the  (antimony) first in­to the Crucible; and when it
+is in perfect fusion, then put in the Mars.
+
+### 3.70. A Laxative and Emetick Cream of Tartar.
+
+TAke Glass of  (antimony), and Cream of Tartar, ana ℥jss. grind them to a
+subtil Pow­der, then mix them together; put this into a Matrass, and pour upon
+it ℥ij. of Rose­mary-water; digest it for some days, sha­king it sometimes;
+then filter it, and evapo­rate to dryness, and you shall have a Salt, which
+grind to Powder, and keep it in a Glass close stopped. It is a safe and gentle
+Vomit, and Operates also by Stools. The Dose is from gr. j. to v. or vj. in a
+little Sack.
+
+[[Page 249]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=136)
+
+### 3.71. Another most Excellent Laxative and Eme­tick Cream of Tartar.
+
+TAke ℥iv. of Cream of Tartar, grind it to a subtil Powder, which put into a
+Matrass, and pour upon it so much Spirit of Sal armoniac as may cover it the
+breadth of two fingers; stop it close, and set it in a Cellar for twenty four
+hours, then pour it into an Earthen Pot glazed, and put into it ℥j. of Glass
+of  (antimony) in subtil Powder; set this Pot in a Furnace in Sand (or upon a
+gentle Coal-fire) and pour into it a sufficient quan­tity of fair water; let
+it cool six or eight hours, still pouring in more water as it con­sumeth: At
+last, evaporate until it come to have a thin light skin on the top; then set
+it in a Cellar, and it will shoot into Crystals, which take out, and keep them
+for Use.
+
+This is a most Excellent Medicine, and one of the best Emeticks that can be
+pre­pared. The Dose is from gr. j. to vj. for Children; and for Aged Persons,
+from gr. x. to xv. in a little Sack.
+
+The best and easiest way to make a most subtil and penetrant Spirit of Sal
+armoniac, (as it was made in Sir Kenelm's Laboratory, and as I make it now) is
+thus:
+
+[[Page 250]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=137) Take
+Quick-lime grosly beaten, put a bed of it about two fingers thick into the
+bottom of a Cucurbite; then dissolve lbj. of Sal armoniac in as much water as
+will dissolve it: Pour of this dissolution upon the Quick-lime (having first
+placed the Cu­curbite in the Furnace in Sand) so much as may dissolve it well,
+and swim half a fin­gers breadth over it. Then be as quick as you can in
+fitting on the Head and Reci­pient (for it will immediately begin to di­still
+without fire) lute all the junctures well, and distill with a gentle fire,
+keeping the subtil Spirit by it self, which cometh first. If any flegm should
+come over with the se­cond Spirit, rectifie it in Balneo.
+
+This Spirit is not only good for benumbed heads to smell to, but also to take
+inwardly, for it is a most Excellent Remedy: It opens all Ob­structions, it is
+Sudorifick and Diuretick. 'Tis very good in Fevers, especially the Pu­trid, in
+Palsies, Epilepsies, Hysterical Fits, and the Plague, resisting all
+Corruption, in Lethargy, and stupification of the Spirits. The Dose is from
+eight to thirty drops. It also asswages the pain of the Gout, being mixt with
+S. V. or Brandy, and Linnen Clothes dipt in it, and laid upon the parts
+afflicted.
+
+Hartman.) In distilling of this Spirit this way, I have observed several
+inconveniences; [[Page
+251]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=137) the first is,
+that if you use a Glass Cucurbite, it will be apt to crack by the sudden heat
+of the Quick-lime, caused by pouring on the dis­solution of the 🜹 (and an
+earthen Cucurbite will imbibe it.) Secondly, by the same Rea­son you lose a
+great part of the subtilest Spi­rit, which will ascend before you have poured
+in the quantity of the dissolution above-men­tioned, and before you can fit on
+the Head and Recipient. To prevent all these incon­veniences, I make use of a
+Tin Cucurbite, with a Spout in the upper part (See it in the third Figure) and
+having placed it in the Fur­nace in Sand, I put in the Quick-lime, and then I
+fit a Glass Head and Recipient, and having well luted all the junctures with
+wet Bladders, or Paste and Paper, I pour in the dissolution of 🜹 by a funnel
+through the Spout; then I close the Spout, and distill; with a gen­tle fire.
+When the distillation is over, take out the Caput Mortuum, and make the
+Cu­curbite clean, and wipe it dry, that it may not rust or canker, and it will
+serve for many other Operations, and will save you the buying of many Glass
+Cucurbites, which by reason of their thick and knobbed bottoms are so apt to
+break.
+
+[[Page 252]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=138)
+
+### 3.72. The Volatile Salt of Tartar, as I have often made it, which is an
+Excellent Re­medy.
+
+TAke Lees of Wine, (which you may have from the Wine-Coopers when they have
+pressed them out for making of Vine­gar) break them in small pieces, and let
+them dry; then being very hard and dry, bruise them grosly, and fill an
+Earthen Re­tort with it, or a Glass one coated; distill in naked fire, fitting
+any Recipient to it to receive only a sour flegm, which will come over first;
+as soon as you see any white fumes come over, (among which cometh the
+Vo­latile Salt) change the Recipient, putting on another pretty large; lute
+the junctures well with Paste and Paper, then increase the fire by degrees,
+until you see the Recipient filled with white fumes; continue the fire in that
+degree, untill those white Vapours diminish, and that the Recipient beginneth
+to grow cold: Then augment the fire to the highest degree, to force all over
+at last; when nothing more cometh over, cease. The distillation will be
+performed in three or four hours; you will have a whitish Liquor, which
+contained in it the Volatile Salt, and part thereof will stick to the sides of
+the Recipient, [[Page
+253]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=138) and a reddish
+foetide Oyl will swim upon the Liquor. Pour out all the Liquor that is in the
+Recipient, then pour a little warm water in the Recipient, and shake it to get
+out all the Volatile Salt: Separate the Oyl from the Liquor by a Glass funnel;
+then filter the Li­quor, to free it from all Oyliness: Put this Liquor into a
+Matrass with a long Neck, to which fit a Head and a small Recipient; di­still
+in Sand with a very gentle heat, and the Volatil Salt will ascend into the
+Head as white as snow; when you see that a pretty quantity is Sublimed, take
+off the Head, and stop the mouth of the Matrass, if you have not ano­ther Head
+to put on; be as quick as you can to gather the Volatile Salt that is in the
+head, and put it into a Vial, which stop very close with a Glass stopper, for
+it is very apt to re­solve into Liquor when it taketh Air: Then put the Head
+on again, and continue the Sub­limation until there Sublime no more Salt;
+gather this last Salt, and put it to the rest: Then put on the Head again, and
+augment the fire a little, and you shall have a fiery Liquor, which is the
+Volatile Spirit of Tar­tar, and is also the Volatile Salt, mixt with some
+flegm, which makes it come over in a liquid form.
+
+This Salt is much esteemed and recom­mended to purifie the Blood by Sweat and
+[[Page 254]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=139) by
+Urine. It is the best of all common Re­medies against Hysterical Fits and
+Vapours, smelling to it, and taking it inwardly. It is Excellent against the
+Palsie, Apoplexy, Epilepsie, &c. against Quartan and Tertian Agues. It opens
+all Obstructions, and pro­vokes the Terms. The Volatile Spirit hath the same
+Vertue as the Salt; it is good for all Obstructions, particularly of the
+Spleen, and keeps the Body open; it is far beyond the common Spirit of Tartar
+in Vertue. The Dose is from eight to twenty or thirty drops in some fit
+Vehicle.
+
+### 3.73. A Physical Salt.
+
+TAke Nitre and Oyl of Sulphur, ana lbj. flegm of Vitriol lbss. pulverize the
+Nitre and put it into a Retort, and pour upon it the Oyl of Sulphur and flegm
+of Vitriol; distill in Sand, and you shall have a very good Spirit of Nitre,
+and a pure white Salt will remain in the bottom of the Retort. This Salt is
+much esteemed in Fevers, and to quench thirst, being taken in Juleps,
+Ptrisans, or Possets. The Dose is thirty or fourty grains.
+
+[[Page 255]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=139)
+
+### 3.74. A Precious Tincture of the Flowers of Antimony.
+
+TAke the dark-red Flowers of  (antimony), digest and circulate them with
+rectified Spi­rit of Vitriol; when they are sufficiently united, abstract the
+Spirit of Vitriol toan Oyl, upon which pour S. V. digest and extract a
+Tincture s. a. which abstract again to the con­sistence of an Oyl. This
+Tincture fortifieth and cherisheth the Heart & Vital Spirits, strength­eneth
+the Stomach, is good against Agues and Fevers, Hysterical Fits, Hypochondriac
+Me­lancholy: It Cures the Iaundies, opens Ob­structions, provokes the Terms.
+It is good against the Gout, Scurvy, and Dropsie, Itch and Scabs: It purifieth
+the Blood, and strengthens Nature. Dose from gr. j. to iij. or iv. given in a
+fit Vehicle.
+
+### 3.75. An Excellent and true Tincture of Coral.
+
+TAke good red Coral ℥iv. grind it to subtil Powder, which mingle with ℥iv. of
+Sal armoniac that hath been three times Sublimed from decrepitated Salt. Put
+this mixture into a small Cucurbite, which set in a Sand Furnace; fit a Head
+and Reci­pient to it, and having well luted the junctures, [[Page
+256]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=140) give a gentle
+fire at first, which augment by degrees. There will come over first, a small
+quantity of a Urinous Volatile Spirit; after that, you shall see the Flowers
+ascend and stick to the Head, and upper part of the Cucurbite. These Flowers
+will be tinged with divers colours, as red, green, blew, very pleasant to
+behold, they contain in them the true Tincture of Coral; for the body of the
+Coral which remaineth in the bottom, will be as white as snow; continue a
+mode­rate fire until no more Flowers ascend: The Operation will be performed
+in a few hours. Then gather diligently all these Flowers, and put them in a
+Matrass, and pour upon them rectified S. V. to the heighth of four fin­gers;
+digest some days in B. the S. V. will extract a pure red Tincture out of the
+Flow­ers, which will remain white in the bottom; filter this Tincture, and
+abstract from it three fourth parts of the S. V. and a deep­red Tincture will
+remain in the bottom, which is the true Tincture of Coral.
+
+This Tincture is a Sovereign Remedy to strengthen the Stomach and Bowels. It
+pu­rifieth the Blood by Sweat and Urine. It opens Obstructions, is Excellent
+in all sorts of Fluxes, &c. Dose from six to twenty four drops, in some
+convenient Vehicle.
+
+[[Page 257]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=140) The way
+to Sublime the Flowers of Sal armoniac for this work, is thus:
+
+Take common Salt decrepitated and Sal armoniac, ana lbj. pulverize and min­gle
+them together, and put them in a Cu­curbite, and Sublime in Sand with a gentle
+fire at first, which augment by degrees; the Flowers will ascend into the Head
+like Meal: Continue the fire for five or six hours; then let all cool, and
+gather the Flowers, which mix with new Salt, and Sublime as before: Repeat
+this three times.
+
+### 3.76. An Excellent Extract of Mars, for Diarrhaea's and Fluxes.
+
+TAke filings of Steel (which you may buy at the Needle-makers) ℥iv. put them
+in well-glazed Pipkin, and pour thereon a quart of good deep-red Wine, (that
+which is used to colour White-wine) let it boyl until about three parts of the
+Wine be consumed, stir­ring often with an Iron Spatula. Then strain it whilst
+it is hot.
+
+It is a great and certain Remedy for Dy­senteries, Diarrhae'as, old Hepatical
+Fluxes, and such like Diseases; you may give an Ounce of it in Broth fasting,
+for some Mornings together. This I have sufficiently experienced with happy
+success.
+
+[[Page 258]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=141)
+
+### 3.77. Sir Kenelm Digby's Remedy for the same, as it was prepared by his
+Order, and much used.
+
+TAke Rye-flower, and make a Paste there­of with Juice of Elder-berries; then
+bake hard Biskets thereof, which pulverize, and make a Paste again with the
+Juice of Elder-berries as before: Repeat this three times. Then reduce it to
+Powder. The Dose is one Dram.
+
+### 3.78. Sir Kenelm Digby, his Excellent Plaister of Lead.
+
+TAke of the best Oyl Olive lbij. ℥iv. white-lead, red Minium, ana lbj. grind
+them to Powder, and put them with the Oyl into a large glazed Pot or Pipkin,
+with ℥xij. of Venice Soap shred small, which put upon a gentle Coal-fire, and
+stir it well with an Iron Spatula for an hour; then increase the fire a
+little, which continue until the Liquor be of the colour of an Oyl: Then drop
+some of it upon a board, and if it sticks, or that it cleave to your fingers,
+'tis a sign that it is boyled enough; then roll it up, and keep it for Use.
+
+[[Page 259]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=141) This
+Plaister being applyed to the Sto­mach, is good for the weakness and
+indige­stion thereof, and causeth a good Appetite.
+
+Being applyed to the Belly, it Cureth the Colick; and being applyed to the
+Back, it strengthens the Reins, Cureth the Bloody-flux, the Gonorrhaea, and
+tempers the ex­cessive heat of the Liver.
+
+It Cureth all Contusions and Bruises, Swel­lings and Inflammations. It
+maturates and draws all sorts of Apostumes, Wolfs, and Pustles, and Cures
+them, without Lancing or Incision. Being applyed to the Head, it strengthens
+the Eye-sight: To the Funda­ment, it Cureth all accidents that may hap­pen
+there, as Piles, &c. And being applyed to the Belly of a Woman, it provokes
+the Terms, and disposeth her for Conception.
+
+### 3.79. Dr. Stephen's Plaister for the Gout.
+
+TAke Virgins-wax lbij. Hogs-grease ℥ss. Mutton-Suet ℥ij. Oyl of Colts-foot,
+Plantain and Rose-water, ana ʒij. Lavender-water ʒij. Dragon-water, and Water
+of Bor­age, ana ℥ss. two Nutmegs, two Cloves, and a little Mace, beat into
+Powder; mix them all well together, and let it boyl with a mo­derate fire unto
+the consistence of an Oynt­ment; wherewith anoint the part grieved as [[Page
+260]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=142) hot as you can
+endure it, and dip Linnen Clothes in it, and apply them.
+
+### 3.80. A very good Oyntment for the Gout; and the running Gout, Aches,
+Numbness, and pain in the Ioynts, &c.
+
+TAke the tender Branches of Dwarf-Elder, in the Month of March, when they
+sprout out of the ground from the root, and are not above a finger long, three
+hand­fuls; stamp them in a stone Mortar, then mix them with lbj. of Hogs-
+grease; put this into a Pipkin, and let it stew upon a gentle fire for two or
+three hours.
+
+This was Communicated unto me by a worthy Gentleman, whom uch esteemed it,
+because he found great benefit by it in the Gout: It taketh away the raging
+pain there­of, giveth ease, and strengthens the parts afflicted.
+
+In the running Gout, Numbness, and raging pain in the Joynts, I have had much
+Experience of the Vertue of this Oyntment, after many Remedies used in vain;
+the parts grieved must be anointed with it as hot as can be endured, and
+chafed in before a fire.
+
+[[Page 261]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=142)
+
+### 3.81. A Certain and Infallible Remedy to prevent and Cure the Fits of the
+Gout.
+
+I Knew a Gentleman in Germany, who al­ways Cured and prevented his Fits of the
+Gout (whensoever he perceived the least symptom of its approaching) by the
+fol­lowing Remedy:
+
+He caused a good quantity of the Herb Mullein (Verbascum in Latin) to be
+gathered every Summer when it was in its Flower, which is in Iune, it beareth
+many yellow Flowers upon a long straight stalk with large leaves at the
+bottom, which are hoary. Then he took a good quantity of this Herb, and cut it
+small, the Stalk, Flowers, and Leaves, and caused it to be boyled in a pail-
+full of Forge-water out of a Smith's trough, where­in he quenches and cooleth
+his Irons; when this was boyled sufficiently, then there was put into it a
+large piece of Chalk in Powder. In this Water he bathed his Feet, Leggs, and
+Knees, as hot as he could endure it, in a Tub, continuing until the Water grew
+cold. Then a hole was digged in the ground in his Garden, wherein this Water
+was put with the Ingredients, and then covered with Earth.
+
+This always prevented his Fit, so that he [[Page
+262]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=143) never had any
+pain, lameness, or swelling at all, to which I was an Eye-witness. And I heard
+him say, that if he did not use this Re­medy, he would have very shrewd and
+rack­ing Fits, and keep his Bed by it for a Month or six weeks, and that twice
+a Year, chiefly in the Spring, and at the Falling of the Leaf.
+
+### 3.82. Mr. Locher, an Apothecary of London, his Excellent Oyl for Deafness,
+which he gave to Sir K. D.
+
+TAke Oyl of bitter Almonds, Oyl of Spikenard, ana ʒvj. Juice of Onions, Juice
+of Rue, ana ʒij. black Hellebore ℈ss. Colloquintida ʒss. Oyl of Exetor ʒij.
+Boyl this till the Juice be consumed; then strain it, and add two drops of Oyl
+of Anni [...]d, Oyl of Origanum one drop. Pour a drop or two of this Oyl into
+the Ear, and lye upon your Bed with that Ear upwards that you intend to drop
+into, lye still for a quarter of an hour after; then drop into the other, if
+it require. It is to be continued a Month, or two or three, as you find
+benefit. When you have dropt into the Ear, you must stop it with a little
+black-wool, dipped in the Oyl. Many Persons have found much benefit by the use
+of this Oyl, to my knowledge.
+
+[[Page 263]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=143)
+
+### 3.83. Another Experimented Remedy for the same.
+
+TAke a good large Eel, flea it, and cut it into round pieces of the length of
+a finger, stick them full with Rosemary and Sage; then take an Earthen Pan,
+put two or three sticks of Wood in Cross-wise, lay your pieces of Eel upon
+them, so that they may not touch the bottom of the Pan; bake it in an Oven as
+you do Meat: Then take the Fat of the Eel that is in the Pan, and strain it
+through a fine Linnen Cloth, mea­sure how much there is of it, and put to it
+as much S. V. Then take Juice of Onions, and Juice of the white ends of Leeks,
+ana ℥j. of your first mixture ℥ij. put them together into a Vial, stop it
+close, and shake it well for an hour. It is in all things to be used as the
+former, except that instead of one or two drops, you must drop in three or
+four.
+
+Hartman.) This was Communicated to me by a Gentleman at Paris, who had done
+Wonderful Cures with it, and among the rest, he had Cured the Governour of
+Calais his Secretary with it, who had been deaf twenty Years [...] his
+deafness being caused by a Sick­ness.
+
+[[Page 264]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=144)
+
+### 3.84. A most Precious Balsam of great Vertue.
+
+TAke Turpentine lbij. Lignum Aloes ℥ss. Mastick, Cloves, Galingal, Cinnamon,
+Zedoar, Nutmegs, Cubebs, Olibanum, ana ℥j. Roots of Master-wort, of Angelica,
+ana ℥ss. Figs cut small six in number, Gum Tra­gacanth ℥ij. Bruise all the
+Ingredients, and mix them well together, then put them into a Glass Retort,
+and having warmed the Tur­pentine to make it run, pour it upon the
+In­gredients, and distill in Sand: Separate the Balsam from a little flegm
+that will come over with it.
+
+1\. This Balsam is a very great preserver of the Health of Mankind, taking
+every Morn­ing three or four drops of it in a little Beer or Wine; it
+strengthens the Stomach, and causeth a good Digestion, and a good Ap­petite.
+
+2\. It strengthens the Brain and Memory.
+
+3\. It is good against Deafness, pouring two or three drops every day into the
+Ear, and stopping the Ear with a little black-wool, moistened with a little of
+this Balsam.
+
+4\. It helpeth Rheumatick Eyes, takes a­way the heat and pain thereof, and
+strengthens the Sight, anointing the Eye-lids there­with.
+
+[[Page 265]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=144) 5\. It
+Cureth all sorts of Scabs, Itches, and Scall'd Heads, be they never so bad.
+
+6\. It Cures Fistulaes, the Cancer, Wolf, and all other gnawing Diseases; and
+Cures all sorts of Wounds, whether old or new.
+
+7\. It Cures the Gonorrhaea, the Whites in Women, and strengthens the Reins.
+
+8\. It is good against the Biting of a Mad Dog, Vipers, and other Venemous
+Beasts, being both inwardly and outwardly applyed; and is a great Preservative
+against the Plague.
+
+9\. It is very good against the Cramp, Numbness, aking, and pain in the
+Joynts, contraction and weakness of the Nerves com­ing from a cold Cause, as
+Experience testi­fieth.
+
+10\. It sweetens an unsavoury or stinking Breath, and suffers no Worms to
+breed in the Stomach and Bowels.
+
+11\. It is said, that if a dead Corps be Embalmed with it, it will never rot
+nor consume, nor any Linnen about it that is imbibed with this Balsam: And
+that for a tryal, one should take a piece of Flesh, and warm it well against
+the fire, then rub it over with this Balsam, and let it be well imbibed with
+it, rubbing it with it three or four times. Then lay it away, and it will
+remain sound and fresh, so that it may be eaten a twelve Month after.
+
+[[Page 266]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=145)
+
+### 3.85. Laudanum Germanicum: Being a singular Preparation of Matthew's, or
+Dr. Starky's Pills:
+
+I Thought I could not better finish this Book, than with the Receipt of these
+most Excellent Pills, with the true way of Preparing them, which far exceeds
+the com­mon: The Receipt is thus:
+
+Take Opium lbj. dissolve it in distilled Vinegar, then filter and evaporate to
+the consistence of a Mass for Pills: Then take black Hellebore lbj. reduce it
+to a subtil Powder, which put into a Matrass, and pour upon it so much
+distilled Vinegar as will co­ver it the breadth of four fingers; digest for
+two days, then evaporate with a gentle heat to the consistence of Pills. Then
+take of the Corrector lbj. Oyl of Amber that hath been rectified with fair
+water, ℥ij. Licorise dryed and reduced to subtil Powder, lbj. Saffron dryed
+and pulverized, lbss. Put all into a large Mortar (well warmed by put­ting
+Coals kindled into it) incorporate them well together by strongly beating and
+mix­ing them, adding by little and little (as you incorporate them) of the Oyl
+of Tur­pentine that hath stood upon the Corrector, and is of a red colour,
+℥iij. Tincture of An­timony [[Page
+267]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=145) ℥iv. Oyl of
+Anniseed, of Juniper-berries, of Sassafras, Oyl of Vitriol, Spirit of Harts-
+horn, ana ℥ij. Gum Arabick dis­solved in distilled Vinegar, ℥ss. and if you
+see that the Composition is too stiff, add a little more of the said Oyl of
+Turpentine, and of the Tincture of Antimony: Then put it up in a Gally-pot,
+and tye it up close with a Bladder and Leather.
+
+The Composition of these Pills is of a very sine consistence, and not so
+crumbly as the common, but commodious to handle, and make up in Pills like
+unto warm Wax. The Dose is two small Pills about the bigness of an ordinary
+Pease, or one Pill about the big­ness of a gray Pease swelled, taking them at
+Night.
+
+These Pills are approved of, and are pre­scribed, and used by the best
+Physicians, in Consumptions, and in other Cases.
+
+I thought to have reserved the Prepara­tion of them to my self, and not to
+have Published it; but thinking that it is unchri­stian to keep any thing from
+the Publick good, my Conscience would not permit me.
+
+The Preparation of the Corrector differs not from that of Starky's; but
+because this Book may come to the Hands of some Per­sons which do not know it,
+I thought good to insert it here.
+
+[[Page 268]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=146) Take
+pure Salt-petre, and White-wine, or Rhenish-wine Tartar, ana equal parts,
+pulverize them, and searse them, and mix them well together: Then take a large
+Cru­cible, and set it in your Furnace, and being red-hot, cast in some of your
+mixture by little and little with an Iron Ladle, and when the fulmination is
+over, cast in more, which continue till you have put in all your mix­ture;
+then let it flow in the Crucible, giving strong heat.
+
+Then pour it out, and when the Crucible is cold, scrape off all the Salt that
+sticketh to the sides of it. Dissolve this Salt in boyling-water. Make
+likewise a Lixivium of Quick-lime and Water, which being settled, pour it off:
+Take of this Lixivium the same quan­tity with that of the Salt of Tartar; mix
+and filter them, then evaporate to a Salt, which will be pure, clear and white
+like Crystal; grind it to Powder, and put it into a strong large Vessel, and
+pour upon it immediately so much Oyl of Turpentine as may cover it the breadth
+of four or five fingers; stir it well together, then cover it loosely, only to
+keep things from falling in, and that the Air may come to it; let it stand
+thus, stirring it three or four times a day with a wooden Spa­tula, and as you
+see the Salt imbibeth the Oyl, add still more Oyl, until the Salt hath [[Page
+269]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=146) taken in and
+absorbed three times its weight of Oyl, or that it will take in no more, and
+is like a Soap, and the Oyl that swimmeth upon it is of a red Colour.
+
+### 3.86. The Tincture of Antimony is made thus, ac­cording to Basil
+Valentine.
+
+TAke equal parts of Salt of Tartar and  (antimony), melt them together in a
+Crucible, keep them in fusion for half an hour, then pour it out, and whilst
+it is hot reduce it to Powder, which put into a Matrass, and pour upon it of
+the best rectified Spirit of Wine so much as may cover it the breadth of three
+fingers, set the Matrass in warm Sand, that the S. V. may boyl a little, and
+you shall have a very red Tincture, which decant, and keep for Use.
+
+This Tincture is recommended to open all Obstructions, of all the Principal
+parts, as Liver, Spleen, Lungs, Womb, Reins, and Bladder; it provokes the
+Terms, Cureth the Yellow Jaundise, Green-Sickness, Scurvy, Dropsie, Asthma,
+Pleuri [...]ie, Melancholy, Ulcers inward and outward, Scabs, Itch, Pox,
+Small-Pox and Measles. Dose gr. iv. to xij.
+
+[[Page 270]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=147)
+
+## 4\. Postscript.
+
+### 4.1. The Preparation of Sir Ken [...]lm Digby's Sym­pathetical Powder, as
+we prepared it every Year in his Laboratory, and as I prepare it now, is only
+thus:
+
+TAke what quantity you please of good English Vitriol, dissolve it in warm
+wa­ter, but use no more water than will dissolve it, leaving some of the
+impurest part at the bottom undissolved: Then filter the disso­lution, and
+evaporate it until you see a thin skin upon it, then put it in a cool place,
+and let it stand without stirring it for two or three days, covering it
+[...]oosely only, to keep things from fallingin. It will shoot into fair,
+green, and large Crystals, which take out, and spread them abroad in a large
+flat earthen Dish, and expose them to the heat of the Sun in the Dog days,
+turning them often, and the Sun will Calcine them white; when you see them all
+white without, beat them grosly, and ex­pos [...] them again to the Sun,
+securing them [[Page
+271]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=147) from Rain;
+when they are well Calcined, powder them finely, and expose this Pow­der again
+to the Sun, turning and stirring it often. Continue this until it be reduced
+to a white Powder, which put up in a Glass, and tye it up close, and keep it
+in a dry place.
+
+As for the Vertues of this Powder, I will only say, that I have seen great
+Experience of it in my time, in stanching of desperate bleeding at the Nose.
+2. In stanching the Blood of a Wound. 3. In Curing with it any green Wound
+(where there is no fra­cture of Bones) without any Plaister or Oyntment, in a
+few days.
+
+A Girl about twelve Years of Age bleed­ing desperately at the Nose for two or
+three days together, her Mother having used all the means she could devise (in
+vain) came to me, telling me, that she had heard I had a Powder that would
+stanch Bleeding, she desired me to let her have a little of it, for she feared
+her Daughter would bleed to Death: I gave her some of the Powder, and bid her
+put a little of it in three or four spoonfuls of fair water, and to bath her
+No­strils with it with a clean Linnen rag, putting it up into the Nostrils,
+which she did, and her bleeding stopped immediately; the next day she did
+bleed a little again, and then using [[Page
+272]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=148) it again, it
+did stanch it, and she never bled again afterwards.
+
+I spoke with a Famous Chirurgeon, named Mr. Smith, in the City of Augusta in
+Ger­many, who told me, that he had a great re­spect for Sir K. D. Books, and
+that he made his Sympathetical Powder every Year, and did all his Chiefest
+Cures with it in green wounds, with much greater ease to the Patient than if
+he had used Oyntments or Plaisters.
+
+If the Reader desires to know more of the Effects of this Powder, and the
+Reason of it, I refer him to the Reading of Sir K. Digby's Treatise of Curing
+of Wounds by way of Sympathy, where he will find entire satis­faction and full
+information of the Reasons of its effects.
+
+FINIS.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=95992&page=148)
+
+[Home](/)
+
+Digby, Kenelm, Sir, 1603-1665.. Date: 1682  
+

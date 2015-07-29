@@ -1,0 +1,181 @@
+---
+layout: default
+---
+## (unknown project)
+
+# Six important quæres, propounded to the re-sitting Rump of the long
+Parliament, fit to be satisfactorily resolved by them upon the question,
+before they presume to act any further, or expect the least obedience from the
+free-born English nation, after so manie years wars and contests for the
+privileges, rights, and freedom of Parliaments, and their own liberties.
+
+## Table of contents
+
+  * 1\. SIX IMPORTANT QUAERES, PROPOUNDED To the Re-ſitting Rump of the long Parliament, fit to be ſatisfactorily reſolved by them upon the Queſtion, before they preſume to Act any further, or expect the leaſt Obedience f•om the Free-born Engliſh Nation, after ſo manie years Wars and Conteſts for the Privileges, Rights, and Freedom of Parliaments, and their own Liberties.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=163626&page=1)
+
+## 1\. SIX IMPORTANT QUAERES, PROPOUNDED To the Re-ſitting Rump of the long
+Parliament, fit to be ſatisfactorily reſolved by them upon the Queſtion,
+before they preſume to Act any further, or expect the leaſt Obedience f
+[...]om the Free-born Engliſh Nation, after ſo manie years Wars and Conteſts
+for the Privi­leges, Rights, and Freedom of Parliaments, and their own
+Liberties.
+
+1\. WHether their ſudden ſtealing into the Houſe by night, on Monday the 26.
+of December after their forced Diſſolution by Lambert, Octob. 13. without any
+new Summons or notice of their ſitting given to any of their Fellow-Members,
+in the City, or people of the Nation; was not a work of Darkneſs, rather than
+of Light, better beſeeming Theeves than Freemen, a Guy Faux with his dark
+Lan­thorn to blow up a Parliament, than the Honour and Dignity of Members of a
+real Engliſh Parliament, and a bad Omen of ſome dark D [...]ſigns againſt
+their Fellow-Members, and Liberties both of the City and Engliſh Nation?
+
+2\. Whether their placing armed Gards that Evening at the Houſe, and all
+approaches to it and the next Morning too, and giving Colonel Okey, and
+Colonel Alured (the Commanders of their Gards) their Serjeant and Door-
+keepers, ſtrict ſpecial Commands and Orders, not to ſuffer any of the old
+ſecluded Members ſo much as to come into the outward Lobby before the Houſe,
+(whether Footboys, Apprentices, and other Perſons of all ſorts had free
+ac­ceſs,) much leſſe to enter into the Houſe; and their forcible ſecluding of
+Sir Gilbert Gerard, Sir Anthony Irby, Sir William Waller, Sir John Evelin, Mr.
+Anſ­l [...]y, Serjeant Maynard, Mr. Prynne, and 15. other Members more on
+Tueſday morning, Decemb. 27\. out of the very Lobby, in purſuance of their
+Orders, till they crowded into the Lobby by degrees againſt the Door-keepers,
+and Gards wills, who at firſt oft ſhut the Doors againſt them, though they
+admitted Ap­prentices, and others to paſs in and out: And their ſecluſion of
+them out of the Houſe when in the Lobby, by keeping the Houſe door faſt locked
+againſt them, and ordering the Door-keeper and Serjeant not to open it,
+notwithſtanding many demands to open it, and Meſſages to them for that
+purpoſe, which they ſlighted; not vouchſafing to take any notice of, after two
+full hours attendance by the Members on them in the Lobby; nor ſo much as
+ſending any Member, nor their Serjeant out to them; as they uſually do to
+every ordinary Petitioner, or perſon attending them upon publick or private
+occaſi­ons; Be not a juſt ground and provocation for theſe and all other
+ſecluded Members, (being about 4. times more in number and intereſt to thoſe
+then ſitting, and the real Houſe of Commons,) with all the reſpective
+Counties, Cities, Boroughs, Ports for which they ſerve, with as high contempt
+and ſcorn to neglect them and their illegal Conventicle, (not the tenth part
+of a Commons Houſe,) to proteſt againſt all their Votes, Proceedings as null
+and void to all intents, and not to yield the leaſt obedience to any Orders,
+Votes, or Commands of theirs, till all the Members be freely admitted without
+any reſtrictions, to ſit and act amongſt them; it being both their Privile
+[...]e, Birthright, and Inheritance, and they obliged by their Proteſtation,
+and Solemn League and Covenant, con­ſtantly, zealouſly and chearfully to
+defend the ſame with their Lives and Eſtates againſt all Violations, all the
+daies of their lives; and therefore now if ever, in this ſad poſture of
+publick diſtractions?
+
+3\. Whether this their diſdainfull, uncivil, unbrotherly Treating of their
+fellow-Members (deſiring nothing elſe but a brotherly aſſociation with them,
+to compoſe the manifold Diſtractions, and make up the wide Breaches of our
+Sinking, Dying Nations, by their United Councils and Endeavours, and to
+Regulate all Exorbitances, occaſioned by their heady Councils and Miſcariages)
+in not allowing them the Privileges of Porters and Footboyes to enter into
+their outward Lobby, in taking no notice of them, and putting this freſh
+affront upon them, after ſo many former Indignities, in the midſt of their and
+our Domeſtick Confuſions and fears from forein parts, be not an evident
+Demonſtration; that they intend neither the publike Peace, Unity, nor
+ſettle­ment of our Government, Laws, Liberties, or Nations, but their unjuſt
+ſupport of their own private Intereſts, Rapines, ambitious Tyrannical
+Uſurpations and Exerciſes of Supreme Parliamentary Civil and Military
+Authority over our three Nations; to imbroyl them in new Wars and Confuſions,
+to prey upon the ſmall remainder of their Real and Perſonal Eſtates, by the
+power of the Sword, now gotten into their hands, out of the Army-Officers; who
+abuſed it likewiſe to the oppreſſing and enſlaving of the people, and created
+them a Parliament without the ſecluded Members, and Houſe of Peers?
+
+4\. Whether their diſdainfull, Injurious forcible ſecluſion of the Members, by
+their own ſpecial Orders and Commands to their Gards and Officers now, be not
+a ſhrewd Evidence, that their former ſecluſions, Decemb. 6\. and 7. 1648. and
+May 7\. and 9. 1659. (acted by, and fa [...]red on the Army-Offi­cers, and
+ſeemingly diſowned by themſelves) were ſecretly procured & countenanced by
+them, thus openly owning their laſt ſecluſion, by their precedent Orders and
+ſubſequent approbation of it; and that at their very firſt re-aſſembling,
+after their own late forcible ſecluſion, by Lamberts and Hewſons Regi­ments,
+now Entertained and Imployed in their ſervice, to ſeclude, and keep out their
+old honeſt fellow Members, of Untainted Integrity and merit? Whe­ther it be
+not a greater breach of Privilege, Truſt, Duty, Tyranny, Perjury, and Treaſon
+in them, againſt all former Declarations, the Proteſtation, So­lemn League and
+Covenant, taken and Subſcribed by them, with hands lifted up to the moſt High
+God, thus to ſeclude their fellow Members; than it was in Cromwell and
+Harriſon, April 20\. 1653. or for Lambert October 13\. laſt to ſeclude and
+turn themſelves out of doors, after their declaring and voting it Treaſon,
+Perjury and Tyranny in them? Whether this their ſecluding of the Members by
+Col. Okey himſelf, and others who appeared moſt active againſt their Excluſion
+by Lambert, will not draw a ſelf-condemnation on them, as acting by their
+commands, againſt their Conſciences; and juſtify both Crom­wels and Lamberts
+ſecluſion of themſelves? And juſtly encourage all their newly reduced Soldiers
+and others, to ſhut and turn themſelves out of the Houſe again upon any
+emergent occaſion or diſcontent, with greater boldneſs and impunity than
+before, ſince they juſtified their laſt ſecluſion, by their former underhand
+encouragements of them to ſeclude the Majority of the Members, who over-voted
+them in Decemb. 1648. and give them Orders to ſeclude them now again upon the
+ſame account in the ſame month of December, for fear they ſhould over-vote
+them if re-admitted?
+
+5\. Whether their printed Vote, Decem. 27. To take the buſineſs of their
+abſent Members into debate on the 5\. of January next; inſtead of giving
+admittance, or any anſwer to the 22. ſecluded Members waiting for an anſwer in
+the Lobby above 2. hours, be not a meer dilatory Cheat put upon the ſecluded
+Members, the City of London, and whole Nation; to delay their admiſſion till
+they have put new Gards on, and drawn up all their forces to London, to over-
+awe the City, and hinder their long-delayed Militia for their own ſecurity;
+and ſetled the Militia of every County under their own commands, to enſlave
+the whole City and Nation to their Tyranny and uſurped Parliamentary Power;
+and then they will not only forcibly keep out all the Members, but abſolute­ly
+eject them, unleſſe they will take their new Oath and Ingagement: As is
+evident by their Speakers prohibiting the Lord Maior and Common Coun­cil on
+Saturday laſt to ſet up their Chains and ſettle their Militia; and their Order
+and Vote on Munday night againſt all forces raiſed without their Order, to
+hinder the Militia in the City, when they commanded the Militia in the Suburbs
+and Weſtminſter to meet and Act that day: And by ſome of their diſcourſes
+[...] ſecluded Members; That there was no hopes of their admiſſion, unleſſe
+they were for a Commonwealth, would take the Ingagement, and confirm what they
+had done: and thereby become as guilty, treacherous, perfidious, diſloyal, and
+hurtfull to the publike as themſelves) which thoſe Members aſſured them, they
+would never ſubmit to, being againſt the Privilege of Parliament, their
+Judgements, Conſciences, Proteſtation, Covenant, former Oathes upon their
+firſt admiſſion as Members.
+
+6\. Whether the City, or Engliſh Nation, can expect the leaſt juſtice eaſe or
+redreſſe of their inſupportable Burdens, Taxes, and Impoſitions from theſe new
+Tax-maſters, who (though they are not yet the Tenth part of a full Commons
+Houſe) preſumed to paſs and print a New Act of Parliament, to continue their
+expired Cuſtoms and Exciſes on them, till March next? Whether their
+unpreſidented preſumption▪ in arrogating to themſelves the Title, power and
+au­thority of a Parliament; when all Laws, and Lawbooks reſolve, their own
+Conſciences and the whole Nation infallibly know them to be no Parliament, nor
+Commons houſe, hath not brought them within the compaſſe and penalty of this
+Clauſe in their own laſt Act, before their Diſſolution by Lambert, October
+11\. intituled, An Act againſt raiſing of Money upon the people without their
+Conſent in Parliament: And be it further enacted, That no perſon or perſons
+ſhall after the 11\. of October, 1659\. Aſſeſs, levy, collect, gather or
+receive, any Cuſtoms, Impoſts, Exciſe, Aſſeſſment, Contribution, Tax, Tallage,
+or any ſum or ſums of money, or other Impoſitions whatſoever, upon the People
+of this Commonwealth, without their conſent in Parliament, or as by Law might
+have béen done before the Third of November, 1640\. And be it further enacted
+and declared, That every perſon offending againſt this Act, (therefore every
+of themſelves who paſſed this new Act, Decemb. 27. and thoſe who ſhall put it
+in execution) ſhall be and are hereby adjudged to be guilty of High Treaſon,
+and ſhall forfeit and ſuffer as in caſe of High Treaſon. Whether the people of
+this Commonwealth (the thouſand part whereof knew not of their new ſitting)
+did ever conſent to this ſudden extemporary new Act, made the firſt morning of
+their ſitting in leſſe than two hours ſpace, when there were but 42. Members
+in the Houſe; 22. ſecluded Members at the door, and near 250. more Members yet
+living, (beſides the whole Houſe of Lords, who muſt ſtand for Cyphers) abſent,
+and not privy to their Seſſion, or this Act? If not, (as is unqueſtionable)
+whether by this their own Law and Act, they be not adjudged to be guilty of
+High Treaſon, and to forfeit and ſuffer as in caſe of High Treaſon, for this
+their impoſing and continuing of Cuſtoms and Exciſes on the people; as well as
+for their ſecluſion of their Members; which they voted to be Treaſon in
+Lambert? And whether the Offices and Common Soldiers can upon this acccount
+expect any pay from the City or Country, or Indemnity for ſecluding thoſe Now
+ſitting, if they of­fend again in ſecluding the greatest part of the Members,
+which are in truth the only Houſe, which can only really pay and indemaifie
+them?
+
+[Home](/)
+
+Prynne, William, 1600-1669.. Date: 1659  
+

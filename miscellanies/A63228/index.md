@@ -1,0 +1,5315 @@
+---
+layout: default
+---
+## (unknown project)
+
+# The tryals of VVilliam Ireland, Thomas Pickering, & John Grove, for
+conspiring to murder the King who upon full evidence were found guilty of high
+treason at the session-house in Old-Bailye, Dec. 1, 1678, and received
+sentence accordingly.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=1)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=1)
+
+THE TRYALS OF VVILLIAM IRELAND, THOMAS PICKERING, & JOHN GROVE, For Conſpiring
+to Murder the KING: Who upon Full Evidence were found Guilty of High Treaſon,
+At the SESSION-HOUSE in Old-Bailye, Dec. 17\. 1678, and received Sentence
+accordingly:
+
+Reprinted at Dublin, M: DC. LXXVIII.
+
+## Table of contents
+
+  * 1\. The TRYALS of William Ireland, Thomas Pickering, and John Grove.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=2)
+
+[[Page 3]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=2)
+
+## 1\. The TRYALS of William Ireland, Thomas Pickering, and John Grove.
+
+ON Tueſday the Seventeenth day of December, One Thouſand Six Hundred Seventy
+and Eight, Thomas White alias Whitebread, William Ireland, John Fenwick,
+Thomas Picker­  [...]ng [...]nd John Grove were brought from his Majeſties
+Gaol of Newgate, to the Seſſions-houſe  [...]t  [...]ſtice-Hall in the Old-
+Baily, being there Indicted for High Treaſon, for contriving and  [...]ot
+[...]iring to Murder the King, to receive their Tryal; and the Court proceeded
+thereupon  [...]s  [...]lloweth.
+
+The Court being Set, Proclamation was made for Attendance, Thus. Clerk of
+Crown, Cry [...]r make Proclamation.
+
+Cryer,
+
+O yes, O yes, O yes, All manner of Perſons that have any thing to do at this
+General Seſſions of the Peace, holden for the City of London, Seſſions of Oyer
+and Termi­  [...]er and Gaol Delivery of Newgate, holden for the City of
+London and County of Middleſex, draw near and give your attendance, for now
+the Court will proceed to the Pleas of the Crown for the ſame City and County.
+God Save the King.
+
+Clerk of Crown,
+
+Cryer make proclamation.
+
+Cryer,
+
+O yes, All manner of Perſons are commanded to keep Silence upon pain of impri­
+[...]onment. Peace about the Court.
+
+Clerk of Crown,
+
+Cryer make Proclamation.
+
+Cryer,
+
+O yes, You Good men of the County of Middleſex that are Summoned to appear
+[...]ere this day, to Enquire between our Soveraign Lord the King, and the
+priſoners that are  [...] ſhall be at the Bar. Anſwer to your names as you
+ſhall be called every one at the firſt  [...]all and Save your iſſues.
+
+The Jurors being called and the Defaults recorded, the Clerk of the Crown
+called for  [...]he Priſoners to the Bar, viz. Thomas White alias Whitebread,
+William Ireland, John Fenwick, Thomas Pickering, and John Grove, and Arraigned
+them thus,
+
+Clerk of Crown,
+
+Thomas White alias Whitebread, hold up thy hand, Which he did.
+
+William Ireland,
+
+hold up thy hand. Which he did.
+
+John Fenwick,
+
+hold up thy hand. Which he did.
+
+Thomas Pickering,
+
+hold up thy hand. Which he did.
+
+John Grove,
+
+hold up thy hand. Which he did.
+
+You ſtand indicted by the names of Thomas White alias Whitebread, late of the
+Pariſh of St. Giles in the fields in the County of Middleſex, Clerk: William
+Ireland, late of the ſame Pariſh and County, Clerk: John Fenwick, late of the
+ſame Pariſh and County, Clerk: Tho­  [...] Pickering, late of the ſame Pariſh
+and County Clerk: and John Grove late of the ſame  [...]h and County, Gent.
+For that you five as falſe Traitors. &c. againſt the peace of our So
+[...]raign Lord the King, his Crown and Dignity, and againſt the Form of the
+Stature in  [...]hat Caſe made and Provided. How ſayſt thou Thomas VVhite
+alias Whitebread, art thou Guilty of this H [...]gh Treaſon whereof thou
+ſtandeſt Indicted or not Guilty?
+
+Whitebread,
+
+Not Guilty.
+
+Clerk of the Crown,
+
+Culprit how wilt thou be Tryed?
+
+Whitebread,
+
+By God and my Country.
+
+Clerk of Crown,
+
+[[Page 4]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=3)
+
+God ſend thee a good deliverance. How ſayſt thou William Ireland, a [...] thou
+Guilty of the ſame High Treaſon or not Guilty?
+
+Ireland
+
+Not Guilty.
+
+Clerk of Crown,
+
+Culprit how wilt thou be tryed?
+
+Ireland,
+
+By God and my Countrey.
+
+Clerk of Crown,
+
+God ſend thee a good Deliverance. How ſaiſt thou John Fenwick, a [...] thou
+guilty of the ſame High Treaſon or not Guilty?
+
+Fenwick,
+
+Not Guilty.
+
+Clerk of Crown,
+
+Culprit how wilt thou be Tryed?
+
+Fenwick,
+
+By God and my Countrey.
+
+Clerk of Crown,
+
+God ſend thee a good deliverance. How ſaiſt thou Thomas Pickering, a [...]
+thou Guilty of the ſame High Treaſon or not Guilty.
+
+Pickering,
+
+Not Guilty.
+
+Clerk of Crown,
+
+Culprit how wilt thou be Tryed?
+
+Pickering,
+
+By God and my Country.
+
+Clerk of Crown,
+
+God ſend thee a good deliverance, How ſaiſt thou John Grove, art tho [...]
+Guilty of the ſame High Treaſon or not Guilty?
+
+Grove
+
+Not Guilty.
+
+Clerk of Crown,
+
+Culprit, how wilt thou be Tryed?
+
+Grove,
+
+By God and my Countrey,
+
+Clerk of Crown,
+
+God ſend thee a good Deliverance. You the Priſoners at the Bar thoſe men that
+you ſhall hear called and do Perſonally appear, are to paſs between o [...]
+Soveraign Lord the King and you: upon Tryal of your ſeveral Lives and deaths;
+if therefore you or any of you will Challenge them or any of them, your time
+is to ſpeak unto them as they come to the Book to be Sworn, before they be
+ſworn.
+
+Sir Philip Mathews to the Book.
+
+Sir Philip Mathews.
+
+I deſire Sir William Roberts may be called firſt. Which was granted.
+
+Clerk of Crown,
+
+Sir William Roberts to the Book. Look upon the Priſoners. you ſhall wel [...]
+and truly Try and true deliverance make between our Soveraign Lord the King,
+and th [...] Priſoners at the Bar, whom you ſhall have in your charge
+according to your Evidence. S [...] help you God:
+
+The ſame Oath was adminiſtred to th the Reſt, the Priſoners challenging none,
+and thei [...] Names in Order were thus.
+
+JURY.
+
+  * Sir William Roberts, Baronet.
+  * Sir Philip Mathews, Bar,
+  * Sir charles Lee, Knight.
+  * Edward VVilford, Eſq
+  * John Foſter, Eſq
+  * Joſhua Galliard, Eſq
+  * John Byfield, Eſquire.
+  * Thomas Egglesfield, Eſq
+  * Thomas Johnſon, Eſq
+  * John Pulford, Eſq
+  * Thomas Earnesby, Eſq
+  * Richard VVheeler, Gent.
+
+Clerk of Crown,
+
+Cryer count theſe. Sir VVillam Roberts.
+
+Cryer,
+
+One, &c,
+
+Clerk of Crown,
+
+Richard VVheeler.
+
+Cryer,
+
+Twelve, Good Men and True, ſtand together and hear your Evidence.
+
+Clerk of Crown,
+
+Cryer make Proclamation.
+
+Cryer,
+
+O yes, If any one can inform my Lords the Kings Juſtices, the Kings Serjeant,
+the Kings Attorney▪ or this Inqueſt now to betaken▪ between our Sovereign Lord
+the King and the Priſoners at the Bar, let them come forth and they ſhall be
+heard, for now the Pri­ſoners ſtand at the Bar upon their deliverance: and all
+others that are bound by Recogni­zance to give Evidence againſt any of the
+Priſoners at the Bar, let them come forth and give their Evidence [...] or
+elſe they forfe [...]t their Recognizance▪ And all Jury men of Midd [...]eſex
+[[Page 5]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=3) that have
+been ſummoned and have appeared & are not ſworn, may depart the Court and take
+their eaſes.
+
+Cl: of Crown.
+
+Make proclamation of Silence.
+
+Cryer,
+
+O yes, All manner of Perſons are commanded to keep Silence upon pain of
+impri­ſonment.
+
+Cl: of Crown,
+
+Thomas white alias Whitebread hold up thy hand which he did, and ſo of the
+reſt.
+
+You that are ſworn look upon the Priſoners and harken to their Cauſe.
+
+You ſhall underſtand, that they ſtand Indicted by the names of Thomas White,
+otherwiſe Whitebread, late of the Pariſh of St. Gyles in the Fields, in the
+county of Middleſex Clerk, William Ireland, late of the ſame Pariſh in the
+County aforeſaid, Clerk; John Fenwick, late of the ſame pariſh in the County
+aforeſaid, Clerk, Thomas Pickering, late of the ſame pariſh in the County
+aforeſaid Clerk; and John Grove, late of the ſame pariſh in the County
+aforeſaid Gentleman; For that they as falſe Traytors of the moſt Illuſtrious,
+Se [...]ene, and moſt Excellent Prince, Our Soverign Lord Charles the II. by
+the Grace of God of England, Scotland, France, and Ireland, King, Defender of
+the Faith, &c. Their ſupreme and natural Lord, not haveing the Feare of God in
+their hearts, nor the Duties of their Allegeance any ways weighing, but being
+moved and Seduced by the inſtigation of the Devil, the cordial love, and true,
+due, and natural obedience, which true and faithful Subjects of our ſaid
+Soveraign, Lord the King, towards our ſaid Soverign Lord the King, ſhould and
+of Right ought to bear, altogether withdrawing & endeavouring, and with their
+whole ſtrength intending the peace and common tranquillity of this Kingdom of
+England to di­ſturbe, and the true worſhip of God within this Kingdom of
+England, uſed and by Law eſtabliſhed to overthrow, and to move, ſtir up, and
+procure Rebellion within this King­dom of England, and the cordial love, and
+true and due obedience, which true and ſaith­ful Subjects of our ſaid
+Soveraign Lord the King, towards our ſaid ſoveraign Lord the King ſhould and
+of Right ought to bear, wholly to withdraw, vanguiſh and extinquiſh, and our
+ſaid Sovereign Lord the King to death, and final deſtruction to bring and put
+the 24th. day of April. in the year of the Reign of our ſaid Sovereign L:
+Charles the II by the Grace of God of England, Scotland, France, and Ireland,
+King defender of the ſaith, &c. the 30th. at the Pariſh of St. Gyles in the
+Fields aforeſaid, in the County of Middleſex aforeſaid, falſly, maliciouſly,
+deceitfully, adviſedly and Trayterouſly, they did propoſe, compa [...]e
+imagine, and intend, to ſtir up, move, and procure ſedition and Rebellion
+within this Kingdom of England, and to procure and Cauſe a miſerable ſlaughter
+among the Subjects of our ſaid So­vereign L. the King. and wholly to deprive
+depoſe, throw down, and diſinher it our ſaid Sovereign Lord the King from his
+Royal State, Title, Power, and Government of this his Kingdom of England, and
+him our ſaid Soveraign Lord the King to put to death, and ut­terly to deſtroy,
+the Government of this Kingdom of England, and the ſincere Religion & worſhip
+of God in the ſame Kingdom, rightly and by the Laws of the ſame Kingdom
+eſta­bliſhed, for their will and pleaſure to change and alter, and wholly to
+ſubvert and deſtroy the ſtate of the whole Kingdom, being in all parts thereof
+well inſtituted and ordered, and to Levy War againſt our ſaid Soveraign Lord
+the King within this his Realm of England, And to fulfil and bring to paſs
+theſe their moſt wicked Treaſons and Trayterous deſigns and purpoſes
+aforeſaid, they the ſaid Thomas White allas Whitebread, William Ireland, John
+Fenwick, Thomas Pickering, & John Grove, and other falſe Tr [...]ytors unknow
+[...], the ſaid ſo  [...] and Tweentieth day of April, in the ſaid 30th. year
+of the Reign of our ſaid Lord the King, [[Page
+6]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=4) with force and
+arms, &c. at the pariſh of St. Giles in the Fields aforeſaid, in the County of
+Mideleſex aforeſaid, falſly, maliciouſly, deceitfully, adviſedly, devilliſh
+[...]y and traiterouſly did aſſemble, unite and gather themſelves together,
+and then and there falſly, maliciouſly, de­ceitfully, adviſedly, devilliſhly
+and traiterouſly they did conſult and agree to put and bring our ſaid
+Soveraign Lord the King to death & final deſtruction, and to alter and change
+the Religion rightly and by the Laws of the ſame Kingdom eſtabliſhed, to the
+ſuperſtition of the Church of Rome, and that ſooner to bring to paſs and
+accompliſh the ſame, their moſt wicked Treaſons and traiterous imaginations
+and purpoſes aforeſaid, they the ſaid Thomas White otherwiſe Whitebread,
+William Ireland, John Fenwick, Thomas Pickering, John Grove and other falſe
+Traitors of our ſaid Sovereign Lord the King unknown, afterwards (to wit) the
+ſaid 24th day of April, in the ſaid 30th year of the Reign of our Sovereign
+Lord the King, at the ſaid pariſh of St. Giles in the Fields, in the County of
+Midleſex aforeſaid, falſly, deceitfully, adviſedly, maliciouſly, devilliſhly
+and traiterouſly they did conſult and agree, that they the ſaid Thomas
+Pickering and John Grove ſhould kill and murther our ſaid Sove­reign Lord the
+King: And that they the ſaid Thomas White otherwiſe Whitebread, William
+Ireland, John Frenwick, and other falſe Traitors unknown, ſhould therefore
+ſay, celebrate and perform a certain number of Maſſes, (then and there agreed
+on among them) for the good of the ſoul of the ſaid Thomas Pickering, and
+ſhould therefore pay to the ſaid John Grove a certain ſum of money, (then and
+there alſo agreed on among them:) And further that the ſaid Thomas Pickering
+and John Grove upon the agreement aforeſaid, then and there falſly▪
+deceitfully, adviſedly, maliciouſly, devilliſhly & traiterouſly did undertake,
+and to the ſaid Thomas White otherwiſe Whitebread, William Ireland, John
+Fenwick, and other falſe Traitors of our ſaid Sovereign Lord the King unknown,
+then and there falſly, deceitfully, adviſedly, maliciouſly, devilliſhly, and
+traiterouſly they did then and there promiſe, that they the ſaid Thomas
+Pickering and John Grove our ſaid Sovereign Lord the King would kill and
+murther: And further, that they the ſaid Thomas White otherwiſe Whitbread,
+William Ireland, John Fenwick, Thomas Pickering and John Grove, and other
+falſe Traitors of our ſaid Sovereign Lord the King unknown, afterwards (to
+wit) the ſaid 24th day of April, in the thirtieth year of the Reign of our
+ſaid Soverign Lord the King, at the ſaid pariſh of St. Giles in the Fields in
+the County of Middleſex aforeſaid, falſly, deceitfully, adviſedly,
+mali­ciouſly, devilliſhly and traiterouſly did ſeverally plight their Faith
+every one to other of them, and did then and their ſwear and promiſe upon the
+Sacrament, to conceal, and not to divulge their ſaid moſt wicked Treaſons, and
+traiterons compaſſings, conſultations, and purpoſes aforeſaid, ſo among them
+had traiterouſly to kill and murther our ſaid Sovereign Lord the King, and to
+introduce the Roman Religion, to be uſed within this Kingdom of England, and
+to alter & change the true Reformed Religion, rightly and by the Laws of this
+Kingdom of England, in this ſame Kingdom of England eſtabliſhed: And further,
+that they the ſaid Thomas Pickering and John Grove, in execution of their ſaid
+Traiterous Agreement, afterwards (to wit) the ſame 24th day of April, in the
+ſaid thirtieth year of the Reign of our ſaid Sovereign Lord the King, and
+divers other days and times afterwards at the ſaid pariſh of St. Giles in the
+Fields, in the ſaid County of Middleſex, falſly, deceitfully, adviſedly,
+mali­ciouſly, devilliſhly and traiterouſly they did prepare and obtain to
+themſelves, and had and did keep Muſquets, Piſtols, Swords, Daggers, and other
+offenſive and cruel weapons and inſtruments, to kill and murther our ſaid
+Sovereign Lord the King: And that they the ſaid Thomas Pickering and John
+Grove afterwards, to wit, the ſaid four and twentieth day of April, in the
+ſaid thirtieth year of the Reign of our ſaid Sovereign Lord the King, and
+di­vers [[Page 7]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=4)
+days and times afterwards with force and arms, &c. at the ſaid pariſh of St.
+Giles in the Fields, in the County of Middleſex aforeſaid, and in other places
+within the ſaid County of Middleſex falſly, deceitfully, adviſedly,
+maliciouſly and trai­terouſly, did lie in wait, and endeavour to kill and
+murder our ſaid Sovereion Lord the King; and further, that they the ſaid
+Thomas White otherwiſe Whitebread, William Ireland, John Fenwick and other
+falſe Traitors unknown, afterwards (to wit) the ſaid 24th day of April in the
+ſaid thirtieth year of the Reign of our Sovereign Lord the King, at the ſaid
+pariſh of St: Giles in the Fields, in the County of Middleſex aforeſaid,
+falſly, deceitfully, adviſedly, maliciouſly, devilliſhly and traiterouſly did
+prepare, perſwade, excite, abet, comfort and counſel four other perſons
+unknown, and ſubjects of our ſaid Soveraign Lord the King, traiterouſly to
+kill and murder our ſaid Sovereign Lord the King, againſt the duty of their
+allegiance, againſt the peace of our ſaid Sovereign Lord the King, his Crown
+and Dignity, and againſt the form of the Statute in that behalf made and
+provided.
+
+Upon this Indictment they have been arraigned, and thereunto have ſeverally
+pleaded Not guilty, and for their Tryal have put themſelves upon God and their
+Country, which Country you are.
+
+Your Charge therefore is to enquire whether they or any of them be guilty of
+the High Treaſon, whereof they ſtand indicted, or not guilty. If you find them
+guilty you are to enquire what Goods or Chattels, Lands or Tenements, thoſe
+you find guilty had at the time of the High Treaſon committed, or at any time
+ſince. If you find them, or any of them not guilty, you are to enquire whether
+they did flee for it; if you find that they or any of them fled for it, you
+are to enquire of their Goods and Chattels, as if you had found them guilty.
+If you find them or any of them not guilty, nor that they, nor any of them
+fled for it, ſay ſo, and no more, and hear your Evidence.
+
+Make Proclamation for ſilence on both ſides. Which was done.
+
+Then Sir Creſwell Levings, one of the Kings learned Council in the Law, opened
+the In­dictment, thus:
+
+Sir Creſw.
+
+Levings▪ May it pleaſe your Lordſhip, and you Gentlemen of the Jury. Theſe
+Priſoners at the Bar, Thomas White, alias Whitebread, William Ireland, John
+Fenwick, Thomas Pickering and John Grove do all ſtand indicted of High
+Treaſon; for that where­as they, as falſe Traytors, meaning and deſigning to
+diſturb the Peace of the Kingdom, to levy War within the Kingdom, to make
+miſerable ſlaughter amongſt the Kings Subjects, to ſubvert the Religion
+eſtabliſhed by the Law of the Land, to introduce the Superſti­tion of the
+Church of Rome and to bring to death and final deſtruction, and to murder and
+aſſaſſinate our Soveraign Lord the King, they did, to effect theſe things, the
+four and twentieth of April laſt aſſemble themſelves together with many other
+falſe Traytors, yet unknown, in the pariſh of Saint Giles in the Fields, in
+the County of Middleſex, and there, being ſo aſſembled, the better to effect
+theſe deſigns did make agreements and conſpire together; firſt, that Pickering
+and Grove ſhould kill the King, and that White and the reſt of the perſons
+that ſtand indicted, with many other Traytors, ſhould ſay a great number of
+Maſſes for the ſoul of the ſaid Pickering, I think thirty thouſand, and they
+did further agree there that Grove ſhould have a great ſum of mony, and upon
+this agre [...]ment Grove and Pickering did undertake and promiſe they would
+do this fact, and did then and there take the Sacrament and an oath to one
+another upon the Sacrament, that they would conceal theſe their Treaſons, that
+they might the better effect them: and that [[Page
+8]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=5) in purſuance of
+this, Grove and Pickering did divers timesly in wait to murder the King, and
+did provide Arms to do it; and the Indictment further ſets forth, that White,
+and Ireland and Fenwick and many other Traytors yet unknown, did procure four
+other per­ſons, yet alſo unknown, for to kill the King, againſt the pea [...]e
+of our Sovereign Lord the King, his Crown and Dignity, and againſt the form of
+the Statute. Theſe are the heads of thoſe facts for which they ſtand indicted:
+they have all pleaded not Guilty, if we prove them or any of them Guilty of
+theſe or any of theſe facts according to the Evidence you ſhall have, we hope
+you will find it.
+
+Sir Samuel Baldwin, one of his Majeſties Serjeants at Law opened the Charge as
+fol­loweth.
+
+Sir Samuel Baldwin.
+
+May it pleaſe your Lordſhip and you Gentlemen of the Jury, the perſons here
+before you ſtand indicted for High Treaſon, they are five in number, three of
+them are Jeſuits, one is a Prieſt, the fifth is a Layman, perſons fitly
+prepared for the work in hand.
+
+Gentlemen, it is not unknown to moſt perſons, nay to every one amongſt us,
+that hath the leaſt obſerved the former times, how that ever ſince the
+Reformation there hath been a deſign carried on to ſubvert the Government, and
+deſtroy the Proteſtant Religion eſtabliſhed here in England, for during all
+the Reign of Queen Elizabeth ſeve­rall attempts were made by ſeveral Prieſts
+and Jeſuits, that came from beyond the Seas, (though the Laws were then ſevere
+againſt them) to deſtroy the Queen, and alter the Religion eſtabliſhed here in
+England, and to introduce Popery and the Superſtition of the Church of Rome.
+
+But the Conſpirators from time to time, during all the Queens Reign, were
+diſap­pointed, as Edmond Camtion and ſeveral other Jeſuits, who came over in
+that time, and were executed & did ſuffer for their Treaſons according to Law:
+at length about the lat­  [...]erend of the Queens time, a Seminary for the
+Engliſh Jeſuits was founded at Valled [...]lid in Spain, and you know the
+emyloyment ſuch perſons have.
+
+And ſoon after the Queens death, in the beginning of the Reign of King James
+ſeve­ral perſons came over into England from this very Seminary, who, together
+with one Henry Garnet, Superior of the Jeſuits then in England, and divers
+other Engliſh Papiſts, hatched that helliſh Gunpowder-plot; whereby what was
+deſigned you all know, but as it fell out, theſe perſons, as well as thoſe in
+Queen Elizabeths time, were likewiſe diſap­pointed for their execrable
+Treaſons, in the third year of King James, were executed at Tyburn and
+otherplaces.
+
+This is evident by the very Act of Parliament in 30. Jacobi in the preamble
+whereof mention is made that Creſwel and Teſmond Jeſuits, came from Validolid
+in Spain to exe­cute this Gunpowder-Treaſon with the Poplſh party here in
+England.
+
+And Gentlemen, after this Treaſon, ſo miraculouſly diſcovered, was puniſhed,
+one would not have thought that any future age would have been guilty of the
+like Conſpiracy; but it ſo falls out, that the Myſtery of Iniquity and
+Jeſuitism ſtill worketh, for there hath of late been a ſort of cruel bloody
+minded perſons, who, in hopes to have better ſucceſs than they had in fo
+[...]mer times, during the Reigns of Queen Elizabeth and King James, have ſet
+on foot as horrid a Deſign as that of the Gunpowder-Treaſon; I can reſemble it
+to no other Plot, or Deſign, or Treaſon in any other time, and truely it does
+reſemble that, in many particulars: I may ſay, it doth at leaſt equal it, if
+not exceed it.
+
+I ſhall mention two or three particulars, in which this Plot doth reſemble
+that.
+
+[[Page 9]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=5)Firſt, that
+horrid Deſign was to take away the Life of the then King, to ſubvert the
+Government, to introduce the Popiſh Religion, and to deſtroy the eſtabliſhed
+pro­teſtant Religion in England, and ſo Gentlemen, we think our prooff will
+make it out, that in each of theſe particulars this deſign is the ſame that
+that was.
+
+Secondly, the great Actors in that deſign were Preiſts and Jeſuits that came
+from Vale­dolid in Spain and other places beyond the Seas. And the great
+Actors in this Plot are Prieſts and Jeſuits, that are come from St. Omers, and
+other places beyond the Seas nearer home then Spain.
+
+Thirdly. That plott was chiefly Guided and mannaged by Henry Garnett,
+Superiour and provincial of the Jeſuits then in England; and the great Actor
+in this deſign, is Mr. Whitebread, Superiour and provincial of the Jeſuits now
+in England; ſo that I ſay in the ſeveral particulars it does reſemble the Gun
+Powder plot.
+
+Gentlemen, In this plot of which the Priſoners now ſtand Indicted ſeveral
+Perſons have ſeveral parts, ſome of theſe perſons are imployed to keep
+Correſpondence beyond the Seas, (of which more hath been ſaid in another
+place, and ſo I ſhall not ſpeak of it here Others were to procure and prepare
+Aid and Aſſiſtance here in England, who were to be ready when there ſhould be
+Occaſion to uſe it. But the great part theſe perſons (the priſoners at the
+Bar,) were to Act in this conſpiracy, was, to take away the life of our
+So­veraigne Lord the King, on whoſe preſervation the ſafety and welfare of
+three nations (and Millions of men) does depend. Now the facts for which the
+five priſoners ſtand Indicted, I ſhall open thus;
+
+Firſt they are here Indicted for Conſpireing the Death of his ſacred Majeſty:
+They did agree to take away the Kings life, and entring into ſuch an
+agreement; They hired ſome per­ſons amongſt them to doe it; and this Agreement
+was made the 24th. of April, laſt, 1678.
+
+Secondly, There is another fact they likewiſe ſtand Indicted for: That they
+did Endea­vour and contrive to change and alter the Religion Eſtabliſhed in
+the Nation, and introduce P [...] ­pery in tho room of it. The manner how to
+Effect this, was thus, if my information be right; you ſhall hear that from
+the Evidence, Mr. Whitebread being reſident here in Eng­land, and ſuperiour of
+the Jeſuits, did in February laſt think fit, (being impowred by Au­thority
+from Rome) to give ſummons to the Jeſuits abroade, at St. Omers, and other
+places beyond the Seas, That they ſhould come over here into England, to be
+ready at London, on the 24th. of April, the day laid in the Indictment and
+which is the day after St. Georges day; and their deſign was (as will appear
+by the proof) to contrive how they may take away the life of the King: for, if
+that were once done, they thought, in all other things, their deſign would
+eaſily be accompliſhed, after the ſummons were out, they were ſo Officious for
+the Accompliſhing of this great end, that between 40. and 50. Je­ſuits did
+appear here at London at the time, (for thither they were ſummoned) and there
+the meeting was appointed to be at the White-horſe Taverne in the ſtrand they
+were to meet firſt; but being ſo great a number, that they were likely to be
+taken notice of, if they came all together, it was ſo Ordered, they ſhould
+come but a few at a time, and go off in ſmall numbers; and others ſhould
+ſucceed them, till the whole number had been there. And there were directions
+given, and a Courſe taken, that there ſhould be ſome perſon, to tell them
+whither they ſhould go from thence. After they had met there at ſeveral times
+in the ſame day, they were appointed, and adjourned to be at ſeveral other
+places, ſome of them were appointed to be at Mr. Whitebreads Lodging, and that
+was in Wild­ſtreet, at one Mr. Sanders houſe: Others were appointed, to go
+[...] Lodg­ing, [[Page
+10]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=6) which was in
+Ruſſelſtreet, (and this Mr. Ireland was Treaſurer of the Society): an [...]
+others were to meet at Mr. Fenwicks Chamber in Drury-Lane; and he was at that
+time Procurator and Agent for that Society. Others were appointed to meet at
+Harcourts Lodg­ing; and others at other places.
+
+When they came there, they all agreed to the general deſign of the firſt
+meeting, which was, To kill the King. Then there was a paper; or ſome
+inſtrument to be ſubſcribed. This was done, and the Sacrament was taken for
+the concealment of it. After that, Whitebread, Ireland, Fenwick▪ and others,
+did agree, that Mr. Grove and Mr. Pickering ſhould be im­ployed to Aſſaſſiaate
+the King. One of them (Mr. Grove) being a lay Brother, was to have 15, hundred
+pounds, a great ſum, the other, as a more ſuitable reward for his pains, was
+to have 30. Thouſand Maſſes ſaid for his Soul: Mr. Whitebread, Mr. Ireland,
+and Mr. Fenwick, (were all privy to this deſign, & this was the 24th. of
+April. In Auguſt after) they being appointed to kill the King, but it not
+taking effect, either their Hearts miſgave them▪ or they wanted opportunity)
+there was another meeting at the Savoy, where the Witnes­ſes will tell you,
+[...]our Iriſh perſons were hired for to Kill the King. And this was ordered,
+in caſe the other deſign took not Effect. There was fourſcore pounds ſent down
+to them to Windſor, where they were to have done the fact. After this, other
+perſons were ap­pointed to do the Execution, and they were to take the King at
+his Mornning Walk a [...] New-Market.
+
+Theſe perſons are all diſappointed in their deſign: But you ſhall hear what
+was the Agreement, how it was carried on, and what rewards were given to carry
+it on. We ſhal acquaint you likewiſe, that for the bottom of this deſign (when
+ſo many Jeſuits ſhould come over, when they ſhould have ſo many Conſultations,
+and when they ſhould reſolve to Kill the King) there could be no leſs then the
+altering of Religion, and introduction of Popery here in England. And that
+time, at the firſt meeting, they had Ordered, that Mr. Cary a Jeſuit as their
+Procurator and Agent, ſhould go to Rome, to Act their con­cern there. All
+which things and more, will be made out to you by Witneſses produced. There
+are likewiſe, ſome other Circumſtances that will be material to confirm thoſe
+wit­neſſes. We ſhall produce to you a letter written in February laſt, about
+that time that Mr. Whitebread ſent over his ſummons for the Jeſuits to appear
+here. This letter was written by one Mr. Peters, a Jeſuit now in Cuſtody; and
+tis Written to one Tunſtall a Jeſuit, to give him notice, that he ſhould be in
+London about the 21th. of April., and be ready on th [...] 24th. of April.
+That he knew what the buſineſs was; but he did adviſe him, that he ſhould
+conceal himſelf, leſt the plot by obſervation) ſhould be diſcover'd. We ſhall
+likewiſe produce ſeveral other evidences, to ſtrengthen and confirm the
+Witneſſes: we ſhall firſt call our witneſſes, and enter upon the proof.
+
+Mr, Finch opened the Evidence thus.
+
+Mr. Finch,
+
+May it pleaſe your Lord ſhip, and you Gentlemen of the Jury, before we call
+our witneſſes, I would beg leave once more to remind you, of what hath already
+been o­pen'd unto you, the Quality of the Offenders themſelves and the nature
+of the offence they ſtand indicted of.
+
+For the Offenders, they are moſt of them, Prieſts and Jeſuits; three of them
+at the leaſt, are ſo; the other two, are the accurſed Inſtruments of this
+Deſign: for the offence it ſelf, 'tis high Treaſon.
+
+And though it be High Treaſon by the Statute of 27, Elizabeth, for men of that
+profeſſi­on to come into England, yet theſe men are not Indicted upon that
+Law, nor for that [[Page
+11]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=6) Treaſon: This I
+take notice of to you for the priſoners ſake, that they ſhould not fan­cy to
+themſelves they ſuffered Martyrdom for their Religion, as ſome of them have
+vain­ly imagin'd in their caſe; and for your ſakes too, that as at firſt, it
+was Treaſon, repeated Acts of Treaſon, in theſe men; and thoſe proceeding from
+a principle of Religion too, that juſtly occaſioned the making that Law: ſo
+here you might obſerve a pregnant in­ſtance of it in the priſoners at the Bar,
+That when ever they had an opportunity, as now they thought they had, they
+have never failed to put thoſe principles into pra­ctice.
+
+So now, Gentlemen, as they are not indicted for being Prieſts, I muſt deſire
+you to lay that quite out of the Caſe, and only conſider that they ſtand here
+accuſed for Treaſon; ſuch Treaſon, as, were they Lay-men only, they ought to
+die for it; though I cannot but obſerve, they were the ſooner Traitors for
+being Prieſts.
+
+The Treaſon therefore they ſtand indicted of, is of the higheſt nature: it is
+a Con­ſpiracy to kill the King, and that too with Circumſtances ſo aggravating
+(if any thing can aggravate that Offence which is the higheſt) that nothing
+leſs than the total Subverſion of the Government, and utter Deſtruction of the
+Proteſtant Religion, would ſerve their turns. And really, when you conſider
+the Root from whence this Treaſon ſprings, you will ceaſe wondring that all
+this ſhould be attempted, and rather wonder that it was not done.
+
+Miſchiefs have often miſcarried for want of wickedneſs enough; the Horror of
+Con­ſcience, or elſe, the Malice of the Aggreſſor not being equal to the
+Attempt, has ſome­times prevented the Execution of it. Here is no room for any
+thing of this kind: This Treaſon proceeds from principles of Religion, from a
+ſenſe that it is lawful; nay, that they ought to do theſe things; and every
+neglect here, is lookt on as a piece of Irre­ligion, a want of zeal; for which
+one of the Priſoners did pennance, as in the courſe of our Evidence we ſhall
+prove unto you.
+
+And when we conſider too, that this is carried on, not by the Fury of two or
+three buſie men over zealous in the Cauſe, but by the deliberate, and ſteady
+Councels of the whole Order, and that too under the Obligations of Secreſie as
+high as Chriſtian Religi­on can lay on them; you have great reaſon to wonder
+that it did not ſucceed. And yet after all this they have not been able to
+prevail. Not that we can brag of any hu­man policy that did prevent it; No,
+all that the Wit of man could do, theſe men had done: but 'twas the Providence
+of God, 'twas his Revelation; That Providence that firſt enlightened his
+Church, and has preſerv'd it againſt all oppoſition heretofore, has once more
+diſappointed their Councells, and preſerved the King and this Nation in the
+profeſſion of that true Religion theſe men have vainly attempted to deſtroy.
+
+Gentlemen, I will not open to you the particulars of our Evidence, that I had
+rather ſhould come from the Witneſſes themſelves; I ſhall only in general tell
+you what will be the Courſe of it. We ſhall prove unto you, That there was a
+Summons for a Conſul­tation to be held by theſe men the 24th of April laſt,
+from the Provincial Mr. White­bread; That they had a Caution given them not to
+come too ſoon, nor appear much about the Town, till the Conſultation were
+over, leſt oacaſion ſhould be given to ſuſpect the Deſign: That accordingly a
+Conſultation was held, as they ſay, to ſend Cary, their Procurator to Rome;
+Though we ſhall prove to you, it was for other purpoſes: That they adjourned
+from their general Aſſembly into leſſer Companies, where ſeveral per­ſons did
+attend them to carry Intelligences of their ſeveral Reſolutions: That at theſe
+[[Page 12]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=7) ſeveral
+Conſults, they did reſolve, The King was to be killed; that Pickering and
+Grove ſhould do it; for which the one was to have 30000 Maſſes ſaid for his
+Soul: the other 1500 l. That in proſecution of this Deſign, they made ſeveral
+attempts to execute it, That they lay in wait for the King ſeveral times in
+St. James's Park and other pla­ces; And that once in particular, it had been
+done by Pickering; if it had not pleaſed God to have prevented it by an
+Accident unforeſeen; The Flint of his Piſtol being looſe, he durſt not then
+attempt it, though he had an Opportunity; for which neglect, we ſhall prove
+unto you, he underwent the pennance of 20 or 30 ſtrokes. That when theſe men
+had failed, we ſhall prove to you they hired four Ruffians to murther the King
+at Windſor, and after that at Newmarket. Thus they way-laid him in all his
+priva­cies and retirements, wherever they could think it moſt convenient to
+execute their Deſign.
+
+And this we ſhall prove by two Witneſſes; who, though they ſhould not ſpeak to
+the ſame Conſultations, nor the ſame times, yet they are ſtill two Witneſſes
+in Law: for ſeveral Witneſſes of ſeveral Overt-Acts, are ſo many Witneſſes to
+the Treaſon; becauſe the Treaſon conſiſts in the Intention of the man, in the
+Compaſſing and Imagining the Death of the King. The ſeveral Overt-Acts which
+declare that intention, are but as ſo many Evidences of the Treaſon; we will
+call our Witneſſes, and make out what had been open'd to you.
+
+Cl. of Cr.
+
+Mr. Oates, lay your hand upon the Book. The Evidence you ſhall give for our
+Sovereign Lord the King againſt Thomas White alas Whitebread, William Ireland,
+John Fenwick, Thomas Pickering, and John Grove, the priſoners at the Bar,
+ſhall be the truth, the whole truth, and nothing but the truth, So help you
+God.
+
+Mr. Serj. Baldwin.
+
+Pray Mr. Oates, will you declare to the Court and the Jury, what Deſign there
+was for the killing of His Majeſty, and by whom.
+
+Mr. Oates.
+
+My Lord in the month of December laſt, Mr. Thomas Whitebread did receive a
+Patent from the General of the Jeſuits at Rome to be Provincial of the Order;
+after he had received this Patent, he ſent Orders to one George Conyers a
+Jeſuit at St. Omers to preach upon St. Thomas of Canterburys day; and by
+virtue of this Order, George Conyers did preach againſt Oaths of Allegiance
+and Supremacy, and did in his Doctrine call them Anti-Chriſtian and devilliſh.
+My Lord, in the month of January, this Mr. Whitebread did ſend ſeveral Letters
+to St. Omers, in which Letters there was contained Intimation of his Intent to
+proceed againſt the Kings Perſon to aſſaſſinate Him, which Letters were
+written to Richard Asby. My Lord, in the month of February, there comes an
+Order from him, as Provincial, for ſeveral of the Jeſuits to make their
+appearance at London, to be there at a Conſult to be held the 24th of April,
+Old ſtile.
+
+Lord Ch. Juſt.
+
+Where was Whitebread then.
+
+Mr. Oates.
+
+He was then in London, My Lord, as I ſuppoſe by the dateing of his Let­ters.
+My Lord, from Mr. Whitebread after this Summons, we received a ſecond Summons,
+which came the 5th of April, New ſtile, and upon the Summons there were Nine
+did appear at London, the Rector of Liege, Sir Thomas Preſt [...]n, the Rector
+of Ghent, whoſe name is Marſh, the Rector of Wott [...]n, whoſe name is
+Williams, and to one Sir John Har­per and two or three more from St. Omers,
+and there was a ſpecial Order given us, My Lord, to keep our ſelves cloſe,
+leſt we ſhould be ſuſpected, and ſo our Deſign diſcloſed. My Lord, upon the
+four and twentieth of April Old ſtile we did appear in the Conſult. The
+Conſult was begun at the White horſe-Tavern in the Strand, and there they met
+in [[Page 13]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=7)
+ſeveral Rooms, they came on by degrees, and as the new ones came on, the old
+ones, thoſe that had been there before them, fell off. And there was one John
+Cary appoint­ed to go Procurator for Rome, and he was ſo appointed by the
+ſuffrages of the three Priſoners at the Bar, Whitebread, Ireland and Fenwick.
+It was afterwards adjourned in­to ſeveral Colloquies or little meetings; one
+meeting was at Mrs. Sanders houſe that butts upon Wild-houſe, a ſecond was at
+M. Ireland's, a third was at Mr. Harcourt's, a fourth was at Mr. Grove's, and
+other meeting or meetings there were, but I cannot give a good accompt of
+them. My Lord, after they had thus met, and debated the ſtate of Religion, and
+the life of the King, they drew up this Reſolve; it was drawn up by one Mico,
+who was Secretary to the Society, and Socius or Companion to the Provincial.
+
+L. Ch. Juſt.
+
+When was that done?
+
+Mr. Oates.
+
+That day, my Lord, the Reſolve, my Lord, was this, as near as I can re­member
+the words. It is reſolved, that Thomas Pickering and John Grove ſhall go on in
+their Attempt to aſſaſſinate the King (whether they uſed the word Aſſaſſinate
+I can't re­member, but the meaning was, they ſhould make an Attempt upon his
+perſon,) and that the Reward of the one, that is Grove, ſhould be Fifteen
+hundred pounds, and that Pickerings Reward ſhould be Thirty thouſand Maſſes.
+My Lord, after this Reſolution was ſigned by Whitbread, it was ſigned by
+Fenwick and Ireland, and by all the four Clubs; I ſaw them ſign it, for I
+carried the Inſtrument from one to another.
+
+L. Ch. Juſt.
+
+What was it they ſigned?
+
+Mr. Oates.
+
+The Reſolve of the Conſult.
+
+L. C. Juſt.
+
+What that which was drawn up by Mico?
+
+Mr. Oates.
+
+Yes, my Lord, that which was drawn up by Mico?
+
+Whitebread.
+
+Doth he ſay that he ſaw them ſign it?
+
+Mr. Oates,
+
+Yes▪ I did ſee them ſign it.
+
+Jury.
+
+We deſire he may be asked where he ſaw them ſign it.
+
+Mr. Oates.
+
+Mr. Whitebread ſigned it at that part of the Conſult that was at his Cham­ber;
+Ireland did ſign it at that part of the Conſult that was at his Chamber
+Fenwick; ſigned it at that part of the Conſult that was at his Chamber.
+
+Whitebread.
+
+Were you at all theſe places.
+
+Mr. Oates.
+
+I went with it from place to place, but I mention no more now but only theſe.
+
+Whitebread.
+
+You were not at all theſe places, and ſaw them ſign it, were you?
+
+Mr. Oates.
+
+Yes, I did ſee them ſign it at all thoſe places. My Lord in the month of May,
+Mr. Whitebread came over as Provincial from England to St. Omers, to begin his
+Provincial Viſitation, and with him came Cary and his Companion Mico. Cary
+left St▪ Omers to begin his Journy to Rome; Whitebread, after he had given an
+Accompt of what proceedings the Catholicks of England had made in order to
+diſturb the peace of the Kingdom, what moneys had been gathered, what
+ſuffrages diſperſed, what means have been uſed, what Noblemen had joyned in
+this execrable Plot; he did then (my Lord) order me to come for England.
+
+L. Ch. Juſt.
+
+Whitebread did.
+
+Mr. Oates.
+
+Yes, my Lord Whitebread did; And, my Lord the buſineſs I was to come into
+England for, was to murder one Dr. Tongue a Dr. in Divinity, who had written a
+Book called The Jeſuits Morals; that is to ſay, Tranſlated them out of French
+into Eng­liſh, my Lord I came over into England on the the 23th of June New
+ſtile, I came out of St. Omers, that is the 13th in the ſtile of England, on
+the 24th New ſtile I took the [[Page
+14]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=8) Packet Boat at
+Calice the 25th. New ſtile I met with Mr. Fenwick at Dover. He was come down
+with certain youths to ſend them to St. Omers and had ordered their paſſage.
+
+My Lord, with Mr. Fenwick and ſome other perſons, we came to London in a
+Coach, and ſix miles (as near as I remember it) on this ſide Canterbury, at a
+place called Bolton, our Coach was ſtopt by the ſearchers, and there they did
+examine a Box that was in the Coach, directed for the honourable Richard
+Blundel Eſq this Box when they open­ed it, they found full of Beads,
+Crucifixes, Images, and other ſorts of Trompery, that I cannot give a good
+account of; it's he can give the beſt: Mr. Fenwick went by the name of one
+Thompſon, and did perſonate one Thompſon, as Living near the Fountain▪ Tavern
+at Charing-Croſs; and did order the ſearcher to write to him there, as by the
+name of Thomp­ſon. When the Box was ſeized, they being prohibited Goods, Mr.
+Fenwick did ſay; that if they had ſearcht his Pockets, they had found ſuch
+Letters about him, as might have coſt him his life; but his Letters did eſcape
+ſearching. We came that night to Sittenburgh, and lay there on Sunday the
+26th. new ſtile, as near as I remember; and I think we ſtaid there till the
+afternoon, We took Coach in the afternoon and came as far as Dartford. On
+Mun­day morning we came into London; and (my Lord) when we came into London;
+and had continued there ſome dayes. (I now return to Mr. Whitebread,) There
+came one Aſhby to town, he had been ſometime Rector of St. Omers, and was come
+to England ſick of the Gout, and was to go to the Ba [...]h to be Cured. And
+he brought inſtructions with him from Whitebread, and the inſtructions
+contained in them theſe particulars: inſtructi­ons or memorials▪ or what
+[...]ſe they called them. Firſt, that Ten Thouſand pounds ſhould be propoſed
+to Sir George Wakeman. for the Killing of the King. Secondly, that care ſhould
+be taken for the murder of the B [...]ſhop of Hereford. Thirdly, that care
+ſhould be taken for the murder  [...]f Doctor  [...] ſ [...]t. Fourthly, that
+though this propoſal was made to Sir George Wakeman  [...] Pickering and Grove
+ſhould go on ſtill in their Attempts (my Lord) afterward  [...] taken and
+Copied out, and diſperſt to the ſeveral con­ſpirators in the King [...]
+[...]mes I cannot call to mind, But Coleman made ſeveral Copies and diſpe
+[...]ſt them  [...] [...]hen the 10000 l▪ was propoſed to Sir George VVakma
+[...] but it was refuſed.
+
+L. C. J.
+
+What, it was too Li [...]
+
+Mr. Oates,
+
+Yes, (my Lord) it was too Little. Then Writebread he Writ from St. Omers▪ that
+in caſe 10000 l. would not do, 15 ſhould be propoſed▪ and after that he had
+had that propoſed, he accepted of that▪
+
+L. C J.
+
+Were you by when he accepted it.
+
+Mr. Oates,
+
+No (my Lord,) I was not: But it appeared upon their entry Books, and it
+appear'd by a Letter from this Gentleman Mr. VVhitebread, wherein he did ſhew▪
+great deal of Joy for Sir George VVakemans accepting of the 15 thouſand
+Pounds.
+
+(My Lord,) After this was agreed upon, that Sir George Wakeman ſhould have
+15000 and 5000▪ of it was paid by Coleman or his Order. Thus the ſtate of
+affairs ſtood till Au­guſt. Then one Fogarthey who is dead, came to a conſult
+of the Jeſuits with the Benedictus▪ Now at this conſult the Priſoner at the
+Bar Fenwick was, he was one, and Harcourt was a­nother▪ and in this conſult
+there were four Ruffians recommended to them,
+
+L. C. J.
+
+By whom?
+
+Mr. Oates,
+
+By Fogarthey, they were recommended, but accepted of by theſe conſulto [...]
+and conſented to by Fenwick, they were ſent away▪ and the next day after 4
+ſcore pound was ſent them, the moſt part of it was Gold, and Coleman was there
+and gave the meſ­ſenger [[Page
+15]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=8) a Guiny to
+expedite his Errand. (my Lord) In the month of Auguſt there came o­ther
+Letters from Whitebread, wherein he did give an account of what care he had
+taken of the Scotch Buſineſs, and he ordered one Moor and one Sanders alias
+Browne, to go down to Scotland, and he did order the Rector of London, then
+VVilliam Harcourt, to ſend them; and he did ſo ſend them the 6th. of Auguſt in
+the name of the Provincial.
+
+Whitebread,
+
+From whence I pray?
+
+Mr. Oates
+
+From London, and they went to proſecute and carry on the deſign which Fenwick
+and Ireland had plotted, of a Rebellion amongſt the diſaffected Scots againſt
+the Governors appointed them by the King, and they ſent down Miniſters to
+Preach under the notion of Presbyterian Miniſters, in order to get the
+diſaffected Scots to riſe, by inſi­nuating the ſad condition they were likely
+to be in, by reaſon of Epiſcopal Tyranny, (as they termed it) And that they
+were reſolved to diſpoſe of the King, and they did intend to diſpoſe of the
+Duke too; in caſe he did not appear Vigorous in promoting the Catholick
+Religion; (I ſpeak their own words.)
+
+L. C. J.
+
+Have you done with your Evidence? What do you know of the Priſoners at the
+Bar? name them all.
+
+Mr. Oates,
+
+There is Whitebread, Ireland, Fenwick, Pickering and Grove.
+
+Lord Ch. Juſt.
+
+Are you ſure Pickering and Grove accepted of the Terms?
+
+Mr. Oates.
+
+Yes, (my Lord) I was there.
+
+L. C. Juſt.
+
+Where was it?
+
+Mr. Oates
+
+At Mr. Whitebreads Lodgings, at Mrs. Sanders houſe. As for Grove, indeed he
+did attend at that time upon Fenwick at his Chamber; but after the conſult was
+over he came to Whitebread's Lodgings, and did take the Sacrament and the
+Oaths of ſecrecy upon it, and did accept it, and agree to it.
+
+L. C. Juſt.
+
+Were you there when he took the Sacrament?
+
+Mr. Oates,
+
+Yes, (my Lord) I was.
+
+L. C. Juſt.
+
+Who gave you the Sacrament?
+
+Mr. Oates,
+
+It was a Jeſuit, that goes by the name of one Barton.
+
+Whitebread,
+
+(my Lord before I forget it, I deſire to ſay this. He ſays that at ſuch and
+ſuch conſults in April and May, he was preſent and carryed the Reſolutions
+from one to an other. There are above a hundred and a hundred, that can
+teſtifie he was all that while at St. Omers. Pray tell me when I received the
+Sacrament?
+
+Mr. Oates?
+
+At the ſame time.
+
+Whitebread,
+
+What day was that?
+
+Mr. Oates.
+
+The 24 h. of April.
+
+Whitebread,
+
+Was I there?
+
+Mr. Oates,
+
+you were there.
+
+Whitebread,
+
+I take God to witneſs I was not.
+
+L. C. Juſt.
+
+Mr. Whitebread you ſhall have time to make your Anſwer. But Mr. Oates pray Mr.
+Oates, when was Mr. Cary diſpatched away to Rome, and what was his Errand?
+
+Mr. Oates,
+
+(my Lord) I'le tell you, he was approved of to go to Rome the 24 [...]h. of
+April; in the Month of May or June, Whitebread brings Cary over to St. Omers,
+and one Mico his Secretary, or companion with him.
+
+L. C. J.
+
+When was it?
+
+Mr. Oates,
+
+In the month of May or June, he was brought over by the Provincial: Then went
+away on his Journy, and at Paris received 2 [...]. l. to bear his charges.
+
+Mr. Finch,
+
+What do you know of any attempts to Kill the King at St James Park?
+
+Mr. Oates
+
+I ſaw Pickering and Grove ſeveral times Walking in the Park together with
+[[Page 16]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=9) their
+Screw'd Piſtols, which were longer then Ordinary Piſtols, and ſhorter then
+ſome Carbines. They had Silver Bullets to ſhoot with, and Grove would have had
+the Bullets to be champ't for fear that if he ſhould ſhoot, if the Bullets
+were round, the wound that might be given, might be cured,
+
+L. C. J.
+
+Did Grove intend to champ them?
+
+Mr. Oates
+
+He did ſay ſo.
+
+L. C, J.
+
+Did he ſhew you the Bullets?
+
+Mr. Oates.
+
+I did ſee them.
+
+Grove
+
+When was this.
+
+Mr, Oates
+
+I ſaw the Bullets in the month of May and in the month of June.
+
+Whitebread,
+
+Pray where did you ſee them.
+
+Mr. Oates.
+
+in Groves Poſſeſſion.
+
+Whitebread,
+
+At what times?
+
+Mr: Oates.
+
+in the month of May▪
+
+Whitebread,
+
+Then was he Actually himſelf at St. Omers? Was it in May or June?
+
+Mr. Oates,
+
+The latter end of May or June. I ſaw them then twice if not thrice, But,
+Pickering's I ſaw in Auguſt.
+
+Sir Cr. Levings,
+
+do you know any thing of Pickerings doing Penance, and for what?
+
+Mr. Oates,
+
+Yes. (my Lord) In the Month of March laſt, (for theſe Perſons have fol­lowed
+the King ſeveral years) but he at that time had not look't to the Flint of his
+Piſtol but it was Looſe, and he durſt not venture to give fire. He had a fair
+opportunity, as Whitehread ſaid; and becauſe he miſt it through his own
+negligence, he under went Pen­ance and had 20 or 30 ſtroaks of diſcipline, and
+Grove was chidden for his careleſsneſs.
+
+L. C. J.
+
+That was in March laſt?
+
+Mr. Oates,
+
+Yes my Lord.
+
+L. C. J.
+
+How do you know that.
+
+Mr, Oates,
+
+By Letters that I have ſeen from Mr. Whitebread, theſe I ſaw and Read, and I
+know Whitebread's hand.
+
+Mr. Serj. Baldwyn,
+
+What do you know of the Ruffains that went down to Windſor▪ what ſucceſs had
+they?
+
+Mr. Oates,
+
+I can give no Account of that, becauſe in the beginning of September this
+Gentleman that had been in England ſome time before, was come to London, and
+the buſineſs had taken Air, and one Beddingfield had written to him, that the
+thing was diſ­covered, and that none but ſuch a one could do it, naming me by
+a name that he knew▪ I went by▪
+
+Whitebread.
+
+When was that Sir
+
+Mr. Oats.
+
+In the month of September laſt, I came to the Provincial's chamber, the 3th.
+of September, when I came I could not ſpeak with him, for he was at ſupper;
+but when he had ſurp'd I was admitted in, and there he ſhewed me the letter
+that he had received from Beddingfield.
+
+Whitebread,
+
+Where did you ſee it.
+
+Mr. Oats.
+
+You read it to me when you chide me, and beat me, and abuſed me.
+
+L. C. J.
+
+What did he chide you for?
+
+Mr Oates.
+
+He did charge me with very high language of being with the King, & with a
+miniſter, and diſcovering the matter. I was ſo unfortunate that the Gentleman
+who was with the King did wear the ſame colour'd cloathes that I did then
+wear: And he having given an Account that the party wore ſuch cloathes, the
+ſuſpicion was laid upon me: Now my Lord, I had not then been with the King,
+but another Gentleman had been with him from me with the draught of ſome
+papers concerning this Buſineſs, which I had [[Page
+17]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=9) drawn up, and I
+was ready to appear when I ſhould  [...]e called to juſtifie them, only I did
+not think fit to appear immediately; And, my Lord, this Beddingfield he had
+gotten into it, that it was diſcovered, and writ the Provincial word, he
+thought it was by me, When he had received this letter he asked me with what
+Face I could look upon him ſince I had betrayed them: ſo my Lord, I did
+profeſs a great deal of innocency, becauſe  [...] had not then been with the
+King; but he gave me very ill language, and abuſed me, and I was afraid of a
+worſe miſchief from them; for I could not but conclude, that if they dealt ſo
+cruelly with thoſe that only writ againſt them, I could ſcarce eſcape, of whom
+they had that Jealouſie that I had betrayed them; And my Lord, though they
+could not prove that I had diſcovered it, yet upon the bare ſuſpition I was
+beaten, and affronted, and re­viled, and commanded to go beyond Sea again,
+nay, my Lord, I had my lodging aſaul­ted to have murthered me, if they could.
+
+Whitebread.
+
+By whom?
+
+Mr. Oats.
+
+By Mr. Whitebread, and ſome of them.
+
+Whitebread.
+
+Who beat you?
+
+Mr. Oates.
+
+Mr. Whitebread did.
+
+Mr. Serj. Baldwyn.
+
+Was it Pickering or Grove that had the Flint of his Piſtol looſe?
+
+Mr. Oates,
+
+Pickering.
+
+Pickering.
+
+My Lord, I never ſhot off a piſtol in all my life.
+
+L. C. J.
+
+What ſay you to the fourſcore pounds?
+
+Mr. Oates,
+
+My Lord, I will ſpeak to that, that was given to the four Ruffians that were
+to Kill the King at VVindſor; Now, my Lord that money I ſaw.
+
+L. C. J.
+
+Where did you ſee it?
+
+Mr. Oates.
+
+at Harcourts Chamber.
+
+L. C. J.
+
+Where is that?
+
+Mr. Oates,
+
+In Dukeſtreet, near the Arch▪
+
+L. C. J.
+
+Who was it given by?
+
+Mr, Oates.
+
+VVilliam Harcourt.
+
+L. C. J.
+
+did you ſee the four fellows?
+
+Mr. Oates,
+
+No (my Lord) I never did, nor never knew their names.
+
+L. C. J
+
+Who was the money given to?
+
+Mr. Oates.
+
+A meſſenger that was to carry it down to them.
+
+L. C. J.
+
+VVho was that meſſenger?
+
+Mr. Oates,
+
+One of theirs that I do not know, and I durſt not be too inquiſitive, (my
+Lord) for fear of being ſuſpected.
+
+L. C. J.
+
+VVho was by when the money was paid?
+
+Mr. Oates,
+
+Coleman that is executed; and my Lord, there was this Mr. Fenwick by, that is
+the Priſoner at the Bar▪
+
+Fenwick
+
+VVhen was this?
+
+Mr. Oates,
+
+In the month of Auguſt.
+
+Fenwick,
+
+VVhere?
+
+Mr. Oates,
+
+At Harcourt's chamber.
+
+Fenwick.
+
+I never ſaw you there in all my  [...]e: Are you ſure I was by, when the money
+was there?
+
+M. Oates,
+
+Yes, you were.
+
+L. C. J.
+
+Mr. Fenwick You ſhall have your time by and by to Ask him any queſtion: Mr.
+Oates let me ask you once again; when there was the appointment made for Grove
+and Pickering to Kill the King, who ſ [...]gn'd it?
+
+Mr. Oates,
+
+At leaſt forty ſigned it.
+
+L. C. J.
+
+Did the other three ſign it?
+
+Mr. Oates
+
+Yes, my Lord all of them.
+
+L. C. J.
+
+Name them.
+
+Mr. Oates,
+
+There was VVhitebread, Fenwick, and Ireland.
+
+L. C. J.
+
+And you ſay you went from place to place and ſaw it ſigned.
+
+Mr. Oates,
+
+Yes my Lord, I did.
+
+L. C. J.
+
+Were you attendant upon them?
+
+Mr Oates,
+
+My Lord I  [...]ver was ſince the year 1666.
+
+L. C. J.
+
+At whoſe Lodging did you uſe to attend upon the Conſultation.
+
+M. Oates,
+
+[[Page 18]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=10)
+
+At the Provincials chamber, Mr. VVhitebread.
+
+L. C. J.
+
+Where was it firſt ſigned?
+
+Mr. Oates,
+
+at the Provincials chamber.
+
+Sir Cr. Levings.
+
+Who carried it from Lodging to Lodging?
+
+Mr▪ Oates,
+
+I did.
+
+L. C. J.
+
+When was it?
+
+Mr. Oates,
+
+The 24th of April.
+
+Mr. J. Bertue.
+
+You ſay you carried the reſult from place to place, pray tell us wh [...] that
+reſult was.
+
+Mr. Oates,
+
+They knew what it was, for they read it before they ſigned it.
+
+Mr. J. Atkins,
+
+But tell us the contents of it.
+
+Mr. Oates.
+
+The contents of that Reſolve was this, (Ile tell you the ſubſtance, though
+[...] cannot tell you exactly the words) that Pickering and Grove ſhould go on
+in their attemp [...] to Aſſaſſinate the Perſon of the King, as near as I can
+remember it was ſo, that the form [...] ſhould have 30000 Maſſes, and the
+Latter 1500 pounds, and the whole conſult did con­ſent to it, and ſigned the
+agreement that was made with them, and did reſolve up [...] the Kings death
+all in one reſolve.
+
+L. C. J.
+
+Where was this agreed upon? at the White-horſe Tavern?
+
+Mr. Oates▪
+
+No my Lord, after they had agreed at the VVhite▪Horſe Tavern that Mr. C [...]
+ſhould go procurator to Rome, and ſome other ſmall particulars, which I cannot
+now  [...] member, they did adjourn from the VVhite-Horſe-Tavern, and met at
+ſeveral Chamber ſome at one place, and ſome at another.
+
+L. C. J.
+
+But you ſay Mico did draw up the reſolution, where was that?
+
+M. Oates,
+
+At Mr. VVhitebreads chamber, for he was Socius and Secretary to the Provicial.
+
+L. C. J.
+
+Were Ireland and Fenwick preſent when Mico drew it up?
+
+Mr. Oates,
+
+No my Lord, but they were at their own chambers after it was drawn  [...]
+there, and ſigned by Mr. VVhitebread, and thoſe of the conſult in his chamber,
+it was caried to the ſeveral conſults.
+
+L. C. J.
+
+What all the ſame day▪
+
+Mr. Oates,
+
+Yes▪ my Lord.
+
+L. C. J.
+
+And you went along with it.
+
+Mr Oates,
+
+Yes my Lord I d [...]
+
+Mr Juſt, Bertue.
+
+I only ask you were all the five Priſoners privy to it, or do you diſ [...]
+guiſh of any of them, and which?
+
+Mr. Oates.
+
+They were all privy to it.
+
+Whitebread.
+
+My Lord, we can prov [...]
+
+L. C. J.
+
+You ſhall have time ſufficient to make what defenee you can, you ſhall be ſ
+[...] to have a fair tryal, and be ſtopt of nothing that you will think fit to
+ſay for your ſel [...] Mr. Oates. were Pickering and Grove preſent?
+
+Mr. Oates,
+
+Yes my Lord, Grove at Fenwicks Chamber, and Pickering at the Provinc [...]
+chamber.
+
+L. C. J.
+
+But they were not required to ſign this, were they?
+
+Mr. Oates,
+
+after that the whole conſult had ſigned it, and Maſs was preparing to be
+[...] for it; before Maſs they did ſign and accept of it.
+
+L. C. J.
+
+Where did they two do it?
+
+Mr. Oates.
+
+At the Provincials chamber.
+
+L. C. J.
+
+What day was it.
+
+Mr.
+
+That day, for they met all together at the Provincials chamber to receive the
+[...] crament, and when M [...]ſs was going to be ſaid, one ſaid it was too
+late, for it was after  [...] a  [...] but Mr. Whitebread ſaid it was not
+after noon  [...]i [...] we had▪ din'd; and you k [...] [...] that M [...]ſſ
+[...]s have been ſaid at one or two of the clock in the af [...]ern [...]
+
+Mr. Juſt. Atkins.
+
+[[Page 19]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=10)
+
+How many perſons did meet at that Conſult?
+
+Mr. Oates.
+
+My Lord, there were about forty or fifty, and after they had adjourned into
+ſeveral leſſer Companies, they met altogether at Mr. Whitebreads Chamber.
+
+L. C. J.
+
+Where was that, and when?
+
+Mr. Oates.
+
+That day, at Wild-houſe.
+
+L. C. J.
+
+Where was it that they gave the Sacrament?
+
+Mr. Oates.
+
+At a little Chappel at Wild-houſe, Mrs. Sander's.
+
+L. C. J.
+
+Did they accept it before they took the Sacrament?
+
+Mr. Oates▪
+
+Yes, Pickering and Grove did ſign it before they took the Sacrament?
+
+Mr. Juſt. Atkins.
+
+You tell us of an Oath of Secreſie that was taken, what was that Oath?
+
+Mr. Oates.
+
+I cannot give an account of the form of the Oath, but it was an Obliga­
+[...]ion of Secreſie.
+
+Mr. Juſt. Atkins.
+
+Did you ſee the Oath adminiſtred?
+
+Mr. Oates.
+
+Yes, my Lord, I did.
+
+L. C. J.
+
+Who adminiſtred it?
+
+Mr. Oates.
+
+Mr. Whitebread, he did give it unto me, and to all the reſt that were there,
+and Mico held the Book, it was a Maſs-book, but they were words of his own
+invention I believe they were not written down.
+
+L. C. J.
+
+Can't you tell what they were?
+
+Mr. Oates.
+
+No, my Lord, I cannot tell, becauſe I did not ſee them written down.
+
+L. C. J.
+
+If you will ask this Gentleman any thing more, you may.
+
+Whitebread.
+
+My Lord, I am in a very weak and doubtful condition as to my health, and
+therefore I ſhould be very loth to ſpeak any thing but what is true: We are to
+prove a Negative, and I know 'tis much harder to prove a Negative than to
+aſſert an Affirmative; 'tis not a very hard thing for a man to ſwear any thing
+if he will venture his Soul for it; but truly, I may boldly ſay, in the ſight
+of Almighty God, before whom I am to appear, there have not been three true
+words ſpoken by this Witneſs.
+
+L. C. J.
+
+Do you hear, if you could but ſatisfie, us, that you have no Diſpenſation to
+call God to witneſs a Lye—
+
+Whitebread,
+
+My Lord, I do affirm it with all the Proteſtations imaginable.
+
+L. C. J.
+
+But if you have a Religion that can give a Diſpenſation for Oaths,
+Sacra­ments, Proteſtations, and Falſhoods that are in the World, how can you
+expect we ſhould believe you?
+
+Whitebread,
+
+I know no ſuch thing.
+
+L. C. Juſt▪
+
+We ſhall ſee that preſently, before we have done.
+
+Mr. Oates,
+
+I have one thing more to ſay, my Lord, that comes into my mind. This
+Whitebread received power from the See of Rome to grant out Commiſſions to
+Officers military. And, my Lord, here are the Seals of the Office in Court,
+which he hath ſeal­ed ſome hundreds of Commiſſions with, which they call
+Patents.
+
+L. C. J.
+
+What were thoſe Commiſſions for? for an Army?
+
+Mr. Oates.
+
+Yes, my Lord, for an Army.
+
+Whitebread.
+
+When were thoſe Commiſſions ſigned?
+
+Mr. Oates.
+
+My Lord, ſeveral of them were ſigned in the former Provincials time.
+
+L. C. J.
+
+What, I warrant you, you are not Provincial of the Jeſuits, are you?
+
+Whitebread,
+
+I cannot deny that, my Lord.
+
+L. C. J.
+
+Then there are more than three words he hath ſpoken are true.
+
+Mr. Juſt. Atkins.
+
+[[Page 20]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=11)
+
+I believe, Mr. Oates, that that Army was intended for ſomething, pray what was
+it for?
+
+Mr. Oates.
+
+My Lord, they were to riſe upon the death of the King, and let the French King
+in upon us, and they had made it their buſineſs to prepare Ireland and
+Scotland for the receiving of a foreign Invaſion.
+
+L. C. Juſt.
+
+Who were theſe Commiſſions ſealed by?
+
+Mr. Oates.
+
+My Lord, the Commiſſions of the Great Officers were ſealed with the Ge­nerals
+Seal.
+
+L. C. Juſt.
+
+Who was that?
+
+M Oats,
+
+His Name is Johannes Paulus de Oliva: His Seal ſealed the Commiſſions for the
+Generals, Major-Generals, and great Perſons; but thoſe Seals that ſealed the
+ſeve­ral Commiſſions to ſeveral inferior Officers, were in the Cuſtody of the
+Provincial.
+
+L. Ch. Juſt.
+
+Can you name any one perſon that he hath ſealed a Commiſſion to?
+
+Mr. Oates.
+
+I can name one: To Sir John Gage, which Commiſſion I delivered my ſelf.
+
+L. Ch. Juſt.
+
+What, of Suſſex?
+
+Mr. Oates.
+
+Yes, of Suſſex.
+
+Mr. Juſtice Atkins,
+
+Who did you receive the Commiſſion from?
+
+Mr. Oates.
+
+My Lord, when he went over, he left a great many blank Patents to be filled
+up, and he left one ready ſealed for a Commiſſion to Sir John Gage. This was
+delivered in­to my hands when he was abſent, but it was ſigned by him, and
+delivered to me while he was in his Viſitation beyond the Sea [...], but I
+dare ſwear it was his hand, as I ſhall anſwer it before God and the King.
+
+Mr. Juſt. Atkins.
+
+Who had it you from?
+
+Mr. Oates.
+
+From Mr. Aſhby, but by Whitebreads appointment in his inſtructions which I ſaw
+and read.
+
+L. Ch. Juſt.
+
+What was the Commiſſion for?
+
+Mr. Oates.
+
+To be an Officer in the Army.
+
+L. Ch: Juſt.
+
+Did you ſee the Inſtructions left for Aſhby?
+
+Mr. Oates.
+
+I did ſee them and read them, and I did then as I always did, give it as my
+judgment, that it was more ſafe to poyſon the King than to piſtol or ſtab him.
+
+Mr. Juſt. Bertue▪
+
+Was the Commiſſion which you delivered to Sir John Gage from Aſhby or from
+Whitebread?
+
+Mr. Oates.
+
+I had it from Aſhby, but Whitebread who was then beyond Sea, had ſigned this
+Commiſſion before he went. My Lord, I have ſomething more yet to ſay, and that
+is as to Mr. Grove, That he did go about with one Smith to gather Peter pence,
+which was either to carry on the Deſign, or to ſend them to Rome. I ſaw the
+book wherein it was entred, and I heard him ſay that he had been gathering of
+it.
+
+Grove,
+
+Where was this?
+
+Mr. Oates.
+
+In Cock-pit-Alley, where you know I lodged.
+
+Grove,
+
+Did I ever ſee you at your Lodging.
+
+Mr. Oates.
+
+You ſaw me at my own door.
+
+L. Ch. Juſt.
+
+Why, don't you know Mr. Oates?
+
+Grove.
+
+My Lord, I have ſeen him before.
+
+Lord. Ch. Juſt.
+
+Why this 'tis, ask a Papiſt a queſtion, and ſhall have a Jeſuitical an­wer.
+
+Mr. Oates.
+
+I will convince the Court that he does know me, by ſome circumſtances. My
+Lord, in the month of December laſt by the Provincials order—
+
+L. Ch. Juſt.
+
+[[Page 21]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=11)
+
+I would ask him firſt whether he does know you or no. Do you know Mr. Oates?
+
+Grove,
+
+I have ſeen him before.
+
+L. Chief Juſt.
+
+Have you been often in his company?
+
+Grove,
+
+No my Lord.
+
+Lord Chief Juſt.
+
+What do you call often? Have you been in his company ſeven or eight times?
+(for we muſt deal ſubtilly with ſuch as you are,) have you been in his company
+ten times?
+
+Grove,
+
+No.
+
+Lord Chief Juſt.
+
+What ſay you to three times?
+
+Grove,
+
+Yes, I believe I have ſeen him twice or thrice.
+
+Lord Chief Juſt.
+
+Where? Did you never ſee him at Whitebreads?
+
+Grove,
+
+As, I hope to be ſaved, and before the eternal God, I did never.
+
+Mr. Oates.
+
+I will convince him and the Court, that he does know me, and is well
+acquainted with me: In the month of December laſt I went to St. Omers, I went
+firſt to the then Provincials houſe to take my leave of him, and there I met
+with Mr. Grove, and he appointed to come to my Lodging the next morning, near
+the Red Lyon in Dru­ry-Lane, at one Grigſons houſe, and he was ſo well
+acquainted with me then, that he had lent me eight ſhillings to hire the
+Coach.
+
+Lord Chief Juſt.
+
+Did you lend him eight ſhillings?
+
+Grove.
+
+I did, my Lord, I do not deny it.
+
+Lord Ch. Juſt.
+
+How came you to do it, when it ſeems, if you ſay true, he was a ſtran­ger to
+you?
+
+Grove.
+
+I thought I ſhould have it again.
+
+Lord Chief Juſt.
+
+What, of him?
+
+Grove,
+
+Yes.
+
+Lord Chief Juſt.
+
+Did he deſire you to lend him the eight ſhillings?
+
+Grove,
+
+Yes, he did my Lord.
+
+Mr. Oates,
+
+Then there is one time that he confeſſes he ſaw me.
+
+Lord Chief Juſt.
+
+Did you not know him before?
+
+Grove,
+
+I had no acquaintance with him, I had ſeen him.
+
+Lord Ch. Juſt.
+
+How came you then to lend money to one you had no more acquaintance with?
+
+Grove,
+
+I knew I ſhould go along with him to the Coach, and then I thought I ſhould
+have it again.
+
+Lord Chief Juſt.
+
+Mr. Oates, were you going beyond Sea then?
+
+Mr. Oates,
+
+Yes, my Lord, I was:
+
+Lord Chief Juſt.
+
+Mr, Oates, did you pay him that money?
+
+Mr. Oates,
+
+No, my Lord I did not.
+
+Lord Chief Juſt.
+
+Did you ask him ſo the money, and had you it?
+
+Grove,
+
+He did not pay it me.
+
+Lord Chief Juſt.
+
+How then were you ſure you ſhould have it?
+
+Grove,
+
+He did order me to go to ſuch a one for it?
+
+Lord Chief Juſt.
+
+Who was that?
+
+Grove,
+
+Mr. Fenwick, I think.
+
+Lord Ch. Juſt.
+
+Then Mr. O [...]tes was known to you all, he was no ſuch ſtranger to you as
+you would make  [...] believe.
+
+Mr. Oates.
+
+Thus he confeſſes three times he had ſeen me, once before he lent me the
+money, another time when he lent it and the third time the next day. And I
+will put him in mind of another time when he and I were in company, where o
+[...]e brought in a [[Page
+22]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=12) Note of what
+was done in the Houſe of Commons turned into Burleſque, for they uſed to turn
+all that was done at the Council, or at the Parliament, or at the Courts in
+Weſt­minſter-Hall into Burleſque, and then tranſlated it in French, and ſent
+it to the French King, for him to laugh at too. But that by the way; twice
+more he drank in my com­pany at the Red P [...]ſts in Wild-ſtreet, and once
+more when he owned to me that he fired Southwark.
+
+Lord Chief Juſt.
+
+Now by the Oath that you have taken, did he own to you that he had fired
+Southwark?
+
+Mr. Oates.
+
+My Lord, he did tell me that he with three Iriſhmen did fire Southwark, and
+that they had a Thouſand pounds given them for it, whereof he had four
+thouſand pounds, and the other two hundred pounds a piece.
+
+Lord Chief Juſt.
+
+Now for Mr. Fenwick, do you know Mr▪ Oats.
+
+Fenwick,
+
+Yes, my Lord, I do.
+
+Lord Chief Juſt.
+
+Were you well acquainted with him? ſpeak plain.
+
+Mr. Oates,
+
+He was my Father Confeſſor, my Lord,
+
+Lord Chief Juſt.
+
+Was he ſo? were you his Gonfeſſor.
+
+Fenwick,
+
+I believe he never made any Confeſſion in his life.
+
+L. Ch. Juſt.
+
+Yes, he hath made a very good one now. Were you of his Acquaintance Mr.
+Fenwick? ſpeak home, and don't mince the matter.
+
+Fenwick,
+
+My Lord, I have ſeen him.
+
+Lord Ch. J.
+
+I wonder what you are made of: Ask a Proteſtant, an Engliſh one, a plai [...]
+Queſtion, and he will ſcorn to come dallying with an evaſive anſwer.
+
+Fenw.
+
+My Lord, I have been ſeveral times in his company.
+
+Lord Chief Juſt.
+
+Did you pay eight ſhillings for him?
+
+Fenwick,
+
+Yes, I believe I did.
+
+L. C. J.
+
+How came you to do it?
+
+Fenw.
+
+He was going to St. Omers.
+
+L. C. J.
+
+Why, were you Treaſurer for the Society?
+
+Fenw.
+
+No, my Lord, I was not.
+
+L. C. J.
+
+You never had your eight ſhillings again, had you?
+
+Fenw.
+
+It is upon my Book, my Lord, if I ever had it.
+
+L. C. J.
+
+Did Mr. Oates ever pay it again?
+
+Fenw.
+
+No, ſure he was never ſo hone [...]
+
+L. C. J.
+
+Who had you it of then?
+
+Fenw.
+
+I am certain I had it not from him; he did not pay it.
+
+L. C. J.
+
+How can you tell you had it then?
+
+Fenw.
+
+I do ſuppoſe I had it again, but not of Mr. Oates.
+
+L. C. J.
+
+Had you it of Ireland?
+
+Fenw.
+
+I do not know who I had it of, my Lord, nor certainly whether I had it.
+
+L. C. J.
+
+Why did you not ask Mr. Oates for it?
+
+Fenw.
+
+He was not able to pay [...]
+
+L. C. J.
+
+Why did you then lay it down for him?
+
+Fenw.
+
+Becauſe I was a F [...]
+
+L. C. J.
+
+That muſt be the concluſion always: when you can't evade being pro [...]
+Knaves by anſwering directly, you will rather ſuffer your ſelves to be called
+Foots.
+
+Fenw.
+
+My Lord, I have done more for him than that comes to; for he came once [...]
+me in a miſerable poor condition, and ſaid, I muſt turn again and betake my
+ſelf to  [...] Miniſt [...]r [...] to get B [...]ead, for I have eaten nothing
+theſe two days: And I then gave h [...] [...]i [...]e ſhi [...]lings to
+relieve his preſent neceſſity.
+
+Mr. Oates.
+
+My Lord, I will anſwer to that, I was never in any ſuch ſtreights, I  [...]
+[[Page 23]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=12) ordered
+by the Provincial to be taken care of by the Procurator.
+
+Fenw.
+
+You brought no ſuch order to me.
+
+Mr. Oates.
+
+Yes, Mr. Fenwick, you know there was ſuch an Order, and I never re­ceived ſo
+little in my life as five ſhillings from you: I have received 20 and 30 and 40
+ſhillings at a time, but never ſo little as five.
+
+L. C. J.
+
+You are more charitable than you thought for.
+
+Fenw.
+
+He told me he had not eaten a bit in two days.
+
+Mr. Oates,
+
+I have indeed gone a whole day without eating, when I have been hurried about
+your Traſh; but I aſſure you, my Lord, I never wanted for any thing among
+them.
+
+L. C. Juſt.
+
+Perhaps it was Faſting-day.
+
+L. Ch. Baron.
+
+My Lord, their Faſting-days are none of the worſt.
+
+Mr. Oates.
+
+No, we commonly eat beſt on thoſe days.
+
+L. C. J.
+
+Have you any thing to ask him any of you?
+
+Whitebread,
+
+My Lord, will you be pleaſed to give me leave to ſpeak for my ſelf.
+
+Mr. Juſt. Atkins,
+
+It is not your time yet to make your full Defence, but if you will ask him any
+Queſtions you may.
+
+Whitebread.
+
+I crave your mercy, my Lord.
+
+L. C. J.
+
+Will you ask him any Queſtions?
+
+Fenw.
+
+Did not you ſay that you were at my Chamber the 24th of April with the
+Re­ſolve of the Conſult?
+
+Mr. Oates.
+
+That Reſolve I did then carry to your Chamber.
+
+Fenw.
+
+Then was he himſelf at St. Omers.
+
+L. C. J.
+
+The difference of old flile and new ſtile may perhaps make ſome alteration in
+the circumſtance.
+
+Whitebread.
+
+But, my Lord, he hath ſworn he was preſent at ſeveral Conſultations in April
+and May, but from November till June he was conſtantly at St. Omers.
+
+L C. J.
+
+If you can make it out that he was at St, Omers all April and May, then what
+he hath ſaid cannot be true.
+
+Ireland.
+
+He himſelf hath confeſſed that he was at St. Omers:
+
+L. C. J.
+
+If you mean by Confeſſion, what ſtands upon the Evidence he hath given, I'le
+remember you what that was. He ſays he came to St. Omers.
+
+Mr. Oates.
+
+Will your Lordſhip give me leave to ſatisfie the Court: In the month of
+December or November, I went to St. Omers; I remained there all January,
+February, March, and ſome part of April: Then I came over with the Fathers to
+the Conſult that was ap­pointed the 24th of that month.
+
+Fenw.
+
+Did you go back again?
+
+Mr. Oates.
+
+Yes.
+
+Fenw.
+
+When was that?
+
+Mr. Oates.
+
+In the month of May, preſently after the Conſult was over.
+
+Fenw.
+
+And we can prove by abundance of Witneſſes that he went not from St. Omers all
+that month.
+
+L. C. J.
+
+You ſhall have what time you will to prove what you can; and if you can prove
+what you ſay, you were beſt fix it upon him; for he ſaith he was here at the
+Con­ſults in April and May; if you can proove otherwiſe pray do.
+
+Fenw.
+
+We can bring an Authentick Writing (if there be any ſuch) from St Omers un­der
+the Seal of the Colledge, and teſtified by all the Colledge, that he was there
+all the while.
+
+L. C. J.
+
+[[Page 24]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=13)
+
+Mr. Fenwick that will not do; for the firſt, if it were in any other caſe
+beſides this, it would be no evidence, but I know not what you cannot get from
+St. Omers, or what you will not call Authenthick.
+
+Fenwick
+
+Does your Lordſhip think there is no Juſtice out of England?
+
+L. C. J.
+
+It is not, nor cannot be Evidence here.
+
+Fenwick,
+
+It ſhall be ſigned by the Magiſtrates of the Town.
+
+L. C. J.
+
+What there?
+
+Fenwick.
+
+Yes there▪
+
+L C. J.
+
+You muſt be tryed by the Laws of England, which ſends no piece of Fact out of
+the country to be tryed.
+
+Fenwick
+
+But the evidence of it may be brought hither.
+
+L. C. J.
+
+Then you ſhould have brought it, you ſhall have a fair Tryal; but we muſt not
+depart from the Law or the way of Tryal, to ſerve your purpoſes. You muſt be
+tryed ac­cording to the Law of the Land.
+
+Mr. J. Atkins,
+
+Such evidences as you ſpeak of, we would not allow againſt you; and therefore
+we muſt not allow it for you▪
+
+Whitebread,
+
+May this Gentleman be put to this, to produce any two Witneſſes that ſee him
+in town at that time.
+
+Mr. Oates
+
+I will give ſome circumſtances and what Tokens I have to prove my being h
+[...]re: Father Warner, Sir Tho: Preſton, Father Williams, and Sir John
+Warner, they came hi­ther with me  [...]om S [...] Omers, there was one Nevil,
+&c. I cannot reckon them all.
+
+L. C. J.
+
+You have named enough.
+
+Mr. Oates,
+
+But to convince them, there was a Lad in the houſe that was got to the end of
+his Rhetorick; this Lad was whipt and turned out of the houſe, and had loſt
+all hi [...] money Father Williams did re-imburſ [...] this Lad in order to
+his bringing home, I think the Lads name was Hilſ [...]ey, o [...] ſom [...] ſ
+[...]ch  [...]e. And we came up to London together.
+
+L. C. J.
+
+What ſay you to this circumſtance?
+
+Whitebread,
+
+My Lord, he knew that two ſuch came to Town, but he was not with them.
+
+L. C. J.
+
+You are now very good at a negative I ſee, how can you tell that?
+
+Whitbread,
+
+My Lord, he could not come.
+
+L. C. J.
+
+How can you tell he could not come,
+
+Whitebread,
+
+I can tell it very well, for he had no order to come nor did come.
+
+L. C. J.
+
+How can you undertake to ſay that he did not com [...]?
+
+Whitebread,
+
+Becauſe he had no order to come.
+
+L. C. J.
+
+Is that all your reaſon, where were you then?
+
+Whitebread,
+
+I was here.
+
+L. C. J▪
+
+How do you know he was not here.
+
+Whitebread,
+
+He had no orders to come.
+
+L. C. J.
+
+Have you any other circumſtance Mr. Oates to prove that you were here ther?
+
+Mr. Oates,
+
+My Lord, when I came to London, I was ordered to keep very cloſe, and I lay at
+Mr. Groves Houſe, let him deny it if he can, Ile tell you who lay there then.
+
+Groves.
+
+Did you ever ye at my houſe.
+
+Mr. Oates,
+
+The [...]e l [...]y a Flax [...]n H [...]i [...]'d Gentlemen, I forgot his
+name, but Ile tell you who lay there beſides; that is Strange, that was the
+late Provincial.
+
+L. C. J.
+
+Did Strange ever lye at your houſe?
+
+Groves
+
+Yes, my Lord he did
+
+L. C. J.
+
+Did he lye th [...]re in April o [...] M [...]y?
+
+Grove,
+
+No, he did not in  [...]i [...]her of them▪
+
+Lr. C. J
+
+You will m [...]e that appear.
+
+Grove,
+
+Yes, that I can by all the Houſe.
+
+L. C. J.
+
+[[Page 25]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=13)
+
+Have you any more queſtions to ask him? If you have, do: If you can prove this
+upon him▪ that he was ab [...]e [...], and n [...]t in England in April or
+May, you have made a great defence for your ſelves, and it ſhall be remembred
+for your advantage, when it comes to your turn: In the mean t [...]me, if you
+have no more to ſay to him, call another Witneſs▪ Let Mr. Oates ſit down
+again, and have ſome refreſhment.
+
+Mr. Serjant Baldwin,
+
+We will now call Mr. Bedlow, my Lord.
+
+The [...] Mr. Bedlow was ſworne.
+
+Mr. Serj: Baldwin.
+
+Mr. Bedlow, pray doe you tell my Lord and the Jury what you know of any deſign
+of ki [...]ling the King▪ and by whom.
+
+Mr Bedlow.
+
+My Lord. I have been five years almoſt employed by the Society of Je­ſuits and
+the Engliſh Monks in Paris, to carry and bring letters between them from
+Eng­land and to England▪ for the promoting of a deſign tending to the
+ſubverſion of t [...]e Go­vernment and the Extirpating of the Proteſtant
+Religion, to that degree (which was al­ways concluded on, in all their
+Conſults wherein I was,) that they would not leave any member of any Here
+[...]ick in England, that ſhould S [...]rvive to tell in the Kingdom hereafter
+that there ever was any ſuch religion in Englands as the Proteſtant Religion—
+
+Here Whitebread would have interrupted him.
+
+My Lord I am ſo well ſatisfied in their denyalls, that I cannot but believe
+they who can give a diſpenſa [...]ion and have received the ſacrament to kill
+a King, and deſtroy a whole Kingdom, doe not ſcruple to give a diſpenſation
+for a little lye, to promote ſuch a deſign, for ſo much  [...]s this Expiates
+any lye or greater Crime,
+
+Sir Cr. Levines,
+
+Pray Sir will you be pleaſed, to tell your whole knowledge concerning the
+Priſoners at the B [...]rr.
+
+Mr. Bedlow,
+
+The firſt le [...]er  [...] [...]rr [...]e [...] wa [...] from Mr. Harcourt,
+at his houſe next door to the Arch in Dukes-ſtreet. He hath been Procurator
+for the Jeſuits about 6. years. H [...] em­ployed me firſt and ſent for me ov
+[...]r, for I was the [...] L [...]nt in Flanders, and coming home to receive
+my pay that was due to me—
+
+L. C. J.
+
+How long is it a goe?
+
+Mr. Bedlow.
+
+Michaelmus laſt was 4. years, when I came to Dunkirke▪ I went to viſit the
+Engliſh N [...]nnery there, & the Lady Abbeſſe finding me very plyable &
+inclineable, made very much of me, and I did adhe [...]e to her; ſh [...] k
+[...]pt  [...] 6\. we [...]kes in the covent, & afterwards when I went away
+recommended me to Sir John Warner as an inſtrument fit to be employ­ed in the
+carrying of letters, or doing any th [...]ng that would promote the deſign
+againſt England He kept me at S. Omers a forthn [...]g [...]t, and a [...] me
+to Father Harcourt to be in­ſtructed in my employment, It was th [...]n win
+[...], the next ſpring he ſends me into Eng­land with divers letters, whereby
+Mr. Harcourt I was empl [...]yed to carry ſeveral letters to Morton and Doway,
+and o [...]her places, that ſumme [...] I was ſ [...]nt into England without
+an an­ſwer, but afterwards in (76) which was the  [...]xt ſummer I was to
+carry another Pacquett of l [...]t [...]s to the Monks at Paris, who ſ [...]nt
+it to other Engliſh Monks in France.
+
+L. C. J.
+
+Who ſent that pacquet of letters in 76?
+
+M [...] ▪ Bedlow▪
+
+I had it from mr: Harcourt, and it was written by Harcourt, Pritchard & Carry.
+
+L. C. J.
+
+To whom?
+
+Mr. Bedlow,
+
+To the Engl [...]ſh Monk [...] i [...] France, and in it there was a letter
+[...]o  [...] Ch [...]ſe. Upon the receipt of theſe l [...]t [...]ers at Paris
+[...] Ch [...]ſe had a co [...]ſul [...]tion with the M [...]nk [...],  [...]
+a French Biſhop or two about them, I did not then ſpeak French [...]ugh to
+[...]d what it was they ſaid, but it was interpreted to me by mr▪ Stapleton an
+Engliſh Monk, who [[Page
+26]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=14) told me that it
+was a letter from my Lord Bellaſis and others of the Catholick Religion,
+Engliſh Gentlemen who were contrivers of the Plot here, to ſatisfie them in
+what ſtate things ſtood in England as to Popery. I was ſent back again with a
+pacquett of letters directed to mr. Vaughan of Courtfield in Monmouthſhire.
+
+L. C. J.
+
+From whom was that?
+
+Mr. Bedl [...]w,
+
+From the Engliſh Monks at Paris. From that conſultation I went to Pon­thois. I
+there received other letters to carry into England. I had a courſe to open
+their letters, and read what was in them; and in thoſe letters was contained,
+That the Prayers of that houſe were for the proſperity of that deſign, and
+they would not fail to be at the conſultation at of Warwickshire Gentlemen. I
+fell ſick at Monmouth, and Mr. Ʋaughan ſent to me a Ieſuit to confeſs me, but
+I was well before he came, and ſo was▪ not confeſſed by him, I now come to the
+later times.
+
+L. C. J▪
+
+You muſt ſpeak it over to the Jury, that they and the priſoners may hear you.
+
+Mr. Bedlow,
+
+The 25th. of May 77. which was laſt year, I was ſent over with an other
+Pacquet of Le [...]ters. I had no letters of conſequence forward, and
+therefore did not call then at Wotton, but I called upon the Lady Albeſſe at
+Dunkirk, and I went thence to Bridges and to Ghent, where I had ſome letters
+for the Engliſh N [...]nns, which I delivered to them, When I came to Doway, I
+found there that the Monks were gone, that was Sheldon, Stapleton and Latham,
+but the letters were directed to Paris, and therefore I made haſt, and at
+Cam­bray I overtooke them. And the letters were to give an account of the
+conſultation held in the Gallery at Sommerſet-houſe: all tending to the
+deſtruction of the Proteſtant Religi­on, and killing the King, but I doe not
+think fit to declare here who were the perſons that were preſent at that
+conſultation. At Cambray they were very joyful that there was ſo good a
+proceeding in England. At Paris when the letters were ſhewed, there was a
+let­ter written in a language which I did not underſtand, but▪ as I was told
+in that letter, they were charged in Paris by my Lord Bellaſis, that they did
+not proceed according to their promiſe to them in England; But ſaid Mr.
+Stapleton to me, my Lord Bellaſis nor the ſociety in England need not to write
+thus to us, for We are not ſo backward but we can lend men, and money▪ and
+Armes too, and will upon occaſion. From thence they ſent me to Spain with a
+letter to an Iriſh Father: I did overtake him at Sa Mora. From thence I went
+with another letter to the Rector of a Colledge of Iriſh Jeſuits in Salamanca,
+by their contrivance I was ſent to St. Jago in Spain, where was another
+Colledge of Iriſh Je­ſuits: There I ſtaid till I had an anſwer to Sir Willi:
+Godolphin, and when I had the an­ſwer to that Letter, I went for the letter
+from the Rector at Salamanca, the Jeſuits there told me, they would take care
+to ſend their own anſwer another way. And when they had made me that promiſe I
+came away for England, and landed at Mill-ford-haven. All this reaches to none
+of theſe perſons in particular. But what I now ſhall ſay ſhall be about them,
+only it was neceſſary, I ſhould ſpeak of what I have ſaid,
+
+L. C. J.
+
+The meaning of all this is only to ſhew the Jury and ſatisfie them, that he
+was an Agent for theſe men, and hath been employed by them for five years
+together, and he names you the particular places whither he hath been ſent, to
+ſhew you the reaſons of his knowledge in this matter, and upon what account he
+comes to be informed of this deſign.
+
+Mr. Bedlow.
+
+Having received the Newes of that country, I did there take water and landed
+againe at P [...]nſans, and when I came to London I gave the Letter to Mr.
+Harcourt: What was in that Pacquet I cannot particularly tell, for I was not
+ſo inquiſitive a [...] to look into the contents of it, but I know it was
+tending as all the reſt did to the carrying [[Page
+27]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=14) on of this
+Plot, Afterwards I was employed by Mr. Harcourt and Mr. Coleman to go to
+[...]me parts of England, to communicate the letters to ſome of the popiſh
+party.
+
+L. C. J.
+
+Now turn to the Jury.
+
+Mr. Bedlow.
+
+The Summer was paſt in the doing of that; in the beginning of Auguſt laſt,
+there was a Conſultation, and a cloſe one, at Mr. Harcourts Chamber, ſo as
+that they did not permit me to know any thing of it, I went out of Town for a
+fortnight, and when I returned, I underſtood there had been ſuch a meeting, I
+charged them with their Privacy in it, and asked what was the private deſign
+of that Conſultation, they ſaid, it was ſomething I ſhould know in time: That
+it did not ſignifie much at preſent, but in time I ſhould know it. But then I
+underſtood by Pritchard, who was more my Confident, than any of the reſt: That
+it was a deſign to kill the King: That Mr. Picke­ring and Grove had undertaken
+it a great while, and that they had been endeavouring a long while to bring it
+to paſs.
+
+Fenw.
+
+Where was this meeting, and when?
+
+Mr. Bedlow.
+
+Laſt Auguſt at Harcourts Chamber.
+
+Fenwick.
+
+Who were preſent the [...]e?
+
+Mr. Bedl,
+
+Be pleaſed to give me leave to go on, I'le tell you by and by. Then I
+under­ſtood, as I ſaid, That it was to kill the King, but that Pickering and
+Grove failing of it, they had hired four Ruffians,, that were to go to
+Windſor, and to do it there, and that if I would come the next day, I ſhould
+hear from Mr. Coleman the Effect. When I came there I found Mr. Coleman was
+gone, but Pritchard ſaid there were ſome ſent to Windſor, and that Coleman was
+going after them, and that he had given a meſſenger a Guinny that was to carry
+the money to them; and he would preſently be after them, for fear they ſhould
+want opportunity to effect their Deſign. Then I diſcourſed them, why they kept
+their Deſign ſo long hid from me? They ſaid it was a Reſolve of the Society,
+and an Order of my Lord Bellaſis that none ſhould know it but the Society, and
+[...]hoſe that were actors in it. I ſeemed ſatisfied with that anſwer at
+preſent. About the latter end of Auguſt or the beginning of Septem [...]er
+(but I believe, it was the latter end of Auguſt) I came to Harcourts Chamber,
+and there was Ireland, and Pritchard, & Pickering and Grove.
+
+L. C. J.
+
+What part of Auguſt was it?
+
+Mr. Bedlow.
+
+The latter end.
+
+L. C. J.
+
+Do you ſay it poſitively, that it was the latter end of Auguſt?
+
+Mr. Bedlow.
+
+My Lord, it was in Auguſt, I do not ſwear poſitively to a day.
+
+L. C. J.
+
+But you ſay, it was in Auguſt.
+
+Ireland.
+
+And that we were there preſent?
+
+Mr. Bedlow.
+
+You were there and Mr. Grove and Mr. Pickering.
+
+Ireland.
+
+Did you ever ſee me before?
+
+Mr. Bedlow.
+
+You were there preſent there, and Grove, & Pickering, and Pritchard, a [...]d
+Fogarthy, and Harcourt, and I.
+
+L. C. J.
+
+What did you talk of the [...]e?
+
+M [...]. Bedl.
+
+That the Ruffians miſſing of killing the King at Windſor, Pick [...]ring and
+Grove hould go on, and that Conyers ſhould be joyned with them; and that wa
+[...] to aſſaſſinate he King in is morning walks at Newmarket: and they had
+taken it ſo ſtrongly upon  [...]hem, that they were very eager upon it: And M.
+Grove was more forward than the  [...]t; and ſaid, ſince it could not be done
+clandeſtinely, it ſhould be attempted openly.  [...]d that thoſe that do fall
+had the glory to die in a good cauſe. But (ſaid he) if it be  [...]ſcovered,
+the Diſcovery can never come to that heighth, but their party would be  [...]g
+enough to bring it to paſs.
+
+L. C. J.
+
+[[Page 28]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=15)
+
+And you ſwear, Ireland was there?
+
+Mr. Bedlow.
+
+He was there my Lord.
+
+L. C. J.
+
+And heard all this?
+
+Mr. Bedlow.
+
+Yes, my Lord; and ſo did Grove and Pickering and the reſt.
+
+Ireland.
+
+My Lord I never ſaw him before in my life.
+
+L C. J.
+
+What was the Reward that you were to have, for your pains in this buſi­neſs?
+
+Mr. Bedlow.
+
+My Lord, the Reward that I was to have, (as it it was told me by Har­court)
+was very conſiderable: I belonged to one particular part of the Society. There
+are others, and I preſume,  [...]hey each kept their particular meſſenger.
+
+L. C. J.
+
+What was Mr. Grove to have?
+
+Mr. Bedlow.
+
+Grove was to have fifteen hundred po [...]nd if he eſcaped, and to be a co
+[...] ­tinual Favourite, and reſpected as a great perſon by all the Church.
+
+L. C. J.
+
+What was Pickering to have?
+
+Mr. Bedlow.
+
+He was to have ſo many Maſſes, I can [...]ot preſume to tell the numbe [...]
+but they were to be as many as at twelve pence a Maſs ſhould come to that
+money: The Maſſe▪ were to be communicated to all the Jeſuits beyond the Seas,
+that when he h [...] done it he might be ſent away immediately.
+
+L. C. J.
+
+What can you ſay of any of the reſt?
+
+Mr. Bedlow.
+
+My Lord, I do not charge any more, but them three?
+
+L. C. J.
+
+What ſay you to Whitebread?
+
+Mr. Bedlow.
+
+They have ſaid that he was very active in the Plot, but I know it no [...]
+
+L. C. J.
+
+That is not any Evidence againſt him. What can you ſay as to Fenwick?
+
+Mr. Bedlow,
+
+No more than I have ſaid, as to Mr. Whitebread: I only know him ſight.
+
+L. C. J.
+
+Then he charges only theſe three upon Oath, Ireland, Pickering and Grove.
+
+Ireland,
+
+Do you know Sir John Warner?
+
+Mr. Bedlow.
+
+I know Father Warner at St. Omers, and Sir John Warner at Wotton St. Omers.
+
+Ireland.
+
+He named Sir John Warner to be at Paris.
+
+Mr. Bedlow.
+
+It was Sheldon I ſpoke of (my Lord) at Paris.
+
+I [...]eland.
+
+At leaſt you are certain that I was preſent at that Conſultation.
+
+Mr. Bedlow.
+
+Yes, I am certain you were there.
+
+I [...]eland.
+
+Can you produce any witneſs that you ever ſpoke to me before in y [...] li
+[...]e.
+
+Mr. Serj. Baldwin.
+
+Do you know any thing of Mr, Whitebreads being preſent at of the Conſults?
+
+Mr. Bedlow.
+
+I do know that Mr, Whitebread and Mr. Fenwick both have been  [...] ­ral times
+at Conſultations; but I do not know what the particular Reſolves of  [...]
+Conſultations were.
+
+L. C. J.
+
+Did you ever hear them ſpeak any thing in particular?
+
+Mr. Bedlow.
+
+No, I have never heard them ſpeak any thing in particular.
+
+L. C. J.
+
+Whe [...]e have you ſeen Mr. Fenwick?
+
+Mr. Bedlow,
+
+I have ſeen Mr. Fenwick at Mr. Harcourts Chamber, and I have  [...] heard him
+talkt of, and it hath been told me, that nothing was done without Mr.  [...]
+­wick.
+
+Whitebread,
+
+[[Page 29]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=15)
+
+Are you ſure you know us?
+
+Mr. Bedlow.
+
+I do not ſay, you are the man that employed me, you are the man I was leaſt
+acquainted with, of all the Society, but I have ſeen you there.
+
+Ireland.
+
+Can you bring any one that can teſtifie it?
+
+L. C. J.
+
+He muſt then have brought one of your ſelves, and it may be, he cannot
+pro­duce any ſuch one.
+
+Ireland.
+
+Nor no one elſe, except ſuch a Knight of the Peſt as Mr. Oates.
+
+L. C. J.
+
+You muſt be corrected for that Mr. Ireland: you ſhall not here come to abuſe
+the Kings Evidence. Nothing appears to us that reflects upon Mr. Oates's
+Teſti­mony; and we muſt not ſuffer any ſuch ſort of Language.
+
+Mr. Juſt. Atkins.
+
+Take of his Credit as much as you can by proof, but you muſt not abuſe him by
+ill language.
+
+Mr. Finch.
+
+Can you tell the Court and the Jury when it was that by agreement Grove ſhould
+have the fifteen hundred pound?
+
+Mr. Bedlow.
+
+He was to have it put into a Friends hands.
+
+L. C. J.
+
+Do you know that Friends name?
+
+Mr. Bedlow.
+
+No my Lord, I do not.
+
+Mr. Finch▪
+
+Do you know when that was to be delivered out to him?
+
+Mr. Bedlow.
+
+As to the particular time of their agreement I do not know it.
+
+Mr▪ Finch.
+
+But this he ſays, That when the agreement was made, he was to have fifteen
+hundred pounds.
+
+L. C. J.
+
+And he ſays this Ireland was in Auguſt laſt with Pickering, and Grove, and
+others, at a Conſult where he wa [...] alſo.
+
+Ireland.
+
+But what if I prove, I was not in London all Auguſt laſt, from the beginning
+to the end?
+
+L. C. J.
+
+You heard them talk of this matter in Auguſt at Harcourts Chamber, you ſay:
+What, did they talk of it, as a matter they had agreed?
+
+Mr. Bedlow.
+
+My Lord, they brought it in▪ as being balked in their deſign of killing the
+King at Windſor; and becauſe that had not taken the effect they intended it,
+they ſhould have Conyers joyned with them to do it at Newmarket.
+
+Mr. Finch.
+
+Did they tell you when, and where the agreement was made?
+
+L. C. J.
+
+No, he ſpeaks not of that; but they talkt of the failer at Windſor: And
+therefore they did conclude that Conyers ſhould be joyned to them to do it at
+New­market.
+
+Mr. Bedlow.
+
+Yes, my Lord.
+
+L. C. J
+
+Have you any more to ſay?
+
+Mr. Bedlow.
+
+My Lord, I would only ſay this; If I had any to prove what I ſay, they muſt be
+parties as well as theſe perſons.
+
+Ireland.
+
+My Lord, I will prove, that I was not in Town in Auguſt all the month, by
+twenty Witneſſes: I'le bring thoſe that ſaw me in Staffordſhire, and ſp
+[...]ke with me all Auguſt.
+
+L. C. J.
+
+Have you any more to ask him?
+
+Whitebread.
+
+No.
+
+Mr. Serj. Baldwin.
+
+Swear Mr. James Bedlow. And he was ſworn.
+
+Ireland▪
+
+He does ſay, That he was familiar with me, and ſeveral other perſons here; and
+therefore I deſire he may ſpecifie the Place and the Company.
+
+Mr. William Bedlow.
+
+I do not ſay, there was a Familiarity; for I was a Stranger to that part of
+the Society.
+
+L. C. J.
+
+[[Page 30]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=16)
+
+You muſt take him right Mr. Ireland; he hath not ſaid that he was of your
+Fa­miliar acquaintance.
+
+Mr. Bedlow.
+
+I have ſeen you often Sir.
+
+Mr. Ireland.
+
+Where?
+
+Mr. Bedlow.
+
+At Monſieur Le Faires.
+
+Ireland.
+
+Where was that, Mr. Bedlows At Somerſet-houſe.—
+
+Ireland,
+
+Was there any one preſent beſides.
+
+Mr. Bedlow.
+
+Yes, ſeveral other Prieſts and Jeſuites of Sumerſethouſe.
+
+Jreland.
+
+Name one? Mr. Bedlow. Seignior Perrare.
+
+Ireland.
+
+You ſay, you ſaw me and Perrare together at Somerſethouſe. I ſuppoſe, if
+Seig­nior Parrare may be brought hither—
+
+Mr. Bedlow.
+
+My Lord Perrare is a Prieſt in Orders, and without Doubt, is in this
+bu­ſineſs.
+
+L. C. J.
+
+If he did ſee you, he muſt ſee you in ſuch company as you keep, they were
+Prieſts and Ieſuits, and of your own Religion; and we know very well what
+Anſwers we are like to be put off with by men of your own Perſwaſion at this
+time of day
+
+Jreland,
+
+my Lord if no bodyes Oath can be taken that is of another Perſwaſion than the
+Church of England, it is hard.
+
+L. C. J.
+
+Pray mind, you do not object ingeniouſly, for you ſay, this witneſs ſwears he
+ſaw me in ſuch company, why does he not produce them to teſtifie it? why, he
+does not come prepared to produce them; if he ſhould, we know well how you are
+concern'd one for another at this time; and we can hardly expect they ſhould
+make true Anſwer. But notwithſtanding if you will produce this Father Perrare,
+(he cannot be ſworn becauſe t'is againſt the law, but) his Teſtimony ſhall be
+heard, & let it go as far as it can.
+
+Mr. Bedlow.
+
+If your Lordſhip pleaſes, my Lord, I would convince him that he does know me.
+Have you not been, Sir, at Somerſet-Houſe.
+
+[...]reland,
+
+Yes, I have.
+
+Mr. Bedlow.
+
+Do you know Le-Fair and Perrare?
+
+Ireland,
+
+Yes, but I never ſaw you in their company in Somerſet houſe in my life, above
+once or twice.
+
+Mr. Bedlow.
+
+Yes you were twice at Le Fairs.
+
+L. C. J.
+
+Where is that Le Fair, you would do well to produce him?
+
+Mr. Bedlow,
+
+my Lord, he is gone away, and is one againſt whom the Kings proclamati­on is
+out.
+
+L. C. J.
+
+You keep ſuch company as run away, and then you require him to pro­duce them,
+whom the King's Proclamation cannot bring in.
+
+Ireland.
+
+I keep none but honeſt company.
+
+Mr. Bedlow.
+
+If your Lordſhip pleaſes, I have one thing more that is very material to
+ſpeakes, at the ſame time that there was a diſcourſe about theſe three
+Gentlemen's being to deſtroy the King at Newmarket, at the ſame time there was
+a diſcourſe of a deſigne to kill ſeveral Noble p [...]rſons, the particular
+parts aſſigned to every one. Knight was to kill the Earl of Shaftesbury,
+Pritchard, the Duke of Buckingham, Oneile, the Earl Oſſery, O Bryan, the Duke
+of Ormond.
+
+L. C. Juſt.
+
+Well, will you have any more of this?
+
+Mr. Finch.
+
+You ſay, you ſaw Mr. Ireland ſay Maſſe, where did you ſee him?
+
+Mr. Bedllow.
+
+Not Mr. Ireland, but Mr. Fenwick, I have ſeen him ſay Maſſe, and at Wild-
+Houſe.
+
+Mr. Oates.
+
+My Lord I did omit a Conſult wherein there was a deſign laid of taking away
+the Duke of Ormond's life, and of a Rebellion that was to be raiſed in
+Ireland.
+
+[[Page 31]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=16)My Lord,
+in the month of January laſt, there came letters from Arch-Biſhop Talbot to
+London, which letters were peruſed by Fenwick and Ireland, and Whitebread, and
+when they were peruſed, they were ſent and Communicated to the Fathers at St.
+Omers. The contents of thoſe letters were thus, That the Catholicks had a fair
+proſpect of effecting their deſign in the Kingdom of Ireland. And this letter
+was incloſed in a letter ſigned by Whitebread, Ireland, Fenwick, and others (I
+name no mans name that is not here.)
+
+L, C. Juſt.
+
+You ſaw the Letter.
+
+Mr. Oates.
+
+Yes, I did ſee it, and read it; wherein they did give thanks unto God, that he
+was pleaſed to proſper their deſign ſo fairly in Ireland, and withall they did
+ſay, that they would not leave a ſtone unturned, to root out that abominable
+Hereſie out of that Kingdom▪ Now what that abominable Hereſie was, I have
+nothing bur a conjecture.
+
+L C. Juſt.
+
+We all know what that is well enough▪ there needs no proof of that.
+
+M. r. Oat [...]s.
+
+Jn the month of Auguſt, Fenwick▪ a little before he went to St. Om [...]rs, on
+the one and Twentieth of Auguſt, (as I think it was) that week that Barholomew
+fair begun on) as I take it, he was then going to fetch home the Provincial,
+and to carry ſome Stu­dents with him, and he went unto St. Omers the monday
+following; but then there was a Conſult▪ and at that Conſult, Fenwick did
+conſent to the contrivance of the death of the Duke of Ormond, and for the
+Rebellion that was to be raiſed in Irela [...]d after his Death. And he did
+approve of the four Jeſuits that were to kill my Lord of Ormond, and did
+conſent to ſend Fogarthy down to the Arch-Biſhop of Dublin, lin caſe the
+[...]our good Fa­thers did not hit the buſineſs, Mr. Whitebread my Lord did
+conſent when he came over as appears by their entry Books, for there came a
+Letter from him Dated as from St. Omers, but I concluded it did not come from
+thence becauſe it paid but two penc [...].
+
+Whitebread,
+
+Who was it that writ that Letter.
+
+Mr. Oates,
+
+My Lord this letter was Dated as the later part of Auguſt, and Dated as from
+St. Omers, but the Poſt mark upon it was but two pen [...] ▪ to b [...] paid
+for it, ſo that I do con­clude thence, Mr. Whitebread, was then at Eſq Leigh's
+Houſe in But in that letter he did like the propoſal that was made about
+killing the Duke of Ormond, in that Conſult, and the letter was Signed with
+his own Hand.
+
+L. C. Juſt.
+
+I would gladly ſee that Letter?
+
+Mr. Oates.
+
+If I could ſee it, I could know it▪3
+
+L. C. J.
+
+You have not that letter?
+
+Mr. Oates.
+
+No▪ but they kept a book wherein they Regiſtred all their Reſolutions, and
+there it was entred▪
+
+L. J. C.
+
+You upon your Oath ſay▪ That he as ſuperior of them did keep a Book wherein
+they Regiſtred all their Conſults.
+
+Mr. Oates.
+
+Yes, my Lord.
+
+L. C. Juſt.
+
+You would do well to ſhew us your Book, Mr. Whitebread.
+
+Whitebread.
+
+We never kept any.
+
+Mr. Oates.
+
+The Conſult did, for though the Superior have an abſolute power over  [...]
+ſubject; yet they never do any thing of conſequence without the Conſult. And
+this Book was kept by the ſuperior, and never opened  [...] the Conſult and
+therein all the paſſages were Regiſtred.
+
+L. C. J.
+
+Produce your Book, and we  [...] whether you cannot catch Mr. Oates in
+[...]omething or other.
+
+Mr. Bedlow.
+
+My Lord, that Book I hav [...] therein all their Conſults are regiſtred▪
+
+L. C. J.
+
+Was there Books kept by  [...]
+
+Mr. Bedlow.
+
+[[Page 32]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=17)
+
+Yes my Lord, All the Conſults did keep Bookes, and Mr. Lang [...]orn [...] ▪
+was the perſon that Regiſtred all into one.
+
+L. C. J.
+
+If an hundred witneſſes ſwore it, they will deny it, well, will you have any
+more?
+
+Mr. S. Baldwin.
+
+My Lord we will now call Mr. James Bedlow, this Gentlemans Bro­ther to ſhew
+you▪ that theſe ſort of Perſons did reſort to him frequently.
+
+L. C. J.
+
+Are you ſworn S [...]?
+
+Mr. James Bedlow.
+
+Y [...]s my Lord, I am.
+
+L. C. J.
+
+Then le [...] me ask you one ſhort Queſtion. Do you know Mr. Ireland?
+
+M [...]. James
+
+Bedlow. N [...].
+
+L. C. J.
+
+Do you know Pickering or Grove.
+
+Mr. James Bedlow.
+
+I have heard of them.
+
+L. C. J.
+
+Did your Brother know any thing of them?
+
+Mr. J. Bedlow.
+
+As for the Conſpiracy of killing the King, I know nothing of it; b [...] about
+his knowledg of Prieſts and J [...]ſuits, and the Converſe he had beyond ſea,
+that can ſpeak to. And I have very often heard theſe mens names named.
+
+L. C. J.
+
+In what nature did he talk of them?
+
+Mr. J. Bedlow.
+
+I know nothing of the Plot,  [...]nd as for any d [...]ſign▪ I know not w
+[...] my Brother knew, b [...]t I have heard him talk of them.
+
+L. C. J.
+
+How did he talk of them?
+
+Mr. J. Bedlow.
+
+He mentioned them as his Acquaintance, the Jeſuits there did ask  [...]
+Queſtions about them.
+
+L. C. J.
+
+And did it appear to you they were of his Acquaintance.
+
+Mr. J. Bedlow.
+
+But I underſtood nothing of the  [...]lot  [...] Deſign, by the Oath  [...]
+taken.
+
+L. C. J
+
+But did he ſpeak as if he knew any of them?
+
+Mr. J. Bedlow.
+
+For  [...]n knowledg that my Brother had of them I cannot  [...] but I have
+often heard him talk of them as people, I thought he kn [...]w.
+
+Mr. Finch.
+
+Did you know, that when he ca [...]e over from beyond ſea, that hi [...] was
+frequented by any  [...]d by whom? Mr. J. Bedlow, Yes▪ there were many Prieſts
+[...] Jeſuits came to him▪
+
+Mr. Finch.
+
+Did your Brother receive any money from the [...]?
+
+Mr. J. Bedlow,
+
+Yes my Lord, I have fetcht many ſcore of pounds for my Brother  [...] them.
+
+L. C. J.
+
+The uſe, G [...]ntlemen, that the Kings council make of this evidence, is only
+ſhew, that his Brother M [...] ▪ Bedlow was converſant in their affairs, in
+that he hath  [...] many a ſcore of  [...]ing of their buſineſ [...].
+
+Sir Cr. Levings,
+
+Pr [...]y,  [...]m whom had your Brother that money?
+
+M [...]. J. Bedlow
+
+I have proved that from the Goldſmiths themſ [...]lves that paid it,  [...]
+the Duke of Monmouth, my Lord Chanc [...]lor, and Lord Treaſurer.
+
+Mr▪ Finch▪
+
+Have you received any conſi [...]erable  [...] at a time?
+
+Mr. Bedlow,
+
+Yes  [...]
+
+Mr. Finch,
+
+How muc [...]?
+
+Mr. J. Bedlow,
+
+fifty or threeſcore pounds at a  [...]
+
+Mr. Finch,
+
+Of wh [...]m?
+
+Mr. J. Bedlow,
+
+Of Prieſts and J [...]ſuits.
+
+M [...]. Finch,
+
+For whom?
+
+Mr. J. Bedlow,
+
+For my Brother.
+
+L. C. J.
+
+Will you have any more Evidence?
+
+Mr. Serj.
+
+Baldwyn, Yes: my Lord, the next evidence we produce, is concerning a  [...]
+[[Page 33]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=17) [...]ere
+was a letter written by one Mr. Peters, that is now a priſoner, to one
+Tonſtall a Je­ſuit, and this letter does mention, That there was a meeting
+appointed by order of Mr. Whitebread to be at London.
+
+L. C. J.
+
+What is that to them, and how came you by it?
+
+Mr. Serj. Baldwin.
+
+Peters is now in Priſon for things of this nature; and you have he [...]rd of
+one Harcourt, and out of his Study this Letter was taken.
+
+Mr. W. Bedlow.
+
+My Lord, may I not have liberty to withdraw, my head akes ſo ex­treamly, I
+cannot endure it.
+
+L. C. J. Mr. Bedlow,
+
+you may ſit down, but we can't part with you yet.
+
+Ireland.
+
+I deſire, my Lord, that his Brother may be asked, how long he had known me.
+
+L. C. J.
+
+Can you recollect by the diſcourſes you have heard, how long he might have
+known Ireland?
+
+Mr. J. Bedlow.
+
+No, my Lord, it was out of my way.
+
+L. C. J.
+
+But he did talk of Ireland?
+
+Mr. J. Bedlow.
+
+Yes, my Lord, he did.
+
+Ireland.
+
+As being where, in what place?
+
+Mr. J. Bedlow.
+
+I cannot tell.
+
+Ireland.
+
+He named one place three years ago, it was at Paris.
+
+L. C. J.
+
+But he does not ſay that you were there, but that you were familiarly talk'd
+of there; ſo that the meaning is, they were acquainted with you: and this is
+only brought to ſhew, that it is not a new-taken-up thing by Mr. Bedlow,
+though you ſeemed never to have known any ſuch man; yet he ſwears, ſaith he, I
+have heard ſuch perſons talkt of as my Brothers acquaintance.
+
+Ireland.
+
+If his Brother had talkt of me three years ago, why then he muſt have known me
+three years ago.
+
+L. C. J.
+
+[...]e ask him that queſtion: How long is it ſince you knew him?
+
+Mr. W. Bedl.
+
+I have known him but ſince Auguſt this laſt Summer; but my Lord, I talkt five,
+and four years ago, of ſeveral Engliſh Monks and Jeſuits that were then at
+Rome, that I never knew in my life.
+
+L. C. J.
+
+His anſwer then i [...] th [...], ſaith his Brother, I have heard him talk of
+them three years ago; I then asked Bedlow how long he had known them? ſaith
+he, I did not know them three years ago, though I did talk of them three years
+ago; for we have talkt of many that we never ſaw in our lives▪ ſo it ſeems he
+had occaſion to make uſe of your names frequently, and joyn them with theſe,
+of ſome he knew better: But he never knew you t [...]ll Auguſt laſt; but he
+did diſcourſe of you three years ago, as known for ſuch ſort of perſons.
+
+Ireland▪
+
+He muſt hear ſome body ſpeak of us, as being in ſome place or another.
+
+Mr. W. Bedlow.
+
+I will ſatisfie you in that, we talk of ſome now in England, that are to be
+ſent a year hence.
+
+L. C. J.
+
+If you can produce but Ha [...]court and le Faire, they will do you great
+ſervice now.
+
+Mr. W. Bedlow.
+
+My Lord, a [...] for example, Father Pritchard is Confeſſor to ſuch a
+Gen­tleman in England now thi [...] year; a year hence we m [...]t  [...]d
+ſuch a one hither, and he muſt go back. And we may talk of th [...] perſon as
+i [...] England two years before.
+
+L. C. J.
+
+You need not trouble your ſelves about that. Mr. Ireland, you ſhall have a
+fair Tryal, but you will not have cunning or art enough to deceive the Jury,
+nor will
+
+Mr. Whitebread
+
+have learning enough to baffle the Court.
+
+[[Page 34]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=18)Then Mr.
+W. Bedlow and his Brother withdrew.
+
+Mr. Serj. Baldwyn.
+
+My Lord, the next Evidence that we ſhall give, as I ſaid, is a Let­ter from
+one Peters to one Tonſtall, and this we will bring home to Mr▪ Whitebread; for
+it is an invitation to be at the Conſu [...]t held in London the 24th of
+April; and it was written about that very time, to wit▪ the 3d of April. It
+was written from London, and it mentions, that Mr. Whitebread did fi [...] the
+meeting at that time. We'll tell you how we came by the Letter, Mr. Harcourt,
+who is one of the principal perſons here, and at whoſe Houſe was the meeting
+you heard o [...], he himſelf is fl [...]d away, when they came to look after
+him upon the diſcovery that was made: And Mr. Bradley who was the meſ­ſenger
+to ſeize upon him, did according to direction ſearch his Study, and did there
+find this Letter, which we conceive, my Lord, to be very good Evidence, this
+Harcourt be­ing a party, and one at whoſe hou [...]e the laſt meeting was, and
+others was. We do con­ceive a  [...]etter from one of that party, bearing date
+about the ſame time, concerning Mr. Whitebreads Summons, who was Maſter of the
+Company, is a very good Evidence againſt them.
+
+L. C. J.
+
+[...]f you had found it in Mr. Whitebreads cuſtody, you ſay ſomething.
+
+Mr. J [...]ſt. Bertue,
+
+My Brother puts it ſo▪ we find a Letter directed to Mr. Whitebread, let the
+matter of it be what it will, it is found among Harcourts papers.
+
+Mr. Serj. Baldwin,
+
+No, my Lord, we find a letter from one Mr. Peters, now a priſo­ner, directed
+to Mr. Tonſtal concerning the Conſult ſummoned by Whitebread, and this we find
+in Harcourts poſſeſſion.
+
+L. C. J.
+
+I can't underſtand how this may affect Mr. Whitbread.
+
+M. Finch.
+
+Pray, my Lord, if your Lordſhip pleaſe, this is the uſe we make of this
+Letter; we do not produce it as ano [...]er Evidence of this Deſign, but to
+fortifie that part of the Evidence which hath already been given; That there
+was a Conſult ſum­moned at that time, and to be held with all tht privacy that
+could be, to prevent diſ­covery. And this is the Paper, that we find in the
+cuſtody of Harcourt, one of the Conſpirators, who is fled for it.
+
+L. C. J.
+
+Look you, Mr. Finch, if you uſe it not againſt any particular perſon, but as
+an Evidence in general, that there was a Plot amongſt them, you ſay right
+enough; but it cannot  [...]e Evidence againſt any one particular perſon of
+the priſoners at the Bar.
+
+Mr▪ Finch.
+
+My Lord, it can affect no particular perſon; but we only uſe it in the
+general, and we pray it may be rea [...].
+
+L. C. J.
+
+Gentlemen of the Jury, before you hear the Letter read, I would ſay this to
+you. Let them have fair play, whatſoever they me [...]e unto  [...]thers, we
+will ſhew them juſtice. They ſhall have as fair play upon their Tryals as any
+perſons whatſoever. The thing that is offered to be given in evidence, is a
+Letter written by one Peters, a priſoner for this Plot▪ and directed to one
+Tonſtal a Jeſuit, and this is found in Harcourts Cham­ber, a Prieſt that is
+fled, and one whom the King hath commanded to render himſelf by His
+Proclamation; but he does not. Now in that Letter there is a diſcourſe of a
+Deſign and Plot on foo [...]. This cannot be Evidence to charge any o [...]e
+particular per­ſon of theſe; but only to ſatisfie you and all the wo [...]ld
+that thoſe letters and papers that are  [...]o [...]d amongſt their own
+Prieſts, do fortifie the Teſtimony of Mr. Oates, that there is a general Plot:
+'tis not applied to any particular perſon.
+
+Mr. Oates.
+
+The day before the Conſult met, Mr. Whitebread did ask Mr. Peters whether he
+had ſummoned the Conſult according to his directio [...]. Mr. Peters told him
+yes, he had writ into Warwick-ſhire, and Worceſter-ſhire.
+
+Whitebread,
+
+[[Page 35]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=18)
+
+When was this?
+
+Mr Oates,
+
+the day before the conſult me [...] ▪
+
+Whitebread,
+
+Did you hear me ask Mr. Peters?
+
+Mr. Oates,
+
+Yes, I did hear you; and I did hear him ſay he had done it, now my Lord this
+Letter that is found in Harcourts ſtudy, ſhewes that Mr. Whitebread had
+directed Mr Peters in this conſult.
+
+Mr. Serj. Baldwin,
+
+Pray ſwear Sir Tho: Doleman to ſhew how he came by it▪ Which was done.
+
+Mr. Serj Baldwin,
+
+Sir Tho Doleman, what do you know of this Letter.
+
+Sir Thomas Doleman,
+
+this Letter in my hand was taken amongſt Harcourts papers in a great Bag of
+papers; and ſearching them. I did find this Letter amongſt the reſt▪
+
+Then the Letter was ſhewn to Mr. Oates.
+
+L. C▪ J.
+
+Is that Mr. Peters hand?
+
+Mr. Oates▪
+
+Yes my Lord▪ it is.
+
+L C. J.
+
+Were you acquainted with his hand?
+
+Mr. Oates,
+
+Yes my Lord, I have often read it in Letters.
+
+L. C. J.
+
+Do you know Tonſtall?
+
+Mr. Oates,
+
+My Lord I do not know him by that name; If I did ſee him perhaps I might; I
+know men better by their faces.
+
+Sir Cr. Levines,
+
+pray read it.
+
+Cl. of the Crown,
+
+This is Dated February 23d. (77) And ſuperſcribed thus (theſe for his honourd
+friend Mr. William Tonſtal at Burton.
+
+Honoured dear ſir.
+
+I have but time to convey theſe following particulars to you▪ firſt, I am to
+give you notice, that it hath ſeemed fitting to  [...]ur Maſter conſult, Prov.
+&c. to fix the 21ſt day of April next ſty­lo viteri. For the meeting at London
+of our congregation, on which day all thoſe that have a ſuf­frage are to be
+preſent th [...]re, that they may be ready to give a beginning to the ſame on
+the 24th. which is the next day after St. Georges day; you are warned to have,
+jus ſuffragij, and there­fore if your occaſions ſhould not permit you to be
+preſent, you are to ſignifie as much, to the end o­thers in their Rank [...]
+[...] ordered to ſupply your abſence: Every one is minded alſo, not to haſten
+to London long before the time appointed, nor to appear much about the Town
+till the meeting be over▪ le [...]t occaſion ſhould be given to ſuſpect the
+deſign. Finally, ſecreſie, as to the  [...]ime & pl [...]ce, is much
+recomended to all thoſe that receive ſummons, as it will appear o [...] its
+own nature neceſſary.
+
+L. C. J.
+
+So it was very neceſſary indeed.
+
+Cl. of the Crown▪
+
+There is more of it my Lord.
+
+Tertio pro domino ſolono diſco. B [...]n [...]fact. Prov. Luniencis.
+
+I am ſtrai [...]ned for time, that I can only aſſure you, I ſhall be much glad
+of obliging you any ways▪ Sir, your ſervant Edward Peters. Pray my ſervice
+where due, &c.
+
+L. C. J.
+
+You know nothing of this Letter, Mr. Whitebread?
+
+Whitebread,
+
+No my Lord nothing at all.
+
+L. C. J.
+
+Nor you Mr. Ireland.
+
+Ireland,
+
+Tis none of my Letter my Lord.
+
+L. C. J.
+
+Did you never hear of it before?
+
+Ireland,
+
+N [...]t th [...]t I know o [...] in Particular.
+
+L. C. J.
+
+W [...]ll have you do [...] with the evidence for the King?
+
+Mr. Serj. Baldwyn,
+
+p [...]ay Sir Thomas Doleman▪ will you tell my Lord, did M [...] ▪ Oates give
+in this Teſtemony of the conſul [...] ▪ to be the 24th▪ of April, before this
+Le [...] wa [...] [...]ound
+
+L. C. J.
+
+[...][[Page 34]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=19)
+[...][[Page 35]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=19)
+[...][[Page 38]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=20)
+
+How long had you known him before that time.
+
+S. Paine,
+
+My Lord, I knew him; for he came often to our houſe when I lived at  [...]
+Groves▪ he wa [...] the man  [...]hat broke  [...]pen the Packet of Letters,
+that my Maſter carri [...] about a [...] and he  [...]ealed all the Packets
+that went beyond the Seas, and he op [...] ed them  [...] when the Anſwers
+returned back again.
+
+Ire [...]d,
+
+Now m [...]ſt  [...]l the People of  [...]y Lodging come and witneſs that I
+was  [...] of my Lodging all Auguſt laſt.
+
+L. C. J.
+
+Call them.
+
+Ireland,
+
+There is one Ann Ireland.
+
+L. C. J.
+
+Cryer▪ call  [...]er.
+
+Cryer, A [...] Ireland,
+
+here ſhe is.
+
+L. C. J.
+
+Come Miſtris▪ what can you ſay concerning your brothers being out of T [...]
+in Auguſt.
+
+A [...]n Ireland
+
+my Lord on Saturday the third of Auguſt he ſet out to go into Stafford [...]
+
+L. C. J.
+
+How long did he continue there
+
+A Ireland
+
+Till it was a fortnight before Michaelmas.
+
+L C. J.
+
+How can you remember that it was juſt the 3d. of Auguſt.
+
+A. Ireland,
+
+I remember it by a very good circumſtance becauſe on the Wed [...] before, my
+brother and my mother and I were invited out to dinner we ſtaid the [...]
+night and all Thurſday night and Friday night my brother came home, and on
+Saturd [...] ſet out f [...]r Staffordſhire.
+
+[...]. C. J.
+
+Where was it maid that you ſaw him.
+
+S. Paine
+
+I ſaw him go in at the door of their own houſe
+
+L. C. J.
+
+When was that.
+
+S Paine
+
+About a week before I went with my Lord Chamberlaine to Windſor [...] was a
+week after the King went thither.
+
+L. C. J.
+
+That muſt be about the 12 or 13 and are you ſure you ſaw him.
+
+S. Paine
+
+Yes my Lord I am ſure I ſaw him.
+
+L. C. J.
+
+Do you know this maid Mr. Ireland.
+
+Ireland,
+
+I do not know her my Lord.
+
+L. C. J.
+
+She knows you by a very good token. You uſed to break open the Lette [...] her
+maſters houſe and to ſeal them.
+
+S. Paine
+
+He knows me very well for I have carried ſeveral Letters to him that  [...]
+from the carrier as well as thoſe that came from beyond Sea▪
+
+L. C. J.
+
+They will deny any thing in the World.
+
+Ireland,
+
+I profeſs I doe not know her. Twenty people may come to me and yet  [...] know
+them, and ſhe haveing been Mr. Groves ſervant may have brought me Letters
+[...] yet my Lord I remember her no [...], but here is my mother Elenor
+Ireland that can teſtif [...] ſame.
+
+L. C. J.
+
+Call her then▪
+
+Cryer▪ Elenor Ireland▪
+
+Elenor Ireland,
+
+H [...]re
+
+L. C. J.
+
+Can you tell when your Son went out of Town.
+
+E. Ireland.
+
+He went out of Town the third of Auguſt towards Staffordſhire.
+
+Ireland
+
+My Lord, there is Mr. Charles Gif [...]ord will prove that I was a week after
+th [...]gining of September, and the lat [...]r  [...]nd of Auguſt in
+Staffordſhire.
+
+L. C. J.
+
+That will not doe for ſhe ſaid ſhe ſaw you i [...] London about the 10th, or 1
+[...] Auguſt, & ſhe makes it out by a circum [...]ance which is better
+evidence then if ſhe had  [...] and ſwore the preciſe day wherein ſhe ſaw him,
+I ſhould not have been ſati [...]fied unl [...] [[Page
+39]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=20) [...] given me
+a good account why ſhe did know it to be ſuch a day ſhe does it by circum­
+[...]ces by which we muſt calculate that ſhe ſaw you about the 12th. or 13th.
+day. She  [...] to my Lord Arlington's at ſuch a day, a week after the King
+went to Windſor▪ and that was about the 13th. and ſhe ſaw you a week before
+ſhe went to my Lord Arlingtons, which muſt be the 12th or 13th. You ſay you
+went out of Town the third of Auguſt, who can ſwear you did not come back
+again.
+
+Ireland.
+
+All the  [...]ouſe can teſtify I did not come to my lodging.
+
+E. Ireland.
+
+He went out of Town the third of Auguſt, and did not return till a forth­night
+before Michealmas.
+
+L▪ C. J.
+
+Did you lye at his houſe?
+
+E. Ireland.
+
+I did then my Lord
+
+L▪ C. J.
+
+What all that while?
+
+E. Ireland.
+
+Yes my Lord.
+
+D. C. J.
+
+So did your daughter too, did ſhe?
+
+E. Ireland.
+
+Yes ſhe did.
+
+Ireland.
+
+There are others that did ſee me the Latter end of Auguſt in Staffordſhire.
+
+L. C. J.
+
+And you would feign have crampt him up between the 20. and 31. and then
+[...]oſſible you might be in Staffordſhire.
+
+Ireland;
+
+If I might have been permitted to ſend in for ſuch witneſs as I would have
+[...]ad I  [...]ould have brought them.
+
+Mr. Recorder.
+
+Why have you not a note of what witneſſes you are to call, why don't you call
+them according to that note. Ireland I had that but this morning.
+
+L. C. J.
+
+Why did not you ſend for them before to have them ready.
+
+Mr. Recorder
+
+'Tis his Siſter that brings that note of the witneſſes that he ſhould call and
+[...] they are not here.
+
+A. Ireland.
+
+There was one Engletrap▪ and one Harriſon had promiſed to be here that went
+with him into Staffordſhire.
+
+Mr. Oates.
+
+My Lord when ever we had a mind to come to Towne we conmmon­  [...]y writ our
+Letters and let them come to town two dayes after us▪  [...]oe that we might
+[...]rove by the writing of ſuch Letters if any Queſtion did ariſe that we
+could not be at ſuch  [...] place at ſuch a time. And when we pretended to go
+into the country we have gon [...] and  [...]ken a chamber in the City and
+have had frequent cabal [...] at our chambers, there Mr.  [...]reland writ a
+Letter as dated from S [...]. Omers, when I took my leave of him at his own
+[...]hamb [...]r which was betwixt the 12th. and 24th. in London [...] was
+there and afterwards when I  [...]r [...] Fenwicks chamber he came thither a
+[...]ght or ten dayes at leaſt I am  [...]re it was  [...] Auguſt.
+
+L▪ C▪ J.
+
+[...] th [...]ee witneſſes upon  [...]th  [...]bout this one thing here is Mr.
+Bedlow [...]ct upon which the queſt [...]ſ [...]s to b [...] Auguſt, that you
+deny and ſay  [...]w [...]e out of town, then  [...] produces  [...] m [...]d
+h [...]e and ſhe ſwears that about that time which by  [...]cu [...]a [...]on
+muſt be about the 11th▪ o [...] 12th.  [...]e Saw you going into your  [...]wn
+ho [...]ſ [...]. And here  [...] a third wit [...]ſ who ſwears he knowes
+nothing of this matter of  [...]ct but he knows you were in town th [...], and
+that he tooke  [...]is leave of you as going to  [...]t. Omers.
+
+Mr. Oates,
+
+Whereas  [...]e ſays that a [...] [...]h [...] beginning of September he was
+in Staffordſhire he  [...] in town the firſt of September or ſecond for then I
+had of him twenty ſhilli [...]gs,
+
+[...]land, This is a moſt  [...]a [...]s lie  [...]or I was then in
+Staffordſhire, and the witneſſes contradict  [...]elves for the one ſaith he
+took his leave of me as going to St. Omers the 12th. the o­  [...]aith it was
+the latter  [...]nd of Auguſt I was at Harcourts Chamber.
+
+L. Ch. J.
+
+[[Page 40]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=21)
+
+He does not ſay you went, but you pretended to goe.
+
+A. Ireland.
+
+Here is one Harriſon, that was a Coachman that went with them▪
+
+L. Ch. Juſt.
+
+Well what ſay you friend, do you know mr▪ Ireland.
+
+Harriſon.
+
+I never ſaw the man before that time, in my life; but I met with him at  [...]
+Albans.
+
+L. Ch. Juſt.
+
+When?
+
+Harriſon.
+
+The fifth of Auguſt. there I met with him, and was in a journey with him the
+ſixteenth.
+
+L. Ch. Juſt.
+
+What day of the week was it?
+
+Harriſon,
+
+of a munday:
+
+L. Ch. Juſt.
+
+Did he come from London on that day?
+
+Harriſon.
+
+I cannot tell that, but there I met him.
+
+L. Ch. Juſt.
+
+What tim [...]
+
+Harriſon▪
+
+Jn the Evening.
+
+L. Ch. Juſt.
+
+Whereabouts in St▪ Albans.
+
+Harriſon,
+
+At the Bull-Inn, where We lodged.
+
+L. Ch. Juſt.
+
+Mr. Ireland, You ſay, you went on Saturday out of Town, did you ſtay St.
+Albons till munday.
+
+Ireland,
+
+No I went to Standon that day, and lay there on Saturday and Sunday nig [...]
+on munday I went to St. Albons.
+
+L. Ch. Juſt.
+
+What, from thence?
+
+Ireland.
+
+Yes my Lord.
+
+L. Ch. Juſt.
+
+Why did you goe thither? was that in your w [...]
+
+Ireland.
+
+I went thither for the Company of Sir John Southcot and his Lady.
+
+L. Ch. Juſt.
+
+How did you know that they went thither.
+
+Ireland.
+
+I underſtood they were to meet my Lord Aſton and Lady there.
+
+L. Ch. Juſt.
+
+What, on munday night.
+
+Ireland.
+
+Yes my Lord.
+
+Harriſon,
+
+From thence I went with him to Tixwell, to my Lord Aſton's houſe, [...] we
+were all with him.
+
+L. Ch▪ Juſt▪
+
+Were you my Lord Aſton's Coachman.
+
+Harriſon,
+
+No my Lord, I was Servant to Sir John Southcot.
+
+L. Ch. Juſt.
+
+How cam [...] you to go wi [...]h them?
+
+Harriſon▪
+
+Becauſe my Lord Aſton is my L [...]dy Southcot's brother.
+
+L. Ch. Juſt.
+
+How long was you in his company?
+
+Harriſon▪
+
+From the fifth of Auguſt to  [...] ſixteenth, & then I was with him at W
+[...]ſtch [...]
+
+Mr. Juſt. A [...]kins.
+
+You have no [...] yet  [...] of being at Weſtcheſter all this while.
+
+Ireland,
+
+my Lord, I muſt talke of  [...]ey by degrees.
+
+L. Ch. Juſt.
+
+Before you ſaid, you  [...] Auguſt in Stafford Shire, come you muſt  [...] out
+ſome evaſion for that.
+
+Ireland,
+
+In Stafford Shire and t [...]e [...]eab [...]
+
+L. Ch. Juſt.
+
+You witneſs, who do you live with?
+
+Harriſon,
+
+with Sir John Sou [...]
+
+L. Ch. Juſt.
+
+Who brought you hither.
+
+Harriſon,
+
+I came only by a meſſenger laſt n [...]
+
+L. Ch. Juſt.
+
+Was not Sir John Southcot in that journey himſelf▪
+
+Harriſon.
+
+Yes my Lord he was.
+
+L. C. J.
+
+Then you might aſwell have ſent to Sir Iohn Southcot himſelf to come.
+
+A. Ireland,
+
+I did it of my ſelfe I never did ſuch a thing before and did not un [...]
+ſtand the way of  [...]t.
+
+Ireland▪
+
+I [...] was meer chance ſhe did ſend for thoſe ſhe did.
+
+L. C. J.
+
+But why ſhould ſhe not ſend for Sir John himſelf.
+
+Ireland.
+
+ſhe did not know that Sir John was here▪
+
+L. C. J.
+
+You were not denied to ſend for any witneſſes, were you?
+
+Ireland
+
+I was expreſly denied, they would not let me have one bit of paper.
+
+L. C. J.
+
+[[Page 41]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=21)
+
+Fellow, what Town was that in Staffordſhire tell me quickly.
+
+Harriſon,
+
+It was Tixwel, by my Lord Aſtons there we made a ſtay for three or four days
+then we went to Nantwich and ſo to Weſtcheſter.
+
+L. C. J.
+
+Were not you at Wolverhampton with him?
+
+Harriſon,
+
+No my Lord I was not there, I left him at Weſtcheſter.
+
+Ireland,
+
+my Lord I was at Wolverhampton with Mr Charles Gifford, and here he is to
+atteſt it.
+
+L. C. J.
+
+Well Sir what ſay you?
+
+Gifford.
+
+my Lord, I ſaw him there a day or two after St. Bartholomews day, there he
+con­tinued till the 9th of September the 7th. of September, I ſaw him there,
+and I can bring 20. and twenty more that ſaw him there. Then as he ſaid he was
+to goe towards London, I came again thither on the 9th, and there, I found him
+and, this is all I have to ſay.
+
+Mr. Oates,
+
+My Lord I do know that day in September I ſpeak of, by a particular
+circum­ſtance.
+
+Ireland.
+
+There is one William Bowdrel that will teſtifie the ſame if I might ſend for
+him.
+
+L. C. J.
+
+Why ha [...] you him here?
+
+Jreland.
+
+She hath done what ſhe can to bring as many as ſhe could.
+
+L. C. J.
+
+Have you any more witneſſes to call?
+
+Ireland,
+
+I can't tell whether there be any more here or no.
+
+L. C. J.
+
+Mr. Grove what ſay you for your ſelf.
+
+Grove.
+
+Mr. Oates ſayes he lay at my houſe, my Lord I have not been able to ſend for
+a­ny witneſſes, and therefore I know not whether there be any here. They could
+prove that he did not lye there, he ſayes he ſaw me receive the Sacrament at
+Wildhouſe, but he never did, and if I had any witneſſes here I could prove it.
+
+L. C. J.
+
+He tells it you with ſuch and ſuch Circumſtances, who lay there at that times.
+
+Grove,
+
+He did never lye there.
+
+L. C. J.
+
+Why you make as if you never knew Mr. Oates.
+
+Grove.
+
+my Lord I have ſeen him but he never lay at my houſe.
+
+L. C. J.
+
+Mr. Pickering what ſay you for your ſelf, you relye upon your Maſſes?
+
+Pickering,
+
+I never ſaw Mr. Oates as I know of in my life.
+
+L. C. J.
+
+What ſay you to Bedlow, he tells you he was with you in Harcourts chamber ſuch
+a day.
+
+Pickering,
+
+I will take my oath I was never in Mr. Bedlows company in all my life.
+
+L. C. J.
+
+I make no queſtion, but you will and have a diſpenſation for it when you have
+done, well have you any witneſſes to call.
+
+Pickering,
+
+I have not had time to ſend for any.
+
+L. C. J.
+
+You might have moved the Court when you came at firſt, and they would have
+given you an order to ſend for any.
+
+Ireland,
+
+Methinks there ſhould be ſome witneſſes brought that knew Mr. Oates to atteſt
+his reputation, for I am told there are thoſe that can prove very ill things
+againſt him, they ſay he broke Priſon at Dover.
+
+L. C. J.
+
+why have you not witneſſes here to prove it.
+
+Ireland,
+
+We could have had them if we had time.
+
+L. C. J.
+
+I ſee what you ask now you would have time, and the Jury are ready to goe
+to­gather about their Verdict.
+
+Ireland.
+
+[[Page 42]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=22)
+
+Why we deſire but a little time to make out our proof.
+
+L. C. J.
+
+Onely you muſt tye up the Jury, and they muſt neither eat nor drink till they
+give in a verdict.
+
+Ireland.
+
+Then we muſt confeſs there is no Juſtice for Inoce [...]ce.
+
+L. C. J.
+
+Well if you have any more to ſay, ſay it.
+
+Ireland.
+
+my Lord I have produced witneſſes that prove what I have ſaid.
+
+L. C. J.
+
+Ile tell you what you have prov'd: you have produced your ſiſter and your
+mother, and the ſervant of Southcott they ſay you went out the third of
+Auguſt, and he gives an accompt that you came to St. Albans on the fifth, and
+then there is another gen­tleman Mr. Gifford, who ſayes he ſaw you at
+Wolverhampton till about a week in September, Mr. Oates hath gain ſaid him in
+that, ſo you have one witneſs againſt Mr. Oates, for tha [...] Circumſtance,
+it cann [...]t be true what Mr. Oates ſayes if you were there all that time,
+and i [...] cannot be true what Mr Gifford ſayes, if you were in London then.
+And againſt your two witneſſes and the Coachm [...]n, there are three
+witneſſes that ſwear the contrary, Mr. Oates Mr. Bedlow, and the maid, ſo that
+if ſhe and the other two be to be believed, here are 3 upon Oath againſt your
+three, upon bare affirmation.
+
+Ireland▪
+
+I doe deſire time that we may bring in more witneſſes.
+
+L. C. J.
+
+come▪ you are better prepared then you ſeem to be call whom you have to call▪
+can you prove that againſt Mr. Oates which you ſpeak of? If you can call your
+witneſſe [...] on Gods name, but only to aſperſ [...], tho it be the way of
+your Church it ſhall no [...] be the way of Tryal amongſt us: We know you can
+call Hereticks and ill names fa [...] enough.
+
+Ireland,
+
+That Hi [...]ſley that he names can prove if he were here, that Mr. Oates was
+all th [...] while at St. Omers.
+
+L. C. J.
+
+Will you have any more Witneſſes called,  [...]f you will, do it, and don't
+let u [...] ſpend the time of the Court thus.
+
+Grove,
+
+Here is Mrs. York that is my ſiſter, will your Lordſhip pleaſe to ask her
+whethe [...] ſhe ſee that Gentleman at my houſe,
+
+L. C. J.
+
+What ſay you Miſtriſs
+
+York No my Lord not I▪
+
+Mr. J.
+
+At. Nor I neither, might not he be there for all that?
+
+Mr▪ Oates,
+
+To ſatisfie the Court my Lord, I was in another habit, and went by anothe
+[...] name.
+
+L. C. J
+
+Lo [...]k you, he did as you all do▪ diſguiſe your ſelves.
+
+Ireland,
+
+Though we have no more witneſſes, yet we have witneſſes that there are mor
+[...] witneſſes.
+
+L. C. J.
+
+I know your way of arguing is, that is very pretty, you have witneſſes that
+can prove you have witneſſes, and th [...]ſe witneſſes can prove you have more
+witneſſes and ſo in Infinitum. And thus you a [...]gue in every thing you do.
+
+Ireland,
+
+we can go no further than we can go, and can give no anſwer to what we did not
+know would be proved againſt us.
+
+L. C. J.
+
+Then look you Gentlemen.
+
+A. Ireland,
+
+my Lord, Sir Denny Aſhburnham promiſed to be here to teſtifie what he can ſay
+concerning Mr. Oates.
+
+L. C. J.
+
+Call him, Cryer, Sir Denny Aſhurnham. Here he is my Lord,
+
+L. C. J.
+
+Sir Denny, what can you ſay concerning Mr. Oates.
+
+Sir D. Aſhburnham.
+
+[[Page 43]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=22)
+
+my Lord I received a letter this morning, which I transmitted to  [...]r.
+Attorny, and this letter was only to ſend to me a copy of an Indictment
+againſt Mr.  [...]ates, of perjury: I did ſend it accordingly with my letter
+to Mr. Attorney; He hath ſeen the letter, & what the Town ſays to me in i
+[...].
+
+Mr. At. G.
+
+I have ſeen it there is nothing in it▪
+
+L. C. J.
+
+Do you know any thing of your own knowledg
+
+Sir D. Aſhburnham,
+
+I do know Mr. Oates, and have known him a great while, I have known him from
+his Cradle, and I do know that when he was a child, he was not a per­ſon of
+that credit that we could depend upon what he ſaid▪
+
+L. C. J.
+
+What ſignifies that?
+
+Sir D. Aſhburnham,
+
+will you pleaſe to hear me out my Lord, I have been alſo ſolicited  [...]y
+ſome of the Priſoners who ſent to me, hoping I could ſay ſomething that would
+help them in this matter: Particularly, laſt night one Mrs▪ Ireland ſiſter to
+the Priſoner at the Bar, a Gentlewoman I never ſaw before in my life, ſhe came
+to me, & was preſſing me hard that I would appear here voluntarily to give
+evidence for the Priſoner, I told her no, I would not by any means in the
+world, nor could I ſay any thing as I thought that could advantage▪ them; for
+I told her, though perhaps upon my knowledg of Mr. Oates in his youth had this
+diſcovery come only upon Mr. Oates teſtimony, I might have had ſome little
+doubt of it, but it was ſo carroborated with other circumſtances that had
+convinced me, & I would not ſpeak any thing againſt the Kings witneſſes, when
+I my ſelf was ſatisfied with the truth  [...] the thing; And I do think truly
+that nothing can be ſaid againſt Mr. Oates to take  [...]f his credibility;
+but what I tranſmitted to Mr. Attorny, I had from the town of Haſtings for
+which I ſerve.
+
+L. Ch. Juſt.
+
+What was in that Indictment?
+
+Sir. D. Aſhburnham.
+
+It is ſet forth, that he did ſwear the Peace againſt a man▪ and at his taking
+his Oath, did ſay there were ſome witneſſes that would evidence ſuch a point
+of fact, which when they came would not teſtifie ſo much▪ and ſo was forſworn.
+
+L. Ch. Juſt.
+
+What was done upon that Indictment?
+
+Sir. D. Aſhburnham.
+
+They did not proceed upon it; but here is the letter, and the copy of the
+Indictment.
+
+Mr▪ Serj. Baldwine.
+
+My Lord we deſire it may be read, and ſee what it is.
+
+Mr. Attor▪ Gen.
+
+It is onely a Certificate, pray let it be read.
+
+L. Ch. Juſt.
+
+I Do not think it Authentick Evidence.
+
+Mr▪ Ator. Gen.
+
+But if I conſent to it, it may be read.
+
+L. Ch. Juſt.
+
+If you will read it for the priſoners you may; you ſhan't read it againſt
+them. If there be any ſtrain, it ſhall be in favour of the priſoners and not
+againſt them.
+
+Mr. Ator▪ Gen.
+
+It is nothing againſt the Priſoners nor for them, but however if your Lordſhip
+be not ſatisfied it ſhould be read, l [...]t it alone.
+
+L. C. J.
+
+Truly I do not think it is ſufficient Evidence▪ or fit to be read.
+
+A▪ Ireland.
+
+I went to another, one Colonel Shakesby, who was ſick and could not come but
+could have  [...]ſt [...]d much mo [...].
+
+L. C. J.
+
+Have you any other Witn [...]ſſes?
+
+Ireland.
+
+I have none nor I have not time to bring them in.
+
+L. C. J.
+
+If you have none▪ what time could have brought them in. But you have called a
+Gentleman that does come in▪ and truly he hath done you very great ſervice,
+you would have had him te [...]fied againſt Mr. Oates, he ſaith, he hath known
+him ever ſince he was a Child, and that then he had not ſo much Credit as now
+he hath: And [[Page
+44]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=23) had it been
+upon his ſingle Teſtimony, that the diſcovery of the Plot had▪ depended, he
+ſhould have doubted of it, but Mr. Oates his Evidence with the Teſtimony of
+the Fact it ſelf, and all the concurring Evidences which he produces to back
+his Teſtimony, hath convinced him, that he is true in his Narrative.
+
+Sir D. Aſhburnham.
+
+Your Lordſhip is right in what I have ſpoken.
+
+L. C. J.
+
+Have you any mo [...]e Witneſſes, or any thing more to ſay for your ſelves.
+
+Ireland.
+
+If I may produce on my own behalf Pledges of my own Loyalty, and that of my
+Family—
+
+L. C. J.
+
+Produce whom you will.
+
+Ireland.
+
+Here is my ſiſter and my mother can tell how our Relations were plundred for
+ſiding with the King.
+
+L. C. J,
+
+No, I will tell you why it was, it was for being Papiſts, and you went to the
+King for ſhelter.
+
+Ireland.
+
+I had an Uncle that was killed in the Kings Service, beſides the Pendrels and
+the Giffords that were inſtrumental for ſaving the King after the fight at
+Worceſter, are my near Relations.
+
+L. C. J.
+
+Why all thoſe are Papiſts:
+
+Pi [...]kering.
+
+My Father, my Lord, was killed in the Kings party.
+
+L. C. J.
+
+Why then do you fall off from your Fathers virtue?
+
+Pickering.
+
+I have not time to produce Witneſſes on my own behalf.
+
+Ireland.
+
+I do deſire time to bring more Witneſſes.
+
+Grove.
+
+As I have a Soul to ſave, I know nothing of this matter charged upon me.
+
+L. C.  [...].
+
+Well, have you any thing more to ſay?
+
+Ireland.
+
+No, my Lord.
+
+L. C. J.
+
+You of the Kings Council, will you ſum up the Evidence?
+
+Mr. Serj. Baldwin.
+
+No, my Lord, we leave it to your Lordſhip.
+
+C. of C.
+
+Cryer, make Proclamation of ſilence.
+
+Cryer,
+
+O yes! All manner of perſons are commanded to keep ſilence upon pain of
+impriſonment.
+
+Then the Lord Chief Juſtice directed the Jury thus.
+
+L. C. J.
+
+Gentlemen, you of the Jury; As to theſe three perſons, Ireland, Pickering,
+Grove; (the other two you are diſcharged of;) One of them Ireland, it ſeems is
+a Prieſt, I know not whither Pickering be or no, Grove is none; but theſe are
+the two men that ſhould kill the King, and Ireland is a Conſpirator in that
+Plot. They are all indicted for Conſpiring the Kings Death, and endeavouring
+to ſubvert the Government, and deſtroy the Proteſtant Religion, and bring in
+Popery. The main of the Evidence hath gone upon that ſoul and black Offence,
+Endeavouring to kill the King. The utmoſt end was without all queſtion to
+bring in Popery, and ſubvert the Proteſtant Religion and they thought this a
+good means to do it by killing the King, that is the thing you have had the
+greateſt evidence of, I will ſum up the particulars and leave them with you.
+
+'Tis ſworn by Mr, Oates expreſly, that on the 24th of April laſt, there was a
+Conſul­tation held of Prieſts and Jeſuits. They are the men fit only for ſuch
+a miſchief, for I know there are abund [...] [...] [...] Gentlemen of that
+Perſwaſion, who could never be drawn t [...] do a [...]y of theſe things,
+unleſs they were ſeduced by their Prieſts, that ſticke at nothing  [...] own
+ends, he ſwears expreſly that the  [...]onſult was begun [[Page
+45]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=23) at the White-
+horſe-Tavern in the Strand, that they theee agreed to murther the King; That
+Pickering and Grove were the men that were to do it, who went afterwards and
+ſubſcribed this holy League of theirs, and ſigned it every one at his own
+lodging, Whitebread at his, Ireland at his, and Fenwick at his, two of which
+are out of the Caſe, but they are repeated to you only to ſhew you the Order
+of the Conſpiracy. That af­terwards Pickering and Grove did agree to the ſame,
+and they received the Sacrament upon it as an Oath to make all ſacred, and a
+Seal to make all ſecret. Mr. Bedlow hath ſworn as to that particular time of
+killing the King by Pickering and Grove, though they were not to give over the
+Deſign, but there were four that were ſent to kill the King at Windſor. Mr.
+Oates ſwears there was an attempt by Pickering in March laſt, but the Flint of
+the Piſtol happening to be looſe, he durſt not proceed, for which he was
+re­warded with Pennance. He ſwears there were Four hired to do it. That
+Fourſcore pounds was provided for them: He ſaw the money; and ſwears he ſaw it
+delivered to the Meſſenger to carry it down.
+
+Ireland.
+
+At what time was that?
+
+Lord Chief Juſt.
+
+In Auguſt there was an attempt firſt by Pickering and Grove: they then not
+doing of it, four other perſons (Iriſhmen) were hired to do it, and ten
+thou­ſand pounds profered to Sir George Wakeman, to poiſon the King. Thus
+ſtill they go on in their attempts, and, that being too little, five thouſand
+pounds more was added. This is to ſhew you the Groſs of the Plot in general;
+and alſo the particular Tranſacti­ons of theſe two murtherers Grove and
+Pickering, with the Conſpiracy of Ireland. Bed­l [...]w ſwears directly that
+in Auguſt laſt, theſe Three and Harcourt, & Pritchard, and Le Faire being
+altogether in a Room, did diſcourſe of the Diſappointment the Four had met
+with, in not killing the King at Windſor; And there the Reſolution was, the
+old ſtagers ſhould go on ſtill, but they had one Conyers joyned to them, and
+they were to kill the King then at Newmarket. He ſwears, they did agree to do
+it; that Ireland was at it; and that all three did conſent to that Reſolve. So
+that here are Two Witneſſes that ſpeak poſitively, with all the Circumſtances
+of this Attempt, of the Two to kill the King, and the Confederacy of Ireland
+all along with them. N [...]w, I muſt tell you, there are no Acceſſaries, but
+all Principals, in Treaſon. It may ſeem hard perhaps to convict men upon the
+Teſtimony of their fellow Offenders, and if it had been poſſible to have
+brought other Witneſſes, it had been well: but, in things of this nature, you
+cannot expect that the Witneſſes ſhould be abſolutely ſpotleſs. You muſt take
+ſuch Evidence as the nature of the Thing will afford, or you may have the King
+deſtroyed and our Religion too: For Jeſuits are too ſubtle to ſubject
+themſelves to too plain a proof, ſuch as they cannot evade by Equivocation or
+a flat d [...]nial.
+
+There is alſo a Letter produced, which ſpeaking of the Conſult that was to be
+the 24th of April, proves that there was a Conſpiracy among them. And,
+although, it is not Evidence to convict any one man of them, yet it is
+Evidence upon Mr. Oate's Teſti­ny to prove the general Deſign. It is from one
+Petre to one of the Confederates, and taken amongſt Harcourt, papers, after Mr
+Oates had given in his Te [...]imony; and therein it is mentioned, th [...]t
+the Superior had taken care, that there ſhould be a meeting the 24th of April,
+the day after Saint George's day, which is the very time Oates ſpeaks of; and
+that they were not to come to Town too ſoon, that the Deſign might not be
+diſcovered. I would ſai [...] know what the ſignification of that Clauſe might
+be. And then it goes farther, That it was to be kept ſecret, as the nature of
+the thing do [...]h [[Page
+46]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=24) require; which
+ſhews plainly there was ſuch a Tranſaction on foot. But the reaſon I urge it
+for, is, to ſhew you that it is a concurrent Evidence with Mr. Oates, who had
+never ſeen this Paper▪ till th [...]ee or four days after his Information was
+given in, where­in he ſwears the time when this Agitation was to be, and when
+they came to look upon the Papers; it agrees with the time preciſely. Now they
+do not write in this Letter that they intended to kill the King; but they
+write to caution them to keep the De­ſign undiſcovered, and by that you may
+gueſs what they mean.
+
+What is ſaid to all this by the Priſoners, but Denya's? Ireland cannot deny
+but that he knew Mr. Oates, and had been in his company ſometimes; Five times
+by Circum­ſtances, Mr. Oates hath proved, ſo that they were acquaintance; and
+it appears plain­ly there was a Familiarity between them. Ireland objects that
+Bedlow charges him in Auguſt, when he was out of Town all that time, and that
+therefore the Teſtimony of one of the Witneſſes cannot be true. And to prove
+this he calls his Mother, his Si­ſter, and Sir John Southcot's man, and Mr.
+Gifford. His mother and ſiſter ſay expreſly, that he went out of Town the
+third of Auguſt, and the Servant ſays, that he ſaw him at St Al­bans, the
+fifth of Auguſt, and continued in his company to the ſixteenth; (ſo that, as
+to that there is a Teſtimony bo [...]h againſt Mr. Bedlow, and againſt Mr.
+Oates;) and Gifford comes and ſays, he ſaw him at the latter end of of Auguſt
+and beginning of September at Wolverhampton; whereas Mr. Oates hath ſworn, he
+ſaw him the twelfth of Auguſt, and the firſt or ſecond of September, and tells
+it by a particular Circumſtance, wherein I muſt tell you, it is impoſſible
+that both ſides ſhould be true. But if it ſhould be a miſtake only in point of
+time, it deſtroys not the Evidence, unleſs you think it nec [...]ſſa­ry to the
+ſubſtance of the thing. If you charge one in the month of Auguſt, to have done
+ſuch a Fact, if he deny that he was in that place at that time, and proves it
+by Witneſſes, it may go to invalidate the Credibility of a mans Teſtimony, but
+it does not invalidate the Truth of the Thing it ſelf, which may be true in
+ſubſtance though the circumſtance of Time differ. And the Queſtion is, whether
+the thing be true?
+
+Againſt this, the Council for the King have Three, that ſwear it poſitively
+and ex­preſly, That I [...]eland was here. Here is a young Maid that knew him
+very well, and wa [...] acquainted with him and with his breaking up of
+Letters; and ſhe is one that was Grove's Servant: ſhe comes, and tells you
+directly, That about that time which, by Computation, was about the twelfth of
+Auguſt, ſhe ſaw him go into his own houſe, which cannot be true, if that be
+true which is ſaid on the other ſide▪ and ſhe does ſwear it upon better
+Circumſtances, then if ſhe had barely pitch'd upon a day; for ſhe muſt have
+ſatisfied me well, for what reaſon ſhe could remember the day ſo poſitively,
+ere I ſhould have believed her: But ſhe does it remembring her going to my
+Lord Ar­lingtons Service, which was a week after the King went to Windſor;
+which is ſworn to be about the thirteenth of Auguſt, and a week before her
+going it was that ſhe ſaw Ire­land at his own door. What Arts they have of
+evading this, I know not, for a [...] they have t [...]rned their Learning
+into Subtlety, ſo they have their Integrity too. The Study of Politicks is
+their buſineſs and art which they make u [...]e of upon all occaſions, and I
+find them learned chiefly in Cunning, and very ſubtle in their Evaſions: So
+that you ſee, without great difficulty a man cannot have from them a plain
+anſwer to a plain Que­ſtion. But the Fact againſt them is here expreſly ſworn
+by two Witneſſes; if you have any reaſon to disbelieve them, I muſt leave that
+to you. Sir Dennis Aſhburnham wh [...] [[Page
+47]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=24) [...] produced
+to diſcredit Mr. Oates, ſayes, than when he was a Child there was little or
+[...]o Credit to be given to him, and if the matter had depended ſolely upon
+his Teſtimo­  [...]y, thoſe Ieregularities of his, when a Boy, would have
+ſtaggered his belief. But  [...]hen the matter is ſo accompanied with ſo many
+other Circumſtances, which are ma­terial things, and cannot be evaded or
+deny'd, it is almoſt impoſſible for any man, ei­ther to make ſuch a Story, or
+not to believe it when it is told. I know not whether they can frame ſuch a
+One; I am ſure never a Proteſtant ever did, and I believe never would invent
+ſuch a one to take away their lives: Therefore it is left to your
+Conſideration what is ſworn. The Circumſtances of ſwearing it by two
+Witneſſes, and what reaſons you have to disbelieve them.
+
+It is moſt plain the Plot is Diſcovered, and that by theſe men, and that it is
+a Plot, and a Villanous one, nothing is plainer. No man of common
+underſtanding, but muſt  [...]ee there was a Conſpiracie to bring in Popery,
+and to deſtroy the Proteſtant Religion; and we know their Doctrines, and
+practices too well; to be [...]ieve they wil ſtick at any thing, that may
+effect thoſe ends. They muſt excuſe me, if I be plain with them; I would not
+aſperſe a profeſſion of men as the Prieſts are▪ with hard words, if they were
+not very true, and if at this time it were not very neceſſary. If they had not
+Murthered Kings▪ I would not ſay they would have done ours. But when it hath
+been their Practice ſo to do; When they have debauched mens underſtandings
+overturned all morals, deſtroy­ed all Divinity, what ſhall I ſay of them? When
+their humility is ſuch; that they tread upon the necks of Emperors, their
+charity ſuch, as to kill Princes, and their vow of Po­verty ſuch as to covet
+Kingdoms, what ſhall I judge of them? When they have Licences to lie, and
+indulgences for fa [...]hoods, n [...]y, when they make him a Saint that dyes
+in one, and then pray to him, as the Carpenter firſt make [...] an Image, &
+after worſhips it, and can then think to bring in that Woodden Religion of
+theirs amongſt us in this Nation, What ſhall I think of them? what ſhall I ſay
+to them? what ſhall I do with them?
+
+If there can be a diſpenſation for the taking of any Oath (& diverſe inſtances
+may be giv­en of it, that their Church does Lycence them to do ſo, it is a
+cheat upon mens Souls, it perverts & breaks off all converſations amongſt
+mankind; For how can we deal or con­verſe in the world, when there is no ſin
+but can be indulged; no offence ſo big, but they can pardon it, & ſome of the
+blackeſt be accounted meritorious? what is there left for man▪ kind to lean
+upon, if a Sacrament will not bind them (unleſs it be to conceal their
+wick­edneſs? (If they ſhall take Teſts and Sacraments, and all this, under
+colour of Religi­on be avoided, and ſignifie nothing, what is become of all
+converſe? How can we think obligations and promiſes between man and man ſhould
+hold, if a Covenant between God and man will not?
+
+We have no ſuch Principles nor Doctrin [...]s in our Church, we thank God. To
+uſe a­ny prevarications in declaring of the truth is abomniable to naturall
+reaſon, much mo [...]e to true Religion; and 'tis a ſtrange Church that will
+allow a man to be a knave. Tis poſ­ſible ſome of that Communion may be ſaved,
+but they can never hope to be ſo in ſuch a courſe as this. I know they will
+ſay, that theſe are not their principles, nor theſe their practices, but they
+Preach otherwiſe, they Print otherwiſe, and their Councels do deter­mine
+otherwiſe.
+
+Some hold, that the Pope in Council is Infalible, & ask any Popiſh Jeſuit of
+them all, and he will ſay the Pope is Infalible himſelf in Cathedra, or he is
+not right Jeſuit, and if ſo, what­ever they command, is to be juſtified by
+their Authority; ſo that if they give a diſpenſa­tion [[Page
+48]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=25) to kill a King,
+that King is well killed. This is a Religion that quite unhinges all P
+[...]ety, all Morality, and all converſation, and to be abominated by all
+mankind.
+
+They have ſome parts of the Foundation 'tis true, but they are adulterated and
+mix­ed with horrid Principles, and impious practices. They eat their God, they
+kill their King, and Saint the murtherer. They indulge all ſorts of Sins, and
+no humane Bonds can hold them.
+
+They muſt Pardon me if I ſeem ſharp, for a Papiſt in England is not to be
+treated as a Proteſtant ought to be in Spain, & if ye ask me why? He give you
+this reaſon, we have no ſuch Principles nor practices as they have, If I were
+in Spain, I ſhould think my ſelf a very ill Chriſtian, ſhould I offer to
+diſturbe the Government of the place where I lived, that I may bring in my
+Religion there, what have I to do to undermine the tranquility & peac [...] of
+a Kingdom, becauſe all that dwell in it, are not of my particular perſwaſion?
+
+They do not ſo here, there is nothing can quench the thirſt of a Prieſt and a
+Jeſuit, nor the Blood of men, nor of any if he can but propagate his Religion,
+which in truth is b [...] his intereſt.
+
+They have not the Principles that we have, therefore they are not to have that
+common Credence, which our Principles and Practices call for.
+
+They are not to wonder if they keep no Faith, that they have none from others;
+and l [...] them ſay what they will, that they do not own any ſuch things as
+we charge upon them and are like to go hard with them; For we can ſhew them
+out of their own Writing and Counſels, that they do juſtifie the power of the
+Pope in Excommunicating Kings, i [...] Depoſeing them for Hereſie, & Abſolving
+their Subjects from their Allegiance, their Clai [...] of Authority both in
+Pope and Council is the ſureſt Foundation they build upon.
+
+I have ſaid ſo much the more in this matter, becauſe their Actions are ſo very
+pla [...] and open, and yet ſo pernicious; and 'tis a very great Providence,
+that we, and our Religion, are delivered from Blood and Oppreſſion. I believe
+our Religion would ha [...] ſtood notwithſtanding their attempts and I would
+have them to know we are not afrai [...] of them; nay I think we ſhould have
+maintained it by deſtroying of them. We ſhould ha [...] been all in blood 'tis
+true, but the greateſt effuſion would have been on their ſide; a [...] without
+it, How did they hope it ſhould have been don? There are honeſt Gentlemen▪ I
+believe hundreds of that Communion, who could not be openly won upon to engag
+[...] in ſuch a deſign. They will not tell them that the King ſhall be killed;
+but they inſinuat [...] into them, that he is but one man, and if he ſhould
+die, it were fit they were in readin [...] to promote the Catholick Religion,
+and when it comes to that, they know what to d [...] When they have got them
+to give money to provide Arms and be in readineſs on their ſpecious pretence,
+then the Jeſuits will quickly find them work. One Blow ſhall put 'er to
+exerciſe their Armes; and when they have Killed the King, the Catholick Cauſe
+muſt be maintained.
+
+But they have done themſelves the miſchief, and have brought miſery upon their
+whole Party, whom they have enſnared into the Diſign upon other pretences than
+what was really at the bottom. A Popiſh Prieſt is a certain ſeducer, and
+nothing ſatisfies him▪ not the B [...]ood of Kings, if it ſtands in the way of
+his Ambition. And I hope they have no [...] only undeceived ſome Proteſtants,
+whoſe charity might encline them to think them not ſo bad as they are; but I
+believe they have  [...]ſhaken their Religion in their own party here, wh
+[...] will be aſhamed in time, that ſuch Actions ſhould be put upon the ſcore
+of Religion.
+
+I return now to the Facts which is proved by two Wittneſſes, and by the
+concurrent [[Page
+49]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=25) Evidence of
+that Letter and the maid, and the matter is as plain and notorious as can be,
+That there was an intention of bringing in Popery by a cruel and bloody way;
+for I be­lieve they could never have prayed us into their Religion. I leave it
+therefore to you to conſider, whether you have not as much Evidence from theſe
+Two men as can be ex­pected in a caſe of this nature, and whether Mr. Oates,
+be not rather juſtified by the Teſtimony offered againſt him, than
+diſcredited. Let prudence and conſcience direct your Verdict, and you will be
+too hard for their Art and Cunning.
+
+Gentlemen, If you think you ſhall be long, we will Adjourn the Court till the
+after­noon, and take your verdict then.
+
+Jury.
+
+No, my Lord, we ſhall not be long.
+
+Then an Officer was ſworn to keep the Jury ſafe, according to Law, and they
+withdrew to conſider of their verdict.
+
+After a very ſhort receſs, the Jury returned, and the Clerk of the Crown ſpake
+to them thus:
+
+Cl. of the Crown.
+
+Gentlemen anſwer to your Names, Sir. William Roberts.
+
+Sir. William Roberts.
+
+Here. And ſo the reſt.
+
+Cl. of the Cr.
+
+Gentlemen, Are you all agreed in your verdict?
+
+Omnes.
+
+Yes.
+
+Cl. of the Cr.
+
+Who ſhall ſay for you?
+
+Omnes.
+
+The Foreman.
+
+Cl. of the Cr.
+
+Set William Ireland to the Bar. William Ireland, Hold up thy Hand, Look upon
+the priſoner, How ſay you, is he guilty of the High Treaſon whereof he ſtands
+Indicted, or not Guilty?
+
+Forman.
+
+Guilty?
+
+Cl. of the Cr.
+
+What Goods and Chattels, Lands or Tenements?
+
+Foreman.
+
+None to our knowledg
+
+Cl. of Cr.
+
+Set Thomas Pickering to the Bar. Thomas Pickering hold up thy hand. Look upon
+the priſoner. How ſay you, is he Guilty of the ſame High Treaſon, or not
+Guilty?
+
+Foreman.
+
+Guilty.
+
+Cl. of Cr.
+
+What Goods or Chattels, Lands, or Tenements?
+
+Foreman.
+
+None to our knowledge.
+
+Cl. of Cr.
+
+Set John Grove to the Bar. John Grove hold up thy hand Look upon the priſoner.
+How ſay you, is he Guilty of the ſame High Treaſon, or not Guilty.
+
+Foreman.
+
+Guilty.
+
+Cl. of Cr.
+
+What Goods or Chattels, Lands or Tenements?
+
+Foreman.
+
+None to our knowledge.
+
+Cl. of Cr.
+
+Hearken to your verdict, as the Court hath recorded it. You ſay that William
+Ireland is Guilty of the High Treaſon whereof he ſtands indicted. You ſay that
+Thomas Pickering is Guilty of the ſame High Treaſon. You ſay that John Grove
+is Guilty of the ſame High Treaſon. And for them you have found Guilty, you
+ſay, that they, nor any of them, had any Goods or Chattels, Lands or
+Tenements, at the time of the High Treaſon committed, or at any time ſince to
+your knowledg. And ſo you ſay all.
+
+Omnes
+
+Yes.
+
+Lord. Ch. Juſt.
+
+You have done, Gentlemen, like very good Subjects, and very good Chriſtians,
+that is to ſay, like very good Proteſtants: And now much good may their Thirty
+Thouſand Maſſes do them.
+
+Then the Court adjourned by Proclamation till four in the Afternoon.
+
+[[Page 50]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=26)In the
+Afternoon the ſame day about 5 of the Clock Mr. Recorder, and a ſufficient
+number of the Juſtices, returned into the Court, the Judges being departed
+home; and Proclamation was made for attendance, as in the Morning.
+
+Then the Clerk of the Crown called for the priſoners Convicted of High
+Treaſon, and ſpoke to each of them thus.
+
+Cl. of the Cr.
+
+Set William Ireland to the Bar, William Ireland hold up thy hand, thou
+ſtandeſt Convicted of High Treaſon; what canſt thou ſay for thy ſelf, why the
+Court ſhould not give thee Judgment to dye according to Law.
+
+Ireland.
+
+My Lord, I repreſented all along from the beginning, that we had not time to
+call in our Witneſſes to juſtifie our Innocence.
+
+Mr. Recorder,
+
+If you have any thing to ſay in ſtay of Judgment, you have all free li­berty
+to ſay it.
+
+Ireland.
+
+We had no time allowed us to bring in our Witneſſes, ſo that we could have
+none, but only thoſe that came in by chance, and thoſe things they have
+declared, though true, were not believed.
+
+Mr. Recorder.
+
+Theſe things, Mr. Ireland, you did not object before the Jury gave their
+verdict, now they have given their verdict, and found you guilty, if you have
+any thing to ſay to the Court why they ſhould not proceed to Judgment
+according to that ver­dict, you may ſpeak it, but for theſe things it is too
+late.
+
+Ireland,
+
+My Lord, I have onely this to ſay, I Deſire more time to be heard again, and
+to call in my Witneſſes.
+
+Mr. Recorder.
+
+Call the Executioner to do his Office.
+
+Ireland.
+
+There are Teſtimonies, my Lord, that I could produce of my Loyalty, and my
+Relations fidelity to the King.
+
+Mr. Recorder,
+
+I believe, Mr. Ireland, it will be ſhame to all your Relations that have been
+Loyal to the King, that you ſhould be privy to the murther of that good King,
+whom your Relations ſo well ſerved; and therefore if that be all that you have
+to ſay, it will ſignifie nothing.
+
+The Executioner not appearing, the Sheriff of Middleſex was called to come
+into Court, and give his attendance upon pain of 40 l. But the Executioner
+coming in; was with a reproof from the Recorder for his negligence, commanded
+to tye him up, which he did.
+
+Cl. of Cr.
+
+Set Thomas Pickering to the Bar.
+
+Thomas Pikering,
+
+Hold up thy hand, Thou art in the ſame caſe with the Priſoner laſt be­fore
+thee, what canſt thou ſay for thy ſelf, why the Court ſhould not give thee
+Judgment to dye according to Law?
+
+Mr. Recorder,
+
+What does he ſay for himſelf?
+
+Capt. Richardſon,
+
+He has nothing to ſay.
+
+Mr. Recorder,
+
+Then tye him up.
+
+Cl. of Cr.
+
+Set John Grove to the Bar.
+
+John Grove,
+
+hold up thy hand, thou art in the ſame caſe with the Priſoner laſt be [...] re
+thee, what canſt thou ſay for thy ſelf, why the Court ſhould not give thee
+Judgment to die according to Law?
+
+Grove.
+
+I am as innocent as the Child unborn.
+
+Cl. of Cr.
+
+Tye him up which was done.
+
+C. of Cr.
+
+Cryers on both ſides make Proclamations.
+
+Gryere,
+
+O Yes, All manner of perſons are commanded to keep ſilence whilſt Judgment is
+[[Page 51]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=26) upon
+pain of Impriſonment; Peace about the Court.
+
+Mr. Recorder,
+
+Where is the Keeper, ſhew me the Priſoners, William Ireland, Th [...]mas
+Pickering and John Grove,
+
+Cap. Richardſon,
+
+Thoſe are the three.
+
+Mr. Record.
+
+You the priſoners at the Bar, you have been arraigned for a very great
+offence, for the greateſt that can be commited againſt any Authority upon
+Earth, for high Treaſon againſt your King, with all the aggravation that
+poſſible can attend ſo great a crime as that is; for you did not only ſtrike
+at the life of the beſt of Kings, but you intended the ſub­verſion of the beſt
+of Religions, wharever you may apprehend; yet all men that will  [...]ay their
+hopes of ſalvation upon any thing that is fit for a man to l [...]y his hopes
+upon, which is upon the Merits of a crucified Saviour, and not upon your
+Maſſes, Tricks or Trumperies,  [...]o abhor the thoughts of promoting their
+Religion by Maſſacring Kings, and murdering their Subjects. And though we whom
+you call Hereticks, abhor to own any ſuch Reli­gion; yet we are not afraid to
+tell you, and all others who are enſnared into your prin­ciples▪ we will
+maintain the Religion and the Government as it is Eſtabliſhed; with our lives
+and fortunes. And it is fit that it ſhould be known, that we who live under
+the Go­vernment of ſo mild and pious a Prince, and in a Country where ſo good,
+ſo moderate a Religion is eſtabliſht by Law, will not be affrighted by all
+your Murders, Conſpiracies and Deſigns, from declaring, that they who dare
+Kill Kings, and Maſſacre their Subjects,  [...]e the higheſt violaters, not
+only of the Laws of the Land, but of that great Law which  [...] good
+Chriſtians and Proteſtants, think themſelves obliged to pay great Reverence
+and obedience to, I mean the Law of God Almighty himſelf.
+
+This I ſpeak to you, Gentlemen, not vantingly, 'tis againſt my nature to
+inſult upon per­ſons in your ſad condition; God forgive you for what you have
+done, and I do heartily beg it, though you don't deſire I ſhould; for, poor
+men, you may belive that your intereſt in the world to come is ſecured to you
+by your Maſſes, but do not well conſider that vaſt eternity you muſt e're long
+enter into, and that great Tribunal you muſt appear before, where his Maſſes
+(ſpeaking to Pickering) will not ſignifie ſo many Groats to him, no not one
+Farthing. And I muſt ſay it for the ſake of theſe ſi [...]ly people whom you
+have im­poſed upon with ſuch fallacies, That the Maſſes can no more ſave thee
+from a future dam­nation, then they do from a preſent condemnation.
+
+I do not ſpeak this to you, as intending thereby to inveigh againſt all
+perſons that profeſs the Romiſh Religion; for there are many that are of that
+perſwaſion, that do abhor thoſe baſe Principles of murdering Kings, and
+ſubverting Governments. There are many honeſt Gentlemen in England, I dare
+ſay, of that Communion, whom none  [...]f the moſt impudent Jeſuits durſt
+undertake to tempt into ſuch Deſigns; theſe are on­  [...]y to be impoſed upon
+ſilly men, not upon men of Conſcience and Underſtanding. And  [...] pr [...]
+God, as was ſaid lately by a learned Gentleman whom we all know, that all Pro­
+[...]eſtants may be as ſafe from the Force of your Daggers, as they are from
+thoſe of your  [...]rguments; for I dare ſay, that you could ſooner murder any
+man that underſtands  [...]e Proteſtant Religion, than perſwade him to ſuch
+Villanies. And among thoſe many  [...]ings which prevailed with the honeſt
+Gentlemen of the Jury, to convict you of this  [...]id Crime, they could not
+but take notice▪ that you (ſpeaking to Ireland) that do  [...]end to Learning,
+did ſend into Forraign parts, that your fellow Jeſuits ſho [...]ld take  [...]
+publickly to preach, That the Oath of  [...]giance and Supremacy, by which the
+[...]on Juſtice of the Nation is preſerved ſignified nothing; which is a
+ſtrong Evi­dence [[Page
+52]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=27) of your Deſign,
+not only to murther the King, but ſubvert the Government, for ſurely the moſt
+probable way to do that▪ is, to aſperſe thoſe Oaths by which all Proteſtant
+Subiects, thoſe whom you call Hereticks, lie under an Obligation of Obe­dience
+to their Prince. And  [...] think it not unfit to tell yon, that you had a
+great favour ſhewed to you to be tried only for the Matters contained in this
+Indictment; for you that are Prieſts muſt know, that there is a Law in the
+Land that would have hanged you for your very reſidence here; for if any
+Subject, born in England, ſhall take Orders from the See of Rome, and
+afterwards come into England, and remain there Forty days, ſuch, for that
+Offence alone, are made Traytors by Act of Parliament. But you are ſo far from
+being under any Awe of that Law, or Submiſſion to it, that you dare not only
+come to live here in deſpite thereof, but endeavour what you can, to overthrow
+both it and the Government it ſelf. You dare conſpire to murther the King;
+nay, not only ſo, but you da [...]e make your Conſults thereof publick. You
+dare write your Names to thoſe Conſults. You dare ſollicite all your Party to
+do the like, and make all the tie; of Religion and Conſcience (that to
+conſidering Chriſtians are Obligations to Piety and Charity) as Engagements
+either to act your Villanies, or to conceal them. We think no Power can
+diſpence with us whom you call Hereticks, to falſifie our Oaths, much leſs to
+break our Covenant with God in the holy Sacrament. But you▪ inſtead of ma­king
+that a Tie and Obligation to engage you to the Remembrance of our Saviour,
+make it a ſnare and a gin to oblige your Proſelites to the aſſaſſinating of
+Kings, and murdering their Subjects. I am ſorry with all my Soul, that men who
+have had their Education here, and the benefit of the good Examples of others,
+ſhould not only be le [...] into ſuch miſchievous Principles themſelves, but
+to be of that confidence in their Perſwaſion, as to dare to debauch others
+alſo. I am ſorry alſo to hear a Lay-man ſhoul [...] with ſo much malice
+declare, That a Bullet if round and ſmooth was not ſafe enou [...] for him to
+execute his Villanies by: But he muſt be ſure, not only to ſet his poyſono
+[...] invention on work about it, but he muſt add thereto his poyſonous Teeth;
+for ſe [...] if the Bullet were ſmooth, it might light in ſome part where the
+Wound might be  [...] red▪ But ſuch is the height of ſome mens Malice, that
+they will put all the Veno [...] and Malice they can into their actions. I am
+ſure this was ſo horrid a Deſign, th [...] nothing but a Conclave of Devils in
+Hell, or a Colledge of ſuch Jeſuits as yours  [...] Earth, could have thought
+upon.
+
+This I remember to you for the ſake of them that are to live, and for the
+Chari [...] I have for you, who are to die: for the ſake of them that are to
+live; for I hope when they hear that men of your Perſwaſion dare commit thoſe
+outragious Crime and juſtifie them by a Principle of Religion, they will not
+eaſily be ſeduced into yo [...] Opinion: And out of Charity to you that are to
+die, to perſwade you to hearty  [...] pentance; for otherwiſe I muſt tell
+you,, thy Fifteen hundred pound (ſpeaking Grove,) nor thy Thirty thouſand
+Maſſes (ſpeaking to Pickering) will avail but li [...] And I thought fit to
+ſay this alſo, that it may be known, that you have had the full  [...] nefit
+of the Laws eſtabliſhed in England, and thoſe the beſt of Laws; for ſuch is no
+[...] Law of other Nations, for if any Proteſtant in any place where the
+Romiſh Religio [...] profeſt, had been but thought guilty of ſuch Crimes, he
+had never come to the Fo [...] lity and Juſtice of Arraignment, and to be
+tryed by his Peers, permitted to make Defence, and hear what could be ſaid
+againſt him; but he had been hang'd immediat [...] or perhaps ſuffered a worſe
+Death. But you are not only beholding to the happy  [...] ſtitu [...] [[Page
+53]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=27) of our Laws,
+but to the more happy Conſtitution of our Religion. For  [...]he [...] are the
+admirable Documents of that Religion we in England profeſs, That we dare not
+requite Maſſacre for Maſſacre, Blood for Blood. We diſown and abhor all
+Stabbing; and we are ſo far from reckoning, that he ſhall be a Saint in Heaven
+for aſſaſſinating a Prince, and be prayed to in another world, that the
+Proteſtant is requi­red to believe, that ſuch that begin with Murther, muſt
+end with Damnation, if our bleſſed Lord and Saviour do not interpoſe; nothing
+that man can do, Papiſt or Prote­ſtant, can ſave any man in ſuch a caſe. We
+dare not ſay, that our Religion will per­mit us to murder Diſſenters, much
+leſs to aſſaſſinate Our King.
+
+And having thus ſaid, let me once more, as a Chriſtian, in the name of the
+great God of Heaven, beg of you, for your own Souls ſake, be not ſatisfied or
+overperſwaded with any Doctrine that you have preached to others, or imbibed
+from others, but believe that no one can contrive the Death of the King, or
+the overthrow of the Go­vernment; but the great God of Heaven and Earth will
+have an account of it▪ and all Pardons, Abſolutions, and the Diſpenſations
+that you who are Prieſts can give to your Lay-brother, or that any of your
+Superiors may give to you, will not ſerve the turn.
+
+I know not, but as I ſaid, you may think I ſpeak this to inſult, I take the
+Great God of Heaven to witneſs that I ſpeak it with Charity to your Souls, and
+with great ſorrow and grief in my own heart, to ſee men that might have made
+themſelves happy, draw upon themſelves ſo great a ruin▪ But ſince you have
+been ſo fairly heard, ſo fairly tryed and con­victed, there is but little more
+to be ſaid; For I muſt tell you, becauſe it may not be thought that you had
+not free liberty to make your full Defence, though that Gentleman (ſpeak­ing
+to Ireland) ſeemed to be ſurprized, he had a kind Siſter that took care for to
+bring his Witneſſes; I am ſo far from blaming her for it, that I do commend
+her, it was the Ef­fect of her good Nature, and deſerves Commendation; but I
+ſpeak to this purpoſe, to ſhew that there was no ſurprize upon him, nor his
+Life taken away by any ſuch thing; for he had a greater favour ſhewed to him
+than is uſually ſhown to ſuch Offen­ders.
+
+And having thus ſaid to you my ſelf, We do alſo require him whoſe duty it is
+to at­tend in ſuch caſes, nay, I do command him in the name of the Court, that
+he attend upon you to give, you all the comfortable aſſiſtance that he can,
+for the advan­tage of your future ſtate: And not only ſo, but we will cer
+[...]ainly take care, that if you will have any others come to you, they
+ſhall. I would not be miſtaken, I do not mean any of your Prieſts and Jeſuits;
+but if you will have the aſſiſtance of any Proteſtant Di­vines, they ſhall not
+be denyed you. And I hope, God Almighty will pleaſe to give you pardon in
+another world, though you have offended beyond hopes of any in this. I once
+more aſſure you, all I have ſaid is in perfect charity. I pray God forgive you
+for what you have done. And ſo there remains now only for me to pronounce that
+Sen­tence which by the Law of the Land the Court is required to do againſt
+perſons con­victed of that Offence▪ which you are convicted of.
+
+This Court doth therefore award,
+
+That you, the Priſoners at the Bar, be conveyed from hence to the place from
+whence you came, and from thence that you be drawn to the Place of Execution
+upon Hurdles, that there you be ſeverally hanged by the Neck, that you be cut
+down alive, that your Privy members be cut off, and your Bowels taken out, and
+burnt in your view: that your Heads be ſevered from  [...] [[Page
+52]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=28) [...] [[Page
+53]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=28) [[Page
+54]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=29) your Bodies,
+that your Bodies be divided into Quarters, and thoſe Quarters be diſpoſed the
+Kings Pleaſure: And the God of infinite mercy be merciful to your Souls.
+
+Then the Priſoners were conveyed back to the Goal by the keeper of the Goal,
+according to Cuſtome; and the Commiſſion was called over, and the priſoners
+taken Orde [...] for according to Law. And then the Count adjourned by
+Proclamation, thus.
+
+Cl. of Cr.
+
+Cryer make Proclamation.
+
+Cryer
+
+O yes, O yes, O yes, All manner of Perſons that have any thing more to do at
+this ge [...] er [...]l Seſſions of the Peace holden for the city of London,
+may depart hence for this time an [...] give their attendance at the Guild-
+hall London, on Fryday the 10th. day of January next, at ſeven of the Clock in
+the morning▪ And all manner of perſons at this Seſſions of Oyer a [...]
+Terminer, and Goal Delivery of Newgate holden for the City of London, and
+County of Mid­dleſex, may depart hence for this time, and give their
+attendance here again on Wedneſday i [...] 15th, day of January at ſeven of
+the clock in the Morning
+
+And then the Court broke up.
+
+God ſave the King. On Fryday the 24th. day of January following the Priſoners,
+William Ireland, and John Grove, were drawn from Newgate on a Hurdle to the
+Common place of Execution, where they were Executed, accor­ding to the
+Sentence pronounced againſt them.
+
+FINIS
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=100180&page=29)
+
+[Home](/)
+
+Ireland, William, 1636-1679.. Date: 1678  
+

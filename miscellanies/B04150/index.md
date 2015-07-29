@@ -1,0 +1,166 @@
+---
+layout: default
+---
+## (unknown project)
+
+# The London lasses hue-and-cry after her dearly beloved Robin, whom she
+unluckily lost last Saturday night. To the tune of the Rant. Licensed
+according to order.
+
+## Table of contents
+
+  * 1\. The London laſſes Hue-and-Cry After Her Dearly Beloved Robin, Whom ſhe unluckily loſt laſt Saturday Night.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=181903&page=1)
+
+## 1\. The London laſſes Hue-and-Cry After Her Dearly Beloved Robin, Whom ſhe
+unluckily loſt laſt Saturday Night.
+
+To the Tune of the Rant.
+
+Licenſed according to Order.
+
+_[figure]_
+
+_[figure]_
+
+GOod People pray give your Attention,
+
+Vnto this my new Hue-and-cry,
+
+Tis after my Love, and I'll mention
+
+his Form, and Apparrel, for why,
+
+Without him I can't be contented,
+
+he is the Sole-joy of my life,
+
+For him I have went, and lamented,
+
+I fear I ſhall ne'er be a Wife.
+
+O he is my joy, love and honey,
+
+I loſt  [...]im laſt Saturday night,
+
+I'd give twenty Shillings in Money
+
+to thoſe that bring him to light.
+
+He has I muſt tell ye, two Faces,
+
+his head it ſtands quite all awry,
+
+He Amb' [...]s and h [...]th all his Paces,
+
+likewiſe he is ſeven hands high.
+
+_[figure]_
+
+_[figure]_
+
+YOu'll ſay that there is not a ſweeter
+
+young man in the Kingdom than he,
+
+I now will d [...]ribe e'ry Feature,
+
+if that you will liſten to me.
+
+His Skin is as fair as tann'd Leather,
+
+likewiſe his ſweet Face to adorn,
+
+His Noſe and his Hat meets together
+
+turn'd up like a Sow-gelders-Ho [...]n.
+
+His Teeth they are black, green and yellow,
+
+thoſe changeable Colours are fine,
+
+And like to the fair Crimſon  [...]allow,
+
+his Cheeks too with Beauty does thine.
+
+His pretty ſweet Mouth I admire,
+
+which froaths like a Tankard of Purt,
+
+The hair of his Head like ſoft Wire,
+
+you'll find than of  [...]aggot-ſtick Curl,
+
+His pretty ſweet Eyes like two Saweers,
+
+his wounded my heart now I ſee,
+
+His Ears they ſtand out like two  [...]aw [...]ers,
+
+a pretty ſweet Creature is he.
+
+Now having deſcribed his Beauty,
+
+his Body muſt no ways eſcape,
+
+For here I account it my Duty,
+
+is tell ye his delicate ſhape.
+
+I think in the waſte he is ſmaller
+
+than the largeſt  [...] of a Drum,
+
+Beſides I am ſure he is taller
+
+by the head, than honeſt Tom Thumb.
+
+O he  [...]s a moſt delicate Og [...]re,
+
+his Hips they do ſtand out behind
+
+As broad as a Buſhel and bigger,
+
+would I this ſweet Creature could find.
+
+Some Uillains his death has contrected,
+
+[...] he'd not have left me I'm ſure,
+
+I ſhall go quite mad and diſtracted,
+
+this loſs I can never endure.
+
+Look after my love Friends and mind him.
+
+his Age is about twenty five,
+
+A Guinay I'll gi [...]e thoſe that find him,
+
+and bring him now dead or alive.
+
+Perhaps they have preſt my ſweet Iewel,
+
+to give him as  [...]rers place,
+
+But ſure they wou'd ne'er be ſo cruel,
+
+to take ſuch a pretty ſweet f [...]ce.
+
+Goods People with pitty be fill'd  [...]o,
+
+and ſeek  [...] all with one accord,
+
+Then come to the ſign of the Dildoe,
+
+and there you ſhall have your Reward.
+
+## Appendix A
+
+Printed for P. Brooksby, I. Deacon, I. Blare, and [...]. Yack.
+
+[Home](/)
+
+Date: 1688-1692?  
+

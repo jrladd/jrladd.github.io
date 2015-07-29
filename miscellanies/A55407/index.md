@@ -1,0 +1,257 @@
+---
+layout: default
+---
+## (unknown project)
+
+# Poor Robins ansvver to Mr. Thomas Danson author of the late friendly debate
+between Satan and Sherlocke: as also of another pamphlet since published;
+pretended to be a defence of that debate against Poor Robin and others. By the
+author of Poor Robin's Weekly Intelligence. This may be printed, Feb. 6. 1677.
+Ro: L'Estrange.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=35437&page=1)
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=35437&page=1)
+
+POOR ROBINS ANSVVER TO Mr. Thomas Danſon
+
+Author of the Late FRIENDLY DEBATE BETWEEN SATAN and SHERLOCKE: As alſo of
+another Pamphlet ſince Publiſhed; Pretended to be A Defence of that Debate
+againſt POOR ROBIN and others.
+
+Bilem, Saepe Jocum veſtri movêre Tumultus.
+
+By the Author of POOR ROBIN'S Weekly Intelligence.
+
+This may be Printed, Feb. 6\. 1677. Ro▪ L'Eſtrange▪
+
+London, Printed in the Year, 1677.
+
+## Table of contents
+
+  * 1\. POOR ROBIN'S ANSWER, &c.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=35437&page=2)
+
+[[Page 1]](http://eebo.chadwyck.com/downloadtiff?vid=35437&page=2)
+
+## 1\. POOR ROBIN'S ANSWER, &c.
+
+Post varias Remoras, post tot Diſcrimina Praeli,
+
+—Coram quem quaeritis Adſum.
+
+THis Conteſt between Mr. Danſon and my ſelf, will I pre­ſume, appear ſo
+ſurprizing and unexpected; that as it happens in ſudden Frays, the firſt Quere
+generally ſtarted is like to be, How fell you out? To ſatisfie which, I muſt
+diſpence with the Vanity of telling the World; that (what­ever Fools thinks,
+or Knaves Report) our Weekly Intelligence is not publiſht ſolely to Get Money,
+(though that be an Ingredient which inſinuates in moſt undertakings) nor
+meerly to Entertain the Idle with Stories, and furniſh Coffee-Houſes with
+Chat, (though for that ſome ungrateful Dons are not a little oblig'd, for
+without ſuch Innocent Diverſions, 'tis a thouſand to one but their Tongues
+would be imploy'd to the Hazard of their Ears.) But beſides theſe, ano­ther
+main uſe of that Sheet, is for Extravagants to do Pennance in: To Expoſe Vice
+and Ill Nature to deſerv'd contempt, and if poſſible Laugh Foppery out of
+Countenance and Practice. Thus the Name of POOR ROBIN becomes more awful than
+an Apparitors, keeps the peace no leſs than the Conſtable, and makes thoſe
+tremble who bid defiance to the Stocks and the Whipping-Poſt, whilſt yet he
+diſpences his Corrections with ſo much Mildneſs, that onely the conſcious feel
+the Laſhes; and By-ſtanders could ſcarce take notice of their Chaſt
+[...]zements, did not their own Wincing proclaim their perſonal Guilt, and
+ſummon a crowd to whoot at their Folly.
+
+In which Predicament we muſt Rank Mr. Danſon's Printed Re­ſentments: For
+certainly, as never Man gave more Cauſe for a Sa­tyrical Reflection, ſo none
+but his Diſcreet ſelf would ſince have taken the pains ſo amply to ſatisfie
+the World how well he deſerv'd it. Wiſe and good Men cannot but abhor that
+miſcheivous humour of teſty Fencers in Divinity, who like Tavern Bullies catch
+up what­ever ſtands next, and convert it into a Weapon, or New Medi [...], (as
+our Author calls it) for carrying on a Brangle, which too of [...] is no leſs
+unneceſſary than unſeaſonable: the one but Milking an [[Page
+2]](http://eebo.chadwyck.com/downloadtiff?vid=35437&page=3) He-Goat, whilſt
+the other holds under a Seive; But for a Perſon of his pretended Piety and
+Gravity to abuſe an-Eminent Miniſter by repreſenting him Dialoguing with, and
+Preaching Salvation to the Devil: and by ſlanderous Imputations, mangling his
+words, and put­ting Innocent Expreſſions on the Rack of Malice. To Extort an
+odi­ous Meaning which 'tis like his thoughts were never Guilty of, was ſuch a
+Matchleſs peice of Diſingenuity, that I co [...]ld not but think't deſerv'd to
+be expos'd in a D [...]vertiſement to the Hiſs and Laughter of all the world.
+
+As for the Merits of the cauſe, or Original Controverſie I ſhall not meddle,
+for 'tis dangerous trampling in Holy Ground, unleſs our Shooes are firſt
+pluckt off. I mean, that Lightneſs Prejudice, Self-conceit and Opiniaſtry
+remov'd; wherein moſt Men are too apt to walk. And beſides, 'tis the opinion
+of Wiſer Men, that Mr. Sher­lock has ſo fully Juſtifi'd his Principles, that
+his Book may ſerve as a ſufficient Anſwer, not only to his Adverſaries firſt
+Pamphlet, but the latter too (which pretends to be a Reply to it.) And even
+whatever elſe, Indefatigable Impertinence ſhall ſcribble for the future on
+this ſubject; if people will be but at the pains to conſider and compare his
+Words with the others wild diſtorted Inferences only give me leave to ſay;
+That I cannot think Mr. Danſon, for all his Clamours to be ſo much at odds
+with the foul Fiend as he pretends, for what can be more favourable and
+obliging, then when p. 3\. of his Defence, he poſſitively, and no leſs
+Blaſphemouſly calls God, The Devils Be­nefactor▪ and abuſes a ſacred Text to
+countenance his madneſs. Had Mr. S. been Guilty of ſuch an Obnoxious
+Expreſſion, 'twould no doubt have afforded Tragical matter enough for Two or
+Three more Ʋnfriendly Debates.
+
+But waving the Body of the Pamphlet, I ſhall take notice onely of what he has
+been pleas'd particularly to concern me in, Viz. The Preface; and this forlorn
+Hope comes fronted with Two of our Au­thors Cardinal Vertues, Boaſting and
+Falſhood; Telling the World that his late friendly Debate between Satan and
+Sherlock had a ve­ry fair Reception both as to matter and MANNER, from all
+Ranks and Orders, Learned, Intelligent and Pious —Now how well the
+Illegitimate Brat was reſented by Perſons of the beſt RANK; Thoſe that Mid-
+Wiv'd it into the World have ſome little reaſon not to forget: and 'tis
+notorious that moſt modeſt Men of his own [[Page
+3]](http://eebo.chadwyck.com/downloadtiff?vid=35437&page=3) party and
+Sentiments in the matter of the Controverſie were ſo far diſſatisfi [...]d
+with his ſcandalous manner of managi [...]g it, as generally to diſown and
+condemn it.
+
+But he proceeds. It had a very foul R [...]ception from other [...] of Mr.
+Sherlocks perſwaſion, from whom as I will not ſo much d [...] as to deny them
+their ſhare in the two firſt Characters; So, NOR, AS NOT to deny them any in
+the laſt, &c. You ſee the Gentleman has ſo blundered himſelf of late in
+Logick, that he has forgot his Gram­mar, and now cannot ſpeak without Nonſenſe
+and Soleciſmes. There is a credible ſtory of a certain Quondam Fellow of M
+[...]dlins, (you know the Stars name, no body Mr. Danſon!) that ſince the
+memory of man undertook to teach ſome Gentlemen Latine; but having got an
+encouraging ſpill  [...] [...]ſh'd and never came at them more; I fear our
+[...] ſome ſuch ſlippery trick by the Learned Ma [...]ron that  [...] have
+taught him Engliſh.
+
+After a very punctual Recital of a Divertiſemement in our In­telligence,
+beginning— There is lately publiſht a Dialogue be­tween a Monkey and his
+Looking▪Glaſs, &c. This Hero of the Gooſe­quill turns up his Muſtacho's, and
+ſays— He would ſcorn to take notice of that abuſ [...], if he had not Good
+Ground to believe Mr Sher­lock as truly the Authour of it, as other Men are of
+the Weekly Ad­vertiſements; ſure he imagines Poor Robin to be of Kin to
+Smectym  [...].
+
+"Where tuck'd under each Arm a double Gizzard,
+
+"Five Faces lurk u [...]der a ſingle Vizzard.
+
+I confeſs I have often with much ſatisfaction over-heard grave Coxcombs
+relate; that as many Authors Club to an Intelligence as there go Taylors to a
+Man; that we tug at the Pen like Slaves at the Oar a whole Bank together, and
+write in the poſture that the Sweeds give fire in, over one anothers heads;
+Nay ſome have been ſo impu­dent as to pretend intimate acquaintance with half
+a dozen of the Fraternity of Robin-Writers. But that any of the Tribe of Levi
+had any Finger in the Pye is a ſlander, that none but the Devils Dia­logue-
+maker would ſuggeſt; for in truth the Ground of his belief (as well in this as
+greater matters) is like to prove nothing but Fancy, or rather Malice, which
+cares not what it reports, ſo he may caſt an Odium upon Mr. Sherlock; If I
+ſhould ſay I have good ground to be­lieve; Mr. Danſon addicted to Gaming,
+Bowls, Nine pins, &c. [[Page
+4]](http://eebo.chadwyck.com/downloadtiff?vid=35437&page=4) No doubt he would
+cry out calumny and Slander; and yet I can ſhew where he was charged therewith
+in Print ſome Years ſince, and which he never diſprov'd that I know of; A far
+better ground for believing it, than any he can produce in this caſe; For I do
+So­lemnly declare (and know no reaſon but my unbias'd Teſtimony may be
+Credited before his Envious Surmiſes) That the ſaid Divertiſe­ment was ne
+[...]ther Directly nor Indirectly promoted or procured by Mr. Sherlocke (whom
+to my knowledge I never ſaw, nor never had any Correſpondence with) nor by any
+from him, or on his behalf; But was i [...]ſerted out of that Natural
+Antipathy and contempt I bear to ſuch a Ridiculous and Abuſive piece of
+Foppery as the Title, and Contrivance of that Pamphlet.
+
+But now behold! The Man of Sylogiſmes comes furiouſly to Attaque our
+Divertiſement, and gravely Confound it with a Firſt, Second, Third, and
+Fourth—ly; Beloved;—
+
+Firſt, It was not Well Witted; Though few that know Mr. Danſon can admit him
+for a Competent Judge; Yet let's hear his reaſon; The Monkey, (he ſays) muſt
+needs be Satan: &c. And why muſt it be ſo; S [...]r Poſitive? May it not ſerve
+as well to Emble­matize your Worſhip? who being like thoſe unlucky Ani­mals,
+of a medling Enterprizing humour, and having made abun­dance of ſtrange
+Grimaces, took them, when repreſented in your Crackt Imagination for a Picture
+of Mr. Sherlock; And ſo frighted with your own hideous Reflection, Conjur'd up
+a pittiful Devil to de­bate with Abſurdities, that had no body but your ſelf
+for their Author.
+
+Secondly, He ſays, It was not well worded, becauſe there is no reaſon the
+Arguments manag'd by Satan ſhould be ſtiled the Non-Conformiſts; Yes Sir! Two
+or Three ſmall reaſons there are: Firſt, Becauſe what ever looks like an
+Argument is generally borrowed (not to ſay ſtoln) from the Non Con's Books;
+onely the railing abu­ſive part is intirely your own. Secondly, Your Satan
+declares him­ſelf to be a very Preciſe Devil; A Conſtant and A [...]tentive
+Hearer at Conventi [...]les, &c. Thirdly, Becauſe your ſelf ſeem'd very fond,
+it ſhould be thought ſo, making your Devils Common Formula of Uſhering in his
+Arguments to be thus A Phanatick would preſs you, p. 7. The Calviniſts will
+object, p. 16. would J.O.. ſay, p. 30 Would a Fanatick ſay, p, 34. Fanaticks
+think, p. 38. &c.
+
+In the next Lines Mr. Danſon grows modeſt, Diſclaims his having [[Page
+5]](http://eebo.chadwyck.com/downloadtiff?vid=35437&page=4) Improv'd the Art
+of Scolding, yet acknowledges he had found out an unheard of way to abuſe any
+Antagoniſt: Theſe are his words; — The unheard of way to abuſe any Antagoniſt,
+diſcovered in the Friendly Debate, was not the Improvement of the 8th▪ Liberal
+Art which the Vulgar call ſcolding (for that may be heard every day at
+Billingſgate) but the choice of a Dialogiſt—That was the No­velty; A Novelty
+indeed! and ſince we owe the diſcovery wholly to Mr. Danſons Ingenuity, I am
+content he ſhould have a Patent to Monopolize the Invention to Him and his
+Heirs; Nor is the Myſte­ry of Scolding ſo little beholding to him for its
+Improvement, as he baſhfully pretends; For as the Common Profeſſors of Railing
+have their Figures, and Peculiar Ornaments, though not ſo learnedly
+diſtinguiſht by the Names of Sarcaſmus, Aſteiſmus, Mict [...]riſmus,
+Antiphraſis, Charientiſmus, or Ironia, yet have they their dry Bobs, their
+broad flouts, bitter taunts, their fleering ſrumps, and their privy Nipps; And
+at this Rhetorick Mr. Danſon is Excellent, as himſelf confeſſes, to make the
+Devil play upon Mr. Sherlocke.—As p. 22\. Now we are under the Roſe, I will
+tell you truely I believe all your talk of a Saviour is but a copy of your
+countenance; p. 38. I believe all Chriſts Revelations, and were I ſure none
+but Friends were within hearing, I would ſay that's more than you do; p. 4.
+None of your Clubb (which it ſeems is a very merry Clubb, p. 43.) care much
+for Paul, &c. But above all, that figure is Superlatively fine, and wholly
+Novel in his Preface to The Defence, where he calls Mr. Sherlock—Whore.
+
+Thirdly, He taxes the Divertiſement as Guilty of calamny, al­l [...]adgeing
+there is no hint of Bawdry in the words Operam Dare ad Liberos procreandos,
+they ſignifying no more than to have conjugal commerce; I confeſs Commerce is
+a very pretty and appoſite term, that is, To Truck Ware for Ware; But why the
+Latine muſt be ren­dred conjugal, rather than any other private Commerce I am
+yet to learn; And indeed who could Imagine but our Author, or (which is all
+one) his Devil was not a little Tickled with ſome conceit, when he draggs in
+by Head and Ears ſuch a pittiful ſhred of Bumbaſt, where there is not the
+leaſt occaſion for't, but meerly for the L [...]tch­ery of Latine, and then
+cackles over it thus—You ſee as old as I am I have not forgot all my Latine.
+
+He takes it ill, That the Divertiſer ſhould recommend him to a Scotch
+Caſemont, which, he, ſays, Is a Pillory.—Seriouſly a Pro­found [[Page
+6]](http://eebo.chadwyck.com/downloadtiff?vid=35437&page=5) found Commentator!
+but I warrant you he had never hit on't ſo luckily, had not Conſciouſneſs of
+his own merits aſſiſted his gueſ­ſing: For not to mention their deſerts who
+not onely publiſh Pam­phlets without Licenſe, but alſo abuſe the Ipprimaturs
+of Authori­ty, as he does Pr. Deb. p. 28, and 49. 'tis certain that Forgery is
+a cr [...]me generally puniſhable by the Wooden Ruff, and how far guilty of
+that (at leaſt againſt conſcience and honeſty, though not within the Statute)
+Mr. D. is by Miſrepreſenting Mr. S [...]. words and ſenſe, Is obvious to every
+conſiderate Reader.
+
+But I am farr from the Malice he charges me with, or wiſhing the leaſt Ill to
+his Perſon, and would adviſe him (as a Friend) to calm that fiery, contentious
+ſpirit, which hurries him into theſe Abſur­dities; Not to ſuffer blind furious
+Zeal to conſume all his Charity; Nor think every man that diſſents from his
+Sentiments an Atheiſt, a Mahumetan, or Subverter of the Goſpel; and if he
+needs muſt be  [...]ling in Polemicks, to treat his Antagoniſts hereafter with
+the Candor of a Scholar, the Civility of a Gentleman, the Gravity of a
+Miniſter, and the Moderation of a Chriſtian; this I am ſure is whol­ſom
+Councel, but if he will neglect it, and proceed as he has be­gun, I would wiſh
+him to Imitate his Brother R. to betake himſelf to the Study of Phyſick in the
+Galenical way, with particular regard to the nature of Hellebore and its
+Operation, which may be of great uſe this Spring to a perſon of his
+complexion, and prevent the dire effects otherwiſe threatned in the Dog-daies.
+
+Sed— Motos praeſtat Componere Fluctus.
+
+—FINIS.
+
+[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=35437&page=5)
+
+[Home](/)
+
+Date: 1677  
+

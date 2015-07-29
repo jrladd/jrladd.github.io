@@ -1,0 +1,368 @@
+---
+layout: default
+---
+## (unknown project)
+
+# Robin Hood and the shepherd: shewing how Robin Hood, little John and the
+shepherd fought a sore combate. Tune is, Robin Hood and Queen Katherine.
+
+## Table of contents
+
+  * 1\. Robin Hood and the Shepherd: Shewing how Robin Hood, little John and the Shepherd fought a ſore Combate.
+    * 1.1. The Second Part
+
+[[Page 392]](http://eebo.chadwyck.com/downloadtiff?vid=183517&page=1)
+
+## 1\. Robin Hood and the Shepherd: Shewing how Robin Hood, little John and
+the Shepherd fought a ſore Combate.
+
+Tune is, Robin Hood and Queen Katherine.
+
+_[figure]_
+
+_[figure]_
+
+ALl Gentlemen and Yoemen good,
+
+down a down down,
+
+I wiſh you to draw near,
+
+for a ſtory of gallant bold Robin Hood
+
+Vnto you I will declare.
+
+down a down down.
+
+As Robin Hood walkt the Forreſt along,
+
+down a, &c.
+
+Some paſtime for to ſpy,
+
+there was he aware of a jolly ſhepherd
+
+That on the ground did lye:
+
+down a, &c.
+
+Ariſe, ariſe, ſaid jolly Robin,
+
+down a, &c.
+
+And now come let me ſee,
+
+what is in thy bag and bottle I ſay,
+
+Come tell it unto me:
+
+down a, &c.
+
+What's that to thee, thou proud fellow,
+
+down a, &c.
+
+Tell me as I do ſtand,
+
+what thou haſt to do with my bag and bot­tle,
+
+Let me ſee thy command:
+
+down a, &c.
+
+My Sword that hangeth by my ſide,
+
+down a, &c.
+
+Is my command I know,
+
+come and let me taſte thy Bottle,
+
+Or it may breed thy woe:
+
+down a,
+
+The Devil a drop thou proud fellow,
+
+down a, &c.
+
+Of my bottle thou ſhalt ſee,
+
+until thy valour here be try'd,
+
+Whether thou wilt ſight or flee:
+
+down a, &c.
+
+What ſhall we fight for, cries Robin Hood
+
+down a, &c.
+
+Come tell it ſoon to me,
+
+here's twenty pound in good red gold.
+
+Win it and take it thee:
+
+down a, &c.
+
+### 1.1. The Second Part
+
+to the ſame Tune.
+
+THE Shepherd ſtood all in a maze
+
+down a, &c.
+
+And knew not what to ſay,
+
+I have no money thou proud fellow,
+
+But bag and bottle i'le lay:
+
+down a, &c.
+
+I am content thou Shepherd Swain,
+
+down a, &c.
+
+Fling them down on the ground,
+
+but it will breed thee mickle pain
+
+To win my twenty pound:
+
+down a, &c.
+
+Come draw thy ſword thou proud fellow,
+
+down a, &c.
+
+Thou ſtandeſt too long to prate,
+
+this Hook of mine ſhall let thee know
+
+A Coward I do hate:
+
+down a, &c.
+
+So they fell to it full hardy and ſore,
+
+down a, &c.
+
+It was on a Summers day,
+
+from ten till four in the Afternoon,
+
+The ſhepherd held him play,
+
+down a, &c.
+
+Robin's Buckler prov'd his chiefeſt defence,
+
+down a, &c.
+
+And ſaved him many a bang,
+
+for every blow the ſhepherd gave.
+
+Made Robin's ſword cry twang:
+
+down a, &c.
+
+Many a ſturdy blow the the ſhepherd gave,
+
+down a, &c.
+
+And that bold Robin found,
+
+till the blood ran trickling from his head,
+
+Then he fell to the ground:
+
+down a, &c.
+
+Ariſe, ariſe thou proud fellow,
+
+down a, &c.
+
+And thou ſhalt have fair play,
+
+it th [...] wilt yield before thou go
+
+That  [...] have won the day;
+
+down a, &c.
+
+A boon boon, cry'd bold Robin,
+
+down a, &c.
+
+If that a man thou be,
+
+then let me take my beagle-horn,
+
+And blow but blaſts three:
+
+down a, &c.
+
+Then ſaid the ſhepherd to bold Robin,
+
+down a, &c.
+
+To that I will agree:
+
+for if thou ſhould blow till to morrow morn
+
+I ſcorn one foot to flee:
+
+down a, &c.
+
+Then Robin he ſet his Horn to his mouth,
+
+down a, &c.
+
+And he blew with might and main,
+
+until he eſpy'd little John
+
+Come tripping over the Plain;
+
+down a, &c.
+
+O who is yonder thou proud fellow
+
+down a, &c.
+
+That comes down yonder hill?
+
+yonder is John, bold Robin Hood's man,
+
+Shall fight with thee thy fill.
+
+down a, &c.
+
+What is the matter ſays little John,
+
+down a, &c.
+
+Maſter come tell to me;
+
+my caſe is bad, cries Robin Hood,
+
+For the ſhepherd hath conquered me:
+
+down a, &c.
+
+I am glad of that, cries little John,
+
+down a, &c.
+
+Shepherd turn thou to me,
+
+for about with thee I mean to have,
+
+Either come fight or flee:
+
+down a, &c.
+
+With all my heart thou proud fellow,
+
+down a, &c.
+
+For it ſhall never be ſaid
+
+that a ſhepherds hook of thy ſturdy look
+
+Will one jot be diſmay'd.
+
+down a, &c.
+
+So they fell to it full hardy and  [...]
+
+down a, &c.
+
+Striving for Victory;
+
+I will know (ſays John) e're we  [...]
+
+Whether thou wilt fight or flee:
+
+down a, &c.
+
+The ſhepherd gave John a ſturdy  [...]
+
+down a, &c.
+
+With his Hook under the Chin;
+
+be ſhrew they heart ſaid little John
+
+Thou baſely doſt begin:
+
+down a, &c.
+
+Nay, that is nothing, ſaid the ſhep [...]
+
+down a, &c.
+
+Either yield to me the day,
+
+or I will bang thy back and ſides
+
+Before thou goeſt thy way:
+
+down a, &c.
+
+What doſt thou think thou proud fell [...]
+
+down a, &c.
+
+That thou canſt conquer me,
+
+nay, thou ſhalt know before thou [...]
+
+I'le fight before i'le flee:
+
+down a, &c.
+
+Again the ſhepherd laid on him,
+
+down a, &c.
+
+The ſhepherd he began
+
+hold, hold, cry'd bold Robin,
+
+I will yield the wager won:
+
+down a, &c.
+
+With all my heart, ſaid little John,
+
+down a, &c.
+
+To that I will agree:
+
+for he is the flower of ſhepherd ſ [...]
+
+The like I did never ſee:
+
+down a, &c.
+
+Thus have you heard of Robin Hood
+
+down a, &c.
+
+Alſo of little John,
+
+how a ſhepherd ſwain did  [...]
+
+The like was never known
+
+down a down a down a down
+
+[Home](/)
+
+Date: 1685  
+
