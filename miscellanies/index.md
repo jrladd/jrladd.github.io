@@ -4,6 +4,7 @@ layout: default
 
 #Index of Miscellanies
 
+{% include A76332.md %}
 
 **Author:**  Fitzgeffrey, Henry.; Beaumont, Francis, 1584-1616.; Drayton, Michael, 1563-1631.; Hookes, Nathaniel, fl. 1618, attributed name.
 
