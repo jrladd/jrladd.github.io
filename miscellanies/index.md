@@ -12,7 +12,7 @@ layout: default
 **Date:**  1618
 
 [A00825](/miscellanies/A00825.html)
-
+---
 
 
 **Author:**  Garrard, William, d. 1587.; Hitchcock, Robert, Captain. aut; Garrard, Thomas.
@@ -22,7 +22,7 @@ layout: default
 **Date:**  1591
 
 [A01504](/miscellanies/A01504.html)
-
+---
 
 
 **Author:**  Goodcole, Henry, 1586-1641.
@@ -32,7 +32,7 @@ layout: default
 **Date:**  1618
 
 [A01873](/miscellanies/A01873.html)
-
+---
 
 
 **Author:**  Rowlands, Samuel, 1570?-1630?; Greene, Robert, 1558?-1592.
@@ -42,7 +42,7 @@ layout: default
 **Date:**  1602
 
 [A02101](/miscellanies/A02101.html)
-
+---
 
 
 **Author:**  Greene, Robert, 1558?-1592.
@@ -52,7 +52,7 @@ layout: default
 **Date:**  1599
 
 [A02120](/miscellanies/A02120.html)
-
+---
 
 
 **Author:**  Greene, Robert, 1558?-1592.; Lab, Louise, 1526?-1566. Debat de folie et d'amour.
@@ -62,7 +62,7 @@ layout: default
 **Date:**  1584
 
 [A02122](/miscellanies/A02122.html)
-
+---
 
 
 **Author:**  Greene, Robert, 1558?-1592.; Lab, Louise, 1526?-1566. Debat de folie et d'amour.
@@ -72,7 +72,7 @@ layout: default
 **Date:**  1608
 
 [A02124](/miscellanies/A02124.html)
-
+---
 
 
 **Author:**  Baldwin, William, ca. 1518-1563?
@@ -82,7 +82,7 @@ layout: default
 **Date:**  1554
 
 [A02331](/miscellanies/A02331.html)
-
+---
 
 
 **Author:**  Hannay, Patrick, d. 1629?; Brathwaite, Richard, 1588?-1673. Good wife. aut
@@ -92,7 +92,7 @@ layout: default
 **Date:**  1619
 
 [A02618](/miscellanies/A02618.html)
-
+---
 
 
 **Author:**  Henryson, Robert, 1430?-1506?
@@ -102,7 +102,7 @@ layout: default
 **Date:**  1570
 
 [A03024](/miscellanies/A03024.html)
-
+---
 
 
 **Author:**  
@@ -112,7 +112,7 @@ layout: default
 **Date:**  1588
 
 [A03731](/miscellanies/A03731.html)
-
+---
 
 
 **Author:**  Surrey, Henry Howard, Earl of, 1517?-1547.; Wyatt, Thomas, Sir, 1503?-1542.; Grimald, Nicholas, 1519-1562.; Tottel, Richard, d. 1594.
@@ -122,7 +122,7 @@ layout: default
 **Date:**  1557
 
 [A03742](/miscellanies/A03742.html)
-
+---
 
 
 **Author:**  Laud, William, 1573-1645.
@@ -132,7 +132,7 @@ layout: default
 **Date:**  1622
 
 [A05166](/miscellanies/A05166.html)
-
+---
 
 
 **Author:**  Leland, John, 1506?-1552.; Robinson, Richard, citizen of London.
@@ -142,7 +142,7 @@ layout: default
 **Date:**  1582
 
 [A05297](/miscellanies/A05297.html)
-
+---
 
 
 **Author:**  Lightfoot, John, 1602-1675.
@@ -152,7 +152,7 @@ layout: default
 **Date:**  1629
 
 [A05462](/miscellanies/A05462.html)
-
+---
 
 
 **Author:**  Lodge, Thomas, 1558?-1625.
@@ -162,7 +162,7 @@ layout: default
 **Date:**  1591
 
 [A06166](/miscellanies/A06166.html)
-
+---
 
 
 **Author:**  Beaumont, Francis, 1584-1616.; Fletcher, John, 1579-1625. aut; Sidney, Philip, Sir, 1554-1586. Arcadia.
@@ -172,7 +172,7 @@ layout: default
 **Date:**  1615
 
 [A06177](/miscellanies/A06177.html)
-
+---
 
 
 **Author:**  Marlowe, Christopher, 1564-1593.; Nash, Thomas, 1567-1601. aut
@@ -182,7 +182,7 @@ layout: default
 **Date:**  1594
 
 [A07023](/miscellanies/A07023.html)
-
+---
 
 
 **Author:**  Belchier, Dabridgcourt, 1580?-1621.
@@ -192,7 +192,7 @@ layout: default
 **Date:**  1618
 
 [A07637](/miscellanies/A07637.html)
-
+---
 
 
 **Author:**  Munday, Anthony, 1553-1633.; Henry, Chettle, d. 1607?. aut
@@ -202,7 +202,7 @@ layout: default
 **Date:**  1601
 
 [A07897](/miscellanies/A07897.html)
-
+---
 
 
 **Author:**  M. P. (Martin Parker), d. 1656?
@@ -212,7 +212,7 @@ layout: default
 **Date:**  1633
 
 [A08948](/miscellanies/A08948.html)
-
+---
 
 
 **Author:**  M. P. (Martin Parker), d. 1656?
@@ -222,7 +222,7 @@ layout: default
 **Date:**  1634
 
 [A08977](/miscellanies/A08977.html)
-
+---
 
 
 **Author:**  Patrizi, Francesco, 1413-1494.; Robinson, Richard, citizen of London.
@@ -232,7 +232,7 @@ layout: default
 **Date:**  1576
 
 [A09163](/miscellanies/A09163.html)
-
+---
 
 
 **Author:**  L. P. (Laurence Price), fl. 1625-1680?
@@ -242,17 +242,7 @@ layout: default
 **Date:**  1636
 
 [A10065](/miscellanies/A10065.html)
-
-
-
-**Author:**  Rhegius, Urbanus, 1489-1541.; Robinson, Richard, citizen of London.
-
-**Title:**  The solace of Sion, and ioy of Ierusalem. Or consolation of Gods church in the latter age redeemed by the preaching of the Gospell vniuersallye. Beeing a godly and learned exposition of the Lxxxvij. Psalme of the princelye prophet Dauid: written in Latine by the reuerend Doctor Vrbanus Regius, pastor of Christes Church at Zelle, in Saxonie. 1536. Translated into english by R. Robinson citizen of London 1587.; Psalmus octuagesimus septimus, de gloriosa Christi ecclesia
-
-**Date:**  1587
-
-[A10583](/miscellanies/A10583.html)
-
+---
 
 
 **Author:**  Rhegius, Urbanus, 1489-1541.; Robinson, Richard, citizen of London.
@@ -262,7 +252,17 @@ layout: default
 **Date:**  1587
 
 [A10583](/miscellanies/A10583.html)
+---
 
+
+**Author:**  Rhegius, Urbanus, 1489-1541.; Robinson, Richard, citizen of London.
+
+**Title:**  The solace of Sion, and ioy of Ierusalem. Or consolation of Gods church in the latter age redeemed by the preaching of the Gospell vniuersallye. Beeing a godly and learned exposition of the Lxxxvij. Psalme of the princelye prophet Dauid: written in Latine by the reuerend Doctor Vrbanus Regius, pastor of Christes Church at Zelle, in Saxonie. 1536. Translated into english by R. Robinson citizen of London 1587.; Psalmus octuagesimus septimus, de gloriosa Christi ecclesia
+
+**Date:**  1587
+
+[A10583](/miscellanies/A10583.html)
+---
 
 
 **Author:**  Robinson, Clement, fl. 1566-1584.
@@ -272,7 +272,7 @@ layout: default
 **Date:**  1584
 
 [A10831](/miscellanies/A10831.html)
-
+---
 
 
 **Author:**  Robinson, John, 1575?-1625.
@@ -282,7 +282,7 @@ layout: default
 **Date:**  1624
 
 [A10833](/miscellanies/A10833.html)
-
+---
 
 
 **Author:**  Robinson, John, 1575?-1625.
@@ -292,7 +292,7 @@ layout: default
 **Date:**  1625
 
 [A10834](/miscellanies/A10834.html)
-
+---
 
 
 **Author:**  Robinson, John, 1575?-1625.
@@ -302,7 +302,7 @@ layout: default
 **Date:**  1610
 
 [A10835](/miscellanies/A10835.html)
-
+---
 
 
 **Author:**  Robinson, John, 1575?-1625.
@@ -312,7 +312,7 @@ layout: default
 **Date:**  1615
 
 [A10838](/miscellanies/A10838.html)
-
+---
 
 
 **Author:**  Robinson, John, 1575?-1625.
@@ -322,7 +322,7 @@ layout: default
 **Date:**  1614
 
 [A10843](/miscellanies/A10843.html)
-
+---
 
 
 **Author:**  Robinson, John, 1575?-1625.
@@ -332,7 +332,7 @@ layout: default
 **Date:**  1634
 
 [A10844](/miscellanies/A10844.html)
-
+---
 
 
 **Author:**  Robinson, Richard, citizen of London.
@@ -342,7 +342,7 @@ layout: default
 **Date:**  1577
 
 [A10846](/miscellanies/A10846.html)
-
+---
 
 
 **Author:**  Robinson, Robert, Londoner.
@@ -352,7 +352,7 @@ layout: default
 **Date:**  1617
 
 [A10851](/miscellanies/A10851.html)
-
+---
 
 
 **Author:**  Robinson, Thomas, fl. 1589-1609.
@@ -362,7 +362,7 @@ layout: default
 **Date:**  1609
 
 [A10856](/miscellanies/A10856.html)
-
+---
 
 
 **Author:**  Robinson, Thomas, fl. 1589-1609.
@@ -372,7 +372,7 @@ layout: default
 **Date:**  1603
 
 [A10857](/miscellanies/A10857.html)
-
+---
 
 
 **Author:**  Sharpham, Edward, 1576-1608.; Boccaccio, Giovanni, 1313-1375. Decamerone. Day 7. Novel 6.
@@ -382,7 +382,7 @@ layout: default
 **Date:**  1607
 
 [A12074](/miscellanies/A12074.html)
-
+---
 
 
 **Author:**  
@@ -392,7 +392,7 @@ layout: default
 **Date:**  1631
 
 [A12272](/miscellanies/A12272.html)
-
+---
 
 
 **Author:**  Strigel, Victorinus, 1524-1569.; Robinson, Richard, citizen of London.
@@ -402,7 +402,7 @@ layout: default
 **Date:**  1582
 
 [A13064](/miscellanies/A13064.html)
-
+---
 
 
 **Author:**  Strigel, Victorinus, 1524-1569.; Robinson, Richard, citizen of London.
@@ -412,7 +412,7 @@ layout: default
 **Date:**  1591
 
 [A13065](/miscellanies/A13065.html)
-
+---
 
 
 **Author:**  Strigel, Victorinus, 1524-1569.; Robinson, Richard, citizen of London.
@@ -422,7 +422,7 @@ layout: default
 **Date:**  1595
 
 [A13068](/miscellanies/A13068.html)
-
+---
 
 
 **Author:**  Strigel, Victorinus, 1524-1569.; Robinson, Richard, citizen of London.
@@ -432,7 +432,7 @@ layout: default
 **Date:**  1596
 
 [A13069](/miscellanies/A13069.html)
-
+---
 
 
 **Author:**  Strigel, Victorinus, 1524-1569.; Robinson, Richard, citizen of London.
@@ -442,7 +442,7 @@ layout: default
 **Date:**  1598
 
 [A13070](/miscellanies/A13070.html)
-
+---
 
 
 **Author:**  A. T., fl. 1631.; Thatcher, Anthony, attributed name.
@@ -452,7 +452,7 @@ layout: default
 **Date:**  1631
 
 [A13299](/miscellanies/A13299.html)
-
+---
 
 
 **Author:**  Tarlton, Richard, d. 1588, attributed name.; Armin, Robert, fl. 1610, attributed name.
@@ -462,7 +462,7 @@ layout: default
 **Date:**  1590
 
 [A13377](/miscellanies/A13377.html)
-
+---
 
 
 **Author:**  Taylor, John, 1580-1653.; Cockson, Thomas, engraver.
@@ -472,7 +472,7 @@ layout: default
 **Date:**  1630
 
 [A13415](/miscellanies/A13415.html)
-
+---
 
 
 **Author:**  Taylor, John, 1580-1653.
@@ -482,7 +482,7 @@ layout: default
 **Date:**  1628
 
 [A13520](/miscellanies/A13520.html)
-
+---
 
 
 **Author:**  Vaughan, William, 1577-1641.; Mason, John, 1586-1635.
@@ -492,7 +492,7 @@ layout: default
 **Date:**  1626
 
 [A14292](/miscellanies/A14292.html)
-
+---
 
 
 **Author:**  Wager, Lewis, fl. 1566.
@@ -502,7 +502,7 @@ layout: default
 **Date:**  1566
 
 [A14625](/miscellanies/A14625.html)
-
+---
 
 
 **Author:**  Herbert, George, 1592-1637.; Marshall, William, fl. 1617-1650, engraver.
@@ -512,7 +512,7 @@ layout: default
 **Date:**  1640
 
 [A15606](/miscellanies/A15606.html)
-
+---
 
 
 **Author:**  Yarington, Robert, fl. 1601.
@@ -522,7 +522,7 @@ layout: default
 **Date:**  1601
 
 [A15814](/miscellanies/A15814.html)
-
+---
 
 
 **Author:**  Bodenham, John, fl. 1600, attrib. name.; N. L. (Nicholas Ling), fl. 1580-1607, attrib. name.; A. B., fl. 1600, attrib. name.
@@ -532,7 +532,7 @@ layout: default
 **Date:**  1600
 
 [A16273](/miscellanies/A16273.html)
-
+---
 
 
 **Author:**  Bolton, Robert, 1572-1631.; Bagshaw, Edward, d. 1662.
@@ -542,7 +542,7 @@ layout: default
 **Date:**  1635
 
 [A16342](/miscellanies/A16342.html)
-
+---
 
 
 **Author:**  Larke, John.; Gozzadini, Tommaso, attributed name.; Leoni, Tommaso, attributed name.
@@ -552,7 +552,7 @@ layout: default
 **Date:**  1565
 
 [A16439](/miscellanies/A16439.html)
-
+---
 
 
 **Author:**  Albott, Robert, fl. 1600.
@@ -562,7 +562,7 @@ layout: default
 **Date:**  1600
 
 [A16884](/miscellanies/A16884.html)
-
+---
 
 
 **Author:**  Canne, John, d. 1667?
@@ -572,7 +572,7 @@ layout: default
 **Date:**  1639
 
 [A17914](/miscellanies/A17914.html)
-
+---
 
 
 **Author:**  
@@ -582,7 +582,7 @@ layout: default
 **Date:**  1632
 
 [A18617](/miscellanies/A18617.html)
-
+---
 
 
 **Author:**  Ames, William, 1576-1633.
@@ -592,7 +592,7 @@ layout: default
 **Date:**  1615
 
 [A19149](/miscellanies/A19149.html)
-
+---
 
 
 **Author:**  Collins, Thomas, fl. 1610-1615.
@@ -602,7 +602,7 @@ layout: default
 **Date:**  1615
 
 [A19156](/miscellanies/A19156.html)
-
+---
 
 
 **Author:**  Touris, William, attributed name.; Robinson, Richard, citizen of London.
@@ -612,7 +612,7 @@ layout: default
 **Date:**  1578
 
 [A19234](/miscellanies/A19234.html)
-
+---
 
 
 **Author:**  Dickenson, John, romance writer.
@@ -622,7 +622,7 @@ layout: default
 **Date:**  1594
 
 [A20406](/miscellanies/A20406.html)
-
+---
 
 
 **Author:**  Apuleius.; Adlington, William, fl. 1566.
@@ -632,7 +632,7 @@ layout: default
 **Date:**  1566
 
 [A20800](/miscellanies/A20800.html)
-
+---
 
 
 **Author:**  Dugdale, Gilbert.; Armin, Robert, fl. 1610.
@@ -642,7 +642,7 @@ layout: default
 **Date:**  1604
 
 [A20917](/miscellanies/A20917.html)
-
+---
 
 
 **Author:**  Tichborne, Chidiock, ca. 1558-1586.; Kyd, Thomas, 1558-1594, attributed name.; Knell, Thomas, attributed name.; T. K.
@@ -652,7 +652,7 @@ layout: default
 **Date:**  1586
 
 [A21254](/miscellanies/A21254.html)
-
+---
 
 
 **Author:**  Anacreon.; Willis, Francis, b. 1663 or 4.; Cowley, Abraham, 1618-1667.; Oldham, John, 1653-1683.; Wood, Thomas, 1661-1722.; S. B.
@@ -662,7 +662,7 @@ layout: default
 **Date:**  1683
 
 [A25322](/miscellanies/A25322.html)
-
+---
 
 
 **Author:**  T. A., Sir, perfumer to his late Highnesse.
@@ -672,7 +672,7 @@ layout: default
 **Date:**  1660
 
 [A25585](/miscellanies/A25585.html)
-
+---
 
 
 **Author:**  Atkins, Thomas, Sir.
@@ -682,7 +682,7 @@ layout: default
 **Date:**  1660
 
 [A26130](/miscellanies/A26130.html)
-
+---
 
 
 **Author:**  Aubrey, John, 1626-1697.
@@ -692,7 +692,7 @@ layout: default
 **Date:**  1696
 
 [A26190](/miscellanies/A26190.html)
-
+---
 
 
 **Author:**  Ayres, Philip, 1638-1712.; Perez de Guzman, Juan.; Beeston, William, Sir, b. 1636.
@@ -702,7 +702,7 @@ layout: default
 **Date:**  1684
 
 [A26296](/miscellanies/A26296.html)
-
+---
 
 
 **Author:**  Bee, Cornelius.
@@ -712,7 +712,7 @@ layout: default
 **Date:**  1668
 
 [A27249](/miscellanies/A27249.html)
-
+---
 
 
 **Author:**  Beedome, Thomas, d. 1641?; Glapthorne, Henry.
@@ -722,7 +722,7 @@ layout: default
 **Date:**  1641
 
 [A27257](/miscellanies/A27257.html)
-
+---
 
 
 **Author:**  Brome, Alexander, 1620-1666.
@@ -732,7 +732,7 @@ layout: default
 **Date:**  1662
 
 [A29621](/miscellanies/A29621.html)
-
+---
 
 
 **Author:**  Buckingham, George Villiers, Duke of, 1628-1687.
@@ -742,7 +742,7 @@ layout: default
 **Date:**  1694
 
 [A29976](/miscellanies/A29976.html)
-
+---
 
 
 **Author:**  Barker, Jane.
@@ -752,7 +752,7 @@ layout: default
 **Date:**  1688
 
 [A30923](/miscellanies/A30923.html)
-
+---
 
 
 **Author:**  Chandler, Samuel.; Leigh, William.; Robinson, Benjamin, 1666-1724.
@@ -762,7 +762,7 @@ layout: default
 **Date:**  1699
 
 [A31663](/miscellanies/A31663.html)
-
+---
 
 
 **Author:**  Newcastle, Margaret Cavendish, Duchess of, 1624?-1674.; Newcastle, William Cavendish, Duke of, 1592-1676.
@@ -772,7 +772,7 @@ layout: default
 **Date:**  1678
 
 [A33819](/miscellanies/A33819.html)
-
+---
 
 
 **Author:**  Sedley, Charles, Sir, 1639?-1701. Poems. Selections. 1673.; Etherege, George, Sir, 1635?-1691. Poems. Selections. 1673.; Buckingham, John Sheffield, Duke of, 1648-1720 or 21. Poems. Selections. 1673.; Behn, Aphra, 1640-1689. Poems. Selections. 1673.
@@ -782,7 +782,7 @@ layout: default
 **Date:**  1673
 
 [A33849](/miscellanies/A33849.html)
-
+---
 
 
 **Author:**  Marvell, Andrew, 1621-1678.
@@ -792,7 +792,7 @@ layout: default
 **Date:**  1689
 
 [A33850](/miscellanies/A33850.html)
-
+---
 
 
 **Author:**  Collier, Jeremy, 1650-1726.
@@ -802,7 +802,7 @@ layout: default
 **Date:**  1694
 
 [A33912](/miscellanies/A33912.html)
-
+---
 
 
 **Author:**  Collier, Jeremy, 1650-1726.
@@ -812,7 +812,7 @@ layout: default
 **Date:**  1695
 
 [A33913](/miscellanies/A33913.html)
-
+---
 
 
 **Author:**  Collins, Thomas, Student in physick.
@@ -822,7 +822,7 @@ layout: default
 **Date:**  1658
 
 [A34011](/miscellanies/A34011.html)
-
+---
 
 
 **Author:**  Brown, Thomas, 1663-1704.
@@ -832,7 +832,7 @@ layout: default
 **Date:**  1700
 
 [A34124](/miscellanies/A34124.html)
-
+---
 
 
 **Author:**  
@@ -842,7 +842,7 @@ layout: default
 **Date:**  1690
 
 [A34386](/miscellanies/A34386.html)
-
+---
 
 
 **Author:**  Carr, Robert, fl. 1686-1696.; Playford, John, 1623-1686?
@@ -852,7 +852,7 @@ layout: default
 **Date:**  1686
 
 [A34569](/miscellanies/A34569.html)
-
+---
 
 
 **Author:**  Crouch, John, fl. 1660-1681.
@@ -862,7 +862,7 @@ layout: default
 **Date:**  1660
 
 [A35208](/miscellanies/A35208.html)
-
+---
 
 
 **Author:**  
@@ -872,17 +872,7 @@ layout: default
 **Date:**  1700
 
 [A35440](/miscellanies/A35440.html)
-
-
-
-**Author:**  
-
-**Title:**  The Case of Cornelius Bee and his partners Richard Royston, William Wells, Samuel Thompson, Thomas Robinson, and William Morden, booksellers.
-
-**Date:**  1666
-
-[A35608](/miscellanies/A35608.html)
-
+---
 
 
 **Author:**  
@@ -892,7 +882,17 @@ layout: default
 **Date:**  1666
 
 [A35608](/miscellanies/A35608.html)
+---
 
+
+**Author:**  
+
+**Title:**  The Case of Cornelius Bee and his partners Richard Royston, William Wells, Samuel Thompson, Thomas Robinson, and William Morden, booksellers.
+
+**Date:**  1666
+
+[A35608](/miscellanies/A35608.html)
+---
 
 
 **Author:**  Denham, John, Sir, 1615-1669.; Denham, John, Sir, 1615-1669. Sophy.; Virgil. Aeneis. Liber 2. English.
@@ -902,7 +902,7 @@ layout: default
 **Date:**  1668
 
 [A35654](/miscellanies/A35654.html)
-
+---
 
 
 **Author:**  Dennis, John, 1657-1734.
@@ -912,27 +912,27 @@ layout: default
 **Date:**  1693
 
 [A35672](/miscellanies/A35672.html)
-
+---
 
 
 **Author:**  Digby, Kenelm, Sir, 1603-1665.; Hartman, G. (George)
-
+---
 **Title:**  Choice and experimented receipts in physick and chirurgery as also cordial and distilled waters and spirits, perfumes, and other curiosities / collected by ... Sir Kenelm Digby, Knight ...
 
 **Date:**  1675
 
 [A35967](/miscellanies/A35967.html)
-
+---
 
 
 **Author:**  Digby, Kenelm, Sir, 1603-1665.; Hartman, G. (George)
-
+---
 **Title:**  A choice collection of rare secrets and experiments in philosophy as also rare and unheard-of medicines, menstruums and alkahests : with the true secret of volatilizing the fixt salt of tartar / collected and experimented by the honourable and truly learned Sir Kenelm Digby, Kt., Chancellour to Her Majesty the Queen-Mother ; hitherto kept secret since his decease, but now published for the good and benefit of the publick by George Hartman.; Choice collection of rare secrets and experiments in philosophy
 
 **Date:**  1682
 
 [A35968](/miscellanies/A35968.html)
-
+---
 
 
 **Author:**  Dryden, John, 1631-1700.
@@ -942,7 +942,7 @@ layout: default
 **Date:**  1694
 
 [A36597](/miscellanies/A36597.html)
-
+---
 
 
 **Author:**  Dryden, John, 1631-1700.
@@ -952,7 +952,7 @@ layout: default
 **Date:**  1688
 
 [A36608](/miscellanies/A36608.html)
-
+---
 
 
 **Author:**  Dryden, John, 1631-1700.; Fracastoro, Girolamo, 1478-1553. Syphilis.; Tate, Nahum, 1652-1715.
@@ -962,7 +962,7 @@ layout: default
 **Date:**  1693
 
 [A36624](/miscellanies/A36624.html)
-
+---
 
 
 **Author:**  Dryden, John, 1631-1700.
@@ -972,7 +972,7 @@ layout: default
 **Date:**  1685
 
 [A36697](/miscellanies/A36697.html)
-
+---
 
 
 **Author:**  Dryden, John, 1631-1700.; Sprat, Thomas, 1635-1713.; Waller, Edmund, 1606-1687.
@@ -982,7 +982,7 @@ layout: default
 **Date:**  1682
 
 [A36701](/miscellanies/A36701.html)
-
+---
 
 
 **Author:**  Dunton, John, 1659-1733.; Nicholas, Jane, d. 1708.; Larkin, George, Sr.
@@ -992,7 +992,7 @@ layout: default
 **Date:**  1700
 
 [A36897](/miscellanies/A36897.html)
-
+---
 
 
 **Author:**  D'Urfey, Thomas, 1653-1723.; Playford, Henry, b. 1657.
@@ -1002,7 +1002,7 @@ layout: default
 **Date:**  1699
 
 [A36960](/miscellanies/A36960.html)
-
+---
 
 
 **Author:**  D'Urfey, Thomas, 1653-1723.; Playford, John, 1623-1686?
@@ -1012,7 +1012,7 @@ layout: default
 **Date:**  1684
 
 [A36961](/miscellanies/A36961.html)
-
+---
 
 
 **Author:**  Goodall, Charles, 1671-1689.
@@ -1022,7 +1022,7 @@ layout: default
 **Date:**  1689
 
 [A41430](/miscellanies/A41430.html)
-
+---
 
 
 **Author:**  Gouldney, Henry, 1656 or 7-1725.
@@ -1032,7 +1032,7 @@ layout: default
 **Date:**  1699
 
 [A41715](/miscellanies/A41715.html)
-
+---
 
 
 **Author:**  Grove, Robert, 1634-1696.
@@ -1042,7 +1042,7 @@ layout: default
 **Date:**  1690
 
 [A42268](/miscellanies/A42268.html)
-
+---
 
 
 **Author:**  Herbert, Thomas, 1597-1642?
@@ -1052,7 +1052,7 @@ layout: default
 **Date:**  1641
 
 [A43398](/miscellanies/A43398.html)
-
+---
 
 
 **Author:**  Poor Robin.; Herrick, Robert, 1591-1674.; Winstanley, Robert, b. 1647?; Winstanley, William, 1628?-1698.
@@ -1062,7 +1062,7 @@ layout: default
 **Date:**  1677
 
 [A43443](/miscellanies/A43443.html)
-
+---
 
 
 **Author:**  Halfpenny, John, 18th cent.
@@ -1072,7 +1072,7 @@ layout: default
 **Date:**  1676
 
 [A44531](/miscellanies/A44531.html)
-
+---
 
 
 **Author:**  Halifax, George Savile, Marquis of, 1633-1695.; Settle, Elkanah, 1648-1724. Sacellum appollinare.
@@ -1082,7 +1082,7 @@ layout: default
 **Date:**  1700
 
 [A44782](/miscellanies/A44782.html)
-
+---
 
 
 **Author:**  Hall, Joseph, 1574-1656.; Hall, Joseph, 1574-1656. Breathings of a devout soul.
@@ -1092,7 +1092,7 @@ layout: default
 **Date:**  1654
 
 [A45315](/miscellanies/A45315.html)
-
+---
 
 
 **Author:**  Halley, George, 1655 or 6-1708.
@@ -1102,7 +1102,7 @@ layout: default
 **Date:**  1691
 
 [A45351](/miscellanies/A45351.html)
-
+---
 
 
 **Author:**  Ireland. Lord Deputy.; Arran, Richard Butler, Earl of, d. 1686.
@@ -1112,7 +1112,7 @@ layout: default
 **Date:**  1683
 
 [A46165](/miscellanies/A46165.html)
-
+---
 
 
 **Author:**  Kent, Elizabeth Grey, Countess of, 1581-1651.; W. J.
@@ -1122,7 +1122,7 @@ layout: default
 **Date:**  1687
 
 [A47269](/miscellanies/A47269.html)
-
+---
 
 
 **Author:**  Kilburne, Richard, 1605-1678.; G. F., of Grayes-Inn.
@@ -1132,7 +1132,7 @@ layout: default
 **Date:**  1681
 
 [A47352](/miscellanies/A47352.html)
-
+---
 
 
 **Author:**  L'Estrange, Roger, Sir, 1616-1704.
@@ -1142,7 +1142,7 @@ layout: default
 **Date:**  1679
 
 [A47868](/miscellanies/A47868.html)
-
+---
 
 
 **Author:**  
@@ -1152,7 +1152,7 @@ layout: default
 **Date:**  1676
 
 [A48252](/miscellanies/A48252.html)
-
+---
 
 
 **Author:**  Smith, James, 1605-1667.
@@ -1162,7 +1162,7 @@ layout: default
 **Date:**  1653
 
 [A49304](/miscellanies/A49304.html)
-
+---
 
 
 **Author:**  Lawes, Henry, 1596-1662.; Lawes, William, 1602-1645.
@@ -1172,7 +1172,7 @@ layout: default
 **Date:**  1648
 
 [A49748](/miscellanies/A49748.html)
-
+---
 
 
 **Author:**  Leigh, Edward, 1602-1671.
@@ -1182,7 +1182,7 @@ layout: default
 **Date:**  1661
 
 [A50052](/miscellanies/A50052.html)
-
+---
 
 
 **Author:**  Milton, John, 1608-1674.; Cleveland, John, 1613-1658. On the memory of Mr. Edward King, drown'd in the Irish seas.; Hog, William, b. ca. 1652.
@@ -1192,7 +1192,7 @@ layout: default
 **Date:**  1694
 
 [A50935](/miscellanies/A50935.html)
-
+---
 
 
 **Author:**  Author of Westminster drollery.
@@ -1202,7 +1202,7 @@ layout: default
 **Date:**  1675
 
 [A51044](/miscellanies/A51044.html)
-
+---
 
 
 **Author:**  More, Henry, 1614-1687.
@@ -1212,7 +1212,7 @@ layout: default
 **Date:**  1646
 
 [A51291](/miscellanies/A51291.html)
-
+---
 
 
 **Author:**  Addison, Joseph, 1672-1719.
@@ -1222,7 +1222,7 @@ layout: default
 **Date:**  1692
 
 [A51646](/miscellanies/A51646.html)
-
+---
 
 
 **Author:**  
@@ -1232,7 +1232,7 @@ layout: default
 **Date:**  1675
 
 [A52348](/miscellanies/A52348.html)
-
+---
 
 
 **Author:**  
@@ -1242,7 +1242,7 @@ layout: default
 **Date:**  1674
 
 [A52378](/miscellanies/A52378.html)
-
+---
 
 
 **Author:**  
@@ -1252,17 +1252,7 @@ layout: default
 **Date:**  1660
 
 [A52383](/miscellanies/A52383.html)
-
-
-
-**Author:**  Dorset, Charles Sackville, Earl of, 1638?-1706.; Sedley, Charles, Sir, 1639?-1701.; D'Avenant, William, Sir, 1606-1668.
-
-**Title:**  The New academy of complements erected for ladies, gentlewomen, courtiers, gentlemen, scholars, souldiers, citizens, country-men, and all persons, of what degree soever, of both sexes : stored with variety of courtly and civil complements, eloquent letters of love and friendship : with an exact collection of the newest and choicest songs  la mode, both amorous and jovial / compiled by the most refined wits of this age.
-
-**Date:**  1669
-
-[A52865](/miscellanies/A52865.html)
-
+---
 
 
 **Author:**  Dorset, Charles Sackville, Earl of, 1638?-1706.; Sedley, Charles, Sir, 1639?-1701.; D'Avenant, William, Sir, 1606-1668.
@@ -1272,7 +1262,17 @@ layout: default
 **Date:**  1669
 
 [A52865](/miscellanies/A52865.html)
+---
 
+
+**Author:**  Dorset, Charles Sackville, Earl of, 1638?-1706.; Sedley, Charles, Sir, 1639?-1701.; D'Avenant, William, Sir, 1606-1668.
+
+**Title:**  The New academy of complements erected for ladies, gentlewomen, courtiers, gentlemen, scholars, souldiers, citizens, country-men, and all persons, of what degree soever, of both sexes : stored with variety of courtly and civil complements, eloquent letters of love and friendship : with an exact collection of the newest and choicest songs  la mode, both amorous and jovial / compiled by the most refined wits of this age.
+
+**Date:**  1669
+
+[A52865](/miscellanies/A52865.html)
+---
 
 
 **Author:**  
@@ -1282,7 +1282,7 @@ layout: default
 **Date:**  1660
 
 [A53246](/miscellanies/A53246.html)
-
+---
 
 
 **Author:**  University of Oxford.; Birkhead, Henry, 1617?-1696.
@@ -1292,7 +1292,7 @@ layout: default
 **Date:**  1684
 
 [A53879](/miscellanies/A53879.html)
-
+---
 
 
 **Author:**  Playford, John, 1623-1686?
@@ -1302,7 +1302,7 @@ layout: default
 **Date:**  1673
 
 [A55073](/miscellanies/A55073.html)
-
+---
 
 
 **Author:**  Buckingham, George Villiers, Duke of, 1628-1687.
@@ -1312,7 +1312,7 @@ layout: default
 **Date:**  1697
 
 [A55276](/miscellanies/A55276.html)
-
+---
 
 
 **Author:**  Winstanley, William, 1628?-1698, attributed name.
@@ -1322,7 +1322,7 @@ layout: default
 **Date:**  1677
 
 [A55407](/miscellanies/A55407.html)
-
+---
 
 
 **Author:**  Poor Robin.; Winstanley, William, 1628?-1698.
@@ -1332,7 +1332,7 @@ layout: default
 **Date:**  1672
 
 [A55409](/miscellanies/A55409.html)
-
+---
 
 
 **Author:**  Poor Robin.; Winstanley, William, 1628?-1698.
@@ -1342,7 +1342,7 @@ layout: default
 **Date:**  1666
 
 [A55410](/miscellanies/A55410.html)
-
+---
 
 
 **Author:**  
@@ -1352,7 +1352,7 @@ layout: default
 **Date:**  1695
 
 [A55412](/miscellanies/A55412.html)
-
+---
 
 
 **Author:**  Poor Robin.; Winstanley, William, 1628?-1698.
@@ -1362,7 +1362,7 @@ layout: default
 **Date:**  1681
 
 [A55414](/miscellanies/A55414.html)
-
+---
 
 
 **Author:**  Poor Robin.; Winstanley, William, 1628?-1698.
@@ -1372,7 +1372,7 @@ layout: default
 **Date:**  1677
 
 [A55415](/miscellanies/A55415.html)
-
+---
 
 
 **Author:**  Poor Robin.; Winstanley, William, 1628?-1698.
@@ -1382,7 +1382,7 @@ layout: default
 **Date:**  1677
 
 [A55416](/miscellanies/A55416.html)
-
+---
 
 
 **Author:**  Poor Robin.; Winstanley, William, 1628?-1698.
@@ -1392,7 +1392,7 @@ layout: default
 **Date:**  1679
 
 [A55418](/miscellanies/A55418.html)
-
+---
 
 
 **Author:**  Prynne, William, 1600-1669.
@@ -1402,7 +1402,7 @@ layout: default
 **Date:**  1659
 
 [A56209](/miscellanies/A56209.html)
-
+---
 
 
 **Author:**  Purcell, Henry, 1659-1695.
@@ -1412,17 +1412,17 @@ layout: default
 **Date:**  1698
 
 [A56293](/miscellanies/A56293.html)
-
+---
 
 
 **Author:**  Richardson, John, 1580-1654.; Ussher, James, 1581-1656.; Gataker, Thomas, 1574-1654.; Westminster Assembly (1643-1652)
-
+---
 **Title:**  Choice observations and explanations upon the Old Testament containing in them many remarkable matters, either not taken notice of, or mistaken by most, which are additionals to the large annotations made by some of the Assembly of Divines : to which are added some further and larger observations of his upon the whole book of Genesis perused and attested by the Reverend Bishop of Armagh, and Mr. Gataker Pastor of Rederith / by ... John Richardson ...
 
 **Date:**  1655
 
 [A57230](/miscellanies/A57230.html)
-
+---
 
 
 **Author:**  
@@ -1432,7 +1432,7 @@ layout: default
 **Date:**  1670
 
 [A57407](/miscellanies/A57407.html)
-
+---
 
 
 **Author:**  
@@ -1442,7 +1442,7 @@ layout: default
 **Date:**  1670
 
 [A57414](/miscellanies/A57414.html)
-
+---
 
 
 **Author:**  Robins, Robert.
@@ -1452,7 +1452,7 @@ layout: default
 **Date:**  1648
 
 [A57415](/miscellanies/A57415.html)
-
+---
 
 
 **Author:**  Robinson, Henry, 1605?-1664?
@@ -1462,7 +1462,7 @@ layout: default
 **Date:**  1641
 
 [A57437](/miscellanies/A57437.html)
-
+---
 
 
 **Author:**  Robinson, John, 1575?-1625.; Perkins, William, 1558-1602. Foundation of Christian religion.
@@ -1472,7 +1472,7 @@ layout: default
 **Date:**  1641
 
 [A57456](/miscellanies/A57456.html)
-
+---
 
 
 **Author:**  Robinson, John, 17th cent.
@@ -1482,7 +1482,7 @@ layout: default
 **Date:**  1642
 
 [A57457](/miscellanies/A57457.html)
-
+---
 
 
 **Author:**  Robinson, Thomas, Sir.; England and Wales. Court of Common Pleas.
@@ -1492,7 +1492,7 @@ layout: default
 **Date:**  1684
 
 [A57469](/miscellanies/A57469.html)
-
+---
 
 
 **Author:**  Robinson, Thomas, d. 1719.
@@ -1502,7 +1502,7 @@ layout: default
 **Date:**  1696
 
 [A57471](/miscellanies/A57471.html)
-
+---
 
 
 **Author:**  Rochester, John Wilmot, Earl of, 1647-1680.; Otway, Thomas, 1652-1685.; Brown, Thomas, 1663-1704.; Cheek, Thomas.; Philips, Katherine, 1631-1664.; Dennis, John, 1657-1734.
@@ -1512,7 +1512,7 @@ layout: default
 **Date:**  1697
 
 [A57489](/miscellanies/A57489.html)
-
+---
 
 
 **Author:**  Poor Robin.; Winstanley, William, 1628?-1698.
@@ -1522,7 +1522,7 @@ layout: default
 **Date:**  1678
 
 [A58842](/miscellanies/A58842.html)
-
+---
 
 
 **Author:**  Sherburne, Edward, Sir, 1618-1702.; Preti, Girolamo, 1582-1626. Salmace. English.; Saint-Amant, Marc Antoine Grard, sieur de, 1594-1661. Metamorphose de Lyrian et de Sylvie. English.; Marino, Giambattista, 1569-1625. Lidia abbandonata. English.; Colluthus, of Lycopolis. Rape of Helen. English.
@@ -1532,7 +1532,7 @@ layout: default
 **Date:**  1651
 
 [A59751](/miscellanies/A59751.html)
-
+---
 
 
 **Author:**  Shirley, James, 1596-1666.
@@ -1542,7 +1542,7 @@ layout: default
 **Date:**  1659
 
 [A59977](/miscellanies/A59977.html)
-
+---
 
 
 **Author:**  Smith, William, 17th cent.
@@ -1552,7 +1552,7 @@ layout: default
 **Date:**  1660
 
 [A60603](/miscellanies/A60603.html)
-
+---
 
 
 **Author:**  Stephenson, Marmaduke, d. 1659.; Pearson, Peter, 17th cent.; Robinson, William, d. 1659.; Dyer, Mary, d. 1660.
@@ -1562,7 +1562,7 @@ layout: default
 **Date:**  1660
 
 [A61464](/miscellanies/A61464.html)
-
+---
 
 
 **Author:**  Tallemant, Paul, 1642-1712.; Behn, Aphra, 1640-1689.
@@ -1572,17 +1572,7 @@ layout: default
 **Date:**  1688
 
 [A62661](/miscellanies/A62661.html)
-
-
-
-**Author:**  Tate, Nahum, 1652-1715.
-
-**Title:**  Miscellanea sacra, or, Poems on divine & moral subjects collected by N. Tate ...
-
-**Date:**  1696
-
-[A62987](/miscellanies/A62987.html)
-
+---
 
 
 **Author:**  Tate, Nahum, 1652-1715.
@@ -1592,7 +1582,17 @@ layout: default
 **Date:**  1696
 
 [A62987](/miscellanies/A62987.html)
+---
 
+
+**Author:**  Tate, Nahum, 1652-1715.
+
+**Title:**  Miscellanea sacra, or, Poems on divine & moral subjects collected by N. Tate ...
+
+**Date:**  1696
+
+[A62987](/miscellanies/A62987.html)
+---
 
 
 **Author:**  Tate, Nahum, 1652-1715.
@@ -1602,7 +1602,7 @@ layout: default
 **Date:**  1685
 
 [A63107](/miscellanies/A63107.html)
-
+---
 
 
 **Author:**  Ireland, William, 1636-1679.; Pickering, Thomas, d. 1679.; Grove, John, d. 1679.; England and Wales. Court of Oyer and Terminer and Gaol Delivery (London and Middlesex).
@@ -1612,7 +1612,7 @@ layout: default
 **Date:**  1678
 
 [A63228](/miscellanies/A63228.html)
-
+---
 
 
 **Author:**  
@@ -1622,7 +1622,7 @@ layout: default
 **Date:**  1680
 
 [A63546](/miscellanies/A63546.html)
-
+---
 
 
 **Author:**  Bissel, Mr.; Ring, Samuel.; Russel, William, d. 1702.
@@ -1632,7 +1632,7 @@ layout: default
 **Date:**  1699
 
 [A63577](/miscellanies/A63577.html)
-
+---
 
 
 **Author:**  Taylor, Jeremy, 1613-1667.
@@ -1642,7 +1642,7 @@ layout: default
 **Date:**  1650
 
 [A63941](/miscellanies/A63941.html)
-
+---
 
 
 **Author:**  Taylor, Jeremy, 1613-1667.
@@ -1652,7 +1652,7 @@ layout: default
 **Date:**  1651
 
 [A64137](/miscellanies/A64137.html)
-
+---
 
 
 **Author:**  Taylor, Jeremy, 1613-1667.
@@ -1662,7 +1662,7 @@ layout: default
 **Date:**  1653
 
 [A64139](/miscellanies/A64139.html)
-
+---
 
 
 **Author:**  Winstanley, William, 1628?-1698.
@@ -1672,7 +1672,7 @@ layout: default
 **Date:**  1680
 
 [A66690](/miscellanies/A66690.html)
-
+---
 
 
 **Author:**  Poor Robin.; Winstanley, William, 1628?-1698.
@@ -1682,7 +1682,7 @@ layout: default
 **Date:**  1678
 
 [A66694](/miscellanies/A66694.html)
-
+---
 
 
 **Author:**  Poor Robin.; Winstanley, William, 1628?-1698.
@@ -1692,7 +1692,7 @@ layout: default
 **Date:**  1675
 
 [A66704](/miscellanies/A66704.html)
-
+---
 
 
 **Author:**  Poor Robin.; Winstanley, William, 1628?-1698.
@@ -1702,7 +1702,7 @@ layout: default
 **Date:**  1687
 
 [A66705](/miscellanies/A66705.html)
-
+---
 
 
 **Author:**  Poor Robin.; Winstanley, William, 1628?-1698.
@@ -1712,7 +1712,7 @@ layout: default
 **Date:**  1667
 
 [A66707](/miscellanies/A66707.html)
-
+---
 
 
 **Author:**  Poor Robin.; Winstanley, William, 1628?-1698.
@@ -1722,7 +1722,7 @@ layout: default
 **Date:**  1678
 
 [A66709](/miscellanies/A66709.html)
-
+---
 
 
 **Author:**  Poor Robin.; Winstanley, William, 1628?-1698.
@@ -1732,7 +1732,7 @@ layout: default
 **Date:**  1678
 
 [A66710](/miscellanies/A66710.html)
-
+---
 
 
 **Author:**  Walsh, William, 1663-1708.
@@ -1742,7 +1742,7 @@ layout: default
 **Date:**  1692
 
 [A67452](/miscellanies/A67452.html)
-
+---
 
 
 **Author:**  Robinson, Richard, fl. 1574.
@@ -1752,7 +1752,7 @@ layout: default
 **Date:**  1574
 
 [A68662](/miscellanies/A68662.html)
-
+---
 
 
 **Author:**  Stoughton, John, d. 1639.; Burgess, Anthony, d. 1664.
@@ -1762,7 +1762,7 @@ layout: default
 **Date:**  1640
 
 [A68783](/miscellanies/A68783.html)
-
+---
 
 
 **Author:**  Breton, Nicholas, 1545?-1626?
@@ -1772,7 +1772,7 @@ layout: default
 **Date:**  1606
 
 [A68982](/miscellanies/A68982.html)
-
+---
 
 
 **Author:**  Buckingham, George Villiers, Duke of, 1628-1687.; Cowley, Abraham, 1618-1667.; Milton, John, 1608-1674.; Behn, Aphra, 1640-1689.; Congreve, William, 1670-1729.; Dacier, Andr, 1651-1722.; Gildon, Charles, 1665-1724.
@@ -1782,17 +1782,17 @@ layout: default
 **Date:**  1692
 
 [A70171](/miscellanies/A70171.html)
-
+---
 
 
 **Author:**  G. H.; G. H. (G. Hussey); G. H. (G. Hooker)
-
+---
 **Title:**  Memorabilia mundi, or, Choice memoirs of the history and description of the world by G.H.
 
 **Date:**  1670
 
 [A70258](/miscellanies/A70258.html)
-
+---
 
 
 **Author:**  Hales, John, 1584-1656.; Hales, John, 1584-1656. Tract concerning sin against the Holy Ghost.; Hales, John, 1584-1656. Tract concerning schisme.
@@ -1802,7 +1802,7 @@ layout: default
 **Date:**  1677
 
 [A70260](/miscellanies/A70260.html)
-
+---
 
 
 **Author:**  
@@ -1812,7 +1812,7 @@ layout: default
 **Date:**  1500
 
 [A72367](/miscellanies/A72367.html)
-
+---
 
 
 **Author:**  
@@ -1822,7 +1822,7 @@ layout: default
 **Date:**  1654
 
 [A75721](/miscellanies/A75721.html)
-
+---
 
 
 **Author:**  Winton, H. Beeston (Henry Beeston), ca. 1630-1701.; Bold, Henry, 1627-1683.
@@ -1832,7 +1832,7 @@ layout: default
 **Date:**  1660
 
 [A76332](/miscellanies/A76332.html)
-
+---
 
 
 **Author:**  
@@ -1842,7 +1842,7 @@ layout: default
 **Date:**  1697
 
 [A76627](/miscellanies/A76627.html)
-
+---
 
 
 **Author:**  Bagshaw, Edward, 1629-1671.
@@ -1852,7 +1852,7 @@ layout: default
 **Date:**  1664
 
 [A77239](/miscellanies/A77239.html)
-
+---
 
 
 **Author:**  Marvell, Andrew, 1621-1678.; Dryden, John, 1631-1700.; Sprat, Thomas, 1635-1713.; Waller, Edmund, 1606-1687.
@@ -1862,7 +1862,7 @@ layout: default
 **Date:**  1689
 
 [A80112](/miscellanies/A80112.html)
-
+---
 
 
 **Author:**  
@@ -1872,7 +1872,7 @@ layout: default
 **Date:**  1660
 
 [A80186](/miscellanies/A80186.html)
-
+---
 
 
 **Author:**  
@@ -1882,7 +1882,7 @@ layout: default
 **Date:**  1681
 
 [A80305](/miscellanies/A80305.html)
-
+---
 
 
 **Author:**  Flatman, Thomas, 1637-1688.
@@ -1892,7 +1892,7 @@ layout: default
 **Date:**  1658
 
 [A84621](/miscellanies/A84621.html)
-
+---
 
 
 **Author:**  
@@ -1902,7 +1902,7 @@ layout: default
 **Date:**  1660
 
 [A84725](/miscellanies/A84725.html)
-
+---
 
 
 **Author:**  A. F.; Wortley, Francis, Sir, 1591-1652.; England and Wales. Sovereign (1625-1649 : Charles I).
@@ -1912,7 +1912,7 @@ layout: default
 **Date:**  1642
 
 [A84844](/miscellanies/A84844.html)
-
+---
 
 
 **Author:**  
@@ -1922,7 +1922,7 @@ layout: default
 **Date:**  1675
 
 [A85066](/miscellanies/A85066.html)
-
+---
 
 
 **Author:**  
@@ -1932,7 +1932,7 @@ layout: default
 **Date:**  1685-1688
 
 [A85068](/miscellanies/A85068.html)
-
+---
 
 
 **Author:**  
@@ -1942,7 +1942,7 @@ layout: default
 **Date:**  1660
 
 [A85692](/miscellanies/A85692.html)
-
+---
 
 
 **Author:**  
@@ -1952,7 +1952,7 @@ layout: default
 **Date:**  1660
 
 [A86403](/miscellanies/A86403.html)
-
+---
 
 
 **Author:**  L'Estrange, Roger, Sir, 1616-1704, attributed name.
@@ -1962,7 +1962,7 @@ layout: default
 **Date:**  1660
 
 [A87886](/miscellanies/A87886.html)
-
+---
 
 
 **Author:**  L'Estrange, Roger, Sir, 1616-1704.
@@ -1972,7 +1972,7 @@ layout: default
 **Date:**  1660
 
 [A87887](/miscellanies/A87887.html)
-
+---
 
 
 **Author:**  L'Estrange, Roger, Sir, 1616-1704.
@@ -1982,7 +1982,7 @@ layout: default
 **Date:**  1660
 
 [A87903](/miscellanies/A87903.html)
-
+---
 
 
 **Author:**  
@@ -1992,7 +1992,7 @@ layout: default
 **Date:**  1660
 
 [A88130](/miscellanies/A88130.html)
-
+---
 
 
 **Author:**  
@@ -2002,7 +2002,7 @@ layout: default
 **Date:**  1660
 
 [A88638](/miscellanies/A88638.html)
-
+---
 
 
 **Author:**  Motteux, Peter Anthony, 1660-1718.; Purcell, Henry, 1659-1695.
@@ -2012,7 +2012,7 @@ layout: default
 **Date:**  1700
 
 [A89392](/miscellanies/A89392.html)
-
+---
 
 
 **Author:**  
@@ -2022,7 +2022,7 @@ layout: default
 **Date:**  1660
 
 [A90038](/miscellanies/A90038.html)
-
+---
 
 
 **Author:**  
@@ -2032,7 +2032,7 @@ layout: default
 **Date:**  1660
 
 [A90605](/miscellanies/A90605.html)
-
+---
 
 
 **Author:**  Prynne, William, 1600-1669.
@@ -2042,7 +2042,7 @@ layout: default
 **Date:**  1660
 
 [A91274](/miscellanies/A91274.html)
-
+---
 
 
 **Author:**  Prynne, William, 1600-1669.
@@ -2052,7 +2052,7 @@ layout: default
 **Date:**  1659
 
 [A91280](/miscellanies/A91280.html)
-
+---
 
 
 **Author:**  
@@ -2062,7 +2062,7 @@ layout: default
 **Date:**  1659
 
 [A91681](/miscellanies/A91681.html)
-
+---
 
 
 **Author:**  Robins, Robert.
@@ -2072,7 +2072,7 @@ layout: default
 **Date:**  1649
 
 [A91867](/miscellanies/A91867.html)
-
+---
 
 
 **Author:**  Robinson, John, 1575?-1625.; Perkins, William, 1558-1602. Foundation of Christian religion.
@@ -2082,7 +2082,7 @@ layout: default
 **Date:**  1642
 
 [A91890](/miscellanies/A91890.html)
-
+---
 
 
 **Author:**  Robinson, John, 1575?-1625.
@@ -2092,7 +2092,7 @@ layout: default
 **Date:**  1641
 
 [A91891](/miscellanies/A91891.html)
-
+---
 
 
 **Author:**  
@@ -2102,7 +2102,7 @@ layout: default
 **Date:**  1660
 
 [A92084](/miscellanies/A92084.html)
-
+---
 
 
 **Author:**  
@@ -2112,7 +2112,7 @@ layout: default
 **Date:**  1660
 
 [A92086](/miscellanies/A92086.html)
-
+---
 
 
 **Author:**  
@@ -2122,7 +2122,7 @@ layout: default
 **Date:**  1660
 
 [A92087](/miscellanies/A92087.html)
-
+---
 
 
 **Author:**  
@@ -2132,7 +2132,7 @@ layout: default
 **Date:**  1660
 
 [A92089](/miscellanies/A92089.html)
-
+---
 
 
 **Author:**  Robinson, Mr.; Davie, John.
@@ -2142,7 +2142,7 @@ layout: default
 **Date:**  1677
 
 [A94009](/miscellanies/A94009.html)
-
+---
 
 
 **Author:**  
@@ -2152,7 +2152,7 @@ layout: default
 **Date:**  1630
 
 [B00183](/miscellanies/B00183.html)
-
+---
 
 
 **Author:**  M. P. (Martin Parker), d. 1656?
@@ -2162,7 +2162,7 @@ layout: default
 **Date:**  1634
 
 [B00497](/miscellanies/B00497.html)
-
+---
 
 
 **Author:**  
@@ -2172,7 +2172,7 @@ layout: default
 **Date:**  1660
 
 [B01434](/miscellanies/B01434.html)
-
+---
 
 
 **Author:**  
@@ -2182,7 +2182,7 @@ layout: default
 **Date:**  1670-1696?
 
 [B01540](/miscellanies/B01540.html)
-
+---
 
 
 **Author:**  Birket, Cuthbert.
@@ -2192,7 +2192,7 @@ layout: default
 **Date:**  1670
 
 [B01662](/miscellanies/B01662.html)
-
+---
 
 
 **Author:**  Bowne, Tobias.
@@ -2202,7 +2202,7 @@ layout: default
 **Date:**  1670-1696?
 
 [B01734](/miscellanies/B01734.html)
-
+---
 
 
 **Author:**  Friend to the Rump.
@@ -2212,7 +2212,7 @@ layout: default
 **Date:**  1660
 
 [B01769](/miscellanies/B01769.html)
-
+---
 
 
 **Author:**  Brome, Alexander, 1620-1666.
@@ -2222,7 +2222,7 @@ layout: default
 **Date:**  1660
 
 [B01796](/miscellanies/B01796.html)
-
+---
 
 
 **Author:**  
@@ -2232,7 +2232,7 @@ layout: default
 **Date:**  1686
 
 [B02365](/miscellanies/B02365.html)
-
+---
 
 
 **Author:**  
@@ -2242,7 +2242,7 @@ layout: default
 **Date:**  1685-1688?
 
 [B02435](/miscellanies/B02435.html)
-
+---
 
 
 **Author:**  
@@ -2252,7 +2252,7 @@ layout: default
 **Date:**  1684-1686?
 
 [B02442](/miscellanies/B02442.html)
-
+---
 
 
 **Author:**  
@@ -2262,7 +2262,7 @@ layout: default
 **Date:**  1670-1696?
 
 [B02549](/miscellanies/B02549.html)
-
+---
 
 
 **Author:**  
@@ -2272,7 +2272,7 @@ layout: default
 **Date:**  1685-1688?
 
 [B02552](/miscellanies/B02552.html)
-
+---
 
 
 **Author:**  
@@ -2282,7 +2282,7 @@ layout: default
 **Date:**  1698
 
 [B02598](/miscellanies/B02598.html)
-
+---
 
 
 **Author:**  
@@ -2292,7 +2292,7 @@ layout: default
 **Date:**  1674-1679?
 
 [B02864](/miscellanies/B02864.html)
-
+---
 
 
 **Author:**  
@@ -2302,7 +2302,7 @@ layout: default
 **Date:**  1660
 
 [B03111](/miscellanies/B03111.html)
-
+---
 
 
 **Author:**  
@@ -2312,7 +2312,7 @@ layout: default
 **Date:**  1672
 
 [B03300](/miscellanies/B03300.html)
-
+---
 
 
 **Author:**  
@@ -2322,7 +2322,7 @@ layout: default
 **Date:**  1689-1692?
 
 [B03421](/miscellanies/B03421.html)
-
+---
 
 
 **Author:**  
@@ -2332,7 +2332,7 @@ layout: default
 **Date:**  1681-1684?
 
 [B03613](/miscellanies/B03613.html)
-
+---
 
 
 **Author:**  
@@ -2342,7 +2342,7 @@ layout: default
 **Date:**  1657
 
 [B04111](/miscellanies/B04111.html)
-
+---
 
 
 **Author:**  
@@ -2352,7 +2352,7 @@ layout: default
 **Date:**  1685-1688?
 
 [B04149](/miscellanies/B04149.html)
-
+---
 
 
 **Author:**  
@@ -2362,7 +2362,7 @@ layout: default
 **Date:**  1688-1692?
 
 [B04150](/miscellanies/B04150.html)
-
+---
 
 
 **Author:**  
@@ -2372,7 +2372,7 @@ layout: default
 **Date:**  1663-1674?
 
 [B04285](/miscellanies/B04285.html)
-
+---
 
 
 **Author:**  
@@ -2382,7 +2382,7 @@ layout: default
 **Date:**  1695
 
 [B04353](/miscellanies/B04353.html)
-
+---
 
 
 **Author:**  
@@ -2392,7 +2392,7 @@ layout: default
 **Date:**  1670-1696?
 
 [B04363](/miscellanies/B04363.html)
-
+---
 
 
 **Author:**  Playford, John, 1623-1686?
@@ -2402,7 +2402,7 @@ layout: default
 **Date:**  1670
 
 [B04714](/miscellanies/B04714.html)
-
+---
 
 
 **Author:**  
@@ -2412,7 +2412,7 @@ layout: default
 **Date:**  1683
 
 [B04739](/miscellanies/B04739.html)
-
+---
 
 
 **Author:**  
@@ -2422,7 +2422,7 @@ layout: default
 **Date:**  1670
 
 [B04773](/miscellanies/B04773.html)
-
+---
 
 
 **Author:**  
@@ -2432,7 +2432,7 @@ layout: default
 **Date:**  1693
 
 [B04774](/miscellanies/B04774.html)
-
+---
 
 
 **Author:**  
@@ -2442,7 +2442,7 @@ layout: default
 **Date:**  1670
 
 [B04776](/miscellanies/B04776.html)
-
+---
 
 
 **Author:**  
@@ -2452,7 +2452,7 @@ layout: default
 **Date:**  1672
 
 [B04779](/miscellanies/B04779.html)
-
+---
 
 
 **Author:**  J. P.
@@ -2462,7 +2462,7 @@ layout: default
 **Date:**  1650
 
 [B04904](/miscellanies/B04904.html)
-
+---
 
 
 **Author:**  
@@ -2472,7 +2472,7 @@ layout: default
 **Date:**  1695
 
 [B05007](/miscellanies/B05007.html)
-
+---
 
 
 **Author:**  
@@ -2482,7 +2482,7 @@ layout: default
 **Date:**  1674-1679?
 
 [B05008](/miscellanies/B05008.html)
-
+---
 
 
 **Author:**  
@@ -2492,7 +2492,7 @@ layout: default
 **Date:**  1685
 
 [B05010](/miscellanies/B05010.html)
-
+---
 
 
 **Author:**  
@@ -2502,7 +2502,7 @@ layout: default
 **Date:**  1682-1700?
 
 [B05011](/miscellanies/B05011.html)
-
+---
 
 
 **Author:**  
@@ -2512,7 +2512,7 @@ layout: default
 **Date:**  1700
 
 [B05012](/miscellanies/B05012.html)
-
+---
 
 
 **Author:**  
@@ -2522,7 +2522,7 @@ layout: default
 **Date:**  1685
 
 [B05013](/miscellanies/B05013.html)
-
+---
 
 
 **Author:**  
@@ -2532,7 +2532,7 @@ layout: default
 **Date:**  1700
 
 [B05015](/miscellanies/B05015.html)
-
+---
 
 
 **Author:**  J. R.
@@ -2542,7 +2542,7 @@ layout: default
 **Date:**  1663
 
 [B05074](/miscellanies/B05074.html)
-
+---
 
 
 **Author:**  
@@ -2552,7 +2552,7 @@ layout: default
 **Date:**  1665
 
 [B05766](/miscellanies/B05766.html)
-
+---
 
 
 **Author:**  
@@ -2562,7 +2562,7 @@ layout: default
 **Date:**  1670-1696?
 
 [B06099](/miscellanies/B06099.html)
-
+---
 
 
 **Author:**  
@@ -2572,7 +2572,7 @@ layout: default
 **Date:**  1678
 
 [B06184](/miscellanies/B06184.html)
-
+---
 
 
 **Author:**  
@@ -2582,7 +2582,7 @@ layout: default
 **Date:**  1692-1700?
 
 [B06257](/miscellanies/B06257.html)
-
+---
 
 
 **Author:**  
@@ -2592,7 +2592,7 @@ layout: default
 **Date:**  1688-1692?
 
 [B06518](/miscellanies/B06518.html)
-
+---
 
 
 **Author:**  
@@ -2602,7 +2602,7 @@ layout: default
 **Date:**  1688-1692?
 
 [B06667](/miscellanies/B06667.html)
-
+---
 
 
 **Author:**  
@@ -2612,7 +2612,7 @@ layout: default
 **Date:**  1690
 
 [B06669](/miscellanies/B06669.html)
-
+---
 
 
 **Author:**  
@@ -2622,5 +2622,5 @@ layout: default
 **Date:**  1690
 
 [B06787](/miscellanies/B06787.html)
-
+---
 
