@@ -1,5 +1,7 @@
+
 ---
 layout: default
+
 ---
 
 #Index of Miscellanies
@@ -12,6 +14,7 @@ layout: default
 **Date:**  1618
 
 [A00825](/miscellanies/A00825.html)
+
 ---
 
 
@@ -22,6 +25,7 @@ layout: default
 **Date:**  1591
 
 [A01504](/miscellanies/A01504.html)
+
 ---
 
 
@@ -32,6 +36,7 @@ layout: default
 **Date:**  1618
 
 [A01873](/miscellanies/A01873.html)
+
 ---
 
 
@@ -42,6 +47,7 @@ layout: default
 **Date:**  1602
 
 [A02101](/miscellanies/A02101.html)
+
 ---
 
 
@@ -52,6 +58,7 @@ layout: default
 **Date:**  1599
 
 [A02120](/miscellanies/A02120.html)
+
 ---
 
 
@@ -62,6 +69,7 @@ layout: default
 **Date:**  1584
 
 [A02122](/miscellanies/A02122.html)
+
 ---
 
 
@@ -72,6 +80,7 @@ layout: default
 **Date:**  1608
 
 [A02124](/miscellanies/A02124.html)
+
 ---
 
 
@@ -82,6 +91,7 @@ layout: default
 **Date:**  1554
 
 [A02331](/miscellanies/A02331.html)
+
 ---
 
 
@@ -92,6 +102,7 @@ layout: default
 **Date:**  1619
 
 [A02618](/miscellanies/A02618.html)
+
 ---
 
 
@@ -102,6 +113,7 @@ layout: default
 **Date:**  1570
 
 [A03024](/miscellanies/A03024.html)
+
 ---
 
 
@@ -112,6 +124,7 @@ layout: default
 **Date:**  1588
 
 [A03731](/miscellanies/A03731.html)
+
 ---
 
 
@@ -122,6 +135,7 @@ layout: default
 **Date:**  1557
 
 [A03742](/miscellanies/A03742.html)
+
 ---
 
 
@@ -132,6 +146,7 @@ layout: default
 **Date:**  1622
 
 [A05166](/miscellanies/A05166.html)
+
 ---
 
 
@@ -142,6 +157,7 @@ layout: default
 **Date:**  1582
 
 [A05297](/miscellanies/A05297.html)
+
 ---
 
 
@@ -152,6 +168,7 @@ layout: default
 **Date:**  1629
 
 [A05462](/miscellanies/A05462.html)
+
 ---
 
 
@@ -162,6 +179,7 @@ layout: default
 **Date:**  1591
 
 [A06166](/miscellanies/A06166.html)
+
 ---
 
 
@@ -172,6 +190,7 @@ layout: default
 **Date:**  1615
 
 [A06177](/miscellanies/A06177.html)
+
 ---
 
 
@@ -182,6 +201,7 @@ layout: default
 **Date:**  1594
 
 [A07023](/miscellanies/A07023.html)
+
 ---
 
 
@@ -192,6 +212,7 @@ layout: default
 **Date:**  1618
 
 [A07637](/miscellanies/A07637.html)
+
 ---
 
 
@@ -202,6 +223,7 @@ layout: default
 **Date:**  1601
 
 [A07897](/miscellanies/A07897.html)
+
 ---
 
 
@@ -212,6 +234,7 @@ layout: default
 **Date:**  1633
 
 [A08948](/miscellanies/A08948.html)
+
 ---
 
 
@@ -222,6 +245,7 @@ layout: default
 **Date:**  1634
 
 [A08977](/miscellanies/A08977.html)
+
 ---
 
 
@@ -232,6 +256,7 @@ layout: default
 **Date:**  1576
 
 [A09163](/miscellanies/A09163.html)
+
 ---
 
 
@@ -242,6 +267,7 @@ layout: default
 **Date:**  1636
 
 [A10065](/miscellanies/A10065.html)
+
 ---
 
 
@@ -252,6 +278,7 @@ layout: default
 **Date:**  1587
 
 [A10583](/miscellanies/A10583.html)
+
 ---
 
 
@@ -262,6 +289,7 @@ layout: default
 **Date:**  1587
 
 [A10583](/miscellanies/A10583.html)
+
 ---
 
 
@@ -272,6 +300,7 @@ layout: default
 **Date:**  1584
 
 [A10831](/miscellanies/A10831.html)
+
 ---
 
 
@@ -282,6 +311,7 @@ layout: default
 **Date:**  1624
 
 [A10833](/miscellanies/A10833.html)
+
 ---
 
 
@@ -292,6 +322,7 @@ layout: default
 **Date:**  1625
 
 [A10834](/miscellanies/A10834.html)
+
 ---
 
 
@@ -302,6 +333,7 @@ layout: default
 **Date:**  1610
 
 [A10835](/miscellanies/A10835.html)
+
 ---
 
 
@@ -312,6 +344,7 @@ layout: default
 **Date:**  1615
 
 [A10838](/miscellanies/A10838.html)
+
 ---
 
 
@@ -322,6 +355,7 @@ layout: default
 **Date:**  1614
 
 [A10843](/miscellanies/A10843.html)
+
 ---
 
 
@@ -332,6 +366,7 @@ layout: default
 **Date:**  1634
 
 [A10844](/miscellanies/A10844.html)
+
 ---
 
 
@@ -342,6 +377,7 @@ layout: default
 **Date:**  1577
 
 [A10846](/miscellanies/A10846.html)
+
 ---
 
 
@@ -352,6 +388,7 @@ layout: default
 **Date:**  1617
 
 [A10851](/miscellanies/A10851.html)
+
 ---
 
 
@@ -362,6 +399,7 @@ layout: default
 **Date:**  1609
 
 [A10856](/miscellanies/A10856.html)
+
 ---
 
 
@@ -372,6 +410,7 @@ layout: default
 **Date:**  1603
 
 [A10857](/miscellanies/A10857.html)
+
 ---
 
 
@@ -382,6 +421,7 @@ layout: default
 **Date:**  1607
 
 [A12074](/miscellanies/A12074.html)
+
 ---
 
 
@@ -392,6 +432,7 @@ layout: default
 **Date:**  1631
 
 [A12272](/miscellanies/A12272.html)
+
 ---
 
 
@@ -402,6 +443,7 @@ layout: default
 **Date:**  1582
 
 [A13064](/miscellanies/A13064.html)
+
 ---
 
 
@@ -412,6 +454,7 @@ layout: default
 **Date:**  1591
 
 [A13065](/miscellanies/A13065.html)
+
 ---
 
 
@@ -422,6 +465,7 @@ layout: default
 **Date:**  1595
 
 [A13068](/miscellanies/A13068.html)
+
 ---
 
 
@@ -432,6 +476,7 @@ layout: default
 **Date:**  1596
 
 [A13069](/miscellanies/A13069.html)
+
 ---
 
 
@@ -442,6 +487,7 @@ layout: default
 **Date:**  1598
 
 [A13070](/miscellanies/A13070.html)
+
 ---
 
 
@@ -452,6 +498,7 @@ layout: default
 **Date:**  1631
 
 [A13299](/miscellanies/A13299.html)
+
 ---
 
 
@@ -462,6 +509,7 @@ layout: default
 **Date:**  1590
 
 [A13377](/miscellanies/A13377.html)
+
 ---
 
 
@@ -472,6 +520,7 @@ layout: default
 **Date:**  1630
 
 [A13415](/miscellanies/A13415.html)
+
 ---
 
 
@@ -482,6 +531,7 @@ layout: default
 **Date:**  1628
 
 [A13520](/miscellanies/A13520.html)
+
 ---
 
 
@@ -492,6 +542,7 @@ layout: default
 **Date:**  1626
 
 [A14292](/miscellanies/A14292.html)
+
 ---
 
 
@@ -502,6 +553,7 @@ layout: default
 **Date:**  1566
 
 [A14625](/miscellanies/A14625.html)
+
 ---
 
 
@@ -512,6 +564,7 @@ layout: default
 **Date:**  1640
 
 [A15606](/miscellanies/A15606.html)
+
 ---
 
 
@@ -522,6 +575,7 @@ layout: default
 **Date:**  1601
 
 [A15814](/miscellanies/A15814.html)
+
 ---
 
 
@@ -532,6 +586,7 @@ layout: default
 **Date:**  1600
 
 [A16273](/miscellanies/A16273.html)
+
 ---
 
 
@@ -542,6 +597,7 @@ layout: default
 **Date:**  1635
 
 [A16342](/miscellanies/A16342.html)
+
 ---
 
 
@@ -552,6 +608,7 @@ layout: default
 **Date:**  1565
 
 [A16439](/miscellanies/A16439.html)
+
 ---
 
 
@@ -562,6 +619,7 @@ layout: default
 **Date:**  1600
 
 [A16884](/miscellanies/A16884.html)
+
 ---
 
 
@@ -572,6 +630,7 @@ layout: default
 **Date:**  1639
 
 [A17914](/miscellanies/A17914.html)
+
 ---
 
 
@@ -582,6 +641,7 @@ layout: default
 **Date:**  1632
 
 [A18617](/miscellanies/A18617.html)
+
 ---
 
 
@@ -592,6 +652,7 @@ layout: default
 **Date:**  1615
 
 [A19149](/miscellanies/A19149.html)
+
 ---
 
 
@@ -602,6 +663,7 @@ layout: default
 **Date:**  1615
 
 [A19156](/miscellanies/A19156.html)
+
 ---
 
 
@@ -612,6 +674,7 @@ layout: default
 **Date:**  1578
 
 [A19234](/miscellanies/A19234.html)
+
 ---
 
 
@@ -622,6 +685,7 @@ layout: default
 **Date:**  1594
 
 [A20406](/miscellanies/A20406.html)
+
 ---
 
 
@@ -632,6 +696,7 @@ layout: default
 **Date:**  1566
 
 [A20800](/miscellanies/A20800.html)
+
 ---
 
 
@@ -642,6 +707,7 @@ layout: default
 **Date:**  1604
 
 [A20917](/miscellanies/A20917.html)
+
 ---
 
 
@@ -652,6 +718,7 @@ layout: default
 **Date:**  1586
 
 [A21254](/miscellanies/A21254.html)
+
 ---
 
 
@@ -662,6 +729,7 @@ layout: default
 **Date:**  1683
 
 [A25322](/miscellanies/A25322.html)
+
 ---
 
 
@@ -672,6 +740,7 @@ layout: default
 **Date:**  1660
 
 [A25585](/miscellanies/A25585.html)
+
 ---
 
 
@@ -682,6 +751,7 @@ layout: default
 **Date:**  1660
 
 [A26130](/miscellanies/A26130.html)
+
 ---
 
 
@@ -692,6 +762,7 @@ layout: default
 **Date:**  1696
 
 [A26190](/miscellanies/A26190.html)
+
 ---
 
 
@@ -702,6 +773,7 @@ layout: default
 **Date:**  1684
 
 [A26296](/miscellanies/A26296.html)
+
 ---
 
 
@@ -712,6 +784,7 @@ layout: default
 **Date:**  1668
 
 [A27249](/miscellanies/A27249.html)
+
 ---
 
 
@@ -722,6 +795,7 @@ layout: default
 **Date:**  1641
 
 [A27257](/miscellanies/A27257.html)
+
 ---
 
 
@@ -732,6 +806,7 @@ layout: default
 **Date:**  1662
 
 [A29621](/miscellanies/A29621.html)
+
 ---
 
 
@@ -742,6 +817,7 @@ layout: default
 **Date:**  1694
 
 [A29976](/miscellanies/A29976.html)
+
 ---
 
 
@@ -752,6 +828,7 @@ layout: default
 **Date:**  1688
 
 [A30923](/miscellanies/A30923.html)
+
 ---
 
 
@@ -762,6 +839,7 @@ layout: default
 **Date:**  1699
 
 [A31663](/miscellanies/A31663.html)
+
 ---
 
 
@@ -772,6 +850,7 @@ layout: default
 **Date:**  1678
 
 [A33819](/miscellanies/A33819.html)
+
 ---
 
 
@@ -782,6 +861,7 @@ layout: default
 **Date:**  1673
 
 [A33849](/miscellanies/A33849.html)
+
 ---
 
 
@@ -792,6 +872,7 @@ layout: default
 **Date:**  1689
 
 [A33850](/miscellanies/A33850.html)
+
 ---
 
 
@@ -802,6 +883,7 @@ layout: default
 **Date:**  1694
 
 [A33912](/miscellanies/A33912.html)
+
 ---
 
 
@@ -812,6 +894,7 @@ layout: default
 **Date:**  1695
 
 [A33913](/miscellanies/A33913.html)
+
 ---
 
 
@@ -822,6 +905,7 @@ layout: default
 **Date:**  1658
 
 [A34011](/miscellanies/A34011.html)
+
 ---
 
 
@@ -832,6 +916,7 @@ layout: default
 **Date:**  1700
 
 [A34124](/miscellanies/A34124.html)
+
 ---
 
 
@@ -842,6 +927,7 @@ layout: default
 **Date:**  1690
 
 [A34386](/miscellanies/A34386.html)
+
 ---
 
 
@@ -852,6 +938,7 @@ layout: default
 **Date:**  1686
 
 [A34569](/miscellanies/A34569.html)
+
 ---
 
 
@@ -862,6 +949,7 @@ layout: default
 **Date:**  1660
 
 [A35208](/miscellanies/A35208.html)
+
 ---
 
 
@@ -872,6 +960,7 @@ layout: default
 **Date:**  1700
 
 [A35440](/miscellanies/A35440.html)
+
 ---
 
 
@@ -882,6 +971,7 @@ layout: default
 **Date:**  1666
 
 [A35608](/miscellanies/A35608.html)
+
 ---
 
 
@@ -892,6 +982,7 @@ layout: default
 **Date:**  1666
 
 [A35608](/miscellanies/A35608.html)
+
 ---
 
 
@@ -902,6 +993,7 @@ layout: default
 **Date:**  1668
 
 [A35654](/miscellanies/A35654.html)
+
 ---
 
 
@@ -912,26 +1004,31 @@ layout: default
 **Date:**  1693
 
 [A35672](/miscellanies/A35672.html)
+
 ---
 
 
 **Author:**  Digby, Kenelm, Sir, 1603-1665.; Hartman, G. (George)
+
 ---
 **Title:**  Choice and experimented receipts in physick and chirurgery as also cordial and distilled waters and spirits, perfumes, and other curiosities / collected by ... Sir Kenelm Digby, Knight ...
 
 **Date:**  1675
 
 [A35967](/miscellanies/A35967.html)
+
 ---
 
 
 **Author:**  Digby, Kenelm, Sir, 1603-1665.; Hartman, G. (George)
+
 ---
 **Title:**  A choice collection of rare secrets and experiments in philosophy as also rare and unheard-of medicines, menstruums and alkahests : with the true secret of volatilizing the fixt salt of tartar / collected and experimented by the honourable and truly learned Sir Kenelm Digby, Kt., Chancellour to Her Majesty the Queen-Mother ; hitherto kept secret since his decease, but now published for the good and benefit of the publick by George Hartman.; Choice collection of rare secrets and experiments in philosophy
 
 **Date:**  1682
 
 [A35968](/miscellanies/A35968.html)
+
 ---
 
 
@@ -942,6 +1039,7 @@ layout: default
 **Date:**  1694
 
 [A36597](/miscellanies/A36597.html)
+
 ---
 
 
@@ -952,6 +1050,7 @@ layout: default
 **Date:**  1688
 
 [A36608](/miscellanies/A36608.html)
+
 ---
 
 
@@ -962,6 +1061,7 @@ layout: default
 **Date:**  1693
 
 [A36624](/miscellanies/A36624.html)
+
 ---
 
 
@@ -972,6 +1072,7 @@ layout: default
 **Date:**  1685
 
 [A36697](/miscellanies/A36697.html)
+
 ---
 
 
@@ -982,6 +1083,7 @@ layout: default
 **Date:**  1682
 
 [A36701](/miscellanies/A36701.html)
+
 ---
 
 
@@ -992,6 +1094,7 @@ layout: default
 **Date:**  1700
 
 [A36897](/miscellanies/A36897.html)
+
 ---
 
 
@@ -1002,6 +1105,7 @@ layout: default
 **Date:**  1699
 
 [A36960](/miscellanies/A36960.html)
+
 ---
 
 
@@ -1012,6 +1116,7 @@ layout: default
 **Date:**  1684
 
 [A36961](/miscellanies/A36961.html)
+
 ---
 
 
@@ -1022,6 +1127,7 @@ layout: default
 **Date:**  1689
 
 [A41430](/miscellanies/A41430.html)
+
 ---
 
 
@@ -1032,6 +1138,7 @@ layout: default
 **Date:**  1699
 
 [A41715](/miscellanies/A41715.html)
+
 ---
 
 
@@ -1042,6 +1149,7 @@ layout: default
 **Date:**  1690
 
 [A42268](/miscellanies/A42268.html)
+
 ---
 
 
@@ -1052,6 +1160,7 @@ layout: default
 **Date:**  1641
 
 [A43398](/miscellanies/A43398.html)
+
 ---
 
 
@@ -1062,6 +1171,7 @@ layout: default
 **Date:**  1677
 
 [A43443](/miscellanies/A43443.html)
+
 ---
 
 
@@ -1072,6 +1182,7 @@ layout: default
 **Date:**  1676
 
 [A44531](/miscellanies/A44531.html)
+
 ---
 
 
@@ -1082,6 +1193,7 @@ layout: default
 **Date:**  1700
 
 [A44782](/miscellanies/A44782.html)
+
 ---
 
 
@@ -1092,6 +1204,7 @@ layout: default
 **Date:**  1654
 
 [A45315](/miscellanies/A45315.html)
+
 ---
 
 
@@ -1102,6 +1215,7 @@ layout: default
 **Date:**  1691
 
 [A45351](/miscellanies/A45351.html)
+
 ---
 
 
@@ -1112,6 +1226,7 @@ layout: default
 **Date:**  1683
 
 [A46165](/miscellanies/A46165.html)
+
 ---
 
 
@@ -1122,6 +1237,7 @@ layout: default
 **Date:**  1687
 
 [A47269](/miscellanies/A47269.html)
+
 ---
 
 
@@ -1132,6 +1248,7 @@ layout: default
 **Date:**  1681
 
 [A47352](/miscellanies/A47352.html)
+
 ---
 
 
@@ -1142,6 +1259,7 @@ layout: default
 **Date:**  1679
 
 [A47868](/miscellanies/A47868.html)
+
 ---
 
 
@@ -1152,6 +1270,7 @@ layout: default
 **Date:**  1676
 
 [A48252](/miscellanies/A48252.html)
+
 ---
 
 
@@ -1162,6 +1281,7 @@ layout: default
 **Date:**  1653
 
 [A49304](/miscellanies/A49304.html)
+
 ---
 
 
@@ -1172,6 +1292,7 @@ layout: default
 **Date:**  1648
 
 [A49748](/miscellanies/A49748.html)
+
 ---
 
 
@@ -1182,6 +1303,7 @@ layout: default
 **Date:**  1661
 
 [A50052](/miscellanies/A50052.html)
+
 ---
 
 
@@ -1192,6 +1314,7 @@ layout: default
 **Date:**  1694
 
 [A50935](/miscellanies/A50935.html)
+
 ---
 
 
@@ -1202,6 +1325,7 @@ layout: default
 **Date:**  1675
 
 [A51044](/miscellanies/A51044.html)
+
 ---
 
 
@@ -1212,6 +1336,7 @@ layout: default
 **Date:**  1646
 
 [A51291](/miscellanies/A51291.html)
+
 ---
 
 
@@ -1222,6 +1347,7 @@ layout: default
 **Date:**  1692
 
 [A51646](/miscellanies/A51646.html)
+
 ---
 
 
@@ -1232,6 +1358,7 @@ layout: default
 **Date:**  1675
 
 [A52348](/miscellanies/A52348.html)
+
 ---
 
 
@@ -1242,6 +1369,7 @@ layout: default
 **Date:**  1674
 
 [A52378](/miscellanies/A52378.html)
+
 ---
 
 
@@ -1252,6 +1380,7 @@ layout: default
 **Date:**  1660
 
 [A52383](/miscellanies/A52383.html)
+
 ---
 
 
@@ -1262,6 +1391,7 @@ layout: default
 **Date:**  1669
 
 [A52865](/miscellanies/A52865.html)
+
 ---
 
 
@@ -1272,6 +1402,7 @@ layout: default
 **Date:**  1669
 
 [A52865](/miscellanies/A52865.html)
+
 ---
 
 
@@ -1282,6 +1413,7 @@ layout: default
 **Date:**  1660
 
 [A53246](/miscellanies/A53246.html)
+
 ---
 
 
@@ -1292,6 +1424,7 @@ layout: default
 **Date:**  1684
 
 [A53879](/miscellanies/A53879.html)
+
 ---
 
 
@@ -1302,16 +1435,20 @@ layout: default
 **Date:**  1673
 
 [A55073](/miscellanies/A55073.html)
+
 ---
 
 
 **Author:**  Buckingham, George Villiers, Duke of, 1628-1687.
 
-**Title:**  Poems on affairs of state from the time of Oliver Cromwell, to the abdication of K. James the Second. Written by the greatest wits of the age. Viz. Duke of Buckingham, Earl of Rochester, Lord Bu-------st, Sir John Denham, Andrew Marvell, Esq; Mr. Milton, Mr. Dryden, Mr. Sprat, Mr. Waller. Mr. Ayloffe, &c. With some miscellany poems by the same: most whereof never before printed. Now carefully examined with the originals, and published without any castration.
+**Title:**  Poems on affairs of state from the time of Oliver Cromwell, to the abdication of K. James the Second. Written by the greatest wits of the age. Viz. Duke of Buckingham, Earl of Rochester, Lord Bu
+---
+----st, Sir John Denham, Andrew Marvell, Esq; Mr. Milton, Mr. Dryden, Mr. Sprat, Mr. Waller. Mr. Ayloffe, &c. With some miscellany poems by the same: most whereof never before printed. Now carefully examined with the originals, and published without any castration.
 
 **Date:**  1697
 
 [A55276](/miscellanies/A55276.html)
+
 ---
 
 
@@ -1322,6 +1459,7 @@ layout: default
 **Date:**  1677
 
 [A55407](/miscellanies/A55407.html)
+
 ---
 
 
@@ -1332,6 +1470,7 @@ layout: default
 **Date:**  1672
 
 [A55409](/miscellanies/A55409.html)
+
 ---
 
 
@@ -1342,6 +1481,7 @@ layout: default
 **Date:**  1666
 
 [A55410](/miscellanies/A55410.html)
+
 ---
 
 
@@ -1352,6 +1492,7 @@ layout: default
 **Date:**  1695
 
 [A55412](/miscellanies/A55412.html)
+
 ---
 
 
@@ -1362,6 +1503,7 @@ layout: default
 **Date:**  1681
 
 [A55414](/miscellanies/A55414.html)
+
 ---
 
 
@@ -1372,6 +1514,7 @@ layout: default
 **Date:**  1677
 
 [A55415](/miscellanies/A55415.html)
+
 ---
 
 
@@ -1382,6 +1525,7 @@ layout: default
 **Date:**  1677
 
 [A55416](/miscellanies/A55416.html)
+
 ---
 
 
@@ -1392,6 +1536,7 @@ layout: default
 **Date:**  1679
 
 [A55418](/miscellanies/A55418.html)
+
 ---
 
 
@@ -1402,6 +1547,7 @@ layout: default
 **Date:**  1659
 
 [A56209](/miscellanies/A56209.html)
+
 ---
 
 
@@ -1412,16 +1558,19 @@ layout: default
 **Date:**  1698
 
 [A56293](/miscellanies/A56293.html)
+
 ---
 
 
 **Author:**  Richardson, John, 1580-1654.; Ussher, James, 1581-1656.; Gataker, Thomas, 1574-1654.; Westminster Assembly (1643-1652)
+
 ---
 **Title:**  Choice observations and explanations upon the Old Testament containing in them many remarkable matters, either not taken notice of, or mistaken by most, which are additionals to the large annotations made by some of the Assembly of Divines : to which are added some further and larger observations of his upon the whole book of Genesis perused and attested by the Reverend Bishop of Armagh, and Mr. Gataker Pastor of Rederith / by ... John Richardson ...
 
 **Date:**  1655
 
 [A57230](/miscellanies/A57230.html)
+
 ---
 
 
@@ -1432,6 +1581,7 @@ layout: default
 **Date:**  1670
 
 [A57407](/miscellanies/A57407.html)
+
 ---
 
 
@@ -1442,6 +1592,7 @@ layout: default
 **Date:**  1670
 
 [A57414](/miscellanies/A57414.html)
+
 ---
 
 
@@ -1452,6 +1603,7 @@ layout: default
 **Date:**  1648
 
 [A57415](/miscellanies/A57415.html)
+
 ---
 
 
@@ -1462,6 +1614,7 @@ layout: default
 **Date:**  1641
 
 [A57437](/miscellanies/A57437.html)
+
 ---
 
 
@@ -1472,6 +1625,7 @@ layout: default
 **Date:**  1641
 
 [A57456](/miscellanies/A57456.html)
+
 ---
 
 
@@ -1482,6 +1636,7 @@ layout: default
 **Date:**  1642
 
 [A57457](/miscellanies/A57457.html)
+
 ---
 
 
@@ -1492,6 +1647,7 @@ layout: default
 **Date:**  1684
 
 [A57469](/miscellanies/A57469.html)
+
 ---
 
 
@@ -1502,6 +1658,7 @@ layout: default
 **Date:**  1696
 
 [A57471](/miscellanies/A57471.html)
+
 ---
 
 
@@ -1512,6 +1669,7 @@ layout: default
 **Date:**  1697
 
 [A57489](/miscellanies/A57489.html)
+
 ---
 
 
@@ -1522,6 +1680,7 @@ layout: default
 **Date:**  1678
 
 [A58842](/miscellanies/A58842.html)
+
 ---
 
 
@@ -1532,6 +1691,7 @@ layout: default
 **Date:**  1651
 
 [A59751](/miscellanies/A59751.html)
+
 ---
 
 
@@ -1542,6 +1702,7 @@ layout: default
 **Date:**  1659
 
 [A59977](/miscellanies/A59977.html)
+
 ---
 
 
@@ -1552,6 +1713,7 @@ layout: default
 **Date:**  1660
 
 [A60603](/miscellanies/A60603.html)
+
 ---
 
 
@@ -1562,6 +1724,7 @@ layout: default
 **Date:**  1660
 
 [A61464](/miscellanies/A61464.html)
+
 ---
 
 
@@ -1572,6 +1735,7 @@ layout: default
 **Date:**  1688
 
 [A62661](/miscellanies/A62661.html)
+
 ---
 
 
@@ -1582,6 +1746,7 @@ layout: default
 **Date:**  1696
 
 [A62987](/miscellanies/A62987.html)
+
 ---
 
 
@@ -1592,6 +1757,7 @@ layout: default
 **Date:**  1696
 
 [A62987](/miscellanies/A62987.html)
+
 ---
 
 
@@ -1602,6 +1768,7 @@ layout: default
 **Date:**  1685
 
 [A63107](/miscellanies/A63107.html)
+
 ---
 
 
@@ -1612,6 +1779,7 @@ layout: default
 **Date:**  1678
 
 [A63228](/miscellanies/A63228.html)
+
 ---
 
 
@@ -1622,6 +1790,7 @@ layout: default
 **Date:**  1680
 
 [A63546](/miscellanies/A63546.html)
+
 ---
 
 
@@ -1632,6 +1801,7 @@ layout: default
 **Date:**  1699
 
 [A63577](/miscellanies/A63577.html)
+
 ---
 
 
@@ -1642,6 +1812,7 @@ layout: default
 **Date:**  1650
 
 [A63941](/miscellanies/A63941.html)
+
 ---
 
 
@@ -1652,6 +1823,7 @@ layout: default
 **Date:**  1651
 
 [A64137](/miscellanies/A64137.html)
+
 ---
 
 
@@ -1662,6 +1834,7 @@ layout: default
 **Date:**  1653
 
 [A64139](/miscellanies/A64139.html)
+
 ---
 
 
@@ -1672,6 +1845,7 @@ layout: default
 **Date:**  1680
 
 [A66690](/miscellanies/A66690.html)
+
 ---
 
 
@@ -1682,6 +1856,7 @@ layout: default
 **Date:**  1678
 
 [A66694](/miscellanies/A66694.html)
+
 ---
 
 
@@ -1692,6 +1867,7 @@ layout: default
 **Date:**  1675
 
 [A66704](/miscellanies/A66704.html)
+
 ---
 
 
@@ -1702,6 +1878,7 @@ layout: default
 **Date:**  1687
 
 [A66705](/miscellanies/A66705.html)
+
 ---
 
 
@@ -1712,6 +1889,7 @@ layout: default
 **Date:**  1667
 
 [A66707](/miscellanies/A66707.html)
+
 ---
 
 
@@ -1722,6 +1900,7 @@ layout: default
 **Date:**  1678
 
 [A66709](/miscellanies/A66709.html)
+
 ---
 
 
@@ -1732,6 +1911,7 @@ layout: default
 **Date:**  1678
 
 [A66710](/miscellanies/A66710.html)
+
 ---
 
 
@@ -1742,6 +1922,7 @@ layout: default
 **Date:**  1692
 
 [A67452](/miscellanies/A67452.html)
+
 ---
 
 
@@ -1752,6 +1933,7 @@ layout: default
 **Date:**  1574
 
 [A68662](/miscellanies/A68662.html)
+
 ---
 
 
@@ -1762,6 +1944,7 @@ layout: default
 **Date:**  1640
 
 [A68783](/miscellanies/A68783.html)
+
 ---
 
 
@@ -1772,6 +1955,7 @@ layout: default
 **Date:**  1606
 
 [A68982](/miscellanies/A68982.html)
+
 ---
 
 
@@ -1782,16 +1966,19 @@ layout: default
 **Date:**  1692
 
 [A70171](/miscellanies/A70171.html)
+
 ---
 
 
 **Author:**  G. H.; G. H. (G. Hussey); G. H. (G. Hooker)
+
 ---
 **Title:**  Memorabilia mundi, or, Choice memoirs of the history and description of the world by G.H.
 
 **Date:**  1670
 
 [A70258](/miscellanies/A70258.html)
+
 ---
 
 
@@ -1802,6 +1989,7 @@ layout: default
 **Date:**  1677
 
 [A70260](/miscellanies/A70260.html)
+
 ---
 
 
@@ -1812,6 +2000,7 @@ layout: default
 **Date:**  1500
 
 [A72367](/miscellanies/A72367.html)
+
 ---
 
 
@@ -1822,6 +2011,7 @@ layout: default
 **Date:**  1654
 
 [A75721](/miscellanies/A75721.html)
+
 ---
 
 
@@ -1832,6 +2022,7 @@ layout: default
 **Date:**  1660
 
 [A76332](/miscellanies/A76332.html)
+
 ---
 
 
@@ -1842,6 +2033,7 @@ layout: default
 **Date:**  1697
 
 [A76627](/miscellanies/A76627.html)
+
 ---
 
 
@@ -1852,6 +2044,7 @@ layout: default
 **Date:**  1664
 
 [A77239](/miscellanies/A77239.html)
+
 ---
 
 
@@ -1862,6 +2055,7 @@ layout: default
 **Date:**  1689
 
 [A80112](/miscellanies/A80112.html)
+
 ---
 
 
@@ -1872,6 +2066,7 @@ layout: default
 **Date:**  1660
 
 [A80186](/miscellanies/A80186.html)
+
 ---
 
 
@@ -1882,6 +2077,7 @@ layout: default
 **Date:**  1681
 
 [A80305](/miscellanies/A80305.html)
+
 ---
 
 
@@ -1892,6 +2088,7 @@ layout: default
 **Date:**  1658
 
 [A84621](/miscellanies/A84621.html)
+
 ---
 
 
@@ -1902,6 +2099,7 @@ layout: default
 **Date:**  1660
 
 [A84725](/miscellanies/A84725.html)
+
 ---
 
 
@@ -1912,6 +2110,7 @@ layout: default
 **Date:**  1642
 
 [A84844](/miscellanies/A84844.html)
+
 ---
 
 
@@ -1922,6 +2121,7 @@ layout: default
 **Date:**  1675
 
 [A85066](/miscellanies/A85066.html)
+
 ---
 
 
@@ -1932,6 +2132,7 @@ layout: default
 **Date:**  1685-1688
 
 [A85068](/miscellanies/A85068.html)
+
 ---
 
 
@@ -1942,6 +2143,7 @@ layout: default
 **Date:**  1660
 
 [A85692](/miscellanies/A85692.html)
+
 ---
 
 
@@ -1952,6 +2154,7 @@ layout: default
 **Date:**  1660
 
 [A86403](/miscellanies/A86403.html)
+
 ---
 
 
@@ -1962,6 +2165,7 @@ layout: default
 **Date:**  1660
 
 [A87886](/miscellanies/A87886.html)
+
 ---
 
 
@@ -1972,6 +2176,7 @@ layout: default
 **Date:**  1660
 
 [A87887](/miscellanies/A87887.html)
+
 ---
 
 
@@ -1982,6 +2187,7 @@ layout: default
 **Date:**  1660
 
 [A87903](/miscellanies/A87903.html)
+
 ---
 
 
@@ -1992,6 +2198,7 @@ layout: default
 **Date:**  1660
 
 [A88130](/miscellanies/A88130.html)
+
 ---
 
 
@@ -2002,6 +2209,7 @@ layout: default
 **Date:**  1660
 
 [A88638](/miscellanies/A88638.html)
+
 ---
 
 
@@ -2012,6 +2220,7 @@ layout: default
 **Date:**  1700
 
 [A89392](/miscellanies/A89392.html)
+
 ---
 
 
@@ -2022,6 +2231,7 @@ layout: default
 **Date:**  1660
 
 [A90038](/miscellanies/A90038.html)
+
 ---
 
 
@@ -2032,6 +2242,7 @@ layout: default
 **Date:**  1660
 
 [A90605](/miscellanies/A90605.html)
+
 ---
 
 
@@ -2042,6 +2253,7 @@ layout: default
 **Date:**  1660
 
 [A91274](/miscellanies/A91274.html)
+
 ---
 
 
@@ -2052,6 +2264,7 @@ layout: default
 **Date:**  1659
 
 [A91280](/miscellanies/A91280.html)
+
 ---
 
 
@@ -2062,6 +2275,7 @@ layout: default
 **Date:**  1659
 
 [A91681](/miscellanies/A91681.html)
+
 ---
 
 
@@ -2072,6 +2286,7 @@ layout: default
 **Date:**  1649
 
 [A91867](/miscellanies/A91867.html)
+
 ---
 
 
@@ -2082,6 +2297,7 @@ layout: default
 **Date:**  1642
 
 [A91890](/miscellanies/A91890.html)
+
 ---
 
 
@@ -2092,6 +2308,7 @@ layout: default
 **Date:**  1641
 
 [A91891](/miscellanies/A91891.html)
+
 ---
 
 
@@ -2102,6 +2319,7 @@ layout: default
 **Date:**  1660
 
 [A92084](/miscellanies/A92084.html)
+
 ---
 
 
@@ -2112,6 +2330,7 @@ layout: default
 **Date:**  1660
 
 [A92086](/miscellanies/A92086.html)
+
 ---
 
 
@@ -2122,6 +2341,7 @@ layout: default
 **Date:**  1660
 
 [A92087](/miscellanies/A92087.html)
+
 ---
 
 
@@ -2132,6 +2352,7 @@ layout: default
 **Date:**  1660
 
 [A92089](/miscellanies/A92089.html)
+
 ---
 
 
@@ -2142,6 +2363,7 @@ layout: default
 **Date:**  1677
 
 [A94009](/miscellanies/A94009.html)
+
 ---
 
 
@@ -2152,6 +2374,7 @@ layout: default
 **Date:**  1630
 
 [B00183](/miscellanies/B00183.html)
+
 ---
 
 
@@ -2162,6 +2385,7 @@ layout: default
 **Date:**  1634
 
 [B00497](/miscellanies/B00497.html)
+
 ---
 
 
@@ -2172,6 +2396,7 @@ layout: default
 **Date:**  1660
 
 [B01434](/miscellanies/B01434.html)
+
 ---
 
 
@@ -2182,6 +2407,7 @@ layout: default
 **Date:**  1670-1696?
 
 [B01540](/miscellanies/B01540.html)
+
 ---
 
 
@@ -2192,6 +2418,7 @@ layout: default
 **Date:**  1670
 
 [B01662](/miscellanies/B01662.html)
+
 ---
 
 
@@ -2202,6 +2429,7 @@ layout: default
 **Date:**  1670-1696?
 
 [B01734](/miscellanies/B01734.html)
+
 ---
 
 
@@ -2212,6 +2440,7 @@ layout: default
 **Date:**  1660
 
 [B01769](/miscellanies/B01769.html)
+
 ---
 
 
@@ -2222,6 +2451,7 @@ layout: default
 **Date:**  1660
 
 [B01796](/miscellanies/B01796.html)
+
 ---
 
 
@@ -2232,6 +2462,7 @@ layout: default
 **Date:**  1686
 
 [B02365](/miscellanies/B02365.html)
+
 ---
 
 
@@ -2242,6 +2473,7 @@ layout: default
 **Date:**  1685-1688?
 
 [B02435](/miscellanies/B02435.html)
+
 ---
 
 
@@ -2252,6 +2484,7 @@ layout: default
 **Date:**  1684-1686?
 
 [B02442](/miscellanies/B02442.html)
+
 ---
 
 
@@ -2262,6 +2495,7 @@ layout: default
 **Date:**  1670-1696?
 
 [B02549](/miscellanies/B02549.html)
+
 ---
 
 
@@ -2272,6 +2506,7 @@ layout: default
 **Date:**  1685-1688?
 
 [B02552](/miscellanies/B02552.html)
+
 ---
 
 
@@ -2282,6 +2517,7 @@ layout: default
 **Date:**  1698
 
 [B02598](/miscellanies/B02598.html)
+
 ---
 
 
@@ -2292,6 +2528,7 @@ layout: default
 **Date:**  1674-1679?
 
 [B02864](/miscellanies/B02864.html)
+
 ---
 
 
@@ -2302,6 +2539,7 @@ layout: default
 **Date:**  1660
 
 [B03111](/miscellanies/B03111.html)
+
 ---
 
 
@@ -2312,6 +2550,7 @@ layout: default
 **Date:**  1672
 
 [B03300](/miscellanies/B03300.html)
+
 ---
 
 
@@ -2322,6 +2561,7 @@ layout: default
 **Date:**  1689-1692?
 
 [B03421](/miscellanies/B03421.html)
+
 ---
 
 
@@ -2332,6 +2572,7 @@ layout: default
 **Date:**  1681-1684?
 
 [B03613](/miscellanies/B03613.html)
+
 ---
 
 
@@ -2342,6 +2583,7 @@ layout: default
 **Date:**  1657
 
 [B04111](/miscellanies/B04111.html)
+
 ---
 
 
@@ -2352,6 +2594,7 @@ layout: default
 **Date:**  1685-1688?
 
 [B04149](/miscellanies/B04149.html)
+
 ---
 
 
@@ -2362,6 +2605,7 @@ layout: default
 **Date:**  1688-1692?
 
 [B04150](/miscellanies/B04150.html)
+
 ---
 
 
@@ -2372,6 +2616,7 @@ layout: default
 **Date:**  1663-1674?
 
 [B04285](/miscellanies/B04285.html)
+
 ---
 
 
@@ -2382,6 +2627,7 @@ layout: default
 **Date:**  1695
 
 [B04353](/miscellanies/B04353.html)
+
 ---
 
 
@@ -2392,6 +2638,7 @@ layout: default
 **Date:**  1670-1696?
 
 [B04363](/miscellanies/B04363.html)
+
 ---
 
 
@@ -2402,6 +2649,7 @@ layout: default
 **Date:**  1670
 
 [B04714](/miscellanies/B04714.html)
+
 ---
 
 
@@ -2412,6 +2660,7 @@ layout: default
 **Date:**  1683
 
 [B04739](/miscellanies/B04739.html)
+
 ---
 
 
@@ -2422,6 +2671,7 @@ layout: default
 **Date:**  1670
 
 [B04773](/miscellanies/B04773.html)
+
 ---
 
 
@@ -2432,6 +2682,7 @@ layout: default
 **Date:**  1693
 
 [B04774](/miscellanies/B04774.html)
+
 ---
 
 
@@ -2442,6 +2693,7 @@ layout: default
 **Date:**  1670
 
 [B04776](/miscellanies/B04776.html)
+
 ---
 
 
@@ -2452,6 +2704,7 @@ layout: default
 **Date:**  1672
 
 [B04779](/miscellanies/B04779.html)
+
 ---
 
 
@@ -2462,6 +2715,7 @@ layout: default
 **Date:**  1650
 
 [B04904](/miscellanies/B04904.html)
+
 ---
 
 
@@ -2472,6 +2726,7 @@ layout: default
 **Date:**  1695
 
 [B05007](/miscellanies/B05007.html)
+
 ---
 
 
@@ -2482,6 +2737,7 @@ layout: default
 **Date:**  1674-1679?
 
 [B05008](/miscellanies/B05008.html)
+
 ---
 
 
@@ -2492,6 +2748,7 @@ layout: default
 **Date:**  1685
 
 [B05010](/miscellanies/B05010.html)
+
 ---
 
 
@@ -2502,6 +2759,7 @@ layout: default
 **Date:**  1682-1700?
 
 [B05011](/miscellanies/B05011.html)
+
 ---
 
 
@@ -2512,6 +2770,7 @@ layout: default
 **Date:**  1700
 
 [B05012](/miscellanies/B05012.html)
+
 ---
 
 
@@ -2522,6 +2781,7 @@ layout: default
 **Date:**  1685
 
 [B05013](/miscellanies/B05013.html)
+
 ---
 
 
@@ -2532,6 +2792,7 @@ layout: default
 **Date:**  1700
 
 [B05015](/miscellanies/B05015.html)
+
 ---
 
 
@@ -2542,6 +2803,7 @@ layout: default
 **Date:**  1663
 
 [B05074](/miscellanies/B05074.html)
+
 ---
 
 
@@ -2552,6 +2814,7 @@ layout: default
 **Date:**  1665
 
 [B05766](/miscellanies/B05766.html)
+
 ---
 
 
@@ -2562,6 +2825,7 @@ layout: default
 **Date:**  1670-1696?
 
 [B06099](/miscellanies/B06099.html)
+
 ---
 
 
@@ -2572,6 +2836,7 @@ layout: default
 **Date:**  1678
 
 [B06184](/miscellanies/B06184.html)
+
 ---
 
 
@@ -2582,6 +2847,7 @@ layout: default
 **Date:**  1692-1700?
 
 [B06257](/miscellanies/B06257.html)
+
 ---
 
 
@@ -2592,6 +2858,7 @@ layout: default
 **Date:**  1688-1692?
 
 [B06518](/miscellanies/B06518.html)
+
 ---
 
 
@@ -2602,6 +2869,7 @@ layout: default
 **Date:**  1688-1692?
 
 [B06667](/miscellanies/B06667.html)
+
 ---
 
 
@@ -2612,6 +2880,7 @@ layout: default
 **Date:**  1690
 
 [B06669](/miscellanies/B06669.html)
+
 ---
 
 
@@ -2622,5 +2891,6 @@ layout: default
 **Date:**  1690
 
 [B06787](/miscellanies/B06787.html)
+
 ---
 
