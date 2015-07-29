@@ -14,11 +14,11 @@ layout: default
       }
     </script>
     
-<a href="#" onclick="toggle_visibility('about');">A76332</span></a>
+<a href="#" onclick="toggle_visibility('about');">A76332</a>
 
-<div id="about" style="display:none;">
-	{% include A76332.md %}
-	</div>
+<span id="about" style="display:none;">
+{% include A76332.md %}
+</span>
 
 **Author:**  Fitzgeffrey, Henry.; Beaumont, Francis, 1584-1616.; Drayton, Michael, 1563-1631.; Hookes, Nathaniel, fl. 1618, attributed name.
 
