@@ -11,6 +11,8 @@ layout: default
 
 **Date:** 1618
 
+**STC:** STC 10945.3; ESTC S116819
+
 [A00825](/miscellanies/A00825)
 
 ---
@@ -19,6 +21,8 @@ layout: default
 **Title:** Greenes Orpharion VVherin is discouered a musicall concorde of pleasant histories, many sweet moodes graced vvith such harmonius discords, as agreeing in a delightfull closse, they sound both pleasure and profit to the eare. Heerein also as in a diateheron, the branches of vertue, ascending and descending by degrees: are covnited in the glorious praise of women-kind. VVith diuers tragicall and comicall histories presented by Orpheus and Arion, beeing as full of profit as of pleasure. Robertus Greene, in Artibus Magister.
 
 **Date:** 1599
+
+**STC:** STC 12260; ESTC S103410
 
 [A02120](/miscellanies/A02120)
 
@@ -29,6 +33,8 @@ layout: default
 
 **Date:** 1554
 
+**STC:** STC 1246; ESTC S121324
+
 [A02331](/miscellanies/A02331)
 
 ---
@@ -37,6 +43,8 @@ layout: default
 **Title:** A happy husband or, Directions for a maide to choose her mate As also, a wiues behauiour towards her husband after marriage. By Patricke Hannay, Gent. To which is adioyned the Good wife, together with an exquisite discourse of epitaphs, including the choysest thereof, ancient or moderne. By R.B. Gent.
 
 **Date:** 1619
+
+**STC:** STC 12747; ESTC S103737
 
 [A02618](/miscellanies/A02618)
 
@@ -47,6 +55,8 @@ layout: default
 
 **Date:** 1570
 
+**STC:** STC 13166; ESTC S115185
+
 [A03024](/miscellanies/A03024)
 
 ---
@@ -55,6 +65,8 @@ layout: default
 **Title:** Songes and sonettes, written by the right honorable Lorde Henry Haward late Earle of Surrey, and other
 
 **Date:** 1557
+
+**STC:** STC 13861; ESTC S106407
 
 [A03742](/miscellanies/A03742)
 
@@ -65,6 +77,8 @@ layout: default
 
 **Date:** 1629
 
+**STC:** STC 15593; ESTC S108555
+
 [A05462](/miscellanies/A05462)
 
 ---
@@ -73,6 +87,8 @@ layout: default
 **Title:** Wit and mirth chargeably collected out of tauernes, ordinaries, innes, bowling greenes, and allyes, alehouses, tobacco shops, highwaies, and water-passages : made vp, and fashioned into clinches, bulls, quirkes, yerkes, quips, and ierkes : apothegmatically bundled vp and garbled at the request of old Iohn Garrets ghost / by Iohn Taylor, water-poet.
 
 **Date:** 1628
+
+**STC:** STC 23813.7; ESTC S3387
 
 [A13520](/miscellanies/A13520)
 
@@ -83,6 +99,8 @@ layout: default
 
 **Date:** 1626
 
+**STC:** STC 24609; ESTC S119039
+
 [A14292](/miscellanies/A14292)
 
 ---
@@ -91,6 +109,8 @@ layout: default
 **Title:** Wits recreations. Selected from the finest fancies of moderne muses
 
 **Date:** 1640
+
+**STC:** STC 25870; ESTC S120256
 
 [A15606](/miscellanies/A15606)
 
@@ -101,17 +121,18 @@ layout: default
 
 **Date:** 1600
 
+**STC:** STC 3191; ESTC S112729
+
 [A16273](/miscellanies/A16273)
 
 ---
 **Author:** Larke, John.; Gozzadini, Tommaso, attributed name.; Leoni, Tommaso, attributed name.
 
-**Title:** The boke of wisdome otherwise called the flower of vertue. Folowing the auctorities of auncient doctours 
-[and] philosophers, deuiding and speaking of vices 
-[and] vertues, wyth many goodly examples wherby a man may be praysed or dyspraysed, wyth the maner to speake well and wyselie to al folkes, of what estate so euer they bee. Translated first out of Italion into French, 
-[and] out of french into English, by Iohn Larke. 1565.; Fiore di virt. English.
+**Title:** The boke of wisdome otherwise called the flower of vertue. Folowing the auctorities of auncient doctours [and] philosophers, deuiding and speaking of vices [and] vertues, wyth many goodly examples wherby a man may be praysed or dyspraysed, wyth the maner to speake well and wyselie to al folkes, of what estate so euer they bee. Translated first out of Italion into French, [and] out of french into English, by Iohn Larke. 1565.; Fiore di virt. English.
 
 **Date:** 1565
+
+**STC:** STC 3358; ESTC S116186
 
 [A16439](/miscellanies/A16439)
 
@@ -122,6 +143,8 @@ layout: default
 
 **Date:** 1600
 
+**STC:** STC 378; ESTC S100113
+
 [A16884](/miscellanies/A16884)
 
 ---
@@ -130,6 +153,8 @@ layout: default
 **Title:** Choice of inuentions, or Seuerall sorts of the figure of three that are newly compos'd as here you may see, then lend your attention you shall heare anon it goes to the tune of Rock the cradle sweet Iohn.
 
 **Date:** 1632
+
+**STC:** STC 5143; ESTC S117306
 
 [A18617](/miscellanies/A18617)
 
@@ -140,6 +165,8 @@ layout: default
 
 **Date:** 1586
 
+**STC:** STC 7605; ESTC S116151
+
 [A21254](/miscellanies/A21254)
 
 ---
@@ -148,6 +175,8 @@ layout: default
 **Title:** Anacreon done into English out of the original Greek; Anacreontea. English.
 
 **Date:** 1683
+
+**STC:** Wing A3046; ESTC R7394
 
 [A25322](/miscellanies/A25322)
 
@@ -158,6 +187,8 @@ layout: default
 
 **Date:** 1696
 
+**STC:** Wing A4188; ESTC R18928
+
 [A26190](/miscellanies/A26190)
 
 ---
@@ -166,6 +197,8 @@ layout: default
 **Title:** Chorus poetarum, or, Poems on several occasions by the Duke of Buckingham, the late Lord Rochester, Sir John Denham, Sir Geo. Etheridge, Andrew Marvel, Esq., the famous Spencer, Madam Behn, and several other eminent poets of this age.
 
 **Date:** 1694
+
+**STC:** Wing B5309; ESTC R3195
 
 [A29976](/miscellanies/A29976)
 
@@ -176,6 +209,8 @@ layout: default
 
 **Date:** 1688
 
+**STC:** Wing B770; ESTC R7698
+
 [A30923](/miscellanies/A30923)
 
 ---
@@ -184,6 +219,8 @@ layout: default
 **Title:** A Collection of letters and poems microform / written by several persons of honour and learning, upon divers important subjects, to the late Duke and Dutchess of Newcastle.
 
 **Date:** 1678
+
+**STC:** Wing C5146; ESTC R40847
 
 [A33819](/miscellanies/A33819)
 
@@ -194,6 +231,8 @@ layout: default
 
 **Date:** 1673
 
+**STC:** Wing C5175; ESTC R13357
+
 [A33849](/miscellanies/A33849)
 
 ---
@@ -202,6 +241,8 @@ layout: default
 **Title:** A Collection of poems on affairs of state by A.M. and other eminent wits ...
 
 **Date:** 1689
+
+**STC:** Wing C5176; ESTC R23725
 
 [A33850](/miscellanies/A33850)
 
@@ -212,6 +253,8 @@ layout: default
 
 **Date:** 1694
 
+**STC:** Wing C5256; ESTC R20832
+
 [A33912](/miscellanies/A33912)
 
 ---
@@ -220,6 +263,8 @@ layout: default
 **Title:** Miscellanies upon moral subjects by Jeremy Collier ...
 
 **Date:** 1695
+
+**STC:** Wing C5257; ESTC R7117
 
 [A33913](/miscellanies/A33913)
 
@@ -230,6 +275,8 @@ layout: default
 
 **Date:** 1658
 
+**STC:** Wing C5388; ESTC R20775
+
 [A34011](/miscellanies/A34011)
 
 ---
@@ -238,6 +285,8 @@ layout: default
 **Title:** Commendatory verses on the author of The two Arthurs and the Satyr against wit / by some of his particular friends.
 
 **Date:** 1700
+
+**STC:** Wing C5547; ESTC R29312
 
 [A34124](/miscellanies/A34124)
 
@@ -248,6 +297,8 @@ layout: default
 
 **Date:** 1686
 
+**STC:** Wing C630; ESTC R170903
+
 [A34569](/miscellanies/A34569)
 
 ---
@@ -256,6 +307,8 @@ layout: default
 **Title:** Poems and translations with the Sophy / written by the Honourable Sir John Denham, Knight of the Bath.
 
 **Date:** 1668
+
+**STC:** Wing D1005; ESTC R4710
 
 [A35654](/miscellanies/A35654)
 
@@ -266,6 +319,8 @@ layout: default
 
 **Date:** 1693
 
+**STC:** Wing D1034; ESTC R20371
+
 [A35672](/miscellanies/A35672)
 
 ---
@@ -274,6 +329,8 @@ layout: default
 **Title:** Choice and experimented receipts in physick and chirurgery as also cordial and distilled waters and spirits, perfumes, and other curiosities / collected by ... Sir Kenelm Digby, Knight ...
 
 **Date:** 1675
+
+**STC:** Wing D1425; ESTC R10653
 
 [A35967](/miscellanies/A35967)
 
@@ -284,6 +341,8 @@ layout: default
 
 **Date:** 1682
 
+**STC:** Wing D1426; ESTC R747
+
 [A35968](/miscellanies/A35968)
 
 ---
@@ -292,6 +351,8 @@ layout: default
 **Title:** The Annual miscellany, for the year 1694 being the fourth part of Miscellany poems : containing great variety of new translations and original copies / by the most eminent hands.
 
 **Date:** 1694
+
+**STC:** Wing D2237; ESTC R22916
 
 [A36597](/miscellanies/A36597)
 
@@ -302,6 +363,8 @@ layout: default
 
 **Date:** 1688
 
+**STC:** Wing D2251; ESTC R19800
+
 [A36608](/miscellanies/A36608)
 
 ---
@@ -310,6 +373,8 @@ layout: default
 **Title:** Examen poeticum being the third part of miscellany poems containing variety of new translations of the ancient poets, together with many original copies by the most eminent hands.
 
 **Date:** 1693
+
+**STC:** Wing D2277; ESTC R122
 
 [A36624](/miscellanies/A36624)
 
@@ -320,6 +385,8 @@ layout: default
 
 **Date:** 1685
 
+**STC:** Wing D2379; ESTC R1682
+
 [A36697](/miscellanies/A36697)
 
 ---
@@ -328,6 +395,8 @@ layout: default
 **Title:** Three poems upon the death of the late usurper Oliver Cromwel written by Mr. Jo. Drydon, Mr. Sprat of Oxford, Mr. Edm. Waller.
 
 **Date:** 1682
+
+**STC:** Wing D2382; ESTC R9114
 
 [A36701](/miscellanies/A36701)
 
@@ -338,6 +407,8 @@ layout: default
 
 **Date:** 1700
 
+**STC:** Wing D2621; ESTC R17041
+
 [A36897](/miscellanies/A36897)
 
 ---
@@ -346,6 +417,8 @@ layout: default
 **Title:** A Choice collection of new songs and ballads the words made to several pleasant tunes / by Mr. D'urfey ; with tunes transpos'd for the flute.
 
 **Date:** 1699
+
+**STC:** Wing D2708; ESTC R228841
 
 [A36960](/miscellanies/A36960)
 
@@ -356,6 +429,8 @@ layout: default
 
 **Date:** 1684
 
+**STC:** Wing D2709; ESTC R228698
+
 [A36961](/miscellanies/A36961)
 
 ---
@@ -364,6 +439,8 @@ layout: default
 **Title:** Poems and translations, written upon several occasions, and to several persons by a late scholar of Eaton.
 
 **Date:** 1689
+
+**STC:** Wing G1092; ESTC R8475
 
 [A41430](/miscellanies/A41430)
 
@@ -374,6 +451,8 @@ layout: default
 
 **Date:** 1700
 
+**STC:** Wing H315; ESTC R11995
+
 [A44782](/miscellanies/A44782)
 
 ---
@@ -382,6 +461,8 @@ layout: default
 **Title:** Select thoughts, or, Choice helps for a pious spirit a century of divine breathings for a ravished soule, beholding the excellencies of her Lord Jesus / by J. Hall ...
 
 **Date:** 1654
+
+**STC:** Wing H413; ESTC R19204
 
 [A45315](/miscellanies/A45315)
 
@@ -392,6 +473,8 @@ layout: default
 
 **Date:** 1687
 
+**STC:** Wing K317; ESTC R218777
+
 [A47269](/miscellanies/A47269)
 
 ---
@@ -400,6 +483,8 @@ layout: default
 **Title:** Choice presidents upon all Acts of Parliament relating to the office and duty of a justice of peace. With necessary notes and instructions thereupon taken out of the said Acts of Parliament, and other particular cases in law adjudg'd therein. As also a more useful method of making up Court-Rolls than hath been hitherto known or published in print. By Rich. Kilburne, Esq; late one of His Majestie's Justices of the Peace for the county of Kent, and principal of Staple-Inn.
 
 **Date:** 1681
+
+**STC:** Wing K429; ESTC R217188
 
 [A47352](/miscellanies/A47352)
 
@@ -410,6 +495,8 @@ layout: default
 
 **Date:** 1676
 
+**STC:** Wing L1774; ESTC R31697
+
 [A48252](/miscellanies/A48252)
 
 ---
@@ -418,6 +505,8 @@ layout: default
 **Title:** The Loves of Hero and Leander a mock poem : with marginall notes, and other choice pieces of drollery ...
 
 **Date:** 1653
+
+**STC:** Wing L3278; ESTC R19169
 
 [A49304](/miscellanies/A49304)
 
@@ -428,6 +517,8 @@ layout: default
 
 **Date:** 1648
 
+**STC:** Wing L640; ESTC R1536
+
 [A49748](/miscellanies/A49748)
 
 ---
@@ -436,6 +527,8 @@ layout: default
 **Title:** Choice observations of all the kings of England from the Saxons to the death of King Charles the First collected out of the best Latine and English writers, who have treated of that argument / by Edward Leigh ...
 
 **Date:** 1661
+
+**STC:** Wing L987; ESTC R11454
 
 [A50052](/miscellanies/A50052)
 
@@ -446,6 +539,8 @@ layout: default
 
 **Date:** 1694
 
+**STC:** Wing M2157; ESTC R33508
+
 [A50935](/miscellanies/A50935)
 
 ---
@@ -454,6 +549,8 @@ layout: default
 **Title:** Mock songs and joking poems, all novel consisting of mocks to several late songs about the town : with other new songs and ingenious poems much in use at court, and both theaters / by the author of Westminster drollery.
 
 **Date:** 1675
+
+**STC:** Wing M2301; ESTC R17804
 
 [A51044](/miscellanies/A51044)
 
@@ -464,15 +561,18 @@ layout: default
 
 **Date:** 1692
 
+**STC:** Wing M3135; Wing M3137; Wing O898_CANCELLED; ESTC R31043
+
 [A51646](/miscellanies/A51646)
 
 ---
 **Author:** 
 
-**Title:** The Nightingaless song, or, The Souldiers rare musick, and maids recreation this song adviseth maidens to have a care, and of souldiers snap-s
-[a]cks to beware : the tune is, No, no, no, not I, or, Pegg and the souldier.
+**Title:** The Nightingaless song, or, The Souldiers rare musick, and maids recreation this song adviseth maidens to have a care, and of souldiers snap-s[a]cks to beware : the tune is, No, no, no, not I, or, Pegg and the souldier.
 
 **Date:** 1675
+
+**STC:** Wing N1157A; ESTC R43484
 
 [A52348](/miscellanies/A52348)
 
@@ -483,6 +583,8 @@ layout: default
 
 **Date:** 1669
 
+**STC:** Wing N529; ESTC R20160
+
 [A52865](/miscellanies/A52865)
 
 ---
@@ -491,6 +593,8 @@ layout: default
 **Title:** The New academy of complements erected for ladies, gentlewomen, courtiers, gentlemen, scholars, souldiers, citizens, country-men, and all persons, of what degree soever, of both sexes : stored with variety of courtly and civil complements, eloquent letters of love and friendship : with an exact collection of the newest and choicest songs  la mode, both amorous and jovial / compiled by the most refined wits of this age.
 
 **Date:** 1669
+
+**STC:** Wing N529; ESTC R20160
 
 [A52865](/miscellanies/A52865)
 
@@ -501,6 +605,8 @@ layout: default
 
 **Date:** 1684
 
+**STC:** Wing O989; ESTC R18022
+
 [A53879](/miscellanies/A53879)
 
 ---
@@ -509,6 +615,8 @@ layout: default
 **Title:** Poems on affairs of state from the time of Oliver Cromwell, to the abdication of K. James the Second. Written by the greatest wits of the age. Viz. Duke of Buckingham, Earl of Rochester, Lord Bu-------st, Sir John Denham, Andrew Marvell, Esq; Mr. Milton, Mr. Dryden, Mr. Sprat, Mr. Waller. Mr. Ayloffe, &c. With some miscellany poems by the same: most whereof never before printed. Now carefully examined with the originals, and published without any castration.
 
 **Date:** 1697
+
+**STC:** Wing P2719A; ESTC R26563
 
 [A55276](/miscellanies/A55276)
 
@@ -519,6 +627,8 @@ layout: default
 
 **Date:** 1698
 
+**STC:** Wing P4218; ESTC R231719
+
 [A56293](/miscellanies/A56293)
 
 ---
@@ -527,6 +637,8 @@ layout: default
 **Title:** Choice observations and explanations upon the Old Testament containing in them many remarkable matters, either not taken notice of, or mistaken by most, which are additionals to the large annotations made by some of the Assembly of Divines : to which are added some further and larger observations of his upon the whole book of Genesis perused and attested by the Reverend Bishop of Armagh, and Mr. Gataker Pastor of Rederith / by ... John Richardson ...
 
 **Date:** 1655
+
+**STC:** Wing R1385; ESTC R3676
 
 [A57230](/miscellanies/A57230)
 
@@ -537,15 +649,18 @@ layout: default
 
 **Date:** 1697
 
+**STC:** Wing R1744A; ESTC R222099
+
 [A57489](/miscellanies/A57489)
 
 ---
 **Author:** Sherburne, Edward, Sir, 1618-1702.; Preti, Girolamo, 1582-1626. Salmace. English.; Saint-Amant, Marc Antoine Grard, sieur de, 1594-1661. Metamorphose de Lyrian et de Sylvie. English.; Marino, Giambattista, 1569-1625. Lidia abbandonata. English.; Colluthus, of Lycopolis. Rape of Helen. English.
 
-**Title:** Poems and translations amorous, lusory, morall, divine 
-[collected and translated] by Edvvard Sherburne ...
+**Title:** Poems and translations amorous, lusory, morall, divine [collected and translated] by Edvvard Sherburne ...
 
 **Date:** 1651
+
+**STC:** Wing S3222A; ESTC R1186
 
 [A59751](/miscellanies/A59751)
 
@@ -556,6 +671,8 @@ layout: default
 
 **Date:** 1688
 
+**STC:** Wing T129; ESTC R10984
+
 [A62661](/miscellanies/A62661)
 
 ---
@@ -565,6 +682,8 @@ layout: default
 
 **Date:** 1696
 
+**STC:** Wing T195; ESTC R22340
+
 [A62987](/miscellanies/A62987)
 
 ---
@@ -573,6 +692,8 @@ layout: default
 **Title:** Miscellanea sacra, or, Poems on divine & moral subjects collected by N. Tate ...
 
 **Date:** 1696
+
+**STC:** Wing T195; ESTC R22340
 
 [A62987](/miscellanies/A62987)
 
@@ -583,6 +704,8 @@ layout: default
 
 **Date:** 1685
 
+**STC:** Wing T210; ESTC R22319
+
 [A63107](/miscellanies/A63107)
 
 ---
@@ -591,6 +714,8 @@ layout: default
 **Title:** Letters and poems, amorous and gallant
 
 **Date:** 1692
+
+**STC:** Wing W647; ESTC R8169
 
 [A67452](/miscellanies/A67452)
 
@@ -601,6 +726,8 @@ layout: default
 
 **Date:** 1640
 
+**STC:** STC 23302; ESTC S101828
+
 [A68783](/miscellanies/A68783)
 
 ---
@@ -609,6 +736,8 @@ layout: default
 **Title:** Choice, chance, and change: or, Conceites in their colours
 
 **Date:** 1606
+
+**STC:** STC 3636; ESTC S104711
 
 [A68982](/miscellanies/A68982)
 
@@ -619,6 +748,8 @@ layout: default
 
 **Date:** 1692
 
+**STC:** Wing G733A; ESTC R21564
+
 [A70171](/miscellanies/A70171)
 
 ---
@@ -627,6 +758,8 @@ layout: default
 **Title:** Memorabilia mundi, or, Choice memoirs of the history and description of the world by G.H.
 
 **Date:** 1670
+
+**STC:** Wing H2629A; Wing H3812; ESTC R178183
 
 [A70258](/miscellanies/A70258)
 
@@ -637,6 +770,8 @@ layout: default
 
 **Date:** 1677
 
+**STC:** Wing H276A; Wing H280; ESTC R14263
+
 [A70260](/miscellanies/A70260)
 
 ---
@@ -645,6 +780,8 @@ layout: default
 **Title:** A Collection of poems on affairs of state; viz. ... / by A- M-l, Esq.; and other eminent wits. ; Most whereof never before printed.
 
 **Date:** 1689
+
+**STC:** Wing C5176A; ESTC R202112
 
 [A80112](/miscellanies/A80112)
 
@@ -655,6 +792,8 @@ layout: default
 
 **Date:** 1681
 
+**STC:** Wing C5723; ESTC R220178
+
 [A80305](/miscellanies/A80305)
 
 ---
@@ -664,4 +803,8 @@ layout: default
 
 **Date:** 1658
 
+**STC:** Wing F1140; Thomason E1849_1; ESTC R202004
+
 [A84621](/miscellanies/A84621)
+
+---
