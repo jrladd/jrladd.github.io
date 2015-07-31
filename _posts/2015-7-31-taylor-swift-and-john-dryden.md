@@ -14,7 +14,7 @@ Of course we can't take the similarity too far—no one should claim that a 17th
 
 I wrote a bookmarklet that changes all occurrences of "Taylor Swift" in a webpage to "John Dryden." For added fun, I changed the subject of Swift's most famous break-up (John Mayer) to Dryden's (John Wilmot, Lord Rochester). Just drag this link (<a href="javascript:(function(){document.body.innerHTML=document.body.innerHTML.replace(/John Mayer/g, 'Lord Rochester');document.body.innerHTML=document.body.innerHTML.replace(/John/g, 'Rochester');document.body.innerHTML=document.body.innerHTML.replace(/Taylor Swift/g, 'John Dryden');document.body.innerHTML=document.body.innerHTML.replace(/Taylor/g, 'Dryden');document.body.innerHTML=document.body.innerHTML.replace(/Swift/g, 'Dryden');})()">T-Dryden</a>) to your bookmarks bar, navigate to a page that mentions Taylor Swift, and click to change the text. This is like the ["Snake People" browser extension](https://chrome.google.com/webstore/detail/millennials-to-snake-peop/jhkibealmjkbkafogihpeidfcgnigmlf?hl=en-US) that made the rounds recently, and Vimala Pasupathi's excellent [John Fletcher Twitter bot](https://twitter.com/twasfletcher) works on a similar principle.
 
-Below are a few websites (and some quotes that made me laugh) to get you started, but if you find something good, let me know ([@jrlstl](http://twitter.com/jrlstl)).
+Below are a few articles (and some quotes that made me laugh) to get you started, but if you find something good, let me know ([@jrlstl](http://twitter.com/jrlstl)).
 
 [_The New Yorker_](http://www.newyorker.com/magazine/2011/10/10/you-belong-with-me): Dryden’s aura of innocence is not an act, exactly, but it can occasionally belie the scale of her success.
 
