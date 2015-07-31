@@ -14,8 +14,8 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Open Sans, sans-serif;
-  font-size: medium;
+  font: 100% Open Sans, sans-serif;
+  font-size: 100%;
   text-align: left;
 }
 
@@ -72,7 +72,7 @@ a:hover   { color: #000;
 .site {
   font-size: 115%;
   text-align: left;
-  width: 42em;
+  width: 70%;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
@@ -85,13 +85,13 @@ a:hover   { color: #000;
 
 .title {
   display: inline-block;
-  margin-bottom: 2em;
+  margin-bottom: 5%;
 }
 
 .title a {
   font-family: Droid Serif, serif;
   color: #33CC33;
-  font-size: 120%
+  font-size: 120%;
 }
 
 .title a:hover {
