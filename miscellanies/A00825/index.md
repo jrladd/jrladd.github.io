@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-## (unknown project)
+## (unknown project) 
 
 # Certain elegies, done by sundrie excellent wits With satyres and epigrames.
 — Satyres: and satyricall epigrams
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=62)
+ 
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=62)
+ 
 
 CERTAIN ELEGIES, DONE BY SVNDRIE Excellent Wits.
 
@@ -46,7 +46,7 @@ shoppe neare Saint Dunstons Church in Fleet-streete. 1618.
       * 12.2.11. Of Braggado and his Valour. Epig: 11.
       * 12.2.12. Of Duke and his Imprisonment. Epig. 12.
       * 12.2.13. Againe: Of Duke and the Debt. Epig. 13.
-      * 12.2.14. (Guido's) Bounty. Epig. 14.
+      * 12.2.14. (Guido's)  Bounty. Epig. 14.
       * 12.2.15. Of Lawyers. Epig. 15.
       * 12.2.16. To his Fellow Students. Epig. 16.
       * 12.2.17. Of Him selfe. Epig. 17.
@@ -72,7 +72,7 @@ shoppe neare Saint Dunstons Church in Fleet-streete. 1618.
       * 12.2.37. Of an Egregious Whoore. Epig. 36.
       * 12.2.38. Of Felo and his Poetry. Epig. 37.
       * 12.2.39. To his Vnconstant Mistris. Epig. 38.
-      * 12.2.40. Woman (quasi) Woe-man. Epig. 39.
+      * 12.2.40. Woman (quasi)  Woe-man. Epig. 39.
       * 12.2.41. For Lawyers. Epig. 40.
       * 12.2.42. Speudall's Pollicie. Epig. 41.
       * 12.2.43. Of Liber too wary to Thriue. Epig. 42.
@@ -107,9 +107,9 @@ shoppe neare Saint Dunstons Church in Fleet-streete. 1618.
     * 13.4. Epilogue. The Author for Himselfe.
     * 13.5. Post-script to his Book-binder.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=2)
+ 
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=2)
+ 
 
 ## 1\. An Elegie by F. B.
 
@@ -141,9 +141,9 @@ Such as can make ten Sonets ere they rest,
 
 When each is but a a great blot at the best,
 
-Such (as) can backes of bookes, and windows fill,
+Such (as)  can backes of bookes, and windows fill,
 
-With their (too furious Diamond and Quill)
+With their (too furious Diamond and Quill) 
 
 Such as are well resolued to end their dayes,
 
@@ -151,7 +151,7 @@ With a loude laughter blowne behind the Sea:
 
 Such as are mortified, that they can liue,
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=3)Laught at by
+ Laught at by
 all the world, and yet forgiue,
 
 Write loue to you, I would not willingly,
@@ -208,7 +208,7 @@ As will not stand in any thing but prose:
 
 If I bestow my prayses vpon such,
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=3)Tis Charity,
+ Tis Charity,
 and I shall merite much,
 
 My prayse will come to her like a full bowle,
@@ -233,11 +233,11 @@ But stoppe their eares at them, for if I thought
 
 You tooke a pride, to haue your vertues knowne,
 
-(Pardon me Madam) I should thinke them none,
+(Pardon me Madam)  I should thinke them none,
 
 But if your braue thoughts (which I must respect
 
-Aboue your glorious titles) shall accept
+Aboue your glorious titles)  shall accept
 
 These harsh disordered lines, I shall ere long
 
@@ -253,7 +253,7 @@ If I write truth, and make my subiect you.
 
 Fr. Beau:
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=4)
+ 
 
 ## 2\. An Elegie on the Lady Penelope Clifton. By M. Dr.
 
@@ -291,9 +291,9 @@ If by my freedome I may giue her fame  [...]
 
 Walking then forth, being newly vp from bed,
 
-(Oh) Sir quoth one, the Lady Clifron's dead,
+(Oh)  Sir quoth one, the Lady Clifron's dead,
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=4)When but that
+ When but that
 reason my sterne rage withstood,
 
 My hand had sure beene guilty of his bloud.
@@ -320,7 +320,7 @@ Thou should'st haue shot thine eye-balls in my fa [...]
 
 Then falling at my feet thou should'st haue sayd,
 
-(Oh) she is gone, and Nature with her dead.
+(Oh)  she is gone, and Nature with her dead.
 
 With this ill newes amaz'd, by chance I past
 
@@ -348,9 +348,9 @@ And where she stood the fading leaues were she
 
 Presenting so much sorrow to my sight,
 
-(Oh) God thought I, this is her Embleme right,
+(Oh)  God thought I, this is her Embleme right,
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=66)sure I thinke
+ sure I thinke
 it cannot but bee thought,
 
 That I to her by prouidence was brought:
@@ -407,7 +407,7 @@ A mappe of heauen in her rare features drue,
 
 And that she did so liuely and so true,
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=66)That any
+ That any
 soule but seeing it, might sweare,
 
 That all was perfect heauenly that was there:
@@ -464,7 +464,7 @@ And had wak'd heauen, who clearly would haue sho
 
 That change of kingdoms to her death she ow'd,
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=67)And that the
+ And that the
 world still of her end might thinke,
 
 It would haue let some neighbouring mountaine sinke
@@ -495,7 +495,7 @@ Vpon that day wherein you shall reade mine,
 
 Such as indeed are falsely tearmed verse,
 
-And will but sit like moath's vpon her Herse,)
+And will but sit like moath's vpon her Herse,) 
 
 Nor that no child, no chambermaid, nor page
 
@@ -513,7 +513,7 @@ And when this period giues you leaue to pause,
 
 Cast vp your eyes and sigh for my applause.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=67)
+ 
 
 ## 3\. An Elegie. by N. H.
 
@@ -557,7 +557,7 @@ Briefly, so desperate a change I finde,
 
 As suddenlie is not to be definde,
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=68) [...] these
+  [...] these
 new honours or ambition,
 
 Be arches that thy feares are founded on,
@@ -614,7 +614,7 @@ So perfect notices, required are
 
 Of him, with whom thine honour goes so farre,
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=7)But hauing
+ But hauing
 well explor'd, it will behoue
 
 Thou be not nice, to shew that thou do'st loue,
@@ -653,7 +653,7 @@ Which are no faults but when they are espied,
 
 N. H.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=69)
+ 
 
 ## 4\. An Elegie on the death of the three sonnes of the Lord Sheffeild,
 drowned neere where Trent falleth into Humber.
@@ -668,7 +668,7 @@ Whose iosse the teares of all the Muses craues,
 
 A thing so full of pitty as this was,
 
-Me thinkes (for nothing) slightly should not passe:
+Me thinkes (for nothing)  slightly should not passe:
 
 Treble this losse was, why should it not borrow,
 
@@ -684,7 +684,7 @@ But of one onely son's not worth a teare,
 
 Some tender hearted man as I may spend
 
-Some teares (perhaps) for a deceased friend:
+Some teares (perhaps)  for a deceased friend:
 
 Some men perhaps their wiues late death may rue,
 
@@ -702,7 +702,7 @@ Or sutes in law, by vile corruption croste,
 
 When he shall finde that this which he hath lost,
 
-(Alasse) is nothing to theirs which did lose
+(Alasse)  is nothing to theirs which did lose
 
 Three sonnes at once so excellent as those:
 
@@ -712,7 +712,7 @@ Hard hearts in men to their owne naturall seed,
 
 That in respect of this great losse of theirs,
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=8)Men will
+ Men will
 scarce mourne the de [...]th of their own heir
 
 Through all this Isle their losse so publike is,
@@ -771,7 +771,7 @@ Whilest in fayre youth they liuely flourisht here,
 
 To their kind Parents they were onely deare,
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=70)But being
+ But being
 dead, now euery one doth take
 
 Them for their owne, aud doe like sorrow make.
@@ -834,19 +834,19 @@ The  [...] losse in their sad anniuerse.
 
 M. D.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=9)
+ 
 
 ## 5\. The Author in praise of his owne BOOKE.
 
 COmmend my Selfe? No! But my Booke I may!
 
-And boldly (blamelesse) 'tis Praise-worthy say.
+And boldly (blamelesse)  'tis Praise-worthy say.
 
 How so? The sencelesse Substance well may plead,
 
 My Selfe I was not, when the Booke I made.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=10)
+ 
 
 ## 6\. Of his deare Friend the Author, H. F.
 
@@ -856,7 +856,7 @@ Prayses: that willing, would: and iustly might,
 
 Permit me then! For Ile Praise what I see
 
-Deficient heere (thy name FITZ-IEOFFERY,)
+Deficient heere (thy name FITZ-IEOFFERY,) 
 
 Where English FITZ aright, and I ha' done
 
@@ -868,7 +868,7 @@ In thee againe will liue Old-IEOFFERY.
 
 NATH: GVRLYN.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=10)
+ 
 
 ## 7\. The Author's Answer.
 
@@ -880,15 +880,15 @@ Yet Ile Permit thee. Thoul't but Praise my Name.
 
 And that's Deficient. Then Praise not for shame
 
-Where do (FITZ) right: Write, place it to ye minde:
+Where do (FITZ)  right: Write, place it to ye minde:
 
-Stil rightly must (FITZ) IEOFFERYES come behind wrought:
+Stil rightly must (FITZ)  IEOFFERYES come behind wrought:
 
-French must turne English first, (strange wonders)
+French must turne English first, (strange wonders) 
 
-(Olde) be a new Borne: The (Sonne) brought to naught.
+(Olde)  be a new Borne: The (Sonne)  brought to naught.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=11)
+ 
 
 ## 8\. HORAT: De Arte Poeti.
 
@@ -904,7 +904,7 @@ I wondrous Poemes make:
 
 Then, Diuell the hindmost take.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=11)
+ 
 
 ## 9\. Satyra prima.
 
@@ -918,7 +918,7 @@ Does Nature witt afford to breake a Ieft?
 
 This is a Poet: and his friends protest
 
-He is to blame he Writes not: when (indeed,)
+He is to blame he Writes not: when (indeed,) 
 
 Th'Illiterate Gull can neither write nor read.
 
@@ -930,14 +930,14 @@ As end his crabbed sencelesse verse in Rime:
 
 This might a Poet beene in Perseus time.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=12)And more!
-(Though Horace in his book reherses)
+ And more!
+(Though Horace in his book reherses) 
 
-(Nature and Arte are both requir'd in Verses.)
+(Nature and Arte are both requir'd in Verses.) 
 
 There are those, of their Poetry will vaunt,
 
-Which do (God wot) both Wit & Learning want:
+Which do (God wot)  both Wit & Learning want:
 
 I know them! Such as they at Table sit
 
@@ -967,12 +967,12 @@ Nor is't [...]inough they this in priuate show,
 
 But these are Poets, all the world must know.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=12)Tis strange
+ Tis strange
 to see what stretching is of Wits,
 
 What spare of speech this plentious Presse begets.
 
-Some (if you keepe them company) you'l finde
+Some (if you keepe them company)  you'l finde
 
 As choise to breake a Iest as to bteake winde.
 
@@ -1000,11 +1000,11 @@ And these will Poets bee accounted too:
 
 Because they Dare doe more then others doe.
 
-Though they their Verses write, (a man may say:)
+Though they their Verses write, (a man may say:) 
 
 As Clown's get Bastards, and straight runne away.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=13) Montanus
+  Montanus
 needes will bee a Poet! why?
 
 Because the Muses on a Mountaine hy
@@ -1013,7 +1013,7 @@ Inhabited. Peto for that his Name
 
 Denotes him Poet in the Anagrame:
 
-And Quaint Castilio: (since his Father dy'd!)
+And Quaint Castilio: (since his Father dy'd!) 
 
 Who many Volumes publish't: and beside
 
@@ -1041,7 +1041,7 @@ And in Hyperbolyes his Name extoll
 
 Yond Homer, Virgill, Ouide, Iuuenall.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=74)Vouching no
+ Vouching no
 better Volume, ere was Writ,
 
 And that himselfe hath had a Hand in it.
@@ -1056,9 +1056,9 @@ Pump their Pates dry for Iests: and all to gaine
 
 So much Report: might serue to make them vaunt,
 
-They are Applauded (though of Ignorant.)
+They are Applauded (though of Ignorant.) 
 
-They'l snatch, and scratch, and scrape (though nere so ill)
+They'l snatch, and scratch, and scrape (though nere so ill) 
 
 And rather smart then holde their fingers still:
 
@@ -1068,7 +1068,7 @@ Of Acts Heroicke: or of Princely sport:
 
 (which right to write of, or in Type to tell:
 
-Might taxe a Daniels or a Spencers quill.)
+Might taxe a Daniels or a Spencers quill.) 
 
 Marke how these hungerbit Inuentions scud
 
@@ -1078,8 +1078,8 @@ Then onely this! poore this! But to obtaine:
 
 Some sodder for their needy greedy straine.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=14)See then how
-(Enuy) gin's her eyes to fat
+ See then how
+(Enuy)  gin's her eyes to fat
 
 On dainties plenty, and repines there at!
 
@@ -1087,7 +1087,7 @@ How muttering Momus (that knowes not to bite,
 
 Grumbles and mumbles mouthfuls out of spite.
 
-How currish (Critticks) most seuerely harke:
+How currish (Critticks)  most seuerely harke:
 
 Ready at each sound of applause to barke.
 
@@ -1105,7 +1105,7 @@ Then the tart lines of a smart Satyrist.
 
 Let Natures causes (which are too profound
 
-For euery blockish sottish Pate to sound)
+For euery blockish sottish Pate to sound) 
 
 Produce some monster: some rare spectacle:
 
@@ -1115,7 +1115,7 @@ Bee it a worke of nere so sleight a waight,
 
 It is recorded vp in Metre straight,
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=75)And counted
+ And counted
 purchase of no small renowne,
 
 To heare the Praise sung in a Market-towne.
@@ -1136,23 +1136,23 @@ Bookes, made of Ballades: Workes, of Playes,
 
 Sightes, to be Read of my Lo: Maiors day's:
 
-Post's, lately set forth: Bearing (their Backe at)
+Post's, lately set forth: Bearing (their Backe at) 
 
 Letters, of all sorts: An intollerable Packet.
 
 Villains discouery, by Lanthorn and Candle-light:
 
-(strange if the author should not see it to hādle right)
+(strange if the author should not see it to hādle right) 
 
-A Quest of Inquirie: (Iacke a Douer's)
+A Quest of Inquirie: (Iacke a Douer's) 
 
 The Iests of Scoggin: and diuers others
 
-(which no man Better the Stationer knowes)
+(which no man Better the Stationer knowes) 
 
 Wonderfull Writers; Poets in Prose.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=15)What poste
+ What poste
 pin'd Poets that on each base Theame,
 
 With Inuocations vexe Apollo's name.
@@ -1169,7 +1169,7 @@ Rowland with his Knaues a murniuall;
 
 Non worth the calling for, a fire burne em all;
 
-And number numberlesse that march (vutolde)
+And number numberlesse that march (vutolde) 
 
 Mongst Almanacks and Pippins, to be solde.
 
@@ -1177,14 +1177,14 @@ Apologie.
 
 THese Ill which better Dare thē know to wrigh [...]
 
-Makes those (I know) not dare wt better might
+Makes those (I know)  not dare wt better might
 
 For who ist now attempts to Print, but knowes,
 
 He must be one or censured on, of Those!
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=15)For my part
-(Gallants) it was nere my hap,
+ For my part
+(Gallants)  it was nere my hap,
 
 On high Pernassus Top, to take a nap:
 
@@ -1192,7 +1192,7 @@ Or the Diuine Nine sisters Fount to see:
 
 Whence I might steale a sip of Poetry.
 
-These Idle Verses (which I Idly made)
+These Idle Verses (which I Idly made) 
 
 None but the Idle I request to read:
 
@@ -1202,9 +1202,9 @@ When none may looke for Praise from Idlenes.
 
 Finis Saty: Primae.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=16)
+ 
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=16)
+ 
 
 ## 10\. Satyra Secunda.
 
@@ -1216,7 +1216,7 @@ QVidam & non
 
 Videntur Sunt
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=17)
+ 
 
 Proaemium.
 
@@ -1240,7 +1240,7 @@ Till angry Loue his Chaos drench agen
 
 And a new nature of milde molde begin.
 
-Yet knowe (Earths Of-scums) I haue force, and woo'd
+Yet knowe (Earths Of-scums)  I haue force, and woo'd
 
 Vncase, vnlase, your Leaudnes: make ye scud:
 
@@ -1250,7 +1250,7 @@ Shu'd make ye startle, had ye hartes of flint,
 
 Coo'd I finde Patrons to maintaine me in't.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=17)BVt range my
+ BVt range my
 Muse! find out some fresher Game,
 
 Some Mayden matter, some vnchased Theame.
@@ -1263,7 +1263,7 @@ And rouz from squat, pursue with aeger cry,
 
 The lurking Leaudnesse, strong scent villany,
 
-Of those close Foxes, who (in milder skins)
+Of those close Foxes, who (in milder skins) 
 
 Inuey, and guesse inuectiuely at Sinnes:
 
@@ -1271,7 +1271,7 @@ Bite with sharpe censure: and seuerely scan
 
 The inward Vertues, by the outward man.
 
-Beshrow mee (Sirs) if I dare strout in street,
+Beshrow mee (Sirs)  if I dare strout in street,
 
 Winke at a Window: A God-dam-me greet:
 
@@ -1283,7 +1283,7 @@ Cringe to a Scriuener: be conuersing seene
 
 In Ludgate, with a broken Citizen:
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=18)Turne oft in
+ Turne oft in
 Pauls: call for a stoole o'th Stage:
 
 Or walke atended with my Hackney Page:
@@ -1320,10 +1320,10 @@ Cryes out of Fashions, as of Fasting-dayes,
 
 Rebukes Excesse: gainst Vanityes inueyes:
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=18)Hates Vice as
+ Hates Vice as
 Hunger: and abhorres to stand
 
-In sight of a (Sir reuerance) Saffron-band.
+In sight of a (Sir reuerance)  Saffron-band.
 
 Tell him his Wo [...]ship is so strictly wise:
 
@@ -1339,11 +1339,11 @@ A man, that for a Wise one sure woo'd passe,
 
 Shu'd there but 6. bee, as there 7. was:
 
-Hee heretofore (out of his Loue exceeding)
+Hee heretofore (out of his Loue exceeding) 
 
 Woo'd euer bee examining my Reading:
 
-Now (more Officious) euer Checking is:
+Now (more Officious)  euer Checking is:
 
 A strickt Remembrancer of all amisse.
 
@@ -1355,7 +1355,7 @@ Laugh, Laugh, Demorritus! who can hold to hear
 
 Socraticke Doctors, Catoes most austeer.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=19)Roule vp the
+ Roule vp the
 Records of Antiquity,
 
 To frame Abridgements for youth's Liberty.
@@ -1364,7 +1364,7 @@ Accuse Wits folly. Times strange alterations:
 
 The vaine expence of cloth consuming fashions,
 
-When their allowance was (themselues can  [...]ell)
+When their allowance was (themselues can  [...]ell) 
 
 At least vnto a Codpisse halfe an Ell.
 
@@ -1382,16 +1382,16 @@ To wreck, to seck Vertues aeternitie:
 
 With poysnous blast of miscreant Infamy.
 
-( [...]ustinian) is too Fortunate to beare
+( [...]ustinian)  is too Fortunate to beare
 
-The name of Iust: (Flora) too Curtious farre
+The name of Iust: (Flora)  too Curtious farre
 
-To harbour Honesty: (Varro) held to bee
+To harbour Honesty: (Varro)  held to bee
 
 Vaine, for his skilfull vaine in Poetry.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=19)
-(Fantasticke) cannot with his Flaunders feete
+ 
+(Fantasticke)  cannot with his Flaunders feete
 
 Lock'd in his foure-wheele-casket vex the street:
 
@@ -1409,7 +1409,7 @@ Le [...]st she bee said Lucinas ayde to lacke.
 
 Who is't from scourge of Censure can scape free,
 
-Yea (Temperate Nature) men will jerke at thee!
+Yea (Temperate Nature)  men will jerke at thee!
 
 How suffer some but for a Sanguin Nose?
 
@@ -1427,8 +1427,8 @@ Yea some so farre presume, as to define
 
 Knaues, by their Bunch-back's, and their Goggle-eyne
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=20)When
-Accidents (affirmes the Stagerite)
+ When
+Accidents (affirmes the Stagerite) 
 
 Not Naturall cause no note but in Spirit.
 
@@ -1444,7 +1444,7 @@ And all lesse learn'd in Rules of Phisnomy:
 
 That Natures notes, holde markes of Infamy.
 
-Else (min [...]ing Madam's) why doe we (alas!)
+Else (min [...]ing Madam's)  why doe we (alas!) 
 
 Pine at your Pencill and conspiring Glasse?
 
@@ -1464,7 +1464,7 @@ To set in print the Haire: Character the Face:
 
 Or dye in graine the Ruffe for Visage grace.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=20)To clog the
+ To clog the
 Eare with plummets: clag the wrests
 
 With Busk-points, Ribbons, or Rebato-Twists:
@@ -1489,7 +1489,7 @@ Fond fond Philosophers: who e're definde
 
 Vertue a Habite of the Cloathes but minde?
 
-Tell me (precisely) what auailes it ware,
+Tell me (precisely)  what auailes it ware,
 
 A Bongrace Bonnet, Eye-brow shorter Haire?
 
@@ -1501,7 +1501,7 @@ To beare a Bible euery Edifying day
 
 Of an Armefull, (beside the Apochriphay?
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=21)To carry no
+ To carry no
 more cloath then skin: to show
 
 The Stockens worne at Knees, the Shooes at Toe?
@@ -1522,11 +1522,11 @@ A vaile of Well, pure honesty no more
 
 Then flat Hypocrisie: a painted Whore.
 
-Countes nothing more (when indeed nothing lesse)
+Countes nothing more (when indeed nothing lesse) 
 
 Then others mens Opinions Happines.
 
-And Vertue (rare!) All thinges to be at End:
+And Vertue (rare!)  All thinges to be at End:
 
 When euery action needs to Good must tend.
 
@@ -1538,7 +1538,7 @@ From way of Right: that doth all Good approue
 
 For no Good else, but for bare Vertues Loue.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=21)Whome not
+ Whome not
 Cymerian darknes, more then day:
 
 Nor Giges Ring could corrupt any way.
@@ -1563,7 +1563,7 @@ Set on to barke: durst boldly stand it out.
 
 Who thinks to trauerse so vpright the Stage
 
-(Free from Controle) of this Censorious Age:
+(Free from Controle)  of this Censorious Age:
 
 Or aimes in Action at the Vulgar grace,
 
@@ -1575,7 +1575,7 @@ As many shapes as euer Proteus tooke.
 
 To crye God saue you with a Courtly grace,
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=22)To Kisse the
+ To Kisse the
 Hand, to lay at Foote the Face:
 
 To act the Cros-point Longey sleightly:
@@ -1596,7 +1596,7 @@ In best indeauours Critticks finde defect.
 
 Let me no oftner then Apollo appeare
 
-To Laugh, to skip (like Phaebus) once a yeare,
+To Laugh, to skip (like Phaebus)  once a yeare,
 
 To goe more formall then my wonted fashion,
 
@@ -1608,11 +1608,11 @@ For one nights Reuels a 3. story Plume:
 
 (Though some will La [...]es we are, and Le [...]kes as oft,
 
-And with a more (perchance) Ambitious thought,)
+And with a more (perchance)  Ambitious thought,) 
 
 Straight 'tis surmised, rumord round about
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=22)I roare, I
+ I roare, I
 score, I lauish, lash it out.
 
 Trifle Times Treasure: And keepe open port,
@@ -1641,15 +1641,15 @@ And most precize, of greatest vice condemne.
 
 Making my Faults theirs: by Belying them.
 
-Know I can Frolique be with (Fregio)
+Know I can Frolique be with (Fregio) 
 
-Court it in Comptest phrase with (Curio.)
+Court it in Comptest phrase with (Curio.) 
 
 Come deepe the Caster: and Carouce it free.
 
-(As farre as Vertues limites Licence mee.)
+(As farre as Vertues limites Licence mee.) 
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=23)In as rich
+ In as rich
 Grograns, Sattins, Tissues, goe
 
 As Florence, Carles, Tartary can showe.
@@ -1674,7 +1674,7 @@ I eu're neglected. Singularitye
 
 May sometimes vertue be: nere Policye.
 
-Who is a man of Note (not this from me)
+Who is a man of Note (not this from me) 
 
 Is sure ne're to offend in secrecie:
 
@@ -1686,14 +1686,14 @@ Nor seuere Censure of strict Critick feare
 
 In spite of Enuy, Hate 'twas neuer known:
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=23) But euer
+  But euer
 Fame will Vertue waite vpon;
 
 And now, when Vertue Vice is held: whome is't
 
 We may not Praise or Dispraise as wee list?
 
-THen (Snarling curres) turn to this gaully slyme.
+THen (Snarling curres)  turn to this gaully slyme.
 
 Feed on the putrid substance of my Ryme,
 
@@ -1703,11 +1703,11 @@ Shall finde your greedy Censures worke inough.
 
 Where if I finde ye! Or but spie a traine:
 
-A fresh haue at yee (Varlots) once againe.
+A fresh haue at yee (Varlots)  once againe.
 
 FINIS.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=24)
+ 
 
 ## 11\. To his worthy Friend vpon these Satyres.
 
@@ -1719,7 +1719,7 @@ To proue there may be such: For there ha's bin
 
 So much deceit in Satyres, 'tis a Sin
 
-(Almost) to hope for good ones: They who best
+(Almost)  to hope for good ones: They who best
 
 Haue done, haue onely Dar'd: and more exprest
 
@@ -1741,15 +1741,15 @@ More out of true discerning then of Spite.
 
 I. STEPHENS.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=24)
+ 
 
 ## 12\. THE SECOND BOOKE: OF Satyricall Epigram's.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=25)
+ 
 
 ### 12.1. To his True Friend Tho: Fletcher of LINCOLN'S-INNE Gent:
 
-TOM!) 'twas thy Speeches did me first possesse
+TOM!)  'twas thy Speeches did me first possesse
 
 These scattered E [...]igramm's deseru'd the Presse.
 
@@ -1757,15 +1757,15 @@ VVhose Learned Iudgement, and Loue, I knew such,
 
 Might wel Commend, and Command, twice as much.
 
-If (Reader) then heer's ought may breed delight,
+If (Reader)  then heer's ought may breed delight,
 
 Giue halfe the thankes to him it brought to light.
 
-Nor blush not (Tom!) nor blame not! that I seeme,
+Nor blush not (Tom!)  nor blame not! that I seeme,
 
 Thee the halfe-parent of my Booke to deeme.
 
-Heer's nought but Good (if nothing they mis-scan!)
+Heer's nought but Good (if nothing they mis-scan!) 
 
 Let Critticks, Momus, All, say what they can!
 
@@ -1773,7 +1773,7 @@ Th'are Good: who doubts it? not, for ought I know:
 
 Yet Good Ile sweare: because Thou saist th'are so.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=25)
+ 
 
 ### 12.2. Satyricall Epigram's.
 
@@ -1785,7 +1785,7 @@ No! The Book-binders: buy thē, they are thine.
 
 #### 12.2.2. In Thrasonem. Epig: 2.
 
-SInce (Thraso) met one stoutly in the field,
+SInce (Thraso)  met one stoutly in the field,
 
 He cracks his Spirit knowes not how to yeeld.
 
@@ -1801,11 +1801,11 @@ For euery one, the common Prouerbe knowes:
 
 That All-wayes to the Wall the weakest goes.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=26)
+ 
 
 #### 12.2.3. Of a Rayling Clyent. Epig. 3.
 
-I Call'd one Knaue: who answered: (Sir) not so!
+I Call'd one Knaue: who answered: (Sir)  not so!
 
 The Knaue doth all-way's with the Lawyer goe.
 
@@ -1815,19 +1815,19 @@ Each Lawyer walkes, his Clyent at his breech.
 
 #### 12.2.4. Of Debt. Epig. 4.
 
-TO bee Indebted is a shame (men say!)
+TO bee Indebted is a shame (men say!) 
 
 Then 'tis Confessing of a shame, to Pay.
 
 #### 12.2.5. In Medicum. Epig. 5.
 
-WHen (Mingo) cries How do you sir! tis thought
+WHen (Mingo)  cries How do you sir! tis thought
 
 He Patients wanteth? & his practic's nought.
 
 Wherefore of late now euery one he meeteth,
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=26)With Sir I'm
+ With Sir I'm
 glad to see you well hee greeteth.
 
 But who'l beleeue him now, when all can tell
@@ -1852,13 +1852,13 @@ To hang his Hat vpon: and home it brought,
 
 To whome his frugall Wife: what needs this care?
 
-I hope (sweete Hart) your Head your hat can beare.
+I hope (sweete Hart)  your Head your hat can beare.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=27)
+ 
 
 #### 12.2.8. No-lawes Reformation. Epig: 8.
 
-SInce (No-law's) Father did him Counsaile giue
+SInce (No-law's)  Father did him Counsaile giue
 
 And said, hee onely by his Booke must liue:
 
@@ -1866,33 +1866,33 @@ Ha's bought the Law: and vowes his life to mend,
 
 And most on's time will in his Studdy spend.
 
-And (doubtlesse) so he meanes, for wot ye why?
+And (doubtlesse)  so he meanes, for wot ye why?
 
 Has chang'd his Bed, and doth in's Studdy lye:
 
-How like ye (No-law) now? Is hee not wise?
+How like ye (No-law)  now? Is hee not wise?
 
 Thus he is certaine by the Law to Rise.
 
 #### 12.2.9. Of Lucus and his long Haire. Epig: 9.
 
-LVcus) long locks down to his shoulders weares:
+LVcus)  long locks down to his shoulders weares:
 
 And why? He dares not cut them for his Eares.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=27)
+ 
 
 #### 12.2.10. Francisco's Trauels. Epig: 10.
 
-TEn monthes (I take it) are not fully gone,
+TEn monthes (I take it)  are not fully gone,
 
-Since bolde (Francisco) crost the Seas alone.
+Since bolde (Francisco)  crost the Seas alone.
 
-VVho late returned (one would thinke it much)
+VVho late returned (one would thinke it much) 
 
 A compleat Linguist: skilfull in the Dutch.
 
-And more (if you knew all) for wot yee what?
+And more (if you knew all)  for wot yee what?
 
 In the Low-cuntry's hee the French hath got.
 
@@ -1900,7 +1900,7 @@ In the Low-cuntry's hee the French hath got.
 
 GIue one bad word out comes Braggadoes sword,
 
-And sweares (in rage) to sheath it in your guts.
+And sweares (in rage)  to sheath it in your guts.
 
 But draw and stifly stand vnto your word,
 
@@ -1910,7 +1910,7 @@ Craues your acquaintance: vowes he loues all such
 
 As on their Reputation stand so much.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=28)But bee he
+ But bee he
 One that can his wroth containe,
 
 He Scornes to strike him! Hee'l not strike againe.
@@ -1921,7 +1921,7 @@ When he [...] meets one he doth not scorne, or Loue.
 
 #### 12.2.12. Of Duke and his Imprisonment. Epig. 12.
 
-DVke) lyes for Debt, yet nothing owes he'l sweare.
+DVke)  lyes for Debt, yet nothing owes he'l sweare.
 
 Beleeu't, 'tis false, as sure as hee Lyes there.
 
@@ -1931,9 +1931,9 @@ DVke's not in debt: yee doe him wrong to say it:
 
 The Debt is — God knowes whose. His that wil pay it.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=28)
+ 
 
-#### 12.2.14. (Guido's) Bounty. Epig. 14.
+#### 12.2.14. (Guido's)  Bounty. Epig. 14.
 
 GIft-gobling Guido alwayes, as he takes,
 
@@ -1941,7 +1941,7 @@ Vnto his Friend this hopefull answere makes.
 
 I thanke you kindely: You haue beene at cost:
 
-But (if I liue) you shall not finde it lost.
+But (if I liue)  you shall not finde it lost.
 
 Then can I euer hope to liue and finde
 
@@ -1961,7 +1961,7 @@ Nor yet esteeme Those lesse Praise-worthy, when
 
 All loue not Vertue: No not most of men.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=29)VVhome All
+ VVhome All
 men Praise I praise him not at all,
 
 But rather him a Temporizer call.
@@ -1974,7 +1974,7 @@ When one mans Losse anothers Game doth make,
 
 And Loosers must, and will haue leaue to speake:
 
-Then (Gentle Lawyers,) thinke it more then well,
+Then (Gentle Lawyers,)  thinke it more then well,
 
 If the halfe part of men your Praises tell.
 
@@ -1986,22 +1986,22 @@ Why? 'Tis Death to vs, by the Law to Fall.
 
 #### 12.2.17. Of Him selfe. Epig. 17.
 
-A Friend of mine, (and yet no friend to mee,)
+A Friend of mine, (and yet no friend to mee,) 
 
 Comes oft and craues my Epigram's to see.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=29)He waighes
+ He waighes
 each word, & highly doth cōmend 'em
 
 And much intreats me to the Presse to send 'em.
 
-Thus (Foole!) my Labour's I let him pertake,
+Thus (Foole!)  my Labour's I let him pertake,
 
 That Labour's mee a Foole imprint to make.
 
 #### 12.2.18. Of Phantasmo a Mistris Boaster. Epig. 18.
 
-FYe! fie (Phantasmo!) cease to raise
+FYe! fie (Phantasmo!)  cease to raise
 
 Such Trophaeis in thy Mistris Praise.
 
@@ -2021,7 +2021,7 @@ Shee's Kinde! 'Tis true! what better knowne?
 
 VVhat worse? when Kinde to more then one.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=30)Wrong not
+ Wrong not
 then my Purest Faire,
 
 With this meane this skin compare.
@@ -2036,21 +2036,21 @@ Beleeu't shee's but a Common creature.
 
 #### 12.2.19. In Sextum. Epig. 19.
 
-SExtus) 6\. Pockets weares: 2. for his Vses:
+SExtus)  6\. Pockets weares: 2. for his Vses:
 
 The other 4. to Pocket vp Abuses.
 
 #### 12.2.20. Epig. 20.
 
-KIt) I commend thy care of all I know,
+KIt)  I commend thy care of all I know,
 
 That p [...]un'dst thy Cushion for a Pipe of To —
 
-Now thou art like (though not to studdy more!)
+Now thou art like (though not to studdy more!) 
 
 Yet ten-times Harder then thou didst before.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=30)
+ 
 
 #### 12.2.21. Cynna's Theft. Epig. 21.
 
@@ -2061,9 +2061,9 @@ That Stole a Wench, and had her tooke away.
 #### 12.2.22. Of Luce and her 4. Husbands, 3. of them thus Named, Small,
 Forman, Middleton. Epig. 22.
 
-LVce) late is left a Wealthy widdow:
+LVce)  late is left a Wealthy widdow:
 
-(How can it other bee then so?)
+(How can it other bee then so?) 
 
 Foure Husbands she hath buryed,
 
@@ -2073,27 +2073,27 @@ Which on her Hand she thus doth cast:
 
 Small, Forman, Middleton: And my Last.
 
-(Counting for euery finger One)
+(Counting for euery finger One) 
 
-Which all (God wot) are dead and gone,
+Which all (God wot)  are dead and gone,
 
-Then (Luce) beware a Fift to take,
+Then (Luce)  beware a Fift to take,
 
 Least so a Hand of all you make.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=31)
+ 
 
 #### 12.2.23. More-dew's Payment. Epig. 23.
 
-MOre-dew) the Mercer (with a kinde salute)
+MOre-dew)  the Mercer (with a kinde salute) 
 
 Would needs intreat my Custome for a Sute.
 
-He're Sir (quoth hee) for Sattins, Veluets, call:
+He're Sir (quoth hee)  for Sattins, Veluets, call:
 
 VVhat ere you please, Ile take your word for all.
 
-I thank't! Tooke! Gaue my word! (say than?)
+I thank't! Tooke! Gaue my word! (say than?) 
 
 Am I at all indebted to this man?
 
@@ -2103,15 +2103,15 @@ CLym calls his Wife and reckoning all his neigh­bors
 
 Iust Halfe of them are Cuckolds he auer's.
 
-Nay fie (quoth she!) I would they heard you speake
+Nay fie (quoth she!)  I would they heard you speake
 
 You of your selfe it seemes no Reckoning make.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=31)
+ 
 
 #### 12.2.25. Of Sim, and his speedy Marriage. Epig. 25.
 
-SIx months (quoth Sim) a Sutor and not sped?
+SIx months (quoth Sim)  a Sutor and not sped?
 
 I in a Sennet did both Woe and Bed.
 
@@ -2127,7 +2127,7 @@ In Wedlock choise would best my fancy please?
 
 Of all: giue me the Woman halfe a Man:
 
-So I shall (happy) haue but halfe a Woman.
+So I shall (happy)  haue but halfe a Woman.
 
 #### 12.2.27. The Womans Answer. Epig. 27.
 
@@ -2135,15 +2135,15 @@ IF Halfe a woman best your Humour fit:
 
 'Twere best to marry an Hermophrodite.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=32)
+ 
 
 #### 12.2.28. Tom's good Fortune in being Rob'd. Epig. 28.
 
-TOm) tels hee's Rob'd, and counting all his losses,
+TOm)  tels hee's Rob'd, and counting all his losses,
 
 Concludes: All's gone ye world is full of Crosses.
 
-If all be gone (Tom) take this comfort then,
+If all be gone (Tom)  take this comfort then,
 
 Th'art certaine neuer to haue Crosse agen.
 
@@ -2159,20 +2159,20 @@ VVHat bred a Scholler: borne a Gentleman,
 
 Of 5. yeares standing an Oxonian.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=32)Of person
+ Of person
 Proper: of a comely Feature:
 
 And shall I basely now turne Seruing-Creature?
 
-( [...]oole!) hug thy fortune S'fut't may be thy making
+( [...]oole!)  hug thy fortune S'fut't may be thy making
 
 A Ladyes proffered Seruice not worth taking?
 
-Who her serues (sure) shall be well Borne: (and more)
+Who her serues (sure)  shall be well Borne: (and more) 
 
 One knowne sufficient for the Turne before.
 
-The more thy Standing, greater (Foole) thy Grace.
+The more thy Standing, greater (Foole)  thy Grace.
 
 And thou farre fitter to supply the place.
 
@@ -2184,11 +2184,11 @@ Then men of Best-parts soonest they'l admit.
 
 WHen men speake Baudy knowest thou what's the matter.
 
-(Sprusa) so often spitteth? (not to flatter!)
+(Sprusa)  so often spitteth? (not to flatter!) 
 
-The cause (I take't) is this: Her teeth doe water.
+The cause (I take't)  is this: Her teeth doe water.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=33)
+ 
 
 #### 12.2.32. Of the Riming Sculler. Epig. 32.
 
@@ -2196,7 +2196,7 @@ HOrace the Poet, in his Booke reherses,
 
 That Water-drinkers neuer make good Verses.
 
-Yet I a Poet know, And (in his Praise!)
+Yet I a Poet know, And (in his Praise!) 
 
 Hee's one has liu'd by Water all his day's.
 
@@ -2214,7 +2214,7 @@ Tell her she Trifles. Aske but to what end
 
 She swore shee Lou'd? She meant but as a Friend.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=33)Aske why Loue
+ Aske why Loue
 tokens she did priuate send?
 
 Still shee replyes: She meant but as a Friend.
@@ -2245,19 +2245,19 @@ VVIn is much wooed to, but not wonne of any:
 
 The troth on't is: She doth admit too many.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=34)
+ 
 
 #### 12.2.35. Tym's Studiosity. Epig. 35.
 
-MArke ye how studious (Tym) is turnd of late?
+MArke ye how studious (Tym)  is turnd of late?
 
 How he breakes Company to meditate?
 
 Does hee but thus continue, certainly,
 
-Hee'l bee (at least) a Sargeant, ere hee dye.
+Hee'l bee (at least)  a Sargeant, ere hee dye.
 
-Hee may doe (doubtlesse) much! yet I can tell,
+Hee may doe (doubtlesse)  much! yet I can tell,
 
 Hee'l not come neere a Sargeant, by his will.
 
@@ -2275,7 +2275,7 @@ Next day he Begg'd againe, I gaue,
 
 Yet Both of vs onr Oathes did saue.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=34)
+ 
 
 #### 12.2.37. Of an Egregious Whoore. Epig. 36.
 
@@ -2283,13 +2283,13 @@ THy Belly is thy God. I well may say!
 
 All thy care is to serue it Night and Day.
 
-Feare then thy God: least (whil'st thou worship so!)
+Feare then thy God: least (whil'st thou worship so!) 
 
 He Rise, and Hellish torments put the to.
 
 #### 12.2.38. Of Felo and his Poetry. Epig. 37.
 
-FElo) that lately kist the Gaole, hath got
+FElo)  that lately kist the Gaole, hath got
 
 A smacke of Poetry! yea more then that!
 
@@ -2299,10 +2299,10 @@ A Poet, that was neere Imprisoned.
 
 : No Bird sings sweeter then the Bird in Cage.
 
-: And Satyrists (like Dogs) ty'd, fiercest rage.
+: And Satyrists (like Dogs)  ty'd, fiercest rage.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=35)Thus will
-fond (Felo) proue by Disputation,
+ Thus will
+fond (Felo)  proue by Disputation,
 
 That New-gate is the Muses habitation.
 
@@ -2316,17 +2316,17 @@ I Dare not much say when I thee commend,
 
 Least Thou bee changed ere my Praises end.
 
-#### 12.2.40. Woman (quasi) Woe-man. Epig. 39.
+#### 12.2.40. Woman (quasi)  Woe-man. Epig. 39.
 
 HAd I not felt it misery to Woe,
 
-I had beene marryed (certaine) long agoe.
+I had beene marryed (certaine)  long agoe.
 
-Had I Not marryed, straight (Moroco) sayes,
+Had I Not marryed, straight (Moroco)  sayes,
 
 I had not once felt Woe in all my dayes.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=35)If after
+ If after
 Woman as before comes Woe,
 
 Woe worth the Man with Woman hath to doe.
@@ -2345,19 +2345,19 @@ How many Frights each Lawyer, in a yeare?
 
 NOuerint Vniuersi per prae — Thus began
 
-(Notario) read, ere hee'd his Coyne forgoe.
+(Notario)  read, ere hee'd his Coyne forgoe.
 
-Holde (cryes young Spendall:) S'fut you marre all man!
+Holde (cryes young Spendall:)  S'fut you marre all man!
 
 By any meanes my Father must not know.
 
 For any money I'de not haue it so.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=36)
+ 
 
 #### 12.2.43. Of Liber too wary to Thriue. Epig. 42.
 
-LIber) is late set vp, and wanteth Custome.
+LIber)  is late set vp, and wanteth Custome.
 
 Yet great resort hath got: but hee'l not Trust 'em.
 
@@ -2369,7 +2369,7 @@ Hee'l want himselfe, ere hee'l see him a Debtor.
 
 WHy I should Loue thee I no Reason see:
 
-Then Out of Reason (Lesbia) I Loue thee.
+Then Out of Reason (Lesbia)  I Loue thee.
 
 #### 12.2.45. Sir Hughes mistake. Epig. 44.
 
@@ -2377,7 +2377,7 @@ IN Marriage, Woman promise makes:
 
 To serue her Husband all her Life.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=36)Hence comes
+ Hence comes
 it that Sir Hugh mistakes:
 
 Tha [...] vses Seruants as his Wi [...]e.
@@ -2398,25 +2398,25 @@ I nere coo'd tell, no more then coo'd the Post.
 
 #### 12.2.47. In Milonem. Epig: 46.
 
-MIlo) much blames mee, that in all my Verse,
+MIlo)  much blames mee, that in all my Verse,
 
 I nothing in my  [...]istris Praise reherse.
 
-Know I haue Volumes, and wou'd (I confesse.)
+Know I haue Volumes, and wou'd (I confesse.) 
 
 But can not get consent of Her to Presse.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=37)
+ 
 
 #### 12.2.48. Of Wine. Epig. 47.
 
-PHysitians) Wine at Spring-Time poyson call;
+PHysitians)  Wine at Spring-Time poyson call;
 
 I hold! It neuer hurteth but ith' Fall.
 
 #### 12.2.49. In Presbiterum. Epig. 48.
 
-PResbyter) that of late his Parish crost,
+PResbyter)  that of late his Parish crost,
 
 By his loose Liuing, hath his Liuing lost.
 
@@ -2432,11 +2432,11 @@ Where Art and Pouerty together dwell,
 
 'Tis shrowdly to bee fear'd all is not well.
 
-Men doe by Beggiug Liuings get (we see!)
+Men doe by Beggiug Liuings get (we see!) 
 
 Yet few get Liuings by their Beggery.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=37)
+ 
 
 #### 12.2.50. In Ignotum. Epig. 49.
 
@@ -2444,11 +2444,11 @@ A Cornish Citizen came to his Wife,
 
 Swore he had beene in danger of his life.
 
-How man (quoth shee!) Faith pointing but at One
+How man (quoth shee!)  Faith pointing but at One
 
 Counted the arrant'st Cuckold in the Towne.
 
-Nay Lord (quoth shee!) wha [...] meant you Man to say it?
+Nay Lord (quoth shee!)  wha [...] meant you Man to say it?
 
 Fye you forget your Selfe too bad, be quiet.
 
@@ -2464,11 +2464,11 @@ I Know my Fate, and that must beare,
 
 And since I Know I need not Feare.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=38)
+ 
 
 #### 12.2.53. Epig. 50.
 
-HOw can (Sir Amorous) in his sute speede ill,
+HOw can (Sir Amorous)  in his sute speede ill,
 
 That hath his Mistris, euery where at Will.
 
@@ -2488,7 +2488,7 @@ YEs: If thy Haires fall, as thy Sinnes increaese,
 
 Both will ere long proue aequall, Numberlesse.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=38)
+ 
 
 #### 12.2.56. In Philippum. Epig: 53.
 
@@ -2503,17 +2503,17 @@ TRue Epigrams most fitly likned are
 
 To Waspes, that in their taile a sting must beare.
 
-Thine being Waspes. I say, (who'st will repine!)
+Thine being Waspes. I say, (who'st will repine!) 
 
 They are not Epigrams are not like Thine.
 
 #### 12.2.58. Amor ex visu. Of a Blind-man, Louing. Epig. 55.
 
-IF Loue comes but by Sight: (as true we finde.)
+IF Loue comes but by Sight: (as true we finde.) 
 
-Then needs must (Caeco) see: for he is Blinde.
+Then needs must (Caeco)  see: for he is Blinde.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=39)
+ 
 
 #### 12.2.59. Maxima amicitia inter aequales. The Younger Brother to the
 Elder. Epig. 56.
@@ -2546,23 +2546,23 @@ Which in our Father bred this foule mistake,
 
 Who gaue One all, and so did Difference make.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=39)
+ 
 
 #### 12.2.60. Vaitas non est numerus. Epig. 57.
 
-ROme for (Reuersio:) there's but One, Ile sweare
+ROme for (Reuersio:)  there's but One, Ile sweare
 
 Betwixt him and 5. hundred a Yeare.
 
-O happy, thrice (Reuersio) if that One,
+O happy, thrice (Reuersio)  if that One,
 
-(As none a Number) thou coo'dst number none!
+(As none a Number)  thou coo'dst number none!
 
 #### 12.2.61. Againe: Vnus Homo nullus homo. Epig. 58.
 
 ONe Man is no man: Proue that if you can,
 
-(Reuersio) you for euer make a Man.
+(Reuersio)  you for euer make a Man.
 
 #### 12.2.62. Natura nihil agit frustra. Against Painted Women. Epig. 59.
 
@@ -2570,7 +2570,7 @@ MOst are of minde that Women are lesse Faire,
 
 And more Deformed: then of Olde they were.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=40)True! else In
+ True! else In
 vaine woo'd Nature labour take.
 
 To giue them Beauty, that can Beauty make.
@@ -2583,7 +2583,7 @@ For her Art's glory, and these Artists shame.
 
 #### 12.2.64. In Amicam dotem quaerentem. Epig. 60.
 
-(—) Loues me, and woo'd wed, but wot ye what?
+(—)  Loues me, and woo'd wed, but wot ye what?
 
 Vnlesse I make her Ioynture shee will not.
 
@@ -2595,12 +2595,12 @@ Whereon to Hopes vnkindnesse, griefe t'inioy,
 
 A Sin, to wish for, in it selfe a toy.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=40)A meerly
+ A meerly
 neerl' Inuention, onely fit
 
 To part false hearts, and not to Ioyne on it.
 
-Then (—) on Ioynture doe not so much stand,
+Then (—)  on Ioynture doe not so much stand,
 
 All faithfull Louers are not borne to Land.
 
@@ -2620,7 +2620,7 @@ Take mee! Ile play th' Good-husband, and I will
 
 Both Day and Night bee getting for thee still.
 
-And what I get (and I will get for Life,)
+And what I get (and I will get for Life,) 
 
 Dying Ile wholly leaue vppon my Wife.
 
@@ -2628,7 +2628,7 @@ If this contents not! marke then what Ile say,
 
 Dues must not bee demaunded till the Day.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=41)Let (—) then
+  then
 Iustly Ioyne me to her now,
 
 And then aske Ioynture when it shall grow Due.
@@ -2643,7 +2643,7 @@ Being a man of Vniuersall grace,
 
 Contended with a Lawyer for the place:
 
-Sir (quoth 'Physitian) I am One you know
+Sir (quoth 'Physitian)  I am One you know
 
 That before Lords and Ladyes vse to goe.
 
@@ -2651,22 +2651,22 @@ My Life secure, voide of seditious strife.
 
 Not one dares once molest me, for his Life.
 
-I of [...] am sent for, (Lawyer then bee se'd)
+I of [...] am sent for, (Lawyer then bee se'd) 
 
 And haue to doe, with Ladyes in their bed.
 
 Lawyer.
 
-Be Patient (D [...]ctor,) And take this from mee,
+Be Patient (D [...]ctor,)  And take this from mee,
 
 Tis no [...] your Grace: like Habite: aequall Fee:
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=41)Nor
-Priuiledges all: (say what you can)
+ Nor
+Priuiledges all: (say what you can) 
 
 May make you bee, or seeme the better man:
 
-I (as Apollo) am the God, to whome
+I (as Apollo)  am the God, to whome
 
 All Countryes croutching doe for Counsaile come.
 
@@ -2682,7 +2682,7 @@ No  [...]ot the statelyest Lady in the Land,
 
 Will sticke  [...]o put her Case into my hand:
 
-Goe to our Practise! (for my Countries care)
+Goe to our Practise! (for my Countries care) 
 
 I most am sturing where Contentions are.
 
@@ -2698,7 +2698,7 @@ Mistake not Doct [...]r then, and you shall finde,
 
 It is your Office for to come behinde.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=42)
+ 
 
 #### 12.2.66. Of 2. Painters contending for Preeminence in their Art. Epig.
 62.
@@ -2719,7 +2719,7 @@ The other more Learned in Philosophie,
 
 Saves All compares must amongst aequalls bee.
 
-Now then (if this must the Contention end)
+Now then (if this must the Contention end) 
 
 You of necessity your Wife must lend.
 
@@ -2735,7 +2735,7 @@ This done! The Artist cunningly did bid her,
 
 Before him stand, as when her Husband did her.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=42)Who speedily
+ Who speedily
 his Pencill forth did plucke,
 
 And close himselfe vnto his worke betooke.
@@ -2748,17 +2748,17 @@ She swore her Husband could not him come neere.
 
 : Goe home and tell thy Husband of my Skill.
 
-At whose returne the Good-man (fond to know)
+At whose returne the Good-man (fond to know) 
 
 Askt her the Ensigne of his Art to show.
 
-(Quoth she) this time the Ground he onely laide.
+(Quoth she)  this time the Ground he onely laide.
 
-It shall in time bee perfected (hee saide)
+It shall in time bee perfected (hee saide) 
 
-Oft was he vrgent, (and woo'd Answer none,)
+Oft was he vrgent, (and woo'd Answer none,) 
 
-From day to day hee'd aske (What ha's hee done?)
+From day to day hee'd aske (What ha's hee done?) 
 
 It chanced so that in some 10. Months after.
 
@@ -2774,7 +2774,7 @@ Loe heere my Picture: Trie if you can mend it.
 
 FINIS.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=43)
+ 
 
 ### 12.3. To the worthy Author vpon these Epigrams.
 
@@ -2808,12 +2808,12 @@ Hath nothing but a Wager, or an Oath
 
 To proue their owne or other mens desert:
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=43)And did not
+ And did not
 my per-vsall now conuert
 
 My Iudgement to consider what I praise:
 
-I might (as they) approue, and many wayes
+I might (as they)  approue, and many wayes
 
 Recant hereafter: But I giue them leaue
 
@@ -2829,50 +2829,50 @@ They haue aduantage gotten with the most.
 
 IO: STEPHENS.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=44)
+ 
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=44)
+ 
 
 ## 13\. THE Third Booke of Humours: Intituled Notes from BLACK-FRYERS.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=45)
+ 
 
 ### 13.1. Epigram. To his Lou: Chamber-Fellow, and nearest Friend NAT: GVRLIN
 Of Lincolnes-Inne Gent.
 
-NAT) Counsaile me I (faith!) what wod'st haue me doe?
+NAT)  Counsaile me I (faith!)  what wod'st haue me doe?
 
 My priuate Notes produce in publique view?
 
-Tush! mooue me not: yet (doubtles) tis rare stuffe
+Tush! mooue me not: yet (doubtles)  tis rare stuffe
 
 And may Take, why not? if so! Good inough.
 
-How ere (Nat) Patronize it, thou canst tell,
+How ere (Nat)  Patronize it, thou canst tell,
 
-(If ought mislike:) I meant, and wish all well.
+(If ought mislike:)  I meant, and wish all well.
 
-Then, Good: or Bad: heer (Sirs!) on liking take it:
+Then, Good: or Bad: heer (Sirs!)  on liking take it:
 
 If Good, 'tis I: If Bad: 'tis you that make it.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=45)
+ 
 
 ### 13.2. Notes from Black-Fryers.
 
-WHat (friend Philemo) let me thy corpes Im­brace
+WHat (friend Philemo)  let me thy corpes Im­brace
 
 So jumpe met in this vnfrequented place?
 
 Then, faith! 'lets Frolique't: pre'thee whats ye Play
 
-(The first I visited this twelue monthes day.)
+(The first I visited this twelue monthes day.) 
 
-(They say) A new Inuented Toy of Purle
+(They say)  A new Inuented Toy of Purle
 
 That ieoparded his Necke, to steale a Girle
 
-Of 12: And (lying fast impounded for't)
+Of 12: And (lying fast impounded for't) 
 
 Hath hither sent his Beard, to Act his part.
 
@@ -2882,14 +2882,14 @@ That would not freely to the Theft consent.
 
 Faines all to's wish, and in the Epilogue,
 
-Goes out applauded for a famous —)
+Goes out applauded for a famous —) 
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=46)Now hang me
+ Now hang me
 if I did not looke at first,
 
 For some such stuffe by the fond peoples thrust.
 
-Then stay! Ile see't, and sit it out (what ere)
+Then stay! Ile see't, and sit it out (what ere) 
 
 Had I at comming forth tooke a G [...]ister:
 
@@ -2905,19 +2905,19 @@ Out with these matches fore-runners of Smoake,
 
 This Indian pastime I could neuer brooke.
 
-SEe (Captaine Martio) he ith' Renounce me Band,
+SEe (Captaine Martio)  he ith' Renounce me Band,
 
 That in the middle Region doth stand
 
 Woth' reputation steele! Faith! lets remoue.
 
-Into his Ranke, (if such discourse you Loue)
+Into his Ranke, (if such discourse you Loue) 
 
 Hee'l tell of Basilisks, Trenches, Retires [...]
 
 Of Pallizadoes, Parepets, Frontires:
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=46)Of Caluerins,
+ Of Caluerins,
 and Baricadoes too:
 
 What to bee Harquebazerd: to lye in Perdue:
@@ -2926,7 +2926,7 @@ How many men a Souldier ought to slay
 
 For a Lieutenant-ship: or Twelue month Pay.
 
-Hee'l read a Lecture (by his skill exceeding)
+Hee'l read a Lecture (by his skill exceeding) 
 
 Of Reputation: when it lyes a Bleeding:
 
@@ -2946,18 +2946,18 @@ As many weekely fall but for the Lye,
 
 As did in hottest time of Sicknesse dye.
 
-Last for his Manhood: how in furie (crost)
+Last for his Manhood: how in furie (crost) 
 
 For a false reckoning once he slew his Host.
 
-And late in England, (since his comming o're)
+And late in England, (since his comming o're) 
 
 Into the Channell flung an Oyster-whore.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=47)For taking
+ For taking
 th'wall of him: seeme but to doubt
 
-(The least) of these: straight he will plucke ye out
+(The least)  of these: straight he will plucke ye out
 
 Handfuls of Reputation: gain'd of those
 
@@ -2971,7 +2971,7 @@ Which he puts vp, and gloriously puts forth
 
 In Ordinaries to proclaime his worth,
 
-Thinking to get (what common sence denyes)
+Thinking to get (what common sence denyes) 
 
 Credit: by Pocketting vp Iniuryes.
 
@@ -2981,7 +2981,7 @@ Be counted Valiant, and neuer Fight.
 
 LOok next to him too, One we both know well,
 
-(Sir Iland Hunt) a Trauailer that will tell
+(Sir Iland Hunt)  a Trauailer that will tell
 
 Of stranger Things then Tatterd Tom ere li't of,
 
@@ -2989,7 +2989,7 @@ Then Pliny, or Heroditus e're writ of:
 
 How he a remnant lately brought with him
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=47)Of Iacobs
+ Of Iacobs
 Ladder from Ierusalem:
 
 At the Barmodies how the Fishes fly.
@@ -3002,7 +3002,7 @@ Such as nere Noahs Arke: nere Eden held.
 
 And rarer Rarities, then all of these:
 
-Iust now to bee discouered (if yee please!)
+Iust now to bee discouered (if yee please!) 
 
 Such as woo'd make a Blind-man fond to see;
 
@@ -3012,20 +3012,20 @@ Most younger Brothers sell their Lands to buy,
 
 Guyanian Plumes: like Icarus to fly.
 
-BVt stay! see heere (but newly Entred,)
+BVt stay! see heere (but newly Entred,) 
 
 A Cheapside Dame, by th'Tittle on her head!
 
-Plot (Villain!) plot! Let's lay our heads together!
+Plot (Villain!)  plot! Let's lay our heads together!
 
 We may deuise perchance to get her hither.
 
-(If wee to-gether cunniningly compact)
+(If wee to-gether cunniningly compact) 
 
 Shee'l holde vs dooing till the Latter Act.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=48)And (on my
-life) Inuite vs Supper home,
+ And (on my
+life)  Inuite vs Supper home,
 
 Wee'l thrust hard for it, but wee'l finde her rome,
 
@@ -3039,7 +3039,7 @@ In Turkie colours carued to the skin.
 
 Mounted Pelonianly vntill hee reeles,
 
-That scornes (so much) plaine dealing at his heeles.
+That scornes (so much)  plaine dealing at his heeles.
 
 His Boote speakes Spanish to his Scottish Spurres,
 
@@ -3057,7 +3057,7 @@ What Countrey may-game might wee this suppose,
 
 Sure one woo'd thinke a Roman by his Nose.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=48)No! In his
+ No! In his
 Habite better vnderstand,
 
 Hee is of England by his Yellow Band.
@@ -3072,7 +3072,7 @@ Out, point not man! Least wee be beaten both.
 
 Eye her a little, marke but where shee'l goe,
 
-Now (by this hand) into the Gallants Roe.
+Now (by this hand)  into the Gallants Roe.
 
 Let her alone! What ere she giues to stand,
 
@@ -3086,14 +3086,14 @@ Yon Musk-ball, Milke-sop: yon French Sincopace:
 
 That Vshers in, with a Coranto grace.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=49)Yon Gilded
+ Yon Gilded
 March-pane: yon All Verdingall,
 
 This is the Puppet, which the Ladyes all
 
 Send for of purpose and solicite so
 
-To daunce with them. Pray (Sir) a step or two.
+To daunce with them. Pray (Sir)  a step or two.
 
 A Galliard or a I [...]gg: Pox ont! cryes hee,
 
@@ -3107,11 +3107,11 @@ A Stoole and Cushion! Enter Tissue slop!
 
 Vengeance! I know him well, did he not drop
 
-Out of the Tyring-house? Then how (the duse)
+Out of the Tyring-house? Then how (the duse) 
 
 Comes the mishapen Prodig [...]ll so spruse,
 
-His year's Reuenewes (I dare stand vnto't,)
+His year's Reuenewes (I dare stand vnto't,) 
 
 Is not of worth to purchase such a Sute.
 
@@ -3119,7 +3119,7 @@ Tush! is it now to question Gallantry,
 
 When No-land for a rich Gra [...]uity,
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=49)May Seale as
+ May Seale as
 deepe as can Auaro's Heire,
 
 That may d [...]spend fiue hundred a yeare?
@@ -3138,15 +3138,15 @@ To feare preferment? When a Rascall Page
 
 An Ab [...]ect ou [...]side shall presume to Woe
 
-Rich bruted (Cashia:) and hope better too,
+Rich bruted (Cashia:)  and hope better too,
 
 Then hee that of the Of-scums of his Braine,
 
-Can a man better then the (Vice) maintaine.
+Can a man better then the (Vice)  maintaine.
 
 (Tut! 'tis the Mothers plot! Now she shall see
 
-The Court sometimes! Oh Carnall Pollicy!)
+The Court sometimes! Oh Carnall Pollicy!) 
 
 Then who in Studdy woo'd spend Time in vaine?
 
@@ -3156,7 +3156,7 @@ Or for an Ay [...]ie puffe of Enuy'd Praise,
 
 Liue bound to th'Good-behauiour all his dayes.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=50)Hang't! Let's
+ Hang't! Let's
 be Iouiall! Braue it whilst we can!
 
 Whats Coyne ordain'd for, but the vse of Man?
@@ -3173,9 +3173,9 @@ Hee's not a Gentleman I dare maintaine,
 
 Whose Word runnes not as Current as his Coyne.
 
-A Pipe heere (Sirra) no Sophistocate.
+A Pipe heere (Sirra)  no Sophistocate.
 
-(Villain) the best: what ere you prize it at.
+(Villain)  the best: what ere you prize it at.
 
 Tell yonder Lady, with the Yellow fan,
 
@@ -3193,12 +3193,12 @@ When shall we make a pleasant cut to Douer,
 
 In a mad merry Humor? And send ouer?
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=50)A Laugh shall
+ A Laugh shall
 rouz the Hage: shake Lesbon walls:
 
 And raise in Armes the fearfull Portugalls.
 
-Say Gallants (faith) shall's neuer see the day,
+Say Gallants (faith)  shall's neuer see the day,
 
 When wee shall Fish-street once againe suruey.
 
@@ -3226,16 +3226,16 @@ Are there not Pates, in strange discoueries teaching
 
 where mountains are of Gold ?s'fut, tis but fetching!
 
-Twenty such Fetches hath the (Sharke) to moue
+Twenty such Fetches hath the (Sharke)  to moue
 
 Gallants of the first Head, but to approue
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=51)His
+ His
 swaggering Humor, vowes that all he spends,
 
 He getteth brauely by his Fingers ends.
 
-There's not a Cheap side Mercer (if he looke)
+There's not a Cheap side Mercer (if he looke) 
 
 That will not sweare to't deeply on his booke.
 
@@ -3263,12 +3263,12 @@ In a Tobacco box, or Diall set,
 
 That he may priuately conferre with it.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=51)How his Band
+ How his Band
 jumpeth with his Peccadilly,
 
 Whether his Band [...]strings ballance equally:
 
-Which way his Feather wagg's: And (to say truth)
+Which way his Feather wagg's: And (to say truth) 
 
 What wordes in vtterance best become his mouth.
 
@@ -3284,11 +3284,11 @@ Lord! how I laught to see the witlesse Noddy,
 
 Du [...]st not reply, he meant it to his Body.
 
-See Villain, Rogue! (And in he shrinks his brest)
+See Villain, Rogue! (And in he shrinks his brest) 
 
 Oh Heauens! Too wide a handfull at the least,
 
-Straight it is Cut! And then proues (being try'd)
+Straight it is Cut! And then proues (being try'd) 
 
 As much too little on the other side.
 
@@ -3300,14 +3300,14 @@ Admit spare dyet, on no sustnance feed,
 
 But Oatmeale, Milke, and crums of Barly-bread.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=52)Vse Exercise
+ Vse Exercise
 vntill at last hee fit:
 
-(With much adoe) his Body vnto it.
+(With much adoe)  his Body vnto it.
 
 Hee'l not approach a Tauerne, no nor drinke ye
 
-To saue his life Hot-water, (wherefore thinke ye,)
+To saue his life Hot-water, (wherefore thinke ye,) 
 
 For heating's Liuer Which some may suppose
 
@@ -3317,7 +3317,7 @@ Hee'l put vp any publique foule disgrace.
 
 Rather then hazzard cutting of his Face.
 
-If in his Element you'd haue the (Foole!)
+If in his Element you'd haue the (Foole!) 
 
 Aske him when he came from the Dauncing-schoole
 
@@ -3325,7 +3325,7 @@ Whereas much Leather he doth dayly waste
 
 In the French Cringe, which Ieremy brought last.
 
-And more, then Coriat (I dare maintaine)
+And more, then Coriat (I dare maintaine) 
 
 In going to the Alpes and backe againe.
 
@@ -3337,7 +3337,7 @@ That Ladyes, may denote him with their Fan,
 
 As he goes by, with a Lo: Hee's the man.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=52)
+ 
 
 IS't not a thing to bee admired at
 
@@ -3345,7 +3345,7 @@ That any man should Sing himselfe in debt.
 
 Then who'd not giue as willingly a groate,
 
-To heare (Fantasticks) admirable note?
+To heare (Fantasticks)  admirable note?
 
 : As see a Mandrake, or a Sea-monster:
 
@@ -3355,7 +3355,7 @@ The Eagle at the Tower: St. Iames's Rarityes:
 
 The Estrich, or Beauer, that woo'd worrey Trees?
 
-(Amorous Fantasticke) that did neuer ayme at
+(Amorous Fantasticke)  that did neuer ayme at
 
 A smaller Rise, then Ela in the Gamat.
 
@@ -3373,16 +3373,16 @@ Throng to his Chamber doore, but dare not come in,
 
 Why? least he rauish them! Tush! Laugh ye not,
 
-H'as done (I wosse) as great exploites as that.
+H'as done (I wosse)  as great exploites as that.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=53)(Or else he
-cracks) the sweetnesse of his voyce
+ (Or else he
+cracks)  the sweetnesse of his voyce
 
 Ore-heard of Ladyes, hath procur'd him choyse
 
 Of Matches: Noble, Rich: but hee'l not meddle,
 
-And why (I pray?) for cracking of his Treble.
+And why (I pray?)  for cracking of his Treble.
 
 No [...] bee'l with better industry make tryall,
 
@@ -3396,7 +3396,7 @@ Faith! was he heere wee'd bargain for a Rime,
 
 And heere he comes. So truely he keepes Time.
 
-BVt h'st! with him Crabbed (Websterio)
+BVt h'st! with him Crabbed (Websterio) 
 
 The Play wright, Cart-wright: whether? either! ho —
 
@@ -3408,18 +3408,18 @@ Was euer man so mangl'd with a Poem?
 
 See how he drawes his mouth aw [...]y of late,
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=53)How he
+ How he
 scrubs: wrings his wrests: scratches his Pa [...]e.
 
 A Midwife! helpe? By his Braines coitus,
 
 Some Centaure strange: some huge Bucephalus,
 
-Or Pallas (sure) ingendred in his Braine,
+Or Pallas (sure)  ingendred in his Braine,
 
 Strike Vulcan with thy hammer once againe.
 
-This is the Crittick that (of all the rest)
+This is the Crittick that (of all the rest) 
 
 I'de not haue view mee, yet I feare him least,
 
@@ -3427,21 +3427,21 @@ Heer's not a word cursi [...]ely I haue W [...]i [...],
 
 But hee'l Industriously examine it.
 
-And in some 12. monthes hence (or there about)
+And in some 12. monthes hence (or there about) 
 
 Set in a shamefull sheete, my errors out.
 
 But what care I it will be so obscure,
 
-That none shall vnderstand him (I am sure.)
+That none shall vnderstand him (I am sure.) 
 
-Others may chance (that know me not a right,)
+Others may chance (that know me not a right,) 
 
-Report (iniuriously) all my delight,
+Report (iniuriously)  all my delight,
 
 And strength of studdy I doe wholly bend
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=54)To this
+ To this
 Losse-labour and no other end.
 
 To these I wish my scandald Muse reply
@@ -3452,7 +3452,7 @@ Heer's but Pate-pastime: Play-house Obseruation,
 
 Fruits of the vacants howers of a Vacation.
 
-Then (say all what they can) I am sure of this,
+Then (say all what they can)  I am sure of this,
 
 That for Play-time it is not spent amisse,
 
@@ -3464,7 +3464,7 @@ Beene Iouiall.
 
 FINIS
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=54)
+ 
 
 ### 13.3. To his worthy Friend, H.F. vpon his Notes from BLACK-FRYERS.
 
@@ -3480,7 +3480,7 @@ Haue gathered from the Play-house. And I must
 
 (Though't bee a Players vice to be vniust,
 
-To Verse not yeelding coyne) let Players know
+To Verse not yeelding coyne)  let Players know
 
 They cannot recompence your labour: Though
 
@@ -3490,13 +3490,13 @@ And take no money of you nor your Page.
 
 For now the Humours which oppresse Playes most,
 
-Shall (if the owners can feele shame) be lost:
+Shall (if the owners can feele shame)  be lost:
 
 And when they so conuerted doe allow,
 
 What they dislik'd once, Players must thanke you,
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=55)And Poets
+ And Poets
 too: for both of them will saue
 
 Much in true Verse, which hisses might depraue:
@@ -3507,32 +3507,32 @@ That now good Playes will neuer neede defence.
 
 IO: STEPHENS.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=55)
+ 
 
 ### 13.4. Epilogue. The Author for Himselfe.
 
 I Am no Poet! (yet I doe not know
 
-Why I should not: or why I should be so,)
+Why I should not: or why I should be so,) 
 
-I can (I must confesse) a Metre s [...]an:
+I can (I must confesse)  a Metre s [...]an:
 
 And Iudge of Verses as an other man.
 
-I haue been Trayn'd vp'mongst the Muses: (more!)
+I haue been Trayn'd vp'mongst the Muses: (more!) 
 
 The sacred Name of Phaebus I adore.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=56)Yet I no Poet
-am! (I'de haue ye know)
+ Yet I no Poet
+am! (I'de haue ye know) 
 
-I am no Poet (as the world goes now.)
+I am no Poet (as the world goes now.) 
 
 : My Muse cannot a Note so poorly frame.
 
 : As Inuocate a Penny-Patrons name.
 
-: I cannot speake and vnspeake (as I list:)
+: I cannot speake and vnspeake (as I list:) 
 
 : Exchange a sound friend for a broken Iest:
 
@@ -3540,24 +3540,24 @@ I am no Poet (as the world goes now.)
 
 : Admit in my discourse Hyperbolyes.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=56)I cannot
+ I cannot
 highly praise Those highest are
 
 Because they sit in Honours lofty chayre.
 
 Nor make their States in Sonnets happy knowne,
 
-Being (perchance) lesse happy then mine owne.
+Being (perchance)  lesse happy then mine owne.
 
 I cannot sing my Mistris shee is Faire:
 
 Tell her of her Lilly Hand: her golden Haire,
 
-Fetch a Comparison (beyond the Moone,)
+Fetch a Comparison (beyond the Moone,) 
 
 To proue her constant in Affection.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=57): I dare not
+ : I dare not
 Her so much as Louely call:
 
 : Or say I haue a Mistris at all.
@@ -3570,14 +3570,14 @@ Had I of Scoggins Crowes writ: or set out
 
 In Womans Praises what I was about.
 
-I am perswaded (yet I cannot tell)
+I am perswaded (yet I cannot tell) 
 
 I had a Poet prou'd against my will.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=57)Yet (ye
-vnproued good) blame not because
+ Yet (ye
+vnproued good)  blame not because
 
-I yet as (doubtfull on your merits) pause.
+I yet as (doubtfull on your merits)  pause.
 
 I will produce and Patronize it too:
 
@@ -3587,17 +3587,17 @@ But Faine I cannot, heere is not a word,
 
 Which I dare not maintaine true with my sword.
 
-Poets men Lyers call. If so! Then (know it)
+Poets men Lyers call. If so! Then (know it) 
 
 Hee is a Poet, doth mee call a Poet.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=58)
+ 
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=58)
+ 
 
 ### 13.5. Post-script to his Book-binder.
 
-STationer) A Good turne to thee I owe:
+STationer)  A Good turne to thee I owe:
 
 Heere! I will pay thee now in Folio.
 
@@ -3613,11 +3613,11 @@ Or in th' Apothicaryes shop bee s [...]ene
 
 To wrap Drugg's: or to dry Tobacco in.
 
-First (might I chuse) I would be bound to wipe,
+First (might I chuse)  I would be bound to wipe,
 
 Where he discharged last his Glister-pipe.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=59)The Character
+ The Character
 I care not, Great, or Small,
 
 So I bee plainly vnderstood of all.
@@ -3646,7 +3646,7 @@ Bookes like made-Dishes may for Daintyes goe,
 
 Yet will not euery pallate taste 'em so:
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=59)Then were it
+ Then were it
 good, I should inioyne the Sell.
 
 Mee vnto none but those that loue me well.
@@ -3667,15 +3667,15 @@ And catches in his fatall hand my Rime.
 
 To lurke in it, vntill hee see his Time.
 
-Thrust him out head-long, for (beleiue him not)
+Thrust him out head-long, for (beleiue him not) 
 
-Now (by the Mace) it is a Counter plot.
+Now (by the Mace)  it is a Counter plot.
 
 If thou behold a Courtcast Satten-show,
 
 Fallen from the Fashion a Degree or two.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=60) One as goes
+  One as goes
 purueying vp and downe for Tales,
 
 [...]o Iest his hungry stomacke into meales.
@@ -3688,7 +3688,7 @@ purueying vp and downe for Tales,
 
 [...]et him starue ere hee get a bitt of mee.
 
-[...]east lying (Read) neglected in his Slop,
+[...]east lying (Read)  neglected in his Slop,
 
 [...]bee conueyed vnto the Brokers-shop.
 
@@ -3704,10 +3704,10 @@ If any Younger Brother, that noe more
 
 [...]nd with the Echer of his Brothers bord.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=60)That sits a
+ That sits a
 Ledger at his Fathers Table:
 
-My Booke woo'd fondly purchase: (hardly able,)
+My Booke woo'd fondly purchase: (hardly able,) 
 
 To win, the presence by the Fiers side,
 
@@ -3729,11 +3729,11 @@ The youth of youth! That read most liberally,
 
 More out of Pastime then necessity.
 
-Yee worthy Worthyes! None else (might I chuse)
+Yee worthy Worthyes! None else (might I chuse) 
 
 Doe I desire my Poesie peruse.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=61) [...]or to
+  [...]or to
 saue charges: ere the Playes begin:
 
 Or when the Lord of Libertie comes in.
@@ -3748,129 +3748,129 @@ With a Hand's off: It is not for your turne.
 
 FINIS.
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=61)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=1)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=1)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=63)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=63)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=64)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=64)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=65)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=65)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=5)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=5)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=6)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=6)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=7)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=68)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=8)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=69)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=9)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=70)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=71)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=71)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=72)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=72)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=73)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=73)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=74)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=74)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=75)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=75)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=76)
+ 
 
 [...]
 
-[[Page]](http://eebo.chadwyck.com/downloadtiff?vid=17335&page=76)
+ 
 
-[Home](/)
+[Home](/) 
 
 Fitzgeffrey, Henry.. Date: 1618  
 
