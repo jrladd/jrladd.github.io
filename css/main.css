@@ -30,8 +30,10 @@ a         { color: #33CC33;
 a:hover   { color: #000; 
 	    text-decoration: none;}
 	    
-.network {
+svg {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	border-style: dotted;
+	border-width: 1px;
 }
 .node {
   stroke: #fff;
