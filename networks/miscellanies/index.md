@@ -22,13 +22,9 @@ title: " Miscellanies"
    <input id="search">
     <button type="button" onclick="searchNode()">Search</button>
 </div>
-<!-- <div class="image" style="margin:20px;">
-    <br/>Use the slider to adjust links:
-    <div id="slider" class="ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all">
-    	<a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 0%;">
-    	</a>
-    </div>
-</div> -->
+<!-- Use the slider to adjust links: 
+<div id="slider" class="ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all"><a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 0%;"></a></div>
+<br/> -->
 <div id="network"></div>
 
 <script src="http://d3js.org/d3.v3.min.js"></script>

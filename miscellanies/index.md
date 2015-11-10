@@ -15,7 +15,7 @@ layout: default
 
 
 
-[A02331](/miscellanies/A02331)
+[A02331](/teibp/content/A02331.xml)
 
 ---
 **Author:** Surrey, Henry Howard, Earl of, 1517?-1547.; Wyatt, Thomas, Sir, 1503?-1542.; Grimald, Nicholas, 1519-1562.; Tottel, Richard, d. 1594.
@@ -28,7 +28,7 @@ layout: default
 
 **Signed by:** SVRREY., T. VVYATE the elder., N. G., 
 
-[A03742](/miscellanies/A03742)
+[A03742](/teibp/content/A03742.xml)
 
 ---
 **Author:** Larke, John.; Gozzadini, Tommaso, attributed name.; Leoni, Tommaso, attributed name.
@@ -41,7 +41,7 @@ layout: default
 
 
 
-[A16439](/miscellanies/A16439)
+[A16439](/teibp/content/A16439.xml)
 
 ---
 **Author:** Henryson, Robert, 1430?-1506?
@@ -54,7 +54,7 @@ layout: default
 
 
 
-[A03024](/miscellanies/A03024)
+[A03024](/teibp/content/A03024.xml)
 
 ---
 **Author:** Tichborne, Chidiock, ca. 1558-1586.; Kyd, Thomas, 1558-1594, attributed name.; Knell, Thomas, attributed name.; T. K.
@@ -67,7 +67,7 @@ layout: default
 
 
 
-[A21254](/miscellanies/A21254)
+[A21254](/teibp/content/A21254.xml)
 
 ---
 **Author:** Greene, Robert, 1558?-1592.
@@ -81,10 +81,10 @@ layout: default
 **Signed by:** Your VVorships humbly to commaund,, Ro. Greene., , Rob. Greene., Still in hope, Acestes., , , Lidia, of, Lidia, resolued to mislike
 of, Acestes, of, Thracia., , Robert Greene., 
 
-[A02120](/miscellanies/A02120)
+[A02120](/teibp/content/A02120.xml)
 
 ---
-**Author:** Bodenham, John, fl. 1600, attrib. name.; N. L. (Nicholas Ling), fl. 1580-1607, attrib. name.; A. B., fl. 1600, attrib. name.
+**Author:** Bodenham, John, fl. 1600, attrib. name.; N. L. (Nicholas Ling.xml), fl. 1580-1607, attrib. name.; A. B., fl. 1600, attrib. name.
 
 **Title:** Englands Helicon Casta placent superis, pura cum veste venite, et manibus puris sumite fontis aquam.
 
@@ -94,7 +94,7 @@ of, Acestes, of, Thracia., , Robert Greene.,
 
 **Signed by:** Yours in all he may,, A. B., , L. N., S. Phil. Sidney., E. B., Sir. Phil. Sidney., E. B., S. Phil. Sidney., Edm. Spencer., Michaell Drayton., Edmund Bolton., Ro. Greene., Thom. Lodge., Edm. Spencer., N. Breton., Sheepheard Tonie., Mich. Drayton., Thom. Lodge., Ro. Greene., N. Breton., Geo. Peele., I. D., I. M., I. M., Ro. Greene., N. Breton., L. T. Haward, Earle of Surrie., Shep. Tonie., Tho. Watson., Edm. Spencer., Iohn Wootton., Thom. Lodge., L. T. Howard, E. of Surrie., S. E. D., Ro. Greene., N. Breton., W. Shakespeare., Ignoto., Ignoto., Tho. Watson., Thom. Lodge., Thom. Lodge., N. Bretan., I. Wootton., Ro. Greene., W. H., W. H., Shep. Tonie., Ignoto., Tho. Watson., Bar. Yong., Bar. Yong., N. Breton., Rich. Barnefielde., Earle of Oxenford., S. E. Dyer., Ignoto., H. C., Mich. Drayton., Thom. Lodge., Tho. Watson., T. B., Bar. Yong., W. S., Thom. Lodge., S. Phil. Sidney., S. Phil. Sidney., S. Phil. Sidney., Bar. Yong., Bar. Yong., H. C., Ro. Greene., Bar. Yong., S. E. D., Bar. Yong., Mich. Drayton., Bar. Yong., Shep. Tonie., Ignoto., S. Phil. Sidney., M. F G., Bar. Yong., Thom. Lodge., Rich. Barnefielde., Bar. Yong., Ro. Greene., , S., Phil. Sidney., Bar. Yong., E. B., Ignoto., Bar. Yong., Tho. Watson., Bar. Yong., Translated by S., Phil. Sidney,, out, of Diana, of, Montmaior., , Bar. Yong., Anonimus., E. B., Bar. Yong., Thom. Lodge., Bar. Yong., S. E. D., Bar. Yong., Bar. Yong., Ignoto., Bar. Yong., S. Phil. Sidney., Bar. Yong., Bar. Yong., Bar. Yong., Bar. Yong., Bar. Yong., Bar. Yong., S. E. D., Thom. Lodge., H. C., Mich. Drayton., Shep. Tome., S. Phil. Sidney., I. G., H. C., Ignoto., S. Phil. Sidney., M. H. Nowell., Chr. Marlow., Ignoto., Ignoto., Shep. Ionie., Ignoto., S. Phil. Sidney., N. Breton., N. Breton., S. E. D., S. Phil. Sidney., Shep. Tonie., Geo. Peele., Geo. Peele., 
 
-[A16273](/miscellanies/A16273)
+[A16273](/teibp/content/A16273.xml)
 
 ---
 **Author:** Albott, Robert, fl. 1600.
@@ -107,7 +107,7 @@ of, Acestes, of, Thracia., , Robert Greene.,
 
 **Signed by:** , Your Worſhips humbly, at commaund., R. A., , R. A., 
 
-[A16884](/miscellanies/A16884)
+[A16884](/teibp/content/A16884.xml)
 
 ---
 **Author:** Breton, Nicholas, 1545?-1626?
@@ -120,7 +120,7 @@ of, Acestes, of, Thracia., , Robert Greene.,
 
 **Signed by:** Yours as you know, Lamina., Tidero., Your very louing friend, Lamia., Your faithfull friend Tidero., 
 
-[A68982](/miscellanies/A68982)
+[A68982](/teibp/content/A68982.xml)
 
 ---
 **Author:** Fitzgeffrey, Henry.; Beaumont, Francis, 1584-1616.; Drayton, Michael, 1563-1631.; Hookes, Nathaniel, fl. 1618, attributed name.
@@ -133,7 +133,7 @@ of, Acestes, of, Thracia., , Robert Greene.,
 
 **Signed by:** , Fr. Beau, :, N. H., M. D., NATH: GVRLYN., I. STEPHENS., IO: STEPHENS., IO: STEPHENS., 
 
-[A00825](/miscellanies/A00825)
+[A00825](/teibp/content/A00825.xml)
 
 ---
 **Author:** Hannay, Patrick, d. 1629?; Brathwaite, Richard, 1588?-1673. Good wife. aut
@@ -147,7 +147,7 @@ of, Acestes, of, Thracia., , Robert Greene.,
 **Signed by:** Yours iointly as his owne,
 MVSOPHILVS., R. I., 
 
-[A02618](/miscellanies/A02618)
+[A02618](/teibp/content/A02618.xml)
 
 ---
 **Author:** Vaughan, William, 1577-1641.; Mason, John, 1586-1635.
@@ -160,7 +160,7 @@ MVSOPHILVS., R. I.,
 
 **Signed by:** IOHN GVY., STEPHEN BERRIER., IOHN MASON., 
 
-[A14292](/miscellanies/A14292)
+[A14292](/teibp/content/A14292.xml)
 
 ---
 **Author:** Taylor, John, 1580-1653.
@@ -173,7 +173,7 @@ MVSOPHILVS., R. I.,
 
 **Signed by:** IOHN TAYLOR., 
 
-[A13520](/miscellanies/A13520)
+[A13520](/teibp/content/A13520.xml)
 
 ---
 **Author:** Lightfoot, John, 1602-1675.
@@ -186,7 +186,7 @@ MVSOPHILVS., R. I.,
 
 **Signed by:** , Yours deuoted in all seruice,, Iohn Lightfoote., Thine ready and willing, but vnable., 
 
-[A05462](/miscellanies/A05462)
+[A05462](/teibp/content/A05462.xml)
 
 ---
 **Author:** 
@@ -199,7 +199,7 @@ MVSOPHILVS., R. I.,
 
 
 
-[A18617](/miscellanies/A18617)
+[A18617](/teibp/content/A18617.xml)
 
 ---
 **Author:** Herbert, George, 1592-1637.; Marshall, William, fl. 1617-1650, engraver.
@@ -212,7 +212,7 @@ MVSOPHILVS., R. I.,
 
 **Signed by:** Matth. Clay., 
 
-[A15606](/miscellanies/A15606)
+[A15606](/teibp/content/A15606.xml)
 
 ---
 **Author:** Stoughton, John, d. 1639.; Burgess, Anthony, d. 1664.
@@ -225,7 +225,7 @@ MVSOPHILVS., R. I.,
 
 
 
-[A68783](/miscellanies/A68783)
+[A68783](/teibp/content/A68783.xml)
 
 ---
 **Author:** Lawes, Henry, 1596-1662.; Lawes, William, 1602-1645.
@@ -240,7 +240,7 @@ MVSOPHILVS., R. I.,
 Regiae Majeſtatis à ſacra Muſica., Your Majeſties moſt humble, moſt loyally devoted Subject and Servant, HENRY LAWES., Henry Lawes., A. Tounſhend., J. Harington., J. Milton., Fr. Sambrooke., Henricus Lawes
 Regiae Majeſtatis à ſacra Muſica., Your Majeſties moſt humble, moſt loyally devoted Subject and Servant, HENRY LAWES., Henry Lawes., A. Tounſhend., J. Harington., J. Milton., Fr. Sambrooke., 
 
-[A49748](/miscellanies/A49748)
+[A49748](/teibp/content/A49748.xml)
 
 ---
 **Author:** Sherburne, Edward, Sir, 1618-1702.; Preti, Girolamo, 1582-1626. Salmace. English.; Saint-Amant, Marc Antoine Grard, sieur de, 1594-1661. Metamorphose de Lyrian et de Sylvie. English.; Marino, Giambattista, 1569-1625. Lidia abbandonata. English.; Colluthus, of Lycopolis. Rape of Helen. English.
@@ -253,7 +253,7 @@ Regiae Majeſtatis à ſacra Muſica., Your Majeſties moſt humble, moſt loyal
 
 
 
-[A59751](/miscellanies/A59751)
+[A59751](/teibp/content/A59751.xml)
 
 ---
 **Author:** Smith, James, 1605-1667.
@@ -266,7 +266,7 @@ Regiae Majeſtatis à ſacra Muſica., Your Majeſties moſt humble, moſt loyal
 
 
 
-[A49304](/miscellanies/A49304)
+[A49304](/teibp/content/A49304.xml)
 
 ---
 **Author:** Hall, Joseph, 1574-1656.; Hall, Joseph, 1574-1656. Breathings of a devout soul.
@@ -279,10 +279,10 @@ Regiae Majeſtatis à ſacra Muſica., Your Majeſties moſt humble, moſt loyal
 
 
 
-[A45315](/miscellanies/A45315)
+[A45315](/teibp/content/A45315.xml)
 
 ---
-**Author:** Richardson, John, 1580-1654.; Ussher, James, 1581-1656.; Gataker, Thomas, 1574-1654.; Westminster Assembly (1643-1652)
+**Author:** Richardson, John, 1580-1654.; Ussher, James, 1581-1656.; Gataker, Thomas, 1574-1654.; Westminster Assembly (1643-1652.xml)
 
 **Title:** Choice observations and explanations upon the Old Testament containing in them many remarkable matters, either not taken notice of, or mistaken by most, which are additionals to the large annotations made by some of the Assembly of Divines : to which are added some further and larger observations of his upon the whole book of Genesis perused and attested by the Reverend Bishop of Armagh, and Mr. Gataker Pastor of Rederith / by ... John Richardson ...
 
@@ -300,7 +300,7 @@ much obliged in him,
 THO. GATAKER., Thy Servant in Christ
 J. A., 
 
-[A57230](/miscellanies/A57230)
+[A57230](/teibp/content/A57230.xml)
 
 ---
 **Author:** Collins, Thomas, Student in physick.
@@ -313,7 +313,7 @@ J. A.,
 
 **Signed by:** yours devoted in all humble observance Tho, ▪, Collins, Farewel., 
 
-[A34011](/miscellanies/A34011)
+[A34011](/teibp/content/A34011.xml)
 
 ---
 **Author:** Flatman, Thomas, 1637-1688.
@@ -326,7 +326,7 @@ J. A.,
 
 **Signed by:** Thy loving Friend Adoniram Banſtittle. alias Tinderbox., W. P., A. M., W. C. Oxon., S. T., A. M. W. C., Oxon., , The two firſt letters of the two laſt words, are the Chriſten and the Surname of him that made thoſe Verſes., , Ʋ, . M., G. C., M. A. SOAC., Oxon., Alexandro Amidei Fiorentino., G. I., M. A. W. C., Oxon., Sic exclamavit., T. F., nuper, N. C., Oxon. Soc., T F. lately, F. N. C., Oxon., H. L. W. C. C., T. C., of, Q. K. C., S. W., W. C. C., Oxon., N. F., C. W. F., Oxon., Adoniram Bitefig of, Utopia., , H. W., W. C. C., Oxon., Dón John Puntaeus., , 〈 in non-Latin alphabet 〉, , ., R. F., Timothy Tinderbox, of, Jamaica., W. G., C. W. C., , J. D., W. C. C., , T. S., W. C. F., Oxon., Your Dutiful Son K. Q., K. Q., 
 
-[A84621](/miscellanies/A84621)
+[A84621](/teibp/content/A84621.xml)
 
 ---
 **Author:** Leigh, Edward, 1602-1671.
@@ -342,7 +342,7 @@ most humbly devoted
 and
 Loyall subject, Edward Leigh, , Thy hearty well-wisher, Edward Leigh., , 
 
-[A50052](/miscellanies/A50052)
+[A50052](/teibp/content/A50052.xml)
 
 ---
 **Author:** Denham, John, Sir, 1615-1669.; Denham, John, Sir, 1615-1669. Sophy.; Virgil. Aeneis. Liber 2. English.
@@ -357,7 +357,7 @@ Loyall subject, Edward Leigh, , Thy hearty well-wisher, Edward Leigh., ,
 and loyal Subject, and most
 dutiful and devoted servant, Io. Denham., , 
 
-[A35654](/miscellanies/A35654)
+[A35654](/teibp/content/A35654.xml)
 
 ---
 **Author:** Dorset, Charles Sackville, Earl of, 1638?-1706.; Sedley, Charles, Sir, 1639?-1701.; D'Avenant, William, Sir, 1606-1668.
@@ -370,7 +370,7 @@ dutiful and devoted servant, Io. Denham., ,
 
 **Signed by:** Your Majesties most humble servant and obedient subject., Your Majesties Loyal Subject, and most humble Servant., Your Majesties most humble Servant., , the Adorer of your Vertues,, &c., the most affectionate of all your servants., , Your most real, real friend,, &c., Your most humble servant., Your obliged servant., The humblest of your servants., , The Admirer of your Worth,, &c., Your sincere Admirer., Yours., Yours, even in impatience., , Your cordial friend and servant,, &c., Thine once, but now his own., Your faithful servant., Wholly yours., Your affectionate Brother to command., Your real Friend and Servant., , Your very Servant,, &c., Yours., Your very faithful Servant., Your Servant, Or, your Sacrifice., Your eternal Friend., Yours, in the bonds of true affection., Your most affectionate Servant., Your young Adviser., Yours undivided, though at distance., Your debtor, and humble servant., Your Sacrifice., Yours., Yours living, ▪, or in death., Your Friend, so love and serve you., Your cordial well-wisher, and very humble servant., Yours, though in death., Your Friend, if you will be your own., Exceedingly yours., Infinitely yours, to serve you., Your humble Votary., Yours, to perpetuity., Thine onely, and for ever., Your faithful humble servant., Yours ever, in constancy and service., Your friend, till you abused her., Your Friend and Servant., Your slave, or vassal., Yours onely, to be commanded., Yours, not to live without you., Yours, wholly at your Command., Your Debtor, and your Servant., Your very Friend, and Servant., Your obsequious Servant., , Nons but yours,, and, Yours till death., , Yours in the way of Friendship., Your abused Martyr., A Sacrifice to Love, and you., Your most abused Friend., Yours, though hugely wronged., Your Friend and Servant., Yours, if you think me worthy., Your Beauties slave., Yours, and onely yours., Yours for ever., Your Devout Admirer., Yours, if you please., Yours, if you think fit., Thy sorrowful and miserable Wife., Yours languishing., Yours, as you shall please., Yours., thy affectionate Servitor., Yours., Your affectionate real Friend., Yours, if it may be., yours, wholly at your devotion., Your Honorer, and most humble Servant., Yours, in all occasions., Yours, to serve and honor you., Thy sad, and much injured Husband., Your thankful Servant., Your Friend and Servant., Your hearty real Friend., Yours now, and ever., Your obliged Servant., Your incensed Enemy., Your sad, sorrowful, and afflicted Daughter., Your obedient Vassal., Yours wholly, in the bonds of firm affection., Yours, to love, and live with you., Your loving Friend., Your mortal Enemy., 
 
-[A52865](/miscellanies/A52865)
+[A52865](/teibp/content/A52865.xml)
 
 ---
 **Author:** Dorset, Charles Sackville, Earl of, 1638?-1706.; Sedley, Charles, Sir, 1639?-1701.; D'Avenant, William, Sir, 1606-1668.
@@ -383,10 +383,10 @@ dutiful and devoted servant, Io. Denham., ,
 
 **Signed by:** Your Majesties most humble servant and obedient subject., Your Majesties Loyal Subject, and most humble Servant., Your Majesties most humble Servant., , the Adorer of your Vertues,, &c., the most affectionate of all your servants., , Your most real, real friend,, &c., Your most humble servant., Your obliged servant., The humblest of your servants., , The Admirer of your Worth,, &c., Your sincere Admirer., Yours., Yours, even in impatience., , Your cordial friend and servant,, &c., Thine once, but now his own., Your faithful servant., Wholly yours., Your affectionate Brother to command., Your real Friend and Servant., , Your very Servant,, &c., Yours., Your very faithful Servant., Your Servant, Or, your Sacrifice., Your eternal Friend., Yours, in the bonds of true affection., Your most affectionate Servant., Your young Adviser., Yours undivided, though at distance., Your debtor, and humble servant., Your Sacrifice., Yours., Yours living, ▪, or in death., Your Friend, so love and serve you., Your cordial well-wisher, and very humble servant., Yours, though in death., Your Friend, if you will be your own., Exceedingly yours., Infinitely yours, to serve you., Your humble Votary., Yours, to perpetuity., Thine onely, and for ever., Your faithful humble servant., Yours ever, in constancy and service., Your friend, till you abused her., Your Friend and Servant., Your slave, or vassal., Yours onely, to be commanded., Yours, not to live without you., Yours, wholly at your Command., Your Debtor, and your Servant., Your very Friend, and Servant., Your obsequious Servant., , Nons but yours,, and, Yours till death., , Yours in the way of Friendship., Your abused Martyr., A Sacrifice to Love, and you., Your most abused Friend., Yours, though hugely wronged., Your Friend and Servant., Yours, if you think me worthy., Your Beauties slave., Yours, and onely yours., Yours for ever., Your Devout Admirer., Yours, if you please., Yours, if you think fit., Thy sorrowful and miserable Wife., Yours languishing., Yours, as you shall please., Yours., thy affectionate Servitor., Yours., Your affectionate real Friend., Yours, if it may be., yours, wholly at your devotion., Your Honorer, and most humble Servant., Yours, in all occasions., Yours, to serve and honor you., Thy sad, and much injured Husband., Your thankful Servant., Your Friend and Servant., Your hearty real Friend., Yours now, and ever., Your obliged Servant., Your incensed Enemy., Your sad, sorrowful, and afflicted Daughter., Your obedient Vassal., Yours wholly, in the bonds of firm affection., Yours, to love, and live with you., Your loving Friend., Your mortal Enemy., 
 
-[A52865](/miscellanies/A52865)
+[A52865](/teibp/content/A52865.xml)
 
 ---
-**Author:** G. H.; G. H. (G. Hussey); G. H. (G. Hooker)
+**Author:** G. H.; G. H. (G. Hussey.xml); G. H. (G. Hooker.xml)
 
 **Title:** Memorabilia mundi, or, Choice memoirs of the history and description of the world by G.H.
 
@@ -399,7 +399,7 @@ humble and moſt grate, ful
 Servant,
 G. H., G. H., 
 
-[A70258](/miscellanies/A70258)
+[A70258](/teibp/content/A70258.xml)
 
 ---
 **Author:** Sedley, Charles, Sir, 1639?-1701. Poems. Selections. 1673.; Etherege, George, Sir, 1635?-1691. Poems. Selections. 1673.; Buckingham, John Sheffield, Duke of, 1648-1720 or 21. Poems. Selections. 1673.; Behn, Aphra, 1640-1689. Poems. Selections. 1673.
@@ -412,10 +412,10 @@ G. H., G. H.,
 
 
 
-[A33849](/miscellanies/A33849)
+[A33849](/teibp/content/A33849.xml)
 
 ---
-**Author:** Digby, Kenelm, Sir, 1603-1665.; Hartman, G. (George)
+**Author:** Digby, Kenelm, Sir, 1603-1665.; Hartman, G. (George.xml)
 
 **Title:** Choice and experimented receipts in physick and chirurgery as also cordial and distilled waters and spirits, perfumes, and other curiosities / collected by ... Sir Kenelm Digby, Knight ...
 
@@ -425,7 +425,7 @@ G. H., G. H.,
 
 **Signed by:** Your Graces most Humbe and Obedient Servant, GEORGE HARTMAN., 
 
-[A35967](/miscellanies/A35967)
+[A35967](/teibp/content/A35967.xml)
 
 ---
 **Author:** Author of Westminster drollery.
@@ -438,7 +438,7 @@ G. H., G. H.,
 
 
 
-[A51044](/miscellanies/A51044)
+[A51044](/teibp/content/A51044.xml)
 
 ---
 **Author:** 
@@ -451,7 +451,7 @@ G. H., G. H.,
 
 
 
-[A52348](/miscellanies/A52348)
+[A52348](/teibp/content/A52348.xml)
 
 ---
 **Author:** 
@@ -464,12 +464,12 @@ G. H., G. H.,
 
 **Signed by:** Huygens de Zulichem., , Anthonius Thysius,, Academiae Rector., , Johan. Pearson,, Magist. Coll., Clem. Nevil., Theod. Crosland., Geo. Chamberlaine., Fran. Barton., Guliel. Lynnett., Gualt. Catsby., Richardus Stedman., Robertus Scott., John Pearson,, Master., , Clem. Nevill., Theod. Crosland., George Chamberlaine., Francis Barton., William Lynnet., Walter Catesby., Richard Stedman., Robert Scott., EDWARD RAINBOWE., , Johan. Pearson,, Magist. Coll, , Geo. Chamberlaine., V, m, , Clem. Nevil., Anth. Marshall., Guliel. Baylie., Richardus Stedman., Rob. Crane., Guliel. Lynnet., Rob. Scott., , Johan. Pearson,, Magist. Coll., Anth. Marshall., Guliel. Lynnet., Richardus Stedman., Rob. Scott., Isaac Barrow., Joannes Hawkins., Robertus Moyle., Guliel. Corker., John Pearson, Master of the Coll., , Geo. Chamberlaine, Vice-Master., , Clem. Nevill., Robert Boreman., William Baylie, Robert Crane., Humphrey Babington., Richard Stedman., Robert Scott., , Johan. Pearson,, Magist. Coll., Clem. Nevil., Theod. Crosland., Anth. Marshall., Georgius Chamberlaine., Franciscus Barton., Robertus Crane., Guliel. Lynnet., Gualterus Catsby., James Fletewood., , Johan. Pearson,, Magist. Coll., , Georgius Chamberlaine,, V, m, ., Clem. Nevil., Rich. Boreman., Guliel. Baylie., Robertus Crane., Humph. Babington., Rich. Stedman., Robertus Scott., , Joann. Pearson,, Magist. Coll., , Geo. Chamberlaine,, V. M., Clem. Nevill., Guliel. Baylie., Rob. Crane., Humph. Babington., Guliel. Lynnet., Rich. Stedman., Jo. Hawkins., Kenelme Digby., Thomas Barlow., William Moore., Thomas Hobbes., Thomas Barlow., Thomas Barlow., David Morton., Thomas Barlow., SORBIERE., D. AUISSONE., J. BRIDGEWATER., CHARLES CHEYNE., BENOIST., Jasper Mayne., Joh. Lich. & Coven., Jos. Glanvill., Robert Creyghtone., Robert Creyghton., Henry More., Walt. Charleton., Jasper Mayne., Thomas Tully., Jasper Maine., Jo. Fell., Jos. Glanvill., S. Tuke., J. FELL., Jos. Glanvill., Jos. Glanvill., J. Fell., Joh. Roffen., Walter Charleton., Huygens de Zulichem., BERKLEY., BERKELEY., Edward Howard., Jos. Glanvill, Tho. Shadwell., Tho. Shadwell., Tho. Shadwell., Bullingbrooke., J. Duartes., Thomas Lockey,, Keeper of the Publick Library., , Jos. Glanvill., Jos. Glanvill., W. Charleton., George Etherege., Thomas Shadwell., , Knightly Chetwood,, Coll. Regal. Cant., Knightly Chetwood,, Coll. Regal. Cantabr., , , Clement Ellis,, Minister., ANDERTON., Tho. Brown,, Coll. Joan. Cantab., , 
 
-[A48252](/miscellanies/A48252)
+[A48252](/teibp/content/A48252.xml)
 
 ---
 **Author:** Hales, John, 1584-1656.; Hales, John, 1584-1656. Tract concerning sin against the Holy Ghost.; Hales, John, 1584-1656. Tract concerning schisme.
 
-**Title:** Several tracts, by the ever memorable Mr. John Hales of Eaton Coll. &c. Viz. I. Of the sacrament of the Lord's Supper. II. Paraphrase on St. Matthew's Gospel. III. Of the power of the keys. IV. Of schism and schismaticks, (never before printed by the original copy.) V. Miscellanies
+**Title:** Several tracts, by the ever memorable Mr. John Hales of Eaton Coll. &c. Viz. I. Of the sacrament of the Lord's Supper. II. Paraphrase on St. Matthew's Gospel. III. Of the power of the keys. IV. Of schism and schismaticks, (never before printed by the original copy..xml) V. Miscellanies
 
 **Date:** 1677
 
@@ -477,7 +477,7 @@ G. H., G. H.,
 
 **Signed by:** Your SERVANT, whom you know., Yours, J. H., 
 
-[A70260](/miscellanies/A70260)
+[A70260](/teibp/content/A70260.xml)
 
 ---
 **Author:** Newcastle, Margaret Cavendish, Duchess of, 1624?-1674.; Newcastle, William Cavendish, Duke of, 1592-1676.
@@ -496,7 +496,7 @@ The Maſter, Fellows, and Scholars, of St., Johns, Coll. in the, Ʋ, niverſity 
 The Maſter and Fellows of St., John's, Colledge., , , John Pearſon, Maſter of the Coll., , , Geo. Chamberlaine, Vice-Maſter., , , Clem. Nevill., , Robert Boreman., , William Baylie, , Robert Crane., , Humphrey Babington., , Richard Stedman., , Robert Scott., , , , , , Johan. Pearſon,, Magiſt. Coll., , Clem. Nevil., , Theod. Croſland., , Anth. Marſhall., , Georgius Chamberlaine., , Franciſcus Barton., , Robertus Crane., , Guliel. Lynnet., , Gualterus Catsby., , , Your Excellencies moſt obſervant Servant, James Fletewood., Excellentiae tuae addictiſſimi, PROCANCELLARI, Ʋ, S, reliquuſque Senat., Acad. Cantab., , Clementiae Tuae devotiſſimis Clientibus, Magiſtro & Sociis Collegii, D., Joannis, Evangeliſtae in Academiâ, Cantabrigienſi., , Your Graces moſt Humble and moſt Devoted Servants, The VICE-CHANCELLOR and the whole Senate of the Univerſity of, Cambridge., , Eminentiae tuae cupientiſſimi PROCANCELLARI, Ʋ, S reliquuſque Senat., Acad. Cantab., , , , , Johan. Pearſon,, Magiſt. Coll., , , Georgius Chamberlaine,, V, m, ., , Clem. Nevil., , Rich. Boreman., , Guliel. Baylie., , Robertus Crane., , Humph. Babington., , Rich. Stedman., , Robertus Scott., , , Celſitudini Veſtrae devotiſſimi, , , Joann. Pearſon,, Magiſt. Coll., , , Geo. Chamberlaine,, V. M., , Clem. Nevill., , Guliel. Baylie., , Rob. Crane., , Humph. Babington., , Guliel. Lynnet., , Rich. Stedman., , Jo. Hawkins., , , Devotiſſimi Tibi, Magiſter & Socii Collegii, D., Joannis, Evangeliſtae in Academiâ, Cantabrigienſi., , Celſitudinis Veſtrae humillimi Oratores,, Magiſter, Socii & Scholares, Collegii Divi, Johannis, Evangeliſtae in Academià CANTABRIGIENSI,, Eminentiae tuae addictiſſimi, PROCANCELLARI, Ʋ, S, reliquuſque Senat., Acad. Cantab., , Your Graces moſt Humble and moſt Affectionate Servants,
 The VICE-CHANCELLOR and the whole Senate of the Univerſity of, Cambridge., , Your Excellencies moſt Humble and moſt Obedient Servant, Kenelme Digby., Your Honours moſt Obliged Humble Servant, Thomas Barlow., Your Excellencies moſt Humble and Thankful Servant, William Moore., Your Excellencies moſt humble Servant Thomas Hobbes., Your Excellencies moſt devoted and moſt humble Servant, Thomas Barlow., Your Honours moſt Obliged, Humble Beadſman, Thomas Barlow., Your Excellencies moſt Humble moſt Obedient, Obliged, and, Ʋ, nworthy Servant, and Vaſſall David Morton., Your Grace's moſt Obliged, Faithful and Humble Servant, Thomas Barlow, Voſtre tres Humble & tres Obeiſſant Serviteur SORBIERE., De Voſtre Tres-Illuſtre Alteſſe le Tres-humble & Tres-obeiſſant Serviteur, D. AUISSONE., Your Ladyſhip's moſt humble Servant J. BRIDGEWATER., Your Excellencies Higheſt Honourer and Humbleſt Servant CHARLES CHEYNE., Your Excellencies moſt Humble moſt Obedient and moſt Faithful Servant, BENOIST., Your Ladyſhips true Honourer, Jaſper Mayne., Your Excellencies Moſt Devoted Servant, Joh. Lich. & Coven., Your Grace's Moſt Humbly Devoted Servant, Joſ. Glanvill., Your Honours moſt Humble and moſt Devoted Servant, Robert Creyghtone., Your Excellencies moſt Obliged, and moſt affectionate Servant, and Beadsman. Robert Creyghton., Your Ladyſhips moſt Humble and Thankful Admirer, Henry More., Your Excellencies moſt humble Servant, Walt. Charleton., Your Ladyſhips real Honourer, And moſt Obliged Servant, Jaſper Mayne., Your moſt humble Servant, Thomas Tully., A moſt real Honourer And Devoted Servant, Jaſper Maine., Your Excellencies Moſt Humble and Obliged Servant, Jo. Fell., Your Grace's moſt Humble and moſt devoted Servant, Joſ. Glanvill., Your Ladyſhips moſt Humble and moſt Obedient Servant S. Tuke., Your moſt Faithful Hamble Servant, J. FELL., Your Grace's moſt Obedient And moſt Obliged Servant, Joſ. Glanvill., Your Grace's moſt Humble Honourer and Servant, Joſ. Glanvill., Your Grace's Most Obedient moſt Humble, And moſt Faithful Servant, J. Fell., Your Grace's moſt Obedient Souldier and Servant, Joh. Roffen., Your Graces, Juſt Honourer, and moſt Intirely Devoted Servant, Walter Charleton., Your Excellencies moſt Humble and moſt Obedient Servant, Huygens de Zulichem., Your Graces very great Honourer, And moſt Devoted Humble Servant, BERKLEY., Your Grace's high Honourer, And moſt Obedient Servant, BERKELEY., Your Graces Very Humble Servant, Edward Howard., Your Graces Moſt Obedient Servant, Joſ. Glanvill, Your Graces moſt Obliged Humble Servant, Tho. Shadwell., Your Graces moſt Humbly Devoted Servant, Tho. Shadwell., Your Graces moſt Humble, and moſt Obedient Servant, Tho. Shadwell., Your Ladyſhips Moſt Devoted, Humble, and Obliged Servant, Bullingbrooke., Your Graces, Moſt Humble and moſt Obedient Servant, J. Duartes., Your Excellencies moſt Humble and Devoted Servant, Thomas Lockey,, Keeper of the Publick Library., , The Humbleſt of your Graces Admirers, and Servants, Joſ. Glanvill., Your Graces Humble Admirer, and Devoted Servant, Joſ. Glanvill., Your Eternal Honourer, and Faithful Servant, W. Charleton., George Etherege., Thomas Shadwell., , Knightly Chetwood,, Coll. Regal. Cant., Knightly Chetwood,, Coll. Regal. Cantabr., , , Clement Ellis,, Miniſter., ANDERTON., Tho. Brown,, Coll. Joan. Cantab., , 
 
-[A33819](/miscellanies/A33819)
+[A33819](/teibp/content/A33819.xml)
 
 ---
 **Author:** Kilburne, Richard, 1605-1678.; G. F., of Grayes-Inn.
@@ -509,7 +509,7 @@ The VICE-CHANCELLOR and the whole Senate of the Univerſity of, Cambridge., , Yo
 
 **Signed by:** G. F., H. J. K. L., R. H., A. B. C. D. E. F., , A. B., of,, &c. C. D., of,, &c. E. F., of,, &c., , W. B. R. K., A. B. C. D. E. F. &c., A. B. C. D. &c., , A. B., xij., d. C. D., vi., d., , , A. B., of,, &c. &c., as many as be, ▪, , , C. D., of,, &c. &c., as many as be, ▪, , A. B., T. G., R. W., A. B., R. R., R. K. R. H. T. B., R. K. T. H., I. C., A. B. C. D.., A. B. C. D. &c., A. B., A. B. C. D. E. F. G. H., G. R., A. B. C. D., H. B., P. S., A. B. C. D., A. B., R. K., R. K., 
 
-[A47352](/miscellanies/A47352)
+[A47352](/teibp/content/A47352.xml)
 
 ---
 **Author:** 
@@ -522,10 +522,10 @@ The VICE-CHANCELLOR and the whole Senate of the Univerſity of, Cambridge., , Yo
 
 **Signed by:** C. R., 
 
-[A80305](/miscellanies/A80305)
+[A80305](/teibp/content/A80305.xml)
 
 ---
-**Author:** Digby, Kenelm, Sir, 1603-1665.; Hartman, G. (George)
+**Author:** Digby, Kenelm, Sir, 1603-1665.; Hartman, G. (George.xml)
 
 **Title:** A choice collection of rare secrets and experiments in philosophy as also rare and unheard-of medicines, menstruums and alkahests : with the true secret of volatilizing the fixt salt of tartar / collected and experimented by the honourable and truly learned Sir Kenelm Digby, Kt., Chancellour to Her Majesty the Queen-Mother ; hitherto kept secret since his decease, but now published for the good and benefit of the publick by George Hartman.; Choice collection of rare secrets and experiments in philosophy
 
@@ -537,7 +537,7 @@ The VICE-CHANCELLOR and the whole Senate of the Univerſity of, Cambridge., , Yo
 Most Obedient, and
 Most Devoted Servant,, George Hartma, , •, , , , R. F., 
 
-[A35968](/miscellanies/A35968)
+[A35968](/teibp/content/A35968.xml)
 
 ---
 **Author:** Dryden, John, 1631-1700.; Sprat, Thomas, 1635-1713.; Waller, Edmund, 1606-1687.
@@ -551,7 +551,7 @@ Most Devoted Servant,, George Hartma, , •, , , , R. F.,
 **Signed by:** Your most Devoted and
 Obliged Servant., 
 
-[A36701](/miscellanies/A36701)
+[A36701](/teibp/content/A36701.xml)
 
 ---
 **Author:** Anacreon.; Willis, Francis, b. 1663 or 4.; Cowley, Abraham, 1618-1667.; Oldham, John, 1653-1683.; Wood, Thomas, 1661-1722.; S. B.
@@ -564,7 +564,7 @@ Obliged Servant.,
 
 **Signed by:** S. B., 
 
-[A25322](/miscellanies/A25322)
+[A25322](/teibp/content/A25322.xml)
 
 ---
 **Author:** D'Urfey, Thomas, 1653-1723.; Playford, John, 1623-1686?
@@ -577,7 +577,7 @@ Obliged Servant.,
 
 
 
-[A36961](/miscellanies/A36961)
+[A36961](/teibp/content/A36961.xml)
 
 ---
 **Author:** University of Oxford.; Birkhead, Henry, 1617?-1696.
@@ -591,7 +591,7 @@ Obliged Servant.,
 **Signed by:** Your Lordſhips moſt Humbly
 Devoted. Servant,, Henry Birkhead., , Thomas Maſters., Robert Grave., Jaſper Main., William Cartwright., William Barker., Dudley Diggs., John Birkinhead., Robert Maſters., William Creed., Peter Mew., Henry Love., Henry Birkhead., Martin L Lewellin., CHARLES R., CHARLES R., BATHE., Sunderland., Bathe., CHARLES R., Edw. Nicholas., 
 
-[A53879](/miscellanies/A53879)
+[A53879](/teibp/content/A53879.xml)
 
 ---
 **Author:** Dryden, John, 1631-1700.
@@ -604,7 +604,7 @@ Devoted. Servant,, Henry Birkhead., , Thomas Maſters., Robert Grave., Jaſper M
 
 **Signed by:** John Dryden., 
 
-[A36697](/miscellanies/A36697)
+[A36697](/teibp/content/A36697.xml)
 
 ---
 **Author:** Tate, Nahum, 1652-1715.
@@ -617,7 +617,7 @@ Devoted. Servant,, Henry Birkhead., , Thomas Maſters., Robert Grave., Jaſper M
 
 **Signed by:** Your Lorships most obedient Servant,, N. TATE., , 
 
-[A63107](/miscellanies/A63107)
+[A63107](/teibp/content/A63107.xml)
 
 ---
 **Author:** Carr, Robert, fl. 1686-1696.; Playford, John, 1623-1686?
@@ -630,7 +630,7 @@ Devoted. Servant,, Henry Birkhead., , Thomas Maſters., Robert Grave., Jaſper M
 
 **Signed by:** Your Servant,, ROBERT CARR., , 
 
-[A34569](/miscellanies/A34569)
+[A34569](/teibp/content/A34569.xml)
 
 ---
 **Author:** Kent, Elizabeth Grey, Countess of, 1581-1651.; W. J.
@@ -652,7 +652,7 @@ W. J., Thine on the
 like occasion,
 W. L., 
 
-[A47269](/miscellanies/A47269)
+[A47269](/teibp/content/A47269.xml)
 
 ---
 **Author:** Barker, Jane.
@@ -665,7 +665,7 @@ W. L.,
 
 **Signed by:** B. CRAYLE., PHILASTER., C. G., EXILIUS., , M. Heliogenes, de L' Epi., Philos., ac Med. P., , S. C., Esq., FIDELIUS., T. S., PHILASTER., EXILIUS., , Yours,, I. Whitehall., C. G., 
 
-[A30923](/miscellanies/A30923)
+[A30923](/teibp/content/A30923.xml)
 
 ---
 **Author:** Dryden, John, 1631-1700.
@@ -678,7 +678,7 @@ W. L.,
 
 **Signed by:** Middleton., 
 
-[A36608](/miscellanies/A36608)
+[A36608](/teibp/content/A36608.xml)
 
 ---
 **Author:** Tallemant, Paul, 1642-1712.; Behn, Aphra, 1640-1689.
@@ -693,7 +693,7 @@ W. L.,
 most oblig'd,
 and obedient Servant,, A. BEHN., , Kendrick., R. L. S., A. B., 
 
-[A62661](/miscellanies/A62661)
+[A62661](/teibp/content/A62661.xml)
 
 ---
 **Author:** Marvell, Andrew, 1621-1678.
@@ -706,7 +706,7 @@ and obedient Servant,, A. BEHN., , Kendrick., R. L. S., A. B.,
 
 **Signed by:** Your most Devoted and Obliged Servant., 
 
-[A33850](/miscellanies/A33850)
+[A33850](/teibp/content/A33850.xml)
 
 ---
 **Author:** Goodall, Charles, 1671-1689.
@@ -720,7 +720,7 @@ and obedient Servant,, A. BEHN., , Kendrick., R. L. S., A. B.,
 **Signed by:** Rob. Midgley., Your
 Dutiful Scholar,, &c., , C. O., 
 
-[A41430](/miscellanies/A41430)
+[A41430](/teibp/content/A41430.xml)
 
 ---
 **Author:** Marvell, Andrew, 1621-1678.; Dryden, John, 1631-1700.; Sprat, Thomas, 1635-1713.; Waller, Edmund, 1606-1687.
@@ -733,7 +733,7 @@ Dutiful Scholar,, &c., , C. O.,
 
 **Signed by:** Your moſt Devoted and Obliged Servant., 
 
-[A80112](/miscellanies/A80112)
+[A80112](/teibp/content/A80112.xml)
 
 ---
 **Author:** Addison, Joseph, 1672-1719.
@@ -746,7 +746,7 @@ Dutiful Scholar,, &c., , C. O.,
 
 **Signed by:** THO. MASTERS,, A. M. Nov. Coll. Oxon. Soc., , RAD. BATHURST,, A. M. Coll. Trin. Oxon. Soc., , R. B., M. A., , RAD. BATHURST,, M. D. Coll. Trin. Soc., , RAD. BATHURST,, M. D. Coll. Trin. Soc., , RAD. BATHURST,, M. D. Coll. Trin. Oxon. Soc., , PHILIPPUS FELL,, Med. Stud. Oxon., , PHILIPPUS FELL,, A. M. Coll. Omn. Anim. Oxon. Soc., , PHIL. FELL,, A. M. ex Aede Christ., , PHIL. FELL,, A. M. Omn. Anim. Coll., , PHIL. FELL,, S. T. B. Coll. Omn. Anim. Socius., , T. BROWN,, ex Aede Christ., , FR. HARDING,, A. M. Coll. Div. Joh. Bapt. Soc., , RIC. DYTON,, Armig. è Coll. D. Joh. B. Com. Gen., , JAC. NEWTON,, Armig. è Coll. Trin. Oxon. Socio-Commens., , ED. HANNES,, A. M. ex Aede Christi, Oxon., , NIC. HOBART,, Armiger, è Coll. Trin. Oxon., , CORB. OWEN,, ex Aede Christi., , ROB. GROVIUS,, A. M. Cantab., , , Honoratiss., LEOPOLDUS WILLIAM FINCH,, ex Aede Christi., , , Honoratiss., GEO. COMPTON,, ex Aede Christi., , , Honoratiss., H. MORDANT,, ex Aede Christi., , HEN. WICHAM,, Coll. Regal. Cantabrig., , JOH. WHITFELD,, A. B. Coll. Merton., , JO. WHITFELD,, A. M. Coll. Mert. Soc., , JO. NORRIS,, A. M. Coll. Omn. An. Soc., , JAC. WINDETT,, M. D. Coll. Med. Lond. Soc. & Coll. Reginal. Cantabrig., , , , ARTHURUS KEYE,, Armig. ex Aede Christi., , , WALLER BACON,, Armig. ex Aede Christi., , , ED. STRADLING,, Armig. ex Aede Christi., , , GEO. DIXON,, Armig. ex Aede Christi., , , CHRISTOPH. CODRINGTON,, Armig. ex Aede Christi., , , GUL. WOOWARD,, Armig. ex Aede Christi., , , , RAPH. THORIUS,, M. D., , ED. HANNES,, A. M. ex Aede Christ. Oxon. & Academ. P. P. Chymiae., , 
 
-[A51646](/miscellanies/A51646)
+[A51646](/teibp/content/A51646.xml)
 
 ---
 **Author:** Walsh, William, 1663-1708.
@@ -760,7 +760,7 @@ Dutiful Scholar,, &c., , C. O.,
 **Signed by:** Your most passionate Admirer., Your most affectionate and passionate
 Lover and Servant., Your most humble Servant., Your most humble Servant., Your, &c., Your, &c., Your, &c., Your, &c., Your,, &c., , Your,, &c., , Yours., Your, &c., Yours, while, W. S., , 
 
-[A67452](/miscellanies/A67452)
+[A67452](/teibp/content/A67452.xml)
 
 ---
 **Author:** Buckingham, George Villiers, Duke of, 1628-1687.; Cowley, Abraham, 1618-1667.; Milton, John, 1608-1674.; Behn, Aphra, 1640-1689.; Congreve, William, 1670-1729.; Dacier, Andr, 1651-1722.; Gildon, Charles, 1665-1724.
@@ -773,7 +773,7 @@ Lover and Servant., Your most humble Servant., Your most humble Servant., Your, 
 
 **Signed by:** Your humble Servant Charles Gildon., 
 
-[A70171](/miscellanies/A70171)
+[A70171](/teibp/content/A70171.xml)
 
 ---
 **Author:** Dennis, John, 1657-1734.
@@ -789,7 +789,7 @@ most Humble, Most Obedient,
 and most faithful Servant,
 JOHN DENNIS., I am, &c., I am, &c., 
 
-[A35672](/miscellanies/A35672)
+[A35672](/teibp/content/A35672.xml)
 
 ---
 **Author:** Dryden, John, 1631-1700.; Fracastoro, Girolamo, 1478-1553. Syphilis.; Tate, Nahum, 1652-1715.
@@ -803,7 +803,7 @@ JOHN DENNIS., I am, &c., I am, &c.,
 **Signed by:** Your Lordship's most
 Obedient Servant,, John Dryden., , Your very humble Servant, JACOB TONSON., , R. B. T., 
 
-[A36624](/miscellanies/A36624)
+[A36624](/teibp/content/A36624.xml)
 
 ---
 **Author:** Buckingham, George Villiers, Duke of, 1628-1687.
@@ -817,7 +817,7 @@ Obedient Servant,, John Dryden., , Your very humble Servant, JACOB TONSON., , R.
 **Signed by:** Your Humble Servant,
 CHARLES GILDON., L. M., 
 
-[A29976](/miscellanies/A29976)
+[A29976](/teibp/content/A29976.xml)
 
 ---
 **Author:** Collier, Jeremy, 1650-1726.
@@ -830,7 +830,7 @@ CHARLES GILDON., L. M.,
 
 **Signed by:** Your humble Servant., Your Servant., 
 
-[A33912](/miscellanies/A33912)
+[A33912](/teibp/content/A33912.xml)
 
 ---
 **Author:** Dryden, John, 1631-1700.
@@ -843,12 +843,12 @@ CHARLES GILDON., L. M.,
 
 
 
-[A36597](/miscellanies/A36597)
+[A36597](/teibp/content/A36597.xml)
 
 ---
 **Author:** Milton, John, 1608-1674.; Cleveland, John, 1613-1658. On the memory of Mr. Edward King, drown'd in the Irish seas.; Hog, William, b. ca. 1652.
 
-**Title:** Paraphrasis Latina, in duo poemata (quorum alterum a Miltono, alterum a Clievelando Anglice scriptum suit) quibus deploratur mors juvenis prclari & eruditi, D. Edvardi King, qui nave, qua vectabatur, saxo illisa, in Oceano Hybernico submersus est, autore Gulielmo Hogo = Two poems : (the one whereof was penn'd by Milton, and the other by Clieveland) upon the death of a worthy and learned young gentleman, Mr. Edward King, who was drown'd in the Irish seas ; to which is added a Latin paraphrase on both, which was penn'd by W.H.; Lycidas. Latin. 1694
+**Title:** Paraphrasis Latina, in duo poemata (quorum alterum a Miltono, alterum a Clievelando Anglice scriptum suit.xml) quibus deploratur mors juvenis prclari & eruditi, D. Edvardi King, qui nave, qua vectabatur, saxo illisa, in Oceano Hybernico submersus est, autore Gulielmo Hogo = Two poems : (the one whereof was penn'd by Milton, and the other by Clieveland.xml) upon the death of a worthy and learned young gentleman, Mr. Edward King, who was drown'd in the Irish seas ; to which is added a Latin paraphrase on both, which was penn'd by W.H.; Lycidas. Latin. 1694
 
 **Date:** 1694
 
@@ -856,7 +856,7 @@ CHARLES GILDON., L. M.,
 
 
 
-[A50935](/miscellanies/A50935)
+[A50935](/teibp/content/A50935.xml)
 
 ---
 **Author:** Collier, Jeremy, 1650-1726.
@@ -869,7 +869,7 @@ CHARLES GILDON., L. M.,
 
 
 
-[A33913](/miscellanies/A33913)
+[A33913](/teibp/content/A33913.xml)
 
 ---
 **Author:** Aubrey, John, 1626-1697.
@@ -889,7 +889,7 @@ I. G., Your most Faithful, Chedzoy., and Affectionate Servant,, Andrew Paschal.,
 and Humble Servant,, Your Faithful Friend
 and Servant., 
 
-[A26190](/miscellanies/A26190)
+[A26190](/teibp/content/A26190.xml)
 
 ---
 **Author:** Tate, Nahum, 1652-1715.
@@ -904,7 +904,7 @@ and Servant.,
 most humble, and
 Obedient Servant,, N. Tate., , 
 
-[A62987](/miscellanies/A62987)
+[A62987](/teibp/content/A62987.xml)
 
 ---
 **Author:** Tate, Nahum, 1652-1715.
@@ -919,7 +919,7 @@ Obedient Servant,, N. Tate., ,
 most humble, and
 Obedient Servant,, N. Tate., , 
 
-[A62987](/miscellanies/A62987)
+[A62987](/teibp/content/A62987.xml)
 
 ---
 **Author:** Buckingham, George Villiers, Duke of, 1628-1687.
@@ -932,7 +932,7 @@ Obedient Servant,, N. Tate., ,
 
 **Signed by:** Your most Devoted, and Obliged Servant., A. Marvell., A. Marvell., 
 
-[A55276](/miscellanies/A55276)
+[A55276](/teibp/content/A55276.xml)
 
 ---
 **Author:** Rochester, John Wilmot, Earl of, 1647-1680.; Otway, Thomas, 1652-1685.; Brown, Thomas, 1663-1704.; Cheek, Thomas.; Philips, Katherine, 1631-1664.; Dennis, John, 1657-1734.
@@ -945,7 +945,7 @@ Obedient Servant,, N. Tate., ,
 
 **Signed by:** Your most humble and most obliged Servant,, T. BROWN., , SAM. BRISCOE., ROCHESTER., ROCHESTER., Your faithful, affectionate, humble Servant,, ROCHESTER., , Your most affectionate, obliged, humble Servant,, ROCHESTER., , Your humble Servant,, ROCHESTER., , I am your faithful, oblig'd, humble Servant,, ROCHESTER., , ROCHESTER., Your humble and most affectionate faithful Servant,, ROCHESTER., , ROCHESTER., From your obedient humble Servant,, ROCHESTER., , ROCHESTER., Your Hearty, Faithful, Affectionate, Humble Servant,, ROCHESTER., , ROCHESTER., ROCHESTER., Vostre fidelle, amy & tres humble Serviteur,, ROCHESTER., , Your humble Servant,, ROCHESTER., , Your faithful, humble Servant,, ROCHESTER., , Your most Ready and most Obedient Servant,, ROCHESTER., , Your Affectionate, Le—, , A most affectionate Servant,, A. SIDNEY., , AMYNTAS., AMYNTAS,, OTWAY., OTWAY., OTWAY., your Affectionate Friend, and Servant,, &c., , Your Lordship's most humble, and most obedient Servant,, BALZAC., , Your Lordship's most Humble and Obedient Servant,, VOITURE., , Yours,, &c., , Your most lost and unfortunate humble Servant, Your humble Servant., Yours,, &c., , Yours., Yours., Yours., Her humble and eternally obliged Servant., Your Vngrateful., Your real humble Servant., Your real humble Servant., Your Ladiship's most faithful Servant, and passionate Friend, ORINDA., Your faithfully affectionate Friend, and humble Servant,, ORINDA., , Your Ladiship's most Faithful and most Passionate Friend and Servant,, ORINDA., , Your Ladiship's most affectionate humble Servant and Friend,, K. Phillips., , Your Friend,, &c., , I am your most obliged Servant,, T. BROWN., , T. BROWN., Your most obliged Servant,, T. BROWN., , LYSANDER., Yours,, T. BROWN., , MIRTILLO., MIRTILLO., Your most obliged Servant., T. BROWN., , Your most humble Servant,, T. BROWN., , Your most Obliged Friend, and Servant,, T. BROWN., , Your Lordship's Humble Servant,, AYLOFFE., , 
 
-[A57489](/miscellanies/A57489)
+[A57489](/teibp/content/A57489.xml)
 
 ---
 **Author:** Purcell, Henry, 1659-1695.
@@ -964,7 +964,7 @@ Organiſt of, Hereford., , I am Your Lordſhips moſt Humble and Obliged Servant
 HENRY PLAYFORD., H. P., R. G., P. K., H. Hall,
 Organiſt of, Hereford., , 
 
-[A56293](/miscellanies/A56293)
+[A56293](/teibp/content/A56293.xml)
 
 ---
 **Author:** D'Urfey, Thomas, 1653-1723.; Playford, Henry, b. 1657.
@@ -977,7 +977,7 @@ Organiſt of, Hereford., ,
 
 **Signed by:** , Your most Oblig'd and Humble Servant,, T. D'urfey., 
 
-[A36960](/miscellanies/A36960)
+[A36960](/teibp/content/A36960.xml)
 
 ---
 **Author:** Brown, Thomas, 1663-1704.
@@ -990,7 +990,7 @@ Organiſt of, Hereford., ,
 
 **Signed by:** , Your Loving Friend,, O. S., 
 
-[A34124](/miscellanies/A34124)
+[A34124](/teibp/content/A34124.xml)
 
 ---
 **Author:** Dunton, John, 1659-1733.; Nicholas, Jane, d. 1708.; Larkin, George, Sr.
@@ -1008,7 +1008,7 @@ IOHN DVNTON., Your most Obliged
  Humble Servant,
 John Dunton, 
 
-[A36897](/miscellanies/A36897)
+[A36897](/teibp/content/A36897.xml)
 
 ---
 **Author:** Halifax, George Savile, Marquis of, 1633-1695.; Settle, Elkanah, 1648-1724. Sacellum appollinare.
@@ -1023,6 +1023,6 @@ John Dunton,
 T. W., M. G., Very humble Servant,
 Halli, , •, , ax., 
 
-[A44782](/miscellanies/A44782)
+[A44782](/teibp/content/A44782.xml)
 
 ---

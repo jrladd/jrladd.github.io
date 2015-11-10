@@ -6,7 +6,7 @@ var autocomplete = function(array) {
 	});
 };
 
-var width = 1200,
+var width = 1000,
     height = 750;
 
 var color = d3.scale.category20();

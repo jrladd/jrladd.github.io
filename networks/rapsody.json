@@ -1,0 +1,35 @@
+{
+  "nodes":[
+    {"name":"Francis Davison","group":1},
+    {"name":"Walter Davison","group":1},
+    {"name":"Philip Sidney","group":2},
+    {"name":"Mary Herbert","group":2},
+    {"name":"Edmund Spenser","group":3},
+    {"name":"Anomos","group":3},
+    {"name":"V. Simmes","group":4},
+    {"name":"John Baily","group":4},
+    {"name":"William Herbert","group":5},
+    {"name":"Poetical Rapsody","group":6}
+  ],
+  "links":[
+    {"source":0,"target":6,"value":1},
+    {"source":0,"target":7,"value":1},
+    {"source":1,"target":0,"value":1},
+    {"source":2,"target":6,"value":1},
+    {"source":2,"target":8,"value":1},
+    {"source":3,"target":6,"value":1},
+    {"source":3,"target":8,"value":1},
+    {"source":4,"target":6,"value":1},
+    {"source":5,"target":0,"value":1},
+    {"source":6,"target":0,"value":1},
+    {"source":6,"target":7,"value":1},
+    {"source":7,"target":0,"value":1},
+    {"source":7,"target":6,"value":1},
+    {"source":8,"target":0,"value":1},
+    {"source":8,"target":6,"value":1},
+    {"source":8,"target":7,"value":1},
+    {"source":0,"target":9,"value":1},
+    {"source":6,"target":9,"value":1},
+    {"source":7,"target":9,"value":1}
+  ]
+}

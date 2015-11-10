@@ -8,8 +8,7 @@ title: " Dedications"
 - Double-click or scroll (gently) to zoom
 - Red = persons
 - Blue = texts
-- To search, type any search term and hit enter
-- To clear a previous search, empty the search box and hit enter
+- To search, type any search term, select an option from the list, and hit the button
 - When in doubt, refresh the page
 
 <div class="ui-widget">
