@@ -1,8 +1,12 @@
 name: jrladd
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 safe: true
 lsi: false
 description: Still learning how to read.
 url: http://jrladd.com
 permalink: /:title.html
+
+twitter_username:     jrlstl
+github_username:      jrladd
+instagram_username:    jrlstl
