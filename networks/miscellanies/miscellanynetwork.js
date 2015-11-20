@@ -33,7 +33,7 @@ var edge_threshold_scale = d3.scale.pow()
 	.exponent(9)
 	.domain([0, 100])
 	.range([0, 100]);
-	
+
 var force = d3.layout.force()
     .charge(-120)
     .linkDistance(70)
@@ -53,31 +53,31 @@ function redraw() {
 	"translate(" + d3.event.translate + ")"
 	+ " scale(" + d3.event.scale + ")");
 	}
-	
+
 
 d3.json("miscellany_network.json", function(error, g) {
   if (error) throw error;
   graph = g;
   drawNetwork();
   });
-  
+
 function drawNetwork(threshold) {
 	if(arguments.length == 0)
-		threshold = 0; 	
+		threshold = 0;
 
   force
       .nodes(graph.nodes)
       .links(graph.links)
       .start();
 
-	var links = selectLinks(graph, threshold); 
+	var links = selectLinks(graph, threshold);
 	var nodes = selectNodes(graph, links);
 
 	force
       .nodes(graph.nodes)
       .links(links)
       .start();
-      
+
   var link = vis.selectAll(".link")
       .data(links)
     .enter().append("line")
@@ -93,14 +93,14 @@ function drawNetwork(threshold) {
 //      .attr("r", 5)
       .style("fill", function(d) {if (d.group==1) {return "red"; } else if (d.group==2) {return "blue"; } else if (d.group==3 || d.group==5) { return "#999"; } else {return "purple";};})
       .call(force.drag)
-      .on('mouseover', connectedNodes) //Added code 
+      .on('mouseover', connectedNodes) //Added code
       .on('mouseout', releaseNodes);
 
   node.append("title")
       .text(function(d) { return d.name; });
-      
 
-		  
+
+
   force.on("tick", function() {
     link.attr("x1", function(d) { return d.source.x; })
         .attr("y1", function(d) { return d.source.y; })
@@ -109,16 +109,16 @@ function drawNetwork(threshold) {
 
     node.attr("cx", function(d) { return d.x; })
         .attr("cy", function(d) { return d.y; });
-        
+
 	var optArray = [];
 	for (var i = 0; i < graph.nodes.length - 1; i++) {
 		optArray.push(graph.nodes[i].name);
 	}
 	optArray = optArray.sort();
 	autocomplete(optArray);
-    
+
   });
-  
+
 	  //Toggle stores whether the highlighting is on
 	var toggle = 0;
 	//Create an array logging what is connected to what
@@ -159,7 +159,7 @@ function drawNetwork(threshold) {
 			toggle=0;
 		}
 	}
-	
+
 }
 
 
@@ -205,7 +205,7 @@ function selectNodes(js, lnks){
 	for(i = 0; i < lnks.length; i++){
 		n = js.nodes[lnks[i].source.index];
 		if(nds.indexOf(n) == -1)
-			nds.push(n);	
+			nds.push(n);
 		n = js.nodes[lnks[i].target.index];
 		if(nds.indexOf(n) == -1)
 			nds.push(n);
