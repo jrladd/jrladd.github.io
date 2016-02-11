@@ -24,40 +24,31 @@
     <body>
 
         <div class="site">
-          <div class='sidebar'>
-            <div class="header">
-              <h1 class="title"><a href="/">jrladd{{ page.title | downcase | replace: ' ' , '_' | truncate: 20 }}</a></h1>
-      	    	<a class="extra" href="/">home</a>
-      	    	<a class="extra" href="/projects">projects</a>
-      	    	<a class="extra" href="/blog">blog</a>
-              <a class="extra" href="/cv">cv</a>
-            </div>
-            <div class='quote'>"A preface, therefore, which is but a bespeaking of favour, is altogether useless." <br/>—John Dryden's Twitter Bio</div>
-            <div class="footer">
-              <div class="contact">
-                <p>
-                  J.R. Ladd<br />
-                  johnrobertladd[at]gmail
-                </p>
-                  {% if site.twitter_username %}
-                      <a href="https://twitter.com/{{ site.twitter_username }}">
-                        <i class="fa fa-twitter"></i>
-                      </a>
-                  {% endif %}
-                  {% if site.github_username %}
-                      <a href="https://github.com/{{ site.github_username }}">
-                        <i class="fa fa-github"></i>
-                      </a>
-                  {% endif %}
-                  {% if site.instagram_username %}
-                      <a href="https://instagram.com/{{ site.instagram_username }}">
-                        <i class="fa fa-instagram"></i>
-                      </a>
-                  {% endif %}
-                  <br />
-              </div>
-            </div>
-          </div>
+
+            <ul class="header">
+              <li class="title"><a href="/">jrladd{{ page.title | downcase | replace: ' ' , '_' | truncate: 10 }}</a></li>
+      	    	<li><a class="extra" href="/">about</a></li>
+      	    	<li><a class="extra" href="/projects">projects</a></li>
+      	    	<li><a class="extra" href="/blog">blog</a></li>
+              <li><a class="extra" href="/cv">cv</a></li>
+              <ul class='social'>
+                {% if site.twitter_username %}
+                    <li><a href="https://twitter.com/{{ site.twitter_username }}">
+                      <i class="fa fa-twitter"></i>
+                    </a></li>
+                {% endif %}
+                {% if site.github_username %}
+                    <li><a href="https://github.com/{{ site.github_username }}">
+                      <i class="fa fa-github"></i>
+                    </a></li>
+                {% endif %}
+                {% if site.instagram_username %}
+                    <li><a href="https://instagram.com/{{ site.instagram_username }}">
+                      <i class="fa fa-instagram"></i>
+                    </a></li>
+                {% endif %}
+              </ul>
+            </ul>
           <div class="main">
           {{ content }}
           </div>
