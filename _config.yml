@@ -1,6 +1,5 @@
 name: jrladd
 markdown: kramdown
-pygments: true
 safe: true
 lsi: false
 description: Still learning how to read.
