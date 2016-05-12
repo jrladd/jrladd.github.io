@@ -5,7 +5,7 @@ title: " CV"
 
 # Curriculum Vitae
 
-##Education
+## Education
 
 PhD Candidate, Literature, Washington University in St. Louis, 2012-present
 
@@ -13,7 +13,7 @@ MA, English and American Literature, Georgetown University, 2012
 
 BA, English, Mercyhurst University, 2009
 
-##Publications and Presentations
+## Publications and Presentations
 
 "Making Enemies: Dryden, Rochester, and Collaborative Rivalry." English Dept. Graduate Colloquium. Washington University, April 2015.
 
@@ -31,7 +31,7 @@ BA, English, Mercyhurst University, 2009
 
 "There's an App for That: Modernity at Large and in Your Pocket." Borderlines: Graduate English Organization Conference, March 2011.
 
-##Digital Projects
+## Digital Projects
 
 *Dedication Networks in EEBO-TCP Texts* (in-progress)
 
@@ -39,7 +39,7 @@ BA, English, Mercyhurst University, 2009
 
 *[Endless Monument](https://twitter.com/endlessmonument)*. A deformance exercise for the Spenser Project that uses Python and Twitter's API to tweet lines of Spenser's *Epithalamion* using the poem's own time-scheme.
 
-##Fellowships and Assistantships
+## Fellowships and Assistantships
 
 Spenser Project Graduate Assistantship, Washington University, Spring 2015-Present.
 
@@ -51,7 +51,7 @@ Thresholds of Writing Teaching Fellowship. Georgetown University, 2011-12.
 
 Fellow at Center for New Designs in Learning and Scholarship. Georgetown University, 2010-11.
 
-##Teaching
+## Teaching
 
 **Co-Teaching**: E. Lit. 4-- The Spenser Lab, with Joseph Loewenstein. Washington University, Fall 2016.
 
@@ -65,7 +65,7 @@ E. Lit. 395C Shakespeare. Joseph Loewenstein. Washington University, Spring 2015
 
 ENGL 041-01 Gateway: Turn-of-the-Century Fictions. Maggie Debelius. Georgetown University, Spring 2011.
 
-##Service
+## Service
 
 Co-Founder, Digital Approaches Reading Group (Fall 2015-Present)
 
@@ -77,7 +77,7 @@ Convener, Early Modern Reading Group (Fall 2014)
 
 Editor, *Predicate*: Georgetown University English Studies Journal (2011-12)
 
-##Languages and Technical Skills
+## Languages and Technical Skills
 
 Latin and Greek, reading knowledge
 
