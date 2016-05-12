@@ -37,7 +37,7 @@ BA, English, Mercyhurst University, 2009
 
 *Regularize*. A Python package for modernizing spelling in early modern texts, based on Northwestern University's [MorphAdorner](http://morphadorner.northwestern.edu/). Spring 2016.
 
-*[Endless Monument](https://twitter.com/endlessmonument)*. A deformance exercise for the Spenser Project that uses Python and Twitter's API to tweet lines of Spenser's *Epithalamion* using the poem's own time-scheme.
+*[Endless Monument](https://twitter.com/endlessmonument)*. A deformance exercise for the Spenser Project that uses Python and Twitter's API to tweet lines of Spenser's *Epithalamion* using the poem's own time-scheme. Summer 2014.
 
 ## Fellowships and Assistantships
 
@@ -53,7 +53,7 @@ Fellow at Center for New Designs in Learning and Scholarship. Georgetown Univers
 
 ## Teaching
 
-**Co-Teaching**: E. Lit. 4-- The Spenser Lab, with Joseph Loewenstein. Washington University, Fall 2016.
+**Co-Teaching**: E. Lit. 498W The Spenser Lab, with Joseph Loewenstein. Washington University, Fall 2016.
 
 **Instructor**: Writing I. Washington University, Fall 2014.
 
@@ -83,11 +83,11 @@ Latin and Greek, reading knowledge
 
 Python, programming language, experience with natural language processing
 
-Javascript (include node.js), programming language
+JavaScript (include node.js), programming language
 
-D3.js, javascript visualization library
+D3.js, JavaScript visualization library
 
-TEI and XML markup
+TEI and XML markup, text encoding
 
 Building and maintaining websites using raw HTML and CSS, as well as static-site generators (Jekyll) and content management systems (Wordpress, Drupal)
 
