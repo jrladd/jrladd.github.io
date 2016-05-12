@@ -77,9 +77,7 @@ Convener, Early Modern Reading Group (Fall 2014)
 
 Editor, *Predicate*: Georgetown University English Studies Journal (2011-12)
 
-## Languages and Technical Skills
-
-Latin and Greek, reading knowledge
+## Technical Skills
 
 Python, programming language, experience with natural language processing
 
@@ -92,3 +90,7 @@ TEI and XML markup, text encoding
 Building and maintaining websites using raw HTML and CSS, as well as static-site generators (Jekyll) and content management systems (Wordpress, Drupal)
 
 Web application development, with Flask and Django
+
+## Languages
+
+Latin and Greek, reading knowledge
