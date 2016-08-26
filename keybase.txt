@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/jrladd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jrladd.com
+  * I am jrladd (https://keybase.io/jrladd) on keybase.
+  * I have a public key ASDtsSsyBUWV9gPS1P1QqwmdqNUbpTXVrMRiaDviVzxYjAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ffff655d85af185e285fb0501de396b547b013f30a92ef12f471dd3f7ab132f00a",
+            "host": "keybase.io",
+            "kid": "0120edb12b32054595f603d2d4fd50ab099da8d51ba535d5acc462683be2573c588c0a",
+            "uid": "078b4324b3eaa47d000cac04a68e1719",
+            "username": "jrladd"
+        },
+        "service": {
+            "hostname": "jrladd.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1472224864,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1472224827,
+        "hash": "dc81e2b1f69f0e3cb74387553216e3c561a8e60ae3884adecaf191bcffc4cdce96776e0b0c641b1a8609d62297f1cc514fb0b32cad8c23d75e80a534a514d5c3",
+        "seqno": 603539
+    },
+    "prev": "33f984c0917089545d64aa98bad157857dc6dc4bcd26c438c980941680c6fbfa",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7bErMgVFlfYD0tT9UKsJnajVG6U11azEYmg74lc8WIwKp3BheWxvYWTFAu97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZmZmZjY1NWQ4NWFmMTg1ZTI4NWZiMDUwMWRlMzk2YjU0N2IwMTNmMzBhOTJlZjEyZjQ3MWRkM2Y3YWIxMzJmMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZWRiMTJiMzIwNTQ1OTVmNjAzZDJkNGZkNTBhYjA5OWRhOGQ1MWJhNTM1ZDVhY2M0NjI2ODNiZTI1NzNjNTg4YzBhIiwidWlkIjoiMDc4YjQzMjRiM2VhYTQ3ZDAwMGNhYzA0YTY4ZTE3MTkiLCJ1c2VybmFtZSI6ImpybGFkZCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoianJsYWRkLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0NzIyMjQ4NjQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MjIyNDgyNywiaGFzaCI6ImRjODFlMmIxZjY5ZjBlM2NiNzQzODc1NTMyMTZlM2M1NjFhOGU2MGFlMzg4NGFkZWNhZjE5MWJjZmZjNGNkY2U5Njc3NmUwYjBjNjQxYjFhODYwOWQ2MjI5N2YxY2M1MTRmYjBiMzJjYWQ4YzIzZDc1ZTgwYTUzNGE1MTRkNWMzIiwic2Vxbm8iOjYwMzUzOX0sInByZXYiOiIzM2Y5ODRjMDkxNzA4OTU0NWQ2NGFhOThiYWQxNTc4NTdkYzZkYzRiY2QyNmM0MzhjOTgwOTQxNjgwYzZmYmZhIiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAsPasz9TR7HbPP+NWJHtjLDfWv0lPz6KyPC5faXkuPzpp6CX4oesWBRHBTrJnffdiNbadnb+B5pOvgv0JqjDAB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILzVatLwA+IAwXo1IVEb20+Ja/k7hISy0UrS7+AtNKW2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jrladd
+
+==================================================================
