@@ -15,6 +15,8 @@ BA, English, Mercyhurst University, 2009
 
 ## Publications and Presentations
 
+"University Politics: Locke, Dryden, and the Social Networks of Academic Miscellanies." English Dept. Graduate Conference. Washington University, April 2016.
+
 "Making Enemies: Dryden, Rochester, and Collaborative Rivalry." English Dept. Graduate Colloquium. Washington University, April 2015.
 
 "Between To and From: Network Discovery in EEBO Dedications." Digital Humanities Computer Science Conference. Northwestern University, October 2014.
@@ -33,11 +35,17 @@ BA, English, Mercyhurst University, 2009
 
 ## Digital Projects
 
-*Dedication Networks in EEBO-TCP Texts* (in-progress)
+*Dedication Networks in EEBO-TCP Texts* (in-progress). Includes the [EEBO Name Finder](https://github.com/jrladd/namefinder), a Flask application for finding and recording proper names in EEBO-TCP dedications. Fall 2014-Present.
 
-*Regularize*. A Python package for modernizing spelling in early modern texts, based on Northwestern University's [MorphAdorner](http://morphadorner.northwestern.edu/). Spring 2016.
+*[University Miscellany Network](http://bl.ocks.org/jrladd/2f97fe222cfd7e66c655)*. Bipartite graph representing participants in university collections during the 1650s and 1660s. Spring 2016.
+
+*[Detecting meter in early modern verse](https://github.com/jrladd/scansion)* (in-progress). Using digital scansion tools, especially the CMU Pronouncing Dictionary, to identify poetic meter. Spring 2015-present.
 
 *[Endless Monument](https://twitter.com/endlessmonument)*. A deformance exercise for the Spenser Project that uses Python and Twitter's API to tweet lines of Spenser's *Epithalamion* using the poem's own time-scheme. Summer 2014.
+
+*[Marvel Network](http://bl.ocks.org/jrladd/c76799aa63efd7176bd9006f403e854d)*. A demonstration of NetworkX and D3 Force-Directed graphs for digital humanities applications, using sample data from Marvel comics. Summer 2016. [source code](https://github.com/jrladd/marvel_network)
+
+*[Spenser's Color Wheel](http://bl.ocks.org/jrladd/e0a9612c16d4ede17221a1af4d1ce0d9)*. Data visualization and deformance project exploring Spenser's use of color terms in *The Faerie Queene*. Allows users to rearrange Spenser's color lines into unique poems. Summer 2016. [source code](https://github.com/jrladd/colorwheel)
 
 ## Fellowships and Assistantships
 
@@ -89,7 +97,11 @@ TEI and XML markup, text encoding
 
 Building and maintaining websites using raw HTML and CSS, as well as static-site generators (Jekyll) and content management systems (Wordpress, Drupal)
 
+Database management, MySQL and SQLite
+
 Web application development, with Flask and Django
+
+Experience with Gephi, Excel, OpenRefine
 
 ## Languages
 
