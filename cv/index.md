@@ -5,6 +5,10 @@ title: " CV"
 
 # Curriculum Vitae
 
+## Employment
+
+Post-doctoral Fellow, [*Six Degrees of Francis Bacon*](http://sixdegreesoffrancisbacon.com), Carnegie Mellon University, calendar year 2017
+
 ## Education
 
 PhD Candidate, Literature, Washington University in St. Louis, 2012-present
@@ -14,6 +18,16 @@ MA, English and American Literature, Georgetown University, 2012
 BA, English, Mercyhurst University, 2009
 
 ## Publications and Presentations
+
+"Hidden Authorial Labor in the Early Modern Social Network." Invited Talk, Issues in Digital Humanities Speaker Series. *Washington University*. November 2017. [See slides](http://jrladd.com/hiddenauthors).
+
+[*Exploring and Analyzing Network Data with Python*](https://programminghistorian.org/lessons/exploring-and-analyzing-network-data-with-python). Ladd, Otis, Warren, and Weingart. *The Programming Historian*, 2017.
+
+"Tracking Print Culture with Named-Entity Recognition." PyLing Python Linguistics Group. *University of Pittsburgh*. October 2017.
+
+"Dedication Networks and Political Crisis: Print Collaboration in the English Revolution." DH Faculty Research Group. *Carnegie Mellon University*. September 2017.
+
+"Personified Maps and Social Networks in *Poly-Olbion*." *Renaissance Society of America*. April 2017.
 
 "University Politics: Locke, Dryden, and the Social Networks of Academic Miscellanies." English Dept. Graduate Conference. Washington University, April 2016.
 
@@ -35,7 +49,11 @@ BA, English, Mercyhurst University, 2009
 
 ## Digital Projects
 
+*Six Degrees of Francis Bacon*. As research fellow (a postdoctoral position awarded to me before completion of my PhD), I led the redesign efforts for the new *Six Degrees* [web application](http://sixdegreesoffrancisbacon.com). Calendar year 2017.
+
 *Dedication Networks in EEBO-TCP Texts* (in-progress). Includes the [EEBO Name Finder](https://github.com/jrladd/namefinder), a Flask application for finding and recording proper names in EEBO-TCP dedications. Fall 2014-Present.
+
+*[Early Modern Digital Agendas Network](https://bl.ocks.org/jrladd/75a522aecd79d10778fd5d8d31b1d1a5).* Created a network visualization of the three EMDA seminars at the Folger Shakespeare Library for Ruth Ahnert's [blog post recap](https://collation.folger.edu/2017/10/report-network-analysis/). Summer 2017.
 
 *[University Miscellany Network](http://bl.ocks.org/jrladd/2f97fe222cfd7e66c655)*. Bipartite graph representing participants in university collections during the 1650s and 1660s. Spring 2016.
 
@@ -49,7 +67,9 @@ BA, English, Mercyhurst University, 2009
 
 ## Fellowships and Assistantships
 
-Spenser Project Graduate Assistantship, Washington University, Spring 2015-Present.
+*Early Modern Digital Agendas* Participant. Folger Shakespeare Library, Summer 2017.
+
+Spenser Project Graduate Assistantship. Washington University, Spring 2015-Present.
 
 Humanities Digital Workshop Summer Fellowship. Washington University, Summers of 2013-16.
 
@@ -64,6 +84,8 @@ Fellow at Center for New Designs in Learning and Scholarship. Georgetown Univers
 **Co-Teaching**: E. Lit. 498W The Spenser Lab, with Joseph Loewenstein. Washington University, Fall 2016.
 
 **Instructor**: Writing I. Washington University, Fall 2014.
+
+**Guest Teaching and Workshops** on network analysis, book history, web scraping, computational thinking, and unsupervised clustering. Carnegie Mellon University and Washington University.
 
 **Teaching Assistant**:
 
@@ -89,7 +111,7 @@ Editor, *Predicate*: Georgetown University English Studies Journal (2011-12)
 
 Python, programming language, experience with natural language processing
 
-JavaScript (include node.js), programming language
+JavaScript (include node.js and AngularJS), programming language
 
 D3.js, JavaScript visualization library
 
