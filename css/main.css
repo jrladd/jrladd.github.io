@@ -76,10 +76,8 @@ svg {
 /*****************************************************************************/
 
 .site {
-  font-size: 115%;
   text-align: left;
   line-height: 1.5em;
-
 }
 
 .header a {
@@ -141,6 +139,16 @@ svg {
   background-color: inherit;
 }
 
+.dropdown {
+  display: none;
+}
+
+.mobile-dropdown {
+  display: none;
+  position: absolute;
+  list-style-type: none;
+
+}
 /*****************************************************************************/
 /*
 /* Posts
@@ -190,4 +198,16 @@ svg {
 
 @media only screen and (max-width: 500px) {
   .main { padding-top: 25%; }
+  li.page { display: none; }
+  .dropdown { display: block; }
+  .dropdown:hover > .mobile-dropdown {
+    display: block;
+    background-color: #fff;
+  }
+  .mobile-dropdown li {
+    width: 25%;
+    float: none;
+    display: list-item;
+    position: relative;
+  }
 }

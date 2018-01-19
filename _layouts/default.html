@@ -27,10 +27,19 @@
 
             <ul class="header">
               <li class="title"><a href="/">jrladd{{ page.title | downcase | replace: ' ' , '_' | truncate: 10 }}</a></li>
-      	    	<li><a class="extra" href="/">about</a></li>
-      	    	<li><a class="extra" href="/projects">projects</a></li>
-      	    	<li><a class="extra" href="/blog">blog</a></li>
-              <li><a class="extra" href="/cv">cv</a></li>
+      	    	<li class="page"><a class="extra" href="/">about</a></li>
+      	    	<li class="page"><a class="extra" href="/projects">projects</a></li>
+      	    	<li class="page"><a class="extra" href="/blog">blog</a></li>
+              <li class="page"><a class="extra" href="/cv">cv</a></li>
+              <li class="dropdown">
+                <a href=""><i class="fa fa-caret-down"></i></a>
+                <ul class="mobile-dropdown">
+                  <li><a href="/">about</a></li>
+          	    	<li><a href="/projects">projects</a></li>
+          	    	<li><a href="/blog">blog</a></li>
+                  <li><a href="/cv">cv</a></li>
+                </ul>
+              </li>
               <ul class='social'>
                 {% if site.twitter_username %}
                     <li><a href="https://twitter.com/{{ site.twitter_username }}">
