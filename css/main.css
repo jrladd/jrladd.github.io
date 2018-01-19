@@ -139,7 +139,7 @@ svg {
   background-color: inherit;
 }
 
-.dropdown {
+.dropdown-icon {
   display: none;
 }
 
@@ -147,7 +147,6 @@ svg {
   display: none;
   position: absolute;
   list-style-type: none;
-
 }
 /*****************************************************************************/
 /*
@@ -199,7 +198,7 @@ svg {
 @media only screen and (max-width: 500px) {
   .main { padding-top: 25%; }
   li.page { display: none; }
-  .dropdown { display: block; }
+  .dropdown-icon { display: inline; }
   .dropdown:hover > .mobile-dropdown {
     display: block;
     background-color: #fff;
