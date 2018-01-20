@@ -87,7 +87,27 @@ svg {
 }
 
 .main {
-  padding: 15%;
+  padding: 5% 15%;
+}
+
+.gallery {
+  width: 100vw;
+  margin-left: calc(-1 * ((100vw - 100%) / 2));
+  padding: 5%;
+}
+.gallery img {
+  /* position: absolute; */
+  transition: .4s;
+  max-height: 200px;
+  max-width: 200px;
+  clip-path: circle(50px at center);
+}
+
+.gallery img:hover {
+  clip-path: none;
+  max-height: 300px;
+  max-width: 300px;
+  z-index: 100;
 }
 
 .title {
@@ -108,6 +128,7 @@ svg {
   top: 0;
   background-color: #f3f3f3;
   list-style-type: none;
+  z-index: 100;
 }
 
 .header li {

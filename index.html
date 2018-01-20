@@ -2,12 +2,18 @@
 layout: default
 ---
 
+<div class="gallery">
+  {% assign gallery_images = site.static_files | where: "gallery", true %}
+  {% for image in gallery_images %}
+    <img src="{{ image.path }}">
+  {% endfor %}
+</div>
 
 <h1>About J.R. Ladd</h1>
 
 <p>I'm John Ladd, a doctoral candidate in English literature at Washington University in St. Louis. I specialize in literature of the 17th century, with additional areas of interest in the history of the book, authorship studies, and quantitative network analysis. My dissertation, tentatively titled "Collaboration and the Networks of Authorship: the Poetics of Association in Early Modern England," addresses various kinds of shared creative labor in the period—including collaborations shaped by competition, affect, geographic space, and the print industry—and how that labor is manifested in the resulting texts. I argue that literary collaboration is more widespread throughout the early modern period than previously thought, both in terms of genre and time, despite the rise  or "invention" of the single author as commercial figure in the late 17th century.</p>
 
-<p>During calendar year 2017, I was postdoctoral research fellow for <i><a href="http://sixdegreesoffrancisbacon.com">Six Degrees of Francis Bacon</a></i>, an early modern network analysis project at Carnegie Mellon University, where I managed data, oversaw the project's preservation, and coordinated the site's major redesign. The fellowship was a part of my larger interest and experience in the digital humanities, both at CMU and WashU, where I've worked on networks, topic modeling, supervised and unsupervised classification, machine learning, and more.</p>
+<p>During calendar year 2017, I was postdoctoral research fellow for <i><a href="http://sixdegreesoffrancisbacon.com">Six Degrees of Francis Bacon</a></i>, an early modern network analysis project at Carnegie Mellon University, where I managed data, oversaw the project's preservation, and coordinated the site's major redesign. The fellowship was a part of my larger interest and experience in the digital humanities, both at CMU and WashU, where I've worked on networks, natural language process, topic modeling, machine learning, and more.</p>
 
 <p>I live in St. Louis with my partner, Katie, and our cat, Cardigan. In my spare time I use Python and JavaScript to <a href='/projects'>do things with words</a> and a crochet hook to do things with yarn.</p>
 

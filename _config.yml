@@ -9,3 +9,9 @@ permalink: /:title.html
 twitter_username:     johnrladd
 github_username:      jrladd
 instagram_username:    johnrladd
+
+defaults:
+  - scope:
+      path: "images/gallery"
+    values:
+      gallery: true
