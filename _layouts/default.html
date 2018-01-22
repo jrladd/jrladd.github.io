@@ -27,7 +27,12 @@
 
             <ul class="header">
               <li class="title dropdown">
-                <a href="/">jrladd{{ page.title | downcase | replace: ' ' , '_' | truncate: 10 }}
+                <a href="/">
+                  {% if page.title != "jrladd" %}
+                    jrladd{{ page.title | downcase | replace: ' ' , '_' | truncate: 10 }}
+                  {% else %}
+                    jrladd
+                  {% endif %}
                   <span class="dropdown-icon"><i class="fa fa-caret-down dropdown-icon"></i></span>
                 </a>
                 <ul class="mobile-dropdown">
