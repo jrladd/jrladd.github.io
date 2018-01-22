@@ -5,7 +5,24 @@ layout: default
 <div class="gallery">
   {% assign gallery_images = site.static_files | where: "gallery", true %}
   {% for image in gallery_images %}
-    <img src="{{ image.path }}">
+    {% if image.basename == "proghist" %}
+      {% assign fullname = "Exploring and Analyzing Network Data with Python" %}
+      <a href="https://programminghistorian.org/lessons/exploring-and-analyzing-network-data-with-python" target="_blank">
+    {% elsif image.basename == "colorwheel" %}
+      {% assign fullname = "Spenser's Color Wheel" %}
+      <a href="http://bl.ocks.org/jrladd/e0a9612c16d4ede17221a1af4d1ce0d9" target="_blank">
+    {% elsif image.basename == "emda" %}
+      {% assign fullname = "Early Modern Digital Agendas Network" %}
+      <a href="https://collation.folger.edu/2017/10/report-network-analysis/" target="_blank">
+    {% elsif image.basename == "sixdegrees" %}
+      {% assign fullname = "Six Degrees of Francis Bacon" %}
+      <a href="http://sixdegreesoffrancisbacon.com" target="_blank">
+    {% elsif image.basename == "drydentitlepage" %}
+      {% assign fullname = "Title Page to Dryden's translation of Virgil (WUSTL copy, taken 6 Jan. 2016)" %}
+      <a href="/projects" target="_blank">
+    {% endif %}
+    <img src="{{ image.path }}" title="{{fullname}}">
+  </a>
   {% endfor %}
 </div>
 

@@ -15,3 +15,7 @@ defaults:
       path: "images/gallery"
     values:
       gallery: true
+  - scope:
+      path: "images/gallery/proghist.png"
+    values:
+      url: "https://programminghistorian.org/lessons/exploring-and-analyzing-network-data-with-python"

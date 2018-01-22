@@ -87,7 +87,7 @@ svg {
 }
 
 .main {
-  padding: 5% 15%;
+  padding: 8% 15%;
 }
 
 .gallery {
@@ -105,10 +105,22 @@ svg {
 
 .gallery img:hover {
   clip-path: none;
+  height: auto;
   max-height: 300px;
   max-width: 300px;
   z-index: 100;
 }
+
+/* figure {
+  display: inline;
+}
+figcaption {
+  display: none;
+}
+
+figure:hover > figcaption {
+  display: inline;
+} */
 
 .title {
   font-size: 120%;
