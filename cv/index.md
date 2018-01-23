@@ -53,6 +53,8 @@ BA, English, Mercyhurst University, 2009
 
 *Dedication Networks in EEBO-TCP Texts* (in-progress). Includes the [EEBO Name Finder](https://github.com/jrladd/namefinder), a Flask application for finding and recording proper names in EEBO-TCP dedications. Fall 2014-Present.
 
+*[Network Navigator](http://dh-web.hss.cmu.edu/network_navigator/)*. Web-based tool for network analysis, focusing on quantitative network metrics. Hosted by Carnegie Mellon University. Spring 2018. [source code](https://github.com/jrladd/network_navigator)
+
 *[Early Modern Digital Agendas Network](https://bl.ocks.org/jrladd/75a522aecd79d10778fd5d8d31b1d1a5).* Created a network visualization of the three EMDA seminars at the Folger Shakespeare Library for Ruth Ahnert's [blog post recap](https://collation.folger.edu/2017/10/report-network-analysis/). Summer 2017.
 
 *[University Miscellany Network](http://bl.ocks.org/jrladd/2f97fe222cfd7e66c655)*. Bipartite graph representing participants in university collections during the 1650s and 1660s. Spring 2016.
