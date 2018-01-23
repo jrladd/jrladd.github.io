@@ -90,6 +90,11 @@ svg {
   padding: 8% 15%;
 }
 
+img {
+  max-width: 400px;
+  max-height: 400px;
+}
+
 .gallery {
   width: 100vw;
   margin-left: calc(-1 * ((100vw - 100%) / 2));
