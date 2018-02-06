@@ -111,22 +111,12 @@ img {
 
 .gallery img:hover {
   clip-path: none;
+  -webkit-clip-path: none;
   height: auto;
   max-height: 300px;
   max-width: 300px;
   z-index: 100;
 }
-
-/* figure {
-  display: inline;
-}
-figcaption {
-  display: none;
-}
-
-figure:hover > figcaption {
-  display: inline;
-} */
 
 .title {
   font-size: 120%;
@@ -235,7 +225,9 @@ figure:hover > figcaption {
 }
 
 @media only screen and (max-width: 500px) {
-  .main { padding-top: 25%; }
+  .main {
+    padding-top: 25%;
+  }
   li.page { display: none; }
   .dropdown-icon { display: inline; }
   .dropdown:hover > .mobile-dropdown {
@@ -247,5 +239,15 @@ figure:hover > figcaption {
     float: none;
     display: list-item;
     position: relative;
+  }
+  .gallery {
+    width: inherit;
+    margin-left: inherit;
+    padding: inherit;
+    padding-top: 5%;
+  }
+  .gallery img {
+    display: block;
+    max-width: 150px;
   }
 }
