@@ -176,6 +176,7 @@ img {
   display: none;
   position: absolute;
   list-style-type: none;
+  background-color: #FFF
 }
 /*****************************************************************************/
 /*
@@ -235,7 +236,7 @@ img {
     background-color: #fff;
   } */
   .mobile-dropdown li {
-    width: 25%;
+    /* width: 25%; */
     float: none;
     display: list-item;
     position: relative;
