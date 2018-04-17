@@ -1,0 +1,34 @@
+---
+layout: post
+title: " Learning to Ask Questions in DH: A Twitter Thread"
+tags: pedagogy, digital humanities, twitter, graduate school
+---
+
+I haven't kept up with regular posts here, mostly because many (all?) of the conversations I have online regarding my work are happening on Twitter these days. This naturally gives way to the occasionally Twitter thread---basically a blog post divided into several tweets.
+
+I wrote a thread recently, inspired by a set of tweets from Miriam Posner about teaching Github (and the ensuing conversation), which felt like it belonged here as well. Let's hope the tweet embedding holds up:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I love this great <a href="https://twitter.com/miriamkp?ref_src=twsrc%5Etfw">@miriamkp</a> thread from last week, which includes many smart people I admire talking about their struggles with version control. Struggling with technical concepts in DH has made me a better scholar in my DH and non-DH work alike. [A thread follows...] <a href="https://t.co/0avP2imT4D">https://t.co/0avP2imT4D</a></p>&mdash; JR Ladd (@johnrladd) <a href="https://twitter.com/johnrladd/status/985903396518494208?ref_src=twsrc%5Etfw">April 16, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Version control is one of many bottlenecks in DH study. I have encountered so many of these. I have spent hours and hours and hours staring blankly at a text editor or a command line trying to figure out some technical error, then frantically Googling.</p>&mdash; JR Ladd (@johnrladd) <a href="https://twitter.com/johnrladd/status/985903398410178560?ref_src=twsrc%5Etfw">April 16, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">It didn&#39;t occur to me at first that I could simply ask for help. Though I&#39;ve been fortunate to be a part of several supportive DH communities, I often struggled quietly before seeking clarity from the knowledgeable folks around me.</p>&mdash; JR Ladd (@johnrladd) <a href="https://twitter.com/johnrladd/status/985903400482230274?ref_src=twsrc%5Etfw">April 16, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Why did I do this? I was afraid of appearing like I didn&#39;t know what I was doing. Part of this was from my own anxiety, and part of it, I think, was from being in a discipline where many people were expected to &quot;already know&quot; the basics.</p>&mdash; JR Ladd (@johnrladd) <a href="https://twitter.com/johnrladd/status/985903402738683906?ref_src=twsrc%5Etfw">April 16, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Of course, this presupposed knowledge doesn&#39;t exist in &quot;traditional&quot; humanities disciplines any more than in DH. But I had a better running start with literary studies research methods and techniques, and a strong (and false) sense that I should never ask for help with the basics</p>&mdash; JR Ladd (@johnrladd) <a href="https://twitter.com/johnrladd/status/985903403703336960?ref_src=twsrc%5Etfw">April 16, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Working in DH cured me of that. I didn&#39;t know even the most basic things. No amount of Google searches or StackOverflow posts would get me past the roadblocks. I *had* to ask for help, and only after learning to do that could I move forward.</p>&mdash; JR Ladd (@johnrladd) <a href="https://twitter.com/johnrladd/status/985903404768747520?ref_src=twsrc%5Etfw">April 16, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Learning to be vulnerable in this way and ask for help at every turn profoundly changed the way I approach all of my work. It was my wake-up call, as a grad student, that I was part of a community, that I could seek help when I needed it without being viewed as a failure.</p>&mdash; JR Ladd (@johnrladd) <a href="https://twitter.com/johnrladd/status/985903406157123590?ref_src=twsrc%5Etfw">April 16, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">It turned me into a better student in my main course of study (English lit) and all my subdisciplines—my work improved because I had learned to work with others. It also made me a much better teacher.</p>&mdash; JR Ladd (@johnrladd) <a href="https://twitter.com/johnrladd/status/985903407239135233?ref_src=twsrc%5Etfw">April 16, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I avoided, as the linked thread rightly insists, the assumption that anything was &quot;easy&quot; or already known by my students. I learned to start from the beginning because I had started from 0 so many times and received help from generous teachers.</p>&mdash; JR Ladd (@johnrladd) <a href="https://twitter.com/johnrladd/status/985903408778567680?ref_src=twsrc%5Etfw">April 16, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Maybe (hopefully) I would have learned to ask for help without DH forcing me to, but picking up technical skills accelerated the process. I&#39;m very grateful to that and committed to paying it forward.</p>&mdash; JR Ladd (@johnrladd) <a href="https://twitter.com/johnrladd/status/985903410426843142?ref_src=twsrc%5Etfw">April 16, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">This is why it&#39;s so insidious that sexist trolls seized on <a href="https://twitter.com/miriamkp?ref_src=twsrc%5Etfw">@miriamkp</a>&#39;s tweets to be pedantic about the difference between git and Github. They are reinstituting the roadblocks and potentially making future scholars afraid to ask for help.</p>&mdash; JR Ladd (@johnrladd) <a href="https://twitter.com/johnrladd/status/985903411374837760?ref_src=twsrc%5Etfw">April 16, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Gatekeeping attitudes like this take away one of the chief advantages of DH (and of interdisciplinarity in general)—the ability to ask for help and to receive it from a community of generous, like-minded scholars. Thanks for reading. <a href="https://t.co/Bef0vujz2I">pic.twitter.com/Bef0vujz2I</a></p>&mdash; JR Ladd (@johnrladd) <a href="https://twitter.com/johnrladd/status/985903412477943813?ref_src=twsrc%5Etfw">April 16, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
