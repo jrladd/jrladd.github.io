@@ -149,7 +149,7 @@ img {
   color: #00cc66;
 }
 
-.header a:hover {
+.header .page:hover {
   color: #00cc66;
   background-color: white;
 }
@@ -230,10 +230,10 @@ img {
   }
   li.page { display: none; }
   .dropdown-icon { display: inline; }
-  .dropdown:hover > .mobile-dropdown {
+  /* .dropdown:hover > .mobile-dropdown {
     display: block;
     background-color: #fff;
-  }
+  } */
   .mobile-dropdown li {
     width: 25%;
     float: none;

@@ -27,7 +27,7 @@
 
             <ul class="header">
               <li class="title dropdown">
-                <a href="/">
+                <a>
                   {% if page.title != "jrladd" %}
                     jrladd{{ page.title | downcase | replace: ' ' , '_' | truncate: 10 }}
                   {% else %}
@@ -70,4 +70,17 @@
         </div>
 
     </body>
+    <script
+			  src="https://code.jquery.com/jquery-3.3.1.min.js"
+			  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+			  crossorigin="anonymous"></script>
+    <script>
+      $( function() {
+        if (screen.width <= 500) {
+          $('.dropdown').click(function () {
+            $('.mobile-dropdown').slideToggle();
+          });
+        }
+      });
+    </script>
 </html>
