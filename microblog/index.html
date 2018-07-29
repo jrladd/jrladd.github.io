@@ -1,0 +1,18 @@
+---
+layout: default
+title: " Blog"
+---
+
+<div id="home">
+  <h1>Recent Microblog Posts</h1>
+  <h3>(Call them tweets, if you must!)</h3>
+  <ul class="posts">
+  {% for post in site.posts %}
+    {%- if post.categories contains 'microposts' -%}
+    <li><span>{{ post.date | date_to_string }}</span>
+      <p>{{ post.content }}</p>
+    </li>
+    {%- endif -%}
+  {% endfor %}
+  </ul>
+</div>
