@@ -7,6 +7,15 @@
 /* Global Reset */
 
 h1 { font-family: "IM Fell English", Times, serif; }
+
+body { font-family: Courier, sans-serif;}
+
+a {color: gray;}
+
+img {
+  width: 70%;
+}
+
 /* * {
   margin: 0;
   padding: 0;
@@ -56,7 +65,7 @@ svg {
 /* Home
 /*
 /*****************************************************************************/
-.posts {
+.posts, .projects {
   list-style-type: none;
   margin-bottom: 2em;
 }
