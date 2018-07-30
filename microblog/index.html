@@ -10,7 +10,10 @@ title: " Microblog"
   {% for post in site.posts %}
     {%- if post.categories contains 'microposts' -%}
     <li><span>{{ post.date | date_to_string }}</span>
-      <p>{{ post.content }}</p>
+      <p>{{ post.content }} </p>
+      {% for photo in post.mf-photo %}
+        <img src="{{ photo }}"/>
+      {% endfor %}
     </li>
     {%- endif -%}
   {% endfor %}
