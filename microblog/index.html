@@ -9,7 +9,7 @@ title: " Microblog"
   <ul class="posts">
   {% for post in site.posts %}
     {%- if post.categories contains 'microposts' -%}
-    <li><span>{{ post.date | date_to_string }}</span>
+    <li><span><a href="{{post.url}}">{{ post.date | date_to_string }}</a></span>
       <p>{{ post.content }} </p>
       {% for photo in post.mf-photo %}
         <img src="{{ photo }}"/>
