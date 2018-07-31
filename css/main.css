@@ -6,9 +6,15 @@
 
 /* Global Reset */
 
-h1 { font-family: "IM Fell English", Times, serif; }
+h1 {
+  font-family: "IM Fell English", Times, serif;
+  font-weight: normal;
+}
 
-body { font-family: Courier, sans-serif;}
+body {
+  font-family: Courier, sans-serif;
+  /* background-color: #B0DCA3; */
+}
 
 a {color: gray;}
 
@@ -78,6 +84,10 @@ svg {
   color: #aaa;
   font-family: Open Sans, sans-serif;
   font-size: 80%;
+}
+
+.micro-img {
+  max-width: 400px;
 }
 
 /*****************************************************************************/

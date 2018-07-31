@@ -3,10 +3,16 @@ layout: default
 title: "jrladd"
 ---
 
-<!-- <div class="gallery">
+
+<p class="courier f4-ns f7 tc fl w-100"><a class="link dim gray underline" href='/cv.pdf'>cv</a>. <a class="link dim gray underline" href='/projects'>digital projects</a>. <a class="link dim gray underline" href="/blog">blog</a>.</p>
+
+<h1 class="f2-ns lh-title f4 fl w-100 ph6-ns ph4">J.R. Ladd is a doctoral candidate in English literature at Washington University in St. Louis. He specializes in literature of the (long) 17th century, with additional areas of interest in the history of the book, authorship studies, and quantitative network analysis.</h1>
+
+<div class="gallery dt tc h4 fl w-100">
   {% assign gallery_images = site.static_files | where: "gallery", true %}
   {% for image in gallery_images %}
-    {% if image.basename == "proghist" %}
+    <div class="dtc w-20 v-mid">
+     {% if image.basename == "proghist" %}
       {% assign fullname = "Exploring and Analyzing Network Data with Python" %}
       <a href="https://programminghistorian.org/lessons/exploring-and-analyzing-network-data-with-python" target="_blank">
     {% elsif image.basename == "colorwheel" %}
@@ -22,144 +28,148 @@ title: "jrladd"
       {% assign fullname = "Title Page to Dryden's translation of Virgil (WUSTL copy, taken 6 Jan. 2016)" %}
       <a href="/projects" target="_blank">
     {% endif %}
-    <img src="{{ image.path }}" title="{{fullname}}">
+    <img class="w-90" src="{{ image.path }}" title="{{fullname}}">
   </a>
+</div>
   {% endfor %}
-</div> -->
+</div>
 
-<h1 class="f1-ns lh-title f3 fl w-100">J.R. Ladd is a doctoral candidate in English literature at Washington University in St. Louis. I specialize in literature of the (long) 17th century, with additional areas of interest in the history of the book, authorship studies, and quantitative network analysis.</h1>
 
-<p class="courier f4-ns f7 tc fl w-100"><a class="link dim gray underline" href='/cv.pdf'>cv</a>. <a class="link dim gray underline" href='/projects'>digital projects</a>. <a class="link dim gray underline" href="/blog">blog</a>.</p>
+<h1 class="f2-ns lh-title f4 fl w-100 ph6-ns ph4">His dissertation, tentatively titled <em>The Poetics of Association: Social Networks and Collaboration in Early Modern England</em>, addresses shared creative labor in the period—collaborations shaped by competition, affect, geographic space, and the print industry—and shows how that labor is manifested in the resulting texts. He argues that literary collaboration is more widespread throughout the early modern period than previously thought, both in terms of genre and time, despite the rise  or "invention" of the single author as commercial figure in the late 17th century.</h1>
 
-<h1 class="f1-ns lh-title f3 fl w-100">His dissertation, tentatively titled "The Poetics of Association: Social Networks and Collaboration in Early Modern England," addresses shared creative labor in the period—collaborations shaped by competition, affect, geographic space, and the print industry—and shows how that labor is manifested in the resulting texts. He argues that literary collaboration is more widespread throughout the early modern period than previously thought, both in terms of genre and time, despite the rise  or "invention" of the single author as commercial figure in the late 17th century.</h1>
-
-<div class="cv helvetica mw9 ph3-ns f5-ns f6">
-  <div class="fl w-100 w-25-ns pa2">
-      <div class="mb4">Education/Experience</div>
-      <div class="mv3">
-        <div>PhD Candidate</div>
-        <div>Literature</div>
-        <div>Washington University in St. Louis</div>
-        <div>2012-present</div>
+<div class="cv helvetica mw9 ph6-ns ph4 f5-ns f6">
+  <div class="fl w-100">
+    <div class="fl w-100 w-50-ns pa2">
+        <div class="mb4">Education/Experience</div>
+        <div class="mv3">
+          PhD Candidate<br>
+          Literature<br>
+          Washington University in St. Louis<br>
+          2012-present
+        </div>
+        <div class="mv3">
+          Post-doctoral Fellow<br>
+          <em>Six Degrees of Francis Bacon</em><br>
+          Carnegie Mellon University<br>
+          calendar year 2017
+        </div>
+        <div class="mv3">
+          MA<br>
+          English and American Literature<br>
+          Georgetown University<br>
+          2012
+        </div>
+        <div class="mv3">
+          BA<br>
+          English<br>
+          Mercyhurst College<br>
+          2009
+        </div>
       </div>
-      <div class="mv3">
-        <div>Post-doctoral Fellow</div>
-        <div class="italic">Six Degrees of Francis Bacon</div>
-        <div>Carnegie Mellon University</div>
-        <div>calendar year 2017</div>
-      </div>
-      <div class="mv3">
-        <div>MA</div>
-        <div>English and American Literature</div>
-        <div>Georgetown University</div>
-        <div>2012</div>
-      </div>
-      <div class="mv3">
-        <div>BA</div>
-        <div>English</div>
-        <div>Mercyhurst College</div>
-        <div>2009</div>
+      <div class="fl w-100 w-50-ns pa2">
+        <div class="mb4">Recent Publications</div>
+        <div class="mv3">
+          "Reassembling the Bacon: Crowdsourcing Historical Social Networks in the Redesign of <em>Six Degrees of Francis Bacon</em>."<br>
+          Forthcoming in <em>Social Knowledge Creation in the Humanities Vol. 2.</em><br>
+          New Technologies in Medieval and Renaissance Studies Series.<br>
+          Iter Press, 2019
+        </div>
+        <div class="mv3">
+          "Kynaston, Francis."<br>
+          Forthcoming in <em>The Chaucer Encyclopedia</em>.<br>
+          Wiley-Blackwell, after 2019.<br>
+        </div>
+        <div class="mv3">
+          <a class="link dim gray underline" href="https://programminghistorian.org/lessons/exploring-and-analyzing-network-data-with-python"><em>Exploring and Analyzing Network Data with Python</em></a>.<br>
+          Ladd, Otis, Warren, and Weingart.<br>
+          <em>The Programming Historian</em>, 2017.
+        </div>
+        <div class="mv3">
+          "Review of <em>Theatre, Community, and Civic Engagement in Jacobean London</em> by Mark Bayer."<br>
+          <em>The Shakespeare Newsletter</em>,<br>
+          Fall/Winter 2013.
+        </div>
       </div>
     </div>
-    <div class="fl w-100 w-25-ns pa2">
-      <div class="mb4">Recent Publications</div>
-      <div class="mv3">
-        <div>"Reassembling the Bacon: Crowdsourcing Historical Social Networks in the Redesign of <em>Six Degrees of Francis Bacon</em>."</div>
-        <div>Forthcoming in <em>Social Knowledge Creation in the Humanities Vol. 2.</em></div>
-        <div>New Technologies in Medieval and Renaissance Studies Series.</div>
-        <div>Iter Press, 2019</div>
+    <div class="fl w-100">
+      <div class="fl w-100 w-50-ns pa2">
+        <div class="mb4">Selected Teaching</div>
+        <div class="mv3">
+          Co-Instructor<br>
+          with Anupam Basu<br>
+          E. Lit. 395C Shakespeare<br>
+          Washington University, Spring 2017.
+        </div>
+        <div class="mv3">
+          Co-Instructor<br>
+          with Joseph Loewenstein<br>
+          E. Lit. 498W The Spenser Lab<br>
+          Washington University, Fall 2016.
+        </div>
+        <div class="mv3">
+          Instructor<br>
+          Writing 1<br>
+          Washington University, Fall 2014.
+        </div>
+        <div class="mv3">
+          Teaching Assistant<br>
+          E. Lit. 461 Imagining Tyrannicide, Remembering Regicide<br>
+          Steven Zwicker and Derek Hirst<br>
+          Washington University, Spring 2016.
+        </div>
       </div>
-      <div class="mv3">
-        <div>"Kynaston, Francis."</div>
-        <div>Forthcoming in <em>The Chaucer Encyclopedia</em>.</div>
-        <div>Wiley-Blackwell, after 2019.</div>
-      </div>
-      <div class="mv3">
-        <div><a class="link dim gray underline" href="https://programminghistorian.org/lessons/exploring-and-analyzing-network-data-with-python"><em>Exploring and Analyzing Network Data with Python</em></a>.</div>
-        <div>Ladd, Otis, Warren, and Weingart.</div>
-        <div><em>The Programming Historian</em>, 2017.</div>
-      </div>
-      <div class="mv3">
-        <div>"Review of <em>Theatre, Community, and Civic Engagement in Jacobean London</em> by Mark Bayer."</div>
-        <div><em>The Shakespeare Newsletter</em>,</div>
-        <div>Fall/Winter 2013.</div>
-      </div>
-    </div>
-    <div class="fl w-100 w-25-ns pa2">
-      <div class="mb4">Recent Presentations</div>
-      <div class="mv3">
-        <div>"Hidden Authorial Labor in the Early Modern Social Network."</div>
-        <div>Invited Talk</div>
-        <div>Issues in Digital Humanities Speaker Series.</div>
-        <div><em>Washington University</em>, November 2017.</div>
-        <div><a class="link dim gray underline" href="/hiddenauthors">See slides</a>.</div>
-      </div>
-      <div class="mv3">
-        <div>"Tracking Print Culture with Named-Entity Recognition."</div>
-        <div>PyLing Python Linguistics Group.</div>
-        <div><em>University of Pittsburgh</em>, October 2017.</div>
-      </div>
-      <div class="mv3">
-        <div>"Dedication Networks and Political Crisis: Print Collaboration in the English Revolution."</div>
-        <div>DH Faculty Research Group.</div>
-        <div><em>Carnegie Mellon Universit</em>, September 2017.</div>
-      </div>
-      <div class="mv3">
-        <div>"Personified Maps and Social Networks in *Poly-Olbion*."</div>
-        <div><em>Renaissance Society of America</em>, April 2017.</div>
-      </div>
-    </div>
-    <div class="fl w-100 w-25-ns pa2">
-      <div class="mb4">Selected Teaching</div>
-      <div class="mv3">
-        <div>Co-Instructor</div>
-        <div>with Anupam Basu</div>
-        <div>E. Lit. 395C Shakespeare</div>
-        <div>Washington University, Spring 2017.</div>
-      </div>
-      <div class="mv3">
-        <div>Co-Instructor</div>
-        <div>with Joseph Loewenstein</div>
-        <div>E. Lit. 498W The Spenser Lab</div>
-        <div>Washington University, Fall 2016.</div>
-      </div>
-      <div class="mv3">
-        <div>Instructor</div>
-        <div>Writing 1</div>
-        <div>Washington University, Fall 2014.</div>
-      </div>
-      <div class="mv3">
-        Teaching Assistant<br>
-        E. Lit. 461 Imagining Tyrannicide, Remembering Regicide<br>
-        Steven Zwicker and Derek Hirst<br>
-        Washington University, Spring 2016.
+      <div class="fl w-100 w-50-ns pa2">
+        <div class="mb4">Recent Presentations</div>
+        <div class="mv3">
+          "Hidden Authorial Labor in the Early Modern Social Network."<br>
+          Invited Talk<br>
+          Issues in Digital Humanities Speaker Series.<br>
+          <em>Washington University</em>, November 2017.<br>
+          <a class="link dim gray underline" href="/hiddenauthors">See slides</a>.
+        </div>
+        <div class="mv3">
+          "Tracking Print Culture with Named-Entity Recognition."<br>
+          PyLing Python Linguistics Group.<br>
+          <em>University of Pittsburgh</em>, October 2017.
+        </div>
+        <div class="mv3">
+          "Dedication Networks and Political Crisis: Print Collaboration in the English Revolution."<br>
+          DH Faculty Research Group.<br>
+          <em>Carnegie Mellon Universit</em>, September 2017.
+        </div>
+        <div class="mv3">
+          "Personified Maps and Social Networks in *Poly-Olbion*."<br>
+          <em>Renaissance Society of America</em>, April 2017.
+        </div>
       </div>
     </div>
 </div>
 
 <p class="courier f4-ns f7 tc fl w-100"><a class="link dim gray underline" href='/cv.pdf'>see full cv</a>.</p>
 
-<div class="tc">
-  <img src="/images/gallery/sixdegrees.png" class="w-70" alt="six degrees of francis bacon"/>
-</div>
+<div class="dt ph6-ns ph4 fl w-100 vh-100">
+  <div class="dtc-ns v-mid tc w-50-ns">
+    <img src="/images/gallery/sixdegrees.png" class="w-100" alt="six degrees of francis bacon"/>
+  </div>
 
-<h1 class="f1-ns lh-title f3 fl w-100">During calendar year 2017, he was postdoctoral research fellow for <i><a class="link dim gray underline"href="http://sixdegreesoffrancisbacon.com">Six Degrees of Francis Bacon</a></i>, an early modern network analysis project at Carnegie Mellon University, where he managed data, oversaw the project's preservation, and coordinated the site's major redesign. The fellowship is a part of his larger interest in and experience with the digital humanities, both at CMU and WashU, where he's worked on networks, natural language processing, topic modeling, machine learning, and more.</h1>
+  <h1 class="dtc-ns v-mid f3-ns lh-title f4 w-50-ns pa2">During calendar year 2017, he was postdoctoral research fellow for <i><a class="link dim gray underline"href="http://sixdegreesoffrancisbacon.com">Six Degrees of Francis Bacon</a></i>, an early modern network analysis project at Carnegie Mellon University, where he managed data, oversaw the project's preservation, and coordinated the site's major redesign. The fellowship is a part of his larger interest in and experience with the digital humanities, both at CMU and WashU, where he's worked on networks, natural language processing, topic modeling, machine learning, and more.</h1>
+</div>
 
 <p class="courier f4-ns f7 tc fl w-100"><a class="link dim gray underline" href='/projects'>see more digital projects</a>.</p>
 
 <div class="tc mv3">
-  <img src="/images/gallery/colorwheel.png" class="w-70" alt="six degrees of francis bacon"/>
+  <img src="/images/gallery/colorwheel.png" class="w-50" alt="six degrees of francis bacon"/>
 </div>
 
 <div class="tc mv3">
-  <img src="/images/gallery/proghist.png" class="w-70" alt="six degrees of francis bacon"/>
+  <img src="/images/gallery/proghist.png" class="w-50" alt="six degrees of francis bacon"/>
 </div>
 
 <div class="tc mv3">
-  <img src="/images/gallery/emda.png" class="w-70" alt="six degrees of francis bacon"/>
+  <img src="/images/gallery/emda.png" class="w-50" alt="six degrees of francis bacon"/>
 </div>
 
-<h1 class="f1-ns lh-title f3 fl w-100">He lives in St. Louis with his partner, Katie, and their cat, Cardigan. In his spare time he uses Python and JavaScript to <a class="link dim gray underline" href='/projects'>do things with words</a> and a crochet hook to do things with yarn.</h1>
+<h1 class="f2-ns lh-title f4 fl w-100 ph6-ns ph4">He lives in St. Louis with his partner, Katie, and their cat, Cardigan. In his spare time he uses Python and JavaScript to <a class="link dim gray underline" href='/projects'>do things with words</a> and a crochet hook to do things with yarn.</h1>
 
 <p class="courier f4-ns f7 tc fl w-100">site built with <a class="link dim gray underline" href='http://jekyllrb.com'>Jekyll</a> using <a class="link dim gray underline" href='http://pages.github.com'>Github Pages</a>. design inspiration from <a class="link dim gray underline" href="https://jessicasvendsen.com/">Jessica Svendsen</a>.</p>
 
