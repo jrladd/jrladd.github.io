@@ -30,49 +30,9 @@
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
     </head>
-    <body class="bg-washed-blue">
+    <body class="bg-lightest-blue dark-gray">
 
         <div class="site mv6-ns mv4">
-
-            <!-- <ul class="header">
-              <li class="title dropdown">
-                <a>
-                  {% if page.title != "jrladd" %}
-                    jrladd{{ page.title | downcase | replace: ' ' , '_' | truncate: 10 }}
-                  {% else %}
-                    jrladd
-                  {% endif %}
-                  <span class="dropdown-icon"><i class="fa fa-caret-down dropdown-icon"></i></span>
-                </a>
-                <ul class="mobile-dropdown">
-                  <li><a href="/">about</a></li>
-          	    	<li><a href="/projects">projects</a></li>
-          	    	<li><a href="/blog">blog</a></li>
-                  <li><a href="/cv">cv</a></li>
-                </ul>
-              </li>
-      	    	<li class="page"><a class="extra" href="/">about</a></li>
-      	    	<li class="page"><a class="extra" href="/projects">projects</a></li>
-      	    	<li class="page"><a class="extra" href="/blog">blog</a></li>
-              <li class="page"><a class="extra" href="/cv">cv</a></li>
-              <ul class='social'>
-                {% if site.twitter_username %}
-                    <li><a href="https://twitter.com/{{ site.twitter_username }}">
-                      <i class="fa fa-twitter"></i>
-                    </a></li>
-                {% endif %}
-                {% if site.github_username %}
-                    <li><a href="https://github.com/{{ site.github_username }}">
-                      <i class="fa fa-github"></i>
-                    </a></li>
-                {% endif %}
-                {% if site.instagram_username %}
-                    <li><a href="https://instagram.com/{{ site.instagram_username }}">
-                      <i class="fa fa-instagram"></i>
-                    </a></li>
-                {% endif %}
-              </ul>
-            </ul> -->
           <div class="main">
           {{ content }}
           </div>

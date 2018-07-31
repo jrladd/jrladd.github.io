@@ -3,8 +3,6 @@ layout: page
 title: " Projects"
 ---
 
-<div class="tc"><a class="link dim gray underline" href="/">home</a>.</div>
-
 # Digital Projects
 
 - *[Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com)*. Oversaw site redesign as part of the SDFB Team at CMU.
