@@ -6,20 +6,25 @@
 
 /* Global Reset */
 
-h1 {
+h1, h2, h3, h4 {
   font-family: "IM Fell English", Times, serif;
   font-weight: normal;
 }
 
 body {
   font-family: Courier, sans-serif;
-  /* background-color: #B0DCA3; */
 }
 
-a {color: gray;}
+a {
+  color: #33CC33;
+}
 
 img {
   width: 70%;
+}
+
+.cv {
+  font-family: "Open Sans", sans-serif;
 }
 
 /*****************************************************************************/
