@@ -6,7 +6,7 @@
 
 /* Global Reset */
 
-h1, h2, h3, h4, .em {
+h1, h2, h3, h4, .early-modern {
   font-family: "IM Fell English", Times, serif;
   font-weight: normal;
 }
@@ -16,7 +16,7 @@ body {
 }
 
 a {
-  color: #33CC33;
+/*  color: #33CC33;*/
   /* color: #19a974; */
 }
 
@@ -28,11 +28,11 @@ img {
   font-family: "Open Sans", sans-serif;
 }
 
-.header {
+/*.header {
   position: sticky;
   position: -webkit-sticky;
   top: 0;
-}
+}*/
 /*****************************************************************************/
 /*
 /* Home
