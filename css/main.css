@@ -17,7 +17,8 @@ body {
 
 a {
 /*  color: #33CC33;*/
-  /* color: #19a974; */
+  color: #19a974;
+  text-decoration: none;
 }
 
 img {
