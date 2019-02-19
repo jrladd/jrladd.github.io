@@ -81,7 +81,7 @@ Learning Goals (In This Class You Will...):
 
 <small>learn to build a network dataset from historical sources</small>
 
-<small>contribute to ongoing, public humanities network projects</small>
+<small>contribute to ongoing humanities network projects</small>
 
 <small>learn the [basics of investigating networks with Python (NetworkX)](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python)</small>
 
