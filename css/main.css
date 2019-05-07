@@ -34,6 +34,19 @@ img {
   position: -webkit-sticky;
   top: 0;
 }*/
+
+#cv-content, #sdfb-content, #about-content {
+  overflow-y: hidden;
+  max-height: 10000px;
+  transition: all .5s ease;
+}
+#cv-content.hidden, #sdfb-content.hidden, #about-content.hidden {
+	max-height: 0;
+}
+ #cv-heading, #sdfb-heading, #about-heading {
+   cursor: pointer;
+ }
+
 /*****************************************************************************/
 /*
 /* Home
