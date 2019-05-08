@@ -4,11 +4,14 @@ title: "jrladd"
 ---
 
 <section class="early-modern lh-copy pa4">
-	<h1 class="f1 lh-title i">John R. Ladd</h1>
+
 <div class="gallery dt">
+	<div class="dtc w-100 w-20-ns v-mid">
+		<h1 class="f1 lh-title i">John R. Ladd</h1>
+	</div>
   {% assign gallery_images = site.static_files | where: "gallery", true %}
   {% for image in gallery_images %}
-    <div class="dtc w-20 v-mid">
+    <div class="dtc w-10 v-mid">
      {% if image.basename == "proghist" %}
       {% assign fullname = "Exploring and Analyzing Network Data with Python" %}
       <a href="https://programminghistorian.org/lessons/exploring-and-analyzing-network-data-with-python" target="_blank">
@@ -25,7 +28,7 @@ title: "jrladd"
       {% assign fullname = "Title Page to Dryden's translation of Virgil (WUSTL copy, taken 6 Jan. 2016)" %}
       <a href="/projects" target="_blank">
     {% endif %}
-    <img class="w-90" src="{{ image.path }}" title="{{fullname}}">
+    <img class="w-90 grow" src="{{ image.path }}" title="{{fullname}}">
   </a>
 </div>
   {% endfor %}
