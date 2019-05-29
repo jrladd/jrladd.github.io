@@ -228,18 +228,20 @@ rm duplicate_file.txt
 <!-- .element: class="fragment" -->
 <small>`grep <search term> <filename>`: search within a file or group of files, use `-c` to count occurrences</small>
 <!-- .element: class="fragment" -->
-<small>`tr '<original_text>' '<replacement_text>' < <filename>`: transform all occurrences of some text with some other text</small>
+<small>`tr '<original_text>' '<replacement_text>'`: transform all occurrences of some text with some other text</small>
 <!-- .element: class="fragment" -->
 <small>`sort`: put anything into alphabetical/numerical order</small>
 <!-- .element: class="fragment" -->
 <small>`uniq`: reduce a list to only unique items, use `-c` to count them</small>
+<!-- .element: class="fragment" -->
+<small>`ptx`: create a "permuted index" for keyword searching</small>
 <!-- .element: class="fragment" -->
 **<small>`|`: "pipe" is the Most Useful Operator, move the output of one command to the output of any other</small>**
 <!-- .element: class="fragment" -->
 
 --
 
-### Manipulating Files (cont.)
+### Analyzing Files (cont.)
 
 ```
 wget jrladd.com/inauguralspeeches.zip
@@ -264,16 +266,64 @@ wc -w *.txt
 <!-- .element: class="fragment" -->
 
 ```
-echo "Who's there?" >> test_file.txt
-cat test_file.txt
+"How many files are in the directory?"
+ls
+ls | wc -l
+```
+<!-- .element: class="fragment" -->
+
+--
+
+### Analyzing Files (cont.)
+
+```
+"Find one word in a file"
+grep -i justice 3_ad<TAB>
+grep -oi justice 3_ad<TAB>
+grep -ci justice 3_ad<TAB>
+grep -oi justice 3_ad<TAB> | wc -l
 ```
 <!-- .element: class="fragment" -->
 
 ```
-less te<TAB>
-q
+"Find one word in all files"
+grep -oi justice *.txt
+grep -oi justice *.txt | wc -l
 ```
 <!-- .element: class="fragment" -->
+
+```
+"Count all words in entire corpus"
+cat *.txt | tr ' ' '\n' | sort | uniq -c | sort -n
+```
+<!-- .element: class="fragment" -->
+
+```
+"Keyword in Context (KWIC) Search"
+ptx -f -w 50 *.txt
+ptx -f -w 50 *.txt | grep -i justice
+ptx -f -w 50 *.txt | grep -i  "[[:alpha:]]   justice"
+```
+<!-- .element: class="fragment" -->
+
+---
+
+### Resources
+
+<small>[Explain Shell](https://explainshell.com/): Full explanation of any command
+
+[Command Line Cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/): Comprehensive list of basic commands
+
+#### Programming Historian
+
+- [Preserving Your Research Data](https://programminghistorian.org/en/lessons/preserving-your-research-data)
+- [Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
+- [Counting and Mining Research Data with Unix](https://programminghistorian.org/en/lessons/research-data-with-unix)
+
+William Turkel, [Basic Text Analysis with Command Line Tools in Linux](https://williamjturkel.net/2013/06/15/basic-text-analysis-with-command-line-tools-in-linux/) and [Pattern Matching and Permuted Term Indexing with Command Line Tools in Linux](https://williamjturkel.net/2013/06/20/pattern-matching-and-permuted-term-indexing-with-command-line-tools-in-linux/)
+
+Kenneth Ward Church, [Unix for Poets](https://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf)
+</small>
 
 ---
 
