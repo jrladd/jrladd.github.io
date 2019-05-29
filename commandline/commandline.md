@@ -4,7 +4,6 @@
 <br>
 ## Get to Know Your Computer:
 ### The Unix Command Line
-<!-- #### <i class="em em-thinking_face"></i> <i class="em em-bacon"></i> <i class="em em-computer"></i> -->
 
 [jrladd.com/commandline](https://jrladd.com/commandline)
 <br>
@@ -19,17 +18,11 @@
 
 ![](img/iknowthis.gif)
 
-<small>Unix: A family of operating systems that includes MacOS and Linux</small>
-
-<small>Command Line (shell): "a program that takes keyboard commands and passes them to the operating system to carry out" ([Shotts](https://nostarch.com/tlcl2))</small>
-
-<small>GUI (graphical user interface): the "normal", visual interface of windows and applications</small>
-
-<small>Synonyms/Acronyms for "command line": CLI, shell, sh, bash, terminal</small>
-
-<!-- <img style="float:left;" width="45%" data-src="img/jones.png">
-
-<img style="float:right;" width="45%" data-src="img/allgroups.png"/> -->
+<small>**Unix**: A family of operating systems that includes MacOS and Linux  
+**Command Line (shell)**: "a program that takes keyboard commands and passes them to the operating system to carry out" ([Shotts](https://nostarch.com/tlcl2))  
+**GUI (graphical user interface)**: the "normal", visual interface of windows and applications  
+**Synonyms/Acronyms for "command line"**: CLI, shell, sh, bash, terminal
+</small>
 
 
 ---
@@ -329,4 +322,4 @@ Kenneth Ward Church, [Unix for Poets](https://web.stanford.edu/class/cs124/kwc-u
 
 ### Thank you!
 
-<i class="em em-bacon"></i> <i class="em em-bacon"></i> <i class="em em-bacon"></i>
+![](img/couldhavebeenworse.gif)
