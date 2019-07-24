@@ -8,5 +8,6 @@ layout: page
 {{ content }}
 {% for photo in page.mf-photo %}
   <img src="{{ photo }}"/>
+  <p>{{ photo.alt }}</p>
 {% endfor %}
 </div>

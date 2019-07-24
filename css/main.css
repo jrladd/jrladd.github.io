@@ -67,6 +67,10 @@ img {
   font-size: 80%;
 }
 
+.posts .title {
+  font-size: 125%;
+}
+
 .micro-img {
   max-width: 400px;
 }
@@ -78,6 +82,13 @@ img {
 /*****************************************************************************/
 
 /* standard */
+
+.post p {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
+  max-width: 50em;
+}
+
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -112,6 +123,17 @@ img {
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+.post img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.post img + br + em {
+  display: block;
+  text-align: center;
 }
 
 .footnotes {
