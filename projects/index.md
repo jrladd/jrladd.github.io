@@ -33,7 +33,7 @@ title: " Projects"
 
 ![](/images/spenser.png)
 
-- [Spenser's Color Wheel](http://bl.ocks.org/jrladd/e0a9612c16d4ede17221a1af4d1ce0d9). Data visualization and deformance project exploring Spenser's use of color terms in *The Faerie Queene*. Allows users to rearrange Spenser's color lines into unique poems. [[source](https://github.com/jrladd/colorwheel)]
+- [Spenser's Color Wheel](https://jrladd.com/colorwheel). Data visualization and deformance project exploring Spenser's use of color terms in *The Faerie Queene*. Allows users to rearrange Spenser's color lines into unique poems. [[source](https://github.com/jrladd/colorwheel)]
 
 ![](/images/gallery/colorwheel.png)
 
