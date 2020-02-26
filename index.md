@@ -1,45 +1,18 @@
 ---
-layout: default
+layout: page
 title: "John R. Ladd"
 ---
 
 <section class="early-modern lh-copy pa4">
 
-<div class="gallery dt">
-	<div class="dtc w-100 w-20-ns v-mid">
-		<h1 class="f1 lh-title i">John R. Ladd</h1>
-	</div>
-  {% assign gallery_images = site.static_files | where: "gallery", true %}
-  {% for image in gallery_images %}
-    <div class="dtc w-10 v-mid">
-     {% if image.basename == "proghist" %}
-      {% assign fullname = "Exploring and Analyzing Network Data with Python" %}
-      <a href="https://programminghistorian.org/lessons/exploring-and-analyzing-network-data-with-python" target="_blank">
-    {% elsif image.basename == "colorwheel" %}
-      {% assign fullname = "Spenser's Color Wheel" %}
-      <a href="https://jrladd.com/colorwheel" target="_blank">
-    {% elsif image.basename == "emda" %}
-      {% assign fullname = "Early Modern Digital Agendas Network" %}
-      <a href="https://collation.folger.edu/2017/10/report-network-analysis/" target="_blank">
-    {% elsif image.basename == "sixdegrees" %}
-      {% assign fullname = "Six Degrees of Francis Bacon" %}
-      <a href="http://sixdegreesoffrancisbacon.com" target="_blank">
-    {% elsif image.basename == "drydentitlepage" %}
-      {% assign fullname = "Title Page to Dryden's translation of Virgil (WUSTL copy, taken 6 Jan. 2016)" %}
-      <a href="/projects" target="_blank">
-    {% endif %}
-    <img class="w-90 grow" src="{{ image.path }}" title="{{fullname}}">
-  </a>
-</div>
-  {% endfor %}
-  </div>
-  <p class="f4 ml6-ns measure-wide">I'm a postdoctoral fellow at the Kaplan Institute for the Humanities at Northwestern University, where I use archival research and digital methods to investigate the ways early modern material practices and social networks shape literary forms. My current book project, <em>Network Poetics: Studies in Early Modern Literary Collaboration</em>, reflects these interests by arguing that despite the rise of authorial individuation throughout the early modern period, collaborative, networked forms of writing persist and continue to take new shapes even after the Restoration. As part of my fellowship at Northwestern, I'm helping to improve and analyze digital transcriptions of early printed books as a member of the <a class="link dim hover green" href="https://earlyprint.org">EarlyPrint</a> project. I've been involved in a number of other <a class="link dim hover green" href="/projects">digital humanities projects</a> and have experience in data analysis, natural language processing, machine learning, and web development using Python and JavaScript. I'm a sporadic <a class="link dim hover green" href="https://twitter.com/johnrladd">Twitter</a> user and even less frequent <a class="link dim hover green" href="/blog">blogger</a>, but those will both give you a fuller sense of my research interests. You can find an up-to-date <a class="link dim hover green" href="/cv.pdf">CV here</a>.</p>
+
+  I'm a postdoctoral fellow at the Kaplan Institute for the Humanities at Northwestern University, where I use archival research and digital methods to investigate the ways early modern material practices and social networks shape literary forms. My current book project, <em>Network Poetics: Studies in Early Modern Literary Collaboration</em>, reflects these interests by arguing that despite the rise of authorial individuation throughout the early modern period, collaborative, networked forms of writing persist and continue to take new shapes even after the Restoration. As part of my fellowship at Northwestern, I'm helping to improve and analyze digital transcriptions of early printed books as a member of the <a class="link dim hover green" href="https://earlyprint.org">EarlyPrint</a> project. I've been involved in a number of other <a class="link dim hover green" href="/projects">digital humanities projects</a> and have experience in data analysis, natural language processing, machine learning, and web development using Python and JavaScript. You can find out more about my research interests and current projects on <a class="link dim hover green" href="https://twitter.com/johnrladd">Twitter</a> and <a class="link dim hover green" href="https://github.com/jrladd/">GitHub</a>. My up-to-date <a class="link dim hover green" href="/cv.pdf">CV is here</a>.
 
 
 </section>
 
 
-<section class="bg-blue light-gray cv fl mw9 ph6-ns ph4 pv2 f5-ns f6 w-100">
+<!-- <section class="bg-blue light-gray cv fl mw9 ph6-ns ph4 pv2 f5-ns f6 w-100">
 	<div class="h7 tc f5" id="cv-heading">Selected CV</div>
 	<div id="cv-content" class="hidden">
 	  <div class="fl w-100">
@@ -164,24 +137,8 @@ title: "John R. Ladd"
 
 	  <h1 class="dtc-ns v-mid f3-ns lh-title measure-narrow f4 w-50-ns pa2 mv5">During calendar year 2017, I was research fellow for <i><a class="link dim hover white" href="http://sixdegreesoffrancisbacon.com">Six Degrees of Francis Bacon</a></i>, an early modern network analysis project at Carnegie Mellon University, where I managed data, oversaw the project's preservation, and coordinated the site's major redesign effort. The fellowship is a part of my larger interest in and experience with the digital humanities, both at CMU and WashU, where I've worked on networks, natural language processing, topic modeling, machine learning, and more.</h1>
 	</div>
-</section>
+</section> -->
 
-<footer class="pv2 ph3 ph5-m ph6-l bg-green fl w-100">
-<!-- <section class="bg-green ph4 ph6-ns fl w-100"> -->
-	<!-- <div class="h7 tc light-gray cv pv2" id="about-heading">About</div> -->
-	<!-- <div class="hidden" id="about-content"> -->
-    <!-- <h1 class="early-modern lh-copy f4 measure-wide ml6-ns">I live in St. Louis with my partner, Katie, and our cat, Cardigan. In my spare time I use Python and JavaScript to <a class="link dim hover white" href='/projects'>do things with words</a> and a crochet hook to do things with yarn.</h1> -->
-    <p class="fl w-50-ns courier f6-ns f7">
-      <a class="link dim hover white" href='http://twitter.com/johnrladd' target="_blank">twitter</a>.
-      <a class="link dim hover white" href='http://github.com/jrladd' target="_blank">github</a>.
-      <a class="link dim hover white" href='http://zotero.org/johnrobertladd' target="_blank">zotero</a>.
-      <a class="link dim hover white" href='https://micro.blog/jrladd' target="_blank">microblog</a>.
-      <a class="link dim hover white" href='https://orcid.org/0000-0002-5440-062X' target="_blank">orcid</a>.<br>
-      johnrobertladd[at]gmail.com
-    </p>
 
-<p class="fl w-50-ns measure-wide courier f7">site built with <a class="link dim hover white" href='http://jekyllrb.com'>Jekyll</a> using <a class="link dim hover white" href='http://pages.github.com'>Github Pages</a>. the main text is set in the IM Fell typeface, based on the seventeenth-century roman and italic type used by printer John Fell. <a class="link dim hover white">learn more.</a></p>
-
-</footer>
 
 <script src="main.js"></script>

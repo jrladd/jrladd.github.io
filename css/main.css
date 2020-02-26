@@ -25,6 +25,13 @@ img {
   width: 70%;
 }
 
+.projects img {
+  width: 100%;
+  margin-bottom: 10%;
+  box-shadow: 5px 10px 8px;
+  /* max-height: 80%; */
+}
+
 .cv {
   font-family: "Open Sans", sans-serif;
 }

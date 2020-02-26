@@ -29,9 +29,11 @@
     </head>
     <body class="bg-near-white dark-gray">
 
-        <div class="site">
-          {{ content }}
-        </div>
+      {%- include header.html -%}
+  
+      {{ content }}
+
+      {%- include footer.html -%}
 
     </body>
     <!-- <script
