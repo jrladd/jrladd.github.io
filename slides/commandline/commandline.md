@@ -1,9 +1,9 @@
 
- <section data-menu-title="Title:  Get To Know Your Computer"></section>
+ <section data-menu-title="Title:  Text as Interface"></section>
 <br>
 <br>
-## Get to Know Your Computer:
-### The Unix Command Line
+## Text as Interface:
+### Analyzing Data on the Command Line
 
 [jrladd.com/commandline](https://jrladd.com/commandline)
 <br>
@@ -38,6 +38,18 @@
 - combine commands/applications
 - count, aggregate, and analyze... anything!
 
+---
+
+### How to Use this Tutorial
+
+<small>
+From here forward, you'll find lists of commands and their functions, followed by exercises with those commands.
+
+You'll run these exercises inside the Terminal application on your Mac or Linux operating system. ([Click here](https://programminghistorian.org/en/lessons/intro-to-bash#windows-only-installing-git-bash) for Windows-based instructions.) Type each line as it appears in order, and then hit `<ENTER>` to run that line.
+
+If you see, `<TAB>` in a command, hit the tab key on your keyboard (don't type the word TAB).
+
+And if you encounter any problems or have a question, feel free to [contact me](https://jrladd.com/).</small>
 
 ---
 
