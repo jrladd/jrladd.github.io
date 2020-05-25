@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="John R. Ladd | jrladd.com/slides/networkbasics">
+  <title>Understanding and Interpreting Your Network</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js/css/reset.css">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <link rel="stylesheet" href="reveal.js/css/theme/moon.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Understanding and Interpreting Your Network</h1>
+  <p class="author">John R. Ladd | jrladd.com/slides/networkbasics</p>
+  <p class="date">(use arrow keys or spacebar to navigate)</p>
+</section>
+
+<section>
+<section id="basic-parts" class="title-slide slide level1">
+<h1>Basic Parts</h1>
+
+</section>
+<section id="networks-are-made-up-of" class="slide level2">
+<h2>Networks are made up of…</h2>
+<ul>
+<li class="fragment">Entities (entity = node/vertex/actor)</li>
+<li class="fragment">Relationships (relationship = edge/link/tie)</li>
+<li class="fragment">We’ll use “nodes” and “edges”</li>
+</ul>
+</section>
+<section id="nodes-and-edges-have-attributes" class="slide level2">
+<h2>Nodes and Edges have Attributes</h2>
+<h3 id="node-attributes">Node Attributes</h3>
+<ul>
+<li class="fragment">numerical (size)</li>
+<li class="fragment">categorical (color)</li>
+</ul>
+<h3 id="edge-attributes">Edge Attributes</h3>
+<h4 id="directed-and-undirected-edges">Directed and Undirected Edges</h4>
+<h4 id="weighted-and-unweighted-edges">Weighted and Unweighted Edges</h4>
+<h4 id="edge-types">Edge Types</h4>
+</section></section>
+<section>
+<section id="multiple-edges-in-a-row-make-a-path" class="title-slide slide level1">
+<h1>Multiple Edges “in a row” Make a Path</h1>
+
+</section>
+<section id="path" class="slide level2">
+<h2>Path</h2>
+</section>
+<section id="diameter" class="slide level2">
+<h2>Diameter</h2>
+</section>
+<section id="average-shortest-path-length" class="slide level2">
+<h2>Average Shortest Path Length</h2>
+</section></section>
+<section>
+<section id="some-special-kinds-of-nodes" class="title-slide slide level1">
+<h1>Some special kinds of nodes</h1>
+
+</section>
+<section id="isolates" class="slide level2">
+<h2>Isolates</h2>
+</section>
+<section id="hubs" class="slide level2">
+<h2>Hubs</h2>
+</section>
+<section id="bridges" class="slide level2">
+<h2>Bridges</h2>
+</section></section>
+<section>
+<section id="measuring-a-nodes-importance-with-centrality" class="title-slide slide level1">
+<h1>Measuring a node’s “importance” with centrality</h1>
+
+</section>
+<section id="degree" class="slide level2">
+<h2>Degree</h2>
+</section>
+<section id="strength" class="slide level2">
+<h2>Strength</h2>
+</section>
+<section id="betweenness" class="slide level2">
+<h2>Betweenness</h2>
+</section></section>
+<section>
+<section id="different-kinds-of-entities-or-nodes" class="title-slide slide level1">
+<h1>Different kinds of entities or nodes</h1>
+
+</section>
+<section id="unipartiteunimodal" class="slide level2">
+<h2>Unipartite/unimodal</h2>
+</section>
+<section id="bipartitebimodal" class="slide level2">
+<h2>Bipartite/bimodal</h2>
+</section>
+<section id="multipartitek-partitemultimodal" class="slide level2">
+<h2>Multipartite/k-partite/multimodal</h2>
+</section></section>
+<section>
+<section id="groups-of-nodes-within-a-network" class="title-slide slide level1">
+<h1>Groups of nodes within a network</h1>
+
+</section>
+<section id="connected-components" class="slide level2">
+<h2>Connected components</h2>
+</section>
+<section id="clusters-and-clustering" class="slide level2">
+<h2>Clusters and clustering</h2>
+</section>
+<section id="communities-and-community-detection" class="slide level2">
+<h2>Communities and community detection</h2>
+</section>
+<section id="density" class="slide level2">
+<h2>Density</h2>
+</section></section>
+<section>
+<section id="there-are-many-ways-to-visualize-a-network" class="title-slide slide level1">
+<h1>There are many ways to visualize a network</h1>
+
+</section>
+<section id="adjacency-matrix" class="slide level2">
+<h2>Adjacency Matrix</h2>
+</section>
+<section id="adjacency-list" class="slide level2">
+<h2>Adjacency List</h2>
+</section>
+<section id="node-link-diagram" class="slide level2">
+<h2>Node-Link Diagram</h2>
+</section></section>
+<section>
+<section id="other-important-concepts" class="title-slide slide level1">
+<h1>Other Important Concepts</h1>
+
+</section>
+<section id="small-world-network" class="slide level2">
+<h2>Small World Network</h2>
+</section>
+<section id="triadic-closure" class="slide level2">
+<h2>Triadic Closure</h2>
+</section>
+<section id="assortative-mixinghomophily" class="slide level2">
+<h2>Assortative mixing/Homophily</h2>
+</section>
+<section id="preferential-attachment" class="slide level2">
+<h2>Preferential Attachment</h2>
+</section>
+<section id="weak-ties" class="slide level2">
+<h2>Weak Ties</h2>
+</section></section>
+    </div>
+  </div>
+
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
