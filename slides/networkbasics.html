@@ -8,16 +8,8 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-  <link rel="stylesheet" href="reveal.js/css/reset.css">
-  <link rel="stylesheet" href="reveal.js/css/reveal.css">
-  <style>
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
-  </style>
+  <link rel="stylesheet" href="reveal.js/css/reveal.css"/>
+  <style type="text/css">code{white-space: pre;}</style>
   <link rel="stylesheet" href="reveal.js/css/theme/moon.css" id="theme">
   <!-- Printing and PDF exports -->
   <script>
@@ -35,27 +27,21 @@
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide">
-  <h1 class="title">Understanding and Interpreting Your Network</h1>
-  <p class="author">John R. Ladd | jrladd.com/slides/networkbasics</p>
-  <p class="date">(use arrow keys or spacebar to navigate)</p>
-</section>
-
 <section>
-<section id="basic-parts" class="title-slide slide level1">
-<h1>Basic Parts</h1>
-
+    <h1 class="title">Understanding and Interpreting Your Network</h1>
+    <h2 class="author">John R. Ladd | jrladd.com/slides/networkbasics</h2>
+    <h3 class="date">(use arrow keys or spacebar to navigate)</h3>
 </section>
-<section id="networks-are-made-up-of" class="slide level2">
-<h2>Networks are made up of…</h2>
+
+<section><section id="basic-parts" class="titleslide slide level1"><h1>Basic Parts</h1></section><section id="networks-are-made-up-of..." class="slide level2">
+<h1>Networks are made up of...</h1>
 <ul>
 <li class="fragment">Entities (entity = node/vertex/actor)</li>
 <li class="fragment">Relationships (relationship = edge/link/tie)</li>
-<li class="fragment">We’ll use “nodes” and “edges”</li>
+<li class="fragment">We'll use &quot;nodes&quot; and &quot;edges&quot;</li>
 </ul>
-</section>
-<section id="nodes-and-edges-have-attributes" class="slide level2">
-<h2>Nodes and Edges have Attributes</h2>
+</section><section id="nodes-and-edges-have-attributes" class="slide level2">
+<h1>Nodes and Edges have Attributes</h1>
 <h3 id="node-attributes">Node Attributes</h3>
 <ul>
 <li class="fragment">numerical (size)</li>
@@ -66,116 +52,65 @@
 <h4 id="weighted-and-unweighted-edges">Weighted and Unweighted Edges</h4>
 <h4 id="edge-types">Edge Types</h4>
 </section></section>
-<section>
-<section id="multiple-edges-in-a-row-make-a-path" class="title-slide slide level1">
-<h1>Multiple Edges “in a row” Make a Path</h1>
-
-</section>
-<section id="path" class="slide level2">
-<h2>Path</h2>
-</section>
-<section id="diameter" class="slide level2">
-<h2>Diameter</h2>
-</section>
-<section id="average-shortest-path-length" class="slide level2">
-<h2>Average Shortest Path Length</h2>
+<section><section id="multiple-edges-in-a-row-make-a-path" class="titleslide slide level1"><h1>Multiple Edges &quot;in a row&quot; Make a Path</h1></section><section id="path" class="slide level2">
+<h1>Path</h1>
+</section><section id="diameter" class="slide level2">
+<h1>Diameter</h1>
+</section><section id="average-shortest-path-length" class="slide level2">
+<h1>Average Shortest Path Length</h1>
 </section></section>
-<section>
-<section id="some-special-kinds-of-nodes" class="title-slide slide level1">
-<h1>Some special kinds of nodes</h1>
-
-</section>
-<section id="isolates" class="slide level2">
-<h2>Isolates</h2>
-</section>
-<section id="hubs" class="slide level2">
-<h2>Hubs</h2>
-</section>
-<section id="bridges" class="slide level2">
-<h2>Bridges</h2>
+<section><section id="some-special-kinds-of-nodes" class="titleslide slide level1"><h1>Some special kinds of nodes</h1></section><section id="isolates" class="slide level2">
+<h1>Isolates</h1>
+</section><section id="hubs" class="slide level2">
+<h1>Hubs</h1>
+</section><section id="bridges" class="slide level2">
+<h1>Bridges</h1>
 </section></section>
-<section>
-<section id="measuring-a-nodes-importance-with-centrality" class="title-slide slide level1">
-<h1>Measuring a node’s “importance” with centrality</h1>
-
-</section>
-<section id="degree" class="slide level2">
-<h2>Degree</h2>
-</section>
-<section id="strength" class="slide level2">
-<h2>Strength</h2>
-</section>
-<section id="betweenness" class="slide level2">
-<h2>Betweenness</h2>
+<section><section id="measuring-a-nodes-importance-with-centrality" class="titleslide slide level1"><h1>Measuring a node's &quot;importance&quot; with centrality</h1></section><section id="degree" class="slide level2">
+<h1>Degree</h1>
+</section><section id="strength" class="slide level2">
+<h1>Strength</h1>
+</section><section id="betweenness" class="slide level2">
+<h1>Betweenness</h1>
 </section></section>
-<section>
-<section id="different-kinds-of-entities-or-nodes" class="title-slide slide level1">
-<h1>Different kinds of entities or nodes</h1>
-
-</section>
-<section id="unipartiteunimodal" class="slide level2">
-<h2>Unipartite/unimodal</h2>
-</section>
-<section id="bipartitebimodal" class="slide level2">
-<h2>Bipartite/bimodal</h2>
-</section>
-<section id="multipartitek-partitemultimodal" class="slide level2">
-<h2>Multipartite/k-partite/multimodal</h2>
+<section><section id="different-kinds-of-entities-or-nodes" class="titleslide slide level1"><h1>Different kinds of entities or nodes</h1></section><section id="unipartiteunimodal" class="slide level2">
+<h1>Unipartite/unimodal</h1>
+</section><section id="bipartitebimodal" class="slide level2">
+<h1>Bipartite/bimodal</h1>
+</section><section id="multipartitek-partitemultimodal" class="slide level2">
+<h1>Multipartite/k-partite/multimodal</h1>
 </section></section>
-<section>
-<section id="groups-of-nodes-within-a-network" class="title-slide slide level1">
-<h1>Groups of nodes within a network</h1>
-
-</section>
-<section id="connected-components" class="slide level2">
-<h2>Connected components</h2>
-</section>
-<section id="clusters-and-clustering" class="slide level2">
-<h2>Clusters and clustering</h2>
-</section>
-<section id="communities-and-community-detection" class="slide level2">
-<h2>Communities and community detection</h2>
-</section>
-<section id="density" class="slide level2">
-<h2>Density</h2>
+<section><section id="groups-of-nodes-within-a-network" class="titleslide slide level1"><h1>Groups of nodes within a network</h1></section><section id="connected-components" class="slide level2">
+<h1>Connected components</h1>
+</section><section id="clusters-and-clustering" class="slide level2">
+<h1>Clusters and clustering</h1>
+</section><section id="communities-and-community-detection" class="slide level2">
+<h1>Communities and community detection</h1>
+</section><section id="density" class="slide level2">
+<h1>Density</h1>
 </section></section>
-<section>
-<section id="there-are-many-ways-to-visualize-a-network" class="title-slide slide level1">
-<h1>There are many ways to visualize a network</h1>
-
-</section>
-<section id="adjacency-matrix" class="slide level2">
-<h2>Adjacency Matrix</h2>
-</section>
-<section id="adjacency-list" class="slide level2">
-<h2>Adjacency List</h2>
-</section>
-<section id="node-link-diagram" class="slide level2">
-<h2>Node-Link Diagram</h2>
+<section><section id="there-are-many-ways-to-visualize-a-network" class="titleslide slide level1"><h1>There are many ways to visualize a network</h1></section><section id="adjacency-matrix" class="slide level2">
+<h1>Adjacency Matrix</h1>
+</section><section id="adjacency-list" class="slide level2">
+<h1>Adjacency List</h1>
+</section><section id="node-link-diagram" class="slide level2">
+<h1>Node-Link Diagram</h1>
 </section></section>
-<section>
-<section id="other-important-concepts" class="title-slide slide level1">
-<h1>Other Important Concepts</h1>
-
-</section>
-<section id="small-world-network" class="slide level2">
-<h2>Small World Network</h2>
-</section>
-<section id="triadic-closure" class="slide level2">
-<h2>Triadic Closure</h2>
-</section>
-<section id="assortative-mixinghomophily" class="slide level2">
-<h2>Assortative mixing/Homophily</h2>
-</section>
-<section id="preferential-attachment" class="slide level2">
-<h2>Preferential Attachment</h2>
-</section>
-<section id="weak-ties" class="slide level2">
-<h2>Weak Ties</h2>
+<section><section id="other-important-concepts" class="titleslide slide level1"><h1>Other Important Concepts</h1></section><section id="small-world-network" class="slide level2">
+<h1>Small World Network</h1>
+</section><section id="triadic-closure" class="slide level2">
+<h1>Triadic Closure</h1>
+</section><section id="assortative-mixinghomophily" class="slide level2">
+<h1>Assortative mixing/Homophily</h1>
+</section><section id="preferential-attachment" class="slide level2">
+<h1>Preferential Attachment</h1>
+</section><section id="weak-ties" class="slide level2">
+<h1>Weak Ties</h1>
 </section></section>
     </div>
   </div>
 
+  <script src="reveal.js/lib/js/head.min.js"></script>
   <script src="reveal.js/js/reveal.js"></script>
 
   <script>
@@ -183,8 +118,8 @@
       // Full list of configuration options available at:
       // https://github.com/hakimel/reveal.js#configuration
       Reveal.initialize({
-        // Push each slide change to the browser history
-        history: true,
+        // Vertical centering of slides
+        center: true,
 
         // Optional reveal.js plugins
         dependencies: [
