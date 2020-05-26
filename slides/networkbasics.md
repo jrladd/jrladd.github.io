@@ -10,81 +10,132 @@
 - Relationships (relationship = edge/link/tie)
 - We'll use "nodes" and "edges"
 
+![](network_img/node_edge.png)
+
 ## Nodes and Edges have Attributes
 
-### Node Attributes
+## Node Attributes
 
 - numerical (size)
 - categorical (color)
 
-### Edge Attributes
+![](network_img/node_attributes.png)
 
-#### Directed and Undirected Edges
+## Edge Attributes
 
-#### Weighted and Unweighted Edges
+## Directed and Undirected Edges
 
-#### Edge Types
+![](network_img/directed_edge.png)
 
+## Weighted and Unweighted Edges
+
+![](network_img/weighted_edge.png)
+
+## Edge Types
+
+![](network_img/type_edge.png)
 
 # Multiple Edges "in a row" Make a Path
 
-## Path
+## Path & Diameter
 
-## Diameter
+![](network_img/path.png)
 
-## Average Shortest Path Length
+(& Average Shortest Path Length)
 
 # Some special kinds of nodes
 
 ## Isolates
 
+![](network_img/isolates.png)
+
 ## Hubs
 
+![](network_img/hubs.png)
+
 ## Bridges
+
+![](network_img/bridges.png)
 
 # Measuring a node's "importance" with centrality
 
 ## Degree
 
+![](network_img/degree.png)
+
 ## Strength
 
+![](network_img/strength.png)
+
 ## Betweenness
+
+![](network_img/betweenness.png)
 
 # Different kinds of entities or nodes
 
 ## Unipartite/unimodal
 
+![](network_img/unipartite.png)
+
 ## Bipartite/bimodal
 
+![](network_img/bipartite1.png)
+
+## Bipartite (cont.)
+
+![](network_img/bipartite2.png)
+
 ## Multipartite/k-partite/multimodal
+
+![](network_img/multipartite.png)
 
 # Groups of nodes within a network
 
 ## Connected components
 
-## Clusters and clustering
+![](network_img/components.png)
+
+## Cliques and clustering
+
+![](network_img/cliques.png)
 
 ## Communities and community detection
 
-## Density
+![](network_img/communities.png)
+
+# Density
+
+## A Sparse Network
+
+![](network_img/sparse.png)
+
+## A Dense Network
+
+![](network_img/dense.png)
 
 # There are many ways to visualize a network
 
 ## Adjacency Matrix
 
+![Tilman Piesk, via Wikipedia](network_img/adjacency_matrix.svg)
+
 ## Adjacency List
+
+![](network_img/adjacency_list.png)
+
+- A adjacent to B,C
+- B adjacent to A,C
+- C adjacent to A,B
 
 ## Node-Link Diagram
 
-# Other Important Concepts
+![](network_img/node_edge.png)
 
-## Small World Network
+## Other Important Concepts
 
-## Triadic Closure
-
-## Assortative mixing/Homophily
-
-## Preferential Attachment
-
-## Weak Ties
+- Small World Network
+- Triadic Closure
+- Assortative mixing/Homophily
+- Preferential Attachment
+- Weak Ties
 
