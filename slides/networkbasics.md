@@ -161,6 +161,6 @@
 <div style="width:50%;float:left;">
 - low average path length
 - low clustering coefficients
-- degree distribution follows power law
+- degree distribution follows power law (a few large hubs)
 - low diameter (usually around "six degrees")
 </div>
