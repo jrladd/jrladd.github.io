@@ -99,6 +99,10 @@
 
 ![](network_img/cliques.png)
 
+## Clustering Coefficient
+
+![Image from [Wikipedia](https://en.wikipedia.org/wiki/Clustering_coefficient)](network_img/clustering_coefficient.svg)
+
 ## Communities and community detection
 
 ![](network_img/communities.png)
@@ -131,11 +135,32 @@
 
 ![](network_img/node_edge.png)
 
-## Other Important Concepts
+# Other Important Concepts
 
-- Small World Network
-- Triadic Closure
-- Assortative mixing/Homophily
-- Preferential Attachment
-- Weak Ties
+## Triadic Closure
 
+![](network_img/triadic_closure.png)
+
+## Assortative mixing/Homophily
+
+![](network_img/homophily.png)
+
+## Preferential Attachment
+
+![](network_img/preferential_attachment.png)
+
+## Weak Ties
+
+![](network_img/weak_ties.png)
+
+## Small World Network
+
+<div style="width:50%;float:left;">
+![](network_img/bacon.jpg)
+</div>
+<div style="width:50%;float:left;">
+- low average path length
+- low clustering coefficients
+- degree distribution follows power law
+- low diameter (usually around "six degrees")
+</div>
