@@ -6,10 +6,7 @@
     {% assign gallery_images = site.static_files | where: "gallery", true %}
     {% for image in gallery_images %}
       <div class="dtc w-10 v-mid">
-       {% if image.basename == "phrase" %}
-        {% assign fullname = "EarlyPrint Phrase Search" %}
-        <a href="https://earlyprint.org/lab/tool_phrase_search.html" target="_blank">
-      {% elsif image.basename == "colorwheel" %}
+      {% if image.basename == "colorwheel" %}
         {% assign fullname = "Spenser's Color Wheel" %}
         <a href="https://jrladd.com/colorwheel" target="_blank">
       {% elsif image.basename == "scatter" %}
