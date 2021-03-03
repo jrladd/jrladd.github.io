@@ -9,13 +9,25 @@ title: " Projects"
 
 As a research fellow at Carnegie Mellon University in 2017, I oversaw data analysis and the complete site redesign as a project lead.
 
-![](/images/gallery/sixdegrees.png)
+![](/images/gallery/1sixdegrees.png)
 
 *[EarlyPrint](https://earlyprint.org/)*.
 
 As postdoctoral fellow in DH at Northwestern University (my current post), I am a member of the project team for this large project that is focused on annotating, expanding, and analyzing the Early English Books Online–Text Creation Partnership corpus.
 
 ![](/images/earlyprintngram.png)
+
+[Topic Model Scatter Plot](https://earlyprint.org/scatterplot).
+
+For *EarlyPrint*, a projection of ~60,000 early modern texts, using LDA "topic models" and LargeVis.
+
+![](/images/gallery/5scatter.png)
+
+[Phrase Search](https://earlyprint.org/lab/tool_phrase_search.html).
+
+Also for *EarlyPrint*, a prototype search interface based on Corpus Query Language that finds near matches for phrases. This tool is meant to facilitate the study of text reuse in the *EarlyPrint*. 
+
+![](/images/phrase.png)
 
 Dedication networks in EEBO-TCP texts (in-progress).
 
@@ -33,7 +45,7 @@ This web-based tool for network analysis focuses on quantitative network metrics
 
 A data visualization and deformance project that explores Spenser's use of color terms in *The Faerie Queene*. Allows users to rearrange Spenser's color lines into unique poems. I published a short piece on this project for [The Spenser Review](https://www.english.cam.ac.uk/spenseronline/review/item/49.3.5/). [[source code](https://github.com/jrladd/colorwheel)]
 
-![](/images/gallery/colorwheel.png)
+![](/images/gallery/4colorwheel.png)
 
 Print and Probability.
 
@@ -57,11 +69,11 @@ This bipartite network graph represents participants in university poetry collec
 
 I created a network visualization of the three EMDA seminars at the Folger Shakespeare Library for a [blog post](https://collation.folger.edu/2017/10/report-network-analysis/) summarizing the events.
 
-![](/images/gallery/emda.png)
+![](/images/emda.png)
 
-[Endless Monument][bot].
+[Endless Monument][http://twitter.com/endlessmonument].
 
-A Twitter bot for Spenser's Epithalamion, that tweets out the poem according to the complex time scheme that Spenser himself incorporated into the verse ([more information here][post]).
+A Twitter bot for Spenser's Epithalamion, that tweets out the poem according to the complex time scheme that Spenser himself incorporated into the verse ([more information here][/endless-monument.html]).
 
 ![](/images/spenser.png)
 
@@ -71,6 +83,3 @@ A demonstration of NetworkX and D3 Force-Directed graphs for digital humanities 
 
 ![](/images/marvel.png)
 
-
-[bot]: http://twitter.com/endlessmonument
-[post]: /endless-monument.html
