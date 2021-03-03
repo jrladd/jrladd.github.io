@@ -35,7 +35,7 @@ title: "John R. Ladd"
   <li class="pl4"><a class="link dim green" href="https://jrladd.com/spreadsheets.html">Working with Humanities Data in Google Sheets.</a></li>
   <li class="pl4"><a class="link dim green" href="https://jrladd.com/network-glossary.html">The Network Glossary.</a></li>
   <li><strong>Digital Projects</strong> (<a class="link dim green" href="https://jrladd.com/projects">see all</a>)</li>
-  <li class="pl4"><a class="link dim green" href="https://earlyprint.org">EarlyPrint.</a></li>
+  <li class="pl4"><a class="link dim green" href="https://earlyprint.org">EarlyPrint</a>, including <a class="link dim green" href="https://earlyprint.org/scatterplot">Topic Model Scatter Plot</a> and <a class="link dim green" href="https://earlyprint.org/lab/tool_phrase_search.html">Phrase Search.</a></li>
   <li class="pl4"><a class="link dim green" href="http://sixdegreesoffrancisbacon.com">Six Degrees of Francis Bacon.</a></li>
   <li class="pl4"><a class="link dim green" href="https://network-navigator.library.cmu.edu/">Network Navigator.</a></li>
   <li class="pl4"><a class="link dim green" href="https://jrladd.com/colorwheel/">Spenser's Color Wheel.</a></li>
