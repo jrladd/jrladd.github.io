@@ -6,18 +6,21 @@
     {% assign gallery_images = site.static_files | where: "gallery", true %}
     {% for image in gallery_images %}
       <div class="dtc w-10 v-mid">
-       {% if image.basename == "proghist" %}
-        {% assign fullname = "Exploring and Analyzing Network Data with Python" %}
-        <a href="https://programminghistorian.org/lessons/exploring-and-analyzing-network-data-with-python" target="_blank">
+       {% if image.basename == "phrase" %}
+        {% assign fullname = "EarlyPrint Phrase Search" %}
+        <a href="https://earlyprint.org/lab/tool_phrase_search.html" target="_blank">
       {% elsif image.basename == "colorwheel" %}
         {% assign fullname = "Spenser's Color Wheel" %}
         <a href="https://jrladd.com/colorwheel" target="_blank">
-      {% elsif image.basename == "emda" %}
-        {% assign fullname = "Early Modern Digital Agendas Network" %}
-        <a href="https://collation.folger.edu/2017/10/report-network-analysis/" target="_blank">
+      {% elsif image.basename == "scatter" %}
+        {% assign fullname = "Topic Model Scatter Plot" %}
+        <a href="https://earlyprint.org/scatterplot/" target="_blank">
       {% elsif image.basename == "sixdegrees" %}
         {% assign fullname = "Six Degrees of Francis Bacon" %}
         <a href="http://sixdegreesoffrancisbacon.com" target="_blank">
+      {% elsif image.basename == "python" %}
+        {% assign fullname = "EarlyPrint + Python Textbook" %}
+        <a href="https://earlyprint.org/jupyterbook/intro.html" target="_blank">
       {% elsif image.basename == "drydentitlepage" %}
         {% assign fullname = "Title Page to Dryden's translation of Virgil (WUSTL copy, taken 6 Jan. 2016)" %}
         <a href="/projects" target="_blank">
