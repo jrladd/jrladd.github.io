@@ -25,7 +25,7 @@ For *EarlyPrint*, a projection of ~60,000 early modern texts, using LDA "topic m
 
 [Phrase Search](https://earlyprint.org/lab/tool_phrase_search.html).
 
-Also for *EarlyPrint*, a prototype search interface based on Corpus Query Language that finds near matches for phrases. This tool is meant to facilitate the study of text reuse in the *EarlyPrint*. 
+Also for *EarlyPrint*, a prototype search interface based on Corpus Query Language that finds near matches for phrases. This tool is meant to facilitate the study of text reuse in the *EarlyPrint* corpus.
 
 ![](/images/phrase.png)
 
