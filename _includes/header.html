@@ -6,19 +6,19 @@
     {% assign gallery_images = site.static_files | where: "gallery", true %}
     {% for image in gallery_images %}
       <div class="dtc w-10 v-mid">
-      {% if image.basename == "colorwheel" %}
+      {% if image.basename == "4colorwheel" %}
         {% assign fullname = "Spenser's Color Wheel" %}
         <a href="https://jrladd.com/colorwheel" target="_blank">
-      {% elsif image.basename == "scatter" %}
+      {% elsif image.basename == "5scatter" %}
         {% assign fullname = "Topic Model Scatter Plot" %}
         <a href="https://earlyprint.org/scatterplot/" target="_blank">
-      {% elsif image.basename == "sixdegrees" %}
+      {% elsif image.basename == "1sixdegrees" %}
         {% assign fullname = "Six Degrees of Francis Bacon" %}
         <a href="http://sixdegreesoffrancisbacon.com" target="_blank">
-      {% elsif image.basename == "python" %}
+      {% elsif image.basename == "2python" %}
         {% assign fullname = "EarlyPrint + Python Textbook" %}
         <a href="https://earlyprint.org/jupyterbook/intro.html" target="_blank">
-      {% elsif image.basename == "drydentitlepage" %}
+      {% elsif image.basename == "3drydentitlepage" %}
         {% assign fullname = "Title Page to Dryden's translation of Virgil (WUSTL copy, taken 6 Jan. 2016)" %}
         <a href="/projects" target="_blank">
       {% endif %}
