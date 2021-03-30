@@ -22,22 +22,22 @@ title: "John R. Ladd"
   <h1 class="f2">What I've Been Up To Recently</h1>
   <ul class="list pl0">
   <li><strong>Refereed Articles</strong></li>
-  <li class="pl4"><a class="link dim green" href>Imaginative Networks in Early Modern Printed Books.</a> <em>Journal of Cultural Analytics</em>, Forthcoming.</li>
-  <li class="pl4"><a class="link dim green" href="http://doi.org/10.1353/mlt.2019.0000">The Multivocal Monody: Milton and the Poetics of <em>Justa Edouardo King</em>.</a> <em>Milton Studies</em>, 2019.</li>
+  <li class="pl4"><a class="link dim green" href="https://doi.org/10.22148/001c.21993" target="_blank">Imaginative Networks: Tracing Connections Among Early Modern Book Dedications.</a> <em>Journal of Cultural Analytics</em>, 2021.</li>
+  <li class="pl4"><a class="link dim green" href="http://doi.org/10.1353/mlt.2019.0000" target="_blank">The Multivocal Monody: Milton and the Poetics of <em>Justa Edouardo King</em>.</a> <em>Milton Studies</em>, 2019.</li>
   <li><strong>Recent Courses</strong></li>
-  <li class="pl4"><a class="link dim green" href="https://jrladd.com/dh2020">Introduction to Digital Humanities.</a> Graduate Seminar, Northwestern University.</li>
-  <li class="pl4"><a class="link dim green" href>Information Overload! Text Technologies from the Printing Press to the Smartphone.</a> Northwestern University (course website coming soon).</li>
+  <li class="pl4"><a class="link dim green" href="https://jrladd.com/dh2020" target="_blank">Introduction to Digital Humanities.</a> Graduate Seminar, Northwestern University.</li>
+  <li class="pl4"><a class="link dim green" href="https://jrladd.com/info_overload" target="_blank">Information Overload! Text Technologies from the Printing Press to the Smartphone.</a> Northwestern University (course website coming soon).</li>
   <li><strong>Tutorials and Guides</strong></li>
-  <li class="pl4"><a class="link dim green" href="https://earlyprint.org/jupyterbook/intro.html">EarlyPrint + Python.</a> Humanities Data Science Textbook.</li>
+  <li class="pl4"><a class="link dim green" href="https://earlyprint.org/jupyterbook/intro.html" target="_blank">EarlyPrint + Python.</a> Humanities Data Science Textbook.</li>
   <li class="pl4">For <em>The Programming Historian:</em></li>
-  <li class="pl5"><a class="link dim green" href="https://programminghistorian.org/lessons/exploring-and-analyzing-network-data-with-python">Exploring and Analyzing Network Data with Python.</a></li>
-  <li class="pl5"><a class="link dim green" href="https://programminghistorian.org/en/lessons/common-similarity-measures">Understanding and Using Common Similarity Measures for Text Analysis.</a></li>
-  <li class="pl4"><a class="link dim green" href="https://jrladd.com/spreadsheets.html">Working with Humanities Data in Google Sheets.</a></li>
-  <li class="pl4"><a class="link dim green" href="https://jrladd.com/network-glossary.html">The Network Glossary.</a></li>
+  <li class="pl5"><a class="link dim green" href="https://programminghistorian.org/lessons/exploring-and-analyzing-network-data-with-python" target="_blank">Exploring and Analyzing Network Data with Python.</a></li>
+  <li class="pl5"><a class="link dim green" href="https://programminghistorian.org/en/lessons/common-similarity-measures" target="_blank">Understanding and Using Common Similarity Measures for Text Analysis.</a></li>
+  <li class="pl4"><a class="link dim green" href="https://jrladd.com/spreadsheets.html" target="_blank">Working with Humanities Data in Google Sheets.</a></li>
+  <li class="pl4"><a class="link dim green" href="https://jrladd.com/network-glossary.html" target="_blank">The Network Glossary.</a></li>
   <li><strong>Digital Projects</strong> (<a class="link dim green" href="https://jrladd.com/projects">see all</a>)</li>
-  <li class="pl4"><a class="link dim green" href="https://earlyprint.org">EarlyPrint</a>, including <a class="link dim green" href="https://earlyprint.org/scatterplot">Topic Model Scatter Plot</a> and <a class="link dim green" href="https://earlyprint.org/lab/tool_phrase_search.html">Phrase Search.</a></li>
-  <li class="pl4"><a class="link dim green" href="http://sixdegreesoffrancisbacon.com">Six Degrees of Francis Bacon.</a></li>
-  <li class="pl4"><a class="link dim green" href="https://network-navigator.library.cmu.edu/">Network Navigator.</a></li>
-  <li class="pl4"><a class="link dim green" href="https://jrladd.com/colorwheel/">Spenser's Color Wheel.</a></li>
+  <li class="pl4"><a class="link dim green" href="https://earlyprint.org" target="_blank">EarlyPrint</a>, including <a class="link dim green" href="https://earlyprint.org/scatterplot" target="_blank">Topic Model Scatter Plot</a> and <a class="link dim green" href="https://earlyprint.org/lab/tool_phrase_search.html" target="_blank">Phrase Search.</a></li>
+  <li class="pl4"><a class="link dim green" href="http://sixdegreesoffrancisbacon.com" target="_blank">Six Degrees of Francis Bacon.</a></li>
+  <li class="pl4"><a class="link dim green" href="https://network-navigator.library.cmu.edu/" target="_blank">Network Navigator.</a></li>
+  <li class="pl4"><a class="link dim green" href="https://jrladd.com/colorwheel/" target="_blank">Spenser's Color Wheel.</a></li>
   </ul>
 </section>
