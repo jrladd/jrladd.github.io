@@ -125,6 +125,8 @@
 - Matt Lincoln's [ProjectoR](https://github.com/mdlincoln/projectoR)
 - [Palladio embeddable components](https://github.com/humanitiesplusdesign/palladio-graph-component)
 
+# Next Steps
+
 ## Ways That I Can Help
 
 - Regular Meetings/Feedback
@@ -132,3 +134,10 @@
 - Data Wrangling
 - Visualization
 - Websites
+
+## Goals for June
+
+- Schedule meeting w/ John
+- Craft short proposal (1-2pgs)
+- Think about cross-team collaboration
+- Prepare to discuss plans at June 21-25 convening
