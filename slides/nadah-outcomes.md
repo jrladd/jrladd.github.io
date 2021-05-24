@@ -95,13 +95,19 @@
 
 ## Node-link diagrams
 - force-directed layouts
+	- with map: Martin Grandjean's [Air Traffic Network](http://www.martingrandjean.ch/connected-world-air-traffic-network/)
 - arc diagrams
+	- [Sortable Arc Diagram](https://observablehq.com/@d3/arc-diagram)
+	- [Tudor Networks](https://tudornetworks.net/)
 - chord diagrams
-- circular layouts
+	- Nadieh Bremer's ["Data Storytelling" with a chord diagram](https://www.visualcinnamon.com/2014/12/using-data-storytelling-with-chord/)
+- circular/radial layouts
+	- SDFB's [concentric layout](http://sixdegreesoffrancisbacon.com/)
 
 ## Adjacency matrix/grid/table layouts
 
-- See [Chris Sula's presentation](http://bit.ly/sulanetworkdesign) for more examples
+- Elijah Meeks's [Adjacency Matrix Layout](https://bl.ocks.org/emeeks/15c005cba60aad26e11a)
+- See [Chris Sula's presentation](http://bit.ly/sulanetworkdesign) for more examples of all viz types
 
 # Tools
 
