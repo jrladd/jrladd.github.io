@@ -15,6 +15,16 @@
 	- Choose one or make a combination of any of these
 	- Something else entirely
 
+::: notes
+
+Here's how it will go:
+
+- ~30 mins to go through slides/possibilities
+- 30 mins or more for you to meet with individual teams
+- Back together for some brief group discussion
+
+:::
+
 # Articles, Essays, Book Chapters
 
 ## Art History journals/collections
@@ -141,3 +151,10 @@
 - Craft short proposal (1-2pgs)
 - Think about cross-team collaboration
 - Prepare to discuss plans at June 21-25 convening
+- Refer to webpage: <https://sites.haa.pitt.edu/na-dah/possible-outcomes/>
+
+::: notes
+
+- 30 mins for discussion, would you like more?
+
+:::
