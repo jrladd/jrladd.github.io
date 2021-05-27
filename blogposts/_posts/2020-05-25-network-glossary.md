@@ -4,7 +4,7 @@ title: "Network Glossary"
 tags: digital humanities, networks, presentations
 ---
 
-*Below is a glossary of basic terms used in **social network analysis**. This list was first compiled for a webinar as part of the [Getty Advanced Workshop on Network Analysis and Digital Art History](https://sites.haa.pitt.edu/na-dah/), but the terms and definitions offered here should be useful to anyone starting out with a humanities network project.*
+*Below is a glossary of basic terms used in **social network analysis**. This list was first compiled for a webinar as part of the [Getty Advanced Workshop on Network Analysis and Digital Art History](https://sites.haa.pitt.edu/na-dah/) in 2020, but the terms and definitions offered here should be useful to anyone starting out with a humanities network project.*
 
 ## Basic Terms
 
@@ -31,6 +31,8 @@ tags: digital humanities, networks, presentations
 ![](../slides/network_img/path.png)
 
 - **diameter** -- the shortest path connecting the two farthest-apart nodes in a network, i.e. the "longest shortest path" available in the network.
+
+- **density** -- the number of edges in the network divided by the total number of *possible* edges in the network, if every node were connected to every other node. Density tells us how connected a particular network is.
 
 ## Special Types of Nodes
 
@@ -59,7 +61,9 @@ tags: digital humanities, networks, presentations
 
 ![](../slides/network_img/strength.png)
 
-- **betweenness** -- in its simplest form, the number of shortest paths that must pass through a particular node. Betweenness centrality helps to measure how often any path in the network must go through a node and therefore can show if a node is connected to many disparate groups in the network.
+- **betweenness centrality** -- in its simplest form, the number of shortest paths that must pass through a particular node. Betweenness centrality helps to measure how often any path in the network must go through a node and therefore can show if a node is connected to many disparate groups in the network.
+
+- **eigenvector centrality** -- a centrality measurement based on a node's degree and the degree of its immediate neighbors. A node can have high eigenvector centrality if it is adjacent to a high-degree node, even if the node itself doesn't have very high degree. The [Wikipedia article](https://en.wikipedia.org/wiki/Eigenvector_centrality) provides more mathematical detail on the eigenvectors and eigenvalues that make up this measure.
 
 ## Multipartite Networks
 
@@ -87,6 +91,9 @@ tags: digital humanities, networks, presentations
 
 - **clustering coefficient** -- the ratio of how many of a node's neighbors are connected to each other, relative to the total number of neighbors.
 - **community** -- a grouping of nodes within a component that is usually more densely connected than the rest of the network around it. Communities can be defined several ways through a series of methods called "community detection." The most well-known community detection method is *modularity*.
+- **triangle** -- a set of three nodes---A, B, and C---where A is connected to B, B to C, and C to A, forming a triangle. Clustering coefficients essentially measure the number of triangles of which any node is a member.
+- **triad** -- a set of three nodes---A, B, and C---where A is connected to B and C, but B and C are not connected. A triad is a possible triangle that is not complete.
+- **transitivity** -- the number of triangles in a network divided by the number of triads. Like density and average clustering coefficient, transitivity tells us something about how connected a graph is versus how connected it *could* have been. Higher transitivity creates more opportunities for cliques.
 
 ![](../slides/network_img/communities.png)
 
