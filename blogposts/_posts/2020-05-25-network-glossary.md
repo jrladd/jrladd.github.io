@@ -91,11 +91,13 @@ tags: digital humanities, networks, presentations
 
 - **clustering coefficient** -- the ratio of how many of a node's neighbors are connected to each other, relative to the total number of neighbors.
 - **community** -- a grouping of nodes within a component that is usually more densely connected than the rest of the network around it. Communities can be defined several ways through a series of methods called "community detection." The most well-known community detection method is *modularity*.
+
+![](../slides/network_img/communities.png)
+
 - **triangle** -- a set of three nodes---A, B, and C---where A is connected to B, B to C, and C to A, forming a triangle. Clustering coefficients essentially measure the number of triangles of which any node is a member.
 - **triad** -- a set of three nodes---A, B, and C---where A is connected to B and C, but B and C are not connected. A triad is a possible triangle that is not complete.
 - **transitivity** -- the number of triangles in a network divided by the number of triads. Like density and average clustering coefficient, transitivity tells us something about how connected a graph is versus how connected it *could* have been. Higher transitivity creates more opportunities for cliques.
 
-![](../slides/network_img/communities.png)
 
 ## Visualizations
 
