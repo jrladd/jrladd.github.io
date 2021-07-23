@@ -17,7 +17,13 @@ As postdoctoral fellow in DH at Northwestern University (my current post), I am 
 
 ![](/images/earlyprintngram.png)
 
-[Topic Model Scatter Plot](https://earlyprint.org/scatterplot).
+[Network Navigator](https://networknavigator.jrladd.com).
+
+A browser-based tool for network analysis that focuses on quantitative network metrics, rebuilt in 2021 with [Zoe LeBlanc](https://zoeleblanc.com/). We've also been working with [Palladio](http://hdlab.stanford.edu/palladio/) to incorporate parts of this tool into the latest version of their site.
+
+![](/images/navigator.png)
+
+[*EarlyPrint* Bibliographia](https://earlyprint.org/bibliographia).
 
 For *EarlyPrint*, a projection of ~60,000 early modern texts, using LDA "topic models" and LargeVis.
 
@@ -34,12 +40,6 @@ Dedication networks in EEBO-TCP texts (in-progress).
 A major part of my current book project, this is a network analysis of names found in *EarlyPrint* texts. It includes applications of quantitative network analysis and graph theory, as well as named-entity recognition.
 
 ![](/images/dedication_jupyter.png)
-
-[Network Navigator](http://dh-web.hss.cmu.edu/network_navigator/).
-
-This web-based tool for network analysis focuses on quantitative network metrics. I'm currently working with [Palladio](http://hdlab.stanford.edu/palladio/) to incorporate this tool into the latest version of their site.
-
-![](/images/navigator.png)
 
 [Spenser's Color Wheel](https://jrladd.com/colorwheel).
 
@@ -71,13 +71,13 @@ I created a network visualization of the three EMDA seminars at the Folger Shake
 
 ![](/images/emda.png)
 
-[Endless Monument][http://twitter.com/endlessmonument].
+[Endless Monument](http://twitter.com/endlessmonument).
 
-A Twitter bot for Spenser's Epithalamion, that tweets out the poem according to the complex time scheme that Spenser himself incorporated into the verse ([more information here][/endless-monument.html]).
+A Twitter bot for Spenser's Epithalamion, that tweets out the poem according to the complex time scheme that Spenser himself incorporated into the verse ([more information here](/endless-monument.html)).
 
 ![](/images/spenser.png)
 
-[Marvel Network](http://bl.ocks.org/jrladd/c76799aa63efd7176bd9006f403e854d).
+[Marvel Network](https://observablehq.com/@jrladd/marvel-network).
 
 A demonstration of NetworkX and D3 Force-Directed graphs for digital humanities applications, using sample data from Marvel comics. [[source](https://github.com/jrladd/marvel_network)]
 
