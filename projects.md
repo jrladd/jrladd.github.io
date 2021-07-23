@@ -45,7 +45,7 @@ A major part of my current book project, this is a network analysis of names fou
 
 A data visualization and deformance project that explores Spenser's use of color terms in *The Faerie Queene*. Allows users to rearrange Spenser's color lines into unique poems. I published a short piece on this project for [The Spenser Review](https://www.english.cam.ac.uk/spenseronline/review/item/49.3.5/). [[source code](https://github.com/jrladd/colorwheel)]
 
-![](/images/gallery/4colorwheel.png)
+![](/images/colorwheel.png)
 
 Print and Probability.
 

@@ -6,12 +6,12 @@
     {% assign gallery_images = site.static_files | where: "gallery", true %}
     {% for image in gallery_images %}
       <div class="dtc w-10 v-mid">
-      {% if image.basename == "4colorwheel" %}
-        {% assign fullname = "Spenser's Color Wheel" %}
-        <a href="https://jrladd.com/colorwheel" target="_blank">
+      {% if image.basename == "4navigator" %}
+        {% assign fullname = "Network Navigator" %}
+        <a href="https://networknavigator.jrladd.com" target="_blank">
       {% elsif image.basename == "5scatter" %}
-        {% assign fullname = "Topic Model Scatter Plot" %}
-        <a href="https://earlyprint.org/scatterplot/" target="_blank">
+        {% assign fullname = "EarlyPrint Bibliographia" %}
+        <a href="https://earlyprint.org/bibliographia/" target="_blank">
       {% elsif image.basename == "1sixdegrees" %}
         {% assign fullname = "Six Degrees of Francis Bacon" %}
         <a href="http://sixdegreesoffrancisbacon.com" target="_blank">

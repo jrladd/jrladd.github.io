@@ -35,9 +35,9 @@ title: "John R. Ladd"
   <li class="pl4"><a class="link dim green" href="https://jrladd.com/spreadsheets.html" target="_blank">Working with Humanities Data in Google Sheets.</a></li>
   <li class="pl4"><a class="link dim green" href="https://jrladd.com/network-glossary.html" target="_blank">The Network Glossary.</a></li>
   <li><strong>Digital Projects</strong> (<a class="link dim green" href="https://jrladd.com/projects">see all</a>)</li>
-  <li class="pl4"><a class="link dim green" href="https://earlyprint.org" target="_blank">EarlyPrint</a>, including <a class="link dim green" href="https://earlyprint.org/scatterplot" target="_blank">Topic Model Scatter Plot</a> and <a class="link dim green" href="https://earlyprint.org/lab/tool_phrase_search.html" target="_blank">Phrase Search.</a></li>
+  <li class="pl4"><a class="link dim green" href="https://networknavigator.jrladd.com/" target="_blank">Network Navigator v2.0.</a></li>
+  <li class="pl4"><a class="link dim green" href="https://earlyprint.org" target="_blank">EarlyPrint</a>, including <a class="link dim green" href="https://earlyprint.org/bibliographia" target="_blank">Bibliographia</a> and <a class="link dim green" href="https://earlyprint.org/lab/tool_phrase_search.html" target="_blank">Phrase Search.</a></li>
   <li class="pl4"><a class="link dim green" href="http://sixdegreesoffrancisbacon.com" target="_blank">Six Degrees of Francis Bacon.</a></li>
-  <li class="pl4"><a class="link dim green" href="https://network-navigator.library.cmu.edu/" target="_blank">Network Navigator.</a></li>
   <li class="pl4"><a class="link dim green" href="https://jrladd.com/colorwheel/" target="_blank">Spenser's Color Wheel.</a></li>
   </ul>
 </section>
