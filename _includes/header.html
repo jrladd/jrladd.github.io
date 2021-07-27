@@ -1,30 +1,11 @@
-<header class="pa4">
-  <div class="gallery dt">
-  	<div class="dtc w-100 w-20-ns v-mid">
-  		<h1 class="f1 lh-title i"><a href="/" class="dark-gray">John R. Ladd</a></h1>
-  	</div>
-    {% assign gallery_images = site.static_files | where: "gallery", true %}
-    {% for image in gallery_images %}
-      <div class="dtc w-10 v-mid">
-      {% if image.basename == "4navigator" %}
-        {% assign fullname = "Network Navigator" %}
-        <a href="https://networknavigator.jrladd.com" target="_blank">
-      {% elsif image.basename == "5scatter" %}
-        {% assign fullname = "EarlyPrint Bibliographia" %}
-        <a href="https://earlyprint.org/bibliographia/" target="_blank">
-      {% elsif image.basename == "1sixdegrees" %}
-        {% assign fullname = "Six Degrees of Francis Bacon" %}
-        <a href="http://sixdegreesoffrancisbacon.com" target="_blank">
-      {% elsif image.basename == "2python" %}
-        {% assign fullname = "EarlyPrint + Python Textbook" %}
-        <a href="https://earlyprint.org/jupyterbook/intro.html" target="_blank">
-      {% elsif image.basename == "3drydentitlepage" %}
-        {% assign fullname = "Title Page to Dryden's translation of Virgil (WUSTL copy, taken 6 Jan. 2016)" %}
-        <a href="/projects" target="_blank">
-      {% endif %}
-      <img class="w-90 grow" src="{{ image.path }}" title="{{fullname}}">
-    </a>
+<header>
+<nav class="db dt-l w-100 border-box pa3 ph5-l bb b--light-gray">
+  <a class="db dtc-l v-mid black link dim early-modern i b f4 f1-ns w-100 w-30-l tc tl-l mb2 mb0-l" href="#" title="Home">John R. Ladd</a>
+  <div class="db dtc-l v-mid w-100 w-75-l tc tr-l">
+    <a class="link dim green f6 f5-l dib mr3 mr4-l" href="/" title="Home">Home</a>
+    <a class="link dim green f6 f5-l dib mr3 mr4-l" href="/projects" title="Projects">Projects</a>
+    <a class="link dim green f6 f5-l dib mr3 mr4-l" href="/cv.pdf" title="CV" target="_blank">CV</a>
+    <a class="link dim green f6 f5-l dib mr3 mr4-l" href="/schedule" title="Schedule">Schedule</a>
   </div>
-    {% endfor %}
-    </div>
+</nav>
 </header>
