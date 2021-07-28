@@ -14,7 +14,7 @@ title: "John R. Ladd"
   </div>
   <div class="fl measure">
   <p>
-  I'm a Visiting Assistant Professor in <a href="https://denison.edu/academics/data-analytics" target="_blank" class="link green dim">Data Analytics at Denison University</a>, where I teach and research on the use of data across a wide variety of domains, especially in cultural and humanities contexts. Previously, I was a Postdoctoral Fellow in Digital Humanities at the <a class="link green dim" href="https://humanities.northwestern.edu/about/people/postdoctoral-fellows-here-program/index.html">Northwestern University</a>, where I worked on <a href="https://earlyprint.org" target="_blank" class="link green dim">EarlyPrint</a>. Before that,I received my PhD in English from <a class="link green dim" href="https://english.wustl.edu/">Washington University in St. Louis</a>.
+  I'm a Visiting Assistant Professor in <a href="https://denison.edu/academics/data-analytics" target="_blank" class="link green dim">Data Analytics at Denison University</a>, where I teach and research on the use of data across a wide variety of domains, especially in cultural and humanities contexts. Previously, I was a Postdoctoral Fellow in Digital Humanities at <a class="link green dim" href="https://humanities.northwestern.edu/about/people/postdoctoral-fellows-here-program/index.html">Northwestern University</a>, where I worked on <a href="https://earlyprint.org" target="_blank" class="link green dim">EarlyPrint</a>. Before that, I received my PhD in English from <a class="link green dim" href="https://english.wustl.edu/">Washington University in St. Louis</a>.
   </p>
 
   <p>
