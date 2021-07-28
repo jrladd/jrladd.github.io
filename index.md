@@ -4,40 +4,79 @@ title: "John R. Ladd"
 ---
 
 
-<section class="fl w-100 w-50-ns pa2 pr4 f4-ns f5">
-  <h1 class="f2">About Me</h1>
+<section class="cf center w-100 w-80-ns pa2 pr4 f4-ns f5">
+  <div class="fl tc w-100 w-25-l mt4 mr4 f5">
+  <img class="br-100 pa1 ba b--black-10 h6 w6" src="images/ladd.jpg" alt="avatar">
+  <p class="f4 b">John R. Ladd</p>
+  <p>Visiting Assistant Professor in Data Analytics</p>
+  <p><a href="https://denison.edu/academics/data-analytics" class="link green dim" target="_blank">Denison University</a></p>
+  <p><a href="https://twitter.com/johnrladd" class="link green dim" target="_blank">Twitter</a>. <a href="https://github.com/jrladd" class="link green dim" target="_blank">GitHub</a>. <a href="https://orcid.org/0000-0002-5440-062X" class="link green dim" target="_blank">ORCiD</a>.</p>
+  </div>
+  <div class="fl measure">
   <p>
-  I'm a Postdoctoral Fellow in Digital Humanities at the <a class="link green dim" href="https://humanities.northwestern.edu/about/people/postdoctoral-fellows-here-program/index.html">Alice Kaplan Institute for the Humanities</a> at Northwestern University. I received my PhD in English from <a class="link green dim" href="https://english.wustl.edu/">Washington University in St. Louis</a>. My work combines cultural analytics and digital humanities approaches with the history of the book and early modern literary and cultural studies. 
+  I'm a Visiting Assistant Professor in <a href="https://denison.edu/academics/data-analytics" target="_blank" class="link green dim">Data Analytics at Denison University</a>, where I teach and research on the use of data across a wide variety of domains, especially in cultural and humanities contexts. Previously, I was a Postdoctoral Fellow in Digital Humanities at the <a class="link green dim" href="https://humanities.northwestern.edu/about/people/postdoctoral-fellows-here-program/index.html">Northwestern University</a>, where I worked on <a href="https://earlyprint.org" target="_blank" class="link green dim">EarlyPrint</a>. Before that,I received my PhD in English from <a class="link green dim" href="https://english.wustl.edu/">Washington University in St. Louis</a>.
   </p>
 
   <p>
-  My current book project, <em>Network Poetics</em>, traces the history of early modern literary collaboration using social network analysis and argues that shifts in the networks of print production allowed for the emergence of new literary forms. 
+  I use humanities approaches to data and network analysis to think about the long, interwoven histories of media and technology, especially in early modern literature. My current book project, <em>Network Poetics</em>, traces the history of early modern literary collaboration using social network analysis and argues that shifts in the networks of print production allowed for the emergence of new literary forms. I also work on the history of secret codes and mathematical forms in seventeenth-century literature.
   </p>
 
-  <p>
-  I've been involved in a number of <a class="link dim hover green" href="/projects">digital humanities projects</a> and have experience in data analysis, natural language processing, machine learning, and web development using Python and JavaScript. You can find out more about my research interests and current projects on <a class="link dim hover green" href="https://twitter.com/johnrladd">Twitter</a> and <a class="link dim hover green" href="https://github.com/jrladd/">GitHub</a>. My up-to-date <a class="link dim hover green" href="/cv.pdf">CV is here</a>.
-  </p>
+  </div>
 </section>
-<section class="fl w-100 w-50-ns pa2 f5">
-  <h1 class="f2">What I've Been Up To Recently</h1>
-  <ul class="list pl0">
-  <li><strong>Refereed Articles</strong></li>
-  <li class="pl4"><a class="link dim green" href="https://doi.org/10.22148/001c.21993" target="_blank">Imaginative Networks: Tracing Connections Among Early Modern Book Dedications.</a> <em>Journal of Cultural Analytics</em>, 2021.</li>
-  <li class="pl4"><a class="link dim green" href="http://doi.org/10.1353/mlt.2019.0000" target="_blank">The Multivocal Monody: Milton and the Poetics of <em>Justa Edouardo King</em>.</a> <em>Milton Studies</em>, 2019.</li>
-  <li><strong>Recent Courses</strong></li>
-  <li class="pl4"><a class="link dim green" href="https://jrladd.com/dh2020" target="_blank">Introduction to Digital Humanities.</a> Graduate Seminar, Northwestern University.</li>
-  <li class="pl4"><a class="link dim green" href="https://jrladd.com/info_overload" target="_blank">Information Overload! Text Technologies from the Printing Press to the Smartphone.</a> Northwestern University (course website coming soon).</li>
-  <li><strong>Tutorials and Guides</strong></li>
-  <li class="pl4"><a class="link dim green" href="https://earlyprint.org/jupyterbook/intro.html" target="_blank">EarlyPrint + Python.</a> Humanities Data Science Textbook.</li>
-  <li class="pl4">For <em>The Programming Historian:</em></li>
-  <li class="pl5"><a class="link dim green" href="https://programminghistorian.org/lessons/exploring-and-analyzing-network-data-with-python" target="_blank">Exploring and Analyzing Network Data with Python.</a></li>
-  <li class="pl5"><a class="link dim green" href="https://programminghistorian.org/en/lessons/common-similarity-measures" target="_blank">Understanding and Using Common Similarity Measures for Text Analysis.</a></li>
-  <li class="pl4"><a class="link dim green" href="https://jrladd.com/spreadsheets.html" target="_blank">Working with Humanities Data in Google Sheets.</a></li>
-  <li class="pl4"><a class="link dim green" href="https://jrladd.com/network-glossary.html" target="_blank">The Network Glossary.</a></li>
-  <li><strong>Digital Projects</strong> (<a class="link dim green" href="https://jrladd.com/projects">see all</a>)</li>
-  <li class="pl4"><a class="link dim green" href="https://networknavigator.jrladd.com/" target="_blank">Network Navigator v2.0.</a></li>
-  <li class="pl4"><a class="link dim green" href="https://earlyprint.org" target="_blank">EarlyPrint</a>, including <a class="link dim green" href="https://earlyprint.org/bibliographia" target="_blank">Bibliographia</a> and <a class="link dim green" href="https://earlyprint.org/lab/tool_phrase_search.html" target="_blank">Phrase Search.</a></li>
-  <li class="pl4"><a class="link dim green" href="http://sixdegreesoffrancisbacon.com" target="_blank">Six Degrees of Francis Bacon.</a></li>
-  <li class="pl4"><a class="link dim green" href="https://jrladd.com/colorwheel/" target="_blank">Spenser's Color Wheel.</a></li>
-  </ul>
+<section class="mw7 center">
+  <h2 class="w-100 tc fw1 ph3 ph0-l">Some Recent Work</h2>
+  <article class="shadow-4 bt ba br2 b--black-20 mv3 pa2">
+    <a class="db pv4 ph3 ph0-l no-underline black dim" href="https://culturalanalytics.org/article/21993-imaginative-networks-tracing-connec-tions-among-early-modern-book-dedi-cations" target="_blank">
+      <div class="flex flex-column flex-row-ns">
+        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+          <img src="images/gallery/imaginative_networks.png" class="db" alt="A visualization from the Imaginative Networks article showing two bipartite networks.">
+        </div>
+        <div class="w-100 w-60-ns pl3-ns">
+          <h1 class="green f3 fw1 mt0 lh-title">Imaginative Networks: Tracing Connections Among Early Modern Book Dedications</h1>
+          <p class="f6 f5-l lh-copy">An article for the Journal of Cultural Analytics that uses bibliographic network analysis to help understand the history of early modern print culture.</p>
+        </div>
+      </div>
+    </a>
+  </article>
+  <article class="shadow-4 bt ba br2 b--black-20 mv3 pa2">
+    <a class="db pv4 ph3 ph0-l no-underline black dim" href="https://earlyprint.org/jupyterbook" target="_blank">
+      <div class="flex flex-column flex-row-ns">
+        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+          <img src="images/gallery/2python.png" class="db" alt="A screenshot from a page of the Jupyter Book, showing a heatmap of word vectors.">
+        </div>
+        <div class="w-100 w-60-ns pl3-ns">
+          <h1 class="green f3 fw1 mt0 lh-title">EarlyPrint + Python</h1>
+          <p class="f6 f5-l lh-copy">A textbook for early modern text analysis in the programming language Python, built as an interactive Jupyter Book. Topics covered include TF-IDF, word vectors, and supervised text classification.</p>
+        </div>
+      </div>
+    </a>
+  </article>
+  <article class="shadow-4 bt ba br2 b--black-20 mv3 pa2">
+    <a class="db pv4 ph3 ph0-l no-underline black dim" href="https://networknavigator.jrladd.com">
+      <div class="flex flex-column flex-row-ns">
+        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+          <img src="images/gallery/4navigator.png" class="db" alt="A screenshot of Network Navigator, showing metrics and visualizations for a Game of Thrones network dataset.">
+        </div>
+        <div class="w-100 w-60-ns pl3-ns">
+          <h1 class="green f3 fw1 mt0 lh-title">Network Navigator</h1>
+          <p class="f6 f5-l lh-copy">
+	  A browser tool for network analysis, with special emphasis on quantitative metrics and less common visualization types. Redesigned in 2021 with Zoe LeBlanc.
+          </p>
+        </div>
+      </div>
+    </a>
+  </article>
+  <article class="shadow-4 bt ba br2 b--black-20 mv3 pa2">
+    <a class="db pv4 ph3 ph0-l no-underline black dim" href="https://earlyprint.org/bibliographia" target="_blank">
+      <div class="flex flex-column flex-row-ns">
+        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
+          <img src="images/gallery/5scatter.png" class="db" alt="A screenshot of EarlyPrint site, showing the clusters of texts in LargeVis.">
+        </div>
+        <div class="w-100 w-60-ns pl3-ns">
+          <h1 class="green f3 fw1 mt0 lh-title">Bibliographia</h1>
+          <p class="f6 f5-l lh-copy">An interactive plot of 50,000+ printed books from the sixteenth and seventeenth centuries, using LDA topic models and LargeVis to cluster similar texts. Made in D3.js and Canvas for the EarlyPrint project.</p>
+        </div>
+      </div>
+    </a>
+  </article>
 </section>
