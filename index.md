@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default 
 title: "John R. Ladd"
 ---
 
+<main class="site f4 ph4 avenir lh-copy">
 
 <section class="cf center w-100 w-80-ns pa2 pr4 f4-ns f5">
   <div class="fl tc w-100 w-25-l mt4 mr4 f5">
@@ -80,3 +81,5 @@ title: "John R. Ladd"
     </a>
   </article>
 </section>
+
+</main>
