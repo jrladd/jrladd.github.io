@@ -1,6 +1,12 @@
-% Networked Authorships and Aubrey's Brief Lives
-% John R. Ladd | @johnrladd | jrladd.com/slides/aubrey
-% (use arrow keys or spacebar to navigate)
+## Comparing Networks of Biography
+ 
+*Six Degrees of Francis Bacon* and John Aubrey's *Brief Lives*
+
+<small>John R. Ladd | @johnrladd | jrladd.com/slides/aubrey</small>
+
+<small>(use arrow keys or spacebar to navigate)</small>
+
+---
 
 <div style="width:50%;float:left;">
 ![](aubrey_img/aubrey.jpg)
@@ -11,6 +17,12 @@
 
 <small>Kate Bennett, ed. *Brief Lives* (2016)</small>
 </div>
+
+## Aubrey's Accounts
+
+- John Denham was "rooked by gamesters"
+- In young adulthood, Edmund Waller "grew (upon I know not what occasion) mad"
+- Samuel Butler's "painted well: and made it (sometime) his profession"
 
 ## Denham & Wither
 
@@ -32,17 +44,25 @@ Role Detection
 ![](aubrey_img/role.png)
 </div>
 
-## Sense-making
-<div style="width:50%;float:left;">
-NodeSense
+## Community Detection
+
+![](aubrey_img/community.png)
+
+## Role Detection
+
+![](aubrey_img/role.png)
+
+---
+
+![](aubrey_img/nodemetrics.png){width="40%"}
+
+## NodeSense
 
 ![](aubrey_img/nodesense.png)
-</div>
-<div style="width:50%;float:left;">
-NeighborSense
+
+## NeighborSense
 
 ![](aubrey_img/neighborsense.png)
-</div>
 
 ---
 
