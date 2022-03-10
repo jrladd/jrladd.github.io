@@ -32,6 +32,10 @@
 
 ![](aubrey_img/sixdegrees.png)
 
+## Six Degrees of Francis Bacon
+
+![](aubrey_img/sixdegreesfull.png)
+
 ## Communities vs. Roles
 <div style="width:50%;float:left;">
 Community Detection
