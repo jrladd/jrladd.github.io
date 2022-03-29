@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>pastnetworks</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/theme/serif.css" id="theme">
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+
+<section id="understanding-the-past-with-network-analysis" class="slide level2">
+<h2>Understanding the Past with Network Analysis</h2>
+<p>John R. Ladd | <span class="citation" data-cites="johnrladd">@johnrladd</span> | 30 March 2022</p>
+<p><small>jrladd.com/slides/pastnetworks</small></p>
+<p><small>(use arrow keys or spacebar to navigate)</small></p>
+</section>
+<section id="what-ill-talk-about" class="slide level2">
+<h2>What I’ll Talk About:</h2>
+<ul>
+<li class="fragment">Historical network reconstruction in <em>Six Degrees of Francis Bacon</em></li>
+<li class="fragment">Networks from text documents in <em>Imaginative Networks</em></li>
+<li class="fragment">Node similarity in <em>Networks of Biography</em></li>
+</ul>
+</section>
+<section>
+<section id="six-degrees-of-francis-bacon" class="title-slide slide level1">
+<h1><em>Six Degrees of Francis Bacon</em></h1>
+
+</section>
+<section id="the-sdfb-website" class="slide level2">
+<h2>The SDFB Website</h2>
+<figure>
+<img data-src="past_img/sixdegrees.png" alt="sixdegreesoffrancisbacon.com" /><figcaption aria-hidden="true">sixdegreesoffrancisbacon.com</figcaption>
+</figure>
+</section>
+<section id="inferring-a-network" class="slide level2">
+<h2>Inferring a Network</h2>
+<p><img data-src="past_img/dhq1.png" style="width:50.0%" /></p>
+<figure>
+<img data-src="past_img/dhq2.png" alt="From Warren et al., “Six Degrees of Francis Bacon,” DHQ 10.3 (2016)" /><figcaption aria-hidden="true"><small>From Warren et al., “Six Degrees of Francis Bacon,” DHQ 10.3 (2016)</small></figcaption>
+</figure>
+</section>
+<section id="the-full-sdfb-network" class="slide level2">
+<h2>The full SDFB Network</h2>
+<figure>
+<img data-src="past_img/sixdegreesfull.png" alt="1500-1700" /><figcaption aria-hidden="true">1500-1700</figcaption>
+</figure>
+</section>
+<section id="crowdsourcing-networks" class="slide level2">
+<h2>Crowdsourcing Networks</h2>
+<p><img data-src="past_img/sixdegrees.png" /></p>
+</section></section>
+<section>
+<section id="imaginative-networks" class="title-slide slide level1">
+<h1><em>Imaginative Networks</em></h1>
+
+</section>
+<section id="named-entity-recognition" class="slide level2">
+<h2>Named Entity Recognition</h2>
+<figure>
+<img data-src="past_img/hartlib2.png" alt="The dedication to Hartlib’s Macaria." /><figcaption aria-hidden="true">The dedication to Hartlib’s <em>Macaria</em>.</figcaption>
+</figure>
+</section>
+<section id="creating-the-network" class="slide level2">
+<h2>Creating the Network</h2>
+<figure>
+<img data-src="past_img/1660_topten.png" alt="The top ten names (in blue) appearing in 1660s dedications (in orange)." /><figcaption aria-hidden="true">The top ten names (in blue) appearing in 1660s dedications (in orange).</figcaption>
+</figure>
+</section>
+<section id="measuring-the-network" class="slide level2">
+<h2>Measuring the Network</h2>
+<p>Betweenness centrality of Elizabeth I over time</p>
+<figure>
+<img data-src="past_img/elizabeth.png" alt="From Ladd, “Imaginative Networks,” JCA 6.1 (2021)" /><figcaption aria-hidden="true"><small>From Ladd, “Imaginative Networks,” JCA 6.1 (2021)</small></figcaption>
+</figure>
+</section>
+<section id="measuring-the-network-1" class="slide level2">
+<h2>Measuring the Network</h2>
+<p>Avg. clustering coefficient (compared to random graphs), 1630-1670</p>
+<figure>
+<img data-src="past_img/clustering_midcentury.png" alt="From Ladd, “Imaginative Networks,” JCA 6.1 (2021)" /><figcaption aria-hidden="true"><small>From Ladd, “Imaginative Networks,” JCA 6.1 (2021)</small></figcaption>
+</figure>
+</section></section>
+<section>
+<section id="comparing-networks-of-biography" class="title-slide slide level1">
+<h1>Comparing Networks of Biography</h1>
+
+</section>
+<section id="john-aubreys-brief-lives" class="slide level2">
+<h2>John Aubrey’s <em>Brief Lives</em></h2>
+<div style="width:50%;float:left;">
+<p><img data-src="past_img/aubrey.jpg" /></p>
+</div>
+<div style="width:50%;float:left;">
+<p><br><br> “We may be able to hear, through him, the 17th century talking to and about itself.”</p>
+<p><small>Kate Bennett, ed. <em>Brief Lives</em> (2016)</small></p>
+</div>
+</section>
+<section class="slide level2">
+
+<div style="width:50%;float:left;">
+<p>Community Detection</p>
+<p><img data-src="past_img/community.png" /></p>
+</div>
+<div style="width:50%;float:left;">
+<p>Role Detection</p>
+<p><img data-src="past_img/role.png" /></p>
+</div>
+<p><small>A time-sliced subset of <em>Six Degrees of Francis Bacon</em> data.</small></p>
+</section>
+<section id="community-detection" class="slide level2">
+<h2>Community Detection</h2>
+<p><img data-src="past_img/community.png" /></p>
+</section>
+<section id="role-detection" class="slide level2">
+<h2>Role Detection</h2>
+<p><img data-src="past_img/role.png" /></p>
+</section>
+<section class="slide level2">
+
+<p><img data-src="past_img/nodemetrics.png" style="width:40.0%" /></p>
+</section>
+<section class="slide level2">
+
+<p><img data-src="past_img/role_hutchinson.png" /></p>
+</section>
+<section id="whos-in-role-3" class="slide level2">
+<h2>Who’s in Role 3?</h2>
+<div style="width:50%;float:left;">
+<ul>
+<li class="fragment">Lucy Hutchinson</li>
+<li class="fragment">Margaret Cavendish</li>
+<li class="fragment">Aphra Behn</li>
+<li class="fragment">John Milton</li>
+</ul>
+</div>
+<div style="width:50%;float:left;">
+<ul>
+<li class="fragment">John Locke</li>
+<li class="fragment">Robert Hooke</li>
+<li class="fragment">Isaac Newton</li>
+<li class="fragment">Katherine Jones</li>
+<li class="fragment">and John Aubrey</li>
+</ul>
+</div>
+</section>
+<section class="slide level2">
+
+<p><img data-src="past_img/role_hutchinson_aubrey.png" /></p>
+</section>
+<section class="slide level2">
+
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><em>Network Navigator</em></p>
+<p><img data-src="past_img/navigator.png" /></p>
+</div><div class="column" style="width:50%;">
+<p>Network Analysis + Digital Art History</p>
+<p><img data-src="past_img/NADAH.png" /></p>
+</div>
+</div>
+</section></section>
+<section id="thank-you" class="title-slide slide level1">
+<h1>Thank You!</h1>
+
+</section>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/reveal.js@^4//dist/reveal.js"></script>
+
+  // reveal.js plugins
+  <script src="https://unpkg.com/reveal.js@^4//plugin/notes/notes.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/search/search.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/zoom/zoom.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/math/math.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+        math: {
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    </body>
+</html>
