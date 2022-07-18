@@ -10,7 +10,7 @@ title: "John R. Ladd"
   <img class="br-100 pa1 ba b--black-10 h6 w6" src="images/ladd.jpg" alt="avatar">
   <p class="f4 b">John R. Ladd</p>
   <p>Assistant Professor, Computing and Information Studies</p>
-  <p><a href="https://www.washjeff.edu/programs/computing-and-information-studies-cis/" class="link green dim" target="_blank">Washington & Jefferson College</a></p>
+  <p><a href="https://www.washjeff.edu/person/john-ladd/" class="link green dim" target="_blank">Washington & Jefferson College</a></p>
   <p><a href="https://twitter.com/johnrladd" class="link green dim" target="_blank">Twitter</a>. <a href="https://github.com/jrladd" class="link green dim" target="_blank">GitHub</a>. <a href="https://orcid.org/0000-0002-5440-062X" class="link green dim" target="_blank">ORCiD</a>.</p>
   </div>
   <div class="fl measure">
