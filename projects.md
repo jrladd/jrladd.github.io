@@ -29,6 +29,12 @@ For *EarlyPrint*, a projection of ~60,000 early modern texts, using LDA "topic m
 
 ![](/images/gallery/5scatter.png)
 
+[Endless Monument](http://twitter.com/endlessmonument).
+
+[*Endless Monument*](https://jrladd.com/endlessmonument/) is an experimental poetry project that displays Edmund Spenser's *Epithalamion* one line at a time, based on the poem's own time-scheme. It began as a [Twitter bot](https://twitter.com/endlessmonument) in 2014 and has since moved to its own webpage. [[source]](https://github.com/jrladd/endlessmonument)
+
+![](/images/endlessmonument.png)
+
 [Phrase Search](https://earlyprint.org/lab/tool_phrase_search.html).
 
 Also for *EarlyPrint*, a prototype search interface based on Corpus Query Language that finds near matches for phrases. This tool is meant to facilitate the study of text reuse in the *EarlyPrint* corpus.
@@ -71,15 +77,9 @@ I created a network visualization of the three EMDA seminars at the Folger Shake
 
 ![](/images/emda.png)
 
-[Endless Monument](http://twitter.com/endlessmonument).
-
-A Twitter bot for Spenser's Epithalamion, that tweets out the poem according to the complex time scheme that Spenser himself incorporated into the verse ([more information here](/endless-monument.html)).
-
-![](/images/spenser.png)
-
 [Marvel Network](https://observablehq.com/@jrladd/marvel-network).
 
-A demonstration of NetworkX and D3 Force-Directed graphs for digital humanities applications, using sample data from Marvel comics. [[source](https://github.com/jrladd/marvel_network)]
+A demonstration of NetworkX and D3 Force-Directed graphs for digital humanities applications, using sample data from Marvel comics.
 
 ![](/images/marvel.png)
 
