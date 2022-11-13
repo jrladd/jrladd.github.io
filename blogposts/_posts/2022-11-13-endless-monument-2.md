@@ -13,7 +13,7 @@ Spenser published the *Epithalamion*---the word is a riff on epithalamium, a wed
 - There are 365 long lines in the poem, for each day of the year.
 - There are 24 stanzas, for each hour in the day.
 - There are 16 "daylight" stanzas and 8 "nighttime" stanzas (Spenser signals this in the final line of each stanza). This mirrors the amount of daylight in Kilcolman, Ireland on 11 June 1594, St. Barnabas's Day.
-- Without the final stanza, there are 359 long lines in the poem, representing [sidereal time](https://en.wikipedia.org/wiki/Sidereal_time), rather than typical [solar or diurnal time](https://en.wikipedia.org/wiki/Solar_time)
+- Without the final stanza, there are 359 long lines in the poem, representing [sidereal time](https://en.wikipedia.org/wiki/Sidereal_time), rather than typical [solar or diurnal time](https://en.wikipedia.org/wiki/Solar_time).
 - If we begin the year, as Spenser would have, on March 1st, then the line corresponding to the day of the marriage reads: "But let this day let this one day be myne."
 
 It's difficult to appreciate all this when reading the poem in a single sitting. *Endless Monument* follows Spenser's time-scheme to deliver the poem to the reader one line at a time over the course of a year. Here's how the site interprets the poem:
