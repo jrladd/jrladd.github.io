@@ -5,8 +5,16 @@ title: "Teaching"
 
 ## Undergraduate Courses
 
+- [CIS 241: Introduction to Data Mining](https://jrladd.com/CIS241/)  
+Fall 2022, Spring 2023 --- Washington & Jefferson College  
+Course website: <https://jrladd.com/CIS241/>
+
+- [CIS 100: Information Technology and Society](https://jrladd.com/CIS100/)  
+Fall 2022, Spring 2023 --- Washington & Jefferson College  
+Course website: <https://jrladd.com/CIS100/>
+
 - [DA 101: Introduction to Data Analytics](https://jrladd.com/DA101/)  
-Fall 2021 --- Denison University  
+Fall 2021, Spring 2022 --- Denison University  
 Course website: <https://jrladd.com/DA101/>
 
 - [Information Overload! Text Technologies from the Printing Press to the Smartphone](https://jrladd.com/info_overload/)  
