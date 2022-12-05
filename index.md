@@ -11,7 +11,7 @@ title: "John R. Ladd"
   <p class="f4 b">John R. Ladd</p>
   <p>Assistant Professor, Computing and Information Studies</p>
   <p><a href="https://www.washjeff.edu/person/john-ladd/" class="link green dim" target="_blank">Washington & Jefferson College</a></p>
-  <p><a href="https://twitter.com/johnrladd" class="link green dim" target="_blank">Twitter</a>. <a href="https://github.com/jrladd" class="link green dim" target="_blank">GitHub</a>. <a href="https://orcid.org/0000-0002-5440-062X" class="link green dim" target="_blank">ORCiD</a>.</p>
+  <p><a href="https://github.com/jrladd" class="link green dim" target="_blank">GitHub</a>. <a href="https://orcid.org/0000-0002-5440-062X" class="link green dim" target="_blank">ORCiD</a>. <a href="https://zotero.org/johnrobertladd" class="link green dim" target="_blank">Zotero</a>.</p>
   </div>
   <div class="fl measure">
   <p>
