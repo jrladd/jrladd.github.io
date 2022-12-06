@@ -21,6 +21,64 @@ a {
   text-decoration: none;
 }
 
+.site{
+  line-height: 1.5;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.intro {
+  width: 80%;
+  margin: auto;
+  padding: .5rem;
+  overflow: auto;
+}
+
+#avatar {
+  border-radius: 100%;
+  border: 1px solid #eee;
+  padding: .25rem;
+}
+
+.col1 {
+  float: left;
+  text-align: center;
+  margin: 2rem 2rem 0 0;
+  width: 25%;
+}
+
+.col2 {
+  float: left;
+  max-width: 30em;
+}
+
+.recent {
+  max-width: 48rem;
+  margin: auto;
+  clear: left;
+}
+
+.recent-article {
+  clear: both;
+  margin: 1rem 0 1rem 0;
+  padding: .5rem;
+  border: solid 1px #bbb;
+  border-radius: .25rem;
+  box-shadow: 2px 2px 8px 0 rgba(0,0,0,.2);
+  overflow: auto;
+}
+
+.recent-image {
+  width: 40%;
+  padding: 2rem 0;
+  float: left;
+}
+
+.recent-text {
+  width: 60%;
+  float: right;
+  padding-left: 1rem;
+}
 
 .projects img {
   width: 100%;
