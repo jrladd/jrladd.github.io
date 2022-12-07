@@ -12,10 +12,17 @@ h1, h2, h3, h4, .early-modern {
 }
 
 body {
-  font-family: Courier, sans-serif;
+  font-family:'avenir next', avenir, sans-serif;
+}
+
+a:focus, a:hover {
+  transition: opacity .15s ease-in;
+  opacity: .5;
 }
 
 a {
+  transition: opacity .15s ease-in;
+  opacity: 1;
 /*  color: #33CC33;*/
   color: #19a974;
   text-decoration: none;
@@ -50,12 +57,17 @@ a {
 .col2 {
   float: left;
   max-width: 30em;
+  font-size: 1.25rem;
 }
 
 .recent {
   max-width: 48rem;
   margin: auto;
   clear: left;
+}
+
+.recent h2 {
+  text-align: center;
 }
 
 .recent-article {
@@ -74,10 +86,19 @@ a {
   float: left;
 }
 
+.recent-image img {
+  width: 100%;
+}
+
 .recent-text {
-  width: 60%;
+  width: 55%;
   float: right;
-  padding-left: 1rem;
+  padding: 2rem 0 2rem 1rem;
+  color: black;
+}
+
+.recent-text h3 {
+  color: #19a974;
 }
 
 .projects img {
@@ -86,28 +107,6 @@ a {
   box-shadow: 5px 10px 8px;
   /* max-height: 80%; */
 }
-
-.cv {
-  font-family: "Open Sans", sans-serif;
-}
-
-/*.header {
-  position: sticky;
-  position: -webkit-sticky;
-  top: 0;
-}*/
-
-#cv-content, #sdfb-content, #about-content {
-  overflow-y: hidden;
-  max-height: 10000px;
-  transition: all .5s ease;
-}
-#cv-content.hidden, #sdfb-content.hidden, #about-content.hidden {
-	max-height: 0;
-}
- #cv-heading, #sdfb-heading, #about-heading {
-   cursor: pointer;
- }
 
 /*****************************************************************************/
 /*
