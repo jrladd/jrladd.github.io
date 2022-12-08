@@ -13,6 +13,7 @@ h1, h2, h3, h4, .early-modern {
 
 body {
   font-family:'avenir next', avenir, sans-serif;
+  margin: 0;
 }
 
 a:focus, a:hover {
@@ -27,6 +28,12 @@ a {
   color: #19a974;
   text-decoration: none;
 }
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
 
 .site{
   line-height: 1.5;
@@ -101,6 +108,69 @@ a {
   color: #19a974;
 }
 
+/*****************************************************************************/
+/*
+/* Header and Footer
+/*
+/*****************************************************************************/
+
+nav {
+  width: 100%;
+  border-bottom: 1px solid #eee;
+  overflow: auto;
+}
+
+#site-heading {
+  color: black;
+  font-family: "IM Fell English", Times, serif;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 3rem;
+  padding: 0 3rem;
+}
+
+#nav-items {
+  float: right;
+  padding: 1rem 3rem;
+}
+
+#nav-items a {
+  padding: 0 1rem 0 1rem;
+}
+
+footer {
+  overflow: auto;
+  background-color: #19a974;
+}
+
+#footer-left {
+  float: left;
+  padding: .5rem 2rem;
+}
+
+#footer-right {
+  float: right;
+  padding: .5rem 2rem;
+}
+
+footer a {
+  color: white;
+}
+
+/*****************************************************************************/
+/*
+/* Projects
+/*
+/*****************************************************************************/
+
+.projects {
+  font-size: 1.25rem;
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  line-height: 1.5;
+}
+
 .projects img {
   width: 100%;
   margin-bottom: 10%;
@@ -108,14 +178,17 @@ a {
   /* max-height: 80%; */
 }
 
-/*****************************************************************************/
-/*
-/* Home
-/*
-/*****************************************************************************/
 .posts, .projects {
   list-style-type: none;
   margin-bottom: 2em;
+}
+
+.page {
+  font-size: 1.25rem;
+  max-width: 40rem;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.5;
 }
 
 .posts li {
@@ -145,7 +218,6 @@ a {
 /* standard */
 
 .post p {
-  font-family: "Open Sans", sans-serif;
   line-height: 1.5;
   max-width: 50em;
 }
@@ -187,6 +259,7 @@ a {
 }
 
 .post img {
+  width: 100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
