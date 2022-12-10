@@ -273,3 +273,34 @@ footer a {
 .footnotes {
   font-size: 75%;
 }
+
+/*****************************************************************************/
+/*
+/* Mobile
+/*
+/*****************************************************************************/
+
+@media screen and (max-width: 30em) {
+
+#site-heading {
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  padding: 0;
+}
+#nav-items {
+  float: none;
+  padding: .5rem;
+}
+
+#nav-items a {
+  padding: 0 .5rem;
+}
+
+#footer-left, #footer-right {
+  float: left;
+  padding: .25rem;
+}
+
+}

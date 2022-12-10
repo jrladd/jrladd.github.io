@@ -1,180 +1,263 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="🤔 🥓 💻">
+  <title>Six Degrees of Francis Bacon</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reveal.css">
+  <style>
+    .reveal .sourceCode {  /* see #7635 */
+      overflow: visible;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/theme/moon.css" id="theme">
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
 
-		<title>Redesigning Bacon</title>
+<section id="title-slide">
+  <h1 class="title">Six Degrees of Francis Bacon</h1>
+  <p class="author">🤔 🥓 💻</p>
+  <p class="date"><a
+href="http://sixdegreesoffrancisbacon.com">sixdegreesoffrancisbacon.com</a></p>
+</section>
 
-		<link rel="stylesheet" href="../reveal.js/css/reveal.css">
-		<link rel="stylesheet" href="../reveal.js/css/theme/moon.css">
-		<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+<section id="using-this-slideshow" class="slide level2">
+<h2>Using this slideshow</h2>
+<p><small><a href="http://jrladd.com/">JR Ladd</a> / <a
+href="https://twitter.com/johnrladd"><span class="citation"
+data-cites="johnrladd">@johnrladd</span></a> </small></p>
+<p><small>To navigate, press the arrows
+<i class="em em-arrow_right"></i> <i class="em em-arrow_down"></i> or
+hit the space bar</small></p>
+</section>
+<section id="networks-can-describe-any-system-of-relationships"
+class="slide level2">
+<h2>Networks can describe any system of relationships</h2>
+<p><img style="float:left;" width="45%" data-src="img/jones.png"></p>
+<p><img style="float:right;" width="45%" data-src="img/allgroups.png"/></p>
+</section>
+<section id="networks-have-no-single-visualization"
+class="slide level2">
+<h2>Networks have no single visualization</h2>
+<p><img height="500" data-src="img/filters.gif"></p>
+</section>
+<section id="edges-can-embed-a-lot-of-information" class="slide level2">
+<h2>Edges can embed a lot of information</h2>
+<p><img data-src="img/edge.png"></p>
+</section>
+<section>
+<section id="groups-vs.-networks" class="title-slide slide level1">
+<h1>Groups vs. Networks</h1>
 
-		<!-- Theme used for syntax highlighting of code -->
-		<link rel="stylesheet" href="../reveal.js/lib/css/zenburn.css">
+</section>
+<section class="slide level2">
 
-		<!-- Printing and PDF exports -->
-		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? '../reveal.js/css/print/pdf.css' : '../reveal.js/css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		</script>
-	</head>
-	<body>
-		<div class="reveal">
-			<div class="slides">
+<p><img width="33%" style="float:left;" data-src="img/groups1.png"></p>
+<p><img width="33%" style="float:right;" data-src="img/groups2.png"></p>
+<p><img width="33%" data-src="img/groups3.png"></p>
+</section>
+<section class="slide level2">
 
-				<section data-markdown="baconredesign.md"
-         data-separator-notes="^Note:"
-				 data-separator-vertical="^\r?\n--\r?\n$"
-         data-charset="utf-8">
-				 <div id="google_translate_element"></div><script type="text/javascript">
-		 function googleTranslateElementInit() {
-		   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.BOTTOM_RIGHT, gaTrack: true, gaId: 'UA-86905362-1'}, 'google_translate_element');
-		 }
-		 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-				</section>
+<p><img data-src="img/groups1.png"></p>
+</section>
+<section class="slide level2">
 
-			</div>
-		</div>
+<p><img data-src="img/groups2.png"></p>
+</section>
+<section class="slide level2">
 
-		<script src="../reveal.js/lib/js/head.min.js"></script>
-		<script src="../reveal.js/js/reveal.js"></script>
+<p><img data-src="img/groups3.png"></p>
+</section>
+<section id="network-metrics" class="slide level2">
+<h2>Network Metrics</h2>
+<p><img width="45%" style="float:left;" data-src="img/navigator.png"></p>
+<p><img width="45%" style="float:right;" data-src="img/machinelearning.png"></p>
+</section>
+<section id="thank-you" class="slide level2">
+<h2>Thank you!</h2>
+<p>🥓 🥓 🥓</p>
+</section></section>
+    </div>
+  </div>
 
-		<script>
-			// More info about config & dependencies:
-			// - https://github.com/hakimel/reveal.js#configuration
-			// - https://github.com/hakimel/reveal.js#dependencies
-			Reveal.initialize({
+  <script src="https://unpkg.com/reveal.js@^4//dist/reveal.js"></script>
 
-				// Display presentation control arrows
-controls: true,
+  <!-- reveal.js plugins -->
+  <script src="https://unpkg.com/reveal.js@^4//plugin/notes/notes.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/search/search.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/zoom/zoom.js"></script>
 
-// Help the user learn the controls by providing hints, for example by
-// bouncing the down arrow when they first encounter a vertical slide
-controlsTutorial: true,
+  <script>
 
-// Determines where controls appear, "edges" or "bottom-right"
-controlsLayout: 'bottom-right',
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+        // Display controls in the bottom right corner
+        controls: true,
 
-// Visibility rule for backwards navigation arrows; "faded", "hidden"
-// or "visible"
-controlsBackArrows: 'faded',
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
 
-// Display a presentation progress bar
-progress: true,
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'bottom-right',
 
-// Set default timing of 2 minutes per slide
-defaultTiming: 120,
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
 
-// Display the page number of the current slide
-slideNumber: false,
+        // Display a presentation progress bar
+        progress: true,
 
-// Push each slide change to the browser history
-history: true,
+        // Display the page number of the current slide
+        slideNumber: false,
 
-// Enable keyboard shortcuts for navigation
-keyboard: true,
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
 
-// Enable the slide overview mode
-overview: true,
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
 
-// Vertical centering of slides
-center: true,
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
 
-// Enables touch navigation on devices with touch input
-touch: true,
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
 
-// Loop the presentation
-loop: false,
+        // Push each slide change to the browser history
+        history: false,
 
-// Change the presentation direction to be RTL
-rtl: false,
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
 
-// Randomizes the order of slides each time the presentation loads
-shuffle: false,
+        // Enable the slide overview mode
+        overview: true,
 
-// Turns fragments on and off globally
-fragments: true,
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
 
-// Flags if the presentation is running in an embedded mode,
-// i.e. contained within a limited portion of the screen
-embedded: false,
+        // Vertical centering of slides
+        center: true,
 
-// Flags if we should show a help overlay when the questionmark
-// key is pressed
-help: true,
+        // Enables touch navigation on devices with touch input
+        touch: true,
 
-// Flags if speaker notes should be visible to all viewers
-showNotes: false,
+        // Loop the presentation
+        loop: false,
 
-// Global override for autoplaying embedded media (video/audio/iframe)
-// - null: Media will only autoplay if data-autoplay is present
-// - true: All media will autoplay, regardless of individual setting
-// - false: No media will autoplay, regardless of individual setting
-autoPlayMedia: null,
+        // Change the presentation direction to be RTL
+        rtl: false,
 
-// Number of milliseconds between automatically proceeding to the
-// next slide, disabled when set to 0, this value can be overwritten
-// by using a data-autoslide attribute on your slides
-autoSlide: 0,
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'default',
 
-// Stop auto-sliding after user input
-autoSlideStoppable: true,
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
 
-// Use this method for navigation when auto-sliding
-autoSlideMethod: Reveal.navigateNext,
+        // Turns fragments on and off globally
+        fragments: true,
 
-// Enable slide navigation via mouse wheel
-mouseWheel: false,
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: true,
 
-// Hides the address bar on mobile devices
-hideAddressBar: true,
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
 
-// Opens links in an iframe preview overlay
-// Add `data-preview-link` and `data-preview-link="false"` to customise each link
-// individually
-previewLinks: false,
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
 
-// Transition style
-transition: 'slide', // none/fade/slide/convex/concave/zoom
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
 
-// Transition speed
-transitionSpeed: 'default', // default/fast/slow
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
 
-// Transition style for full page slide backgrounds
-backgroundTransition: 'fade', // none/fade/slide/convex/concave/zoom
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
 
-// Number of slides away from the current that are visible
-viewDistance: 3,
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
 
-// Parallax background image
-parallaxBackgroundImage: '', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
 
-// Parallax background size
-parallaxBackgroundSize: '', // CSS syntax, e.g. "2100px 900px"
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
 
-// Number of pixels to move the parallax background per slide
-// - Calculated automatically unless specified
-// - Set to 0 to disable movement along an axis
-parallaxBackgroundHorizontal: null,
-parallaxBackgroundVertical: null,
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
 
-// The display mode that will be used to show slides
-display: 'block',
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
 
-				dependencies: [
-					{ src: '../reveal.js/plugin/markdown/marked.js' },
-					{ src: '../reveal.js/plugin/markdown/markdown.js' },
-					{ src: '../reveal.js/plugin/notes/notes.js', async: true },
-					 { src: '../reveal.js/plugin/reveald3/reveald3.js' },
-					 { src: '../reveal.js/plugin/embed-tweet/embed-tweet.js' },
-					 { src: '../reveal.js/node_modules/reveal.js-menu/menu.js' },
-					{ src: '../reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
-				]
-			});
-		</script>
-	</body>
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'slide',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'fade',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    </body>
 </html>

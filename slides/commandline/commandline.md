@@ -1,20 +1,17 @@
+% Text as Interface:
+% Analyzing Data on the Command Line
 
- <section data-menu-title="Title:  Text as Interface"></section>
-<br>
-<br>
-## Text as Interface:
-### Analyzing Data on the Command Line
+## Using this Slideshow
 
 [jrladd.com/commandline](https://jrladd.com/commandline)
-<br>
-<br>
+
  <small>[John R Ladd](https://jrladd.com/) / [@johnrladd](https://twitter.com/johnrladd) </small>
 
 <small>To navigate, press the arrows <i class="em em-arrow_right"></i> <i class="em em-arrow_down"></i> or hit the space bar</small>
 
----
+# What is UNIX? What is the Command Line?
 
-### What is Unix? What is the Command Line?
+---
 
 ![](img/iknowthis.gif)
 
@@ -24,11 +21,7 @@
 **Synonyms/Acronyms for "command line"**: CLI, shell, sh, bash, terminal
 </small>
 
-
----
-
-### What can you do with CLI?
-
+## What can you do with CLI?
 
 - navigate your computer
 - manage files (create, delete, read, edit)
@@ -38,9 +31,7 @@
 - combine commands/applications
 - count, aggregate, and analyze... anything!
 
----
-
-### How to Use this Tutorial
+## How to Use this Tutorial
 
 <small>
 From here forward, you'll find lists of commands and their functions, followed by exercises with those commands.
@@ -51,40 +42,14 @@ If you see, `<TAB>` in a command, hit the tab key on your keyboard (don't type t
 
 And if you encounter any problems or have a question, feel free to [contact me](https://jrladd.com/).</small>
 
----
-
-### The Basics
-
-- `pwd`: Print Working Directory, see where you are currently
-
-<!-- .element: class="fragment" -->
-- `cd <directory/path>`: Change Directory; move to any directory/folder
-
-<!-- .element: class="fragment" -->
-- ls: list contents of current directory (or any directory)
-
-<!-- .element: class="fragment" -->
-- `mkdir <directory name>`: Make a new directory/folder
-
-<!-- .element: class="fragment" -->
-- `<TAB>`: autocomplete any filename or directory
-
-<!-- .element: class="fragment" -->
-- `man <command>`: see manual for any command
-
-<!-- .element: class="fragment" -->
-
----
 
 # But First, Directory Structure
 
---
-
-### There's No Place Like Home
+## There's No Place Like Home
 
 When you type `pwd` and hit enter you'll see your "home" directory. In my case it's:
 
-```
+```bash
 /home/jrladd
 ```
 
@@ -94,50 +59,50 @@ This is also written as "`~`"
 
 Typing "`cd ~`" will always bring you home!
 
---
+# Command Line Basics
 
-### Navigating the Filesystem
+## The Basics
 
-```
+- `pwd`: Print Working Directory, see where you are currently
+- `cd <directory/path>`: Change Directory; move to any directory/folder
+- `ls <directory/path>`: list contents of current directory (or any directory)
+- `mkdir <directory name>`: Make a new directory/folder
+- `<TAB>`: autocomplete any filename or directory
+- `man <command>`: see manual for any command
+
+## Navigating the Filesystem
+
+```bash
 pwd
 ```
-<!-- .element: class="fragment" -->
 
-```
+```bash
 ls
 ```
-<!-- .element: class="fragment" -->
 
-```
+```bash
 mkdir test_dir
 ls
 cd test_dir
 ```
-<!-- .element: class="fragment" -->
 
-```
+```bash
 cd ..
 ```
-<!-- .element: class="fragment" -->
 
-```
+```bash
 ls De<TAB>
 ```
-<!-- .element: class="fragment" -->
 
-```
+```bash
 man ls
 ```
-<!-- .element: class="fragment" -->
 
-```
+```bash
 ls -la De<TAB>
 ```
-<!-- .element: class="fragment" -->
 
----
-
-### Manipulating Files
+## Manipulating Files
 
 <small>`touch <filename>`: create empty file/change its timestamp</small>
 <!-- .element: class="fragment" -->
@@ -162,46 +127,42 @@ ls -la De<TAB>
 <small>`rm <filename>`: Remove a file or directory (Be careful!)</small>
 <!-- .element: class="fragment" -->
 
---
+## Manipulating Files (cont.)
 
-### Manipulating Files (cont.)
-
-```
+```bash
 cd test_dir
 ls
 ```
 <!-- .element: class="fragment" -->
 
-```
+```bash
 touch test_file.txt
 ls
 ```
 <!-- .element: class="fragment" -->
 
-```
+```bash
 echo "Knock, Knock"
 echo "Knock, Knock" > test_file.txt
 cat test_file.txt
 ```
 <!-- .element: class="fragment" -->
 
-```
+```bash
 echo "Who's there?" >> test_file.txt
 cat test_file.txt
 ```
 <!-- .element: class="fragment" -->
 
-```
+```bash
 less te<TAB>
 q
 ```
 <!-- .element: class="fragment" -->
 
---
+## Manipulating Files (cont.)
 
-### Manipulating Files (cont.)
-
-```
+```bash
 cp test_file.txt duplicate_file.txt
 cat duplicate_file.txt
 ls
@@ -209,21 +170,21 @@ cat *.txt
 ```
 <!-- .element: class="fragment" -->
 
-```
+```bash
 mv test_file.txt renamed_file.txt
 cat renamed_file.txt
 ls
 ```
 <!-- .element: class="fragment" -->
 
-```
+```bash
 rm duplicate_file.txt
 ```
 <!-- .element: class="fragment" -->
 
----
+# Command Line Analaysis
 
-### Analyzing Files
+## Analyzing Files
 
 <small>`wget <URL>`: download a file from the internet</small>
 <!-- .element: class="fragment" -->
@@ -244,17 +205,15 @@ rm duplicate_file.txt
 **<small>`|`: "pipe" is the Most Useful Operator, move the output of one command to the output of any other</small>**
 <!-- .element: class="fragment" -->
 
---
+## Analyzing Files (cont.)
 
-### Analyzing Files (cont.)
-
-```
+```bash
 wget jrladd.com/inauguralspeeches.zip
 ls
 ```
 <!-- .element: class="fragment" -->
 
-```
+```bash
 unzip ina<TAB>
 ls
 cd inauguralspeeches
@@ -263,25 +222,23 @@ ls
 <!-- .element: class="fragment" -->
 
 
-```
+```bash
 "How many words are in one file? in all files?"
 wc -w 1_washington_1789.txt
 wc -w *.txt
 ```
 <!-- .element: class="fragment" -->
 
-```
+```bash
 "How many files are in the directory?"
 ls
 ls | wc -l
 ```
 <!-- .element: class="fragment" -->
 
---
+## Analyzing Files (cont.)
 
-### Analyzing Files (cont.)
-
-```
+```bash
 "Find one word in a file"
 grep -i justice 3_ad<TAB>
 grep -oi justice 3_ad<TAB>
@@ -290,20 +247,20 @@ grep -oi justice 3_ad<TAB> | wc -l
 ```
 <!-- .element: class="fragment" -->
 
-```
+```bash
 "Find one word in all files"
 grep -oi justice *.txt
 grep -oi justice *.txt | wc -l
 ```
 <!-- .element: class="fragment" -->
 
-```
+```bash
 "Count all words in entire corpus"
 cat *.txt | tr ' ' '\n' | sort | uniq -c | sort -n
 ```
 <!-- .element: class="fragment" -->
 
-```
+```bash
 "Keyword in Context (KWIC) Search"
 ptx -f -w 50 *.txt
 ptx -f -w 50 *.txt | grep -i justice
@@ -311,27 +268,26 @@ ptx -f -w 50 *.txt | grep -i  "[[:alpha:]]   justice"
 ```
 <!-- .element: class="fragment" -->
 
----
+# Further Reading
 
-### Resources
+## Resources
 
-<small>[Explain Shell](https://explainshell.com/): Full explanation of any command
+[Explain Shell](https://explainshell.com/): Full explanation of any command
 
 [Command Line Cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/): Comprehensive list of basic commands
 
-#### Programming Historian
+## Programming Historian
 
 - [Preserving Your Research Data](https://programminghistorian.org/en/lessons/preserving-your-research-data)
 - [Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
 - [Counting and Mining Research Data with Unix](https://programminghistorian.org/en/lessons/research-data-with-unix)
 
+## More Tutorials
+
 William Turkel, [Basic Text Analysis with Command Line Tools in Linux](https://williamjturkel.net/2013/06/15/basic-text-analysis-with-command-line-tools-in-linux/) and [Pattern Matching and Permuted Term Indexing with Command Line Tools in Linux](https://williamjturkel.net/2013/06/20/pattern-matching-and-permuted-term-indexing-with-command-line-tools-in-linux/)
 
 Kenneth Ward Church, [Unix for Poets](https://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf)
-</small>
 
----
-
-### Thank you!
+## Thank you!
 
 ![](img/couldhavebeenworse.gif)
