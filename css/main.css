@@ -8,6 +8,7 @@
 
 :root {
   --green: #19a974;
+  --max-width: 38em;
 }
 
 h1, h2, h3, h4, .early-modern {
@@ -17,9 +18,14 @@ h1, h2, h3, h4, .early-modern {
   text-align: center;
 }
 
+h1 {
+  font-size: 3rem;
+}
+
 body {
   font-family:'avenir next', avenir, sans-serif;
   font-size: 1.25rem;
+  line-height: 1.5;
   margin: 0;
 }
 
@@ -31,107 +37,31 @@ a:focus, a:hover {
 a {
   transition: opacity .15s ease-in;
   opacity: 1;
-  color: black;//var(--green);
+  color: black;
   text-decoration: underline var(--green) 2px;
 }
 
 main {
-  max-width: 40rem;
+  max-width: var(--max-width);
   padding: 0 1rem;
   margin: auto;
 }
 
 p {
   margin: 1rem auto;
-  line-height: 1.5;
 }
 
 img {
   max-width: 100%;
-  margin-bottom: 10%;
   box-shadow: 5px 10px 8px;
-}
-
-/*****************************************************************************/
-/*
-/* Home
-/*
-/*****************************************************************************/
-
-/*
-.site{
-  line-height: 1.5;
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-
-.intro {
-  width: 80%;
   margin: auto;
-  padding: .5rem;
-  overflow: auto;
+  margin-bottom: 10%;
+  display: block;
 }
 
-#avatar {
-  border-radius: 100%;
-  border: 1px solid #eee;
-  padding: .25rem;
+ul {
+  list-style-type: none; //square outside;
 }
-
-.col1 {
-  float: left;
-  text-align: center;
-  margin: 2rem 2rem 0 0;
-  width: 25%;
-}
-
-.col2 {
-  float: left;
-  max-width: 30em;
-  font-size: 1.25rem;
-}
-
-.recent {
-  max-width: 48rem;
-  margin: auto;
-  clear: left;
-}
-
-.recent h2 {
-  text-align: center;
-}
-
-.recent-article {
-  clear: both;
-  margin: 1rem 0 1rem 0;
-  padding: .5rem;
-  border: solid 1px #bbb;
-  border-radius: .25rem;
-  box-shadow: 2px 2px 8px 0 rgba(0,0,0,.2);
-  overflow: auto;
-}
-
-.recent-image {
-  width: 40%;
-  padding: 2rem 0;
-  float: left;
-}
-
-.recent-image img {
-  width: 100%;
-}
-
-.recent-text {
-  width: 55%;
-  float: right;
-  padding: 2rem 0 2rem 1rem;
-  color: black;
-}
-
-.recent-text h3 {
-  color: #19a974;
-}
-*/
 
 /*****************************************************************************/
 /*
@@ -156,7 +86,7 @@ footer {
 }
 
 footer p {
-  max-width: 40rem;
+  max-width: var(--max-width);
   margin: auto;
   padding: 1rem 1rem;
 }
@@ -171,83 +101,16 @@ footer a:hover, footer a:focus {
   color: white;
 }
 
-/*
-nav {
-  width: 100%;
-  border-bottom: 1px solid #eee;
-  overflow: auto;
-}
-
-#site-heading {
-  color: black;
-  font-family: "IM Fell English", Times, serif;
-  font-weight: normal;
-  font-style: italic;
-  font-size: 3rem;
-  padding: 0 3rem;
-}
-
-#nav-items {
-  float: right;
-  padding: 1rem 3rem;
-}
-
-#nav-items a {
-  padding: 0 1rem 0 1rem;
-}
-
-footer {
-  overflow: auto;
-  background-color: var(--green);
-}
-
-#footer-left {
-  float: left;
-  padding: .5rem 2rem;
-}
-
-#footer-right {
-  float: right;
-  padding: .5rem 2rem;
-}
-*/
-
-
 /*****************************************************************************/
 /*
-/* Projects
+/* Blog
 /*
 /*****************************************************************************/
 
-.projects {
-  font-size: 1.25rem;
-  text-align: center;
-  width: 80%;
-  margin: auto;
-  line-height: 1.5;
-}
-
-.projects img {
-  width: 100%;
-  margin-bottom: 10%;
-  box-shadow: 5px 10px 8px;
-  /* max-height: 80%; */
-}
-
-.posts, .projects {
+.posts {
   list-style-type: none;
   margin-bottom: 2em;
 }
-
-/*
-.page {
-  font-size: 1.25rem;
-  max-width: 40rem;
-  margin-left: auto;
-  margin-right: auto;
-  line-height: 1.5;
-}
-*/
 
 .posts li {
   line-height: 1.75em;
