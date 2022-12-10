@@ -6,27 +6,50 @@
 
 /* Global Reset */
 
+:root {
+  --green: #19a974;
+}
+
 h1, h2, h3, h4, .early-modern {
   font-family: "IM Fell English", Times, serif;
   font-weight: normal;
+  width: 100%;
+  text-align: center;
 }
 
 body {
   font-family:'avenir next', avenir, sans-serif;
+  font-size: 1.25rem;
   margin: 0;
 }
 
 a:focus, a:hover {
-  transition: opacity .15s ease-in;
-  opacity: .5;
+  transition: color .15s ease-in;
+  color: var(--green);
 }
 
 a {
   transition: opacity .15s ease-in;
   opacity: 1;
-/*  color: #33CC33;*/
-  color: #19a974;
-  text-decoration: none;
+  color: black;//var(--green);
+  text-decoration: underline var(--green) 2px;
+}
+
+main {
+  max-width: 40rem;
+  padding: 0 1rem;
+  margin: auto;
+}
+
+p {
+  margin: 1rem auto;
+  line-height: 1.5;
+}
+
+img {
+  max-width: 100%;
+  margin-bottom: 10%;
+  box-shadow: 5px 10px 8px;
 }
 
 /*****************************************************************************/
@@ -35,6 +58,7 @@ a {
 /*
 /*****************************************************************************/
 
+/*
 .site{
   line-height: 1.5;
   padding-left: 2rem;
@@ -107,6 +131,7 @@ a {
 .recent-text h3 {
   color: #19a974;
 }
+*/
 
 /*****************************************************************************/
 /*
@@ -114,6 +139,39 @@ a {
 /*
 /*****************************************************************************/
 
+nav {
+  border-bottom: 5px solid var(--green);
+  text-align: center;
+  padding: 1rem 0;
+}
+
+nav a {
+  font-size: 1.25rem;
+  padding: 0 .5rem;
+}
+
+footer {
+  overflow: auto;
+  background-color: var(--green);
+}
+
+footer p {
+  max-width: 40rem;
+  margin: auto;
+  padding: 1rem 1rem;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+footer a:hover, footer a:focus {
+  transition: none;
+  color: white;
+}
+
+/*
 nav {
   width: 100%;
   border-bottom: 1px solid #eee;
@@ -140,7 +198,7 @@ nav {
 
 footer {
   overflow: auto;
-  background-color: #19a974;
+  background-color: var(--green);
 }
 
 #footer-left {
@@ -152,10 +210,8 @@ footer {
   float: right;
   padding: .5rem 2rem;
 }
+*/
 
-footer a {
-  color: white;
-}
 
 /*****************************************************************************/
 /*
@@ -183,6 +239,7 @@ footer a {
   margin-bottom: 2em;
 }
 
+/*
 .page {
   font-size: 1.25rem;
   max-width: 40rem;
@@ -190,6 +247,7 @@ footer a {
   margin-right: auto;
   line-height: 1.5;
 }
+*/
 
 .posts li {
   line-height: 1.75em;
@@ -203,10 +261,6 @@ footer a {
 
 .posts .title {
   font-size: 125%;
-}
-
-.micro-img {
-  max-width: 400px;
 }
 
 /*****************************************************************************/
@@ -280,6 +334,8 @@ footer a {
 /*
 /*****************************************************************************/
 
+/*
+
 @media screen and (max-width: 30em) {
 
 #site-heading {
@@ -302,5 +358,4 @@ footer a {
   float: left;
   padding: .25rem;
 }
-
-}
+*/
