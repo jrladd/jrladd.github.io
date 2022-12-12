@@ -5,9 +5,9 @@ title: "John R. Ladd"
 
 # *John R. Ladd*
 
-I'm an Assistant Professor in Computing and Information Studies at <a href="https://www.washjeff.edu/programs/computing-and-information-studies-cis/" target="_blank">Washington & Jefferson College</a>, where I teach and research on the use of data across a wide variety of domains, especially in cultural and humanities contexts. Previously, I was a Postdoctoral Fellow in Digital Humanities at <a href="https://humanities.northwestern.edu/about/people/postdoctoral-fellows-here-program/index.html">Northwestern University</a>, where I worked on <a href="https://earlyprint.org" target="_blank">EarlyPrint</a>. Before that, I received my PhD in English from <a href="https://english.wustl.edu/">Washington University in St. Louis</a>.
+I'm an Assistant Professor in Computing and Information Studies at [Washington & Jefferson College](https://www.washjeff.edu/person/john-ladd/), where I [teach](/teaching) and [research](/projects) on the use of data across a wide variety of domains, especially in cultural and humanities contexts. I also build [research tools](https://networknavigator.jrladd.com/), write [data science tutorials](https://observablehq.com/@jrladd/linked-art-1), and make small, weird [web projects](https://jrladd.com/endlessmonument/).
 
-I use humanities approaches to data and network analysis to think about the long, interwoven histories of media and technology, especially in early modern literature. My current book project, <em>Network Poetics</em>, traces the history of early modern literary collaboration using social network analysis and argues that shifts in the networks of print production allowed for the emergence of new literary forms. I also work on the history of secret codes and mathematical forms in seventeenth-century literature.
+In my research I think about the long, interwoven histories of media and technology, especially in early modern literature. I'm currently working on a book about social network analysis and literary collaboration, called ***Network Poetics***, which argues that shifts in the networks of 17th century print production allowed for the emergence of new literary forms.
 
 ## Some Recent Work
 
