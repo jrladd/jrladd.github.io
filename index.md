@@ -7,7 +7,7 @@ title: "John R. Ladd"
 
 I'm an Assistant Professor in Computing and Information Studies at [Washington & Jefferson College](https://www.washjeff.edu/person/john-ladd/), where I [teach](/teaching) and [research](/projects) on the use of data across a wide variety of domains, especially in cultural and humanities contexts. I also build [research tools](https://networknavigator.jrladd.com/), write [data science tutorials](https://observablehq.com/@jrladd/linked-art-1), and make small, weird [web projects](https://jrladd.com/endlessmonument/).
 
-In my research I think about the long, interwoven histories of media and technology, especially in early modern literature. I'm currently working on a book about social network analysis and literary collaboration, called ***Network Poetics***, which argues that shifts in the networks of 17th century print production allowed for the emergence of new literary forms.
+In my research I think about the long, interwoven histories of media and technology from the early modern period to today. I'm currently working on a book about social network analysis and literary collaboration, called ***Network Poetics***, which argues that shifts in the networks of 17th century print production allowed for the emergence of new literary forms.
 
 ## Some Recent Work
 
