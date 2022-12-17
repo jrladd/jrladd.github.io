@@ -29,7 +29,7 @@ For *EarlyPrint*, a projection of ~60,000 early modern texts, using LDA "topic m
 
 ![](/images/gallery/5scatter.png)
 
-## [Endless Monument](http://twitter.com/endlessmonument).
+## [Endless Monument](https://jrladd.com/endlessmonument).
 
 [*Endless Monument*](https://jrladd.com/endlessmonument/) is an experimental poetry project that displays Edmund Spenser's *Epithalamion* one line at a time, based on the poem's own time-scheme. It began as a [Twitter bot](https://twitter.com/endlessmonument) in 2014 and has since moved to its own webpage. [[source]](https://github.com/jrladd/endlessmonument)
 

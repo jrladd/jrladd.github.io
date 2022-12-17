@@ -7,7 +7,11 @@
 /* Global Reset */
 
 :root {
-  --green: #19a974;
+//  --accent-color: #19a974;
+//  --accent-color: #FF4136;
+//  --accent-color: #357EDD;
+  //--accent-color: #FFB700;
+  --accent-color: #EAAA00;
   --max-width: 38em;
 }
 
@@ -31,14 +35,15 @@ body {
 
 a:focus, a:hover {
   transition: color .15s ease-in;
-  color: var(--green);
+  color: var(--accent-color);
 }
 
 a {
   transition: opacity .15s ease-in;
   opacity: 1;
   color: black;
-  text-decoration: underline var(--green) 2px;
+  text-decoration-color: var(--accent-color);
+  text-decoration-thickness: 2px;
 }
 
 main {
@@ -53,9 +58,9 @@ p {
 
 img {
   max-width: 100%;
-  box-shadow: 5px 10px 8px;
+  box-shadow: 5px 5px 8px;
   margin: auto;
-  margin-bottom: 10%;
+  margin-bottom: 15%;
   display: block;
 }
 
@@ -70,7 +75,7 @@ ul {
 /*****************************************************************************/
 
 nav {
-  border-bottom: 5px solid var(--green);
+  border-bottom: 5px solid var(--accent-color);
   text-align: center;
   padding: 1rem 0;
 }
@@ -82,7 +87,7 @@ nav a {
 
 footer {
   overflow: auto;
-  background-color: var(--green);
+  background-color: var(--accent-color);
 }
 
 footer p {
@@ -180,6 +185,7 @@ footer a:hover, footer a:focus {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: auto;
 }
 
 .post img + br + em {
