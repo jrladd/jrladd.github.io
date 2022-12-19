@@ -8,9 +8,6 @@
 
 :root {
 //  --accent-color: #19a974;
-//  --accent-color: #FF4136;
-//  --accent-color: #357EDD;
-  //--accent-color: #FFB700;
   --accent-color: #EAAA00;
   --max-width: 38em;
 }
@@ -44,6 +41,7 @@ a {
   color: black;
   text-decoration-color: var(--accent-color);
   text-decoration-thickness: 2px;
+  word-wrap: break-word;
 }
 
 main {
