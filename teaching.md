@@ -9,6 +9,10 @@ title: "Teaching"
 Fall 2022, Spring 2023 --- Washington & Jefferson College  
 Course website: <https://jrladd.com/CIS241/>
 
+- [CIS 397: Advanced Data Analysis: Networks](https://jrladd.com/CIS397-networks/)
+Spring 2023 --- Washington and Jefferson College
+Course website: <https://jrladd.com/CIS397-networks/>
+
 - [CIS 100: Information Technology and Society](https://jrladd.com/CIS100/)  
 Fall 2022, Spring 2023 --- Washington & Jefferson College  
 Course website: <https://jrladd.com/CIS100/>
