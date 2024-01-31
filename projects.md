@@ -53,9 +53,9 @@ A data visualization and deformance project that explores Spenser's use of color
 
 ![](/images/colorwheel.png)
 
-## Print and Probability.
+## [Print and Probability](http://printprobability.org/).
 
-While at CMU, I participated in the early stages of this project, which comprises an interdisciplinary team of literature scholars, statisticians, and computer scientists who are using optical character recognition to identify printers of early modern books based on broken type. Though I'm no longer actively working on this project, I created the prototype site pictured here in early 2018.
+While at CMU, I participated in the early stages of this project, which comprises an interdisciplinary team of literature scholars, statisticians, and computer scientists who are using optical character recognition to identify printers of early modern books based on broken type. I created the prototype site pictured here in early 2018, and I rejoined this project in 2023.
 
 ![](/images/printandprob.png)
 
