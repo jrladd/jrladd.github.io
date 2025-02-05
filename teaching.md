@@ -5,7 +5,7 @@ title: "Teaching"
 
 ## Undergraduate Courses
 
-- [CIS 241: Introduction to Data Mining](https://jrladd.com/CIS241/)  
+- [CIS 241: Introduction to Data Science](https://jrladd.com/CIS241/)  
 Fall 2022--present --- Washington & Jefferson College  
 Course website: <https://jrladd.com/CIS241/>
 
