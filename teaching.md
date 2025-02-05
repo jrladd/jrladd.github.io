@@ -10,12 +10,16 @@ Fall 2022--present --- Washington & Jefferson College
 Course website: <https://jrladd.com/CIS241/>
 
 - [CIS 345: Advanced Data Analysis: Networks](https://jrladd.com/networks/)  
-Spring 2023 & 2024 --- Washington & Jefferson College  
+Spring 2023--present --- Washington & Jefferson College  
 Course website: <https://jrladd.com/networks/>
 
-- [CIS 100: Information Technology and Society](https://jrladd.com/CIS100/)  
+- [CIS 375: Advanced Web Development](https://jrladd.com/CIS375/)  
+Spring 2025 --- Washington & Jefferson College  
+Course website: <https://jrladd.com/CIS375/>
+
+- [CIS 115: Information Technology and Society](https://jrladd.com/CIS115/)  
 Fall 2022--present --- Washington & Jefferson College  
-Course website: <https://jrladd.com/CIS100/>
+Course website: <https://jrladd.com/CIS115/>
 
 - [CIS 112: Database Concepts](https://jrladd.com/CIS112/)  
 Fall 2022--present --- Washington & Jefferson College  
