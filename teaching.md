@@ -25,6 +25,10 @@ Course website: <https://jrladd.com/CIS115/>
 Fall 2022--present --- Washington & Jefferson College  
 Course website: <https://jrladd.com/CIS112/>
 
+- [FYS: Information Overload!](https://jrladd.com/FYS/)  
+Fall 2025 --- Washington & Jefferson College  
+Course website: <https://jrladd.com/FYS/>
+
 - [DA 101: Introduction to Data Analytics](https://jrladd.com/DA101/)  
 Fall 2021, Spring 2022 --- Denison University  
 Course website: <https://jrladd.com/DA101/>
