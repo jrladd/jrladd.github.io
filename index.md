@@ -5,11 +5,21 @@ title: "John R. Ladd"
 
 # *John R. Ladd*
 
-I'm an Assistant Professor in Computing and Information Studies at [Washington & Jefferson College](https://www.washjeff.edu/person/john-ladd/), where I [teach](/teaching) and [research](/projects) on the use of data across a wide variety of domains, especially in cultural and humanities contexts. I also build [research tools](https://networknavigator.jrladd.com/), write [data science tutorials](https://observablehq.com/@jrladd/linked-art-1), and make small, weird [web projects](https://jrladd.com/endlessmonument/).
+I'm an Assistant Professor in Computing and Information Studies at [Washington & Jefferson College](https://www.washjeff.edu/person/john-ladd/), where I [teach](/teaching) and [research](/projects) on the use of data across a wide variety of domains, especially in cultural and humanities contexts. I also build [research tools](https://networknavigator.jrladd.com/), write [data science tutorials](https://colab.research.google.com/drive/1V09aQmReB1iMDuTLIWArWODGbHlOK-kQ?usp=sharing), and make small, weird [web projects](https://jrladd.com/endlessmonument/).
 
 In my research I think about the long, interwoven histories of media and technology from the early modern period to today. I'm currently working on a book about social networks and literary collaboration, called ***Network Poetics***, which argues that shifts in the networks of 17th century print production allowed for the emergence of new literary forms.
 
+I'm an active member of several long-running computational humanities projects and research groups, including [Print & Probability](https://printprobability.org/), TRACE: Tools and Resources for Analysis of Early English Books Online (see: [EarlyPrint](https://earlyprint.org/)), and the [Cultural Analytics Research & Teaching Initiative (CARTi)](https://cart-init.github.io/).
+
 ## Some Recent Work
+
+[***Edge Cases: The Making of Network Navigator and Critical Approaches to DH Tools.*** An article with Zoe LeBlanc on the role of network analysis tools as/in scholarly infrastructure. The essay details our on *Network Navigator*, a browser tool for network analysis, with special emphasis on quantitative metrics and less common visualization types.](https://doi.org/10.1515/JDH-2024-0006?locatt=label:JDHFULL)
+
+![A screenshot of Network Navigator, showing metrics and visualizations for a Game of Thrones network dataset.](images/gallery/4navigator.png)
+
+[***Working with Local LLMs (On Your Own Computer!).*** With Melanie Walsh and the *AI for Humanists* team, a tutorial for humanists who want to use large language models to complete research tasks on their own computers. Local LLMs promote greater privacy and sustainability for humanities AI research.](https://colab.research.google.com/drive/1V09aQmReB1iMDuTLIWArWODGbHlOK-kQ?usp=sharing)
+
+![A screenshot of the Colab notebook for the tutorial, showing how to create document embeddigns from lines of poetry.](images/ollama.png)
 
 [***Imaginative Networks: Tracing Connections Among Early Modern Book Dedications.*** An article for the Journal of Cultural Analytics that uses bibliographic network analysis to help understand the history of early modern print culture.](https://culturalanalytics.org/article/21993-imaginative-networks-tracing-connec-tions-among-early-modern-book-dedi-cations)
 
@@ -18,10 +28,6 @@ In my research I think about the long, interwoven histories of media and technol
 [***EarlyPrint + Python.*** A textbook for early modern text analysis in the programming language Python, built as an interactive Jupyter Book. Topics covered include TF-IDF, word vectors, and supervised text classification.](https://earlyprint.org/jupyterbook)
 
 ![A screenshot from a page of the Jupyter Book, showing a heatmap of word vectors.](images/gallery/2python.png)
-
-[***Network Navigator.*** A browser tool for network analysis, with special emphasis on quantitative metrics and less common visualization types. Redesigned in 2021 with Zoe LeBlanc.](https://networknavigator.jrladd.com)
-
-![A screenshot of Network Navigator, showing metrics and visualizations for a Game of Thrones network dataset.](images/gallery/4navigator.png)
 
 [***Exploring Linked Art.*** A series of tutorials, made in partnership with the Getty Museum, showing how to work with Linked Art, a linked open data model for cultural heritage objects. The Observable JavaScript tutorials demonstrate how to analyze artworks in Getty's Online Collections.](https://observablehq.com/@jrladd/linked-art-1)
 
