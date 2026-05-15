@@ -13,7 +13,7 @@ I'm an active member of several long-running computational humanities projects a
 
 ## Some Recent Work
 
-[***Edge Cases: The Making of Network Navigator and Critical Approaches to DH Tools.*** An article with Zoe LeBlanc on the role of network analysis tools as/in scholarly infrastructure. The essay details our on *Network Navigator*, a browser tool for network analysis, with special emphasis on quantitative metrics and less common visualization types.](https://doi.org/10.1515/JDH-2024-0006?locatt=label:JDHFULL)
+[***Edge Cases: The Making of Network Navigator and Critical Approaches to DH Tools.*** An article with Zoe LeBlanc on the role of network analysis tools as/in scholarly infrastructure. The essay details our work on *Network Navigator*, a browser tool for network analysis, with special emphasis on quantitative metrics and less common visualization types.](https://doi.org/10.1515/JDH-2024-0006?locatt=label:JDHFULL)
 
 ![A screenshot of Network Navigator, showing metrics and visualizations for a Game of Thrones network dataset.](images/gallery/4navigator.png)
 
