@@ -1,6 +1,5 @@
 name: jrladd
 markdown: kramdown
-safe: true
 lsi: false
 description: Still learning how to read.
 url: http://jrladd.com
@@ -9,6 +8,20 @@ permalink: /:title.html
 twitter_username:     johnrladd
 github_username:      jrladd
 instagram_username:    johnrladd
+
+plugins:
+  - jekyll-scholar
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+scholar:
+  source: _bibliography
+  bibliography: references.bib
+  bibliography_template: bib
+  sort_by: year
+  order: descending
+  bibtex_skip_fields: [abstract, month_numeric, category, image, file]
 
 defaults:
   - scope:

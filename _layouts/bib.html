@@ -1,0 +1,37 @@
+{% if entry.author contains 'Ladd, John R.' %}
+  {% assign pub_authors = entry.author | replace: ' and ', ', ' | replace: 'Ladd, John R.', '<strong>Ladd, John R.</strong>' %}
+{% else %}
+  {% assign pub_authors = entry.author | replace: ' and ', ', ' | replace: 'Ladd, John', '<strong>Ladd, John</strong>' %}
+{% endif %}
+<div class="pub-entry">
+  {% if entry.image %}
+  <div class="pub-image">
+    <img src="{{ entry.image }}" alt="">
+  </div>
+  {% endif %}
+  <div class="pub-body">
+    <div class="pub-title">
+      {% if entry.url %}
+        <a href="{{ entry.url }}" target="_blank" rel="noopener">{{ entry.title }}{% include external-link-icon.svg %}</a>
+      {% elsif entry.doi %}
+        <a href="https://doi.org/{{ entry.doi }}" target="_blank" rel="noopener">{{ entry.title }}{% include external-link-icon.svg %}</a>
+      {% else %}
+        {{ entry.title }}
+      {% endif %}
+    </div>
+    <div class="pub-author">{{ pub_authors }}</div>
+    <div class="pub-venue">{% if entry.journal %}{{ entry.journal }}{% elsif entry.booktitle %}{{ entry.booktitle }}{% elsif entry.howpublished %}{{ entry.howpublished }}{% endif %}{% if entry.volume %}, {{ entry.volume }}{% if entry.number %}.{{ entry.number }}{% endif %}{% endif %}{% if entry.pages %}, {{ entry.pages }}{% endif %}, {{ entry.year }}</div>
+
+    {% if entry.abstract %}
+    <details class="pub-details">
+      <summary>Abstract</summary>
+      <p>{{ entry.abstract }}</p>
+    </details>
+    {% endif %}
+
+    <details class="pub-details">
+      <summary>BibTeX</summary>
+      <pre><code>{{ entry.bibtex }}</code></pre>
+    </details>
+  </div>
+</div>

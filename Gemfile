@@ -1,2 +1,8 @@
 source 'https://rubygems.org'
-gem 'github-pages'
+
+gem 'jekyll'
+gem 'jekyll-scholar'
+gem 'jekyll-feed'
+gem 'jekyll-sitemap'
+gem 'jekyll-seo-tag'
+gem 'webrick'

@@ -37,6 +37,14 @@ I'm an active member of several long-running computational humanities projects a
 
 ![A screenshot of EarlyPrint site, showing the clusters of texts in LargeVis.](images/gallery/5scatter.png)
 
+## Publications
+
+A few of my most recent publications:
+
+{% bibliography --query @*[category!=forthcoming] -m 3 %}
+
+[See the full list →](/publications)
+
 <!--
 <main class="site">
 

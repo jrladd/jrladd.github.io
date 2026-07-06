@@ -10,6 +10,36 @@
 //  --accent-color: #19a974;
   --accent-color: #EAAA00;
   --max-width: 38em;
+  --bg-color: #ffffff;
+  --text-color: #111111;
+  --link-color: #111111;
+  --shadow-color: rgba(0, 0, 0, 0.6);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --accent-color: #cf9a3f;
+    --bg-color: #23262b;
+    --text-color: #d8d5cf;
+    --link-color: #d8d5cf;
+    --shadow-color: rgba(0, 0, 0, 0.5);
+  }
+}
+
+:root[data-theme="dark"] {
+  --accent-color: #cf9a3f;
+  --bg-color: #23262b;
+  --text-color: #d8d5cf;
+  --link-color: #d8d5cf;
+  --shadow-color: rgba(0, 0, 0, 0.5);
+}
+
+:root[data-theme="light"] {
+  --accent-color: #EAAA00;
+  --bg-color: #ffffff;
+  --text-color: #111111;
+  --link-color: #111111;
+  --shadow-color: rgba(0, 0, 0, 0.6);
 }
 
 h1, h2, h3, h4, .early-modern {
@@ -28,6 +58,9 @@ body {
   font-size: 1.25rem;
   line-height: 1.5;
   margin: 0;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color .15s ease-in, color .15s ease-in;
 }
 
 a:focus, a:hover {
@@ -38,7 +71,7 @@ a:focus, a:hover {
 a {
   transition: opacity .15s ease-in;
   opacity: 1;
-  color: black;
+  color: var(--link-color);
   text-decoration-color: var(--accent-color);
   text-decoration-thickness: 2px;
   word-wrap: break-word;
@@ -56,7 +89,7 @@ p {
 
 img {
   max-width: 100%;
-  box-shadow: 5px 5px 8px;
+  box-shadow: 5px 5px 8px var(--shadow-color);
   margin: auto;
   margin-bottom: 15%;
   display: block;
@@ -73,14 +106,110 @@ ul {
 /*****************************************************************************/
 
 nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   border-bottom: 5px solid var(--accent-color);
-  text-align: center;
   padding: 1rem 0;
 }
 
 nav a {
   font-size: 1.25rem;
   padding: 0 .5rem;
+}
+
+#theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  margin-left: 1rem;
+  padding: 0;
+  border: 1px solid var(--accent-color);
+  border-radius: 50%;
+  background: none;
+  color: var(--link-color);
+  font-size: 1.1rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+#theme-toggle:hover, #theme-toggle:focus {
+  background-color: var(--accent-color);
+}
+
+/*****************************************************************************/
+/*
+/* Publications
+/*
+/*****************************************************************************/
+
+ol.bibliography, ul.bibliography {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.bibliography li {
+  margin-bottom: 1.5rem;
+}
+
+.pub-entry {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  text-align: left;
+}
+
+.pub-image img {
+  width: 6rem;
+  box-shadow: 3px 3px 6px var(--shadow-color);
+  margin: 0;
+}
+
+.pub-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.pub-title {
+  font-weight: bold;
+}
+
+.pub-author, .pub-venue {
+  font-size: 0.9rem;
+}
+
+.pub-venue {
+  font-style: italic;
+  opacity: 0.85;
+}
+
+.external-link-icon {
+  margin-left: .3rem;
+  vertical-align: middle;
+  opacity: 0.7;
+}
+
+.pub-details {
+  margin-top: .4rem;
+  font-size: 0.85rem;
+}
+
+.pub-details summary {
+  cursor: pointer;
+  color: var(--accent-color);
+  text-align: left;
+}
+
+.pub-details pre {
+  white-space: pre-wrap;
+  overflow-x: auto;
+  font-size: 0.8rem;
+  border: 1px solid var(--accent-color);
+  padding: .5rem;
+  margin-top: .4rem;
 }
 
 footer {
