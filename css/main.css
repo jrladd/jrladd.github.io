@@ -107,10 +107,12 @@ ul {
 
 nav {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
+  row-gap: .5rem;
   border-bottom: 5px solid var(--accent-color);
-  padding: 1rem 0;
+  padding: 1rem 1rem;
 }
 
 nav a {
@@ -137,6 +139,26 @@ nav a {
 
 #theme-toggle:hover, #theme-toggle:focus {
   background-color: var(--accent-color);
+}
+
+#theme-toggle svg {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+
+@media screen and (max-width: 30em) {
+  nav {
+    padding: .75rem .5rem;
+  }
+
+  nav a {
+    font-size: 1.05rem;
+    padding: 0 .35rem;
+  }
+
+  #theme-toggle {
+    margin-left: .5rem;
+  }
 }
 
 /*****************************************************************************/
@@ -324,34 +346,3 @@ footer a:hover, footer a:focus {
   font-size: 75%;
 }
 
-/*****************************************************************************/
-/*
-/* Mobile
-/*
-/*****************************************************************************/
-
-/*
-
-@media screen and (max-width: 30em) {
-
-#site-heading {
-  display: block;
-  width: 100%;
-  text-align: center;
-  font-size: 2rem;
-  padding: 0;
-}
-#nav-items {
-  float: none;
-  padding: .5rem;
-}
-
-#nav-items a {
-  padding: 0 .5rem;
-}
-
-#footer-left, #footer-right {
-  float: left;
-  padding: .25rem;
-}
-*/
